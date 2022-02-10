@@ -3,7 +3,7 @@
     "type": "law",
     "id": "BJNR114210001",
     "firstPublished": "2001-06-19",
-    "sourceTimestamp": "20130405131121",
+    "sourceTimestamp": "20201231213706",
     "titleShort": "Untersuchungsausschussgesetz",
     "titleLong": "Gesetz zur Regelung des Rechts der Untersuchungsaussch\u00fcsse des Deutschen Bundestages",
     "abbreviation": "PUAG",
@@ -17,14 +17,14 @@
     ],
     "statusInfo": [
       {
-        "comment": "Ge\u00e4ndert durch Art. 4 Abs. 1 G v. 5.5.2004 I 718",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 12 Abs. 1 G v. 21.12.2020 I 3229",
         "category": "Stand"
       }
     ],
     "notes": {
       "body": null,
       "footnotes": null,
-      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 26.6.2001 +++)</P><P><BR/> Das G wurde als Artikel 1 G v. 19.6.2001 I 1142 vom Bundestag beschlossen und ist gem. Art. 3 dieses G mWv 26.6.2001 in Kraft getreten.</P>"
+      "documentaryFootnotes": "<P><BR/> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 26.6.2001 +++)<BR/><BR/></pre>Das G wurde als Artikel 1 G v. 19.6.2001 I 1142 vom Bundestag beschlossen und ist gem. Art. 3 dieses G mWv 26.6.2001 in Kraft getreten.</P>"
     },
     "attachments": {},
     "contents": [
@@ -370,11 +370,11 @@
       },
       {
         "type": "article",
-        "id": "BJNR114210001BJNE003401377",
+        "id": "BJNR114210001BJNE003402377",
         "name": "\u00a7 35",
         "title": "Kosten und Auslagen",
         "parent": null,
-        "body": "<P>(1) Die Kosten des Untersuchungsverfahrens tr\u00e4gt der Bund.</P><P>(2) Zeugen, Sachverst\u00e4ndige und Ermittlungsbeauftragte erhalten eine Entsch\u00e4digung oder Verg\u00fctung nach dem Justizverg\u00fctungs- und -entsch\u00e4digungsgesetz. Der Untersuchungsausschuss kann auf Antrag beschlie\u00dfen, dass Geb\u00fchren des rechtlichen Beistandes den Zeugen erstattet werden. Ermittlungsbeauftragte erhalten eine Verg\u00fctung nach der h\u00f6chsten Honorargruppe gem\u00e4\u00df \u00a7 9 Abs. 1 Satz 1 des Justizverg\u00fctungs- und -entsch\u00e4digungsgesetzes.</P><P>(3) Die Entsch\u00e4digung, die Verg\u00fctung und die Erstattung der Auslagen setzt der Pr\u00e4sident oder die Pr\u00e4sidentin des Bundestages fest.</P>",
+        "body": "<P>(1) Die Kosten des Untersuchungsverfahrens tr\u00e4gt der Bund.</P><P>(2) Zeugen, Sachverst\u00e4ndige und Ermittlungsbeauftragte erhalten eine Entsch\u00e4digung oder Verg\u00fctung nach dem Justizverg\u00fctungs- und -entsch\u00e4digungsgesetz. Der Untersuchungsausschuss kann auf Antrag beschlie\u00dfen, dass Geb\u00fchren des rechtlichen Beistandes den Zeugen erstattet werden. Ermittlungsbeauftragte erhalten eine Verg\u00fctung auf der Grundlage des h\u00f6chsten Stundensatzes nach der Anlage 1 zum Justizverg\u00fctungs- und -entsch\u00e4digungsgesetz.</P><P>(3) Die Entsch\u00e4digung, die Verg\u00fctung und die Erstattung der Auslagen setzt der Pr\u00e4sident oder die Pr\u00e4sidentin des Bundestages fest.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },

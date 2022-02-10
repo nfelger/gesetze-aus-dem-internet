@@ -3,7 +3,7 @@
     "type": "law",
     "id": "BJNR368610005",
     "firstPublished": "2005-12-22",
-    "sourceTimestamp": "20200703213054",
+    "sourceTimestamp": "20201231213831",
     "titleShort": "Aufwendungsausgleichsgesetz",
     "titleLong": "Gesetz \u00fcber den Ausgleich der Arbeitgeberaufwendungen f\u00fcr Entgeltfortzahlung",
     "abbreviation": "AAG",
@@ -19,16 +19,8 @@
     ],
     "statusInfo": [
       {
-        "comment": "Zuletzt ge\u00e4ndert durch Art. 5 G v. 6.5.2019 I 646",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 11 G v. 12.6.2020 I 1248",
         "category": "Stand"
-      },
-      {
-        "comment": "\u00c4nderung durch Art. 15 G v. 20.5.2020 I 1044 mWv 29.5.2020 (Nr. 24) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
-        "category": "Hinweis"
-      },
-      {
-        "comment": "\u00c4nderung durch Art. 11 G v. 12.6.2020 I 1248 (Nr. 28) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
-        "category": "Hinweis"
       }
     ],
     "notes": {
@@ -50,11 +42,11 @@
       },
       {
         "type": "article",
-        "id": "BJNR368610005BJNE000206360",
+        "id": "BJNR368610005BJNE000207124",
         "name": "\u00a7 2",
         "title": "Erstattung",
         "parent": null,
-        "body": "<P>(1) Die zu gew\u00e4hrenden Betr\u00e4ge werden dem Arbeitgeber von der Krankenkasse ausgezahlt, bei der die Arbeitnehmer und Arbeitnehmerinnen, die Auszubildenden oder die nach \u00a7 18 oder \u00a7 20 Absatz 1 des Mutterschutzgesetzes anspruchsberechtigten Frauen versichert sind. F\u00fcr geringf\u00fcgig Besch\u00e4ftigte nach dem Vierten Buch Sozialgesetzbuch ist zust\u00e4ndige Krankenkasse die Deutsche Rentenversicherung Knappschaft-Bahn-See als Tr\u00e4ger der knappschaftlichen Krankenversicherung. F\u00fcr Arbeitnehmer und Arbeitnehmerinnen, die nicht Mitglied einer Krankenkasse sind, gilt \u00a7 175 Abs. 3 Satz 2 des F\u00fcnften Buches Sozialgesetzbuch entsprechend.</P><P>(2) Die Erstattung wird auf Antrag erbracht. Sie ist zu gew\u00e4hren, sobald der Arbeitgeber Arbeitsentgelt nach \u00a7 3 Abs. 1 und 2 und \u00a7 9 Abs. 1 des Entgeltfortzahlungsgesetzes, Arbeitsentgelt nach \u00a7 18 des Mutterschutzgesetzes oder Zuschuss zum Mutterschaftsgeld nach \u00a7 20 Absatz 1 des Mutterschutzgesetzes gezahlt hat. Stellt die Krankenkasse eine inhaltliche Abweichung zwischen ihrer Berechnung der Erstattung und dem Antrag des Arbeitgebers fest, hat sie diese Abweichung und die Gr\u00fcnde hierf\u00fcr dem Arbeitgeber durch Daten\u00fcbertragung nach \u00a7 28a Absatz 1 Satz 3 des Vierten Buches Sozialgesetzbuch unverz\u00fcglich zu melden; dies gilt auch, wenn dem Antrag vollst\u00e4ndig entsprochen wird. \u00a7 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt entsprechend.</P><P>(3) Der Arbeitgeber hat einen Antrag nach Absatz 2 Satz 1 durch Daten\u00fcbertragung nach \u00a7 28a Absatz 1 Satz 3 und 4 des Vierten Buches Sozialgesetzbuch an die zust\u00e4ndige Krankenkasse zu \u00fcbermitteln. \u00a7 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt f\u00fcr die Meldung nach Satz 1 entsprechend.</P><P>(4) Den \u00dcbertragungsweg und die Einzelheiten des Verfahrens wie den Aufbau der Datens\u00e4tze f\u00fcr die maschinellen Meldungen der Krankenkassen nach Absatz 2 und die maschinellen Antr\u00e4ge der Arbeitgeber nach Absatz 3 legt der Spitzenverband Bund der Krankenkassen in Grunds\u00e4tzen fest, die vom Bundesministerium f\u00fcr Arbeit und Soziales im Einvernehmen mit dem Bundesministerium f\u00fcr Gesundheit zu genehmigen sind; die Bundesvereinigung der Deutschen Arbeitgeberverb\u00e4nde ist anzuh\u00f6ren.</P>",
+        "body": "<P>(1) Die zu gew\u00e4hrenden Betr\u00e4ge werden dem Arbeitgeber von der Krankenkasse ausgezahlt, bei der die Arbeitnehmer und Arbeitnehmerinnen, die Auszubildenden oder die nach \u00a7 18 oder \u00a7 20 Absatz 1 des Mutterschutzgesetzes anspruchsberechtigten Frauen versichert sind. F\u00fcr geringf\u00fcgig Besch\u00e4ftigte nach dem Vierten Buch Sozialgesetzbuch ist zust\u00e4ndige Krankenkasse die Deutsche Rentenversicherung Knappschaft-Bahn-See als Tr\u00e4ger der knappschaftlichen Krankenversicherung. F\u00fcr Arbeitnehmer und Arbeitnehmerinnen, die nicht Mitglied einer Krankenkasse sind, gilt \u00a7 175 Abs. 3 Satz 2 des F\u00fcnften Buches Sozialgesetzbuch entsprechend.</P><P>(2) Die Erstattung wird auf Antrag erbracht. Sie ist zu gew\u00e4hren, sobald der Arbeitgeber Arbeitsentgelt nach \u00a7 3 Abs. 1 und 2 und \u00a7 9 Abs. 1 des Entgeltfortzahlungsgesetzes, Arbeitsentgelt nach \u00a7 18 des Mutterschutzgesetzes oder Zuschuss zum Mutterschaftsgeld nach \u00a7 20 Absatz 1 des Mutterschutzgesetzes gezahlt hat. Stellt die Krankenkasse eine inhaltliche Abweichung zwischen ihrer Berechnung der Erstattung und dem Antrag des Arbeitgebers fest, hat sie diese Abweichung und die Gr\u00fcnde hierf\u00fcr dem Arbeitgeber durch Daten\u00fcbertragung nach \u00a7 28a Absatz 1a Satz 1 des Vierten Buches Sozialgesetzbuch unverz\u00fcglich zu melden; dies gilt auch, wenn dem Antrag vollst\u00e4ndig entsprochen wird. \u00a7 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt entsprechend.</P><P>(3) Der Arbeitgeber hat einen Antrag nach Absatz 2 Satz 1 durch Daten\u00fcbertragung nach \u00a7 28a Absatz 1a Satz 1 und \u00a7 95b Absatz 1 Satz 1 des Vierten Buches Sozialgesetzbuch an die zust\u00e4ndige Krankenkasse zu \u00fcbermitteln. \u00a7 28a Absatz 1 Satz 2 des Vierten Buches Sozialgesetzbuch gilt f\u00fcr die Meldung nach Satz 1 entsprechend.</P><P>(4) Den \u00dcbertragungsweg und die Einzelheiten des Verfahrens wie den Aufbau der Datens\u00e4tze f\u00fcr die maschinellen Meldungen der Krankenkassen nach Absatz 2 und die maschinellen Antr\u00e4ge der Arbeitgeber nach Absatz 3 legt der Spitzenverband Bund der Krankenkassen in Grunds\u00e4tzen fest, die vom Bundesministerium f\u00fcr Arbeit und Soziales im Einvernehmen mit dem Bundesministerium f\u00fcr Gesundheit zu genehmigen sind; die Bundesvereinigung der Deutschen Arbeitgeberverb\u00e4nde ist anzuh\u00f6ren.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },

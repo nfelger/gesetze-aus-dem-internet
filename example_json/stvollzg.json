@@ -3,7 +3,7 @@
     "type": "law",
     "id": "BJNR005810976",
     "firstPublished": "1976-03-16",
-    "sourceTimestamp": "20200415212502",
+    "sourceTimestamp": "20220208212505",
     "titleShort": "Strafvollzugsgesetz",
     "titleLong": "Gesetz \u00fcber den Vollzug der Freiheitsstrafe und der freiheitsentziehenden Ma\u00dfregeln der Besserung und Sicherung",
     "abbreviation": "StVollzG",
@@ -17,7 +17,7 @@
     ],
     "statusInfo": [
       {
-        "comment": "Zuletzt ge\u00e4ndert durch Art. 7 G v. 9.12.2019 I 2146",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 27 G v. 5.10.2021 I 4607",
         "category": "Stand"
       }
     ],
@@ -1822,27 +1822,27 @@
       },
       {
         "type": "article",
-        "id": "BJNR005810976BJNE025100308",
+        "id": "BJNR005810976BJNE025101125",
         "name": "\u00a7 119a",
         "title": "Strafvollzugsbegleitende gerichtliche Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung",
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG001601125"
         },
-        "body": "<P>(1) Ist die Unterbringung in der Sicherungsverwahrung angeordnet oder vorbehalten, stellt das Gericht w\u00e4hrend des Vollzuges der Freiheitsstrafe nach Ablauf der in Absatz 3 genannten Fristen von Amts wegen fest, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob die Vollzugsbeh\u00f6rde dem Gefangenen im zur\u00fcckliegenden Zeitraum eine Betreuung angeboten hat, die \u00a7 66c Absatz 2 in Verbindung mit Absatz 1 Nummer 1 des Strafgesetzbuches entspricht;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit die Betreuung nicht den in Nummer 1 genannten Anforderungen entsprochen hat, welche bestimmten Ma\u00dfnahmen die Vollzugsbeh\u00f6rde dem Gefangenen bei sich nicht wesentlich \u00e4ndernder Sachlage k\u00fcnftig anzubieten hat, um den gesetzlichen Anforderungen an die Betreuung zu gen\u00fcgen.</LA></DD></DL></P><P>(2) Die Vollzugsbeh\u00f6rde kann jederzeit eine Entscheidung nach Absatz 1 beantragen, sofern hieran ein berechtigtes Interesse besteht. Nach der erstmaligen Aufstellung oder einer wesentlichen \u00c4nderung des Vollzugsplans kann die Vollzugsbeh\u00f6rde auch beantragen, festzustellen, ob die im Vollzugsplan vorgesehenen Ma\u00dfnahmen im Falle ihres Angebots bei sich nicht wesentlich \u00e4ndernder Sachlage eine dem \u00a7 66c Absatz 2 in Verbindung mit Absatz 1 Nummer 1 des Strafgesetzbuches entsprechende Betreuung darstellen w\u00fcrden; in diesem Fall hat das Gericht die Feststellungen nach Absatz 1 auch zu treffen, wenn die Frist gem\u00e4\u00df Absatz 3 noch nicht abgelaufen ist.</P><P>(3) Entscheidungen von Amts wegen sind alle zwei Jahre zu treffen. Das Gericht kann bei einer Entscheidung nach Absatz 1, auch in Verbindung mit Absatz 2 Satz 2, im Hinblick auf die Gesamtdauer der noch zu vollziehenden Freiheitsstrafe eine l\u00e4ngere Frist festsetzen, die f\u00fcnf Jahre nicht \u00fcberschreiten darf. Die Frist f\u00fcr die erste Entscheidung von Amts wegen beginnt mit dem Vollzug der Freiheitsstrafe zu laufen, die Frist f\u00fcr jede weitere mit Bekanntgabe einer erstinstanzlichen Entscheidung nach Absatz 1.</P><P>(4) Die Strafvollstreckungskammer ist bei Entscheidungen nach den Abs\u00e4tzen 1 und 2 Satz 2 mit drei Richtern unter Einschluss des Vorsitzenden besetzt.</P><P>(5) Gegen die gerichtliche Entscheidung ist die Beschwerde zul\u00e4ssig.</P><P>(6) F\u00fcr das gerichtliche Verfahren ist dem Gefangenen von Amts wegen ein Rechtsanwalt beizuordnen. Vor einer Entscheidung sind der Gefangene, die Vollzugsbeh\u00f6rde und die Vollstreckungsbeh\u00f6rde anzuh\u00f6ren. Im \u00dcbrigen gelten \u00a7 109 Absatz 3 Satz 2, die \u00a7\u00a7 110, 111, 115 Absatz 1 Satz 1 und 2 sowie die \u00a7\u00a7 117, 118 Absatz 1 Satz 1, \u00a7 119 Absatz 1 und 5 entsprechend.</P><P>(7) Alle Gerichte sind bei nachfolgenden Entscheidungen an die rechtskr\u00e4ftigen Feststellungen nach den Abs\u00e4tzen 1 und 2 Satz 2 gebunden.</P>",
+        "body": "<P>(1) Ist die Unterbringung in der Sicherungsverwahrung angeordnet oder vorbehalten, stellt das Gericht w\u00e4hrend des Vollzuges der Freiheitsstrafe nach Ablauf der in Absatz 3 genannten Fristen von Amts wegen fest, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob die Vollzugsbeh\u00f6rde dem Gefangenen im zur\u00fcckliegenden Zeitraum eine Betreuung angeboten hat, die \u00a7 66c Absatz 2 in Verbindung mit Absatz 1 Nummer 1 des Strafgesetzbuches entspricht;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit die Betreuung nicht den in Nummer 1 genannten Anforderungen entsprochen hat, welche bestimmten Ma\u00dfnahmen die Vollzugsbeh\u00f6rde dem Gefangenen bei sich nicht wesentlich \u00e4ndernder Sachlage k\u00fcnftig anzubieten hat, um den gesetzlichen Anforderungen an die Betreuung zu gen\u00fcgen.</LA></DD></DL></P><P>(2) Die Vollzugsbeh\u00f6rde kann jederzeit eine Entscheidung nach Absatz 1 beantragen, sofern hieran ein berechtigtes Interesse besteht. Nach der erstmaligen Aufstellung oder einer wesentlichen \u00c4nderung des Vollzugsplans kann die Vollzugsbeh\u00f6rde auch beantragen, festzustellen, ob die im Vollzugsplan vorgesehenen Ma\u00dfnahmen im Falle ihres Angebots bei sich nicht wesentlich \u00e4ndernder Sachlage eine dem \u00a7 66c Absatz 2 in Verbindung mit Absatz 1 Nummer 1 des Strafgesetzbuches entsprechende Betreuung darstellen w\u00fcrden; in diesem Fall hat das Gericht die Feststellungen nach Absatz 1 auch zu treffen, wenn die Frist gem\u00e4\u00df Absatz 3 noch nicht abgelaufen ist.</P><P>(3) Entscheidungen von Amts wegen sind alle zwei Jahre zu treffen. Das Gericht kann bei einer Entscheidung nach Absatz 1, auch in Verbindung mit Absatz 2 Satz 2, im Hinblick auf die Gesamtdauer der noch zu vollziehenden Freiheitsstrafe eine l\u00e4ngere Frist festsetzen, die f\u00fcnf Jahre nicht \u00fcberschreiten darf. Die Frist f\u00fcr die erste Entscheidung von Amts wegen beginnt mit dem Vollzug der Freiheitsstrafe zu laufen, die Frist f\u00fcr jede weitere mit Bekanntgabe einer erstinstanzlichen Entscheidung nach Absatz 1.</P><P>(4) Die Strafvollstreckungskammer ist bei Entscheidungen nach den Abs\u00e4tzen 1 und 2 Satz 2 mit drei Richtern unter Einschluss des Vorsitzenden besetzt.</P><P>(5) Gegen die gerichtliche Entscheidung ist die Beschwerde zul\u00e4ssig.</P><P>(6) F\u00fcr das gerichtliche Verfahren ist dem Gefangenen von Amts wegen ein Rechtsanwalt beizuordnen. Vor einer Entscheidung sind der Gefangene, die Vollzugsbeh\u00f6rde und die Vollstreckungsbeh\u00f6rde anzuh\u00f6ren. Im \u00dcbrigen gelten \u00a7 109 Absatz 3 Satz 2, die \u00a7\u00a7 110 und 110a sowie die auf dessen Grundlage erlassenen Rechtsverordnungen, die \u00a7\u00a7, 111, 115 Absatz 1 Satz 1 und 2 sowie die \u00a7\u00a7 117, 118 Absatz 1 Satz 1, \u00a7 119 Absatz 1 und 5 entsprechend.</P><P>(7) Alle Gerichte sind bei nachfolgenden Entscheidungen an die rechtskr\u00e4ftigen Feststellungen nach den Abs\u00e4tzen 1 und 2 Satz 2 gebunden.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },
       {
         "type": "article",
-        "id": "BJNR005810976BJNE016103311",
+        "id": "BJNR005810976BJNE016104125",
         "name": "\u00a7 120",
         "title": "Entsprechende Anwendung anderer Vorschriften",
         "parent": {
           "type": "heading",
           "id": "BJNR005810976BJNG001601125"
         },
-        "body": "<P>(1) Kommt die Beh\u00f6rde in den F\u00e4llen des \u00a7 114 Absatz 2 Satz 2 sowie des \u00a7 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen Anordnung oder im Beschluss auferlegten Verpflichtung nicht nach, gilt \u00a7 172 der Verwaltungsgerichtsordnung entsprechend. Im \u00dcbrigen sind die Vorschriften der Strafprozessordnung und die auf der Grundlage des \u00a7 32a Absatz 2 Satz 2 und Absatz 4 Nummer 4, des \u00a7 32b Absatz 5 und des \u00a7 32f Absatz 6 der Strafprozessordnung erlassenen Rechtsverordnungen entsprechend anzuwenden, soweit sich aus diesem Gesetz nichts anderes ergibt.</P><P>(2) Auf die Bewilligung der Proze\u00dfkostenhilfe sind die Vorschriften der Zivilproze\u00dfordnung entsprechend anzuwenden.</P>",
+        "body": "<P>(1) Kommt die Beh\u00f6rde in den F\u00e4llen des \u00a7 114 Absatz 2 Satz 2 sowie des \u00a7 115 Absatz 2 Satz 2 und Absatz 4 der ihr in der einstweiligen Anordnung oder im Beschluss auferlegten Verpflichtung nicht nach, gilt \u00a7 172 der Verwaltungsgerichtsordnung entsprechend. Im \u00dcbrigen sind die Vorschriften der Strafprozessordnung und die auf der Grundlage des \u00a7 32a Absatz 2 Satz 2 und Absatz 4 Satz 1 Nummer 6, des \u00a7 32b Absatz 5 und des \u00a7 32f Absatz 6 der Strafprozessordnung erlassenen Rechtsverordnungen entsprechend anzuwenden, soweit sich aus diesem Gesetz nichts anderes ergibt.</P><P>(2) Auf die Bewilligung der Proze\u00dfkostenhilfe sind die Vorschriften der Zivilproze\u00dfordnung entsprechend anzuwenden.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },

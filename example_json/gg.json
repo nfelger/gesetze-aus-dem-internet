@@ -3,7 +3,7 @@
     "type": "law",
     "id": "BJNR000010949",
     "firstPublished": "1949-05-23",
-    "sourceTimestamp": "20191120212501",
+    "sourceTimestamp": "20201231213502",
     "titleShort": null,
     "titleLong": "Grundgesetz f\u00fcr die Bundesrepublik Deutschland",
     "abbreviation": "GG",
@@ -17,7 +17,7 @@
     ],
     "statusInfo": [
       {
-        "comment": "Zuletzt ge\u00e4ndert durch Art. 1 G v. 15.11.2019 I 1546",
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 1 u. 2 Satz 2 G v. 29.9.2020 I 2048",
         "category": "Stand"
       }
     ],
@@ -1809,14 +1809,14 @@
       },
       {
         "type": "article",
-        "id": "BJNR000010949BJNE013601377",
+        "id": "BJNR000010949BJNE013602377",
         "name": "Art 104a",
         "title": null,
         "parent": {
           "type": "heading",
           "id": "BJNR000010949BJNG001200314"
         },
-        "body": "<P>(1) Der Bund und die L\u00e4nder tragen gesondert die Ausgaben, die sich aus der Wahrnehmung ihrer Aufgaben ergeben, soweit dieses Grundgesetz nichts anderes bestimmt.</P><P>(2) Handeln die L\u00e4nder im Auftrage des Bundes, tr\u00e4gt der Bund die sich daraus ergebenden Ausgaben.</P><P>(3) Bundesgesetze, die Geldleistungen gew\u00e4hren und von den L\u00e4ndern ausgef\u00fchrt werden, k\u00f6nnen bestimmen, da\u00df die Geldleistungen ganz oder zum Teil vom Bund getragen werden. Bestimmt das Gesetz, da\u00df der Bund die H\u00e4lfte der Ausgaben oder mehr tr\u00e4gt, wird es im Auftrage des Bundes durchgef\u00fchrt.</P><P>(4) Bundesgesetze, die Pflichten der L\u00e4nder zur Erbringung von Geldleistungen, geldwerten Sachleistungen oder vergleichbaren Dienstleistungen gegen\u00fcber Dritten begr\u00fcnden und von den L\u00e4ndern als eigene Angelegenheit oder nach Absatz 3 Satz 2 im Auftrag des Bundes ausgef\u00fchrt werden, bed\u00fcrfen der Zustimmung des Bundesrates, wenn daraus entstehende Ausgaben von den L\u00e4ndern zu tragen sind.</P><P>(5) Der Bund und die L\u00e4nder tragen die bei ihren Beh\u00f6rden entstehenden Verwaltungsausgaben und haften im Verh\u00e4ltnis zueinander f\u00fcr eine ordnungsm\u00e4\u00dfige Verwaltung. Das N\u00e4here bestimmt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.</P><P>(6) Bund und L\u00e4nder tragen nach der innerstaatlichen Zust\u00e4ndigkeits- und Aufgabenverteilung die Lasten einer Verletzung von supranationalen oder v\u00f6lkerrechtlichen Verpflichtungen Deutschlands. In F\u00e4llen l\u00e4nder\u00fcbergreifender Finanzkorrekturen der Europ\u00e4ischen Union tragen Bund und L\u00e4nder diese Lasten im Verh\u00e4ltnis 15 zu 85. Die L\u00e4ndergesamtheit tr\u00e4gt in diesen F\u00e4llen solidarisch 35 vom Hundert der Gesamtlasten entsprechend einem allgemeinen Schl\u00fcssel; 50 vom Hundert der Gesamtlasten tragen die L\u00e4nder, die die Lasten verursacht haben, anteilig entsprechend der H\u00f6he der erhaltenen Mittel. Das N\u00e4here regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.</P>",
+        "body": "<P>(1) Der Bund und die L\u00e4nder tragen gesondert die Ausgaben, die sich aus der Wahrnehmung ihrer Aufgaben ergeben, soweit dieses Grundgesetz nichts anderes bestimmt.</P><P>(2) Handeln die L\u00e4nder im Auftrage des Bundes, tr\u00e4gt der Bund die sich daraus ergebenden Ausgaben.</P><P>(3) Bundesgesetze, die Geldleistungen gew\u00e4hren und von den L\u00e4ndern ausgef\u00fchrt werden, k\u00f6nnen bestimmen, da\u00df die Geldleistungen ganz oder zum Teil vom Bund getragen werden. Bestimmt das Gesetz, da\u00df der Bund die H\u00e4lfte der Ausgaben oder mehr tr\u00e4gt, wird es im Auftrage des Bundes durchgef\u00fchrt. Bei der Gew\u00e4hrung von Leistungen f\u00fcr Unterkunft und Heizung auf dem Gebiet der Grundsicherung f\u00fcr Arbeitsuchende wird das Gesetz im Auftrage des Bundes ausgef\u00fchrt, wenn der Bund drei Viertel der Ausgaben oder mehr tr\u00e4gt.</P><P>(4) Bundesgesetze, die Pflichten der L\u00e4nder zur Erbringung von Geldleistungen, geldwerten Sachleistungen oder vergleichbaren Dienstleistungen gegen\u00fcber Dritten begr\u00fcnden und von den L\u00e4ndern als eigene Angelegenheit oder nach Absatz 3 Satz 2 im Auftrag des Bundes ausgef\u00fchrt werden, bed\u00fcrfen der Zustimmung des Bundesrates, wenn daraus entstehende Ausgaben von den L\u00e4ndern zu tragen sind.</P><P>(5) Der Bund und die L\u00e4nder tragen die bei ihren Beh\u00f6rden entstehenden Verwaltungsausgaben und haften im Verh\u00e4ltnis zueinander f\u00fcr eine ordnungsm\u00e4\u00dfige Verwaltung. Das N\u00e4here bestimmt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.</P><P>(6) Bund und L\u00e4nder tragen nach der innerstaatlichen Zust\u00e4ndigkeits- und Aufgabenverteilung die Lasten einer Verletzung von supranationalen oder v\u00f6lkerrechtlichen Verpflichtungen Deutschlands. In F\u00e4llen l\u00e4nder\u00fcbergreifender Finanzkorrekturen der Europ\u00e4ischen Union tragen Bund und L\u00e4nder diese Lasten im Verh\u00e4ltnis 15 zu 85. Die L\u00e4ndergesamtheit tr\u00e4gt in diesen F\u00e4llen solidarisch 35 vom Hundert der Gesamtlasten entsprechend einem allgemeinen Schl\u00fcssel; 50 vom Hundert der Gesamtlasten tragen die L\u00e4nder, die die Lasten verursacht haben, anteilig entsprechend der H\u00f6he der erhaltenen Mittel. Das N\u00e4here regelt ein Bundesgesetz, das der Zustimmung des Bundesrates bedarf.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },

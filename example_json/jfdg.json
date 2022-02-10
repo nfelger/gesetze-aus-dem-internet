@@ -3,7 +3,7 @@
     "type": "law",
     "id": "BJNR084210008",
     "firstPublished": "2008-05-16",
-    "sourceTimestamp": "20200403212528",
+    "sourceTimestamp": "20211124213514",
     "titleShort": "Jugendfreiwilligendienstegesetz",
     "titleLong": "Gesetz zur F\u00f6rderung von Jugendfreiwilligendiensten",
     "abbreviation": "JFDG",
@@ -19,6 +19,18 @@
       {
         "comment": "Zuletzt ge\u00e4ndert durch Art. 47 G v. 12.12.2019 I 2652",
         "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 79 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 80 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "Mittelbare \u00c4nderung durch Art. 89 Nr. 8 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
       }
     ],
     "notes": {
@@ -155,6 +167,16 @@
         "title": "Anwendung arbeitsrechtlicher und arbeitsschutzrechtlicher Bestimmungen",
         "parent": null,
         "body": "<P>F\u00fcr eine T\u00e4tigkeit im Rahmen eines Jugendfreiwilligendienstes im Sinne dieses Gesetzes sind die Arbeitsschutzbestimmungen und das Bundesurlaubsgesetz entsprechend anzuwenden. F\u00fcr Sch\u00e4den bei der Aus\u00fcbung ihrer T\u00e4tigkeit haften Freiwillige nur wie Arbeitnehmerinnen und Arbeitnehmer.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR084210008BJNE001401116",
+        "name": "\u00a7 14",
+        "title": "(weggefallen)",
+        "parent": null,
+        "body": null,
         "footnotes": null,
         "documentaryFootnotes": null
       },

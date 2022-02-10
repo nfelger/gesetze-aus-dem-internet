@@ -3,7 +3,7 @@
     "type": "law",
     "id": "BJNR012530976",
     "firstPublished": "1976-05-25",
-    "sourceTimestamp": "20200528213007",
+    "sourceTimestamp": "20210731213028",
     "titleShort": null,
     "titleLong": "Verwaltungsverfahrensgesetz",
     "abbreviation": "VwVfG",
@@ -21,8 +21,12 @@
         "category": "Neuf"
       },
       {
-        "comment": "zuletzt ge\u00e4ndert durch Art. 5 Abs. 25 G v. 21.6.2019 I 846",
+        "comment": "zuletzt ge\u00e4ndert durch Art. 15 Abs. 1 G v. 4.5.2021 I 882",
         "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 24 Abs. 3 G v. 25.6.2021 I 2154 (Nr. 38) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
       },
       {
         "comment": "Mittelbare \u00c4nderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausf\u00fchrbar, da das ge\u00e4nderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren \u00c4nderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war",
@@ -60,7 +64,10 @@
         "id": "BJNR012530976BJNG002100310",
         "name": "Abschnitt 1",
         "title": "Anwendungsbereich, \u00f6rtliche Zust\u00e4ndigkeit, elektronische Kommunikation",
-        "parent": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012530976BJNG000104310"
+        },
         "footnotes": null,
         "documentaryFootnotes": null
       },
@@ -286,7 +293,7 @@
         "title": "Verfahrensgrunds\u00e4tze",
         "parent": {
           "type": "heading",
-          "id": "BJNR012530976BJNG002100310"
+          "id": "BJNR012530976BJNG000202301"
         },
         "footnotes": null,
         "documentaryFootnotes": null
@@ -527,14 +534,14 @@
       },
       {
         "type": "article",
-        "id": "BJNR012530976BJNE004702301",
+        "id": "BJNR012530976BJNE004703116",
         "name": "\u00a7 27",
         "title": "Versicherung an Eides statt",
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG000302301"
         },
-        "body": "<P>(1) Die Beh\u00f6rde darf bei der Ermittlung des Sachverhalts eine Versicherung an Eides statt nur verlangen und abnehmen, wenn die Abnahme der Versicherung \u00fcber den betreffenden Gegenstand und in dem betreffenden Verfahren durch Gesetz oder Rechtsverordnung vorgesehen und die Beh\u00f6rde durch Rechtsvorschrift f\u00fcr zust\u00e4ndig erkl\u00e4rt worden ist. Eine Versicherung an Eides statt soll nur gefordert werden, wenn andere Mittel zur Erforschung der Wahrheit nicht vorhanden sind, zu keinem Ergebnis gef\u00fchrt haben oder einen unverh\u00e4ltnism\u00e4\u00dfigen Aufwand erfordern. Von eidesunf\u00e4higen Personen im Sinne des \u00a7 393 der Zivilprozessordnung darf eine eidesstattliche Versicherung nicht verlangt werden.</P><P>(2) Wird die Versicherung an Eides statt von einer Beh\u00f6rde zur Niederschrift aufgenommen, so sind zur Aufnahme nur der Beh\u00f6rdenleiter, sein allgemeiner Vertreter sowie Angeh\u00f6rige des \u00f6ffentlichen Dienstes befugt, welche die Bef\u00e4higung zum Richteramt haben oder die Voraussetzungen des \u00a7 110 Satz 1 des Deutschen Richtergesetzes erf\u00fcllen. Andere Angeh\u00f6rige des \u00f6ffentlichen Dienstes kann der Beh\u00f6rdenleiter oder sein allgemeiner Vertreter hierzu allgemein oder im Einzelfall schriftlich erm\u00e4chtigen.</P><P>(3) Die Versicherung besteht darin, dass der Versichernde die Richtigkeit seiner Erkl\u00e4rung \u00fcber den betreffenden Gegenstand best\u00e4tigt und erkl\u00e4rt: \"Ich versichere an Eides statt, dass ich nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe.\" Bevollm\u00e4chtigte und Beist\u00e4nde sind berechtigt, an der Aufnahme der Versicherung an Eides statt teilzunehmen.</P><P>(4) Vor der Aufnahme der Versicherung an Eides statt ist der Versichernde \u00fcber die Bedeutung der eidesstattlichen Versicherung und die strafrechtlichen Folgen einer unrichtigen oder unvollst\u00e4ndigen eidesstattlichen Versicherung zu belehren. Die Belehrung ist in der Niederschrift zu vermerken.</P><P>(5) Die Niederschrift hat ferner die Namen der anwesenden Personen sowie den Ort und den Tag der Niederschrift zu enthalten. Die Niederschrift ist demjenigen, der die eidesstattliche Versicherung abgibt, zur Genehmigung vorzulesen oder auf Verlangen zur Durchsicht vorzulegen. Die erteilte Genehmigung ist zu vermerken und von dem Versichernden zu unterschreiben. Die Niederschrift ist sodann von demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie von dem Schriftf\u00fchrer zu unterschreiben.</P>",
+        "body": "<P>(1) Die Beh\u00f6rde darf bei der Ermittlung des Sachverhalts eine Versicherung an Eides statt nur verlangen und abnehmen, wenn die Abnahme der Versicherung \u00fcber den betreffenden Gegenstand und in dem betreffenden Verfahren durch Gesetz oder Rechtsverordnung vorgesehen und die Beh\u00f6rde durch Rechtsvorschrift f\u00fcr zust\u00e4ndig erkl\u00e4rt worden ist. Eine Versicherung an Eides statt soll nur gefordert werden, wenn andere Mittel zur Erforschung der Wahrheit nicht vorhanden sind, zu keinem Ergebnis gef\u00fchrt haben oder einen unverh\u00e4ltnism\u00e4\u00dfigen Aufwand erfordern. Von eidesunf\u00e4higen Personen im Sinne des \u00a7 393 der Zivilprozessordnung darf eine eidesstattliche Versicherung nicht verlangt werden.</P><P>(2) Wird die Versicherung an Eides statt von einer Beh\u00f6rde zur Niederschrift aufgenommen, so sind zur Aufnahme nur der Beh\u00f6rdenleiter, sein allgemeiner Vertreter sowie Angeh\u00f6rige des \u00f6ffentlichen Dienstes befugt, welche die Bef\u00e4higung zum Richteramt haben. Andere Angeh\u00f6rige des \u00f6ffentlichen Dienstes kann der Beh\u00f6rdenleiter oder sein allgemeiner Vertreter hierzu allgemein oder im Einzelfall schriftlich erm\u00e4chtigen.</P><P>(3) Die Versicherung besteht darin, dass der Versichernde die Richtigkeit seiner Erkl\u00e4rung \u00fcber den betreffenden Gegenstand best\u00e4tigt und erkl\u00e4rt: \"Ich versichere an Eides statt, dass ich nach bestem Wissen die reine Wahrheit gesagt und nichts verschwiegen habe.\" Bevollm\u00e4chtigte und Beist\u00e4nde sind berechtigt, an der Aufnahme der Versicherung an Eides statt teilzunehmen.</P><P>(4) Vor der Aufnahme der Versicherung an Eides statt ist der Versichernde \u00fcber die Bedeutung der eidesstattlichen Versicherung und die strafrechtlichen Folgen einer unrichtigen oder unvollst\u00e4ndigen eidesstattlichen Versicherung zu belehren. Die Belehrung ist in der Niederschrift zu vermerken.</P><P>(5) Die Niederschrift hat ferner die Namen der anwesenden Personen sowie den Ort und den Tag der Niederschrift zu enthalten. Die Niederschrift ist demjenigen, der die eidesstattliche Versicherung abgibt, zur Genehmigung vorzulesen oder auf Verlangen zur Durchsicht vorzulegen. Die erteilte Genehmigung ist zu vermerken und von dem Versichernden zu unterschreiben. Die Niederschrift ist sodann von demjenigen, der die Versicherung an Eides statt aufgenommen hat, sowie von dem Schriftf\u00fchrer zu unterschreiben.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },
@@ -1099,14 +1106,14 @@
       },
       {
         "type": "article",
-        "id": "BJNR012530976BJNE008104301",
+        "id": "BJNR012530976BJNE008105116",
         "name": "\u00a7 61",
         "title": "Unterwerfung unter die sofortige Vollstreckung",
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG001002301"
         },
-        "body": "<P>(1) Jeder Vertragschlie\u00dfende kann sich der sofortigen Vollstreckung aus einem \u00f6ffentlich-rechtlichen Vertrag im Sinne des \u00a7 54 Satz 2 unterwerfen. Die Beh\u00f6rde muss hierbei von dem Beh\u00f6rdenleiter, seinem allgemeinen Vertreter oder einem Angeh\u00f6rigen des \u00f6ffentlichen Dienstes, der die Bef\u00e4higung zum Richteramt hat oder die Voraussetzungen des \u00a7 110 Satz 1 des Deutschen Richtergesetzes erf\u00fcllt, vertreten werden.</P><P>(2) Auf \u00f6ffentlich-rechtliche Vertr\u00e4ge im Sinne des Absatzes 1 Satz 1 ist das Verwaltungs-Vollstreckungsgesetz des Bundes entsprechend anzuwenden, wenn Vertragschlie\u00dfender eine Beh\u00f6rde im Sinne des \u00a7 1 Abs. 1 Nr. 1 ist. Will eine nat\u00fcrliche oder juristische Person des Privatrechts oder eine nichtrechtsf\u00e4hige Vereinigung die Vollstreckung wegen einer Geldforderung betreiben, so ist \u00a7 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine Beh\u00f6rde im Sinne des \u00a7 1 Abs. 1 Nr. 2, so ist \u00a7 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.</P>",
+        "body": "<P>(1) Jeder Vertragschlie\u00dfende kann sich der sofortigen Vollstreckung aus einem \u00f6ffentlich-rechtlichen Vertrag im Sinne des \u00a7 54 Satz 2 unterwerfen. Die Beh\u00f6rde muss hierbei von dem Beh\u00f6rdenleiter, seinem allgemeinen Vertreter oder einem Angeh\u00f6rigen des \u00f6ffentlichen Dienstes, der die Bef\u00e4higung zum Richteramt hat, vertreten werden.</P><P>(2) Auf \u00f6ffentlich-rechtliche Vertr\u00e4ge im Sinne des Absatzes 1 Satz 1 ist das Verwaltungs-Vollstreckungsgesetz des Bundes entsprechend anzuwenden, wenn Vertragschlie\u00dfender eine Beh\u00f6rde im Sinne des \u00a7 1 Abs. 1 Nr. 1 ist. Will eine nat\u00fcrliche oder juristische Person des Privatrechts oder eine nichtrechtsf\u00e4hige Vereinigung die Vollstreckung wegen einer Geldforderung betreiben, so ist \u00a7 170 Abs. 1 bis 3 der Verwaltungsgerichtsordnung entsprechend anzuwenden. Richtet sich die Vollstreckung wegen der Erzwingung einer Handlung, Duldung oder Unterlassung gegen eine Beh\u00f6rde im Sinne des \u00a7 1 Abs. 1 Nr. 2, so ist \u00a7 172 der Verwaltungsgerichtsordnung entsprechend anzuwenden.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },
@@ -1172,14 +1179,14 @@
       },
       {
         "type": "article",
-        "id": "BJNR012530976BJNE008502301",
+        "id": "BJNR012530976BJNE008503116",
         "name": "\u00a7 65",
         "title": "Mitwirkung von Zeugen und Sachverst\u00e4ndigen",
         "parent": {
           "type": "heading",
           "id": "BJNR012530976BJNG001202301"
         },
-        "body": "<P>(1) Im f\u00f6rmlichen Verwaltungsverfahren sind Zeugen zur Aussage und Sachverst\u00e4ndige zur Erstattung von Gutachten verpflichtet. Die Vorschriften der Zivilprozessordnung \u00fcber die Pflicht, als Zeuge auszusagen oder als Sachverst\u00e4ndiger ein Gutachten zu erstatten, \u00fcber die Ablehnung von Sachverst\u00e4ndigen sowie \u00fcber die Vernehmung von Angeh\u00f6rigen des \u00f6ffentlichen Dienstes als Zeugen oder Sachverst\u00e4ndige gelten entsprechend.</P><P>(2) Verweigern Zeugen oder Sachverst\u00e4ndige ohne Vorliegen eines der in den \u00a7\u00a7 376, 383 bis 385 und 408 der Zivilprozessordnung bezeichneten Gr\u00fcnde die Aussage oder die Erstattung des Gutachtens, so kann die Beh\u00f6rde das f\u00fcr den Wohnsitz oder den Aufenthaltsort des Zeugen oder des Sachverst\u00e4ndigen zust\u00e4ndige Verwaltungsgericht um die Vernehmung ersuchen. Befindet sich der Wohnsitz oder der Aufenthaltsort des Zeugen oder des Sachverst\u00e4ndigen nicht am Sitz eines Verwaltungsgerichts oder einer besonders errichteten Kammer, so kann auch das zust\u00e4ndige Amtsgericht um die Vernehmung ersucht werden. In dem Ersuchen hat die Beh\u00f6rde den Gegenstand der Vernehmung darzulegen sowie die Namen und Anschriften der Beteiligten anzugeben. Das Gericht hat die Beteiligten von den Beweisterminen zu benachrichtigen.</P><P>(3) H\u00e4lt die Beh\u00f6rde mit R\u00fccksicht auf die Bedeutung der Aussage eines Zeugen oder des Gutachtens eines Sachverst\u00e4ndigen oder zur Herbeif\u00fchrung einer wahrheitsgem\u00e4\u00dfen Aussage die Beeidigung f\u00fcr geboten, so kann sie das nach Absatz 2 zust\u00e4ndige Gericht um die eidliche Vernehmung ersuchen.</P><P>(4) Das Gericht entscheidet \u00fcber die Rechtm\u00e4\u00dfigkeit einer Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung.</P><P>(5) Ein Ersuchen nach Absatz 2 oder 3 an das Gericht darf nur von dem Beh\u00f6rdenleiter, seinem allgemeinen Vertreter oder einem Angeh\u00f6rigen des \u00f6ffentlichen Dienstes gestellt werden, der die Bef\u00e4higung zum Richteramt hat oder die Voraussetzungen des \u00a7 110 Satz 1 des Deutschen Richtergesetzes erf\u00fcllt.</P>",
+        "body": "<P>(1) Im f\u00f6rmlichen Verwaltungsverfahren sind Zeugen zur Aussage und Sachverst\u00e4ndige zur Erstattung von Gutachten verpflichtet. Die Vorschriften der Zivilprozessordnung \u00fcber die Pflicht, als Zeuge auszusagen oder als Sachverst\u00e4ndiger ein Gutachten zu erstatten, \u00fcber die Ablehnung von Sachverst\u00e4ndigen sowie \u00fcber die Vernehmung von Angeh\u00f6rigen des \u00f6ffentlichen Dienstes als Zeugen oder Sachverst\u00e4ndige gelten entsprechend.</P><P>(2) Verweigern Zeugen oder Sachverst\u00e4ndige ohne Vorliegen eines der in den \u00a7\u00a7 376, 383 bis 385 und 408 der Zivilprozessordnung bezeichneten Gr\u00fcnde die Aussage oder die Erstattung des Gutachtens, so kann die Beh\u00f6rde das f\u00fcr den Wohnsitz oder den Aufenthaltsort des Zeugen oder des Sachverst\u00e4ndigen zust\u00e4ndige Verwaltungsgericht um die Vernehmung ersuchen. Befindet sich der Wohnsitz oder der Aufenthaltsort des Zeugen oder des Sachverst\u00e4ndigen nicht am Sitz eines Verwaltungsgerichts oder einer besonders errichteten Kammer, so kann auch das zust\u00e4ndige Amtsgericht um die Vernehmung ersucht werden. In dem Ersuchen hat die Beh\u00f6rde den Gegenstand der Vernehmung darzulegen sowie die Namen und Anschriften der Beteiligten anzugeben. Das Gericht hat die Beteiligten von den Beweisterminen zu benachrichtigen.</P><P>(3) H\u00e4lt die Beh\u00f6rde mit R\u00fccksicht auf die Bedeutung der Aussage eines Zeugen oder des Gutachtens eines Sachverst\u00e4ndigen oder zur Herbeif\u00fchrung einer wahrheitsgem\u00e4\u00dfen Aussage die Beeidigung f\u00fcr geboten, so kann sie das nach Absatz 2 zust\u00e4ndige Gericht um die eidliche Vernehmung ersuchen.</P><P>(4) Das Gericht entscheidet \u00fcber die Rechtm\u00e4\u00dfigkeit einer Verweigerung des Zeugnisses, des Gutachtens oder der Eidesleistung.</P><P>(5) Ein Ersuchen nach Absatz 2 oder 3 an das Gericht darf nur von dem Beh\u00f6rdenleiter, seinem allgemeinen Vertreter oder einem Angeh\u00f6rigen des \u00f6ffentlichen Dienstes gestellt werden, der die Bef\u00e4higung zum Richteramt hat.</P>",
         "footnotes": null,
         "documentaryFootnotes": null
       },
