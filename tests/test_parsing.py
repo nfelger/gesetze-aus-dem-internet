@@ -30,7 +30,7 @@ def test_parser():
     assert law["notes_body"] is None
     assert law["notes_footnotes"] is None
     assert law["notes_documentary_footnotes"] == \
-        '<P><BR/> <pre xml:space="preserve">(+++ Textnachweis ab: 27.7.1995 +++)<BR/><BR/></pre></P>'
+        '<P><BR /> <pre xml:space="preserve">(+++ Textnachweis ab: 27.7.1995 +++)<BR /><BR /></pre></P>'
 
     assert len(law["contents"]) == 9
 

@@ -1,8 +1,99 @@
 import itertools
+import xml.etree.ElementTree as ET
 
+import declxml as xml
+from declxml import _PrimitiveValue, _string_parser, _hooks_apply_after_parse
 from lxml import etree
 
 from .utils import chunk_string
+
+
+class _XmlPreservingStringValue(_PrimitiveValue):
+    """
+    Hack to get at the element so we can serialize its content & children
+    (instead of just getting the element text).
+    Scaffolding copied from https://github.com/gatkin/declxml/blob/8cc2ff2fa813aa9d4c27d1964fe7d865029a1298/declxml.py
+    """
+    def parse_at_element(
+        self,
+        element,  # type: ET.Element
+        state  # type: _ProcessorState
+    ):
+        # type: (...) -> Any
+        """Parse the primitive value at the XML element."""
+        if self._attribute:
+            parsed_value = self._parse_attribute(element, self._attribute, state)
+        else:
+            serialised_element_content = "".join(
+                itertools.chain([element.text or ""], (ET.tostring(child, encoding="unicode") for child in element))
+            )
+            parsed_value = self._parser_func(serialised_element_content, state)
+
+        return _hooks_apply_after_parse(self._hooks, state, parsed_value)
+
+
+def node_as_string(
+    element_name,  # type: Text
+    attribute=None,  # type: Optional[Text]
+    required=True,  # type: bool
+    alias=None,  # type: Optional[Text]
+    default='',  # type: Optional[Text]
+    omit_empty=False,  # type: bool
+    strip_whitespace=True,  # type: bool
+    hooks=None  # type: Optional[Hooks]
+):
+    # type: (...) -> Processor
+    """
+    Custom processor for extractingXml nodes as strings. Used because some
+    fields contain embedded tags.
+    :param strip_whitespace: Indicates whether leading and trailing whitespace should be stripped
+        from parsed string values.
+    """
+
+    value_parser = _string_parser(strip_whitespace)
+    return _XmlPreservingStringValue(
+        element_name,
+        value_parser,
+        attribute,
+        required,
+        alias,
+        default,
+        omit_empty,
+        hooks
+    )
+
+
+EMPTY_CONTENT_PATTERNS = ["<P/>", "<P />", "<P>-</P>"]
+def _content_string_hooks_after_parse(_, text):
+    if text == '' or any(text == pat for pat in EMPTY_CONTENT_PATTERNS):
+        return None
+    return text
+
+content_string_hooks = xml.Hooks(after_parse=_content_string_hooks_after_parse)
+
+header_norm_processor = xml.dictionary("norm", [
+    xml.array(xml.string("metadaten/jurabk", alias="jurabk")),
+    xml.array(xml.string("metadaten/amtabk", alias="amtabk", required=False)),
+    xml.string("metadaten/ausfertigung-datum", alias="first_published"),
+    xml.string(".", attribute="doknr"),
+    xml.string(".", attribute="builddate", alias="source_timestamp"),
+    node_as_string("metadaten/langue", alias="title_long"),
+    node_as_string("metadaten/kurzue", alias="title_short", required=False, default=None),
+    xml.dictionary("textdaten/text", [
+        node_as_string("Content", required=False, hooks=content_string_hooks),
+        node_as_string("TOC", required=False, default=None),
+        node_as_string("Footnotes", required=False, default=None),
+    ], required=False, alias="text"),
+    xml.array(xml.dictionary("metadaten/fundstelle", [
+        xml.string("periodikum", alias="periodical"),
+        xml.string("zitstelle", alias="reference")
+    ], required=False), alias="publication_info"),
+    xml.array(xml.dictionary("metadaten/standangabe", [
+        xml.string("standtyp", alias="category"),
+        node_as_string("standkommentar", alias="comment")
+    ], required=False), alias="status_info"),
+    node_as_string("textdaten/fussnoten/Content", required=False, default=None, alias="notes_documentary_footnotes", hooks=content_string_hooks),
+])
 
 
 def _text(elements, multi=False):
@@ -22,38 +113,6 @@ def _text(elements, multi=False):
 
     assert len(values) == 1, f"Multiple values found but not requested: {values}"
     return values[0].strip() or None
-
-
-def _parse_abbrs(norm):
-    abbrs = (_text(norm.xpath("metadaten/amtabk"), multi=True) or []) + _text(norm.xpath("metadaten/jurabk"), multi=True)
-    abbrs_unique = list(dict.fromkeys(abbrs))
-    primary, *rest = abbrs_unique
-
-    return {"abbreviation": primary, "extra_abbreviations": rest}
-
-
-def _parse_publication_info(norm):
-    elements = norm.xpath("metadaten/fundstelle")
-    if not elements:
-        return []
-    return [
-        {
-            "periodical": _text(el.xpath("periodikum")),
-            "reference": _text(el.xpath("zitstelle"))
-        } for el in elements
-    ]
-
-
-def _parse_status_info(norm):
-    elements = norm.xpath("metadaten/standangabe")
-    if not elements:
-        return []
-    return [
-        {
-            "category": _text(el.xpath("standtyp")),
-            "comment": _text(el.xpath("standkommentar"))
-        } for el in elements
-    ]
 
 
 def _parse_section_info(norm):
@@ -99,9 +158,6 @@ def _parse_text_content(content):
     return text_content
 
 
-EMPTY_CONTENT_PATTERNS = ["<P/>", "<P>-</P>"]
-
-
 def _parse_documentary_footnotes(norm):
     return _parse_text_content(norm.xpath("textdaten/fussnoten/Content"))
 
@@ -117,21 +173,21 @@ def load_norms_from_file(file_or_filepath):
 
 
 def extract_law_attrs(header_norm):
-    abbrs = _parse_abbrs(header_norm)
-    notes_text = _parse_text(header_norm)
-    return {
-        "doknr": header_norm.get("doknr"),
-        **abbrs,
-        "first_published": _text(header_norm.xpath("metadaten/ausfertigung-datum")),
-        "source_timestamp": header_norm.get("builddate"),
-        "title_long": _text(header_norm.xpath("metadaten/langue")),
-        "title_short": _text(header_norm.xpath("metadaten/kurzue")),
-        "publication_info": _parse_publication_info(header_norm),
-        "status_info": _parse_status_info(header_norm),
-        "notes_body": notes_text.get("body"),
-        "notes_footnotes": notes_text.get("footnotes"),
-        "notes_documentary_footnotes": _parse_documentary_footnotes(header_norm)
-    }
+    law_dict = xml.parse_from_string(header_norm_processor, etree.tostring(header_norm, encoding="unicode"))
+
+    # post-process text
+    law_dict["notes_body"] = law_dict["text"].get("Content") or law_dict["text"].get("TOC")
+    law_dict["notes_footnotes"] = law_dict["text"].get("Footnotes")
+    del law_dict["text"]
+
+    # post-process abbreviations
+    primary, *rest = list(dict.fromkeys(law_dict["amtabk"] + law_dict["jurabk"]))
+    law_dict["abbreviation"] = primary
+    law_dict["extra_abbreviations"] = rest
+    del law_dict["amtabk"]
+    del law_dict["jurabk"]
+
+    return law_dict
 
 
 def extract_contents(body_norms):
