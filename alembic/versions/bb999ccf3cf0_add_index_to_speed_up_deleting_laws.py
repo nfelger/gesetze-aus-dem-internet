@@ -1,7 +1,7 @@
 """Add index to speed up deleting laws
 
 Revision ID: bb999ccf3cf0
-Revises: 3655e2e3bf1a
+Revises: b379bf626e54
 Create Date: 2020-10-12 15:08:55.236876
 
 """
@@ -11,7 +11,7 @@ import sqlalchemy as sa  # noqa
 
 # revision identifiers, used by Alembic.
 revision = 'bb999ccf3cf0'
-down_revision = '3655e2e3bf1a'
+down_revision = 'b379bf626e54'
 branch_labels = None
 depends_on = None
 

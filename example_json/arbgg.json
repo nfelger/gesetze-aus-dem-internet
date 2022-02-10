@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR012670953",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg",
     "firstPublished": "1953-09-03",
     "sourceTimestamp": "20200625213010",
     "titleShort": null,
@@ -40,7 +39,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000100303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000100303",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
         "parent": null,
@@ -50,7 +48,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002000303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002000303",
         "name": "\u00a7 1",
         "title": "Gerichte f\u00fcr Arbeitssachen",
         "parent": {
@@ -64,7 +61,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002109125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002109125",
         "name": "\u00a7 2",
         "title": "Zust\u00e4ndigkeit im Urteilsverfahren",
         "parent": {
@@ -78,7 +74,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002217311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002217311",
         "name": "\u00a7 2a",
         "title": "Zust\u00e4ndigkeit im Beschlu\u00dfverfahren",
         "parent": {
@@ -92,7 +87,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002300303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002300303",
         "name": "\u00a7 3",
         "title": "Zust\u00e4ndigkeit in sonstigen F\u00e4llen",
         "parent": {
@@ -106,7 +100,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002400303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002400303",
         "name": "\u00a7 4",
         "title": "Ausschlu\u00df der Arbeitsgerichtsbarkeit",
         "parent": {
@@ -120,7 +113,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002506311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002506311",
         "name": "\u00a7 5",
         "title": "Begriff des Arbeitnehmers",
         "parent": {
@@ -134,7 +126,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002600303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002600303",
         "name": "\u00a7 6",
         "title": "Besetzung der Gerichte f\u00fcr Arbeitssachen",
         "parent": {
@@ -148,7 +139,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002700303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002700303",
         "name": "\u00a7 6a",
         "title": "Allgemeine Vorschriften \u00fcber das Pr\u00e4sidium und die\nGesch\u00e4ftsverteilung",
         "parent": {
@@ -162,7 +152,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002806311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002806311",
         "name": "\u00a7 7",
         "title": "Gesch\u00e4ftsstelle, Aufbringung der Mittel",
         "parent": {
@@ -176,7 +165,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE002901305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE002901305",
         "name": "\u00a7 8",
         "title": "Gang des Verfahrens",
         "parent": {
@@ -190,7 +178,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003003308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003003308",
         "name": "\u00a7 9",
         "title": "Allgemeine Verfahrensvorschriften und Rechtsschutz bei \u00fcberlangen Gerichtsverfahren",
         "parent": {
@@ -204,7 +191,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003113311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003113311",
         "name": "\u00a7 10",
         "title": "Parteif\u00e4higkeit",
         "parent": {
@@ -218,7 +204,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003205301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003205301",
         "name": "\u00a7 11",
         "title": "Prozessvertretung",
         "parent": {
@@ -232,7 +217,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003306311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003306311",
         "name": "\u00a7 11a",
         "title": "Beiordnung eines Rechtsanwalts, Proze\u00dfkostenhilfe",
         "parent": {
@@ -246,7 +230,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003411311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003411311",
         "name": "\u00a7 12",
         "title": "Kosten",
         "parent": {
@@ -260,7 +243,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003503311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003503311",
         "name": "\u00a7 12a",
         "title": "Kostentragungspflicht",
         "parent": {
@@ -274,7 +256,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003601307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003601307",
         "name": "\u00a7 13",
         "title": "Rechtshilfe",
         "parent": {
@@ -288,7 +269,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016401160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016401160",
         "name": "\u00a7 13a",
         "title": "Internationale Verfahren",
         "parent": {
@@ -302,7 +282,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000200303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000200303",
         "name": "Zweiter Teil",
         "title": "Aufbau der Gerichte f\u00fcr Arbeitssachen",
         "parent": null,
@@ -312,7 +291,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000300303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000300303",
         "name": "Erster Abschnitt",
         "title": "Arbeitsgerichte",
         "parent": {
@@ -325,7 +303,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003702305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003702305",
         "name": "\u00a7 14",
         "title": "Errichtung und Organisation",
         "parent": {
@@ -339,7 +316,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003802305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003802305",
         "name": "\u00a7 15",
         "title": "Verwaltung und Dienstaufsicht",
         "parent": {
@@ -353,7 +329,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE003900303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE003900303",
         "name": "\u00a7 16",
         "title": "Zusammensetzung",
         "parent": {
@@ -367,7 +342,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004003125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004003125",
         "name": "\u00a7 17",
         "title": "Bildung von Kammern",
         "parent": {
@@ -381,7 +355,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004102305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004102305",
         "name": "\u00a7 18",
         "title": "Ernennung der Vorsitzenden",
         "parent": {
@@ -395,7 +368,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004200303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004200303",
         "name": "\u00a7 19",
         "title": "St\u00e4ndige Vertretung",
         "parent": {
@@ -409,7 +381,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004302305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004302305",
         "name": "\u00a7 20",
         "title": "Berufung der ehrenamtlichen Richter",
         "parent": {
@@ -423,7 +394,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004404160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004404160",
         "name": "\u00a7 21",
         "title": "Voraussetzungen f\u00fcr die Berufung als ehrenamtlicher Richter",
         "parent": {
@@ -437,7 +407,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004500303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004500303",
         "name": "\u00a7 22",
         "title": "Ehrenamtlicher Richter aus Kreisen der Arbeitgeber",
         "parent": {
@@ -451,7 +420,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004601307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004601307",
         "name": "\u00a7 23",
         "title": "Ehrenamtlicher Richter aus Kreisen der Arbeitnehmer",
         "parent": {
@@ -465,7 +433,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004704301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004704301",
         "name": "\u00a7 24",
         "title": "Ablehnung und Niederlegung des ehrenamtlichen Richteramts",
         "parent": {
@@ -479,7 +446,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004800303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004800303",
         "name": "\u00a7 25",
         "title": "(weggefallen)",
         "parent": {
@@ -493,7 +459,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE004900303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE004900303",
         "name": "\u00a7 26",
         "title": "Schutz der ehrenamtlichen Richter",
         "parent": {
@@ -507,7 +472,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005002305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005002305",
         "name": "\u00a7 27",
         "title": "Amtsenthebung der ehrenamtlichen Richter",
         "parent": {
@@ -521,7 +485,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005100303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005100303",
         "name": "\u00a7 28",
         "title": "Ordnungsgeld gegen ehrenamtliche Richter",
         "parent": {
@@ -535,7 +498,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005200303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005200303",
         "name": "\u00a7 29",
         "title": "Ausschu\u00df der ehrenamtlichen Richter",
         "parent": {
@@ -549,7 +511,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005300303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005300303",
         "name": "\u00a7 30",
         "title": "Besetzung der Fachkammern",
         "parent": {
@@ -563,7 +524,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005400303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005400303",
         "name": "\u00a7 31",
         "title": "Heranziehung der ehrenamtlichen Richter",
         "parent": {
@@ -577,7 +537,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005500303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005500303",
         "name": "\u00a7 32",
         "title": "(weggefallen)",
         "parent": {
@@ -591,7 +550,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000400303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000400303",
         "name": "Zweiter Abschnitt",
         "title": "Landesarbeitsgerichte",
         "parent": {
@@ -604,7 +562,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005600303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005600303",
         "name": "\u00a7 33",
         "title": "Errichtung und Organisation",
         "parent": {
@@ -618,7 +575,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005703310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005703310",
         "name": "\u00a7 34",
         "title": "Verwaltung und Dienstaufsicht",
         "parent": {
@@ -632,7 +588,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005801307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005801307",
         "name": "\u00a7 35",
         "title": "Zusammensetzung, Bildung von Kammern",
         "parent": {
@@ -646,7 +601,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE005902305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE005902305",
         "name": "\u00a7 36",
         "title": "Vorsitzende",
         "parent": {
@@ -660,7 +614,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006001305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006001305",
         "name": "\u00a7 37",
         "title": "Ehrenamtliche Richter",
         "parent": {
@@ -674,7 +627,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006100303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006100303",
         "name": "\u00a7 38",
         "title": "Ausschu\u00df der ehrenamtlichen Richter",
         "parent": {
@@ -688,7 +640,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006200303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006200303",
         "name": "\u00a7 39",
         "title": "Heranziehung der ehrenamtlichen Richter",
         "parent": {
@@ -702,7 +653,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000500303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000500303",
         "name": "Dritter Abschnitt",
         "title": "Bundesarbeitsgericht",
         "parent": {
@@ -715,7 +665,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006308311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006308311",
         "name": "\u00a7 40",
         "title": "Errichtung",
         "parent": {
@@ -729,7 +678,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006404311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006404311",
         "name": "\u00a7 41",
         "title": "Zusammensetzung, Senate",
         "parent": {
@@ -743,7 +691,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006504311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006504311",
         "name": "\u00a7 42",
         "title": "Bundesrichter",
         "parent": {
@@ -757,7 +704,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006604308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006604308",
         "name": "\u00a7 43",
         "title": "Ehrenamtliche Richter",
         "parent": {
@@ -771,7 +717,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006701160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006701160",
         "name": "\u00a7 44",
         "title": "Anh\u00f6rung der ehrenamtlichen Richter, Gesch\u00e4ftsordnung",
         "parent": {
@@ -785,7 +730,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006801309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006801309",
         "name": "\u00a7 45",
         "title": "Gro\u00dfer Senat",
         "parent": {
@@ -799,7 +743,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000600303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000600303",
         "name": "Dritter Teil",
         "title": "Verfahren vor den Gerichten f\u00fcr\nArbeitssachen",
         "parent": null,
@@ -809,7 +752,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000700303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000700303",
         "name": "Erster Abschnitt",
         "title": "Urteilsverfahren",
         "parent": {
@@ -822,7 +764,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000800303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000800303",
         "name": "Erster Unterabschnitt",
         "title": "Erster Rechtszug",
         "parent": {
@@ -835,7 +776,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE006904311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE006904311",
         "name": "\u00a7 46",
         "title": "Grundsatz",
         "parent": {
@@ -849,7 +789,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007009311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007009311",
         "name": "\u00a7 46a",
         "title": "Mahnverfahren",
         "parent": {
@@ -863,7 +802,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE015802160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE015802160",
         "name": "\u00a7 46b",
         "title": "Europ\u00e4isches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006",
         "parent": {
@@ -877,7 +815,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016703125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016703125",
         "name": "\u00a7 46c",
         "title": "Elektronisches Dokument",
         "parent": {
@@ -891,7 +828,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016203311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016203311",
         "name": "\u00a7 46d",
         "title": "Gerichtliches elektronisches Dokument",
         "parent": {
@@ -905,7 +841,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016305311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016305311",
         "name": "\u00a7 46e",
         "title": "Elektronische Akte; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -919,7 +854,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016901125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016901125",
         "name": "\u00a7 46f",
         "title": "Formulare; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -933,7 +867,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007100303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007100303",
         "name": "\u00a7 47",
         "title": "Sondervorschriften \u00fcber Ladung und Einlassung *)",
         "parent": {
@@ -947,7 +880,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007204160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007204160",
         "name": "\u00a7 48",
         "title": "Rechtsweg und Zust\u00e4ndigkeit",
         "parent": {
@@ -961,7 +893,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007301309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007301309",
         "name": "\u00a7 48a",
         "title": null,
         "parent": {
@@ -975,7 +906,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007400303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007400303",
         "name": "\u00a7 49",
         "title": "Ablehnung von Gerichtspersonen",
         "parent": {
@@ -989,7 +919,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007503310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007503310",
         "name": "\u00a7 50",
         "title": "Zustellung",
         "parent": {
@@ -1003,7 +932,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007600303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007600303",
         "name": "\u00a7 51",
         "title": "Pers\u00f6nliches Erscheinen der Parteien",
         "parent": {
@@ -1017,7 +945,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007702311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007702311",
         "name": "\u00a7 52",
         "title": "\u00d6ffentlichkeit",
         "parent": {
@@ -1031,7 +958,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007800303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007800303",
         "name": "\u00a7 53",
         "title": "Befugnisse des Vorsitzenden und der ehrenamtlichen Richter",
         "parent": {
@@ -1045,7 +971,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE007904311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE007904311",
         "name": "\u00a7 54",
         "title": "G\u00fcteverfahren",
         "parent": {
@@ -1059,7 +984,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016800308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016800308",
         "name": "\u00a7 54a",
         "title": "Mediation, au\u00dfergerichtliche Konfliktbeilegung",
         "parent": {
@@ -1073,7 +997,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016502311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016502311",
         "name": "\u00a7 55",
         "title": "Alleinentscheidung durch den Vorsitzenden",
         "parent": {
@@ -1087,7 +1010,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008101309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008101309",
         "name": "\u00a7 56",
         "title": "Vorbereitung der streitigen Verhandlung",
         "parent": {
@@ -1101,7 +1023,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008200303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008200303",
         "name": "\u00a7 57",
         "title": "Verhandlung vor der Kammer",
         "parent": {
@@ -1115,7 +1036,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008302311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008302311",
         "name": "\u00a7 58",
         "title": "Beweisaufnahme",
         "parent": {
@@ -1129,7 +1049,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008401311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008401311",
         "name": "\u00a7 59",
         "title": "Vers\u00e4umnisverfahren",
         "parent": {
@@ -1143,7 +1062,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008501310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008501310",
         "name": "\u00a7 60",
         "title": "Verk\u00fcndung des Urteils",
         "parent": {
@@ -1157,7 +1075,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008600303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008600303",
         "name": "\u00a7 61",
         "title": "Inhalt des Urteils",
         "parent": {
@@ -1171,7 +1088,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008700303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008700303",
         "name": "\u00a7 61a",
         "title": "Besondere Proze\u00dff\u00f6rderung in K\u00fcndigungsverfahren",
         "parent": {
@@ -1185,7 +1101,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE015702301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE015702301",
         "name": "\u00a7 61b",
         "title": "Klage wegen Benachteiligung",
         "parent": {
@@ -1199,7 +1114,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008803311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008803311",
         "name": "\u00a7 62",
         "title": "Zwangsvollstreckung",
         "parent": {
@@ -1213,7 +1127,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE008905308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE008905308",
         "name": "\u00a7 63",
         "title": "\u00dcbermittlung von Urteilen in Tarifvertragssachen",
         "parent": {
@@ -1227,7 +1140,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG000900303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG000900303",
         "name": "Zweiter Unterabschnitt",
         "title": "Berufungsverfahren",
         "parent": {
@@ -1240,7 +1152,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009005308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009005308",
         "name": "\u00a7 64",
         "title": "Grundsatz",
         "parent": {
@@ -1254,7 +1165,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009102310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009102310",
         "name": "\u00a7 65",
         "title": "Beschr\u00e4nkung der Berufung",
         "parent": {
@@ -1268,7 +1178,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009202160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009202160",
         "name": "\u00a7 66",
         "title": "Einlegung der Berufung, Terminbestimmung",
         "parent": {
@@ -1282,7 +1191,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009301310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009301310",
         "name": "\u00a7 67",
         "title": "Zulassung neuer Angriffs- und Verteidigungsmittel",
         "parent": {
@@ -1296,7 +1204,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009401309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009401309",
         "name": "\u00a7 67a",
         "title": null,
         "parent": {
@@ -1310,7 +1217,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009500303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009500303",
         "name": "\u00a7 68",
         "title": "Zur\u00fcckverweisung",
         "parent": {
@@ -1324,7 +1230,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009602310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009602310",
         "name": "\u00a7 69",
         "title": "Urteil",
         "parent": {
@@ -1338,7 +1243,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009702310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009702310",
         "name": "\u00a7 70",
         "title": null,
         "parent": {
@@ -1352,7 +1256,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009800303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009800303",
         "name": "\u00a7 71",
         "title": "(weggefallen)",
         "parent": {
@@ -1366,7 +1269,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001000303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001000303",
         "name": "Dritter Unterabschnitt",
         "title": "Revisionsverfahren",
         "parent": {
@@ -1379,7 +1281,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE009905311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE009905311",
         "name": "\u00a7 72",
         "title": "Grundsatz",
         "parent": {
@@ -1393,7 +1294,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010001301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010001301",
         "name": "\u00a7 72a",
         "title": "Nichtzulassungsbeschwerde",
         "parent": {
@@ -1407,7 +1307,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE015900301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE015900301",
         "name": "\u00a7 72b",
         "title": "Sofortige Beschwerde wegen versp\u00e4teter Absetzung des Berufungsurteils",
         "parent": {
@@ -1421,7 +1320,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010102301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010102301",
         "name": "\u00a7 73",
         "title": "Revisionsgr\u00fcnde",
         "parent": {
@@ -1435,7 +1333,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010201310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010201310",
         "name": "\u00a7 74",
         "title": "Einlegung der Revision, Terminbestimmung",
         "parent": {
@@ -1449,7 +1346,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010300303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010300303",
         "name": "\u00a7 75",
         "title": "Urteil",
         "parent": {
@@ -1463,7 +1359,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010401310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010401310",
         "name": "\u00a7 76",
         "title": "Sprungrevision",
         "parent": {
@@ -1477,7 +1372,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010502311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010502311",
         "name": "\u00a7 77",
         "title": "Revisionsbeschwerde",
         "parent": {
@@ -1491,7 +1385,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001101301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001101301",
         "name": "Vierter Unterabschnitt",
         "title": "Beschwerdeverfahren, Abhilfe bei Verletzung des\nAnspruchs auf rechtliches Geh\u00f6r",
         "parent": {
@@ -1504,7 +1397,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010603301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010603301",
         "name": "\u00a7 78",
         "title": "Beschwerdeverfahren",
         "parent": {
@@ -1518,7 +1410,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016000301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016000301",
         "name": "\u00a7 78a",
         "title": "Abhilfe bei Verletzung des Anspruchs auf rechtliches Geh\u00f6r",
         "parent": {
@@ -1532,7 +1423,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001200303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001200303",
         "name": "F\u00fcnfter Unterabschnitt",
         "title": "Wiederaufnahme des\nVerfahrens",
         "parent": {
@@ -1545,7 +1435,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010700303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010700303",
         "name": "\u00a7 79",
         "title": null,
         "parent": {
@@ -1559,7 +1448,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001300303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001300303",
         "name": "Zweiter Abschnitt",
         "title": "Beschlu\u00dfverfahren",
         "parent": {
@@ -1572,7 +1460,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001400303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001400303",
         "name": "Erster Unterabschnitt",
         "title": "Erster Rechtszug",
         "parent": {
@@ -1585,7 +1472,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010803308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010803308",
         "name": "\u00a7 80",
         "title": "Grundsatz",
         "parent": {
@@ -1599,7 +1485,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE010901311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE010901311",
         "name": "\u00a7 81",
         "title": "Antrag",
         "parent": {
@@ -1613,7 +1498,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011008308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011008308",
         "name": "\u00a7 82",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -1627,7 +1511,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011113311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011113311",
         "name": "\u00a7 83",
         "title": "Verfahren",
         "parent": {
@@ -1641,7 +1524,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011202311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011202311",
         "name": "\u00a7 83a",
         "title": "Vergleich, Erledigung des Verfahrens",
         "parent": {
@@ -1655,7 +1537,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011300303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011300303",
         "name": "\u00a7 84",
         "title": "Beschlu\u00df",
         "parent": {
@@ -1669,7 +1550,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011402311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011402311",
         "name": "\u00a7 85",
         "title": "Zwangsvollstreckung",
         "parent": {
@@ -1683,7 +1563,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011500303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011500303",
         "name": "\u00a7 86",
         "title": "(weggefallen)",
         "parent": {
@@ -1697,7 +1576,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001500303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001500303",
         "name": "Zweiter Unterabschnitt",
         "title": "Zweiter Rechtszug",
         "parent": {
@@ -1710,7 +1588,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011605308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011605308",
         "name": "\u00a7 87",
         "title": "Grundsatz",
         "parent": {
@@ -1724,7 +1601,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011701309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011701309",
         "name": "\u00a7 88",
         "title": "Beschr\u00e4nkung der Beschwerde",
         "parent": {
@@ -1738,7 +1614,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016600160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016600160",
         "name": "\u00a7 89",
         "title": "Einlegung",
         "parent": {
@@ -1752,7 +1627,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE011901311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE011901311",
         "name": "\u00a7 90",
         "title": "Verfahren",
         "parent": {
@@ -1766,7 +1640,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012000303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012000303",
         "name": "\u00a7 91",
         "title": "Entscheidung",
         "parent": {
@@ -1780,7 +1653,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001600303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001600303",
         "name": "Dritter Unterabschnitt",
         "title": "Dritter Rechtszug",
         "parent": {
@@ -1793,7 +1665,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012102301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012102301",
         "name": "\u00a7 92",
         "title": "Rechtsbeschwerdeverfahren, Grundsatz",
         "parent": {
@@ -1807,7 +1678,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012201301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012201301",
         "name": "\u00a7 92a",
         "title": "Nichtzulassungsbeschwerde",
         "parent": {
@@ -1821,7 +1691,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE016100301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE016100301",
         "name": "\u00a7 92b",
         "title": "Sofortige Beschwerde wegen versp\u00e4teter Absetzung der\nBeschwerdeentscheidung",
         "parent": {
@@ -1835,7 +1704,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012302301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012302301",
         "name": "\u00a7 93",
         "title": "Rechtsbeschwerdegr\u00fcnde",
         "parent": {
@@ -1849,7 +1717,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012401301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012401301",
         "name": "\u00a7 94",
         "title": "Einlegung",
         "parent": {
@@ -1863,7 +1730,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012501311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012501311",
         "name": "\u00a7 95",
         "title": "Verfahren",
         "parent": {
@@ -1877,7 +1743,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012601310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012601310",
         "name": "\u00a7 96",
         "title": "Entscheidung",
         "parent": {
@@ -1891,7 +1756,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012700303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012700303",
         "name": "\u00a7 96a",
         "title": "Sprungrechtsbeschwerde",
         "parent": {
@@ -1905,7 +1769,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001700303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001700303",
         "name": "Vierter Unterabschnitt",
         "title": "Beschlu\u00dfverfahren in\nbesonderen F\u00e4llen",
         "parent": {
@@ -1918,7 +1781,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012802305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012802305",
         "name": "\u00a7 97",
         "title": "Entscheidung \u00fcber die Tariff\u00e4higkeit oder Tarifzust\u00e4ndigkeit einer Vereinigung",
         "parent": {
@@ -1932,7 +1794,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE012904311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE012904311",
         "name": "\u00a7 98",
         "title": "Entscheidung \u00fcber die Wirksamkeit einer Allgemeinverbindlicherkl\u00e4rung oder einer Rechtsverordnung",
         "parent": {
@@ -1946,7 +1807,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE017100311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE017100311",
         "name": "\u00a7 99",
         "title": "Entscheidung \u00fcber den nach \u00a7 4a Absatz 2 Satz 2 des Tarifvertragsgesetzes im Betrieb anwendbaren Tarifvertrag",
         "parent": {
@@ -1960,7 +1820,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013002311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013002311",
         "name": "\u00a7 100",
         "title": "Entscheidung \u00fcber die Besetzung der Einigungsstelle",
         "parent": {
@@ -1974,7 +1833,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001800303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001800303",
         "name": "Vierter Teil",
         "title": "Schiedsvertrag in Arbeitsstreitigkeiten",
         "parent": null,
@@ -1984,7 +1842,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013201311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013201311",
         "name": "\u00a7 101",
         "title": "Grundsatz",
         "parent": {
@@ -1998,7 +1855,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013301309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013301309",
         "name": "\u00a7 102",
         "title": "Proze\u00dfhindernde Einrede",
         "parent": {
@@ -2012,7 +1868,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013400303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013400303",
         "name": "\u00a7 103",
         "title": "Zusammensetzung des Schiedsgerichts",
         "parent": {
@@ -2026,7 +1881,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013500303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013500303",
         "name": "\u00a7 104",
         "title": "Verfahren vor dem Schiedsgericht",
         "parent": {
@@ -2040,7 +1894,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013601301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013601301",
         "name": "\u00a7 105",
         "title": "Anh\u00f6rung der Parteien",
         "parent": {
@@ -2054,7 +1907,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013701301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013701301",
         "name": "\u00a7 106",
         "title": "Beweisaufnahme",
         "parent": {
@@ -2068,7 +1920,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013800303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013800303",
         "name": "\u00a7 107",
         "title": "Vergleich",
         "parent": {
@@ -2082,7 +1933,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE013900303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE013900303",
         "name": "\u00a7 108",
         "title": "Schiedsspruch",
         "parent": {
@@ -2096,7 +1946,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014000303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014000303",
         "name": "\u00a7 109",
         "title": "Zwangsvollstreckung",
         "parent": {
@@ -2110,7 +1959,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014100303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014100303",
         "name": "\u00a7 110",
         "title": "Aufhebungsklage",
         "parent": {
@@ -2124,7 +1972,6 @@
       {
         "type": "heading",
         "id": "BJNR012670953BJNG001900303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNG001900303",
         "name": "F\u00fcnfter Teil",
         "title": "\u00dcbergangs- und\nSchlu\u00dfvorschriften",
         "parent": null,
@@ -2134,7 +1981,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014201305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014201305",
         "name": "\u00a7 111",
         "title": "\u00c4nderung von Vorschriften",
         "parent": {
@@ -2148,7 +1994,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014302311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014302311",
         "name": "\u00a7 112",
         "title": "\u00dcbergangsregelungen",
         "parent": {
@@ -2162,7 +2007,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014401311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014401311",
         "name": "\u00a7 113",
         "title": "Berichterstattung",
         "parent": {
@@ -2176,7 +2020,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014501125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014501125",
         "name": "\u00a7 114",
         "title": "Infektionsschutz bei epidemischen Lagen von nationaler Tragweite",
         "parent": {
@@ -2190,7 +2033,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014600303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014600303",
         "name": "\u00a7 115",
         "title": "(weggefallen)",
         "parent": {
@@ -2204,7 +2046,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014700303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014700303",
         "name": "\u00a7 116",
         "title": "(weggefallen)",
         "parent": {
@@ -2218,7 +2059,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014801305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014801305",
         "name": "\u00a7 117",
         "title": "Verfahren bei Meinungsverschiedenheiten der beteiligten\nVerwaltungen",
         "parent": {
@@ -2232,7 +2072,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE014900303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE014900303",
         "name": "\u00a7 118",
         "title": "(weggefallen)",
         "parent": {
@@ -2246,7 +2085,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE015000303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE015000303",
         "name": "\u00a7 119",
         "title": "(weggefallen)",
         "parent": {
@@ -2260,7 +2098,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE015100303",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE015100303",
         "name": "\u00a7 120",
         "title": "(weggefallen)",
         "parent": {
@@ -2274,7 +2111,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE015201301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE015201301",
         "name": "\u00a7 121",
         "title": "(weggefallen)",
         "parent": {
@@ -2288,7 +2124,6 @@
       {
         "type": "article",
         "id": "BJNR012670953BJNE015301301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbgg/articles/BJNR012670953BJNE015301301",
         "name": "\u00a7 122",
         "title": "(weggefallen)",
         "parent": {

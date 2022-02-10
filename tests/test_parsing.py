@@ -1,11 +1,11 @@
 from unittest import mock
 
-from rip_api.gesetze_im_internet.parsing import parse_law
+from gadi.gesetze_im_internet.parsing import parse_law
 
 
 def test_parser():
     mock_open = mock.mock_open(read_data=XML_DATA)
-    with mock.patch("rip_api.gesetze_im_internet.parsing.open", mock_open):
+    with mock.patch("gadi.gesetze_im_internet.parsing.open", mock_open):
         law = parse_law("mock/xml/path.xml")
 
     assert law["doknr"] == "BJNR055429995"

@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR000130972",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg",
     "firstPublished": "1972-01-15",
     "sourceTimestamp": "20200529212502",
     "titleShort": null,
@@ -44,7 +43,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE003104308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE003104308",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -55,7 +53,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000102308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000102308",
         "name": "Erster Teil",
         "title": "Allgemeine Vorschriften",
         "parent": null,
@@ -65,7 +62,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE003303308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE003303308",
         "name": "\u00a7 1",
         "title": "Errichtung von Betriebsr\u00e4ten",
         "parent": {
@@ -79,7 +75,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE003402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE003402308",
         "name": "\u00a7 2",
         "title": "Stellung der Gewerkschaften und Vereinigungen der\nArbeitgeber",
         "parent": {
@@ -93,7 +88,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE003503308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE003503308",
         "name": "\u00a7 3",
         "title": "Abweichende Regelungen",
         "parent": {
@@ -107,7 +101,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE003603308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE003603308",
         "name": "\u00a7 4",
         "title": "Betriebsteile, Kleinstbetriebe",
         "parent": {
@@ -121,7 +114,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE003707308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE003707308",
         "name": "\u00a7 5",
         "title": "Arbeitnehmer",
         "parent": {
@@ -135,7 +127,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE003804308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE003804308",
         "name": "\u00a7 6",
         "title": null,
         "parent": {
@@ -149,7 +140,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000202308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000202308",
         "name": "Zweiter Teil",
         "title": "Betriebsrat, Betriebsversammlung,\nGesamt- und Konzernbetriebsrat",
         "parent": null,
@@ -159,7 +149,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000302308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000302308",
         "name": "Erster Abschnitt",
         "title": "Zusammensetzung und Wahl\ndes Betriebsrats",
         "parent": {
@@ -172,7 +161,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE003903308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE003903308",
         "name": "\u00a7 7",
         "title": "Wahlberechtigung",
         "parent": {
@@ -186,7 +174,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004002308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004002308",
         "name": "\u00a7 8",
         "title": "W\u00e4hlbarkeit",
         "parent": {
@@ -200,7 +187,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004104308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004104308",
         "name": "\u00a7 9",
         "title": "Zahl der Betriebsratsmitglieder *)",
         "parent": {
@@ -214,7 +200,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004203308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004203308",
         "name": "\u00a7 10",
         "title": null,
         "parent": {
@@ -228,7 +213,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004302308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004302308",
         "name": "\u00a7 11",
         "title": "Erm\u00e4\u00dfigte Zahl der Betriebsratsmitglieder",
         "parent": {
@@ -242,7 +226,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004403308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004403308",
         "name": "\u00a7 12",
         "title": null,
         "parent": {
@@ -256,7 +239,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004503308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004503308",
         "name": "\u00a7 13",
         "title": "Zeitpunkt der Betriebsratswahlen",
         "parent": {
@@ -270,7 +252,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004604308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004604308",
         "name": "\u00a7 14",
         "title": "Wahlvorschriften",
         "parent": {
@@ -284,7 +265,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017101308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017101308",
         "name": "\u00a7 14a",
         "title": "Vereinfachtes Wahlverfahren f\u00fcr Kleinbetriebe",
         "parent": {
@@ -298,7 +278,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004703308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004703308",
         "name": "\u00a7 15",
         "title": "Zusammensetzung nach Besch\u00e4ftigungsarten und Geschlechter *)",
         "parent": {
@@ -312,7 +291,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004805308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004805308",
         "name": "\u00a7 16",
         "title": "Bestellung des Wahlvorstands",
         "parent": {
@@ -326,7 +304,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE004903308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE004903308",
         "name": "\u00a7 17",
         "title": "Bestellung des Wahlvorstands in Betrieben ohne Betriebsrat",
         "parent": {
@@ -340,7 +317,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017201308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017201308",
         "name": "\u00a7 17a",
         "title": "Bestellung des Wahlvorstands im vereinfachten Wahlverfahren",
         "parent": {
@@ -354,7 +330,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005003308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005003308",
         "name": "\u00a7 18",
         "title": "Vorbereitung und Durchf\u00fchrung der Wahl",
         "parent": {
@@ -368,7 +343,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016602308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016602308",
         "name": "\u00a7 18a",
         "title": "Zuordnung der leitenden Angestellten bei Wahlen",
         "parent": {
@@ -382,7 +356,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005102308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005102308",
         "name": "\u00a7 19",
         "title": "Wahlanfechtung",
         "parent": {
@@ -396,7 +369,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005203308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005203308",
         "name": "\u00a7 20",
         "title": "Wahlschutz und Wahlkosten",
         "parent": {
@@ -410,7 +382,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000402308",
         "name": "Zweiter Abschnitt",
         "title": "Amtszeit des Betriebsrats",
         "parent": {
@@ -423,7 +394,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005303308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005303308",
         "name": "\u00a7 21",
         "title": "Amtszeit",
         "parent": {
@@ -437,7 +407,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017301308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017301308",
         "name": "\u00a7 21a",
         "title": "\u00dcbergangsmandat *)",
         "parent": {
@@ -451,7 +420,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017401308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017401308",
         "name": "\u00a7 21b",
         "title": "Restmandat",
         "parent": {
@@ -465,7 +433,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005402308",
         "name": "\u00a7 22",
         "title": "Weiterf\u00fchrung der Gesch\u00e4fte des Betriebsrats",
         "parent": {
@@ -479,7 +446,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005504308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005504308",
         "name": "\u00a7 23",
         "title": "Verletzung gesetzlicher Pflichten",
         "parent": {
@@ -493,7 +459,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005603308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005603308",
         "name": "\u00a7 24",
         "title": "Erl\u00f6schen der Mitgliedschaft",
         "parent": {
@@ -507,7 +472,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005804308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005804308",
         "name": "\u00a7 25",
         "title": "Ersatzmitglieder",
         "parent": {
@@ -521,7 +485,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000502308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000502308",
         "name": "Dritter Abschnitt",
         "title": "Gesch\u00e4ftsf\u00fchrung des\nBetriebsrats",
         "parent": {
@@ -534,7 +497,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE005904308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE005904308",
         "name": "\u00a7 26",
         "title": "Vorsitzender",
         "parent": {
@@ -548,7 +510,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006004308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006004308",
         "name": "\u00a7 27",
         "title": "Betriebsausschuss",
         "parent": {
@@ -562,7 +523,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006104308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006104308",
         "name": "\u00a7 28",
         "title": "\u00dcbertragung von Aufgaben auf Aussch\u00fcsse",
         "parent": {
@@ -576,7 +536,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017501308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017501308",
         "name": "\u00a7 28a",
         "title": "\u00dcbertragung von Aufgaben auf Arbeitsgruppen",
         "parent": {
@@ -590,7 +549,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006205308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006205308",
         "name": "\u00a7 29",
         "title": "Einberufung der Sitzungen",
         "parent": {
@@ -604,7 +562,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006302308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006302308",
         "name": "\u00a7 30",
         "title": "Betriebsratssitzungen",
         "parent": {
@@ -618,7 +575,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006403308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006403308",
         "name": "\u00a7 31",
         "title": "Teilnahme der Gewerkschaften",
         "parent": {
@@ -632,7 +588,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006506119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006506119",
         "name": "\u00a7 32",
         "title": "Teilnahme der Schwerbehindertenvertretung",
         "parent": {
@@ -646,7 +601,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006603308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006603308",
         "name": "\u00a7 33",
         "title": "Beschl\u00fcsse des Betriebsrats",
         "parent": {
@@ -660,7 +614,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006702308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006702308",
         "name": "\u00a7 34",
         "title": "Sitzungsniederschrift",
         "parent": {
@@ -674,7 +627,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006805308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006805308",
         "name": "\u00a7 35",
         "title": "Aussetzung von Beschl\u00fcssen",
         "parent": {
@@ -688,7 +640,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE006902308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE006902308",
         "name": "\u00a7 36",
         "title": "Gesch\u00e4ftsordnung",
         "parent": {
@@ -702,7 +653,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007004308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007004308",
         "name": "\u00a7 37",
         "title": "Ehrenamtliche T\u00e4tigkeit, Arbeitsvers\u00e4umnis",
         "parent": {
@@ -716,7 +666,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007104308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007104308",
         "name": "\u00a7 38",
         "title": "Freistellungen",
         "parent": {
@@ -730,7 +679,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007203308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007203308",
         "name": "\u00a7 39",
         "title": "Sprechstunden",
         "parent": {
@@ -744,7 +692,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007303308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007303308",
         "name": "\u00a7 40",
         "title": "Kosten und Sachaufwand des Betriebsrats",
         "parent": {
@@ -758,7 +705,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007402308",
         "name": "\u00a7 41",
         "title": "Umlageverbot",
         "parent": {
@@ -772,7 +718,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000602308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000602308",
         "name": "Vierter Abschnitt",
         "title": "Betriebsversammlung",
         "parent": {
@@ -785,7 +730,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007502308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007502308",
         "name": "\u00a7 42",
         "title": "Zusammensetzung, Teilversammlung, Abteilungsversammlung",
         "parent": {
@@ -799,7 +743,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007603308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007603308",
         "name": "\u00a7 43",
         "title": "Regelm\u00e4\u00dfige Betriebs- und Abteilungsversammlungen",
         "parent": {
@@ -813,7 +756,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007703308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007703308",
         "name": "\u00a7 44",
         "title": "Zeitpunkt und Verdienstausfall",
         "parent": {
@@ -827,7 +769,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007804308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007804308",
         "name": "\u00a7 45",
         "title": "Themen der Betriebs- und Abteilungsversammlungen",
         "parent": {
@@ -841,7 +782,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE007902308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE007902308",
         "name": "\u00a7 46",
         "title": "Beauftragte der Verb\u00e4nde",
         "parent": {
@@ -855,7 +795,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000702308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000702308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Gesamtbetriebsrat",
         "parent": {
@@ -868,7 +807,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008004308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008004308",
         "name": "\u00a7 47",
         "title": "Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht *)",
         "parent": {
@@ -882,7 +820,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008102308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008102308",
         "name": "\u00a7 48",
         "title": "Ausschluss von Gesamtbetriebsratsmitgliedern",
         "parent": {
@@ -896,7 +833,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008202308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008202308",
         "name": "\u00a7 49",
         "title": "Erl\u00f6schen der Mitgliedschaft",
         "parent": {
@@ -910,7 +846,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008303308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008303308",
         "name": "\u00a7 50",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -924,7 +859,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008404308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008404308",
         "name": "\u00a7 51",
         "title": "Gesch\u00e4ftsf\u00fchrung",
         "parent": {
@@ -938,7 +872,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008506119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008506119",
         "name": "\u00a7 52",
         "title": "Teilnahme der Gesamtschwerbehindertenvertretung",
         "parent": {
@@ -952,7 +885,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008604308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008604308",
         "name": "\u00a7 53",
         "title": "Betriebsr\u00e4teversammlung",
         "parent": {
@@ -966,7 +898,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000802308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000802308",
         "name": "Sechster Abschnitt",
         "title": "Konzernbetriebsrat",
         "parent": {
@@ -979,7 +910,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008703308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008703308",
         "name": "\u00a7 54",
         "title": "Errichtung des Konzernbetriebsrats",
         "parent": {
@@ -993,7 +923,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008804308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008804308",
         "name": "\u00a7 55",
         "title": "Zusammensetzung des Konzernbetriebsrats, Stimmengewicht",
         "parent": {
@@ -1007,7 +936,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE008902308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE008902308",
         "name": "\u00a7 56",
         "title": "Ausschluss von Konzernbetriebsratsmitgliedern",
         "parent": {
@@ -1021,7 +949,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009002308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009002308",
         "name": "\u00a7 57",
         "title": "Erl\u00f6schen der Mitgliedschaft",
         "parent": {
@@ -1035,7 +962,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009103308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009103308",
         "name": "\u00a7 58",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -1049,7 +975,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009204308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009204308",
         "name": "\u00a7 59",
         "title": "Gesch\u00e4ftsf\u00fchrung",
         "parent": {
@@ -1063,7 +988,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017602119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017602119",
         "name": "\u00a7 59a",
         "title": "Teilnahme der Konzernschwerbehindertenvertretung",
         "parent": {
@@ -1077,7 +1001,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG000903308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG000903308",
         "name": "Dritter Teil",
         "title": "Jugend- und Auszubildendenvertretung",
         "parent": null,
@@ -1087,7 +1010,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001003308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001003308",
         "name": "Erster Abschnitt",
         "title": "Betriebliche Jugend- und\nAuszubildendenvertretung",
         "parent": {
@@ -1100,7 +1022,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009303308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009303308",
         "name": "\u00a7 60",
         "title": "Errichtung und Aufgabe",
         "parent": {
@@ -1114,7 +1035,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009403308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009403308",
         "name": "\u00a7 61",
         "title": "Wahlberechtigung und W\u00e4hlbarkeit",
         "parent": {
@@ -1128,7 +1048,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009504308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009504308",
         "name": "\u00a7 62",
         "title": "Zahl der Jugend- und Auszubildendenvertreter, Zusammensetzung der\nJugend- und Auszubildendenvertretung",
         "parent": {
@@ -1142,7 +1061,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009606308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009606308",
         "name": "\u00a7 63",
         "title": "Wahlvorschriften",
         "parent": {
@@ -1156,7 +1074,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009703308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009703308",
         "name": "\u00a7 64",
         "title": "Zeitpunkt der Wahlen und Amtszeit",
         "parent": {
@@ -1170,7 +1087,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009804308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009804308",
         "name": "\u00a7 65",
         "title": "Gesch\u00e4ftsf\u00fchrung",
         "parent": {
@@ -1184,7 +1100,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE009903308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE009903308",
         "name": "\u00a7 66",
         "title": "Aussetzung von Beschl\u00fcssen des Betriebsrats",
         "parent": {
@@ -1198,7 +1113,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010003308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010003308",
         "name": "\u00a7 67",
         "title": "Teilnahme an Betriebsratssitzungen",
         "parent": {
@@ -1212,7 +1126,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010103308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010103308",
         "name": "\u00a7 68",
         "title": "Teilnahme an gemeinsamen Besprechungen",
         "parent": {
@@ -1226,7 +1139,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010203308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010203308",
         "name": "\u00a7 69",
         "title": "Sprechstunden",
         "parent": {
@@ -1240,7 +1152,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010304308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010304308",
         "name": "\u00a7 70",
         "title": "Allgemeine Aufgaben",
         "parent": {
@@ -1254,7 +1165,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010403308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010403308",
         "name": "\u00a7 71",
         "title": "Jugend- und Auszubildendenversammlung",
         "parent": {
@@ -1268,7 +1178,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001103308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001103308",
         "name": "Zweiter Abschnitt",
         "title": "Gesamt-Jugend- und\nAuszubildendenvertretung",
         "parent": {
@@ -1281,7 +1190,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010504308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010504308",
         "name": "\u00a7 72",
         "title": "Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht",
         "parent": {
@@ -1295,7 +1203,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010604308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010604308",
         "name": "\u00a7 73",
         "title": "Gesch\u00e4ftsf\u00fchrung und Geltung sonstiger Vorschriften",
         "parent": {
@@ -1309,7 +1216,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG003101308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG003101308",
         "name": "Dritter Abschnitt",
         "title": "Konzern-Jugend- und\nAuszubildendenvertretung",
         "parent": {
@@ -1322,7 +1228,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017701308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017701308",
         "name": "\u00a7 73a",
         "title": "Voraussetzung der Errichtung, Mitgliederzahl, Stimmengewicht",
         "parent": {
@@ -1336,7 +1241,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017801308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017801308",
         "name": "\u00a7 73b",
         "title": "Gesch\u00e4ftsf\u00fchrung und Geltung sonstiger Vorschriften",
         "parent": {
@@ -1350,7 +1254,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001202308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001202308",
         "name": "Vierter Teil",
         "title": "Mitwirkung und Mitbestimmung der\nArbeitnehmer",
         "parent": null,
@@ -1360,7 +1263,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001302308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001302308",
         "name": "Erster Abschnitt",
         "title": "Allgemeines",
         "parent": {
@@ -1373,7 +1275,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010703308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010703308",
         "name": "\u00a7 74",
         "title": "Grunds\u00e4tze f\u00fcr die Zusammenarbeit",
         "parent": {
@@ -1387,7 +1288,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010804308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010804308",
         "name": "\u00a7 75",
         "title": "Grunds\u00e4tze f\u00fcr die Behandlung der Betriebsangeh\u00f6rigen",
         "parent": {
@@ -1401,7 +1301,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE010903308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE010903308",
         "name": "\u00a7 76",
         "title": "Einigungsstelle",
         "parent": {
@@ -1415,7 +1314,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016704308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016704308",
         "name": "\u00a7 76a",
         "title": "Kosten der Einigungsstelle",
         "parent": {
@@ -1429,7 +1327,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011002308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011002308",
         "name": "\u00a7 77",
         "title": "Durchf\u00fchrung gemeinsamer Beschl\u00fcsse, Betriebsvereinbarungen",
         "parent": {
@@ -1443,7 +1340,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011105119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011105119",
         "name": "\u00a7 78",
         "title": "Schutzbestimmungen",
         "parent": {
@@ -1457,7 +1353,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011203308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011203308",
         "name": "\u00a7 78a",
         "title": "Schutz Auszubildender in besonderen F\u00e4llen",
         "parent": {
@@ -1471,7 +1366,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011304308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011304308",
         "name": "\u00a7 79",
         "title": "Geheimhaltungspflicht",
         "parent": {
@@ -1485,7 +1379,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011408360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011408360",
         "name": "\u00a7 80",
         "title": "Allgemeine Aufgaben",
         "parent": {
@@ -1499,7 +1392,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001402308",
         "name": "Zweiter Abschnitt",
         "title": "Mitwirkungs- und\nBeschwerderecht des Arbeitnehmers",
         "parent": {
@@ -1512,7 +1404,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011504308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011504308",
         "name": "\u00a7 81",
         "title": "Unterrichtungs- und Er\u00f6rterungspflicht des Arbeitgebers",
         "parent": {
@@ -1526,7 +1417,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011602308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011602308",
         "name": "\u00a7 82",
         "title": "Anh\u00f6rungs- und Er\u00f6rterungsrecht des Arbeitnehmers",
         "parent": {
@@ -1540,7 +1430,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011702308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011702308",
         "name": "\u00a7 83",
         "title": "Einsicht in die Personalakten",
         "parent": {
@@ -1554,7 +1443,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011802308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011802308",
         "name": "\u00a7 84",
         "title": "Beschwerderecht",
         "parent": {
@@ -1568,7 +1456,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE011902308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE011902308",
         "name": "\u00a7 85",
         "title": "Behandlung von Beschwerden durch den Betriebsrat",
         "parent": {
@@ -1582,7 +1469,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012002308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012002308",
         "name": "\u00a7 86",
         "title": "Erg\u00e4nzende Vereinbarungen",
         "parent": {
@@ -1596,7 +1482,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017901308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017901308",
         "name": "\u00a7 86a",
         "title": "Vorschlagsrecht der Arbeitnehmer",
         "parent": {
@@ -1610,7 +1495,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001502308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001502308",
         "name": "Dritter Abschnitt",
         "title": "Soziale Angelegenheiten",
         "parent": {
@@ -1623,7 +1507,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012103308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012103308",
         "name": "\u00a7 87",
         "title": "Mitbestimmungsrechte",
         "parent": {
@@ -1637,7 +1520,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012204119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012204119",
         "name": "\u00a7 88",
         "title": "Freiwillige Betriebsvereinbarungen",
         "parent": {
@@ -1651,7 +1533,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012304308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012304308",
         "name": "\u00a7 89",
         "title": "Arbeits- und betrieblicher Umweltschutz",
         "parent": {
@@ -1665,7 +1546,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001602308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001602308",
         "name": "Vierter Abschnitt",
         "title": "Gestaltung von Arbeitsplatz,\nArbeitsablauf und Arbeitsumgebung",
         "parent": {
@@ -1678,7 +1558,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012403308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012403308",
         "name": "\u00a7 90",
         "title": "Unterrichtungs- und Beratungsrechte",
         "parent": {
@@ -1692,7 +1571,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012502308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012502308",
         "name": "\u00a7 91",
         "title": "Mitbestimmungsrecht",
         "parent": {
@@ -1706,7 +1584,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001702308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001702308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Personelle Angelegenheiten",
         "parent": {
@@ -1719,7 +1596,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001802308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001802308",
         "name": "Erster Unterabschnitt",
         "title": "Allgemeine personelle\nAngelegenheiten",
         "parent": {
@@ -1732,7 +1608,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012606119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012606119",
         "name": "\u00a7 92",
         "title": "Personalplanung",
         "parent": {
@@ -1746,7 +1621,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE018002308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE018002308",
         "name": "\u00a7 92a",
         "title": "Besch\u00e4ftigungssicherung",
         "parent": {
@@ -1760,7 +1634,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012704308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012704308",
         "name": "\u00a7 93",
         "title": "Ausschreibung von Arbeitspl\u00e4tzen",
         "parent": {
@@ -1774,7 +1647,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012802308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012802308",
         "name": "\u00a7 94",
         "title": "Personalfragebogen, Beurteilungsgrunds\u00e4tze",
         "parent": {
@@ -1788,7 +1660,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE012903308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE012903308",
         "name": "\u00a7 95",
         "title": "Auswahlrichtlinien",
         "parent": {
@@ -1802,7 +1673,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG001902308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG001902308",
         "name": "Zweiter Unterabschnitt",
         "title": "Berufsbildung",
         "parent": {
@@ -1815,7 +1685,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013004308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013004308",
         "name": "\u00a7 96",
         "title": "F\u00f6rderung der Berufsbildung",
         "parent": {
@@ -1829,7 +1698,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013103308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013103308",
         "name": "\u00a7 97",
         "title": "Einrichtungen und Ma\u00dfnahmen der Berufsbildung",
         "parent": {
@@ -1843,7 +1711,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013204308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013204308",
         "name": "\u00a7 98",
         "title": "Durchf\u00fchrung betrieblicher Bildungsma\u00dfnahmen",
         "parent": {
@@ -1857,7 +1724,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002002308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002002308",
         "name": "Dritter Unterabschnitt",
         "title": "Personelle\nEinzelma\u00dfnahmen",
         "parent": {
@@ -1870,7 +1736,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013303308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013303308",
         "name": "\u00a7 99",
         "title": "Mitbestimmung bei personellen Einzelma\u00dfnahmen",
         "parent": {
@@ -1884,7 +1749,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013402308",
         "name": "\u00a7 100",
         "title": "Vorl\u00e4ufige personelle Ma\u00dfnahmen",
         "parent": {
@@ -1898,7 +1762,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013504308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013504308",
         "name": "\u00a7 101",
         "title": "Zwangsgeld",
         "parent": {
@@ -1912,7 +1775,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013603308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013603308",
         "name": "\u00a7 102",
         "title": "Mitbestimmung bei K\u00fcndigungen",
         "parent": {
@@ -1926,7 +1788,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013704308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013704308",
         "name": "\u00a7 103",
         "title": "Au\u00dferordentliche K\u00fcndigung und Versetzung in besonderen F\u00e4llen",
         "parent": {
@@ -1940,7 +1801,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013806308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013806308",
         "name": "\u00a7 104",
         "title": "Entfernung betriebsst\u00f6render Arbeitnehmer",
         "parent": {
@@ -1954,7 +1814,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE013902308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE013902308",
         "name": "\u00a7 105",
         "title": "Leitende Angestellte",
         "parent": {
@@ -1968,7 +1827,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002102308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002102308",
         "name": "Sechster Abschnitt",
         "title": "Wirtschaftliche\nAngelegenheiten",
         "parent": {
@@ -1981,7 +1839,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002202308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002202308",
         "name": "Erster Unterabschnitt",
         "title": "Unterrichtung in\nwirtschaftlichen Angelegenheiten",
         "parent": {
@@ -1994,7 +1851,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014005308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014005308",
         "name": "\u00a7 106",
         "title": "Wirtschaftsausschuss",
         "parent": {
@@ -2008,7 +1864,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014102308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014102308",
         "name": "\u00a7 107",
         "title": "Bestellung und Zusammensetzung des Wirtschaftsausschusses",
         "parent": {
@@ -2022,7 +1877,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014203308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014203308",
         "name": "\u00a7 108",
         "title": "Sitzungen",
         "parent": {
@@ -2036,7 +1890,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014303308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014303308",
         "name": "\u00a7 109",
         "title": "Beilegung von Meinungsverschiedenheiten",
         "parent": {
@@ -2050,7 +1903,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE018100308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE018100308",
         "name": "\u00a7 109a",
         "title": "Unternehmens\u00fcbernahme",
         "parent": {
@@ -2064,7 +1916,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014402308",
         "name": "\u00a7 110",
         "title": "Unterrichtung der Arbeitnehmer",
         "parent": {
@@ -2078,7 +1929,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002302308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002302308",
         "name": "Zweiter Unterabschnitt",
         "title": "Betriebs\u00e4nderungen",
         "parent": {
@@ -2091,7 +1941,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014504308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014504308",
         "name": "\u00a7 111",
         "title": "Betriebs\u00e4nderungen",
         "parent": {
@@ -2105,7 +1954,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014605308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014605308",
         "name": "\u00a7 112",
         "title": "Interessenausgleich \u00fcber die Betriebs\u00e4nderung, Sozialplan",
         "parent": {
@@ -2119,7 +1967,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016503308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016503308",
         "name": "\u00a7 112a",
         "title": "Erzwingbarer Sozialplan bei Personalabbau, Neugr\u00fcndungen",
         "parent": {
@@ -2133,7 +1980,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014704308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014704308",
         "name": "\u00a7 113",
         "title": "Nachteilsausgleich",
         "parent": {
@@ -2147,7 +1993,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002402308",
         "name": "F\u00fcnfter Teil",
         "title": "Besondere Vorschriften f\u00fcr\neinzelne Betriebsarten",
         "parent": null,
@@ -2157,7 +2002,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002502308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002502308",
         "name": "Erster Abschnitt",
         "title": "Seeschifffahrt",
         "parent": {
@@ -2170,7 +2014,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014805377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014805377",
         "name": "\u00a7 114",
         "title": "Grunds\u00e4tze",
         "parent": {
@@ -2184,7 +2027,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE014904308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE014904308",
         "name": "\u00a7 115",
         "title": "Bordvertretung",
         "parent": {
@@ -2198,7 +2040,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015004308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015004308",
         "name": "\u00a7 116",
         "title": "Seebetriebsrat",
         "parent": {
@@ -2212,7 +2053,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002602308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002602308",
         "name": "Zweiter Abschnitt",
         "title": "Luftfahrt",
         "parent": {
@@ -2225,7 +2065,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015104126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015104126",
         "name": "\u00a7 117",
         "title": "Geltung f\u00fcr die Luftfahrt",
         "parent": {
@@ -2239,7 +2078,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002702308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002702308",
         "name": "Dritter Abschnitt",
         "title": "Tendenzbetriebe und\nReligionsgemeinschaften",
         "parent": {
@@ -2252,7 +2090,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015202308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015202308",
         "name": "\u00a7 118",
         "title": "Geltung f\u00fcr Tendenzbetriebe und Religionsgemeinschaften",
         "parent": {
@@ -2266,7 +2103,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002802308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002802308",
         "name": "Sechster Teil",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null,
@@ -2276,7 +2112,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015306119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015306119",
         "name": "\u00a7 119",
         "title": "Straftaten gegen Betriebsverfassungsorgane und ihre Mitglieder",
         "parent": {
@@ -2290,7 +2125,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015404119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015404119",
         "name": "\u00a7 120",
         "title": "Verletzung von Geheimnissen",
         "parent": {
@@ -2304,7 +2138,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015507308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015507308",
         "name": "\u00a7 121",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2318,7 +2151,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG002902308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG002902308",
         "name": "Siebenter Teil",
         "title": "\u00c4nderung von Gesetzen",
         "parent": null,
@@ -2328,7 +2160,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016801308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016801308",
         "name": "\u00a7 122",
         "title": null,
         "parent": {
@@ -2342,7 +2173,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016901308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016901308",
         "name": "\u00a7 123",
         "title": null,
         "parent": {
@@ -2356,7 +2186,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE017001308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE017001308",
         "name": "\u00a7 124",
         "title": null,
         "parent": {
@@ -2370,7 +2199,6 @@
       {
         "type": "heading",
         "id": "BJNR000130972BJNG003002308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNG003002308",
         "name": "Achter Teil",
         "title": "\u00dcbergangs- und Schlussvorschriften",
         "parent": null,
@@ -2380,7 +2208,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015705308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015705308",
         "name": "\u00a7 125",
         "title": "Erstmalige Wahlen nach diesem Gesetz",
         "parent": {
@@ -2394,7 +2221,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015805308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015805308",
         "name": "\u00a7 126",
         "title": "Erm\u00e4chtigung zum Erlass von Wahlordnungen",
         "parent": {
@@ -2408,7 +2234,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE015902308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE015902308",
         "name": "\u00a7 127",
         "title": "Verweisungen",
         "parent": {
@@ -2422,7 +2247,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016002308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016002308",
         "name": "\u00a7 128",
         "title": "Bestehende abweichende Tarifvertr\u00e4ge",
         "parent": {
@@ -2436,7 +2260,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016104119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016104119",
         "name": "\u00a7 129",
         "title": "Sonderregelungen aus Anlass der COVID-19-Pandemie",
         "parent": {
@@ -2450,7 +2273,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016202308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016202308",
         "name": "\u00a7 130",
         "title": "\u00d6ffentlicher Dienst",
         "parent": {
@@ -2464,7 +2286,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016302308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016302308",
         "name": "\u00a7 131",
         "title": "(Berlin-Klausel)",
         "parent": {
@@ -2478,7 +2299,6 @@
       {
         "type": "article",
         "id": "BJNR000130972BJNE016402308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/betrvg/articles/BJNR000130972BJNE016402308",
         "name": "\u00a7 132",
         "title": null,
         "parent": {

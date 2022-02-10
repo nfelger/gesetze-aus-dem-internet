@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR007730967",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/partg",
     "firstPublished": "1967-07-24",
     "sourceTimestamp": "20200722212509",
     "titleShort": "Parteiengesetz",
@@ -36,7 +35,6 @@
       {
         "type": "heading",
         "id": "BJNR007730967BJNG000103307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000103307",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Bestimmungen",
         "parent": null,
@@ -46,7 +44,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE000904307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE000904307",
         "name": "\u00a7 1",
         "title": "Verfassungsrechtliche Stellung und Aufgaben der Parteien",
         "parent": {
@@ -60,7 +57,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001004377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001004377",
         "name": "\u00a7 2",
         "title": "Begriff der Partei",
         "parent": {
@@ -74,7 +70,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001103307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001103307",
         "name": "\u00a7 3",
         "title": "Aktiv- und Passivlegitimation",
         "parent": {
@@ -88,7 +83,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001203307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001203307",
         "name": "\u00a7 4",
         "title": "Name",
         "parent": {
@@ -102,7 +96,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001304307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001304307",
         "name": "\u00a7 5",
         "title": "Gleichbehandlung",
         "parent": {
@@ -116,7 +109,6 @@
       {
         "type": "heading",
         "id": "BJNR007730967BJNG000203307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000203307",
         "name": "Zweiter Abschnitt",
         "title": "Innere Ordnung",
         "parent": null,
@@ -126,7 +118,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001405307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001405307",
         "name": "\u00a7 6",
         "title": "Satzung und Programm",
         "parent": {
@@ -140,7 +131,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001503307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001503307",
         "name": "\u00a7 7",
         "title": "Gliederung",
         "parent": {
@@ -154,7 +144,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001603307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001603307",
         "name": "\u00a7 8",
         "title": "Organe",
         "parent": {
@@ -168,7 +157,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001703307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001703307",
         "name": "\u00a7 9",
         "title": "Mitglieder- und Vertreterversammlung (Parteitag,\nHauptversammlung)",
         "parent": {
@@ -182,7 +170,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001803307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001803307",
         "name": "\u00a7 10",
         "title": "Rechte der Mitglieder",
         "parent": {
@@ -196,7 +183,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE001905160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE001905160",
         "name": "\u00a7 11",
         "title": "Vorstand",
         "parent": {
@@ -210,7 +196,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002003307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002003307",
         "name": "\u00a7 12",
         "title": "Allgemeine Parteiaussch\u00fcsse",
         "parent": {
@@ -224,7 +209,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002103307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002103307",
         "name": "\u00a7 13",
         "title": "Zusammensetzung der Vertreterversammlungen",
         "parent": {
@@ -238,7 +222,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002203307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002203307",
         "name": "\u00a7 14",
         "title": "Parteischiedsgerichte",
         "parent": {
@@ -252,7 +235,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002303307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002303307",
         "name": "\u00a7 15",
         "title": "Willensbildung in den Organen",
         "parent": {
@@ -266,7 +248,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002403307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002403307",
         "name": "\u00a7 16",
         "title": "Ma\u00dfnahmen gegen Gebietsverb\u00e4nde",
         "parent": {
@@ -280,7 +261,6 @@
       {
         "type": "heading",
         "id": "BJNR007730967BJNG000303307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000303307",
         "name": "Dritter Abschnitt",
         "title": "Aufstellung von Wahlbewerbern",
         "parent": null,
@@ -290,7 +270,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002503307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002503307",
         "name": "\u00a7 17",
         "title": "Aufstellung von Wahlbewerbern",
         "parent": {
@@ -304,7 +283,6 @@
       {
         "type": "heading",
         "id": "BJNR007730967BJNG000404307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000404307",
         "name": "Vierter Abschnitt",
         "title": "Staatliche Finanzierung",
         "parent": null,
@@ -314,7 +292,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002616311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002616311",
         "name": "\u00a7 18",
         "title": "Grunds\u00e4tze und Umfang der staatlichen Finanzierung",
         "parent": {
@@ -328,7 +305,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002707377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002707377",
         "name": "\u00a7 19",
         "title": "Antragstellung f\u00fcr die staatliche Teilfinanzierung",
         "parent": {
@@ -342,7 +318,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005402377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005402377",
         "name": "\u00a7 19a",
         "title": "Festsetzungsverfahren",
         "parent": {
@@ -356,7 +331,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002806377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002806377",
         "name": "\u00a7 20",
         "title": "Abschlagszahlungen",
         "parent": {
@@ -370,7 +344,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE002906377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE002906377",
         "name": "\u00a7 21",
         "title": "Bereitstellung von Bundesmitteln und Auszahlungsverfahren sowie\nPr\u00fcfung durch den Bundesrechnungshof",
         "parent": {
@@ -384,7 +357,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003006307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003006307",
         "name": "\u00a7 22",
         "title": "Parteiinterner Finanzausgleich",
         "parent": {
@@ -398,7 +370,6 @@
       {
         "type": "heading",
         "id": "BJNR007730967BJNG000804307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000804307",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Rechenschaftslegung",
         "parent": null,
@@ -408,7 +379,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003107377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003107377",
         "name": "\u00a7 23",
         "title": "Pflicht zur \u00f6ffentlichen Rechenschaftslegung",
         "parent": {
@@ -422,7 +392,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005006377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005006377",
         "name": "\u00a7 23a",
         "title": "Pr\u00fcfung des Rechenschaftsberichts",
         "parent": {
@@ -436,7 +405,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005500377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005500377",
         "name": "\u00a7 23b",
         "title": "Anzeigepflicht bei Unrichtigkeiten im Rechenschaftsbericht",
         "parent": {
@@ -450,7 +418,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003211377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003211377",
         "name": "\u00a7 24",
         "title": "Rechenschaftsbericht",
         "parent": {
@@ -464,7 +431,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003309377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003309377",
         "name": "\u00a7 25",
         "title": "Spenden",
         "parent": {
@@ -478,7 +444,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003408377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003408377",
         "name": "\u00a7 26",
         "title": "Begriff der Einnahme",
         "parent": {
@@ -492,7 +457,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE006000377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE006000377",
         "name": "\u00a7 26a",
         "title": "Begriff der Ausgabe",
         "parent": {
@@ -506,7 +470,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003508377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003508377",
         "name": "\u00a7 27",
         "title": "Einzelne Einnahmearten",
         "parent": {
@@ -520,7 +483,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003607377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003607377",
         "name": "\u00a7 28",
         "title": "Verm\u00f6gensbilanz",
         "parent": {
@@ -534,7 +496,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003705377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003705377",
         "name": "\u00a7 29",
         "title": "Pr\u00fcfung des Rechenschaftsberichts",
         "parent": {
@@ -548,7 +509,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003804377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003804377",
         "name": "\u00a7 30",
         "title": "Pr\u00fcfungsbericht und Pr\u00fcfungsvermerk",
         "parent": {
@@ -562,7 +522,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE003905377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE003905377",
         "name": "\u00a7 31",
         "title": "Pr\u00fcfer",
         "parent": {
@@ -576,7 +535,6 @@
       {
         "type": "heading",
         "id": "BJNR007730967BJNG000900377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000900377",
         "name": "Sechster Abschnitt",
         "title": "Verfahren bei unrichtigen\nRechenschaftsberichten sowie Strafvorschriften",
         "parent": null,
@@ -586,7 +544,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005600377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005600377",
         "name": "\u00a7 31a",
         "title": "R\u00fcckforderung der staatlichen Finanzierung",
         "parent": {
@@ -600,7 +557,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005800377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005800377",
         "name": "\u00a7 31b",
         "title": "Unrichtigkeit des Rechenschaftsberichts",
         "parent": {
@@ -614,7 +570,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005902377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005902377",
         "name": "\u00a7 31c",
         "title": "Rechtswidrig erlangte oder nicht ver\u00f6ffentlichte Spenden",
         "parent": {
@@ -628,7 +583,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005700377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005700377",
         "name": "\u00a7 31d",
         "title": "Strafvorschriften",
         "parent": {
@@ -642,7 +596,6 @@
       {
         "type": "heading",
         "id": "BJNR007730967BJNG000506377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000506377",
         "name": "Siebter Abschnitt",
         "title": "Vollzug des Verbots\nverfassungswidriger Parteien",
         "parent": null,
@@ -652,7 +605,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE004004311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE004004311",
         "name": "\u00a7 32",
         "title": "Vollstreckung",
         "parent": {
@@ -666,7 +618,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE004103307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE004103307",
         "name": "\u00a7 33",
         "title": "Verbot von Ersatzorganisationen",
         "parent": {
@@ -680,7 +631,6 @@
       {
         "type": "heading",
         "id": "BJNR007730967BJNG000606377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNG000606377",
         "name": "Achter Abschnitt",
         "title": "Schlu\u00dfbestimmungen",
         "parent": null,
@@ -690,7 +640,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE004203307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE004203307",
         "name": "\u00a7 34",
         "title": null,
         "parent": {
@@ -704,7 +653,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005102307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005102307",
         "name": "\u00a7 35",
         "title": null,
         "parent": {
@@ -718,7 +666,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE005202307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE005202307",
         "name": "\u00a7 36",
         "title": null,
         "parent": {
@@ -732,7 +679,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE004305377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE004305377",
         "name": "\u00a7 37",
         "title": "Nichtanwendbarkeit einer Vorschrift des B\u00fcrgerlichen Gesetzbuchs",
         "parent": {
@@ -746,7 +692,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE004405377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE004405377",
         "name": "\u00a7 38",
         "title": "Zwangsmittel",
         "parent": {
@@ -760,7 +705,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE004509377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE004509377",
         "name": "\u00a7 39",
         "title": "Abschluss- und \u00dcbergangsregelungen",
         "parent": {
@@ -774,7 +718,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE004607377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE004607377",
         "name": "\u00a7 40",
         "title": null,
         "parent": {
@@ -788,7 +731,6 @@
       {
         "type": "article",
         "id": "BJNR007730967BJNE004703307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/partg/articles/BJNR007730967BJNE004703307",
         "name": "\u00a7 41",
         "title": null,
         "parent": {

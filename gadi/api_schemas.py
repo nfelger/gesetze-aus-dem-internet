@@ -3,13 +3,10 @@ from typing import List, Union
 import humps
 from pydantic import BaseModel, Field, validator
 
-from . import PUBLIC_ASSET_ROOT, urls
-
 
 class ContentItemBasicFields(BaseModel):
     type: str
     id: str = Field(..., description="Unique ID")
-    url: str = Field(..., description="Resource link")
     name: str = Field(..., description="Item name, e.g. paragraph number or section")
     title: str = Field(None, description="Section or article title")
 
@@ -18,7 +15,6 @@ class ContentItemBasicFields(BaseModel):
         return {
             "id": item.doknr,
             "type": humps.camelize(item.item_type),
-            "url": urls.get_article(item.law.slug, item.doknr),
             "name": item.name,
             "title": item.title,
         }
@@ -105,7 +101,6 @@ class LawBasicFields(BaseModel):
 
     type: str = "law"
     id: str = Field(..., description="Unique ID")
-    url: str = Field(..., description="Resource link")
     firstPublished: str = Field(..., description="Initial publication date")
     sourceTimestamp: str = Field(..., description="Modification time on gesetze-im-internet.de")
     titleShort: str = Field(None, description="Title of the law (shortened)")
@@ -118,7 +113,6 @@ class LawBasicFields(BaseModel):
         return dict(
             id=law.doknr,
             type="law",
-            url=urls.get_law(law.slug),
             abbreviation=law.abbreviation,
             slug=law.slug,
             firstPublished=law.first_published,
@@ -233,7 +227,6 @@ class LawAllFields(LawBasicFields):
     statusInfo: List[StatusInfoItem] = Field(..., description="Status information")
     notes: TextContent
     attachments: dict = Field(..., description="See Note on attachments")
-    # Order in the Union matters: FastAPI tries one after the other and only skips types if there's a validation error.
     contents: List[Union[
         ArticleAllFields, HeadingAllFields, HeadingArticleAllFields
     ]] = Field(None, description="Contents of the law (articles, section headings)")
@@ -253,7 +246,7 @@ class LawAllFields(LawBasicFields):
         }
 
         attrs["attachments"] = {
-            name: f"{PUBLIC_ASSET_ROOT}/gesetze_im_internet/{law.gii_slug}/{name}"
+            name: f"https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/{law.gii_slug}/{name}"
             for name in law.attachment_names
         }
 
@@ -274,41 +267,3 @@ class LawResponse(BaseModel):
     def from_orm_model(cls, law):
         return cls(data=LawAllFields.from_orm_model(law))
 
-
-class PaginationLinks(BaseModel):
-    """
-    Pagination links
-    """
-    prev: str = Field(None, description="Link to previous result page")
-    next: str = Field(None, description="Link to following result page")
-
-
-class Pagination(BaseModel):
-    """
-    Pagination information
-    """
-    total: int = Field(..., description="Total number of items")
-    page: int = Field(..., description="Result page number")
-    per_page: int = Field(..., description="Number of items per page")
-
-
-class LawsResponse(BaseModel):
-    data: List[Union[LawAllFields, LawBasicFields]] = Field(..., description="The requested data")
-    links: PaginationLinks
-    pagination: Pagination
-
-
-class ContentItemResponse(BaseModel):
-    # Order in the Union matters: FastAPI tries one after the other and only skips types if there's a validation error.
-    data: Union[ArticleAllFields, HeadingArticleAllFields, HeadingAllFields] = Field(..., description="The requested data")
-
-
-class SearchResultsResponse(BaseModel):
-    # Order in the Union matters: FastAPI tries one after the other and only skips types if there's a validation error.
-    data: List[Union[
-        LawBasicFields,
-        ArticleBasicFieldsWithLaw, ArticleBasicFields,
-        HeadingArticleBasicFieldsWithLaw, HeadingArticleBasicFields
-    ]] = Field(..., description="The requested data")
-    links: PaginationLinks
-    pagination: Pagination

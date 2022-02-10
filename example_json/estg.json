@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR010050934",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/estg",
     "firstPublished": "1934-10-16",
     "sourceTimestamp": "20200818213018",
     "titleShort": null,
@@ -38,7 +37,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE042010123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE042010123",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -49,7 +47,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000108140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000108140",
         "name": "I.",
         "title": "Steuerpflicht",
         "parent": null,
@@ -59,7 +56,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE003619116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE003619116",
         "name": "\u00a7 1",
         "title": "Steuerpflicht",
         "parent": {
@@ -73,7 +69,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE023113123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE023113123",
         "name": "\u00a7 1a",
         "title": null,
         "parent": {
@@ -87,7 +82,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000208140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000208140",
         "name": "II.",
         "title": "Einkommen",
         "parent": null,
@@ -97,7 +91,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000308140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000308140",
         "name": "1.",
         "title": "Sachliche Voraussetzungen f\u00fcr die Besteuerung",
         "parent": {
@@ -110,7 +103,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE003735123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE003735123",
         "name": "\u00a7 2",
         "title": "Umfang der Besteuerung, Begriffsbestimmungen",
         "parent": {
@@ -124,7 +116,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE016917140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE016917140",
         "name": "\u00a7 2a",
         "title": "Negative Eink\u00fcnfte mit Bezug zu Drittstaaten",
         "parent": {
@@ -138,7 +129,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000408140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000408140",
         "name": "2.",
         "title": "Steuerfreie Einnahmen",
         "parent": {
@@ -151,7 +141,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE031178123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE031178123",
         "name": "\u00a7 3",
         "title": null,
         "parent": {
@@ -165,7 +154,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE003912123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE003912123",
         "name": "\u00a7 3a",
         "title": "Sanierungsertr\u00e4ge",
         "parent": {
@@ -179,7 +167,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004012140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004012140",
         "name": "\u00a7 3b",
         "title": "Steuerfreiheit von Zuschl\u00e4gen f\u00fcr Sonntags-, Feiertags- oder Nachtarbeit",
         "parent": {
@@ -193,7 +180,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE040300123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE040300123",
         "name": "\u00a7 3c",
         "title": "Anteilige Abz\u00fcge",
         "parent": {
@@ -207,7 +193,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000508140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000508140",
         "name": "3.",
         "title": "Gewinn",
         "parent": {
@@ -220,7 +205,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004250123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004250123",
         "name": "\u00a7 4",
         "title": "Gewinnbegriff im Allgemeinen",
         "parent": {
@@ -234,7 +218,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004308140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004308140",
         "name": "\u00a7 4a",
         "title": "Gewinnermittlungszeitraum, Wirtschaftsjahr",
         "parent": {
@@ -248,7 +231,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004408140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004408140",
         "name": "\u00a7 4b",
         "title": "Direktversicherung",
         "parent": {
@@ -262,7 +244,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004511123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004511123",
         "name": "\u00a7 4c",
         "title": "Zuwendungen an Pensionskassen",
         "parent": {
@@ -276,7 +257,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004620377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004620377",
         "name": "\u00a7 4d",
         "title": "Zuwendungen an Unterst\u00fctzungskassen",
         "parent": {
@@ -290,7 +270,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE026903377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE026903377",
         "name": "\u00a7 4e",
         "title": "Beitr\u00e4ge an Pensionsfonds",
         "parent": {
@@ -304,7 +283,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE031705119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE031705119",
         "name": "\u00a7 4f",
         "title": "Verpflichtungs\u00fcbernahmen, Schuldbeitritte und Erf\u00fcllungs\u00fcbernahmen",
         "parent": {
@@ -318,7 +296,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE032502123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE032502123",
         "name": "\u00a7 4g",
         "title": "Bildung eines Ausgleichspostens bei Entnahme nach \u00a7 4 Absatz 1 Satz 3",
         "parent": {
@@ -332,7 +309,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE034204140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE034204140",
         "name": "\u00a7 4h",
         "title": "Betriebsausgabenabzug f\u00fcr Zinsaufwendungen (Zinsschranke)",
         "parent": {
@@ -346,7 +322,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE039201116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE039201116",
         "name": "\u00a7 4i",
         "title": "Sonderbetriebsausgabenabzug bei Vorg\u00e4ngen mit Auslandsbezug",
         "parent": {
@@ -360,7 +335,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE039600360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE039600360",
         "name": "\u00a7 4j",
         "title": "Aufwendungen f\u00fcr Rechte\u00fcberlassungen",
         "parent": {
@@ -374,7 +348,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004719119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004719119",
         "name": "\u00a7 5",
         "title": "Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden",
         "parent": {
@@ -388,7 +361,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE026312123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE026312123",
         "name": "\u00a7 5a",
         "title": "Gewinnermittlung bei Handelsschiffen im internationalen Verkehr",
         "parent": {
@@ -402,7 +374,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE036702377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE036702377",
         "name": "\u00a7 5b",
         "title": "Elektronische \u00dcbermittlung von Bilanzen sowie Gewinn- und Verlustrechnungen",
         "parent": {
@@ -416,7 +387,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004850123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004850123",
         "name": "\u00a7 6",
         "title": "Bewertung",
         "parent": {
@@ -430,7 +400,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE004916377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE004916377",
         "name": "\u00a7 6a",
         "title": "Pensionsr\u00fcckstellung",
         "parent": {
@@ -444,7 +413,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE005023123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE005023123",
         "name": "\u00a7 6b",
         "title": "\u00dcbertragung stiller Reserven bei der Ver\u00e4u\u00dferung bestimmter Anlageg\u00fcter",
         "parent": {
@@ -458,7 +426,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE005110140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE005110140",
         "name": "\u00a7 6c",
         "title": "\u00dcbertragung stiller Reserven bei der Ver\u00e4u\u00dferung bestimmter Anlageg\u00fcter bei der Ermittlung des Gewinns nach \u00a7 4 Absatz 3 oder nach Durchschnittss\u00e4tzen",
         "parent": {
@@ -472,7 +439,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020022140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020022140",
         "name": "\u00a7 6d",
         "title": "Euroumrechnungsr\u00fccklage",
         "parent": {
@@ -486,7 +452,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE041200123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE041200123",
         "name": "\u00a7 6e",
         "title": "Fondsetablierungskosten als Anschaffungskosten",
         "parent": {
@@ -500,7 +465,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE005230123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE005230123",
         "name": "\u00a7 7",
         "title": "Absetzung f\u00fcr Abnutzung oder Substanzverringerung",
         "parent": {
@@ -514,7 +478,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE005311140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE005311140",
         "name": "\u00a7 7a",
         "title": "Gemeinsame Vorschriften f\u00fcr erh\u00f6hte Absetzungen und Sonderabschreibungen",
         "parent": {
@@ -528,7 +491,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE040900123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE040900123",
         "name": "\u00a7 7b",
         "title": "Sonderabschreibung f\u00fcr Mietwohnungsneubau",
         "parent": {
@@ -542,7 +504,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE005413123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE005413123",
         "name": "(XXXX) \u00a7\u00a7 7c bis 7d",
         "title": "(weggefallen)",
         "parent": {
@@ -556,7 +517,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE005711140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE005711140",
         "name": "\u00a7 7e",
         "title": "(weggefallen)",
         "parent": {
@@ -570,7 +530,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE005812377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE005812377",
         "name": "\u00a7 7f",
         "title": "(weggefallen)",
         "parent": {
@@ -584,7 +543,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE017229116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE017229116",
         "name": "\u00a7 7g",
         "title": "Investitionsabzugsbetr\u00e4ge und Sonderabschreibungen zur F\u00f6rderung kleiner und mittlerer Betriebe",
         "parent": {
@@ -598,7 +556,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020410123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020410123",
         "name": "\u00a7 7h",
         "title": "Erh\u00f6hte Absetzungen bei Geb\u00e4uden in Sanierungsgebieten und st\u00e4dtebaulichen Entwicklungsbereichen",
         "parent": {
@@ -612,7 +569,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020509140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020509140",
         "name": "\u00a7 7i",
         "title": "Erh\u00f6hte Absetzungen bei Baudenkmalen",
         "parent": {
@@ -626,7 +582,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020608377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020608377",
         "name": "\u00a7 7k",
         "title": "(weggefallen)",
         "parent": {
@@ -640,7 +595,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000608140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000608140",
         "name": "4.",
         "title": "\u00dcberschuss der Einnahmen \u00fcber die Werbungskosten",
         "parent": {
@@ -653,7 +607,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE005924123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE005924123",
         "name": "\u00a7 8",
         "title": "Einnahmen",
         "parent": {
@@ -667,7 +620,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006044123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006044123",
         "name": "\u00a7 9",
         "title": "Werbungskosten",
         "parent": {
@@ -681,7 +633,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006122377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006122377",
         "name": "\u00a7 9a",
         "title": "Pauschbetr\u00e4ge f\u00fcr Werbungskosten",
         "parent": {
@@ -695,7 +646,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000708140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000708140",
         "name": "4a.",
         "title": "Umsatzsteuerrechtlicher Vorsteuerabzug",
         "parent": {
@@ -708,7 +658,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006214119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006214119",
         "name": "\u00a7 9b",
         "title": null,
         "parent": {
@@ -722,7 +671,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000808140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000808140",
         "name": "5.",
         "title": "Sonderausgaben",
         "parent": {
@@ -735,7 +683,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006376123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006376123",
         "name": "\u00a7 10",
         "title": null,
         "parent": {
@@ -749,7 +696,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027034123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027034123",
         "name": "\u00a7 10a",
         "title": "Zus\u00e4tzliche Altersvorsorge",
         "parent": {
@@ -763,7 +709,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006532123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006532123",
         "name": "\u00a7 10b",
         "title": "Steuerbeg\u00fcnstigte Zwecke",
         "parent": {
@@ -777,7 +722,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006631377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006631377",
         "name": "\u00a7 10c",
         "title": "Sonderausgaben-Pauschbetrag",
         "parent": {
@@ -791,7 +735,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006721123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006721123",
         "name": "\u00a7 10d",
         "title": "Verlustabzug",
         "parent": {
@@ -805,7 +748,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE037200140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE037200140",
         "name": "\u00a7 10e",
         "title": "Steuerbeg\u00fcnstigung der zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus",
         "parent": {
@@ -819,7 +761,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020709140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020709140",
         "name": "\u00a7 10f",
         "title": "Steuerbeg\u00fcnstigung f\u00fcr zu eigenen Wohnzwecken genutzte Baudenkmale und Geb\u00e4ude in Sanierungsgebieten und st\u00e4dtebaulichen Entwicklungsbereichen",
         "parent": {
@@ -833,7 +774,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE030106377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE030106377",
         "name": "\u00a7 10g",
         "title": "Steuerbeg\u00fcnstigung f\u00fcr schutzw\u00fcrdige Kulturg\u00fcter, die weder zur Einkunftserzielung noch zu eigenen Wohnzwecken genutzt werden",
         "parent": {
@@ -847,7 +787,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE030203377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE030203377",
         "name": "\u00a7 10h",
         "title": "(weggefallen)",
         "parent": {
@@ -861,7 +800,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE026006377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE026006377",
         "name": "\u00a7 10i",
         "title": "(weggefallen)",
         "parent": {
@@ -875,7 +813,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG000908140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG000908140",
         "name": "6.",
         "title": "Vereinnahmung und Verausgabung",
         "parent": {
@@ -888,7 +825,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006811140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006811140",
         "name": "\u00a7 11",
         "title": null,
         "parent": {
@@ -902,7 +838,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020807123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020807123",
         "name": "\u00a7 11a",
         "title": "Sonderbehandlung von Erhaltungsaufwand bei Geb\u00e4uden in Sanierungsgebieten und st\u00e4dtebaulichen Entwicklungsbereichen",
         "parent": {
@@ -916,7 +851,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020906140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020906140",
         "name": "\u00a7 11b",
         "title": "Sonderbehandlung von Erhaltungsaufwand bei Baudenkmalen",
         "parent": {
@@ -930,7 +864,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001008140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001008140",
         "name": "7.",
         "title": "Nicht abzugsf\u00e4hige Ausgaben",
         "parent": {
@@ -943,7 +876,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE006929123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE006929123",
         "name": "\u00a7 12",
         "title": null,
         "parent": {
@@ -957,7 +889,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001108140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001108140",
         "name": "8.",
         "title": "Die einzelnen Einkunftsarten",
         "parent": {
@@ -970,7 +901,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001208140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001208140",
         "name": "a)",
         "title": "Land- und Forstwirtschaft (\u00a7 2 Absatz 1 Satz 1 Nummer 1)",
         "parent": {
@@ -983,7 +913,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007019377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007019377",
         "name": "\u00a7 13",
         "title": "Eink\u00fcnfte aus Land- und Forstwirtschaft",
         "parent": {
@@ -997,7 +926,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007117377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007117377",
         "name": "\u00a7 13a",
         "title": "Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittss\u00e4tzen",
         "parent": {
@@ -1011,7 +939,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007209140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007209140",
         "name": "\u00a7 14",
         "title": "Ver\u00e4u\u00dferung des Betriebs",
         "parent": {
@@ -1025,7 +952,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007319140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007319140",
         "name": "\u00a7 14a",
         "title": "Verg\u00fcnstigungen bei der Ver\u00e4u\u00dferung bestimmter land- und forstwirtschaftlicher Betriebe",
         "parent": {
@@ -1039,7 +965,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001308140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001308140",
         "name": "b)",
         "title": "Gewerbebetrieb (\u00a7 2 Absatz 1 Satz 1 Nummer 2)",
         "parent": {
@@ -1052,7 +977,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007422123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007422123",
         "name": "\u00a7 15",
         "title": "Eink\u00fcnfte aus Gewerbebetrieb",
         "parent": {
@@ -1066,7 +990,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007512140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007512140",
         "name": "\u00a7 15a",
         "title": "Verluste bei beschr\u00e4nkter Haftung",
         "parent": {
@@ -1080,7 +1003,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE031604377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE031604377",
         "name": "\u00a7 15b",
         "title": "Verluste im Zusammenhang mit Steuerstundungsmodellen",
         "parent": {
@@ -1094,7 +1016,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007624140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007624140",
         "name": "\u00a7 16",
         "title": "Ver\u00e4u\u00dferung des Betriebs",
         "parent": {
@@ -1108,7 +1029,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007721123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007721123",
         "name": "\u00a7 17",
         "title": "Ver\u00e4u\u00dferung von Anteilen an Kapitalgesellschaften",
         "parent": {
@@ -1122,7 +1042,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001408140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001408140",
         "name": "c)",
         "title": "Selbst\u00e4ndige Arbeit (\u00a7 2 Absatz 1 Satz 1 Nummer 3)",
         "parent": {
@@ -1135,7 +1054,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007817140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007817140",
         "name": "\u00a7 18",
         "title": null,
         "parent": {
@@ -1149,7 +1067,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001508140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001508140",
         "name": "d)",
         "title": "Nichtselbst\u00e4ndige Arbeit (\u00a7 2 Absatz 1 Satz 1 Nummer 4)",
         "parent": {
@@ -1162,7 +1079,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE007921123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE007921123",
         "name": "\u00a7 19",
         "title": null,
         "parent": {
@@ -1176,7 +1092,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001608140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001608140",
         "name": "e)",
         "title": "Kapitalverm\u00f6gen (\u00a7 2 Absatz 1 Satz 1 Nummer 5)",
         "parent": {
@@ -1189,7 +1104,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE008047123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE008047123",
         "name": "\u00a7 20",
         "title": null,
         "parent": {
@@ -1203,7 +1117,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001708140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001708140",
         "name": "f)",
         "title": "Vermietung und Verpachtung (\u00a7 2 Absatz 1 Satz 1 Nummer 6)",
         "parent": {
@@ -1216,7 +1129,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE008116140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE008116140",
         "name": "\u00a7 21",
         "title": null,
         "parent": {
@@ -1230,7 +1142,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001808140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001808140",
         "name": "g)",
         "title": "Sonstige Eink\u00fcnfte (\u00a7 2 Absatz 1 Satz 1 Nummer 7)",
         "parent": {
@@ -1243,7 +1154,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE008338123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE008338123",
         "name": "\u00a7 22",
         "title": "Arten der sonstigen Eink\u00fcnfte",
         "parent": {
@@ -1257,7 +1167,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE030720123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE030720123",
         "name": "\u00a7 22a",
         "title": "Rentenbezugsmitteilungen an die zentrale Stelle",
         "parent": {
@@ -1271,7 +1180,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE008423377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE008423377",
         "name": "\u00a7 23",
         "title": "Private Ver\u00e4u\u00dferungsgesch\u00e4fte",
         "parent": {
@@ -1285,7 +1193,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG001908140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG001908140",
         "name": "h)",
         "title": "Gemeinsame Vorschriften",
         "parent": {
@@ -1298,7 +1205,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE008508140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE008508140",
         "name": "\u00a7 24",
         "title": null,
         "parent": {
@@ -1312,7 +1218,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE008614119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE008614119",
         "name": "\u00a7 24a",
         "title": "Altersentlastungsbetrag",
         "parent": {
@@ -1326,7 +1231,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE030605123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE030605123",
         "name": "\u00a7 24b",
         "title": "Entlastungsbetrag f\u00fcr Alleinerziehende",
         "parent": {
@@ -1340,7 +1244,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002008140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002008140",
         "name": "III.",
         "title": "Veranlagung",
         "parent": null,
@@ -1350,7 +1253,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE008815140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE008815140",
         "name": "\u00a7 25",
         "title": "Veranlagungszeitraum, Steuererkl\u00e4rungspflicht",
         "parent": {
@@ -1364,7 +1266,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE008912140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE008912140",
         "name": "\u00a7 26",
         "title": "Veranlagung von Ehegatten",
         "parent": {
@@ -1378,7 +1279,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE009020123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE009020123",
         "name": "\u00a7 26a",
         "title": "Einzelveranlagung von Ehegatten",
         "parent": {
@@ -1392,7 +1292,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE009108140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE009108140",
         "name": "\u00a7 26b",
         "title": "Zusammenveranlagung von Ehegatten",
         "parent": {
@@ -1406,7 +1305,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE009208140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE009208140",
         "name": "\u00a7 27",
         "title": "(weggefallen)",
         "parent": {
@@ -1420,7 +1318,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE009308140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE009308140",
         "name": "\u00a7 28",
         "title": "Besteuerung bei fortgesetzter G\u00fctergemeinschaft",
         "parent": {
@@ -1434,7 +1331,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE009408140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE009408140",
         "name": "(XXXX) \u00a7\u00a7 29 und 30",
         "title": "(weggefallen)",
         "parent": {
@@ -1448,7 +1344,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002108140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002108140",
         "name": "IV.",
         "title": "Tarif",
         "parent": null,
@@ -1458,7 +1353,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE023210123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE023210123",
         "name": "\u00a7 31",
         "title": "Familienleistungsausgleich",
         "parent": {
@@ -1472,7 +1366,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE009752123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE009752123",
         "name": "\u00a7 32",
         "title": "Kinder, Freibetr\u00e4ge f\u00fcr Kinder",
         "parent": {
@@ -1486,7 +1379,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE009834123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE009834123",
         "name": "\u00a7 32a",
         "title": "Einkommensteuertarif",
         "parent": {
@@ -1500,7 +1392,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE009950123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE009950123",
         "name": "\u00a7 32b",
         "title": "Progressionsvorbehalt",
         "parent": {
@@ -1514,7 +1405,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE031804123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE031804123",
         "name": "\u00a7 32c",
         "title": "Tariferm\u00e4\u00dfigung bei Eink\u00fcnften aus Land- und Forstwirtschaft",
         "parent": {
@@ -1528,7 +1418,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE034307123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE034307123",
         "name": "\u00a7 32d",
         "title": "Gesonderter Steuertarif f\u00fcr Eink\u00fcnfte aus Kapitalverm\u00f6gen",
         "parent": {
@@ -1542,7 +1431,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010022140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010022140",
         "name": "\u00a7 33",
         "title": "Au\u00dfergew\u00f6hnliche Belastungen",
         "parent": {
@@ -1556,7 +1444,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010144123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010144123",
         "name": "\u00a7 33a",
         "title": "Au\u00dfergew\u00f6hnliche Belastung in besonderen F\u00e4llen",
         "parent": {
@@ -1570,7 +1457,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010225140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010225140",
         "name": "\u00a7 33b",
         "title": "Pauschbetr\u00e4ge f\u00fcr behinderte Menschen, Hinterbliebene und Pflegepersonen",
         "parent": {
@@ -1584,7 +1470,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010319140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010319140",
         "name": "\u00a7 34",
         "title": "Au\u00dferordentliche Eink\u00fcnfte",
         "parent": {
@@ -1598,7 +1483,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010412360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010412360",
         "name": "\u00a7 34a",
         "title": "Beg\u00fcnstigung der nicht entnommenen Gewinne",
         "parent": {
@@ -1612,7 +1496,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010515140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010515140",
         "name": "\u00a7 34b",
         "title": "Steuers\u00e4tze bei Eink\u00fcnften aus au\u00dferordentlichen Holznutzungen",
         "parent": {
@@ -1626,7 +1509,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002208140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002208140",
         "name": "V.",
         "title": "Steuererm\u00e4\u00dfigungen",
         "parent": null,
@@ -1636,7 +1518,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002308140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002308140",
         "name": "1.",
         "title": "Steuererm\u00e4\u00dfigung bei ausl\u00e4ndischen Eink\u00fcnften",
         "parent": {
@@ -1649,7 +1530,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010624123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010624123",
         "name": "\u00a7 34c",
         "title": null,
         "parent": {
@@ -1663,7 +1543,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010710123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010710123",
         "name": "\u00a7 34d",
         "title": "Ausl\u00e4ndische Eink\u00fcnfte",
         "parent": {
@@ -1677,7 +1556,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002408140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002408140",
         "name": "2.",
         "title": "Steuererm\u00e4\u00dfigung bei Eink\u00fcnften aus Land- und Forstwirtschaft",
         "parent": {
@@ -1690,7 +1568,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010812119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010812119",
         "name": "\u00a7 34e",
         "title": "(weggefallen)",
         "parent": {
@@ -1704,7 +1581,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002509140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002509140",
         "name": "2a.",
         "title": "Steuererm\u00e4\u00dfigung f\u00fcr Steuerpflichtige mit Kindern bei Inanspruchnahme erh\u00f6hter Absetzungen f\u00fcr Wohngeb\u00e4ude oder der Steuerbeg\u00fcnstigungen f\u00fcr eigengenutztes Wohneigentum",
         "parent": {
@@ -1717,7 +1593,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE010918140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE010918140",
         "name": "\u00a7 34f",
         "title": null,
         "parent": {
@@ -1731,7 +1606,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG003508140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG003508140",
         "name": "2b.",
         "title": "Steuererm\u00e4\u00dfigung bei Zuwendungen an politische Parteien und an unabh\u00e4ngige W\u00e4hlervereinigungen",
         "parent": {
@@ -1744,7 +1618,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE017417360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE017417360",
         "name": "\u00a7 34g",
         "title": null,
         "parent": {
@@ -1758,7 +1631,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002609140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002609140",
         "name": "3.",
         "title": "Steuererm\u00e4\u00dfigung bei Eink\u00fcnften aus Gewerbebetrieb",
         "parent": {
@@ -1771,7 +1643,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE011022123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE011022123",
         "name": "\u00a7 35",
         "title": null,
         "parent": {
@@ -1785,7 +1656,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG023900140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG023900140",
         "name": "4.",
         "title": "Steuererm\u00e4\u00dfigung bei Aufwendungen f\u00fcr haushaltsnahe Besch\u00e4ftigungsverh\u00e4ltnisse und f\u00fcr die Inanspruchnahme haushaltsnaher Dienstleistungen",
         "parent": {
@@ -1798,7 +1668,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE030310140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE030310140",
         "name": "\u00a7 35a",
         "title": "Steuererm\u00e4\u00dfigung bei Aufwendungen f\u00fcr haushaltsnahe Besch\u00e4ftigungsverh\u00e4ltnisse, haushaltsnahe Dienstleistungen und Handwerkerleistungen",
         "parent": {
@@ -1812,7 +1681,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG023801140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG023801140",
         "name": "5.",
         "title": "Steuererm\u00e4\u00dfigung bei Belastung mit Erbschaftsteuer",
         "parent": {
@@ -1825,7 +1693,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE036902377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE036902377",
         "name": "\u00a7 35b",
         "title": "Steuererm\u00e4\u00dfigung bei Belastung mit Erbschaftsteuer",
         "parent": {
@@ -1839,7 +1706,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG024100123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG024100123",
         "name": "6.",
         "title": "Steuererm\u00e4\u00dfigung f\u00fcr energetische Ma\u00dfnahmen bei zu eigenen Wohnzwecken genutzten Geb\u00e4uden",
         "parent": {
@@ -1852,7 +1718,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE042600123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE042600123",
         "name": "\u00a7 35c",
         "title": "Steuererm\u00e4\u00dfigung f\u00fcr energetische Ma\u00dfnahmen bei zu eigenen Wohnzwecken genutzten Geb\u00e4uden",
         "parent": {
@@ -1866,7 +1731,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002708140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002708140",
         "name": "VI.",
         "title": "Steuererhebung",
         "parent": null,
@@ -1876,7 +1740,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002808140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002808140",
         "name": "1.",
         "title": "Erhebung der Einkommensteuer",
         "parent": {
@@ -1889,7 +1752,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE041600123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE041600123",
         "name": "\u00a7 36",
         "title": "Entstehung und Tilgung der Einkommensteuer",
         "parent": {
@@ -1903,7 +1765,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE039101123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE039101123",
         "name": "\u00a7 36a",
         "title": "Beschr\u00e4nkung der Anrechenbarkeit der Kapitalertragsteuer",
         "parent": {
@@ -1917,7 +1778,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE011742123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE011742123",
         "name": "\u00a7 37",
         "title": "Einkommensteuer-Vorauszahlung",
         "parent": {
@@ -1931,7 +1791,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE026106140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE026106140",
         "name": "\u00a7 37a",
         "title": "Pauschalierung der Einkommensteuer durch Dritte",
         "parent": {
@@ -1945,7 +1804,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE034003140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE034003140",
         "name": "\u00a7 37b",
         "title": "Pauschalierung der Einkommensteuer bei Sachzuwendungen",
         "parent": {
@@ -1959,7 +1817,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG002908140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG002908140",
         "name": "2.",
         "title": "Steuerabzug vom Arbeitslohn (Lohnsteuer)",
         "parent": {
@@ -1972,7 +1829,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE011813123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE011813123",
         "name": "\u00a7 38",
         "title": "Erhebung der Lohnsteuer",
         "parent": {
@@ -1986,7 +1842,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE011911140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE011911140",
         "name": "\u00a7 38a",
         "title": "H\u00f6he der Lohnsteuer",
         "parent": {
@@ -2000,7 +1855,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012013360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012013360",
         "name": "\u00a7 38b",
         "title": "Lohnsteuerklassen, Zahl der Kinderfreibetr\u00e4ge",
         "parent": {
@@ -2014,7 +1868,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012230123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012230123",
         "name": "\u00a7 39",
         "title": "Lohnsteuerabzugsmerkmale",
         "parent": {
@@ -2028,7 +1881,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012346123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012346123",
         "name": "\u00a7 39a",
         "title": "Freibetrag und Hinzurechnungsbetrag",
         "parent": {
@@ -2042,7 +1894,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012448123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012448123",
         "name": "\u00a7 39b",
         "title": "Einbehaltung der Lohnsteuer",
         "parent": {
@@ -2056,7 +1907,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012519140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012519140",
         "name": "\u00a7 39c",
         "title": "Einbehaltung der Lohnsteuer ohne Lohnsteuerabzugsmerkmale",
         "parent": {
@@ -2070,7 +1920,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012629140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012629140",
         "name": "\u00a7 39d",
         "title": "(weggefallen)",
         "parent": {
@@ -2084,7 +1933,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE034510123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE034510123",
         "name": "\u00a7 39e",
         "title": "Verfahren zur Bildung und Anwendung der elektronischen Lohnsteuerabzugsmerkmale",
         "parent": {
@@ -2098,7 +1946,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE036605123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE036605123",
         "name": "\u00a7 39f",
         "title": "Faktorverfahren anstelle Steuerklassenkombination III/V",
         "parent": {
@@ -2112,7 +1959,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012729123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012729123",
         "name": "\u00a7 40",
         "title": "Pauschalierung der Lohnsteuer in besonderen F\u00e4llen",
         "parent": {
@@ -2126,7 +1972,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012828123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012828123",
         "name": "\u00a7 40a",
         "title": "Pauschalierung der Lohnsteuer f\u00fcr Teilzeitbesch\u00e4ftigte und geringf\u00fcgig Besch\u00e4ftigte",
         "parent": {
@@ -2140,7 +1985,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE012917123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE012917123",
         "name": "\u00a7 40b",
         "title": "Pauschalierung der Lohnsteuer bei bestimmten Zukunftssicherungsleistungen",
         "parent": {
@@ -2154,7 +1998,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013026123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013026123",
         "name": "\u00a7 41",
         "title": "Aufzeichnungspflichten beim Lohnsteuerabzug",
         "parent": {
@@ -2168,7 +2011,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013121123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013121123",
         "name": "\u00a7 41a",
         "title": "Anmeldung und Abf\u00fchrung der Lohnsteuer",
         "parent": {
@@ -2182,7 +2024,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013236123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013236123",
         "name": "\u00a7 41b",
         "title": "Abschluss des Lohnsteuerabzugs",
         "parent": {
@@ -2196,7 +2037,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013316119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013316119",
         "name": "\u00a7 41c",
         "title": "\u00c4nderung des Lohnsteuerabzugs",
         "parent": {
@@ -2210,7 +2050,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013414140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013414140",
         "name": "(XXXX) \u00a7\u00a7 42 und 42a",
         "title": "(weggefallen)",
         "parent": {
@@ -2224,7 +2063,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013636123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013636123",
         "name": "\u00a7 42b",
         "title": "Lohnsteuer-Jahresausgleich durch den Arbeitgeber",
         "parent": {
@@ -2238,7 +2076,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013711140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013711140",
         "name": "\u00a7 42c",
         "title": "(weggefallen)",
         "parent": {
@@ -2252,7 +2089,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013821140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013821140",
         "name": "\u00a7 42d",
         "title": "Haftung des Arbeitgebers und Haftung bei Arbeitnehmer\u00fcberlassung",
         "parent": {
@@ -2266,7 +2102,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE013909140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE013909140",
         "name": "\u00a7 42e",
         "title": "Anrufungsauskunft",
         "parent": {
@@ -2280,7 +2115,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014012140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014012140",
         "name": "\u00a7 42f",
         "title": "Lohnsteuer-Au\u00dfenpr\u00fcfung",
         "parent": {
@@ -2294,7 +2128,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE038600140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE038600140",
         "name": "\u00a7 42g",
         "title": "Lohnsteuer-Nachschau",
         "parent": {
@@ -2308,7 +2141,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG003008140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG003008140",
         "name": "3.",
         "title": "Steuerabzug vom Kapitalertrag (Kapitalertragsteuer)",
         "parent": {
@@ -2321,7 +2153,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014139123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014139123",
         "name": "\u00a7 43",
         "title": "Kapitalertr\u00e4ge mit Steuerabzug",
         "parent": {
@@ -2335,7 +2166,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014229377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014229377",
         "name": "\u00a7 43a",
         "title": "Bemessung der Kapitalertragsteuer",
         "parent": {
@@ -2349,7 +2179,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE026810116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE026810116",
         "name": "\u00a7 43b",
         "title": "Bemessung der Kapitalertragsteuer bei bestimmten Gesellschaften",
         "parent": {
@@ -2363,7 +2192,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014334123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014334123",
         "name": "\u00a7 44",
         "title": "Entrichtung der Kapitalertragsteuer",
         "parent": {
@@ -2377,7 +2205,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014435123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014435123",
         "name": "\u00a7 44a",
         "title": "Abstandnahme vom Steuerabzug",
         "parent": {
@@ -2391,7 +2218,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014525123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014525123",
         "name": "\u00a7 44b",
         "title": "Erstattung der Kapitalertragsteuer",
         "parent": {
@@ -2405,7 +2231,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014715123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014715123",
         "name": "\u00a7 45",
         "title": "Ausschluss der Erstattung von Kapitalertragsteuer",
         "parent": {
@@ -2419,7 +2244,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014831123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014831123",
         "name": "\u00a7 45a",
         "title": "Anmeldung und Bescheinigung der Kapitalertragsteuer",
         "parent": {
@@ -2433,7 +2257,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020117140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020117140",
         "name": "\u00a7 45b",
         "title": "(weggefallen)",
         "parent": {
@@ -2447,7 +2270,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE014915140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE014915140",
         "name": "\u00a7 45c",
         "title": "(weggefallen)",
         "parent": {
@@ -2461,7 +2283,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE021618123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE021618123",
         "name": "\u00a7 45d",
         "title": "Mitteilungen an das Bundeszentralamt f\u00fcr Steuern",
         "parent": {
@@ -2475,7 +2296,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE030503119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE030503119",
         "name": "\u00a7 45e",
         "title": "Erm\u00e4chtigung f\u00fcr Zinsinformationsverordnung",
         "parent": {
@@ -2489,7 +2309,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG003108140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG003108140",
         "name": "4.",
         "title": "Veranlagung von Steuerpflichtigen mit steuerabzugspflichtigen Eink\u00fcnften",
         "parent": {
@@ -2502,7 +2321,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE015047123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE015047123",
         "name": "\u00a7 46",
         "title": "Veranlagung bei Bezug von Eink\u00fcnften aus nichtselbst\u00e4ndiger Arbeit",
         "parent": {
@@ -2516,7 +2334,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE015208140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE015208140",
         "name": "\u00a7 47",
         "title": "(weggefallen)",
         "parent": {
@@ -2530,7 +2347,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG023602140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG023602140",
         "name": "VII.",
         "title": "Steuerabzug bei Bauleistungen",
         "parent": null,
@@ -2540,7 +2356,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029504140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029504140",
         "name": "\u00a7 48",
         "title": "Steuerabzug",
         "parent": {
@@ -2554,7 +2369,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029602140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029602140",
         "name": "\u00a7 48a",
         "title": "Verfahren",
         "parent": {
@@ -2568,7 +2382,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029705123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029705123",
         "name": "\u00a7 48b",
         "title": "Freistellungsbescheinigung",
         "parent": {
@@ -2582,7 +2395,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029802140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029802140",
         "name": "\u00a7 48c",
         "title": "Anrechnung",
         "parent": {
@@ -2596,7 +2408,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029902140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029902140",
         "name": "\u00a7 48d",
         "title": "Besonderheiten im Fall von Doppelbesteuerungsabkommen",
         "parent": {
@@ -2610,7 +2421,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG003308140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG003308140",
         "name": "VIII.",
         "title": "Besteuerung beschr\u00e4nkt Steuerpflichtiger",
         "parent": null,
@@ -2620,7 +2430,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE015446123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE015446123",
         "name": "\u00a7 49",
         "title": "Beschr\u00e4nkt steuerpflichtige Eink\u00fcnfte",
         "parent": {
@@ -2634,7 +2443,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE015550123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE015550123",
         "name": "\u00a7 50",
         "title": "Sondervorschriften f\u00fcr beschr\u00e4nkt Steuerpflichtige",
         "parent": {
@@ -2648,7 +2456,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE015627123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE015627123",
         "name": "\u00a7 50a",
         "title": "Steuerabzug bei beschr\u00e4nkt Steuerpflichtigen",
         "parent": {
@@ -2662,7 +2469,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG003409140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG003409140",
         "name": "IX.",
         "title": "Sonstige Vorschriften, Bu\u00dfgeld-, Erm\u00e4chtigungs- und Schlussvorschriften",
         "parent": null,
@@ -2672,7 +2478,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE015712140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE015712140",
         "name": "\u00a7 50b",
         "title": "Pr\u00fcfungsrecht",
         "parent": {
@@ -2686,7 +2491,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE015817140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE015817140",
         "name": "\u00a7 50c",
         "title": "(weggefallen)",
         "parent": {
@@ -2700,7 +2504,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020223123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020223123",
         "name": "\u00a7 50d",
         "title": "Besonderheiten im Fall von Doppelbesteuerungsabkommen und der \u00a7\u00a7 43b und 50g",
         "parent": {
@@ -2714,7 +2517,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE021708119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE021708119",
         "name": "\u00a7 50e",
         "title": "Bu\u00dfgeldvorschriften; Nichtverfolgung von Steuerstraftaten bei geringf\u00fcgiger Besch\u00e4ftigung in Privathaushalten",
         "parent": {
@@ -2728,7 +2530,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE030806123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE030806123",
         "name": "\u00a7 50f",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2742,7 +2543,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE031205119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE031205119",
         "name": "\u00a7 50g",
         "title": "Entlastung vom Steuerabzug bei Zahlungen von Zinsen und Lizenzgeb\u00fchren zwischen verbundenen Unternehmen verschiedener Mitgliedstaaten der Europ\u00e4ischen Union",
         "parent": {
@@ -2756,7 +2556,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE031302140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE031302140",
         "name": "\u00a7 50h",
         "title": "Best\u00e4tigung f\u00fcr Zwecke der Entlastung von Quellensteuern in einem anderen Mitgliedstaat der Europ\u00e4ischen Union oder der Schweizerischen Eidgenossenschaft",
         "parent": {
@@ -2770,7 +2569,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE038702377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE038702377",
         "name": "\u00a7 50i",
         "title": "Besteuerung bestimmter Eink\u00fcnfte und Anwendung von Doppelbesteuerungsabkommen",
         "parent": {
@@ -2784,7 +2582,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE039300377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE039300377",
         "name": "\u00a7 50j",
         "title": "Versagung der Entlastung von Kapitalertragsteuern in bestimmten F\u00e4llen",
         "parent": {
@@ -2798,7 +2595,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE015949123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE015949123",
         "name": "\u00a7 51",
         "title": "Erm\u00e4chtigungen",
         "parent": {
@@ -2812,7 +2608,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE016043123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE016043123",
         "name": "\u00a7 51a",
         "title": "Festsetzung und Erhebung von Zuschlagsteuern",
         "parent": {
@@ -2826,7 +2621,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE041709123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE041709123",
         "name": "\u00a7 52",
         "title": "Anwendungsvorschriften",
         "parent": {
@@ -2840,7 +2634,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE034412119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE034412119",
         "name": "\u00a7 52a",
         "title": "(weggefallen)",
         "parent": {
@@ -2854,7 +2647,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE037503123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE037503123",
         "name": "\u00a7 52b",
         "title": "(weggefallen)",
         "parent": {
@@ -2868,7 +2660,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE026503377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE026503377",
         "name": "\u00a7 53",
         "title": "(weggefallen)",
         "parent": {
@@ -2882,7 +2673,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE020306140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE020306140",
         "name": "\u00a7 54",
         "title": "(weggefallen)",
         "parent": {
@@ -2896,7 +2686,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE016611140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE016611140",
         "name": "\u00a7 55",
         "title": "Schlussvorschriften (Sondervorschriften f\u00fcr die Gewinnermittlung nach \u00a7 4 oder nach Durchschnittss\u00e4tzen bei vor dem 1. Juli 1970 angeschafftem Grund und Boden)",
         "parent": {
@@ -2910,7 +2699,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE021004140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE021004140",
         "name": "\u00a7 56",
         "title": "Sondervorschriften f\u00fcr Steuerpflichtige in dem in Artikel 3 des Einigungsvertrages genannten Gebiet",
         "parent": {
@@ -2924,7 +2712,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE021106140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE021106140",
         "name": "\u00a7 57",
         "title": "Besondere Anwendungsregeln aus Anlass der Herstellung der Einheit Deutschlands",
         "parent": {
@@ -2938,7 +2725,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE021203140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE021203140",
         "name": "\u00a7 58",
         "title": "Weitere Anwendung von Rechtsvorschriften, die vor Herstellung der Einheit Deutschlands in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gegolten haben",
         "parent": {
@@ -2952,7 +2738,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE021304140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE021304140",
         "name": "(XXXX) \u00a7\u00a7 59 bis 61",
         "title": "(weggefallen)",
         "parent": {
@@ -2966,7 +2751,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG023403140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG023403140",
         "name": "X.",
         "title": "Kindergeld",
         "parent": null,
@@ -2976,7 +2760,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE023613123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE023613123",
         "name": "\u00a7 62",
         "title": "Anspruchsberechtigte",
         "parent": {
@@ -2990,7 +2773,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE023707116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE023707116",
         "name": "\u00a7 63",
         "title": "Kinder",
         "parent": {
@@ -3004,7 +2786,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE023805140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE023805140",
         "name": "\u00a7 64",
         "title": "Zusammentreffen mehrerer Anspr\u00fcche",
         "parent": {
@@ -3018,7 +2799,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE023907140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE023907140",
         "name": "\u00a7 65",
         "title": "Andere Leistungen f\u00fcr Kinder",
         "parent": {
@@ -3032,7 +2812,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024021123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024021123",
         "name": "\u00a7 66",
         "title": "H\u00f6he des Kindergeldes, Zahlungszeitraum",
         "parent": {
@@ -3046,7 +2825,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024106116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024106116",
         "name": "\u00a7 67",
         "title": "Antrag",
         "parent": {
@@ -3060,7 +2838,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024209123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024209123",
         "name": "\u00a7 68",
         "title": "Besondere Mitwirkungspflichten und Offenbarungsbefugnis",
         "parent": {
@@ -3074,7 +2851,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024307360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024307360",
         "name": "\u00a7 69",
         "title": "Daten\u00fcbermittlung an die Familienkassen",
         "parent": {
@@ -3088,7 +2864,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024413123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024413123",
         "name": "\u00a7 70",
         "title": "Festsetzung und Zahlung des Kindergeldes",
         "parent": {
@@ -3102,7 +2877,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024505123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024505123",
         "name": "\u00a7 71",
         "title": "Vorl\u00e4ufige Einstellung der Zahlung des Kindergeldes",
         "parent": {
@@ -3116,7 +2890,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024613123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024613123",
         "name": "\u00a7 72",
         "title": "Festsetzung und Zahlung des Kindergeldes an Angeh\u00f6rige des \u00f6ffentlichen Dienstes",
         "parent": {
@@ -3130,7 +2903,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024704140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024704140",
         "name": "\u00a7 73",
         "title": "(weggefallen)",
         "parent": {
@@ -3144,7 +2916,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024805140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024805140",
         "name": "\u00a7 74",
         "title": "Zahlung des Kindergeldes in Sonderf\u00e4llen",
         "parent": {
@@ -3158,7 +2929,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE024908377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE024908377",
         "name": "\u00a7 75",
         "title": "Aufrechnung",
         "parent": {
@@ -3172,7 +2942,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE025005140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE025005140",
         "name": "\u00a7 76",
         "title": "Pf\u00e4ndung",
         "parent": {
@@ -3186,7 +2955,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE034105140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE034105140",
         "name": "\u00a7 76a",
         "title": "(weggefallen)",
         "parent": {
@@ -3200,7 +2968,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE025103140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE025103140",
         "name": "\u00a7 77",
         "title": "Erstattung von Kosten im Vorverfahren",
         "parent": {
@@ -3214,7 +2981,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE025206140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE025206140",
         "name": "\u00a7 78",
         "title": "\u00dcbergangsregelungen",
         "parent": {
@@ -3228,7 +2994,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG023502140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG023502140",
         "name": "XI.",
         "title": "Altersvorsorgezulage",
         "parent": null,
@@ -3238,7 +3003,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027108119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027108119",
         "name": "\u00a7 79",
         "title": "Zulageberechtigte",
         "parent": {
@@ -3252,7 +3016,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027203140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027203140",
         "name": "\u00a7 80",
         "title": "Anbieter",
         "parent": {
@@ -3266,7 +3029,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027303140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027303140",
         "name": "\u00a7 81",
         "title": "Zentrale Stelle",
         "parent": {
@@ -3280,7 +3042,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE030903140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE030903140",
         "name": "\u00a7 81a",
         "title": "Zust\u00e4ndige Stelle",
         "parent": {
@@ -3294,7 +3055,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027413123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027413123",
         "name": "\u00a7 82",
         "title": "Altersvorsorgebeitr\u00e4ge",
         "parent": {
@@ -3308,7 +3068,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027502140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027502140",
         "name": "\u00a7 83",
         "title": "Altersvorsorgezulage",
         "parent": {
@@ -3322,7 +3081,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027605360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027605360",
         "name": "\u00a7 84",
         "title": "Grundzulage",
         "parent": {
@@ -3336,7 +3094,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027709123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027709123",
         "name": "\u00a7 85",
         "title": "Kinderzulage",
         "parent": {
@@ -3350,7 +3107,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027814119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027814119",
         "name": "\u00a7 86",
         "title": "Mindesteigenbeitrag",
         "parent": {
@@ -3364,7 +3120,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE027903140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE027903140",
         "name": "\u00a7 87",
         "title": "Zusammentreffen mehrerer Vertr\u00e4ge",
         "parent": {
@@ -3378,7 +3133,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028002140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028002140",
         "name": "\u00a7 88",
         "title": "Entstehung des Anspruchs auf Zulage",
         "parent": {
@@ -3392,7 +3146,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028109123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028109123",
         "name": "\u00a7 89",
         "title": "Antrag",
         "parent": {
@@ -3406,7 +3159,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028209360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028209360",
         "name": "\u00a7 90",
         "title": "Verfahren",
         "parent": {
@@ -3420,7 +3172,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028411123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028411123",
         "name": "\u00a7 91",
         "title": "Datenerhebung und Datenabgleich",
         "parent": {
@@ -3434,7 +3185,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028510360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028510360",
         "name": "\u00a7 92",
         "title": "Bescheinigung",
         "parent": {
@@ -3448,7 +3198,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028614123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028614123",
         "name": "\u00a7 92a",
         "title": "Verwendung f\u00fcr eine selbst genutzte Wohnung",
         "parent": {
@@ -3462,7 +3211,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028707360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028707360",
         "name": "\u00a7 92b",
         "title": "Verfahren bei Verwendung f\u00fcr eine selbst genutzte Wohnung",
         "parent": {
@@ -3476,7 +3224,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028819123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028819123",
         "name": "\u00a7 93",
         "title": "Sch\u00e4dliche Verwendung",
         "parent": {
@@ -3490,7 +3237,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE028909123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE028909123",
         "name": "\u00a7 94",
         "title": "Verfahren bei sch\u00e4dlicher Verwendung",
         "parent": {
@@ -3504,7 +3250,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029013123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029013123",
         "name": "\u00a7 95",
         "title": "Sonderf\u00e4lle der R\u00fcckzahlung",
         "parent": {
@@ -3518,7 +3263,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029103360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029103360",
         "name": "\u00a7 96",
         "title": "Anwendung der Abgabenordnung, allgemeine Vorschriften",
         "parent": {
@@ -3532,7 +3276,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029204140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029204140",
         "name": "\u00a7 97",
         "title": "\u00dcbertragbarkeit",
         "parent": {
@@ -3546,7 +3289,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029302140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029302140",
         "name": "\u00a7 98",
         "title": "Rechtsweg",
         "parent": {
@@ -3560,7 +3302,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE029415123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE029415123",
         "name": "\u00a7 99",
         "title": "Erm\u00e4chtigung",
         "parent": {
@@ -3574,7 +3315,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG024000360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG024000360",
         "name": "XII.",
         "title": "F\u00f6rderbetrag zur betrieblichen Altersversorgung",
         "parent": null,
@@ -3584,7 +3324,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE040202123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE040202123",
         "name": "\u00a7 100",
         "title": "F\u00f6rderbetrag zur betrieblichen Altersversorgung",
         "parent": {
@@ -3598,7 +3337,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG024201123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG024201123",
         "name": "XIII.",
         "title": "(zuk\u00fcnftig in Kraft)",
         "parent": null,
@@ -3608,7 +3346,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE042801123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE042801123",
         "name": "(XXXX) \u00a7\u00a7 101 bis 109",
         "title": "(zuk\u00fcnftig in Kraft)",
         "parent": {
@@ -3622,7 +3359,6 @@
       {
         "type": "heading",
         "id": "BJNR010050934BJNG024300123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNG024300123",
         "name": "XIV.",
         "title": "Sondervorschriften zur Bew\u00e4ltigung der Corona-Pandemie",
         "parent": null,
@@ -3632,7 +3368,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE044300123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE044300123",
         "name": "\u00a7 110",
         "title": "Anpassung von Vorauszahlungen f\u00fcr den Veranlagungszeitraum 2019",
         "parent": {
@@ -3646,7 +3381,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE044400123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE044400123",
         "name": "\u00a7 111",
         "title": "Vorl\u00e4ufiger Verlustr\u00fccktrag f\u00fcr 2020",
         "parent": {
@@ -3660,7 +3394,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE016808140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE016808140",
         "name": "Anlage 1",
         "title": "(zu \u00a7 4d Absatz 1)<BR/>Tabelle f\u00fcr die Errechnung des Deckungskapitals f\u00fcr lebensl\u00e4nglich laufende Leistungen von Unterst\u00fctzungskassen",
         "parent": {
@@ -3674,7 +3407,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE038900377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE038900377",
         "name": "Anlage 1a",
         "title": "(zu \u00a7 13a)<BR/>Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittss\u00e4tzen",
         "parent": {
@@ -3688,7 +3420,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE025909116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE025909116",
         "name": "Anlage 2",
         "title": "(zu \u00a7 43b) Gesellschaften im Sinne der Richtlinie Nr. 2011/96/EU",
         "parent": {
@@ -3702,7 +3433,6 @@
       {
         "type": "article",
         "id": "BJNR010050934BJNE031403119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/estg/articles/BJNR010050934BJNE031403119",
         "name": "Anlage 3",
         "title": "(zu \u00a7 50g)",
         "parent": {

@@ -3,12 +3,9 @@ import json
 import os
 import sys
 import tarfile
-import tempfile
-
-import boto3
 import tqdm
 
-from rip_api import ASSET_BUCKET, api_schemas, db, models
+from gadi import api_schemas, db, models
 from .parsing import parse_law
 from .download import fetch_toc, has_update
 
@@ -170,24 +167,14 @@ def write_law_json_file(session, law, dir_path):
     _write_file(filepath, response.json(indent=2))
 
 
-def upload_file_to_s3(local_path, s3_key):
-    s3 = boto3.client("s3")
-    s3.upload_file(local_path, ASSET_BUCKET, s3_key)
-
-
-def generate_and_upload_bulk_law_files(session):
+def generate_bulk_law_files(session):
     tarfilename = "all_laws.tar.gz"
-    jsonfilename = "all_laws.json.gz"
+    dir_path = "."
 
-    with tempfile.TemporaryDirectory() as dir_path:
-        print("Generating json files")
-        write_all_law_json_files(session, dir_path)
+    print("Generating json files")
+    write_all_law_json_files(session, dir_path)
 
-        print("Creating tarball")
-        tarfilepath = f"{dir_path}/{tarfilename}"
-        with tarfile.open(tarfilepath, "w:gz") as tf:
-            tf.add(dir_path + "/laws", arcname="laws")
-
-        print("Uploading")
-        upload_file_to_s3(tarfilepath, f"public/{tarfilename}")
-        upload_file_to_s3(f"{dir_path}/{jsonfilename}", f"public/{jsonfilename}")
+    print("Creating tarball")
+    tarfilepath = f"{dir_path}/{tarfilename}"
+    with tarfile.open(tarfilepath, "w:gz") as tf:
+        tf.add(dir_path + "/laws", arcname="laws")

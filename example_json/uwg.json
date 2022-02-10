@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR141400004",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg",
     "firstPublished": "2004-07-03",
     "sourceTimestamp": "20190425212014",
     "titleShort": null,
@@ -38,7 +37,6 @@
       {
         "type": "heading",
         "id": "BJNR141400004BJNG000101140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNG000101140",
         "name": "Kapitel 1",
         "title": "Allgemeine Bestimmungen",
         "parent": null,
@@ -48,7 +46,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000102140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000102140",
         "name": "\u00a7 1",
         "title": "Zweck des Gesetzes",
         "parent": {
@@ -62,7 +59,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000203123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000203123",
         "name": "\u00a7 2",
         "title": "Definitionen",
         "parent": {
@@ -76,7 +72,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000303123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000303123",
         "name": "\u00a7 3",
         "title": "Verbot unlauterer gesch\u00e4ftlicher Handlungen",
         "parent": {
@@ -90,7 +85,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE002500123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE002500123",
         "name": "\u00a7 3a",
         "title": "Rechtsbruch",
         "parent": {
@@ -104,7 +98,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000403123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000403123",
         "name": "\u00a7 4",
         "title": "Mitbewerberschutz",
         "parent": {
@@ -118,7 +111,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE002600123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE002600123",
         "name": "\u00a7 4a",
         "title": "Aggressive gesch\u00e4ftliche Handlungen",
         "parent": {
@@ -132,7 +124,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000503123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000503123",
         "name": "\u00a7 5",
         "title": "Irref\u00fchrende gesch\u00e4ftliche Handlungen",
         "parent": {
@@ -146,7 +137,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE002303123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE002303123",
         "name": "\u00a7 5a",
         "title": "Irref\u00fchrung durch Unterlassen",
         "parent": {
@@ -160,7 +150,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000602140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000602140",
         "name": "\u00a7 6",
         "title": "Vergleichende Werbung",
         "parent": {
@@ -174,7 +163,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000704360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000704360",
         "name": "\u00a7 7",
         "title": "Unzumutbare Bel\u00e4stigungen",
         "parent": {
@@ -188,7 +176,6 @@
       {
         "type": "heading",
         "id": "BJNR141400004BJNG000201140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNG000201140",
         "name": "Kapitel 2",
         "title": "Rechtsfolgen",
         "parent": null,
@@ -198,7 +185,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000807123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000807123",
         "name": "\u00a7 8",
         "title": "Beseitigung und Unterlassung",
         "parent": {
@@ -212,7 +198,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE000902140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE000902140",
         "name": "\u00a7 9",
         "title": "Schadensersatz",
         "parent": {
@@ -226,7 +211,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE001003140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE001003140",
         "name": "\u00a7 10",
         "title": "Gewinnabsch\u00f6pfung",
         "parent": {
@@ -240,7 +224,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE001101140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE001101140",
         "name": "\u00a7 11",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -254,7 +237,6 @@
       {
         "type": "heading",
         "id": "BJNR141400004BJNG000301140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNG000301140",
         "name": "Kapitel 3",
         "title": "Verfahrensvorschriften",
         "parent": null,
@@ -264,7 +246,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE001202360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE001202360",
         "name": "\u00a7 12",
         "title": "Anspruchsdurchsetzung, Ver\u00f6ffentlichungsbefugnis, Streitwertminderung",
         "parent": {
@@ -278,7 +259,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE001301140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE001301140",
         "name": "\u00a7 13",
         "title": "Sachliche Zust\u00e4ndigkeit",
         "parent": {
@@ -292,7 +272,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE001401140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE001401140",
         "name": "\u00a7 14",
         "title": "\u00d6rtliche Zust\u00e4ndigkeit",
         "parent": {
@@ -306,7 +285,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE001502140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE001502140",
         "name": "\u00a7 15",
         "title": "Einigungsstellen",
         "parent": {
@@ -320,7 +298,6 @@
       {
         "type": "heading",
         "id": "BJNR141400004BJNG000402140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNG000402140",
         "name": "Kapitel 4",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null,
@@ -330,7 +307,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE001601140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE001601140",
         "name": "\u00a7 16",
         "title": "Strafbare Werbung",
         "parent": {
@@ -344,7 +320,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE001702360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE001702360",
         "name": "(XXXX) \u00a7\u00a7 17 bis 19",
         "title": "(weggefallen)",
         "parent": {
@@ -358,7 +333,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE002003360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE002003360",
         "name": "\u00a7 20",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -372,7 +346,6 @@
       {
         "type": "article",
         "id": "BJNR141400004BJNE002403123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/uwg/articles/BJNR141400004BJNE002403123",
         "name": "Anhang",
         "title": "(zu \u00a7 3 Absatz 3)",
         "parent": {

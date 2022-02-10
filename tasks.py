@@ -1,11 +1,9 @@
-import boto3
 from invoke import task, Collection
 from sqlalchemy.exc import OperationalError
 import sqlalchemy_utils
-import uvicorn
 
-from rip_api import ASSET_BUCKET, db, gesetze_im_internet
-from rip_api.gesetze_im_internet.download import location_from_string
+from gadi import db, gesetze_im_internet
+from gadi.gesetze_im_internet.download import location_from_string
 
 ns = Collection()
 
@@ -55,7 +53,7 @@ ns.add_task(run_tests, 'tests')
 
 @task(
     help={
-        "data-location": "Where to store downloaded law data (local path or S3 prefix url)"
+        "data-location": "Where to store downloaded law data"
     }
 )
 def download_laws(c, data_location):
@@ -67,7 +65,7 @@ def download_laws(c, data_location):
 
 @task(
     help={
-       "data-location": "Where law data has been downloaded (local path or S3 prefix url)"
+       "data-location": "Where law data has been downloaded"
     }
 )
 def ingest_data_from_location(c, data_location):
@@ -82,20 +80,6 @@ ns.add_collection(Collection(
     'ingest',
     download_laws=download_laws,
     ingest_data=ingest_data_from_location
-))
-
-
-# Dev tasks
-
-@task
-def start_api_server(c):
-    """Start API server in development mode."""
-    uvicorn.run("rip_api.api:app", host="127.0.0.1", port=5000, log_level="info", reload=True)
-
-
-ns.add_collection(Collection(
-    'dev',
-    start_api_server=start_api_server
 ))
 
 
@@ -151,56 +135,10 @@ def update_bulk_law_files(c):
     Generate and upload bulk law files.
     """
     with db.session_scope() as session:
-        gesetze_im_internet.generate_and_upload_bulk_law_files(session)
-
-
-def update_lambda_fn(function_name, s3_key):
-    boto3.client("lambda").update_function_code(
-        FunctionName=function_name, S3Bucket=ASSET_BUCKET, S3Key=s3_key
-    )
-
-
-@task
-def update_lambda_deps_layer(c):
-    """Build Python dependencies in docker and upload to S3."""
-    print("Warning! This will run `terraform apply`. Abort if this is not what you want!")
-    prompt = input("Proceed? [Y/n]")
-    if prompt.strip() in ('n', 'N'):
-        exit(1)
-
-    # Build local zip file.
-    c.run("./build_lambda_deps_layer_zip.sh")
-    # Upload to s3.
-    gesetze_im_internet.upload_file_to_s3("./lambda_deps.zip", "lambda_deps_layer.zip")
-    # Rm local file.
-    c.run("rm ./lambda_deps.zip")
-    # Use terraform to create new layer version (layers are immutable and can only be replaced, not updated).
-    c.run("[ -e .terraform ] || terraform init")
-    c.run("terraform taint aws_lambda_layer_version.deps_layer")
-    c.run("terraform apply")
-
-    print("IMPORTANT: Make sure to commit and push any changes to `terraform.tfstate` and `terraform.tfstate.backup`!")
-
-
-@task
-def update_lambda_function(c):
-    """Create application zip file and upload to S3."""
-    function_s3_key = "lambda_function.zip"
-
-    # Build local zip file.
-    c.run("./build_lambda_function_zip.sh")
-    # Upload to s3.
-    gesetze_im_internet.upload_file_to_s3("./lambda_function.zip", function_s3_key)
-    # Rm local file.
-    c.run("rm ./lambda_function.zip")
-    # Update Lambda functions.
-    for fn in ("fellows-2020-rechtsinfo-Api", "fellows-2020-rechtsinfo-DownloadLaws", "fellows-2020-rechtsinfo-IngestLaws"):
-        update_lambda_fn(fn, function_s3_key)
+        gesetze_im_internet.generate_bulk_law_files(session)
 
 
 ns.add_collection(Collection(
     'deploy',
     update_bulk_law_files=update_bulk_law_files,
-    update_lambda_deps_layer=update_lambda_deps_layer,
-    update_lambda_function=update_lambda_function
 ))

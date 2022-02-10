@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR012770972",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg",
     "firstPublished": "1972-07-24",
     "sourceTimestamp": "20200818213021",
     "titleShort": null,
@@ -36,7 +35,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000103377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000103377",
         "name": "Erster Abschnitt",
         "title": "Grundsatz",
         "parent": null,
@@ -46,7 +44,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE001303377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE001303377",
         "name": "\u00a7 1",
         "title": null,
         "parent": {
@@ -60,7 +57,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000203377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000203377",
         "name": "Zweiter Abschnitt",
         "title": "Tierhaltung",
         "parent": null,
@@ -70,7 +66,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE001404377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE001404377",
         "name": "\u00a7 2",
         "title": null,
         "parent": {
@@ -84,7 +79,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE001512360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE001512360",
         "name": "\u00a7 2a",
         "title": null,
         "parent": {
@@ -98,7 +92,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE001605360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE001605360",
         "name": "\u00a7 3",
         "title": null,
         "parent": {
@@ -112,7 +105,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000303377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000303377",
         "name": "Dritter Abschnitt",
         "title": "T\u00f6ten von Tieren",
         "parent": null,
@@ -122,7 +114,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE001707360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE001707360",
         "name": "\u00a7 4",
         "title": null,
         "parent": {
@@ -136,7 +127,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE001805360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE001805360",
         "name": "\u00a7 4a",
         "title": null,
         "parent": {
@@ -150,7 +140,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE001910119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE001910119",
         "name": "\u00a7 4b",
         "title": null,
         "parent": {
@@ -164,7 +153,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000403377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000403377",
         "name": "Vierter Abschnitt",
         "title": "Eingriffe an Tieren",
         "parent": null,
@@ -174,7 +162,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE002006360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE002006360",
         "name": "\u00a7 5",
         "title": null,
         "parent": {
@@ -188,7 +175,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE002108360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE002108360",
         "name": "\u00a7 6",
         "title": null,
         "parent": {
@@ -202,7 +188,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE002205360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE002205360",
         "name": "\u00a7 6a",
         "title": null,
         "parent": {
@@ -216,7 +201,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000503377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000503377",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Tierversuche",
         "parent": null,
@@ -226,7 +210,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE006300360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE006300360",
         "name": "\u00a7 7",
         "title": null,
         "parent": {
@@ -240,7 +223,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE002308360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE002308360",
         "name": "\u00a7 7a",
         "title": null,
         "parent": {
@@ -254,7 +236,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE002406360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE002406360",
         "name": "\u00a7 8",
         "title": null,
         "parent": {
@@ -268,7 +249,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE002505360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE002505360",
         "name": "\u00a7 8a",
         "title": null,
         "parent": {
@@ -282,7 +262,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE002707119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE002707119",
         "name": "\u00a7 9",
         "title": null,
         "parent": {
@@ -296,7 +275,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000604360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000604360",
         "name": "Sechster Abschnitt",
         "title": "Tierschutzbeauftragte",
         "parent": null,
@@ -306,7 +284,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE002905360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE002905360",
         "name": "\u00a7 10",
         "title": null,
         "parent": {
@@ -320,7 +297,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000705360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000705360",
         "name": "Siebenter Abschnitt",
         "title": "Zucht, Halten von Tieren, Handel mit Tieren",
         "parent": null,
@@ -330,7 +306,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003009124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003009124",
         "name": "\u00a7 11",
         "title": null,
         "parent": {
@@ -344,7 +319,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003107119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003107119",
         "name": "\u00a7 11a",
         "title": null,
         "parent": {
@@ -358,7 +332,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003207360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003207360",
         "name": "\u00a7 11b",
         "title": null,
         "parent": {
@@ -372,7 +345,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003304377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003304377",
         "name": "\u00a7 11c",
         "title": null,
         "parent": {
@@ -386,7 +358,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000805360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000805360",
         "name": "Achter Abschnitt",
         "title": "Verbringungs-, Verkehrs- und Haltungsverbot",
         "parent": null,
@@ -396,7 +367,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003410118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003410118",
         "name": "\u00a7 12",
         "title": null,
         "parent": {
@@ -410,7 +380,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG000905360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG000905360",
         "name": "Neunter Abschnnitt",
         "title": "Sonstige Bestimmungen zum Schutz der Tiere",
         "parent": null,
@@ -420,7 +389,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003511119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003511119",
         "name": "\u00a7 13",
         "title": null,
         "parent": {
@@ -434,7 +402,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE005905360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE005905360",
         "name": "\u00a7 13a",
         "title": null,
         "parent": {
@@ -448,7 +415,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE006400360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE006400360",
         "name": "\u00a7 13b",
         "title": null,
         "parent": {
@@ -462,7 +428,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG001005360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG001005360",
         "name": "Zehnter Abschnitt",
         "title": "Durchf\u00fchrung des Gesetzes",
         "parent": null,
@@ -472,7 +437,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003605377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003605377",
         "name": "\u00a7 14",
         "title": null,
         "parent": {
@@ -486,7 +450,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003706360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003706360",
         "name": "\u00a7 15",
         "title": null,
         "parent": {
@@ -500,7 +463,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003805360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003805360",
         "name": "\u00a7 15a",
         "title": null,
         "parent": {
@@ -514,7 +476,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE003912119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE003912119",
         "name": "\u00a7 16",
         "title": null,
         "parent": {
@@ -528,7 +489,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004006360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004006360",
         "name": "\u00a7 16a",
         "title": null,
         "parent": {
@@ -542,7 +502,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004104377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004104377",
         "name": "\u00a7 16b",
         "title": null,
         "parent": {
@@ -556,7 +515,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE006003360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE006003360",
         "name": "\u00a7 16c",
         "title": null,
         "parent": {
@@ -570,7 +528,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004204377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004204377",
         "name": "\u00a7 16d",
         "title": null,
         "parent": {
@@ -584,7 +541,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004305377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004305377",
         "name": "\u00a7 16e",
         "title": null,
         "parent": {
@@ -598,7 +554,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE005406377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE005406377",
         "name": "\u00a7 16f",
         "title": null,
         "parent": {
@@ -612,7 +567,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE005507360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE005507360",
         "name": "\u00a7 16g",
         "title": null,
         "parent": {
@@ -626,7 +580,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE005703377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE005703377",
         "name": "\u00a7 16h",
         "title": null,
         "parent": {
@@ -640,7 +593,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE005607377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE005607377",
         "name": "\u00a7 16i",
         "title": null,
         "parent": {
@@ -654,7 +606,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE006500360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE006500360",
         "name": "\u00a7 16j",
         "title": null,
         "parent": {
@@ -668,7 +619,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG001105360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG001105360",
         "name": "Elfter Abschnitt",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null,
@@ -678,7 +628,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004404377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004404377",
         "name": "\u00a7 17",
         "title": null,
         "parent": {
@@ -692,7 +641,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004515360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004515360",
         "name": "\u00a7 18",
         "title": null,
         "parent": {
@@ -706,7 +654,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE006102377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE006102377",
         "name": "\u00a7 18a",
         "title": null,
         "parent": {
@@ -720,7 +667,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004609360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004609360",
         "name": "\u00a7 19",
         "title": null,
         "parent": {
@@ -734,7 +680,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004704360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004704360",
         "name": "\u00a7 20",
         "title": null,
         "parent": {
@@ -748,7 +693,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE005304360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE005304360",
         "name": "\u00a7 20a",
         "title": null,
         "parent": {
@@ -762,7 +706,6 @@
       {
         "type": "heading",
         "id": "BJNR012770972BJNG001206360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNG001206360",
         "name": "Zw\u00f6lfter Abschnitt",
         "title": "\u00dcbergangs- und Schlussvorschriften",
         "parent": null,
@@ -772,7 +715,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004807119",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004807119",
         "name": "\u00a7 21",
         "title": null,
         "parent": {
@@ -786,7 +728,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE004905377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE004905377",
         "name": "\u00a7 21a",
         "title": null,
         "parent": {
@@ -800,7 +741,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE005007360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE005007360",
         "name": "\u00a7 21b",
         "title": null,
         "parent": {
@@ -814,7 +754,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE006205301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE006205301",
         "name": "\u00a7 21c",
         "title": null,
         "parent": {
@@ -828,7 +767,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE006600360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE006600360",
         "name": "\u00a7 21d",
         "title": null,
         "parent": {
@@ -842,7 +780,6 @@
       {
         "type": "article",
         "id": "BJNR012770972BJNE005204377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/tierschg/articles/BJNR012770972BJNE005204377",
         "name": "\u00a7 22",
         "title": null,
         "parent": {

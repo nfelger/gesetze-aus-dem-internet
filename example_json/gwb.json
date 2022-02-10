@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR252110998",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb",
     "firstPublished": "1998-08-26",
     "sourceTimestamp": "20200706212535",
     "titleShort": null,
@@ -40,7 +39,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017913360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017913360",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -51,7 +49,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG000104118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG000104118",
         "name": "Teil 1",
         "title": "Wettbewerbsbeschr\u00e4nkungen",
         "parent": null,
@@ -61,7 +58,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG000205118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG000205118",
         "name": "Kapitel 1",
         "title": "Wettbewerbsbeschr\u00e4nkende Vereinbarungen, Beschl\u00fcsse und abgestimmte Verhaltensweisen",
         "parent": {
@@ -74,7 +70,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE000304360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE000304360",
         "name": "\u00a7 1",
         "title": "Verbot wettbewerbsbeschr\u00e4nkender Vereinbarungen",
         "parent": {
@@ -88,7 +83,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE000405360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE000405360",
         "name": "\u00a7 2",
         "title": "Freigestellte Vereinbarungen",
         "parent": {
@@ -102,7 +96,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE000505360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE000505360",
         "name": "\u00a7 3",
         "title": "Mittelstandskartelle",
         "parent": {
@@ -116,7 +109,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE000605360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE000605360",
         "name": "(XXXX) \u00a7\u00a7 4 bis 17",
         "title": "(weggefallen)",
         "parent": {
@@ -130,7 +122,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG002206118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG002206118",
         "name": "Kapitel 2",
         "title": "Marktbeherrschung, sonstiges wettbewerbsbeschr\u00e4nkendes Verhalten",
         "parent": {
@@ -143,7 +134,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022002118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022002118",
         "name": "\u00a7 18",
         "title": "Marktbeherrschung",
         "parent": {
@@ -157,7 +147,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE002306118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE002306118",
         "name": "\u00a7 19",
         "title": "Verbotenes Verhalten von marktbeherrschenden Unternehmen",
         "parent": {
@@ -171,7 +160,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE002411118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE002411118",
         "name": "\u00a7 20",
         "title": "Verbotenes Verhalten von Unternehmen mit relativer oder \u00fcberlegener Marktmacht",
         "parent": {
@@ -185,7 +173,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE002506118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE002506118",
         "name": "\u00a7 21",
         "title": "Boykottverbot, Verbot sonstigen wettbewerbsbeschr\u00e4nkenden Verhaltens",
         "parent": {
@@ -199,7 +186,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG011303118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG011303118",
         "name": "Kapitel 3",
         "title": "Anwendung des europ\u00e4ischen Wettbewerbsrechts",
         "parent": {
@@ -212,7 +198,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE002607118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE002607118",
         "name": "\u00a7 22",
         "title": "Verh\u00e4ltnis dieses Gesetzes zu den Artikeln 101 und 102 des Vertrages \u00fcber die Arbeitsweise der Europ\u00e4ischen Union",
         "parent": {
@@ -226,7 +211,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE002704360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE002704360",
         "name": "\u00a7 23",
         "title": "(weggefallen)",
         "parent": {
@@ -240,7 +224,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG002804118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG002804118",
         "name": "Kapitel 4",
         "title": "Wettbewerbsregeln",
         "parent": {
@@ -253,7 +236,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE002903360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE002903360",
         "name": "\u00a7 24",
         "title": "Begriff, Antrag auf Anerkennung",
         "parent": {
@@ -267,7 +249,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE003004360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE003004360",
         "name": "\u00a7 25",
         "title": "Stellungnahme Dritter",
         "parent": {
@@ -281,7 +262,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE003105118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE003105118",
         "name": "\u00a7 26",
         "title": "Anerkennung",
         "parent": {
@@ -295,7 +275,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE003205360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE003205360",
         "name": "\u00a7 27",
         "title": "Ver\u00f6ffentlichung von Wettbewerbsregeln, Bekanntmachungen",
         "parent": {
@@ -309,7 +288,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG003304118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG003304118",
         "name": "Kapitel 5",
         "title": "Sonderregeln f\u00fcr bestimmte Wirtschaftsbereiche",
         "parent": {
@@ -322,7 +300,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE003405360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE003405360",
         "name": "\u00a7 28",
         "title": "Landwirtschaft",
         "parent": {
@@ -336,7 +313,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE003505360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE003505360",
         "name": "\u00a7 29",
         "title": "Energiewirtschaft",
         "parent": {
@@ -350,7 +326,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE003606118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE003606118",
         "name": "\u00a7 30",
         "title": "Presse",
         "parent": {
@@ -364,7 +339,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE003705360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE003705360",
         "name": "\u00a7 31",
         "title": "Vertr\u00e4ge der Wasserwirtschaft",
         "parent": {
@@ -378,7 +352,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022101360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022101360",
         "name": "\u00a7 31a",
         "title": "Wasserwirtschaft, Meldepflicht",
         "parent": {
@@ -392,7 +365,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022201360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022201360",
         "name": "\u00a7 31b",
         "title": "Wasserwirtschaft, Aufgaben und Befugnisse der Kartellbeh\u00f6rde, Sanktionen",
         "parent": {
@@ -406,7 +378,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG003805118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG003805118",
         "name": "Kapitel 6",
         "title": "Befugnisse der Kartellbeh\u00f6rden, Schadensersatz und Vorteilsabsch\u00f6pfung",
         "parent": {
@@ -419,7 +390,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG019200118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG019200118",
         "name": "Abschnitt 1",
         "title": "Befugnisse der Kartellbeh\u00f6rden",
         "parent": {
@@ -432,7 +402,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE003906118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE003906118",
         "name": "\u00a7 32",
         "title": "Abstellung und nachtr\u00e4gliche Feststellung von Zuwiderhandlungen",
         "parent": {
@@ -446,7 +415,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018002360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018002360",
         "name": "\u00a7 32a",
         "title": "Einstweilige Ma\u00dfnahmen",
         "parent": {
@@ -460,7 +428,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018103360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018103360",
         "name": "\u00a7 32b",
         "title": "Verpflichtungszusagen",
         "parent": {
@@ -474,7 +441,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018204360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018204360",
         "name": "\u00a7 32c",
         "title": "Kein Anlass zum T\u00e4tigwerden",
         "parent": {
@@ -488,7 +454,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018303360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018303360",
         "name": "\u00a7 32d",
         "title": "Entzug der Freistellung",
         "parent": {
@@ -502,7 +467,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018404118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018404118",
         "name": "\u00a7 32e",
         "title": "Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen",
         "parent": {
@@ -516,7 +480,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG019300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG019300118",
         "name": "Abschnitt 2",
         "title": "Schadensersatz und Vorteilsabsch\u00f6pfung",
         "parent": {
@@ -529,7 +492,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004007118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004007118",
         "name": "\u00a7 33",
         "title": "Beseitigungs- und Unterlassungsanspruch",
         "parent": {
@@ -543,7 +505,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028100118",
         "name": "\u00a7 33a",
         "title": "Schadensersatzpflicht",
         "parent": {
@@ -557,7 +518,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028200118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028200118",
         "name": "\u00a7 33b",
         "title": "Bindungswirkung von Entscheidungen einer Wettbewerbsbeh\u00f6rde",
         "parent": {
@@ -571,7 +531,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028301118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028301118",
         "name": "\u00a7 33c",
         "title": "Schadensabw\u00e4lzung",
         "parent": {
@@ -585,7 +544,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028400118",
         "name": "\u00a7 33d",
         "title": "Gesamtschuldnerische Haftung",
         "parent": {
@@ -599,7 +557,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028500118",
         "name": "\u00a7 33e",
         "title": "Kronzeuge",
         "parent": {
@@ -613,7 +570,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028600118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028600118",
         "name": "\u00a7 33f",
         "title": "Wirkungen des Vergleichs",
         "parent": {
@@ -627,7 +583,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028700118",
         "name": "\u00a7 33g",
         "title": "Anspruch auf Herausgabe von Beweismitteln und Erteilung von Ausk\u00fcnften",
         "parent": {
@@ -641,7 +596,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028801124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028801124",
         "name": "\u00a7 33h",
         "title": "Verj\u00e4hrung",
         "parent": {
@@ -655,7 +609,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004108118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004108118",
         "name": "\u00a7 34",
         "title": "Vorteilsabsch\u00f6pfung durch die Kartellbeh\u00f6rde",
         "parent": {
@@ -669,7 +622,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018507118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018507118",
         "name": "\u00a7 34a",
         "title": "Vorteilsabsch\u00f6pfung durch Verb\u00e4nde",
         "parent": {
@@ -683,7 +635,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG004204118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG004204118",
         "name": "Kapitel 7",
         "title": "Zusammenschlusskontrolle",
         "parent": {
@@ -696,7 +647,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004308118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004308118",
         "name": "\u00a7 35",
         "title": "Geltungsbereich der Zusammenschlusskontrolle",
         "parent": {
@@ -710,7 +660,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004406118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004406118",
         "name": "\u00a7 36",
         "title": "Grunds\u00e4tze f\u00fcr die Beurteilung von Zusammenschl\u00fcssen",
         "parent": {
@@ -724,7 +673,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004504118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004504118",
         "name": "\u00a7 37",
         "title": "Zusammenschluss",
         "parent": {
@@ -738,7 +686,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004607118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004607118",
         "name": "\u00a7 38",
         "title": "Berechnung der Umsatzerl\u00f6se, der Marktanteile und des Wertes der Gegenleistung",
         "parent": {
@@ -752,7 +699,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004709118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004709118",
         "name": "\u00a7 39",
         "title": "Anmelde- und Anzeigepflicht",
         "parent": {
@@ -766,7 +712,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004806118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004806118",
         "name": "\u00a7 40",
         "title": "Verfahren der Zusammenschlusskontrolle",
         "parent": {
@@ -780,7 +725,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE004912118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE004912118",
         "name": "\u00a7 41",
         "title": "Vollzugsverbot, Entflechtung",
         "parent": {
@@ -794,7 +738,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE005011118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE005011118",
         "name": "\u00a7 42",
         "title": "Ministererlaubnis",
         "parent": {
@@ -808,7 +751,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE005106360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE005106360",
         "name": "\u00a7 43",
         "title": "Bekanntmachungen",
         "parent": {
@@ -822,7 +764,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE029400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE029400118",
         "name": "\u00a7 43a",
         "title": "Evaluierung",
         "parent": {
@@ -836,7 +777,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG005204118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG005204118",
         "name": "Kapitel 8",
         "title": "Monopolkommission",
         "parent": {
@@ -849,7 +789,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE005303360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE005303360",
         "name": "\u00a7 44",
         "title": "Aufgaben",
         "parent": {
@@ -863,7 +802,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE005403360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE005403360",
         "name": "\u00a7 45",
         "title": "Mitglieder",
         "parent": {
@@ -877,7 +815,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE005510125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE005510125",
         "name": "\u00a7 46",
         "title": "Beschl\u00fcsse, Organisation, Rechte und Pflichten der Mitglieder",
         "parent": {
@@ -891,7 +828,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE005606118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE005606118",
         "name": "\u00a7 47",
         "title": "\u00dcbermittlung statistischer Daten",
         "parent": {
@@ -905,7 +841,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG017802118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG017802118",
         "name": "Kapitel 9",
         "title": "Markttransparenzstellen f\u00fcr den Gro\u00dfhandel mit Strom und Gas und f\u00fcr Kraftstoffe",
         "parent": {
@@ -918,7 +853,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG017902118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG017902118",
         "name": "Abschnitt 1",
         "title": "Markttransparenzstelle f\u00fcr den Gro\u00dfhandel im Bereich Strom und Gas",
         "parent": {
@@ -931,7 +865,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE020702118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE020702118",
         "name": "\u00a7 47a",
         "title": "Einrichtung, Zust\u00e4ndigkeit, Organisation",
         "parent": {
@@ -945,7 +878,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE020801360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE020801360",
         "name": "\u00a7 47b",
         "title": "Aufgaben",
         "parent": {
@@ -959,7 +891,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE020902118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE020902118",
         "name": "\u00a7 47c",
         "title": "Datenverwendung",
         "parent": {
@@ -973,7 +904,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021002118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021002118",
         "name": "\u00a7 47d",
         "title": "Befugnisse",
         "parent": {
@@ -987,7 +917,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021102118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021102118",
         "name": "\u00a7 47e",
         "title": "Mitteilungspflichten",
         "parent": {
@@ -1001,7 +930,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021203118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021203118",
         "name": "\u00a7 47f",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1015,7 +943,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021309118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021309118",
         "name": "\u00a7 47g",
         "title": "Festlegungsbereiche",
         "parent": {
@@ -1029,7 +956,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021503118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021503118",
         "name": "\u00a7 47h",
         "title": "Berichtspflichten, Ver\u00f6ffentlichungen",
         "parent": {
@@ -1043,7 +969,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021602118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021602118",
         "name": "\u00a7 47i",
         "title": "Zusammenarbeit mit anderen Beh\u00f6rden und Aufsichtsstellen",
         "parent": {
@@ -1057,7 +982,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021704118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021704118",
         "name": "\u00a7 47j",
         "title": "Vertrauliche Informationen, operationelle Zuverl\u00e4ssigkeit, Datenschutz",
         "parent": {
@@ -1071,7 +995,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018002118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018002118",
         "name": "Abschnitt 2",
         "title": "Markttransparenzstelle f\u00fcr Kraftstoffe",
         "parent": {
@@ -1084,7 +1007,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021803118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021803118",
         "name": "\u00a7 47k",
         "title": "Marktbeobachtung im Bereich Kraftstoffe",
         "parent": {
@@ -1098,7 +1020,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018102118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018102118",
         "name": "Abschnitt 3",
         "title": "Evaluierung",
         "parent": {
@@ -1111,7 +1032,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE021902118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE021902118",
         "name": "\u00a7 47l",
         "title": "Evaluierung der Markttransparenzstellen",
         "parent": {
@@ -1125,7 +1045,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG005604118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG005604118",
         "name": "Teil 2",
         "title": "Kartellbeh\u00f6rden",
         "parent": null,
@@ -1135,7 +1054,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG005704118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG005704118",
         "name": "Kapitel 1",
         "title": "Allgemeine Vorschriften",
         "parent": {
@@ -1148,7 +1066,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE005810118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE005810118",
         "name": "\u00a7 48",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -1162,7 +1079,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE005904360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE005904360",
         "name": "\u00a7 49",
         "title": "Bundeskartellamt und oberste Landesbeh\u00f6rde",
         "parent": {
@@ -1176,7 +1092,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE006005360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE006005360",
         "name": "\u00a7 50",
         "title": "Vollzug des europ\u00e4ischen Rechts",
         "parent": {
@@ -1190,7 +1105,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018603360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018603360",
         "name": "\u00a7 50a",
         "title": "Zusammenarbeit im Netzwerk der europ\u00e4ischen Wettbewerbsbeh\u00f6rden",
         "parent": {
@@ -1204,7 +1118,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018703360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018703360",
         "name": "\u00a7 50b",
         "title": "Sonstige Zusammenarbeit mit ausl\u00e4ndischen Wettbewerbsbeh\u00f6rden",
         "parent": {
@@ -1218,7 +1131,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018810125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018810125",
         "name": "\u00a7 50c",
         "title": "Beh\u00f6rdenzusammenarbeit",
         "parent": {
@@ -1232,7 +1144,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG006104118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG006104118",
         "name": "Kapitel 2",
         "title": "Bundeskartellamt",
         "parent": {
@@ -1245,7 +1156,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE006208118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE006208118",
         "name": "\u00a7 51",
         "title": "Sitz, Organisation",
         "parent": {
@@ -1259,7 +1169,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE006309118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE006309118",
         "name": "\u00a7 52",
         "title": "Ver\u00f6ffentlichung allgemeiner Weisungen",
         "parent": {
@@ -1273,7 +1182,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE006411118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE006411118",
         "name": "\u00a7 53",
         "title": "T\u00e4tigkeitsbericht und Monitoringberichte",
         "parent": {
@@ -1287,7 +1195,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG006405118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG006405118",
         "name": "Teil 3",
         "title": "Verfahren",
         "parent": null,
@@ -1297,7 +1204,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG006504118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG006504118",
         "name": "Kapitel 1",
         "title": "Verwaltungssachen",
         "parent": {
@@ -1310,7 +1216,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG006604118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG006604118",
         "name": "Abschnitt 1",
         "title": "Verfahren vor den Kartellbeh\u00f6rden",
         "parent": {
@@ -1323,7 +1228,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE006605118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE006605118",
         "name": "\u00a7 54",
         "title": "Einleitung des Verfahrens, Beteiligte",
         "parent": {
@@ -1337,7 +1241,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE006704360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE006704360",
         "name": "\u00a7 55",
         "title": "Vorabentscheidung \u00fcber Zust\u00e4ndigkeit",
         "parent": {
@@ -1351,7 +1254,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE006810118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE006810118",
         "name": "\u00a7 56",
         "title": "Anh\u00f6rung, m\u00fcndliche Verhandlung",
         "parent": {
@@ -1365,7 +1267,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE006903360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE006903360",
         "name": "\u00a7 57",
         "title": "Ermittlungen, Beweiserhebung",
         "parent": {
@@ -1379,7 +1280,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007004360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007004360",
         "name": "\u00a7 58",
         "title": "Beschlagnahme",
         "parent": {
@@ -1393,7 +1293,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007110118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007110118",
         "name": "\u00a7 59",
         "title": "Auskunftsverlangen",
         "parent": {
@@ -1407,7 +1306,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007205360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007205360",
         "name": "\u00a7 60",
         "title": "Einstweilige Anordnungen",
         "parent": {
@@ -1421,7 +1319,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007306118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007306118",
         "name": "\u00a7 61",
         "title": "Verfahrensabschluss, Begr\u00fcndung der Verf\u00fcgung, Zustellung",
         "parent": {
@@ -1435,7 +1332,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007406360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007406360",
         "name": "\u00a7 62",
         "title": "Bekanntmachung von Verf\u00fcgungen",
         "parent": {
@@ -1449,7 +1345,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG007504118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG007504118",
         "name": "Abschnitt 2",
         "title": "Beschwerde",
         "parent": {
@@ -1462,7 +1357,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007510118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007510118",
         "name": "\u00a7 63",
         "title": "Zul\u00e4ssigkeit, Zust\u00e4ndigkeit",
         "parent": {
@@ -1476,7 +1370,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007607360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007607360",
         "name": "\u00a7 64",
         "title": "Aufschiebende Wirkung",
         "parent": {
@@ -1490,7 +1383,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007704360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007704360",
         "name": "\u00a7 65",
         "title": "Anordnung der sofortigen Vollziehung",
         "parent": {
@@ -1504,7 +1396,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007810118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007810118",
         "name": "\u00a7 66",
         "title": "Frist und Form",
         "parent": {
@@ -1518,7 +1409,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE007903360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE007903360",
         "name": "\u00a7 67",
         "title": "Beteiligte am Beschwerdeverfahren",
         "parent": {
@@ -1532,7 +1422,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008004360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008004360",
         "name": "\u00a7 68",
         "title": "Anwaltszwang",
         "parent": {
@@ -1546,7 +1435,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008103360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008103360",
         "name": "\u00a7 69",
         "title": "M\u00fcndliche Verhandlung",
         "parent": {
@@ -1560,7 +1448,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008203360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008203360",
         "name": "\u00a7 70",
         "title": "Untersuchungsgrundsatz",
         "parent": {
@@ -1574,7 +1461,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008304360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008304360",
         "name": "\u00a7 71",
         "title": "Beschwerdeentscheidung",
         "parent": {
@@ -1588,7 +1474,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017802360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017802360",
         "name": "\u00a7 71a",
         "title": "Abhilfe bei Verletzung des Anspruchs auf rechtliches Geh\u00f6r",
         "parent": {
@@ -1602,7 +1487,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008404360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008404360",
         "name": "\u00a7 72",
         "title": "Akteneinsicht",
         "parent": {
@@ -1616,7 +1500,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008505118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008505118",
         "name": "\u00a7 73",
         "title": "Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung",
         "parent": {
@@ -1630,7 +1513,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG008604118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG008604118",
         "name": "Abschnitt 3",
         "title": "Rechtsbeschwerde",
         "parent": {
@@ -1643,7 +1525,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008605360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008605360",
         "name": "\u00a7 74",
         "title": "Zulassung, absolute Rechtsbeschwerdegr\u00fcnde",
         "parent": {
@@ -1657,7 +1538,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008704360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008704360",
         "name": "\u00a7 75",
         "title": "Nichtzulassungsbeschwerde",
         "parent": {
@@ -1671,7 +1551,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008805360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008805360",
         "name": "\u00a7 76",
         "title": "Beschwerdeberechtigte, Form und Frist",
         "parent": {
@@ -1685,7 +1564,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG008904118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG008904118",
         "name": "Abschnitt 4",
         "title": "Gemeinsame Bestimmungen",
         "parent": {
@@ -1698,7 +1576,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE008903360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE008903360",
         "name": "\u00a7 77",
         "title": "Beteiligtenf\u00e4higkeit",
         "parent": {
@@ -1712,7 +1589,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009003360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009003360",
         "name": "\u00a7 78",
         "title": "Kostentragung und -festsetzung",
         "parent": {
@@ -1726,7 +1602,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009103360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009103360",
         "name": "\u00a7 79",
         "title": "Rechtsverordnungen",
         "parent": {
@@ -1740,7 +1615,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009209118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009209118",
         "name": "\u00a7 80",
         "title": "Geb\u00fchrenpflichtige Handlungen",
         "parent": {
@@ -1754,7 +1628,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG009304118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG009304118",
         "name": "Kapitel 2",
         "title": "Bu\u00dfgeldverfahren",
         "parent": {
@@ -1767,7 +1640,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009413118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009413118",
         "name": "\u00a7 81",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -1781,7 +1653,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE028900118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE028900118",
         "name": "\u00a7 81a",
         "title": "Ausfallhaftung im \u00dcbergangszeitraum",
         "parent": {
@@ -1795,7 +1666,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022303124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022303124",
         "name": "\u00a7 81b",
         "title": "Auskunftspflichten",
         "parent": {
@@ -1809,7 +1679,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009505118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009505118",
         "name": "\u00a7 82",
         "title": "Zust\u00e4ndigkeit f\u00fcr Verfahren wegen der Festsetzung einer Geldbu\u00dfe gegen eine juristische Person oder Personenvereinigung",
         "parent": {
@@ -1823,7 +1692,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE018903118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE018903118",
         "name": "\u00a7 82a",
         "title": "Befugnisse und Zust\u00e4ndigkeiten im gerichtlichen Bu\u00dfgeldverfahren",
         "parent": {
@@ -1837,7 +1705,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009604118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009604118",
         "name": "\u00a7 83",
         "title": "Zust\u00e4ndigkeit des Oberlandesgerichts im gerichtlichen Verfahren",
         "parent": {
@@ -1851,7 +1718,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009704118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009704118",
         "name": "\u00a7 84",
         "title": "Rechtsbeschwerde zum Bundesgerichtshof",
         "parent": {
@@ -1865,7 +1731,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009803360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009803360",
         "name": "\u00a7 85",
         "title": "Wiederaufnahmeverfahren gegen Bu\u00dfgeldbescheid",
         "parent": {
@@ -1879,7 +1744,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE009903360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE009903360",
         "name": "\u00a7 86",
         "title": "Gerichtliche Entscheidungen bei der Vollstreckung",
         "parent": {
@@ -1893,7 +1757,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG011603118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG011603118",
         "name": "Kapitel 3",
         "title": "Vollstreckung",
         "parent": {
@@ -1906,7 +1769,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE019002360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE019002360",
         "name": "\u00a7 86a",
         "title": "Vollstreckung",
         "parent": {
@@ -1920,7 +1782,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG010005118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG010005118",
         "name": "Kapitel 4",
         "title": "B\u00fcrgerliche Rechtsstreitigkeiten",
         "parent": {
@@ -1933,7 +1794,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010109118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010109118",
         "name": "\u00a7 87",
         "title": "Ausschlie\u00dfliche Zust\u00e4ndigkeit der Landgerichte",
         "parent": {
@@ -1947,7 +1807,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010204360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010204360",
         "name": "\u00a7 88",
         "title": "Klageverbindung",
         "parent": {
@@ -1961,7 +1820,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010303360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010303360",
         "name": "\u00a7 89",
         "title": "Zust\u00e4ndigkeit eines Landgerichts f\u00fcr mehrere Gerichtsbezirke",
         "parent": {
@@ -1975,7 +1833,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE019103118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE019103118",
         "name": "\u00a7 89a",
         "title": "Streitwertanpassung, Kostenerstattung",
         "parent": {
@@ -1989,7 +1846,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE029000118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE029000118",
         "name": "\u00a7 89b",
         "title": "Verfahren",
         "parent": {
@@ -2003,7 +1859,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE029100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE029100118",
         "name": "\u00a7 89c",
         "title": "Offenlegung aus der Beh\u00f6rdenakte",
         "parent": {
@@ -2017,7 +1872,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE029200118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE029200118",
         "name": "\u00a7 89d",
         "title": "Beweisregeln",
         "parent": {
@@ -2031,7 +1885,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE029300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE029300118",
         "name": "\u00a7 89e",
         "title": "Gemeinsame Vorschriften f\u00fcr die \u00a7\u00a7 33g und 89b bis 89d",
         "parent": {
@@ -2045,7 +1898,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG011403118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG011403118",
         "name": "Kapitel 5",
         "title": "Gemeinsame Bestimmungen",
         "parent": {
@@ -2058,7 +1910,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010407118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010407118",
         "name": "\u00a7 90",
         "title": "Benachrichtigung und Beteiligung der Kartellbeh\u00f6rden",
         "parent": {
@@ -2072,7 +1923,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE019203360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE019203360",
         "name": "\u00a7 90a",
         "title": "Zusammenarbeit der Gerichte mit der Europ\u00e4ischen Kommission und den Kartellbeh\u00f6rden",
         "parent": {
@@ -2086,7 +1936,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010504118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010504118",
         "name": "\u00a7 91",
         "title": "Kartellsenat beim Oberlandesgericht",
         "parent": {
@@ -2100,7 +1949,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010604118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010604118",
         "name": "\u00a7 92",
         "title": "Zust\u00e4ndigkeit eines Oberlandesgerichts oder des Obersten Landesgerichts f\u00fcr mehrere Gerichtsbezirke in Verwaltungs- und Bu\u00dfgeldsachen",
         "parent": {
@@ -2114,7 +1962,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010704360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010704360",
         "name": "\u00a7 93",
         "title": "Zust\u00e4ndigkeit f\u00fcr Berufung und Beschwerde",
         "parent": {
@@ -2128,7 +1975,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010806118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010806118",
         "name": "\u00a7 94",
         "title": "Kartellsenat beim Bundesgerichtshof",
         "parent": {
@@ -2142,7 +1988,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE010903360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE010903360",
         "name": "\u00a7 95",
         "title": "Ausschlie\u00dfliche Zust\u00e4ndigkeit",
         "parent": {
@@ -2156,7 +2001,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE011005360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE011005360",
         "name": "\u00a7 96",
         "title": "(weggefallen)",
         "parent": {
@@ -2170,7 +2014,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG002404118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG002404118",
         "name": "Teil 4",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen und Konzessionen",
         "parent": null,
@@ -2180,7 +2023,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018200118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018200118",
         "name": "Kapitel 1",
         "title": "Vergabeverfahren",
         "parent": {
@@ -2193,7 +2035,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG002504118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG002504118",
         "name": "Abschnitt 1",
         "title": "Grunds\u00e4tze, Definitionen und Anwendungsbereich",
         "parent": {
@@ -2206,7 +2047,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE014405118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE014405118",
         "name": "\u00a7 97",
         "title": "Grunds\u00e4tze der Vergabe",
         "parent": {
@@ -2220,7 +2060,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE014505118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE014505118",
         "name": "\u00a7 98",
         "title": "Auftraggeber",
         "parent": {
@@ -2234,7 +2073,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE014608118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE014608118",
         "name": "\u00a7 99",
         "title": "\u00d6ffentliche Auftraggeber",
         "parent": {
@@ -2248,7 +2086,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE014708118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE014708118",
         "name": "\u00a7 100",
         "title": "Sektorenauftraggeber",
         "parent": {
@@ -2262,7 +2099,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE014807118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE014807118",
         "name": "\u00a7 101",
         "title": "Konzessionsgeber",
         "parent": {
@@ -2276,7 +2112,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015005118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015005118",
         "name": "\u00a7 102",
         "title": "Sektorent\u00e4tigkeiten",
         "parent": {
@@ -2290,7 +2125,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015105118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015105118",
         "name": "\u00a7 103",
         "title": "\u00d6ffentliche Auftr\u00e4ge, Rahmenvereinbarungen und Wettbewerbe",
         "parent": {
@@ -2304,7 +2138,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015205118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015205118",
         "name": "\u00a7 104",
         "title": "Verteidigungs- oder sicherheitsspezifische \u00f6ffentliche Auftr\u00e4ge",
         "parent": {
@@ -2318,7 +2151,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015305118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015305118",
         "name": "\u00a7 105",
         "title": "Konzessionen",
         "parent": {
@@ -2332,7 +2164,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015410118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015410118",
         "name": "\u00a7 106",
         "title": "Schwellenwerte",
         "parent": {
@@ -2346,7 +2177,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015506360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015506360",
         "name": "\u00a7 107",
         "title": "Allgemeine Ausnahmen",
         "parent": {
@@ -2360,7 +2190,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015604118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015604118",
         "name": "\u00a7 108",
         "title": "Ausnahmen bei \u00f6ffentlich-\u00f6ffentlicher Zusammenarbeit",
         "parent": {
@@ -2374,7 +2203,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015704118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015704118",
         "name": "\u00a7 109",
         "title": "Ausnahmen f\u00fcr Vergaben auf der Grundlage internationaler Verfahrensregeln",
         "parent": {
@@ -2388,7 +2216,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015806118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015806118",
         "name": "\u00a7 110",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben",
         "parent": {
@@ -2402,7 +2229,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE015905118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE015905118",
         "name": "\u00a7 111",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen",
         "parent": {
@@ -2416,7 +2242,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016004118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016004118",
         "name": "\u00a7 112",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen und Konzessionen, die verschiedene T\u00e4tigkeiten umfassen",
         "parent": {
@@ -2430,7 +2255,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016105118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016105118",
         "name": "\u00a7 113",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2444,7 +2268,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016207360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016207360",
         "name": "\u00a7 114",
         "title": "Monitoring und Vergabestatistik",
         "parent": {
@@ -2458,7 +2281,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG002604118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG002604118",
         "name": "Abschnitt 2",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen durch \u00f6ffentliche Auftraggeber",
         "parent": {
@@ -2471,7 +2293,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018300118",
         "name": "Unterabschnitt 1",
         "title": "Anwendungsbereich",
         "parent": {
@@ -2484,7 +2305,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016306118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016306118",
         "name": "\u00a7 115",
         "title": "Anwendungsbereich",
         "parent": {
@@ -2498,7 +2318,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016406118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016406118",
         "name": "\u00a7 116",
         "title": "Besondere Ausnahmen",
         "parent": {
@@ -2512,7 +2331,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016505118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016505118",
         "name": "\u00a7 117",
         "title": "Besondere Ausnahmen f\u00fcr Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen",
         "parent": {
@@ -2526,7 +2344,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016606118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016606118",
         "name": "\u00a7 118",
         "title": "Bestimmten Auftragnehmern vorbehaltene \u00f6ffentliche Auftr\u00e4ge",
         "parent": {
@@ -2540,7 +2357,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018400118",
         "name": "Unterabschnitt 2",
         "title": "Vergabeverfahren und Auftragsausf\u00fchrung",
         "parent": {
@@ -2553,7 +2369,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016704118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016704118",
         "name": "\u00a7 119",
         "title": "Verfahrensarten",
         "parent": {
@@ -2567,7 +2382,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016807118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016807118",
         "name": "\u00a7 120",
         "title": "Besondere Methoden und Instrumente in Vergabeverfahren",
         "parent": {
@@ -2581,7 +2395,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE016906118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE016906118",
         "name": "\u00a7 121",
         "title": "Leistungsbeschreibung",
         "parent": {
@@ -2595,7 +2408,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017004118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017004118",
         "name": "\u00a7 122",
         "title": "Eignung",
         "parent": {
@@ -2609,7 +2421,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017106118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017106118",
         "name": "\u00a7 123",
         "title": "Zwingende Ausschlussgr\u00fcnde",
         "parent": {
@@ -2623,7 +2434,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017208118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017208118",
         "name": "\u00a7 124",
         "title": "Fakultative Ausschlussgr\u00fcnde",
         "parent": {
@@ -2637,7 +2447,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017304118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017304118",
         "name": "\u00a7 125",
         "title": "Selbstreinigung",
         "parent": {
@@ -2651,7 +2460,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017404118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017404118",
         "name": "\u00a7 126",
         "title": "Zul\u00e4ssiger Zeitraum f\u00fcr Ausschl\u00fcsse",
         "parent": {
@@ -2665,7 +2473,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017512118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017512118",
         "name": "\u00a7 127",
         "title": "Zuschlag",
         "parent": {
@@ -2679,7 +2486,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017607118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017607118",
         "name": "\u00a7 128",
         "title": "Auftragsausf\u00fchrung",
         "parent": {
@@ -2693,7 +2499,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE017707118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE017707118",
         "name": "\u00a7 129",
         "title": "Zwingend zu ber\u00fccksichtigende Ausf\u00fchrungsbedingungen",
         "parent": {
@@ -2707,7 +2512,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE019903118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE019903118",
         "name": "(XXXX) \u00a7\u00a7 129a bis 129b",
         "title": "(weggefallen)",
         "parent": {
@@ -2721,7 +2525,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE011107118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE011107118",
         "name": "\u00a7 130",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen \u00fcber soziale und andere besondere Dienstleistungen",
         "parent": {
@@ -2735,7 +2538,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE011209118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE011209118",
         "name": "\u00a7 131",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen \u00fcber Personenverkehrsleistungen im Eisenbahnverkehr",
         "parent": {
@@ -2749,7 +2551,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022400118",
         "name": "\u00a7 132",
         "title": "Auftrags\u00e4nderungen w\u00e4hrend der Vertragslaufzeit",
         "parent": {
@@ -2763,7 +2564,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022500118",
         "name": "\u00a7 133",
         "title": "K\u00fcndigung von \u00f6ffentlichen Auftr\u00e4gen in besonderen F\u00e4llen",
         "parent": {
@@ -2777,7 +2577,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022600118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022600118",
         "name": "\u00a7 134",
         "title": "Informations- und Wartepflicht",
         "parent": {
@@ -2791,7 +2590,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022700118",
         "name": "\u00a7 135",
         "title": "Unwirksamkeit",
         "parent": {
@@ -2805,7 +2603,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG003004118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG003004118",
         "name": "Abschnitt 3",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen in besonderen Bereichen und von Konzessionen",
         "parent": {
@@ -2818,7 +2615,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018500118",
         "name": "Unterabschnitt 1",
         "title": "Vergabe von \u00f6ffentlichen Auftr\u00e4gen durch Sektorenauftraggeber",
         "parent": {
@@ -2831,7 +2627,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022800118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022800118",
         "name": "\u00a7 136",
         "title": "Anwendungsbereich",
         "parent": {
@@ -2845,7 +2640,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE022900118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE022900118",
         "name": "\u00a7 137",
         "title": "Besondere Ausnahmen",
         "parent": {
@@ -2859,7 +2653,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023000118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023000118",
         "name": "\u00a7 138",
         "title": "Besondere Ausnahme f\u00fcr die Vergabe an verbundene Unternehmen",
         "parent": {
@@ -2873,7 +2666,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023100118",
         "name": "\u00a7 139",
         "title": "Besondere Ausnahme f\u00fcr die Vergabe durch oder an ein Gemeinschaftsunternehmen",
         "parent": {
@@ -2887,7 +2679,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023200118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023200118",
         "name": "\u00a7 140",
         "title": "Besondere Ausnahme f\u00fcr unmittelbar dem Wettbewerb ausgesetzte T\u00e4tigkeiten",
         "parent": {
@@ -2901,7 +2692,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023400118",
         "name": "\u00a7 141",
         "title": "Verfahrensarten",
         "parent": {
@@ -2915,7 +2705,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023300118",
         "name": "\u00a7 142",
         "title": "Sonstige anwendbare Vorschriften",
         "parent": {
@@ -2929,7 +2718,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023500118",
         "name": "\u00a7 143",
         "title": "Regelung f\u00fcr Auftraggeber nach dem Bundesberggesetz",
         "parent": {
@@ -2943,7 +2731,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018600118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018600118",
         "name": "Unterabschnitt 2",
         "title": "Vergabe von verteidigungs- oder sicherheitsspezifischen \u00f6ffentlichen Auftr\u00e4gen",
         "parent": {
@@ -2956,7 +2743,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023600118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023600118",
         "name": "\u00a7 144",
         "title": "Anwendungsbereich",
         "parent": {
@@ -2970,7 +2756,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023700118",
         "name": "\u00a7 145",
         "title": "Besondere Ausnahmen f\u00fcr die Vergabe von verteidigungs- oder sicherheitsspezifischen \u00f6ffentlichen Auftr\u00e4gen",
         "parent": {
@@ -2984,7 +2769,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023800118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023800118",
         "name": "\u00a7 146",
         "title": "Verfahrensarten",
         "parent": {
@@ -2998,7 +2782,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE023900118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE023900118",
         "name": "\u00a7 147",
         "title": "Sonstige anwendbare Vorschriften",
         "parent": {
@@ -3012,7 +2795,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018700118",
         "name": "Unterabschnitt 3",
         "title": "Vergabe von Konzessionen",
         "parent": {
@@ -3025,7 +2807,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024000118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024000118",
         "name": "\u00a7 148",
         "title": "Anwendungsbereich",
         "parent": {
@@ -3039,7 +2820,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024100118",
         "name": "\u00a7 149",
         "title": "Besondere Ausnahmen",
         "parent": {
@@ -3053,7 +2833,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024201360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024201360",
         "name": "\u00a7 150",
         "title": "Besondere Ausnahmen f\u00fcr die Vergabe von Konzessionen in den Bereichen Verteidigung und Sicherheit",
         "parent": {
@@ -3067,7 +2846,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024300118",
         "name": "\u00a7 151",
         "title": "Verfahren",
         "parent": {
@@ -3081,7 +2859,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024400118",
         "name": "\u00a7 152",
         "title": "Anforderungen im Konzessionsvergabeverfahren",
         "parent": {
@@ -3095,7 +2872,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024500118",
         "name": "\u00a7 153",
         "title": "Vergabe von Konzessionen \u00fcber soziale und andere besondere Dienstleistungen",
         "parent": {
@@ -3109,7 +2885,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024600118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024600118",
         "name": "\u00a7 154",
         "title": "Sonstige anwendbare Vorschriften",
         "parent": {
@@ -3123,7 +2898,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018800118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018800118",
         "name": "Kapitel 2",
         "title": "Nachpr\u00fcfungsverfahren",
         "parent": {
@@ -3136,7 +2910,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG018900118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG018900118",
         "name": "Abschnitt 1",
         "title": "Nachpr\u00fcfungsbeh\u00f6rden",
         "parent": {
@@ -3149,7 +2922,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024700118",
         "name": "\u00a7 155",
         "title": "Grundsatz",
         "parent": {
@@ -3163,7 +2935,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024800118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024800118",
         "name": "\u00a7 156",
         "title": "Vergabekammern",
         "parent": {
@@ -3177,7 +2948,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE024900118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE024900118",
         "name": "\u00a7 157",
         "title": "Besetzung, Unabh\u00e4ngigkeit",
         "parent": {
@@ -3191,7 +2961,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025100118",
         "name": "\u00a7 158",
         "title": "Einrichtung, Organisation",
         "parent": {
@@ -3205,7 +2974,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025200118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025200118",
         "name": "\u00a7 159",
         "title": "Abgrenzung der Zust\u00e4ndigkeit der Vergabekammern",
         "parent": {
@@ -3219,7 +2987,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG019000118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG019000118",
         "name": "Abschnitt 2",
         "title": "Verfahren vor der Vergabekammer",
         "parent": {
@@ -3232,7 +2999,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025300118",
         "name": "\u00a7 160",
         "title": "Einleitung, Antrag",
         "parent": {
@@ -3246,7 +3012,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025400118",
         "name": "\u00a7 161",
         "title": "Form, Inhalt",
         "parent": {
@@ -3260,7 +3025,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025500118",
         "name": "\u00a7 162",
         "title": "Verfahrensbeteiligte, Beiladung",
         "parent": {
@@ -3274,7 +3038,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025600118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025600118",
         "name": "\u00a7 163",
         "title": "Untersuchungsgrundsatz",
         "parent": {
@@ -3288,7 +3051,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025700118",
         "name": "\u00a7 164",
         "title": "Aufbewahrung vertraulicher Unterlagen",
         "parent": {
@@ -3302,7 +3064,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025800118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025800118",
         "name": "\u00a7 165",
         "title": "Akteneinsicht",
         "parent": {
@@ -3316,7 +3077,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE025900118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE025900118",
         "name": "\u00a7 166",
         "title": "M\u00fcndliche Verhandlung",
         "parent": {
@@ -3330,7 +3090,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026000118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026000118",
         "name": "\u00a7 167",
         "title": "Beschleunigung",
         "parent": {
@@ -3344,7 +3103,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026100118",
         "name": "\u00a7 168",
         "title": "Entscheidung der Vergabekammer",
         "parent": {
@@ -3358,7 +3116,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026201360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026201360",
         "name": "\u00a7 169",
         "title": "Aussetzung des Vergabeverfahrens",
         "parent": {
@@ -3372,7 +3129,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026301360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026301360",
         "name": "\u00a7 170",
         "title": "Ausschluss von abweichendem Landesrecht",
         "parent": {
@@ -3386,7 +3142,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG019100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG019100118",
         "name": "Abschnitt 3",
         "title": "Sofortige Beschwerde",
         "parent": {
@@ -3399,7 +3154,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026400118",
         "name": "\u00a7 171",
         "title": "Zul\u00e4ssigkeit, Zust\u00e4ndigkeit",
         "parent": {
@@ -3413,7 +3167,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026500118",
         "name": "\u00a7 172",
         "title": "Frist, Form, Inhalt",
         "parent": {
@@ -3427,7 +3180,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026601360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026601360",
         "name": "\u00a7 173",
         "title": "Wirkung",
         "parent": {
@@ -3441,7 +3193,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026700118",
         "name": "\u00a7 174",
         "title": "Beteiligte am Beschwerdeverfahren",
         "parent": {
@@ -3455,7 +3206,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026800118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026800118",
         "name": "\u00a7 175",
         "title": "Verfahrensvorschriften",
         "parent": {
@@ -3469,7 +3219,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE026901360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE026901360",
         "name": "\u00a7 176",
         "title": "Vorabentscheidung \u00fcber den Zuschlag",
         "parent": {
@@ -3483,7 +3232,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027000118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027000118",
         "name": "\u00a7 177",
         "title": "Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts",
         "parent": {
@@ -3497,7 +3245,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027100118",
         "name": "\u00a7 178",
         "title": "Beschwerdeentscheidung",
         "parent": {
@@ -3511,7 +3258,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027200118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027200118",
         "name": "\u00a7 179",
         "title": "Bindungswirkung und Vorlagepflicht",
         "parent": {
@@ -3525,7 +3271,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027300118",
         "name": "\u00a7 180",
         "title": "Schadensersatz bei Rechtsmissbrauch",
         "parent": {
@@ -3539,7 +3284,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027400118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027400118",
         "name": "\u00a7 181",
         "title": "Anspruch auf Ersatz des Vertrauensschadens",
         "parent": {
@@ -3553,7 +3297,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027500118",
         "name": "\u00a7 182",
         "title": "Kosten des Verfahrens vor der Vergabekammer",
         "parent": {
@@ -3567,7 +3310,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027600118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027600118",
         "name": "\u00a7 183",
         "title": "Korrekturmechanismus der Kommission",
         "parent": {
@@ -3581,7 +3323,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027700118",
         "name": "\u00a7 184",
         "title": "Unterrichtungspflichten der Nachpr\u00fcfungsinstanzen",
         "parent": {
@@ -3595,7 +3336,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG011105118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG011105118",
         "name": "Teil 5",
         "title": "Anwendungsbereich der Teile 1 bis 3",
         "parent": null,
@@ -3605,7 +3345,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027800118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027800118",
         "name": "\u00a7 185",
         "title": "Unternehmen der \u00f6ffentlichen Hand, Geltungsbereich",
         "parent": {
@@ -3619,7 +3358,6 @@
       {
         "type": "heading",
         "id": "BJNR252110998BJNG011204118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNG011204118",
         "name": "Teil 6",
         "title": "\u00dcbergangs- und Schlussbestimmungen",
         "parent": null,
@@ -3629,7 +3367,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE027902360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE027902360",
         "name": "\u00a7 186",
         "title": "\u00dcbergangsbestimmungen",
         "parent": {
@@ -3643,7 +3380,6 @@
       {
         "type": "article",
         "id": "BJNR252110998BJNE020102118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/gwb/articles/BJNR252110998BJNE020102118",
         "name": "Anlage",
         "title": "(weggefallen)",
         "parent": {

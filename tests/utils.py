@@ -1,8 +1,8 @@
 import json
 import os
 
-from rip_api import models
-from rip_api.gesetze_im_internet import download, parsing
+from gadi import models
+from gadi.gesetze_im_internet import download, parsing
 
 example_json_dir = os.path.join(os.path.dirname(__file__), "..", "example_json")
 xml_fixtures_dir = os.path.join(os.path.dirname(__file__), "fixtures", "gii_xml")

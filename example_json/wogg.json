@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR185610008",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg",
     "firstPublished": "2008-09-24",
     "sourceTimestamp": "20200819213018",
     "titleShort": null,
@@ -32,7 +31,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE000105126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE000105126",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -43,7 +41,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000100000",
         "name": "Teil 1",
         "title": "Zweck des Wohngeldes und Wohngeldberechtigung",
         "parent": null,
@@ -53,7 +50,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE000200000",
         "name": "\u00a7 1",
         "title": "Zweck des Wohngeldes",
         "parent": {
@@ -67,7 +63,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE000300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE000300000",
         "name": "\u00a7 2",
         "title": "Wohnraum",
         "parent": {
@@ -81,7 +76,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004901126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004901126",
         "name": "\u00a7 3",
         "title": "Wohngeldberechtigung",
         "parent": {
@@ -95,7 +89,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000200000",
         "name": "Teil 2",
         "title": "Berechnung und H\u00f6he des Wohngeldes",
         "parent": null,
@@ -105,7 +98,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000300000",
         "name": "Kapitel 1",
         "title": "Berechnungsgr\u00f6\u00dfen des Wohngeldes",
         "parent": {
@@ -118,7 +110,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE000500000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE000500000",
         "name": "\u00a7 4",
         "title": "Berechnungsgr\u00f6\u00dfen des Wohngeldes",
         "parent": {
@@ -132,7 +123,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000400000",
         "name": "Kapitel 2",
         "title": "Haushaltsmitglieder",
         "parent": {
@@ -145,7 +135,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE000601305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE000601305",
         "name": "\u00a7 5",
         "title": "Haushaltsmitglieder",
         "parent": {
@@ -159,7 +148,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE000700000",
         "name": "\u00a7 6",
         "title": "Zu ber\u00fccksichtigende Haushaltsmitglieder",
         "parent": {
@@ -173,7 +161,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE000807126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE000807126",
         "name": "\u00a7 7",
         "title": "Ausschluss vom Wohngeld",
         "parent": {
@@ -187,7 +174,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE000902305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE000902305",
         "name": "\u00a7 8",
         "title": "Dauer des Ausschlusses vom Wohngeld und Verzicht auf Leistungen",
         "parent": {
@@ -201,7 +187,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000500000",
         "name": "Kapitel 3",
         "title": "Miete und Belastung",
         "parent": {
@@ -214,7 +199,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001002126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001002126",
         "name": "\u00a7 9",
         "title": "Miete",
         "parent": {
@@ -228,7 +212,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001100000",
         "name": "\u00a7 10",
         "title": "Belastung",
         "parent": {
@@ -242,7 +225,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001201308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001201308",
         "name": "\u00a7 11",
         "title": "Zu ber\u00fccksichtigende Miete und Belastung",
         "parent": {
@@ -256,7 +238,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001305126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001305126",
         "name": "\u00a7 12",
         "title": "H\u00f6chstbetr\u00e4ge f\u00fcr Miete und Belastung",
         "parent": {
@@ -270,7 +251,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000600000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000600000",
         "name": "Kapitel 4",
         "title": "Einkommen",
         "parent": {
@@ -283,7 +263,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001400000",
         "name": "\u00a7 13",
         "title": "Gesamteinkommen",
         "parent": {
@@ -297,7 +276,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001507126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001507126",
         "name": "\u00a7 14",
         "title": "Jahreseinkommen",
         "parent": {
@@ -311,7 +289,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001601305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001601305",
         "name": "\u00a7 15",
         "title": "Ermittlung des Jahreseinkommens",
         "parent": {
@@ -325,7 +302,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001701305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001701305",
         "name": "\u00a7 16",
         "title": "Abzugsbetr\u00e4ge f\u00fcr Steuern und Sozialversicherungsbeitr\u00e4ge",
         "parent": {
@@ -339,7 +315,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001802126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001802126",
         "name": "\u00a7 17",
         "title": "Freibetr\u00e4ge",
         "parent": {
@@ -353,7 +328,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE001902305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE001902305",
         "name": "\u00a7 18",
         "title": "Abzugsbetr\u00e4ge f\u00fcr Unterhaltsleistungen",
         "parent": {
@@ -367,7 +341,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000700000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000700000",
         "name": "Kapitel 5",
         "title": "H\u00f6he des Wohngeldes",
         "parent": {
@@ -380,7 +353,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002002126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002002126",
         "name": "\u00a7 19",
         "title": "H\u00f6he des Wohngeldes",
         "parent": {
@@ -394,7 +366,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000800000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000800000",
         "name": "Teil 3",
         "title": "Nichtbestehen des Wohngeldanspruchs",
         "parent": null,
@@ -404,7 +375,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002104126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002104126",
         "name": "\u00a7 20",
         "title": "Gesetzeskonkurrenz",
         "parent": {
@@ -418,7 +388,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002200000",
         "name": "\u00a7 21",
         "title": "Sonstige Gr\u00fcnde",
         "parent": {
@@ -432,7 +401,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG000900000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG000900000",
         "name": "Teil 4",
         "title": "Bewilligung, Zahlung und \u00c4nderung des Wohngeldes",
         "parent": null,
@@ -442,7 +410,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002300000",
         "name": "\u00a7 22",
         "title": "Wohngeldantrag",
         "parent": {
@@ -456,7 +423,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002404305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002404305",
         "name": "\u00a7 23",
         "title": "Auskunftspflicht",
         "parent": {
@@ -470,7 +436,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002502126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002502126",
         "name": "\u00a7 24",
         "title": "Wohngeldbeh\u00f6rde und Entscheidung",
         "parent": {
@@ -484,7 +449,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002601305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002601305",
         "name": "\u00a7 25",
         "title": "Bewilligungszeitraum",
         "parent": {
@@ -498,7 +462,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002702305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002702305",
         "name": "\u00a7 26",
         "title": "Zahlung des Wohngeldes",
         "parent": {
@@ -512,7 +475,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002802305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002802305",
         "name": "\u00a7 27",
         "title": "\u00c4nderung des Wohngeldes",
         "parent": {
@@ -526,7 +488,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE002904126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE002904126",
         "name": "\u00a7 28",
         "title": "Unwirksamkeit des Bewilligungsbescheides und Wegfall des Wohngeldanspruchs",
         "parent": {
@@ -540,7 +501,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003001305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003001305",
         "name": "\u00a7 29",
         "title": "Haftung, Aufrechnung, Verrechnung und vorl\u00e4ufige Zahlungseinstellung",
         "parent": {
@@ -554,7 +514,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003101308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003101308",
         "name": "\u00a7 30",
         "title": "R\u00fcck\u00fcberweisung und Erstattung im Todesfall",
         "parent": {
@@ -568,7 +527,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003200000",
         "name": "\u00a7 31",
         "title": "R\u00fccknahme eines rechtswidrigen nicht beg\u00fcnstigenden Wohngeldbescheides",
         "parent": {
@@ -582,7 +540,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG001000000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG001000000",
         "name": "Teil 5",
         "title": "Kostentragung und Datenabgleich",
         "parent": null,
@@ -592,7 +549,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003300000",
         "name": "\u00a7 32",
         "title": "Erstattung des Wohngeldes durch den Bund",
         "parent": {
@@ -606,7 +562,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003407126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003407126",
         "name": "\u00a7 33",
         "title": "Datenabgleich",
         "parent": {
@@ -620,7 +575,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG001100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG001100000",
         "name": "Teil 6",
         "title": "Wohngeldstatistik",
         "parent": null,
@@ -630,7 +584,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003501308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003501308",
         "name": "\u00a7 34",
         "title": "Zweck der Wohngeldstatistik, Auskunfts- und Hinweispflicht",
         "parent": {
@@ -644,7 +597,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003604126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003604126",
         "name": "\u00a7 35",
         "title": "Erhebungs- und Hilfsmerkmale",
         "parent": {
@@ -658,7 +610,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003704126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003704126",
         "name": "\u00a7 36",
         "title": "Erhebungszeitraum und Zusatzaufbereitungen",
         "parent": {
@@ -672,7 +623,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG001200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG001200000",
         "name": "Teil 7",
         "title": "Schlussvorschriften",
         "parent": null,
@@ -682,7 +632,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003801305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003801305",
         "name": "\u00a7 37",
         "title": "Bu\u00dfgeld",
         "parent": {
@@ -696,7 +645,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE003902126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE003902126",
         "name": "\u00a7 38",
         "title": "Verordnungserm\u00e4chtigung",
         "parent": {
@@ -710,7 +658,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004001305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004001305",
         "name": "\u00a7 39",
         "title": "Wohngeld- und Mietenbericht; Bericht \u00fcber die Lage und Entwicklung der Wohnungs- und Immobilienwirtschaft in Deutschland",
         "parent": {
@@ -724,7 +671,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004100000",
         "name": "\u00a7 40",
         "title": "Einkommen bei anderen Sozialleistungen",
         "parent": {
@@ -738,7 +684,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004201308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004201308",
         "name": "\u00a7 41",
         "title": "Auswirkung von Rechts\u00e4nderungen auf die Wohngeldentscheidung",
         "parent": {
@@ -752,7 +697,6 @@
       {
         "type": "heading",
         "id": "BJNR185610008BJNG001300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNG001300000",
         "name": "Teil 8",
         "title": "\u00dcberleitungsvorschriften",
         "parent": null,
@@ -762,7 +706,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004300000",
         "name": "\u00a7 42",
         "title": "Gesetz zur Neuregelung des Wohngeldrechts und zur \u00c4nderung des Sozialgesetzbuches",
         "parent": {
@@ -776,7 +719,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004801305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004801305",
         "name": "\u00a7 42a",
         "title": "\u00dcbergangsregelung aus Anlass des Gesetzes zur Reform des Wohngeldrechts und zur \u00c4nderung des Wohnraumf\u00f6rderungsgesetzes",
         "parent": {
@@ -790,7 +732,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE005000126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE005000126",
         "name": "\u00a7 42b",
         "title": "\u00dcbergangsregelung aus Anlass des Gesetzes zur St\u00e4rkung des Wohngeldes",
         "parent": {
@@ -804,7 +745,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004401126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004401126",
         "name": "\u00a7 43",
         "title": "Fortschreibung des Wohngeldes",
         "parent": {
@@ -818,7 +758,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004701126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004701126",
         "name": "\u00a7 44",
         "title": "\u00dcbergangsregelung bei Fortschreibung des Wohngeldes",
         "parent": {
@@ -832,7 +771,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE005100126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE005100126",
         "name": "Anlage 1",
         "title": "(zu \u00a7 12 Absatz 1)",
         "parent": {
@@ -846,7 +784,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004503126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004503126",
         "name": "Anlage 2",
         "title": "(zu \u00a7 19 Absatz 1)",
         "parent": {
@@ -860,7 +797,6 @@
       {
         "type": "article",
         "id": "BJNR185610008BJNE004603126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/wogg/articles/BJNR185610008BJNE004603126",
         "name": "Anlage 3",
         "title": "(zu \u00a7 19 Absatz 2)",
         "parent": {

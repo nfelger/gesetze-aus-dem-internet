@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR000070907",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg",
     "firstPublished": "1907-01-09",
     "sourceTimestamp": "20180425212501",
     "titleShort": null,
@@ -36,7 +35,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE002700315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE002700315",
         "name": "(XXXX) \u00a7\u00a7 1 bis 21",
         "title": null,
         "parent": null,
@@ -47,7 +45,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE002801320",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE002801320",
         "name": "\u00a7 22",
         "title": null,
         "parent": null,
@@ -58,7 +55,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE002900315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE002900315",
         "name": "\u00a7 23",
         "title": null,
         "parent": null,
@@ -69,7 +65,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE003000315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE003000315",
         "name": "\u00a7 24",
         "title": null,
         "parent": null,
@@ -80,7 +75,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE003100315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE003100315",
         "name": "(XXXX) \u00a7\u00a7 25 bis 32",
         "title": null,
         "parent": null,
@@ -91,7 +85,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE003900315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE003900315",
         "name": "\u00a7 33",
         "title": null,
         "parent": null,
@@ -102,7 +95,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004000315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004000315",
         "name": "\u00a7 34",
         "title": null,
         "parent": null,
@@ -113,7 +105,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004100315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004100315",
         "name": "\u00a7 35",
         "title": null,
         "parent": null,
@@ -124,7 +115,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004200315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004200315",
         "name": "\u00a7 36",
         "title": null,
         "parent": null,
@@ -135,7 +125,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004300315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004300315",
         "name": "\u00a7 37",
         "title": null,
         "parent": null,
@@ -146,7 +135,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004400315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004400315",
         "name": "\u00a7 38",
         "title": null,
         "parent": null,
@@ -157,7 +145,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004500315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004500315",
         "name": "\u00a7 39",
         "title": null,
         "parent": null,
@@ -168,7 +155,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004600315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004600315",
         "name": "\u00a7 40",
         "title": null,
         "parent": null,
@@ -179,7 +165,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004700315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004700315",
         "name": "\u00a7 41",
         "title": null,
         "parent": null,
@@ -190,7 +175,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004800315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004800315",
         "name": "\u00a7 42",
         "title": null,
         "parent": null,
@@ -201,7 +185,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE004900315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE004900315",
         "name": "\u00a7 43",
         "title": null,
         "parent": null,
@@ -212,7 +195,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005000315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005000315",
         "name": "\u00a7 44",
         "title": null,
         "parent": null,
@@ -223,7 +205,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005100315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005100315",
         "name": "\u00a7 45",
         "title": null,
         "parent": null,
@@ -234,7 +215,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005200315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005200315",
         "name": "\u00a7 46",
         "title": null,
         "parent": null,
@@ -245,7 +225,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005300315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005300315",
         "name": "\u00a7 47",
         "title": null,
         "parent": null,
@@ -256,7 +235,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005400315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005400315",
         "name": "\u00a7 48",
         "title": null,
         "parent": null,
@@ -267,7 +245,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005500315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005500315",
         "name": "\u00a7 49",
         "title": null,
         "parent": null,
@@ -278,7 +255,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005600315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005600315",
         "name": "\u00a7 50",
         "title": null,
         "parent": null,
@@ -289,7 +265,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005700315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005700315",
         "name": "\u00a7 51",
         "title": null,
         "parent": null,
@@ -300,7 +275,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005800315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005800315",
         "name": "\u00a7 52",
         "title": null,
         "parent": null,
@@ -311,7 +285,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE005900315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE005900315",
         "name": "\u00a7 53",
         "title": null,
         "parent": null,
@@ -322,7 +295,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE006000315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE006000315",
         "name": "\u00a7 54",
         "title": null,
         "parent": null,
@@ -333,7 +305,6 @@
       {
         "type": "article",
         "id": "BJNR000070907BJNE006100315",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kunsturhg/articles/BJNR000070907BJNE006100315",
         "name": "\u00a7 55",
         "title": null,
         "parent": null,

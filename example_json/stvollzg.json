@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR005810976",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg",
     "firstPublished": "1976-03-16",
     "sourceTimestamp": "20200415212502",
     "titleShort": "Strafvollzugsgesetz",
@@ -32,7 +31,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE003500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE003500314",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -43,7 +41,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023307125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023307125",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -54,7 +51,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000100314",
         "name": "Erster Abschnitt",
         "title": "Anwendungsbereich",
         "parent": null,
@@ -64,7 +60,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE003600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE003600314",
         "name": "\u00a7 1",
         "title": null,
         "parent": {
@@ -78,7 +73,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000200314",
         "name": "Zweiter Abschnitt",
         "title": "Vollzug der Freiheitsstrafe",
         "parent": null,
@@ -88,7 +82,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000300314",
         "name": "Erster Titel",
         "title": "Grunds\u00e4tze",
         "parent": {
@@ -101,7 +94,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE003700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE003700314",
         "name": "\u00a7 2",
         "title": "Aufgaben des Vollzuges",
         "parent": {
@@ -115,7 +107,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE003800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE003800314",
         "name": "\u00a7 3",
         "title": "Gestaltung des Vollzuges",
         "parent": {
@@ -129,7 +120,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE003900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE003900314",
         "name": "\u00a7 4",
         "title": "Stellung des Gefangenen",
         "parent": {
@@ -143,7 +133,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000400314",
         "name": "Zweiter Titel",
         "title": "Planung des Vollzuges",
         "parent": {
@@ -156,7 +145,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004001306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004001306",
         "name": "\u00a7 5",
         "title": "Aufnahmeverfahren",
         "parent": {
@@ -170,7 +158,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004201307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004201307",
         "name": "\u00a7 6",
         "title": "Behandlungsuntersuchung.\n<BR/>\nBeteiligung des Gefangenen",
         "parent": {
@@ -184,7 +171,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004303307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004303307",
         "name": "\u00a7 7",
         "title": "Vollzugsplan",
         "parent": {
@@ -198,7 +184,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004400314",
         "name": "\u00a7 8",
         "title": "Verlegung. \u00dcberstellung",
         "parent": {
@@ -212,7 +197,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004503307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004503307",
         "name": "\u00a7 9",
         "title": "Verlegung in eine sozialtherapeutische Anstalt",
         "parent": {
@@ -226,7 +210,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004600314",
         "name": "\u00a7 10",
         "title": "Offener und geschlossener Vollzug",
         "parent": {
@@ -240,7 +223,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004700314",
         "name": "\u00a7 11",
         "title": "Lockerungen des Vollzuges",
         "parent": {
@@ -254,7 +236,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004800314",
         "name": "\u00a7 12",
         "title": "Ausf\u00fchrung aus besonderen Gr\u00fcnden",
         "parent": {
@@ -268,7 +249,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE004900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE004900314",
         "name": "\u00a7 13",
         "title": "Urlaub aus der Haft",
         "parent": {
@@ -282,7 +262,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005000314",
         "name": "\u00a7 14",
         "title": "Weisungen, Aufhebung von Lockerungen und Urlaub",
         "parent": {
@@ -296,7 +275,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005100314",
         "name": "\u00a7 15",
         "title": "Entlassungsvorbereitung",
         "parent": {
@@ -310,7 +288,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005200314",
         "name": "\u00a7 16",
         "title": "Entlassungszeitpunkt",
         "parent": {
@@ -324,7 +301,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000500314",
         "name": "Dritter Titel",
         "title": "Unterbringung und Ern\u00e4hrung des\nGefangenen",
         "parent": {
@@ -337,7 +313,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005301307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005301307",
         "name": "\u00a7 17",
         "title": "Unterbringung w\u00e4hrend der Arbeit und Freizeit",
         "parent": {
@@ -351,7 +326,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005400314",
         "name": "\u00a7 18",
         "title": "Unterbringung w\u00e4hrend der Ruhezeit",
         "parent": {
@@ -365,7 +339,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005500314",
         "name": "\u00a7 19",
         "title": "Ausstattung des Haftraumes durch den Gefangenen und sein\npers\u00f6nlicher Besitz",
         "parent": {
@@ -379,7 +352,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005600314",
         "name": "\u00a7 20",
         "title": "Kleidung",
         "parent": {
@@ -393,7 +365,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005700314",
         "name": "\u00a7 21",
         "title": "Anstaltsverpflegung",
         "parent": {
@@ -407,7 +378,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005800314",
         "name": "\u00a7 22",
         "title": "Einkauf",
         "parent": {
@@ -421,7 +391,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000600314",
         "name": "Vierter Titel",
         "title": "Besuche, Schriftwechsel sowie\nUrlaub, Ausgang und Ausf\u00fchrung aus besonderem Anla\u00df",
         "parent": {
@@ -434,7 +403,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE005900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE005900314",
         "name": "\u00a7 23",
         "title": "Grundsatz",
         "parent": {
@@ -448,7 +416,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006000314",
         "name": "\u00a7 24",
         "title": "Recht auf Besuch",
         "parent": {
@@ -462,7 +429,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006100314",
         "name": "\u00a7 25",
         "title": "Besuchsverbot",
         "parent": {
@@ -476,7 +442,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006200314",
         "name": "\u00a7 26",
         "title": "Besuche von Verteidigern, Rechtsanw\u00e4lten und Notaren",
         "parent": {
@@ -490,7 +455,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006301307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006301307",
         "name": "\u00a7 27",
         "title": "\u00dcberwachung der Besuche",
         "parent": {
@@ -504,7 +468,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006400314",
         "name": "\u00a7 28",
         "title": "Recht auf Schriftwechsel",
         "parent": {
@@ -518,7 +481,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006503310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006503310",
         "name": "\u00a7 29",
         "title": "\u00dcberwachung des Schriftwechsels",
         "parent": {
@@ -532,7 +494,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006600314",
         "name": "\u00a7 30",
         "title": "Weiterleitung von Schreiben. Aufbewahrung",
         "parent": {
@@ -546,7 +507,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006700314",
         "name": "\u00a7 31",
         "title": "Anhalten von Schreiben",
         "parent": {
@@ -560,7 +520,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006801307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006801307",
         "name": "\u00a7 32",
         "title": "Ferngespr\u00e4che und Telegramme",
         "parent": {
@@ -574,7 +533,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE006900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE006900314",
         "name": "\u00a7 33",
         "title": "Pakete",
         "parent": {
@@ -588,7 +546,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007001307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007001307",
         "name": "\u00a7 34",
         "title": "Verwertung von Kenntnissen",
         "parent": {
@@ -602,7 +559,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007100314",
         "name": "\u00a7 35",
         "title": "Urlaub, Ausgang und Ausf\u00fchrung aus wichtigem Anla\u00df",
         "parent": {
@@ -616,7 +572,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007200314",
         "name": "\u00a7 36",
         "title": "Gerichtliche Termine",
         "parent": {
@@ -630,7 +585,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000700314",
         "name": "F\u00fcnfter Titel",
         "title": "Arbeit, Ausbildung und\nWeiterbildung",
         "parent": {
@@ -643,7 +597,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007301307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007301307",
         "name": "\u00a7 37",
         "title": "Zuweisung",
         "parent": {
@@ -657,7 +610,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007401307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007401307",
         "name": "\u00a7 38",
         "title": "Unterricht",
         "parent": {
@@ -671,7 +623,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007501307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007501307",
         "name": "\u00a7 39",
         "title": "Freies Besch\u00e4ftigungsverh\u00e4ltnis, Selbstbesch\u00e4ftigung",
         "parent": {
@@ -685,7 +636,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007600314",
         "name": "\u00a7 40",
         "title": "Abschlu\u00dfzeugnis",
         "parent": {
@@ -699,7 +649,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007701306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007701306",
         "name": "\u00a7 41",
         "title": "Arbeitspflicht",
         "parent": {
@@ -713,7 +662,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE007900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE007900314",
         "name": "\u00a7 42",
         "title": "Freistellung von der Arbeitspflicht",
         "parent": {
@@ -727,7 +675,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE008002311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE008002311",
         "name": "\u00a7 43",
         "title": "Arbeitsentgelt, Arbeitsurlaub und Anrechnung der Freistellung\nauf den Entlassungszeitpunkt",
         "parent": {
@@ -741,7 +688,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE008103301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE008103301",
         "name": "\u00a7 44",
         "title": "Ausbildungsbeihilfe",
         "parent": {
@@ -755,7 +701,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE008200307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE008200307",
         "name": "\u00a7 45",
         "title": "Ausfallentsch\u00e4digung",
         "parent": {
@@ -769,7 +714,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE008400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE008400314",
         "name": "\u00a7 46",
         "title": "Taschengeld",
         "parent": {
@@ -783,7 +727,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE008601311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE008601311",
         "name": "\u00a7 47",
         "title": "Hausgeld",
         "parent": {
@@ -797,7 +740,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE008704311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE008704311",
         "name": "\u00a7 48",
         "title": "Rechtsverordnung",
         "parent": {
@@ -811,7 +753,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE008800307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE008800307",
         "name": "\u00a7 49",
         "title": "Unterhaltsbeitrag",
         "parent": {
@@ -825,7 +766,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009006311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009006311",
         "name": "\u00a7 50",
         "title": "Haftkostenbeitrag",
         "parent": {
@@ -839,7 +779,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009100314",
         "name": "\u00a7 51",
         "title": "\u00dcberbr\u00fcckungsgeld",
         "parent": {
@@ -853,7 +792,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009200314",
         "name": "\u00a7 52",
         "title": "Eigengeld",
         "parent": {
@@ -867,7 +805,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000800314",
         "name": "Sechster Titel",
         "title": "Religionsaus\u00fcbung",
         "parent": {
@@ -880,7 +817,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009300314",
         "name": "\u00a7 53",
         "title": "Seelsorge",
         "parent": {
@@ -894,7 +830,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009400314",
         "name": "\u00a7 54",
         "title": "Religi\u00f6se Veranstaltungen",
         "parent": {
@@ -908,7 +843,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009500314",
         "name": "\u00a7 55",
         "title": "Weltanschauungsgemeinschaften",
         "parent": {
@@ -922,7 +856,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG000900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG000900314",
         "name": "Siebter Titel",
         "title": "Gesundheitsf\u00fcrsorge",
         "parent": {
@@ -935,7 +868,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009600314",
         "name": "\u00a7 56",
         "title": "Allgemeine Regeln",
         "parent": {
@@ -949,7 +881,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009701309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009701309",
         "name": "\u00a7 57",
         "title": "Gesundheitsuntersuchungen, medizinische Vorsorgeleistungen",
         "parent": {
@@ -963,7 +894,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009801309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009801309",
         "name": "\u00a7 58",
         "title": "Krankenbehandlung",
         "parent": {
@@ -977,7 +907,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE009901309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE009901309",
         "name": "\u00a7 59",
         "title": "Versorgung mit Hilfsmitteln",
         "parent": {
@@ -991,7 +920,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010001309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010001309",
         "name": "\u00a7 60",
         "title": "Krankenbehandlung im Urlaub",
         "parent": {
@@ -1005,7 +933,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010101309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010101309",
         "name": "\u00a7 61",
         "title": "Art und Umfang der Leistungen",
         "parent": {
@@ -1019,7 +946,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010201309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010201309",
         "name": "\u00a7 62",
         "title": "Zusch\u00fcsse zu Zahnersatz und Zahnkronen",
         "parent": {
@@ -1033,7 +959,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023100309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023100309",
         "name": "\u00a7 62a",
         "title": "Ruhen der Anspr\u00fcche",
         "parent": {
@@ -1047,7 +972,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010300314",
         "name": "\u00a7 63",
         "title": "\u00c4rztliche Behandlung zur sozialen Eingliederung",
         "parent": {
@@ -1061,7 +985,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010400314",
         "name": "\u00a7 64",
         "title": "Aufenthalt im Freien",
         "parent": {
@@ -1075,7 +998,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010601111",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010601111",
         "name": "\u00a7 65",
         "title": "Verlegung",
         "parent": {
@@ -1089,7 +1011,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010700314",
         "name": "\u00a7 66",
         "title": "Benachrichtigung bei Erkrankung oder Todesfall",
         "parent": {
@@ -1103,7 +1024,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001000314",
         "name": "Achter Titel",
         "title": "Freizeit",
         "parent": {
@@ -1116,7 +1036,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010800314",
         "name": "\u00a7 67",
         "title": "Allgemeines",
         "parent": {
@@ -1130,7 +1049,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE010900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE010900314",
         "name": "\u00a7 68",
         "title": "Zeitungen und Zeitschriften",
         "parent": {
@@ -1144,7 +1062,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011001307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011001307",
         "name": "\u00a7 69",
         "title": "H\u00f6rfunk und Fernsehen",
         "parent": {
@@ -1158,7 +1075,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011100314",
         "name": "\u00a7 70",
         "title": "Besitz von Gegenst\u00e4nden f\u00fcr die Freizeitbesch\u00e4ftigung",
         "parent": {
@@ -1172,7 +1088,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001100314",
         "name": "Neunter Titel",
         "title": "Soziale Hilfe",
         "parent": {
@@ -1185,7 +1100,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023000314",
         "name": "\u00a7 71",
         "title": "Grundsatz",
         "parent": {
@@ -1199,7 +1113,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011200314",
         "name": "\u00a7 72",
         "title": "Hilfe bei der Aufnahme",
         "parent": {
@@ -1213,7 +1126,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011300314",
         "name": "\u00a7 73",
         "title": "Hilfe w\u00e4hrend des Vollzuges",
         "parent": {
@@ -1227,7 +1139,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011400314",
         "name": "\u00a7 74",
         "title": "Hilfe zur Entlassung",
         "parent": {
@@ -1241,7 +1152,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011500314",
         "name": "\u00a7 75",
         "title": "Entlassungsbeihilfe",
         "parent": {
@@ -1255,7 +1165,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001200314",
         "name": "Zehnter Titel",
         "title": "Besondere Vorschriften f\u00fcr den\nFrauenstrafvollzug",
         "parent": {
@@ -1268,7 +1177,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011601309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011601309",
         "name": "\u00a7 76",
         "title": "Leistungen bei Schwangerschaft und Mutterschaft",
         "parent": {
@@ -1282,7 +1190,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011700314",
         "name": "\u00a7 77",
         "title": "Arznei-, Verband- und Heilmittel",
         "parent": {
@@ -1296,7 +1203,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011801309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011801309",
         "name": "\u00a7 78",
         "title": "Art, Umfang und Ruhen der Leistungen bei Schwangerschaft und\nMutterschaft",
         "parent": {
@@ -1310,7 +1216,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE011901301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE011901301",
         "name": "\u00a7 79",
         "title": "Geburtsanzeige",
         "parent": {
@@ -1324,7 +1229,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012000314",
         "name": "\u00a7 80",
         "title": "M\u00fctter mit Kindern",
         "parent": {
@@ -1338,7 +1242,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001300314",
         "name": "Elfter Titel",
         "title": "Sicherheit und Ordnung",
         "parent": {
@@ -1351,7 +1254,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012100314",
         "name": "\u00a7 81",
         "title": "Grundsatz",
         "parent": {
@@ -1365,7 +1267,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012200314",
         "name": "\u00a7 82",
         "title": "Verhaltensvorschriften",
         "parent": {
@@ -1379,7 +1280,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012300314",
         "name": "\u00a7 83",
         "title": "Pers\u00f6nlicher Gewahrsam. Eigengeld",
         "parent": {
@@ -1393,7 +1293,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012401307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012401307",
         "name": "\u00a7 84",
         "title": "Durchsuchung",
         "parent": {
@@ -1407,7 +1306,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012500314",
         "name": "\u00a7 85",
         "title": "Sichere Unterbringung",
         "parent": {
@@ -1421,7 +1319,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012603125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012603125",
         "name": "\u00a7 86",
         "title": "Erkennungsdienstliche Ma\u00dfnahmen",
         "parent": {
@@ -1435,7 +1332,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE025000301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE025000301",
         "name": "\u00a7 86a",
         "title": "Lichtbilder",
         "parent": {
@@ -1449,7 +1345,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012702301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012702301",
         "name": "\u00a7 87",
         "title": "Festnahmerecht",
         "parent": {
@@ -1463,7 +1358,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012801125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012801125",
         "name": "\u00a7 88",
         "title": "Besondere Sicherungsma\u00dfnahmen",
         "parent": {
@@ -1477,7 +1371,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE012900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE012900314",
         "name": "\u00a7 89",
         "title": "Einzelhaft",
         "parent": {
@@ -1491,7 +1384,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013000314",
         "name": "\u00a7 90",
         "title": "Fesselung",
         "parent": {
@@ -1505,7 +1397,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013100314",
         "name": "\u00a7 91",
         "title": "Anordnung besonderer Sicherungsma\u00dfnahmen",
         "parent": {
@@ -1519,7 +1410,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013200314",
         "name": "\u00a7 92",
         "title": "\u00c4rztliche \u00dcberwachung",
         "parent": {
@@ -1533,7 +1423,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013402311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013402311",
         "name": "\u00a7 93",
         "title": "Ersatz von Aufwendungen",
         "parent": {
@@ -1547,7 +1436,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001400314",
         "name": "Zw\u00f6lfter Titel",
         "title": "Unmittelbarer Zwang",
         "parent": {
@@ -1560,7 +1448,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013500314",
         "name": "\u00a7 94",
         "title": "Allgemeine Voraussetzungen",
         "parent": {
@@ -1574,7 +1461,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013600314",
         "name": "\u00a7 95",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -1588,7 +1474,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013700314",
         "name": "\u00a7 96",
         "title": "Grundsatz der Verh\u00e4ltnism\u00e4\u00dfigkeit",
         "parent": {
@@ -1602,7 +1487,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013801160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013801160",
         "name": "\u00a7 97",
         "title": "Handeln auf Anordnung",
         "parent": {
@@ -1616,7 +1500,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE013900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE013900314",
         "name": "\u00a7 98",
         "title": "Androhung",
         "parent": {
@@ -1630,7 +1513,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014000314",
         "name": "\u00a7 99",
         "title": "Allgemeine Vorschriften f\u00fcr den Schu\u00dfwaffengebrauch",
         "parent": {
@@ -1644,7 +1526,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014100314",
         "name": "\u00a7 100",
         "title": "Besondere Vorschriften f\u00fcr den Schu\u00dfwaffengebrauch",
         "parent": {
@@ -1658,7 +1539,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014201306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014201306",
         "name": "\u00a7 101",
         "title": "Zwangsma\u00dfnahmen auf dem Gebiet der Gesundheitsf\u00fcrsorge",
         "parent": {
@@ -1672,7 +1552,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001500314",
         "name": "Dreizehnter Titel",
         "title": "Disziplinarma\u00dfnahmen",
         "parent": {
@@ -1685,7 +1564,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014300314",
         "name": "\u00a7 102",
         "title": "Voraussetzungen",
         "parent": {
@@ -1699,7 +1577,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014401307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014401307",
         "name": "\u00a7 103",
         "title": "Arten der Disziplinarma\u00dfnahmen",
         "parent": {
@@ -1713,7 +1590,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014500314",
         "name": "\u00a7 104",
         "title": "Vollzug der Disziplinarma\u00dfnahmen.\n<BR/>\nAussetzung zur Bew\u00e4hrung",
         "parent": {
@@ -1727,7 +1603,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014600314",
         "name": "\u00a7 105",
         "title": "Disziplinarbefugnis",
         "parent": {
@@ -1741,7 +1616,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014700314",
         "name": "\u00a7 106",
         "title": "Verfahren",
         "parent": {
@@ -1755,7 +1629,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014800314",
         "name": "\u00a7 107",
         "title": "Mitwirkung des Arztes",
         "parent": {
@@ -1769,7 +1642,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001601125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001601125",
         "name": "Vierzehnter Titel",
         "title": "Rechtsbehelfe und gerichtliches Verfahren",
         "parent": {
@@ -1782,7 +1654,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE014900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE014900314",
         "name": "\u00a7 108",
         "title": "Beschwerderecht",
         "parent": {
@@ -1796,7 +1667,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015001308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015001308",
         "name": "\u00a7 109",
         "title": "Antrag auf gerichtliche Entscheidung",
         "parent": {
@@ -1810,7 +1680,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015101308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015101308",
         "name": "\u00a7 110",
         "title": "Zust\u00e4ndigkeit",
         "parent": {
@@ -1824,7 +1693,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE025203125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE025203125",
         "name": "\u00a7 110a",
         "title": "Elektronische Aktenf\u00fchrung; Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -1838,7 +1706,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015200314",
         "name": "\u00a7 111",
         "title": "Beteiligte",
         "parent": {
@@ -1852,7 +1719,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015302311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015302311",
         "name": "\u00a7 112",
         "title": "Antragsfrist. Wiedereinsetzung",
         "parent": {
@@ -1866,7 +1732,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015400314",
         "name": "\u00a7 113",
         "title": "Vornahmeantrag",
         "parent": {
@@ -1880,7 +1745,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015500314",
         "name": "\u00a7 114",
         "title": "Aussetzung der Ma\u00dfnahme",
         "parent": {
@@ -1894,7 +1758,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015604311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015604311",
         "name": "\u00a7 115",
         "title": "Gerichtliche Entscheidung",
         "parent": {
@@ -1908,7 +1771,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015700314",
         "name": "\u00a7 116",
         "title": "Rechtsbeschwerde",
         "parent": {
@@ -1922,7 +1784,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015800314",
         "name": "\u00a7 117",
         "title": "Zust\u00e4ndigkeit f\u00fcr die Rechtsbeschwerde",
         "parent": {
@@ -1936,7 +1797,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE015901311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE015901311",
         "name": "\u00a7 118",
         "title": "Form. Frist. Begr\u00fcndung",
         "parent": {
@@ -1950,7 +1810,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016000314",
         "name": "\u00a7 119",
         "title": "Entscheidung \u00fcber die Rechtsbeschwerde",
         "parent": {
@@ -1964,7 +1823,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE025100308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE025100308",
         "name": "\u00a7 119a",
         "title": "Strafvollzugsbegleitende gerichtliche Kontrolle bei angeordneter oder vorbehaltener Sicherungsverwahrung",
         "parent": {
@@ -1978,7 +1836,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016103311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016103311",
         "name": "\u00a7 120",
         "title": "Entsprechende Anwendung anderer Vorschriften",
         "parent": {
@@ -1992,7 +1849,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016204308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016204308",
         "name": "\u00a7 121",
         "title": "Kosten des Verfahrens",
         "parent": {
@@ -2006,7 +1862,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE025300125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE025300125",
         "name": "\u00a7 121a",
         "title": "Gerichtliche Zust\u00e4ndigkeit bei dem Richtervorbehalt unterliegenden Ma\u00dfnahmen",
         "parent": {
@@ -2020,7 +1875,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE025400125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE025400125",
         "name": "\u00a7 121b",
         "title": "Gerichtliches Verfahren bei dem Richtervorbehalt unterliegenden Ma\u00dfnahmen",
         "parent": {
@@ -2034,7 +1888,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001700314",
         "name": "F\u00fcnfzehnter Titel",
         "title": "Strafvollstreckung und Untersuchungshaft",
         "parent": {
@@ -2047,7 +1900,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016301160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016301160",
         "name": "\u00a7 122",
         "title": null,
         "parent": {
@@ -2061,7 +1913,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG003500306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG003500306",
         "name": "Sechzehnter Titel",
         "title": "Sozialtherapeutische Anstalten",
         "parent": {
@@ -2074,7 +1925,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016401306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016401306",
         "name": "\u00a7 123",
         "title": "Sozialtherapeutische Anstalten und Abteilungen",
         "parent": {
@@ -2088,7 +1938,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016501306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016501306",
         "name": "\u00a7 124",
         "title": "Urlaub zur Vorbereitung der Entlassung",
         "parent": {
@@ -2102,7 +1951,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016601306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016601306",
         "name": "\u00a7 125",
         "title": "Aufnahme auf freiwilliger Grundlage",
         "parent": {
@@ -2116,7 +1964,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016701306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016701306",
         "name": "\u00a7 126",
         "title": "Nachgehende Betreuung",
         "parent": {
@@ -2130,7 +1977,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE016802306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE016802306",
         "name": "(XXXX) \u00a7\u00a7 127 und 128",
         "title": null,
         "parent": {
@@ -2144,7 +1990,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG001800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG001800314",
         "name": "Dritter Abschnitt",
         "title": "Besondere Vorschriften \u00fcber den\nVollzug der freiheitsentziehenden Ma\u00dfregeln der Besserung und\nSicherung",
         "parent": null,
@@ -2154,7 +1999,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002001306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002001306",
         "name": "Erster Titel",
         "title": "Sicherungsverwahrung",
         "parent": {
@@ -2167,7 +2011,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017100314",
         "name": "\u00a7 129",
         "title": "Ziel der Unterbringung",
         "parent": {
@@ -2181,7 +2024,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017204125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017204125",
         "name": "\u00a7 130",
         "title": "Anwendung anderer Vorschriften",
         "parent": {
@@ -2195,7 +2037,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017300314",
         "name": "\u00a7 131",
         "title": "Ausstattung",
         "parent": {
@@ -2209,7 +2050,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017400314",
         "name": "\u00a7 132",
         "title": "Kleidung",
         "parent": {
@@ -2223,7 +2063,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017502311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017502311",
         "name": "\u00a7 133",
         "title": "Selbstbesch\u00e4ftigung. Taschengeld",
         "parent": {
@@ -2237,7 +2076,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017601306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017601306",
         "name": "\u00a7 134",
         "title": "Entlassungsvorbereitung",
         "parent": {
@@ -2251,7 +2089,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017700314",
         "name": "\u00a7 135",
         "title": "Sicherungsverwahrung in Frauenanstalten",
         "parent": {
@@ -2265,7 +2102,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002101306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002101306",
         "name": "Zweiter Titel",
         "title": "Unterbringung in einem psychiatrischen\nKrankenhaus und in einer Entziehungsanstalt",
         "parent": {
@@ -2278,7 +2114,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017800314",
         "name": "\u00a7 136",
         "title": "Unterbringung in einem psychiatrischen Krankenhaus",
         "parent": {
@@ -2292,7 +2127,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE017900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE017900314",
         "name": "\u00a7 137",
         "title": "Unterbringung in einer Entziehungsanstalt",
         "parent": {
@@ -2306,7 +2140,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018003125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018003125",
         "name": "\u00a7 138",
         "title": "Anwendung anderer Vorschriften",
         "parent": {
@@ -2320,7 +2153,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002200314",
         "name": "Vierter Abschnitt",
         "title": "Vollzugsbeh\u00f6rden",
         "parent": null,
@@ -2330,7 +2162,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002300314",
         "name": "Erster Titel",
         "title": "Arten und Einrichtung der\nJustizvollzugsanstalten",
         "parent": {
@@ -2343,7 +2174,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018101306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018101306",
         "name": "\u00a7 139",
         "title": "Justizvollzugsanstalten",
         "parent": {
@@ -2357,7 +2187,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018201306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018201306",
         "name": "\u00a7 140",
         "title": "Trennung des Vollzuges",
         "parent": {
@@ -2371,7 +2200,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018300314",
         "name": "\u00a7 141",
         "title": "Differenzierung",
         "parent": {
@@ -2385,7 +2213,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018400314",
         "name": "\u00a7 142",
         "title": "Einrichtungen f\u00fcr M\u00fctter mit Kindern",
         "parent": {
@@ -2399,7 +2226,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018500314",
         "name": "\u00a7 143",
         "title": "Gr\u00f6\u00dfe und Gestaltung der Anstalten",
         "parent": {
@@ -2413,7 +2239,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018602311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018602311",
         "name": "\u00a7 144",
         "title": "Gr\u00f6\u00dfe und Ausgestaltung der R\u00e4ume",
         "parent": {
@@ -2427,7 +2252,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018700314",
         "name": "\u00a7 145",
         "title": "Festsetzung der Belegungsf\u00e4higkeit",
         "parent": {
@@ -2441,7 +2265,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018800314",
         "name": "\u00a7 146",
         "title": "Verbot der \u00dcberbelegung",
         "parent": {
@@ -2455,7 +2278,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE018900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE018900314",
         "name": "\u00a7 147",
         "title": "Einrichtungen f\u00fcr die Entlassung",
         "parent": {
@@ -2469,7 +2291,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019002301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019002301",
         "name": "\u00a7 148",
         "title": "Arbeitsbeschaffung, Gelegenheit zur beruflichen Bildung",
         "parent": {
@@ -2483,7 +2304,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019100314",
         "name": "\u00a7 149",
         "title": "Arbeitsbetriebe, Einrichtungen zur beruflichen Bildung",
         "parent": {
@@ -2497,7 +2317,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019200314",
         "name": "\u00a7 150",
         "title": "Vollzugsgemeinschaften",
         "parent": {
@@ -2511,7 +2330,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002400314",
         "name": "Zweiter Titel",
         "title": "Aufsicht \u00fcber die Justizvollzugsanstalten",
         "parent": {
@@ -2524,7 +2342,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019300314",
         "name": "\u00a7 151",
         "title": "Aufsichtsbeh\u00f6rden",
         "parent": {
@@ -2538,7 +2355,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019400314",
         "name": "\u00a7 152",
         "title": "Vollstreckungsplan",
         "parent": {
@@ -2552,7 +2368,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019500314",
         "name": "\u00a7 153",
         "title": "Zust\u00e4ndigkeit f\u00fcr Verlegungen",
         "parent": {
@@ -2566,7 +2381,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002500314",
         "name": "Dritter Titel",
         "title": "Innerer Aufbau der Justizvollzugsanstalten",
         "parent": {
@@ -2579,7 +2393,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019601301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019601301",
         "name": "\u00a7 154",
         "title": "Zusammenarbeit",
         "parent": {
@@ -2593,7 +2406,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019700314",
         "name": "\u00a7 155",
         "title": "Vollzugsbedienstete",
         "parent": {
@@ -2607,7 +2419,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019800314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019800314",
         "name": "\u00a7 156",
         "title": "Anstaltsleitung",
         "parent": {
@@ -2621,7 +2432,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE019900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE019900314",
         "name": "\u00a7 157",
         "title": "Seelsorge",
         "parent": {
@@ -2635,7 +2445,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020001311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020001311",
         "name": "\u00a7 158",
         "title": "\u00c4rztliche Versorgung",
         "parent": {
@@ -2649,7 +2458,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020100314",
         "name": "\u00a7 159",
         "title": "Konferenzen",
         "parent": {
@@ -2663,7 +2471,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020200314",
         "name": "\u00a7 160",
         "title": "Gefangenenmitverantwortung",
         "parent": {
@@ -2677,7 +2484,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020300314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020300314",
         "name": "\u00a7 161",
         "title": "Hausordnung",
         "parent": {
@@ -2691,7 +2497,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002600314",
         "name": "Vierter Titel",
         "title": "Anstaltsbeir\u00e4te",
         "parent": {
@@ -2704,7 +2509,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020400314",
         "name": "\u00a7 162",
         "title": "Bildung der Beir\u00e4te",
         "parent": {
@@ -2718,7 +2522,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020500314",
         "name": "\u00a7 163",
         "title": "Aufgabe der Beir\u00e4te",
         "parent": {
@@ -2732,7 +2535,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020600314",
         "name": "\u00a7 164",
         "title": "Befugnisse",
         "parent": {
@@ -2746,7 +2548,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020700314",
         "name": "\u00a7 165",
         "title": "Pflicht zur Verschwiegenheit",
         "parent": {
@@ -2760,7 +2561,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002700314",
         "name": "F\u00fcnfter Titel",
         "title": "Kriminologische Forschung im\nStrafvollzug",
         "parent": {
@@ -2773,7 +2573,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020802125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020802125",
         "name": "\u00a7 166",
         "title": null,
         "parent": {
@@ -2787,7 +2586,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002802125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002802125",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Vollzug weiterer freiheitsentziehender Ma\u00dfnahmen in Justizvollzugsanstalten, Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft, Sozial- und Arbeitslosenversicherung, Schlu\u00dfvorschriften",
         "parent": null,
@@ -2797,7 +2595,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG002900314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG002900314",
         "name": "Erster Titel",
         "title": "Vollzug des Strafarrestes in\nJustizvollzugsanstalten",
         "parent": {
@@ -2810,7 +2607,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE020906125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE020906125",
         "name": "\u00a7 167",
         "title": "Grundsatz",
         "parent": {
@@ -2824,7 +2620,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021000314",
         "name": "\u00a7 168",
         "title": "Unterbringung, Besuche und Schriftverkehr",
         "parent": {
@@ -2838,7 +2633,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021100314",
         "name": "\u00a7 169",
         "title": "Kleidung, W\u00e4sche und Bettzeug",
         "parent": {
@@ -2852,7 +2646,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021200314",
         "name": "\u00a7 170",
         "title": "Einkauf",
         "parent": {
@@ -2866,7 +2659,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG003000314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG003000314",
         "name": "Zweiter Titel",
         "title": "Vollzug von Ordnungs-, Sicherungs-,\nZwangs- und Erzwingungshaft",
         "parent": {
@@ -2879,7 +2671,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021306125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021306125",
         "name": "\u00a7 171",
         "title": "Grundsatz",
         "parent": {
@@ -2893,7 +2684,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE025500125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE025500125",
         "name": "\u00a7 171a",
         "title": "Fixierung",
         "parent": {
@@ -2907,7 +2697,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021400314",
         "name": "\u00a7 172",
         "title": "Unterbringung",
         "parent": {
@@ -2921,7 +2710,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021500314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021500314",
         "name": "\u00a7 173",
         "title": "Kleidung, W\u00e4sche und Bettzeug",
         "parent": {
@@ -2935,7 +2723,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021600314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021600314",
         "name": "\u00a7 174",
         "title": "Einkauf",
         "parent": {
@@ -2949,7 +2736,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021700314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021700314",
         "name": "\u00a7 175",
         "title": "Arbeit",
         "parent": {
@@ -2963,7 +2749,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG003100314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG003100314",
         "name": "Dritter Titel",
         "title": "Arbeitsentgelt in Jugendstrafanstalten\nund im Vollzug der Untersuchungshaft",
         "parent": {
@@ -2976,7 +2761,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE021901311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE021901311",
         "name": "\u00a7 176",
         "title": "Jugendstrafanstalten",
         "parent": {
@@ -2990,7 +2774,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022001311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022001311",
         "name": "\u00a7 177",
         "title": "Untersuchungshaft",
         "parent": {
@@ -3004,7 +2787,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG003200314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG003200314",
         "name": "Vierter Titel",
         "title": "Unmittelbarer Zwang in\nJustizvollzugsanstalten",
         "parent": {
@@ -3017,7 +2799,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022101160",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022101160",
         "name": "\u00a7 178",
         "title": null,
         "parent": {
@@ -3031,7 +2812,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG003601125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG003601125",
         "name": "F\u00fcnfter Titel",
         "title": "Datenschutz beim Vollzug von Ordnungs-, Sicherungs-, Zwangs- und Erzwingungshaft",
         "parent": {
@@ -3044,7 +2824,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023402125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023402125",
         "name": "\u00a7 179",
         "title": "Datenerhebung",
         "parent": {
@@ -3058,7 +2837,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023502125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023502125",
         "name": "\u00a7 180",
         "title": "Verarbeitung",
         "parent": {
@@ -3072,7 +2850,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023601125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023601125",
         "name": "\u00a7 181",
         "title": "Zweckbindung bei \u00dcbermittlungen",
         "parent": {
@@ -3086,7 +2863,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023702125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023702125",
         "name": "\u00a7 182",
         "title": "Schutz besonderer Kategorien personenbezogener Daten",
         "parent": {
@@ -3100,7 +2876,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023801125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023801125",
         "name": "\u00a7 183",
         "title": "Schutz der Daten in Akten und Dateisystemen",
         "parent": {
@@ -3114,7 +2889,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023902125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023902125",
         "name": "\u00a7 184",
         "title": "Berichtigung, L\u00f6schung und Einschr\u00e4nkung der Verarbeitung",
         "parent": {
@@ -3128,7 +2902,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024001125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024001125",
         "name": "\u00a7 185",
         "title": "Auskunft an den die betroffene Person, Akteneinsicht",
         "parent": {
@@ -3142,7 +2915,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024102125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024102125",
         "name": "\u00a7 186",
         "title": "Auskunft und Akteneinsicht f\u00fcr wissenschaftliche Zwecke und zur Wahrnehmung der Aufgaben des Europ\u00e4ischen Ausschusses zur Verh\u00fctung von Folter und unmenschlicher oder erniedrigender Behandlung oder Strafe",
         "parent": {
@@ -3156,7 +2928,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024202125",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024202125",
         "name": "\u00a7 187",
         "title": "(weggefallen)",
         "parent": {
@@ -3170,7 +2941,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG003301307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG003301307",
         "name": "Sechster Titel",
         "title": "Anpassung des Bundesrechts",
         "parent": {
@@ -3183,7 +2953,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024300307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024300307",
         "name": "\u00a7 188",
         "title": null,
         "parent": {
@@ -3197,7 +2966,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024400307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024400307",
         "name": "\u00a7 189",
         "title": "Verordnung \u00fcber Kosten im Bereich der Justizverwaltung",
         "parent": {
@@ -3211,7 +2979,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG003700307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG003700307",
         "name": "Siebter Titel",
         "title": "Sozial- und Arbeitslosenversicherung",
         "parent": {
@@ -3224,7 +2991,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024500307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024500307",
         "name": "\u00a7 190",
         "title": "Reichsversicherungsordnung",
         "parent": {
@@ -3238,7 +3004,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024600307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024600307",
         "name": "\u00a7 191",
         "title": "Angestelltenversicherungsgesetz",
         "parent": {
@@ -3252,7 +3017,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024700307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024700307",
         "name": "\u00a7 192",
         "title": "Reichsknappschaftsgesetz",
         "parent": {
@@ -3266,7 +3030,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024800307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024800307",
         "name": "\u00a7 193",
         "title": "Gesetz \u00fcber die Krankenversicherung der Landwirte",
         "parent": {
@@ -3280,7 +3043,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE024900307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE024900307",
         "name": "\u00a7 194",
         "title": null,
         "parent": {
@@ -3294,7 +3056,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022301301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022301301",
         "name": "\u00a7 195",
         "title": "Einbehaltung von Beitragsteilen",
         "parent": {
@@ -3308,7 +3069,6 @@
       {
         "type": "heading",
         "id": "BJNR005810976BJNG003401307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNG003401307",
         "name": "Achter Titel",
         "title": "Einschr\u00e4nkung von Grundrechten,\nInkrafttreten",
         "parent": {
@@ -3321,7 +3081,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022400314",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022400314",
         "name": "\u00a7 196",
         "title": "Einschr\u00e4nkung von Grundrechten",
         "parent": {
@@ -3335,7 +3094,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022501307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022501307",
         "name": "\u00a7 197",
         "title": null,
         "parent": {
@@ -3349,7 +3107,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022604307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022604307",
         "name": "\u00a7 198",
         "title": "Inkrafttreten",
         "parent": {
@@ -3363,7 +3120,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022706310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022706310",
         "name": "\u00a7 199",
         "title": "\u00dcbergangsfassungen",
         "parent": {
@@ -3377,7 +3133,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022802311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022802311",
         "name": "\u00a7 200",
         "title": "H\u00f6he des Arbeitsentgelts",
         "parent": {
@@ -3391,7 +3146,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE022901306",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE022901306",
         "name": "\u00a7 201",
         "title": "\u00dcbergangsbestimmungen f\u00fcr bestehende Anstalten",
         "parent": {
@@ -3405,7 +3159,6 @@
       {
         "type": "article",
         "id": "BJNR005810976BJNE023200309",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvollzg/articles/BJNR005810976BJNE023200309",
         "name": "\u00a7 202",
         "title": "Freiheitsstrafe und Jugendhaft der\nDeutschen Demokratischen Republik",
         "parent": {

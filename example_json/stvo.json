@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "DDNR002570977",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo",
     "firstPublished": "1977-05-26",
     "sourceTimestamp": "20130405133144",
     "titleShort": "Stra\u00dfenverkehrs-Ordnung",
@@ -33,7 +32,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE001300307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE001300307",
         "name": "Gliederung",
         "title": null,
         "parent": null,
@@ -44,7 +42,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE001400307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE001400307",
         "name": "Eingangsformel",
         "title": null,
         "parent": null,
@@ -55,7 +52,6 @@
       {
         "type": "heading",
         "id": "DDNR002570977BJNG000200307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNG000200307",
         "name": "Erstes Kapitel",
         "title": null,
         "parent": null,
@@ -65,7 +61,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE002100307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE002100307",
         "name": "(XXXX) \u00a7\u00a7 1 bis 6",
         "title": "(weggefallen)",
         "parent": {
@@ -79,7 +74,6 @@
       {
         "type": "heading",
         "id": "DDNR002570977BJNG000300307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNG000300307",
         "name": "Zweites Kapitel",
         "title": "Voraussetzungen f\u00fcr das\nF\u00fchren von Fahrzeugen",
         "parent": null,
@@ -89,7 +83,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE002300307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE002300307",
         "name": "\u00a7 7",
         "title": "Fahrt\u00fcchtigkeit",
         "parent": {
@@ -103,7 +96,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE002600307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE002600307",
         "name": "(XXXX) \u00a7\u00a7 8 und 9",
         "title": "(weggefallen)",
         "parent": {
@@ -117,7 +109,6 @@
       {
         "type": "heading",
         "id": "DDNR002570977BJNG000500307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNG000500307",
         "name": "Drittes Kapitel",
         "title": null,
         "parent": null,
@@ -127,7 +118,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE005500307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE005500307",
         "name": "(XXXX) \u00a7\u00a7 10 bis 33",
         "title": "(weggefallen)",
         "parent": {
@@ -141,7 +131,6 @@
       {
         "type": "heading",
         "id": "DDNR002570977BJNG000900307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNG000900307",
         "name": "Viertes bis Sechstes Kapitel",
         "title": null,
         "parent": null,
@@ -151,7 +140,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE006900307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE006900307",
         "name": "(XXXX) \u00a7\u00a7 34 bis 46",
         "title": "(weggefallen)",
         "parent": {
@@ -165,7 +153,6 @@
       {
         "type": "heading",
         "id": "DDNR002570977BJNG001000307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNG001000307",
         "name": "Siebentes Kapitel",
         "title": "Schlu\u00dfbestimmungen",
         "parent": null,
@@ -175,7 +162,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE007100307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE007100307",
         "name": "\u00a7 47",
         "title": "Ordnungsstrafbestimmungen",
         "parent": {
@@ -189,7 +175,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE007700307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE007700307",
         "name": "(XXXX) \u00a7\u00a7 48 bis 52",
         "title": "(weggefallen)",
         "parent": {
@@ -203,7 +188,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE007800307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE007800307",
         "name": "Schlu\u00dfformel",
         "title": null,
         "parent": {
@@ -217,7 +201,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE008200307",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE008200307",
         "name": "(XXXX) Anlage 1 bis 3",
         "title": "(weggefallen)",
         "parent": {
@@ -231,7 +214,6 @@
       {
         "type": "article",
         "id": "DDNR002570977BJNE888800301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/stvo/articles/DDNR002570977BJNE888800301",
         "name": "Anhang EV",
         "title": "Auszug aus EinigVtr Anlage II Kapitel XI Sachgebiet B Abschnitt III\n<BR/>\n(BGBl. II 1990, 885, 1223)",
         "parent": {

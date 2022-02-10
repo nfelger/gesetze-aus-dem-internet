@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR124610996",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg",
     "firstPublished": "1996-08-07",
     "sourceTimestamp": "20200814212518",
     "titleShort": "Arbeitsschutzgesetz",
@@ -36,7 +35,6 @@
       {
         "type": "heading",
         "id": "BJNR124610996BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG000200000",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": null,
@@ -46,7 +44,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE000301308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE000301308",
         "name": "\u00a7 1",
         "title": "Zielsetzung und Anwendungsbereich",
         "parent": {
@@ -60,7 +57,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE000400000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE000400000",
         "name": "\u00a7 2",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -74,7 +70,6 @@
       {
         "type": "heading",
         "id": "BJNR124610996BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG000500000",
         "name": "Zweiter Abschnitt",
         "title": "Pflichten des Arbeitgebers",
         "parent": null,
@@ -84,7 +79,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE000600000",
         "name": "\u00a7 3",
         "title": "Grundpflichten des Arbeitgebers",
         "parent": {
@@ -98,7 +92,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE000701377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE000701377",
         "name": "\u00a7 4",
         "title": "Allgemeine Grunds\u00e4tze",
         "parent": {
@@ -112,7 +105,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE000801377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE000801377",
         "name": "\u00a7 5",
         "title": "Beurteilung der Arbeitsbedingungen",
         "parent": {
@@ -126,7 +118,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE000903377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE000903377",
         "name": "\u00a7 6",
         "title": "Dokumentation",
         "parent": {
@@ -140,7 +131,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001000000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001000000",
         "name": "\u00a7 7",
         "title": "\u00dcbertragung von Aufgaben",
         "parent": {
@@ -154,7 +144,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001100000",
         "name": "\u00a7 8",
         "title": "Zusammenarbeit mehrerer Arbeitgeber",
         "parent": {
@@ -168,7 +157,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001200000",
         "name": "\u00a7 9",
         "title": "Besondere Gefahren",
         "parent": {
@@ -182,7 +170,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001300000",
         "name": "\u00a7 10",
         "title": "Erste Hilfe und sonstige Notfallma\u00dfnahmen",
         "parent": {
@@ -196,7 +183,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001400000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001400000",
         "name": "\u00a7 11",
         "title": "Arbeitsmedizinische Vorsorge",
         "parent": {
@@ -210,7 +196,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001500000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001500000",
         "name": "\u00a7 12",
         "title": "Unterweisung",
         "parent": {
@@ -224,7 +209,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001601377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001601377",
         "name": "\u00a7 13",
         "title": "Verantwortliche Personen",
         "parent": {
@@ -238,7 +222,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001700000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001700000",
         "name": "\u00a7 14",
         "title": "Unterrichtung und Anh\u00f6rung der Besch\u00e4ftigten des\n\u00f6ffentlichen Dienstes",
         "parent": {
@@ -252,7 +235,6 @@
       {
         "type": "heading",
         "id": "BJNR124610996BJNG001800000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG001800000",
         "name": "Dritter Abschnitt",
         "title": "Pflichten und Rechte der Besch\u00e4ftigten",
         "parent": null,
@@ -262,7 +244,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE001900000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE001900000",
         "name": "\u00a7 15",
         "title": "Pflichten der Besch\u00e4ftigten",
         "parent": {
@@ -276,7 +257,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE002000000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE002000000",
         "name": "\u00a7 16",
         "title": "Besondere Unterst\u00fctzungspflichten",
         "parent": {
@@ -290,7 +270,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE002103308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE002103308",
         "name": "\u00a7 17",
         "title": "Rechte der Besch\u00e4ftigten",
         "parent": {
@@ -304,7 +283,6 @@
       {
         "type": "heading",
         "id": "BJNR124610996BJNG002200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG002200000",
         "name": "Vierter Abschnitt",
         "title": "Verordnungserm\u00e4chtigungen",
         "parent": null,
@@ -314,7 +292,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE002303308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE002303308",
         "name": "\u00a7 18",
         "title": "Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -328,7 +305,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE002400000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE002400000",
         "name": "\u00a7 19",
         "title": "Rechtsakte der Europ\u00e4ischen Gemeinschaften und zwischenstaatliche\nVereinbarungen",
         "parent": {
@@ -342,7 +318,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE002505124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE002505124",
         "name": "\u00a7 20",
         "title": "Regelungen f\u00fcr den \u00f6ffentlichen Dienst",
         "parent": {
@@ -356,7 +331,6 @@
       {
         "type": "heading",
         "id": "BJNR124610996BJNG002700308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG002700308",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Gemeinsame deutsche Arbeitsschutzstrategie",
         "parent": null,
@@ -366,7 +340,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE003300308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE003300308",
         "name": "\u00a7 20a",
         "title": "Gemeinsame deutsche Arbeitsschutzstrategie",
         "parent": {
@@ -380,7 +353,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE003400308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE003400308",
         "name": "\u00a7 20b",
         "title": "Nationale Arbeitsschutzkonferenz",
         "parent": {
@@ -394,7 +366,6 @@
       {
         "type": "heading",
         "id": "BJNR124610996BJNG002601308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNG002601308",
         "name": "Sechster Abschnitt",
         "title": "Schlu\u00dfvorschriften",
         "parent": null,
@@ -404,7 +375,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE002710124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE002710124",
         "name": "\u00a7 21",
         "title": "Zust\u00e4ndige Beh\u00f6rden, Zusammenwirken mit den Tr\u00e4gern der gesetzlichen Unfallversicherung",
         "parent": {
@@ -418,7 +388,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE002800000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE002800000",
         "name": "\u00a7 22",
         "title": "Befugnisse der zust\u00e4ndigen Beh\u00f6rden",
         "parent": {
@@ -432,7 +401,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE002909126",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE002909126",
         "name": "\u00a7 23",
         "title": "Betriebliche Daten, Zusammenarbeit mit anderen Beh\u00f6rden, Jahresbericht",
         "parent": {
@@ -446,7 +414,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE003003124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE003003124",
         "name": "\u00a7 24",
         "title": "Erm\u00e4chtigung zum Erla\u00df von allgemeinen Verwaltungsvorschriften",
         "parent": {
@@ -460,7 +427,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE003101308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE003101308",
         "name": "\u00a7 25",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -474,7 +440,6 @@
       {
         "type": "article",
         "id": "BJNR124610996BJNE003200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/arbschg/articles/BJNR124610996BJNE003200000",
         "name": "\u00a7 26",
         "title": "Strafvorschriften",
         "parent": {

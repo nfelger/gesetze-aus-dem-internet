@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR404310013",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev",
     "firstPublished": "2013-12-05",
     "sourceTimestamp": "20191201213510",
     "titleShort": "Anzeige- und Erlaubnisverordnung",
@@ -42,7 +41,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000100000",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -53,7 +51,6 @@
       {
         "type": "heading",
         "id": "BJNR404310013BJNG000100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNG000100000",
         "name": "Abschnitt 1",
         "title": "Allgemeine Vorschriften",
         "parent": null,
@@ -63,7 +60,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000200000",
         "name": "\u00a7 1",
         "title": "Anwendungsbereich",
         "parent": {
@@ -77,7 +73,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000301116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000301116",
         "name": "\u00a7 2",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -91,7 +86,6 @@
       {
         "type": "heading",
         "id": "BJNR404310013BJNG000200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNG000200000",
         "name": "Abschnitt 2",
         "title": "Anforderungen an Sammler, Bef\u00f6rderer, H\u00e4ndler und Makler von Abf\u00e4llen",
         "parent": null,
@@ -101,7 +95,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000401116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000401116",
         "name": "\u00a7 3",
         "title": "Zuverl\u00e4ssigkeit",
         "parent": {
@@ -115,7 +108,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000500000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000500000",
         "name": "\u00a7 4",
         "title": "Fachkunde von Anzeigepflichtigen",
         "parent": {
@@ -129,7 +121,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000600000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000600000",
         "name": "\u00a7 5",
         "title": "Fachkunde von Erlaubnispflichtigen",
         "parent": {
@@ -143,7 +134,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000700000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000700000",
         "name": "\u00a7 6",
         "title": "Sachkunde des sonstigen Personals",
         "parent": {
@@ -157,7 +147,6 @@
       {
         "type": "heading",
         "id": "BJNR404310013BJNG000300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNG000300000",
         "name": "Abschnitt 3",
         "title": "Anzeige durch Sammler, Bef\u00f6rderer, H\u00e4ndler und Makler von Abf\u00e4llen",
         "parent": null,
@@ -167,7 +156,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000801116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000801116",
         "name": "\u00a7 7",
         "title": "Anzeigeverfahren",
         "parent": {
@@ -181,7 +169,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE000901116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE000901116",
         "name": "\u00a7 8",
         "title": "Elektronisches Anzeigeverfahren",
         "parent": {
@@ -195,7 +182,6 @@
       {
         "type": "heading",
         "id": "BJNR404310013BJNG000400000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNG000400000",
         "name": "Abschnitt 4",
         "title": "Erlaubnis f\u00fcr Sammler, Bef\u00f6rderer, H\u00e4ndler und Makler von gef\u00e4hrlichen Abf\u00e4llen",
         "parent": null,
@@ -205,7 +191,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001001116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001001116",
         "name": "\u00a7 9",
         "title": "Antrag und beizuf\u00fcgende Unterlagen",
         "parent": {
@@ -219,7 +204,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001100000",
         "name": "\u00a7 10",
         "title": "Erlaubnisverfahren und -erteilung",
         "parent": {
@@ -233,7 +217,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001201116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001201116",
         "name": "\u00a7 11",
         "title": "Elektronisches Verfahren zur Erlaubniserteilung",
         "parent": {
@@ -247,7 +230,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001301116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001301116",
         "name": "\u00a7 12",
         "title": "Ausnahmen von der Erlaubnispflicht",
         "parent": {
@@ -261,7 +243,6 @@
       {
         "type": "heading",
         "id": "BJNR404310013BJNG000500000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNG000500000",
         "name": "Abschnitt 5",
         "title": "Gemeinsame Vorschriften",
         "parent": null,
@@ -271,7 +252,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001401116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001401116",
         "name": "\u00a7 13",
         "title": "Mitf\u00fchrungspflicht",
         "parent": {
@@ -285,7 +265,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001500000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001500000",
         "name": "\u00a7 13a",
         "title": "Ausnahmen von der Kennzeichnungspflicht",
         "parent": {
@@ -299,7 +278,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001600000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001600000",
         "name": "\u00a7 14",
         "title": "Beh\u00f6rdenregister",
         "parent": {
@@ -313,7 +291,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001701116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001701116",
         "name": "\u00a7 15",
         "title": "Ordnungswidrigkeiten",
         "parent": {
@@ -327,7 +304,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE001800000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE001800000",
         "name": "\u00a7 16",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -341,7 +317,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE002000000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE002000000",
         "name": "Anlage 1",
         "title": "(zu \u00a7 4 Absatz 3 Satz 1 und Absatz 5, \u00a7 5 Absatz 1 Satz 1 Nummer 2 und Absatz 3 Satz 2 sowie zu \u00a7 16 Absatz 2 und 5)<BR/>Lehrgangsinhalte",
         "parent": {
@@ -355,7 +330,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE002100000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE002100000",
         "name": "Anlage 2",
         "title": "(zu \u00a7 7 Absatz 1 Satz 1 und Absatz 5, \u00a7 8 Absatz 1 Satz 1 Nummer 1 und \u00a7 16 Absatz 1 Satz 2)<BR/>Vordruck f\u00fcr die Anzeige",
         "parent": {
@@ -369,7 +343,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE002200000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE002200000",
         "name": "Anlage 3",
         "title": "(zu \u00a7 9 Absatz 1, \u00a7 11 Absatz 1 Satz 1 Nummer 1 und \u00a7 16 Absatz 1 Satz 2)<BR/>Vordruck f\u00fcr den Antrag auf Erlaubnis",
         "parent": {
@@ -383,7 +356,6 @@
       {
         "type": "article",
         "id": "BJNR404310013BJNE002300000",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/abfaev/articles/BJNR404310013BJNE002300000",
         "name": "Anlage 4",
         "title": "(zu \u00a7 10 Absatz 3 Satz 1)<BR/>Vordruck f\u00fcr die Erlaubnis",
         "parent": {

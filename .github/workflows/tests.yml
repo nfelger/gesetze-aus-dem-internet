@@ -16,7 +16,7 @@ jobs:
         image: postgres:12-alpine
         env:
           POSTGRES_PASSWORD: secret
-          POSTGRES_DB: rip_api
+          POSTGRES_DB: gadi
         # Set health checks to wait until postgres has started
         options: >-
           --health-cmd pg_isready
@@ -38,4 +38,4 @@ jobs:
       run: |
         pipenv run pytest
       env:
-        DB_URI: postgresql://postgres:secret@postgres:5432/rip_api
+        DB_URI: postgresql://postgres:secret@postgres:5432/gadi

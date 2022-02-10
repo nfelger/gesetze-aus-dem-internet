@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR111260992",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg",
     "firstPublished": "1992-06-26",
     "sourceTimestamp": "20200709212518",
     "titleShort": null,
@@ -42,7 +41,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE001719311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE001719311",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -53,7 +51,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG000104311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000104311",
         "name": "Abschnitt 1",
         "title": "Geltungsbereich",
         "parent": null,
@@ -63,7 +60,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE001807311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE001807311",
         "name": "\u00a7 1",
         "title": "Geltungsbereich",
         "parent": {
@@ -77,7 +73,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001600311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001600311",
         "name": "Abschnitt 2",
         "title": "Schutzgew\u00e4hrung",
         "parent": null,
@@ -87,7 +82,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001700311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001700311",
         "name": "Unterabschnitt 1",
         "title": "Asyl",
         "parent": {
@@ -100,7 +94,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE001904377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE001904377",
         "name": "\u00a7 2",
         "title": "Rechtsstellung Asylberechtigter",
         "parent": {
@@ -114,7 +107,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001800311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001800311",
         "name": "Unterabschnitt 2",
         "title": "Internationaler Schutz",
         "parent": {
@@ -127,7 +119,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002007116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002007116",
         "name": "\u00a7 3",
         "title": "Zuerkennung der Fl\u00fcchtlingseigenschaft",
         "parent": {
@@ -141,7 +132,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE015800311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE015800311",
         "name": "\u00a7 3a",
         "title": "Verfolgungshandlungen",
         "parent": {
@@ -155,7 +145,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE015900311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE015900311",
         "name": "\u00a7 3b",
         "title": "Verfolgungsgr\u00fcnde",
         "parent": {
@@ -169,7 +158,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016000311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016000311",
         "name": "\u00a7 3c",
         "title": "Akteure, von denen Verfolgung ausgehen kann",
         "parent": {
@@ -183,7 +171,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016100311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016100311",
         "name": "\u00a7 3d",
         "title": "Akteure, die Schutz bieten k\u00f6nnen",
         "parent": {
@@ -197,7 +184,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016200311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016200311",
         "name": "\u00a7 3e",
         "title": "Interner Schutz",
         "parent": {
@@ -211,7 +197,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016300311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016300311",
         "name": "\u00a7 4",
         "title": "Subsidi\u00e4rer Schutz",
         "parent": {
@@ -225,7 +210,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001900311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001900311",
         "name": "Abschnitt 3",
         "title": "Allgemeine Bestimmungen",
         "parent": null,
@@ -235,7 +219,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002212311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002212311",
         "name": "\u00a7 5",
         "title": "Bundesamt",
         "parent": {
@@ -249,7 +232,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002306311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002306311",
         "name": "\u00a7 6",
         "title": "Verbindlichkeit asylrechtlicher Entscheidungen",
         "parent": {
@@ -263,7 +245,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002406311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002406311",
         "name": "\u00a7 7",
         "title": "Erhebung personenbezogener Daten",
         "parent": {
@@ -277,7 +258,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002516311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002516311",
         "name": "\u00a7 8",
         "title": "\u00dcbermittlung personenbezogener Daten",
         "parent": {
@@ -291,7 +271,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002605311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002605311",
         "name": "\u00a7 9",
         "title": "Hoher Fl\u00fcchtlingskommissar der Vereinten Nationen",
         "parent": {
@@ -305,7 +284,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002707116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002707116",
         "name": "\u00a7 10",
         "title": "Zustellungsvorschriften",
         "parent": {
@@ -319,7 +297,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002803377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002803377",
         "name": "\u00a7 11",
         "title": "Ausschluss des Widerspruchs",
         "parent": {
@@ -333,7 +310,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE015002311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE015002311",
         "name": "\u00a7 11a",
         "title": "Vor\u00fcbergehende Aussetzung von Entscheidungen",
         "parent": {
@@ -347,7 +323,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG000204311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000204311",
         "name": "Abschnitt 4",
         "title": "Asylverfahren",
         "parent": null,
@@ -357,7 +332,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG000304311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000304311",
         "name": "Unterabschnitt 1",
         "title": "Allgemeine Verfahrensvorschriften",
         "parent": {
@@ -370,7 +344,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE002906116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE002906116",
         "name": "\u00a7 12",
         "title": "Handlungsf\u00e4higkeit",
         "parent": {
@@ -384,7 +357,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE017400311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE017400311",
         "name": "\u00a7 12a",
         "title": "Asylverfahrensberatung",
         "parent": {
@@ -398,7 +370,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE003008311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE003008311",
         "name": "\u00a7 13",
         "title": "Asylantrag",
         "parent": {
@@ -412,7 +383,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE003210311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE003210311",
         "name": "\u00a7 14",
         "title": "Antragstellung",
         "parent": {
@@ -426,7 +396,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE015104116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE015104116",
         "name": "\u00a7 14a",
         "title": "Familieneinheit",
         "parent": {
@@ -440,7 +409,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE003307310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE003307310",
         "name": "\u00a7 15",
         "title": "Allgemeine Mitwirkungspflichten",
         "parent": {
@@ -454,7 +422,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE017301311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE017301311",
         "name": "\u00a7 15a",
         "title": "Auswertung von Datentr\u00e4gern",
         "parent": {
@@ -468,7 +435,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE003512311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE003512311",
         "name": "\u00a7 16",
         "title": "Sicherung, Feststellung und \u00dcberpr\u00fcfung der Identit\u00e4t",
         "parent": {
@@ -482,7 +448,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE003604377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE003604377",
         "name": "\u00a7 17",
         "title": "Sprachmittler",
         "parent": {
@@ -496,7 +461,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG000404311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000404311",
         "name": "Unterabschnitt 2",
         "title": "Einleitung des Asylverfahrens",
         "parent": {
@@ -509,7 +473,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE003805311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE003805311",
         "name": "\u00a7 18",
         "title": "Aufgaben der Grenzbeh\u00f6rde",
         "parent": {
@@ -523,7 +486,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013004377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013004377",
         "name": "\u00a7 18a",
         "title": "Verfahren bei Einreise auf dem Luftwege",
         "parent": {
@@ -537,7 +499,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE004006311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE004006311",
         "name": "\u00a7 19",
         "title": "Aufgaben der Ausl\u00e4nderbeh\u00f6rde und der Polizei",
         "parent": {
@@ -551,7 +512,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE004204116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE004204116",
         "name": "\u00a7 20",
         "title": "Weiterleitung an eine Aufnahmeeinrichtung",
         "parent": {
@@ -565,7 +525,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE004404116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE004404116",
         "name": "\u00a7 21",
         "title": "Verwahrung und Weitergabe von Unterlagen",
         "parent": {
@@ -579,7 +538,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE004606116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE004606116",
         "name": "\u00a7 22",
         "title": "Meldepflicht",
         "parent": {
@@ -593,7 +551,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013104311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013104311",
         "name": "\u00a7 22a",
         "title": "\u00dcbernahme zur Durchf\u00fchrung eines Asylverfahrens",
         "parent": {
@@ -607,7 +564,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG000504311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000504311",
         "name": "Unterabschnitt 3",
         "title": "Verfahren beim Bundesamt",
         "parent": {
@@ -620,7 +576,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE004804116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE004804116",
         "name": "\u00a7 23",
         "title": "Antragstellung bei der Au\u00dfenstelle",
         "parent": {
@@ -634,7 +589,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE004908116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE004908116",
         "name": "\u00a7 24",
         "title": "Pflichten des Bundesamtes",
         "parent": {
@@ -648,7 +602,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE005105311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE005105311",
         "name": "\u00a7 25",
         "title": "Anh\u00f6rung",
         "parent": {
@@ -662,7 +615,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE005209377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE005209377",
         "name": "\u00a7 26",
         "title": "Familienasyl und internationaler Schutz f\u00fcr Familienangeh\u00f6rige",
         "parent": {
@@ -676,7 +628,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013204377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013204377",
         "name": "\u00a7 26a",
         "title": "Sichere Drittstaaten",
         "parent": {
@@ -690,7 +641,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE005304377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE005304377",
         "name": "\u00a7 27",
         "title": "Anderweitige Sicherheit vor Verfolgung",
         "parent": {
@@ -704,7 +654,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE015502116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE015502116",
         "name": "\u00a7 27a",
         "title": "(weggefallen)",
         "parent": {
@@ -718,7 +667,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE005406311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE005406311",
         "name": "\u00a7 28",
         "title": "Nachfluchttatbest\u00e4nde",
         "parent": {
@@ -732,7 +680,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE005506116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE005506116",
         "name": "\u00a7 29",
         "title": "Unzul\u00e4ssige Antr\u00e4ge",
         "parent": {
@@ -746,7 +693,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013305116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013305116",
         "name": "\u00a7 29a",
         "title": "Sicherer Herkunftsstaat; Bericht; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -760,7 +706,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE005708116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE005708116",
         "name": "\u00a7 30",
         "title": "Offensichtlich unbegr\u00fcndete Asylantr\u00e4ge",
         "parent": {
@@ -774,7 +719,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE017101116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE017101116",
         "name": "\u00a7 30a",
         "title": "Beschleunigte Verfahren",
         "parent": {
@@ -788,7 +732,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE005809311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE005809311",
         "name": "\u00a7 31",
         "title": "Entscheidung des Bundesamtes \u00fcber Asylantr\u00e4ge",
         "parent": {
@@ -802,7 +745,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE005906311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE005906311",
         "name": "\u00a7 32",
         "title": "Entscheidung bei Antragsr\u00fccknahme oder Verzicht",
         "parent": {
@@ -816,7 +758,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013403377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013403377",
         "name": "\u00a7 32a",
         "title": "Ruhen des Verfahrens",
         "parent": {
@@ -830,7 +771,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006007116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006007116",
         "name": "\u00a7 33",
         "title": "Nichtbetreiben des Verfahrens",
         "parent": {
@@ -844,7 +784,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG000604311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000604311",
         "name": "Unterabschnitt 4",
         "title": "Aufenthaltsbeendigung",
         "parent": {
@@ -857,7 +796,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006107311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006107311",
         "name": "\u00a7 34",
         "title": "Abschiebungsandrohung",
         "parent": {
@@ -871,7 +809,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013507116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013507116",
         "name": "\u00a7 34a",
         "title": "Abschiebungsanordnung",
         "parent": {
@@ -885,7 +822,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006206116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006206116",
         "name": "\u00a7 35",
         "title": "Abschiebungsandrohung bei Unzul\u00e4ssigkeit des Asylantrags",
         "parent": {
@@ -899,7 +835,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006306116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006306116",
         "name": "\u00a7 36",
         "title": "Verfahren bei Unzul\u00e4ssigkeit nach \u00a7 29 Absatz 1 Nummer 2 und 4 und bei offensichtlicher Unbegr\u00fcndetheit",
         "parent": {
@@ -913,7 +848,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006405116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006405116",
         "name": "\u00a7 37",
         "title": "Weiteres Verfahren bei stattgebender gerichtlicher Entscheidung",
         "parent": {
@@ -927,7 +861,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006505311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006505311",
         "name": "\u00a7 38",
         "title": "Ausreisefrist bei sonstiger Ablehnung und bei R\u00fccknahme des Asylantrags",
         "parent": {
@@ -941,7 +874,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006607311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006607311",
         "name": "\u00a7 39",
         "title": "(weggefallen)",
         "parent": {
@@ -955,7 +887,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006708116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006708116",
         "name": "\u00a7 40",
         "title": "Unterrichtung der Ausl\u00e4nderbeh\u00f6rde",
         "parent": {
@@ -969,7 +900,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006804377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006804377",
         "name": "\u00a7 41",
         "title": "(weggefallen)",
         "parent": {
@@ -983,7 +913,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE006906311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE006906311",
         "name": "\u00a7 42",
         "title": "Bindungswirkung ausl\u00e4nderrechtlicher Entscheidungen",
         "parent": {
@@ -997,7 +926,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE007006311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE007006311",
         "name": "\u00a7 43",
         "title": "Vollziehbarkeit und Aussetzung der Abschiebung",
         "parent": {
@@ -1011,7 +939,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013603377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013603377",
         "name": "\u00a7 43a",
         "title": "(weggefallen)",
         "parent": {
@@ -1025,7 +952,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013703377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013703377",
         "name": "\u00a7 43b",
         "title": "(weggefallen)",
         "parent": {
@@ -1039,7 +965,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG000704311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000704311",
         "name": "Abschnitt 5",
         "title": "Unterbringung und Verteilung",
         "parent": null,
@@ -1049,7 +974,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE007109311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE007109311",
         "name": "\u00a7 44",
         "title": "Schaffung und Unterhaltung von Aufnahmeeinrichtungen",
         "parent": {
@@ -1063,7 +987,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE007206116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE007206116",
         "name": "\u00a7 45",
         "title": "Aufnahmequoten",
         "parent": {
@@ -1077,7 +1000,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE007407311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE007407311",
         "name": "\u00a7 46",
         "title": "Bestimmung der zust\u00e4ndigen Aufnahmeeinrichtung",
         "parent": {
@@ -1091,7 +1013,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE007508311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE007508311",
         "name": "\u00a7 47",
         "title": "Aufenthalt in Aufnahmeeinrichtungen",
         "parent": {
@@ -1105,7 +1026,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE007609311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE007609311",
         "name": "\u00a7 48",
         "title": "Beendigung der Verpflichtung, in einer Aufnahmeeinrichtung zu wohnen",
         "parent": {
@@ -1119,7 +1039,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE007705311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE007705311",
         "name": "\u00a7 49",
         "title": "Entlassung aus der Aufnahmeeinrichtung",
         "parent": {
@@ -1133,7 +1052,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE007909311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE007909311",
         "name": "\u00a7 50",
         "title": "Landesinterne Verteilung",
         "parent": {
@@ -1147,7 +1065,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE008103311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE008103311",
         "name": "\u00a7 51",
         "title": "L\u00e4nder\u00fcbergreifende Verteilung",
         "parent": {
@@ -1161,7 +1078,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE008205116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE008205116",
         "name": "\u00a7 52",
         "title": "Quotenanrechnung",
         "parent": {
@@ -1175,7 +1091,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE008406311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE008406311",
         "name": "\u00a7 53",
         "title": "Unterbringung in Gemeinschaftsunterk\u00fcnften",
         "parent": {
@@ -1189,7 +1104,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE008504116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE008504116",
         "name": "\u00a7 54",
         "title": "Unterrichtung des Bundesamtes",
         "parent": {
@@ -1203,7 +1117,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG000805311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG000805311",
         "name": "Abschnitt 6",
         "title": "Recht des Aufenthalts w\u00e4hrend des Asylverfahrens",
         "parent": null,
@@ -1213,7 +1126,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE008608116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE008608116",
         "name": "\u00a7 55",
         "title": "Aufenthaltsgestattung",
         "parent": {
@@ -1227,7 +1139,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE008804116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE008804116",
         "name": "\u00a7 56",
         "title": "R\u00e4umliche Beschr\u00e4nkung",
         "parent": {
@@ -1241,7 +1152,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE009002377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE009002377",
         "name": "\u00a7 57",
         "title": "Verlassen des Aufenthaltsbereichs einer Aufnahmeeinrichtung",
         "parent": {
@@ -1255,7 +1165,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE009207311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE009207311",
         "name": "\u00a7 58",
         "title": "Verlassen eines zugewiesenen Aufenthaltsbereichs",
         "parent": {
@@ -1269,7 +1178,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE009404116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE009404116",
         "name": "\u00a7 59",
         "title": "Durchsetzung der r\u00e4umlichen Beschr\u00e4nkung",
         "parent": {
@@ -1283,7 +1191,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016601116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016601116",
         "name": "\u00a7 59a",
         "title": "Erl\u00f6schen der r\u00e4umlichen Beschr\u00e4nkung",
         "parent": {
@@ -1297,7 +1204,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016701310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016701310",
         "name": "\u00a7 59b",
         "title": "Anordnung der r\u00e4umlichen Beschr\u00e4nkung",
         "parent": {
@@ -1311,7 +1217,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE009603116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE009603116",
         "name": "\u00a7 60",
         "title": "Auflagen",
         "parent": {
@@ -1325,7 +1230,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE009809311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE009809311",
         "name": "\u00a7 61",
         "title": "Erwerbst\u00e4tigkeit",
         "parent": {
@@ -1339,7 +1243,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE009904116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE009904116",
         "name": "\u00a7 62",
         "title": "Gesundheitsuntersuchung",
         "parent": {
@@ -1353,7 +1256,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE010110311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE010110311",
         "name": "\u00a7 63",
         "title": "Bescheinigung \u00fcber die Aufenthaltsgestattung",
         "parent": {
@@ -1367,7 +1269,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016901116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016901116",
         "name": "\u00a7 63a",
         "title": "Bescheinigung \u00fcber die Meldung als Asylsuchender",
         "parent": {
@@ -1381,7 +1282,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE010203377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE010203377",
         "name": "\u00a7 64",
         "title": "Ausweispflicht",
         "parent": {
@@ -1395,7 +1295,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE010305116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE010305116",
         "name": "\u00a7 65",
         "title": "Herausgabe des Passes",
         "parent": {
@@ -1409,7 +1308,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE010503116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE010503116",
         "name": "\u00a7 66",
         "title": "Ausschreibung zur Aufenthaltsermittlung",
         "parent": {
@@ -1423,7 +1321,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE010609116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE010609116",
         "name": "\u00a7 67",
         "title": "Erl\u00f6schen der Aufenthaltsgestattung",
         "parent": {
@@ -1437,7 +1334,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE010704377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE010704377",
         "name": "\u00a7 68",
         "title": "(weggefallen)",
         "parent": {
@@ -1451,7 +1347,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE015600377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE015600377",
         "name": "\u00a7 69",
         "title": "(weggefallen)",
         "parent": {
@@ -1465,7 +1360,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE015700377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE015700377",
         "name": "\u00a7 70",
         "title": "(weggefallen)",
         "parent": {
@@ -1479,7 +1373,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001105311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001105311",
         "name": "Abschnitt 7",
         "title": "Folgeantrag, Zweitantrag",
         "parent": null,
@@ -1489,7 +1382,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011009116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011009116",
         "name": "\u00a7 71",
         "title": "Folgeantrag",
         "parent": {
@@ -1503,7 +1395,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013804377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013804377",
         "name": "\u00a7 71a",
         "title": "Zweitantrag",
         "parent": {
@@ -1517,7 +1408,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001204311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001204311",
         "name": "Abschnitt 8",
         "title": "Erl\u00f6schen der Rechtsstellung",
         "parent": null,
@@ -1527,7 +1417,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011105377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011105377",
         "name": "\u00a7 72",
         "title": "Erl\u00f6schen",
         "parent": {
@@ -1541,7 +1430,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011212311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011212311",
         "name": "\u00a7 73",
         "title": "Widerruf und R\u00fccknahme der Asylberechtigung und der Fl\u00fcchtlingseigenschaft",
         "parent": {
@@ -1555,7 +1443,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE014603377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE014603377",
         "name": "\u00a7 73a",
         "title": "Ausl\u00e4ndische Anerkennung als Fl\u00fcchtling",
         "parent": {
@@ -1569,7 +1456,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016400311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016400311",
         "name": "\u00a7 73b",
         "title": "Widerruf und R\u00fccknahme des subsidi\u00e4ren Schutzes",
         "parent": {
@@ -1583,7 +1469,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016500311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016500311",
         "name": "\u00a7 73c",
         "title": "Widerruf und R\u00fccknahme von Abschiebungsverboten",
         "parent": {
@@ -1597,7 +1482,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001304311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001304311",
         "name": "Abschnitt 9",
         "title": "Gerichtsverfahren",
         "parent": null,
@@ -1607,7 +1491,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011305116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011305116",
         "name": "\u00a7 74",
         "title": "Klagefrist, Zur\u00fcckweisung versp\u00e4teten Vorbringens",
         "parent": {
@@ -1621,7 +1504,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011407311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011407311",
         "name": "\u00a7 75",
         "title": "Aufschiebende Wirkung der Klage",
         "parent": {
@@ -1635,7 +1517,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011505377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011505377",
         "name": "\u00a7 76",
         "title": "Einzelrichter",
         "parent": {
@@ -1649,7 +1530,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011603377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011603377",
         "name": "\u00a7 77",
         "title": "Entscheidung des Gerichts",
         "parent": {
@@ -1663,7 +1543,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011708310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011708310",
         "name": "\u00a7 78",
         "title": "Rechtsmittel",
         "parent": {
@@ -1677,7 +1556,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011805377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011805377",
         "name": "\u00a7 79",
         "title": "Besondere Vorschriften f\u00fcr das Berufungsverfahren",
         "parent": {
@@ -1691,7 +1569,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE011903377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE011903377",
         "name": "\u00a7 80",
         "title": "Ausschluss der Beschwerde",
         "parent": {
@@ -1705,7 +1582,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE013903377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE013903377",
         "name": "\u00a7 80a",
         "title": "Ruhen des Verfahrens",
         "parent": {
@@ -1719,7 +1595,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012003377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012003377",
         "name": "\u00a7 81",
         "title": "Nichtbetreiben des Verfahrens",
         "parent": {
@@ -1733,7 +1608,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012103377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012103377",
         "name": "\u00a7 82",
         "title": "Akteneinsicht in Verfahren des vorl\u00e4ufigen Rechtsschutzes",
         "parent": {
@@ -1747,7 +1621,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012205116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012205116",
         "name": "\u00a7 83",
         "title": "Besondere Spruchk\u00f6rper",
         "parent": {
@@ -1761,7 +1634,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE014003116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE014003116",
         "name": "\u00a7 83a",
         "title": "Unterrichtung der Ausl\u00e4nderbeh\u00f6rde",
         "parent": {
@@ -1775,7 +1647,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE014104377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE014104377",
         "name": "\u00a7 83b",
         "title": "Gerichtskosten, Gegenstandswert",
         "parent": {
@@ -1789,7 +1660,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE017000116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE017000116",
         "name": "\u00a7 83c",
         "title": "Anwendbares Verfahren f\u00fcr die Anordnung und Befristung von Einreise- und Aufenthaltsverboten",
         "parent": {
@@ -1803,7 +1673,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001404311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001404311",
         "name": "Abschnitt 10",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": null,
@@ -1813,7 +1682,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012307377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012307377",
         "name": "\u00a7 84",
         "title": "Verleitung zur missbr\u00e4uchlichen Asylantragstellung",
         "parent": {
@@ -1827,7 +1695,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE014502377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE014502377",
         "name": "\u00a7 84a",
         "title": "Gewerbs- und bandenm\u00e4\u00dfige Verleitung zur missbr\u00e4uchlichen Asylantragstellung",
         "parent": {
@@ -1841,7 +1708,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012405116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012405116",
         "name": "\u00a7 85",
         "title": "Sonstige Straftaten",
         "parent": {
@@ -1855,7 +1721,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012506116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012506116",
         "name": "\u00a7 86",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -1869,7 +1734,6 @@
       {
         "type": "heading",
         "id": "BJNR111260992BJNG001504311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNG001504311",
         "name": "Abschnitt 11",
         "title": "\u00dcbergangs- und Schlussvorschriften",
         "parent": null,
@@ -1879,7 +1743,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012604377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012604377",
         "name": "\u00a7 87",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -1893,7 +1756,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE014202377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE014202377",
         "name": "\u00a7 87a",
         "title": "\u00dcbergangsvorschriften aus Anlass der am 1. Juli 1993 in Kraft getretenen \u00c4nderungen",
         "parent": {
@@ -1907,7 +1769,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE015201377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE015201377",
         "name": "\u00a7 87b",
         "title": "\u00dcbergangsvorschrift aus Anlass der am 1. September 2004 in Kraft getretenen \u00c4nderungen",
         "parent": {
@@ -1921,7 +1782,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE017200116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE017200116",
         "name": "\u00a7 87c",
         "title": "\u00dcbergangsvorschriften aus Anlass der am 6. August 2016 in Kraft getretenen \u00c4nderungen",
         "parent": {
@@ -1935,7 +1795,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012710311",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012710311",
         "name": "\u00a7 88",
         "title": "Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -1949,7 +1808,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE016800116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE016800116",
         "name": "\u00a7 88a",
         "title": "Bestimmungen zum Verwaltungsverfahren",
         "parent": {
@@ -1963,7 +1821,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012804377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012804377",
         "name": "\u00a7 89",
         "title": "Einschr\u00e4nkung von Grundrechten",
         "parent": {
@@ -1977,7 +1834,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE012907116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE012907116",
         "name": "\u00a7 90",
         "title": "(weggefallen)",
         "parent": {
@@ -1991,7 +1847,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE014303377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE014303377",
         "name": "Anlage I",
         "title": "(zu \u00a7 26a)",
         "parent": {
@@ -2005,7 +1860,6 @@
       {
         "type": "article",
         "id": "BJNR111260992BJNE014406116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/asylg/articles/BJNR111260992BJNE014406116",
         "name": "Anlage II",
         "title": "(zu \u00a7 29a)",
         "parent": {

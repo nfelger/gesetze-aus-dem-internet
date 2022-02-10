@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR023590979",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv",
     "firstPublished": "1979-12-21",
     "sourceTimestamp": "20200731212506",
     "titleShort": null,
@@ -38,7 +37,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010812123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010812123",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -49,7 +47,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG000104301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000104301",
         "name": "-",
         "title": "Zu \u00a7 3a des Gesetzes",
         "parent": null,
@@ -59,7 +56,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE002914140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE002914140",
         "name": "\u00a7 1",
         "title": "(weggefallen)",
         "parent": {
@@ -73,7 +69,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002903301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002903301",
         "name": "-",
         "title": "Zu \u00a7 3b des Gesetzes",
         "parent": null,
@@ -83,7 +78,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003006301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003006301",
         "name": "\u00a7 2",
         "title": "Verbindungsstrecken im Inland",
         "parent": {
@@ -97,7 +91,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003106301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003106301",
         "name": "\u00a7 3",
         "title": "Verbindungsstrecken im Ausland",
         "parent": {
@@ -111,7 +104,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003207301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003207301",
         "name": "\u00a7 4",
         "title": "Anschlussstrecken im Schienenbahnverkehr",
         "parent": {
@@ -125,7 +117,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003306301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003306301",
         "name": "\u00a7 5",
         "title": "Kurze Stra\u00dfenstrecken im Inland",
         "parent": {
@@ -139,7 +130,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003407301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003407301",
         "name": "\u00a7 6",
         "title": "Stra\u00dfenstrecken in den in \u00a7 1 Abs. 3 des Gesetzes\nbezeichneten Gebieten",
         "parent": {
@@ -153,7 +143,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003510301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003510301",
         "name": "\u00a7 7",
         "title": "Kurze Strecken im grenz\u00fcberschreitenden Verkehr mit\nWasserfahrzeugen",
         "parent": {
@@ -167,7 +156,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG000205301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000205301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 1 Buchstabe a und den \u00a7\u00a7 6 und 7 des Gesetzes",
         "parent": null,
@@ -177,7 +165,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG000305301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000305301",
         "name": "-",
         "title": "Ausfuhrnachweis und buchm\u00e4\u00dfiger Nachweis bei\nAusfuhrlieferungen und Lohnveredelungen an Gegenst\u00e4nden der\nAusfuhr",
         "parent": {
@@ -190,7 +177,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003607377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003607377",
         "name": "\u00a7 8",
         "title": "Grunds\u00e4tze f\u00fcr den Ausfuhrnachweis bei Ausfuhrlieferungen",
         "parent": {
@@ -204,7 +190,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003713123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003713123",
         "name": "\u00a7 9",
         "title": "Ausfuhrnachweis bei Ausfuhrlieferungen in Bef\u00f6rderungsf\u00e4llen",
         "parent": {
@@ -218,7 +203,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003811360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003811360",
         "name": "\u00a7 10",
         "title": "Ausfuhrnachweis bei Ausfuhrlieferungen in Versendungsf\u00e4llen",
         "parent": {
@@ -232,7 +216,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE003905140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE003905140",
         "name": "\u00a7 11",
         "title": "Ausfuhrnachweis bei Ausfuhrlieferungen in Bearbeitungs- und Verarbeitungsf\u00e4llen",
         "parent": {
@@ -246,7 +229,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE004004301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE004004301",
         "name": "\u00a7 12",
         "title": "Ausfuhrnachweis bei Lohnveredelungen an Gegenst\u00e4nden der\nAusfuhr",
         "parent": {
@@ -260,7 +242,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE004109360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE004109360",
         "name": "\u00a7 13",
         "title": "Buchm\u00e4\u00dfiger Nachweis bei Ausfuhrlieferungen und Lohnveredelungen an Gegenst\u00e4nden der Ausfuhr",
         "parent": {
@@ -274,7 +255,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE011403301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE011403301",
         "name": "(XXXX) \u00a7\u00a7 14 bis 16",
         "title": "(weggefallen)",
         "parent": {
@@ -288,7 +268,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE004509140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE004509140",
         "name": "\u00a7 17",
         "title": "Abnehmernachweis bei Ausfuhrlieferungen im nichtkommerziellen Reiseverkehr",
         "parent": {
@@ -302,7 +281,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG003003301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG003003301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 1 Buchstabe b und \u00a7 6a des Gesetzes",
         "parent": null,
@@ -312,7 +290,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE011801123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE011801123",
         "name": "\u00a7 17a",
         "title": "Gelangensvermutung bei innergemeinschaftlichen Lieferungen in Bef\u00f6rderungs- und Versendungsf\u00e4llen",
         "parent": {
@@ -326,7 +303,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010910123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010910123",
         "name": "\u00a7 17b",
         "title": "Gelangensnachweis bei innergemeinschaftlichen Lieferungen in Bef\u00f6rderungs- und Versendungsf\u00e4llen",
         "parent": {
@@ -340,7 +316,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE011006123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE011006123",
         "name": "\u00a7 17c",
         "title": "Nachweis bei innergemeinschaftlichen Lieferungen in Bearbeitungs- oder Verarbeitungsf\u00e4llen",
         "parent": {
@@ -354,7 +329,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE011107123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE011107123",
         "name": "\u00a7 17d",
         "title": "Buchm\u00e4\u00dfiger Nachweis bei innergemeinschaftlichen Lieferungen",
         "parent": {
@@ -368,7 +342,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG000504301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000504301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 2 und \u00a7 8 des Gesetzes",
         "parent": null,
@@ -378,7 +351,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE004604301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE004604301",
         "name": "\u00a7 18",
         "title": "Buchm\u00e4\u00dfiger Nachweis bei Ums\u00e4tzen f\u00fcr die Seeschiffahrt\nund f\u00fcr die Luftfahrt",
         "parent": {
@@ -392,7 +364,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG000604301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000604301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 3 des Gesetzes",
         "parent": null,
@@ -402,7 +373,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE004709301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE004709301",
         "name": "\u00a7 19",
         "title": null,
         "parent": {
@@ -416,7 +386,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE004809377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE004809377",
         "name": "\u00a7 20",
         "title": "Belegm\u00e4\u00dfiger Nachweis bei steuerfreien Leistungen, die sich auf Gegenst\u00e4nde der Ausfuhr oder Einfuhr beziehen",
         "parent": {
@@ -430,7 +399,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE004908140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE004908140",
         "name": "\u00a7 21",
         "title": "Buchm\u00e4\u00dfiger Nachweis bei steuerfreien Leistungen, die sich auf Gegenst\u00e4nde der Ausfuhr oder Einfuhr beziehen",
         "parent": {
@@ -444,7 +412,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG000704301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000704301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 5 des Gesetzes",
         "parent": null,
@@ -454,7 +421,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE005004301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE005004301",
         "name": "\u00a7 22",
         "title": "Buchm\u00e4\u00dfiger Nachweis bei steuerfreien Vermittlungen",
         "parent": {
@@ -468,7 +434,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG000804301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000804301",
         "name": "-",
         "title": "Zu \u00a7 4 Nr. 18 des Gesetzes",
         "parent": null,
@@ -478,7 +443,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE005110123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE005110123",
         "name": "\u00a7 23",
         "title": "(weggefallen)",
         "parent": {
@@ -492,7 +456,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG000904301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG000904301",
         "name": "-",
         "title": "Zu \u00a7 4a des Gesetzes",
         "parent": null,
@@ -502,7 +465,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE005207377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE005207377",
         "name": "\u00a7 24",
         "title": "Antragsfrist f\u00fcr die Steuerverg\u00fctung und Nachweis der Voraussetzungen",
         "parent": {
@@ -516,7 +478,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001004301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001004301",
         "name": "-",
         "title": "Zu \u00a7 10 Abs. 6 des Gesetzes",
         "parent": null,
@@ -526,7 +487,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE005307301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE005307301",
         "name": "\u00a7 25",
         "title": "Durchschnittsbef\u00f6rderungsentgelt",
         "parent": {
@@ -540,7 +500,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001104301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001104301",
         "name": "-",
         "title": "Zu \u00a7 12 Abs. 2 Nr. 1 des Gesetzes",
         "parent": null,
@@ -550,7 +509,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE005406301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE005406301",
         "name": "(XXXX) \u00a7\u00a7 26 bis 29",
         "title": "(weggefallen)",
         "parent": {
@@ -564,7 +522,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001204301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001204301",
         "name": "-",
         "title": "Zu \u00a7 12 Abs. 2 Nr. 7 Buchstabe d des Gesetzes",
         "parent": null,
@@ -574,7 +531,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE005804301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE005804301",
         "name": "\u00a7 30",
         "title": "Schausteller",
         "parent": {
@@ -588,7 +544,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG003100301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG003100301",
         "name": "-",
         "title": "Zu \u00a7 13b des Gesetzes",
         "parent": null,
@@ -598,7 +553,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE011502140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE011502140",
         "name": "\u00a7 30a",
         "title": "Steuerschuldnerschaft bei unfreien Versendungen",
         "parent": {
@@ -612,7 +566,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001304301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001304301",
         "name": "-",
         "title": "Zu \u00a7 14 des Gesetzes",
         "parent": null,
@@ -622,7 +575,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE005906301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE005906301",
         "name": "\u00a7 31",
         "title": "Angaben in der Rechnung",
         "parent": {
@@ -636,7 +588,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE006005301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE006005301",
         "name": "\u00a7 32",
         "title": "Rechnungen \u00fcber Ums\u00e4tze, die verschiedenen Steuers\u00e4tzen\nunterliegen",
         "parent": {
@@ -650,7 +601,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE006109360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE006109360",
         "name": "\u00a7 33",
         "title": "Rechnungen \u00fcber Kleinbetr\u00e4ge",
         "parent": {
@@ -664,7 +614,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE006209123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE006209123",
         "name": "\u00a7 34",
         "title": "Fahrausweise als Rechnungen",
         "parent": {
@@ -678,7 +627,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001404301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001404301",
         "name": "-",
         "title": "Zu \u00a7 15 des Gesetzes",
         "parent": null,
@@ -688,7 +636,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE006305123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE006305123",
         "name": "\u00a7 35",
         "title": "Vorsteuerabzug bei Rechnungen \u00fcber Kleinbetr\u00e4ge und bei Fahrausweisen",
         "parent": {
@@ -702,7 +649,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE006410301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE006410301",
         "name": "(XXXX) \u00a7\u00a7 36 bis 39a",
         "title": "(weggefallen)",
         "parent": {
@@ -716,7 +662,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE006804301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE006804301",
         "name": "\u00a7 40",
         "title": "Vorsteuerabzug bei unfreien Versendungen",
         "parent": {
@@ -730,7 +675,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE006909301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE006909301",
         "name": "(XXXX) \u00a7\u00a7 41 bis 42",
         "title": "(weggefallen)",
         "parent": {
@@ -744,7 +688,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007107140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007107140",
         "name": "\u00a7 43",
         "title": "Erleichterungen bei der Aufteilung der Vorsteuern",
         "parent": {
@@ -758,7 +701,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001504301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001504301",
         "name": "-",
         "title": "Zu \u00a7 15a des Gesetzes",
         "parent": null,
@@ -768,7 +710,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007210140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007210140",
         "name": "\u00a7 44",
         "title": "Vereinfachungen bei der Berichtigung des Vorsteuerabzugs",
         "parent": {
@@ -782,7 +723,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007304301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007304301",
         "name": "\u00a7 45",
         "title": "Ma\u00dfgebliches Ende des Berichtigungszeitraums",
         "parent": {
@@ -796,7 +736,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001604301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001604301",
         "name": "-",
         "title": "Zu den \u00a7\u00a7 16 und 18 des Gesetzes",
         "parent": null,
@@ -806,7 +745,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001704301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001704301",
         "name": "-",
         "title": "Dauerfristverl\u00e4ngerung",
         "parent": {
@@ -819,7 +757,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007406377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007406377",
         "name": "\u00a7 46",
         "title": "Fristverl\u00e4ngerung",
         "parent": {
@@ -833,7 +770,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007505377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007505377",
         "name": "\u00a7 47",
         "title": "Sondervorauszahlung",
         "parent": {
@@ -847,7 +783,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007611377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007611377",
         "name": "\u00a7 48",
         "title": "Verfahren",
         "parent": {
@@ -861,7 +796,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001804301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001804301",
         "name": "-",
         "title": "Verzicht auf die Steuererhebung",
         "parent": {
@@ -874,7 +808,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007705301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007705301",
         "name": "\u00a7 49",
         "title": "Verzicht auf die Steuererhebung im B\u00f6rsenhandel mit\nEdelmetallen",
         "parent": {
@@ -888,7 +821,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007808301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007808301",
         "name": "\u00a7 50",
         "title": null,
         "parent": {
@@ -902,7 +834,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG001904301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG001904301",
         "name": "-",
         "title": "Besteuerung im Abzugsverfahren",
         "parent": {
@@ -915,7 +846,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE007911301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE007911301",
         "name": "\u00a7 51",
         "title": null,
         "parent": {
@@ -929,7 +859,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008009301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008009301",
         "name": "\u00a7 52",
         "title": null,
         "parent": {
@@ -943,7 +872,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008112301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008112301",
         "name": "\u00a7 53",
         "title": null,
         "parent": {
@@ -957,7 +885,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008209301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008209301",
         "name": "\u00a7 54",
         "title": null,
         "parent": {
@@ -971,7 +898,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008305301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008305301",
         "name": "\u00a7 55",
         "title": null,
         "parent": {
@@ -985,7 +911,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008408301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008408301",
         "name": "\u00a7 56",
         "title": null,
         "parent": {
@@ -999,7 +924,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008510301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008510301",
         "name": "\u00a7 57",
         "title": null,
         "parent": {
@@ -1013,7 +937,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008608301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008608301",
         "name": "\u00a7 58",
         "title": null,
         "parent": {
@@ -1027,7 +950,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002004301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002004301",
         "name": "-",
         "title": "Verg\u00fctung der Vorsteuerbetr\u00e4ge in einem\nbesonderen Verfahren",
         "parent": {
@@ -1040,7 +962,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008719123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008719123",
         "name": "\u00a7 59",
         "title": "Verg\u00fctungsberechtigte Unternehmer",
         "parent": {
@@ -1054,7 +975,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008806360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008806360",
         "name": "\u00a7 60",
         "title": "Verg\u00fctungszeitraum",
         "parent": {
@@ -1068,7 +988,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE008914123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE008914123",
         "name": "\u00a7 61",
         "title": "Verg\u00fctungsverfahren f\u00fcr im \u00fcbrigen Gemeinschaftsgebiet ans\u00e4ssige Unternehmer",
         "parent": {
@@ -1082,7 +1001,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE011602377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE011602377",
         "name": "\u00a7 61a",
         "title": "Verg\u00fctungsverfahren f\u00fcr nicht im Gemeinschaftsgebiet ans\u00e4ssige Unternehmer",
         "parent": {
@@ -1096,7 +1014,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002104301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002104301",
         "name": "-",
         "title": "Sondervorschriften f\u00fcr die Besteuerung bestimmter\nUnternehmer",
         "parent": {
@@ -1109,7 +1026,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009007301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009007301",
         "name": "\u00a7 62",
         "title": "Ber\u00fccksichtigung von Vorsteuerbetr\u00e4gen, Belegnachweis",
         "parent": {
@@ -1123,7 +1039,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002204301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002204301",
         "name": "-",
         "title": "Zu \u00a7 22 des Gesetzes",
         "parent": null,
@@ -1133,7 +1048,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009106301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009106301",
         "name": "\u00a7 63",
         "title": "Aufzeichnungspflichten",
         "parent": {
@@ -1147,7 +1061,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009205118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009205118",
         "name": "\u00a7 64",
         "title": "Aufzeichnung im Fall der Einfuhr",
         "parent": {
@@ -1161,7 +1074,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009309301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009309301",
         "name": "\u00a7 65",
         "title": "Aufzeichnungspflichten der Kleinunternehmer",
         "parent": {
@@ -1175,7 +1087,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009404301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009404301",
         "name": "\u00a7 66",
         "title": "Aufzeichnungspflichten bei der Anwendung allgemeiner\nDurchschnittss\u00e4tze",
         "parent": {
@@ -1189,7 +1100,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010604301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010604301",
         "name": "\u00a7 66a",
         "title": "Aufzeichnungspflichten bei der Anwendung des Durchschnittssatzes\nf\u00fcr K\u00f6rperschaften, Personenvereinigungen und Verm\u00f6gensmassen im Sinne\ndes \u00a7 5 Abs. 1 Nr. 9 des K\u00f6rperschaftsteuergesetzes",
         "parent": {
@@ -1203,7 +1113,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009510301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009510301",
         "name": "\u00a7 67",
         "title": "Aufzeichnungspflichten bei der Anwendung der Durchschnittss\u00e4tze\nf\u00fcr land- und forstwirtschaftliche Betriebe",
         "parent": {
@@ -1217,7 +1126,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009608140",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009608140",
         "name": "\u00a7 68",
         "title": "Befreiung von der F\u00fchrung des Steuerheftes",
         "parent": {
@@ -1231,7 +1139,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002304301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002304301",
         "name": "-",
         "title": "Zu \u00a7 23 des Gesetzes",
         "parent": null,
@@ -1241,7 +1148,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009708301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009708301",
         "name": "\u00a7 69",
         "title": "Festsetzung allgemeiner Durchschnittss\u00e4tze",
         "parent": {
@@ -1255,7 +1161,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009804301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009804301",
         "name": "\u00a7 70",
         "title": "Umfang der Durchschnittss\u00e4tze",
         "parent": {
@@ -1269,7 +1174,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002404301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002404301",
         "name": "-",
         "title": "Zu \u00a7 24 Abs. 4 des Gesetzes",
         "parent": null,
@@ -1279,7 +1183,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE009904301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE009904301",
         "name": "\u00a7 71",
         "title": "Verk\u00fcrzung der zeitlichen Bindungen f\u00fcr land- und\nforstwirtschaftliche Betriebe",
         "parent": {
@@ -1293,7 +1196,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002504301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002504301",
         "name": "-",
         "title": "Zu \u00a7 25 Abs. 2 des Gesetzes",
         "parent": null,
@@ -1303,7 +1205,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010005123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010005123",
         "name": "\u00a7 72",
         "title": "Buchm\u00e4\u00dfiger Nachweis bei steuerfreien Reiseleistungen",
         "parent": {
@@ -1317,7 +1218,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002604301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002604301",
         "name": "-",
         "title": "Zu \u00a7 26 Abs. 5 des Gesetzes",
         "parent": null,
@@ -1327,7 +1227,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010105377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010105377",
         "name": "\u00a7 73",
         "title": "Nachweis der Voraussetzungen der in bestimmten Abkommen enthaltenen Steuerbefreiungen",
         "parent": {
@@ -1341,7 +1240,6 @@
       {
         "type": "heading",
         "id": "BJNR023590979BJNG002704301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNG002704301",
         "name": "-",
         "title": "\u00dcbergangs- und Schlussvorschriften",
         "parent": {
@@ -1354,7 +1252,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010206301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010206301",
         "name": "\u00a7 74",
         "title": null,
         "parent": {
@@ -1368,7 +1265,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE011704123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE011704123",
         "name": "\u00a7 74a",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
@@ -1382,7 +1278,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010304301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010304301",
         "name": "\u00a7 75",
         "title": "Berlin-Klausel",
         "parent": {
@@ -1396,7 +1291,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010405301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010405301",
         "name": "\u00a7 76",
         "title": null,
         "parent": {
@@ -1410,7 +1304,6 @@
       {
         "type": "article",
         "id": "BJNR023590979BJNE010507301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ustdv/articles/BJNR023590979BJNE010507301",
         "name": "Anlage",
         "title": "(zu den \u00a7\u00a7 69 und 70)",
         "parent": {

@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR008810961",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg",
     "firstPublished": "1961-07-10",
     "sourceTimestamp": "20200716212520",
     "titleShort": "Kreditwesengesetz",
@@ -38,7 +37,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030412128",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030412128",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -49,7 +47,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG000104377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG000104377",
         "name": "Erster Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": null,
@@ -59,7 +56,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG000209118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG000209118",
         "name": "1.",
         "title": "Kreditinstitute, Finanzdienstleistungsinstitute, Finanzholding-Gesellschaften, gemischte Finanzholding-Gesellschaften und gemischte Holdinggesellschaften sowie Finanzunternehmen",
         "parent": {
@@ -72,7 +68,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030211123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030211123",
         "name": "\u00a7 1",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -86,7 +81,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016607118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016607118",
         "name": "\u00a7 1a",
         "title": "Geltung der Verordnungen (EU) Nr. 575/2013, (EG) Nr. 1060/2009 und (EU) 2017/2402 f\u00fcr Kredit- und Finanzdienstleistungsinstitute",
         "parent": {
@@ -100,7 +94,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE018901301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE018901301",
         "name": "\u00a7 1b",
         "title": "(weggefallen)",
         "parent": {
@@ -114,7 +107,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031209123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031209123",
         "name": "\u00a7 2",
         "title": "Ausnahmen",
         "parent": {
@@ -128,7 +120,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016705118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016705118",
         "name": "\u00a7 2a",
         "title": "Ausnahmen f\u00fcr gruppenangeh\u00f6rige Institute und Institute, die institutsbezogenen Sicherungssystemen angeh\u00f6ren",
         "parent": {
@@ -142,7 +133,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE002607301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE002607301",
         "name": "\u00a7 2b",
         "title": "Rechtsform",
         "parent": {
@@ -156,7 +146,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010623124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010623124",
         "name": "\u00a7 2c",
         "title": "Inhaber bedeutender Beteiligungen",
         "parent": {
@@ -170,7 +159,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE014004301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE014004301",
         "name": "\u00a7 2d",
         "title": "Leitungsorgane von Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften",
         "parent": {
@@ -184,7 +172,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE024001124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE024001124",
         "name": "\u00a7 2e",
         "title": "Ausnahmen f\u00fcr gemischte Finanzholding-Gesellschaften",
         "parent": {
@@ -198,7 +185,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE002707118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE002707118",
         "name": "\u00a7 3",
         "title": "Verbotene Gesch\u00e4fte",
         "parent": {
@@ -212,7 +198,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE002806377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE002806377",
         "name": "\u00a7 4",
         "title": "Entscheidung der Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht",
         "parent": {
@@ -226,7 +211,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG000305377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG000305377",
         "name": "2.",
         "title": "Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht",
         "parent": {
@@ -239,7 +223,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE002907377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE002907377",
         "name": "\u00a7 5",
         "title": null,
         "parent": {
@@ -253,7 +236,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031103118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031103118",
         "name": "\u00a7 6",
         "title": "Aufgaben",
         "parent": {
@@ -267,7 +249,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013603118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013603118",
         "name": "\u00a7 6a",
         "title": "Besondere Aufgaben",
         "parent": {
@@ -281,7 +262,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029101118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029101118",
         "name": "\u00a7 6b",
         "title": "Aufsichtliche \u00dcberpr\u00fcfung und Beurteilung",
         "parent": {
@@ -295,7 +275,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE003110123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE003110123",
         "name": "\u00a7 7",
         "title": "Zusammenarbeit mit der Deutschen Bundesbank",
         "parent": {
@@ -309,7 +288,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022203118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022203118",
         "name": "\u00a7 7a",
         "title": "Zusammenarbeit mit der Europ\u00e4ischen Kommission",
         "parent": {
@@ -323,7 +301,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022308118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022308118",
         "name": "\u00a7 7b",
         "title": "Zusammenarbeit mit der Europ\u00e4ischen Bankenaufsichtsbeh\u00f6rde, der Europ\u00e4ischen Wertpapier- und Marktaufsichtsbeh\u00f6rde und der Europ\u00e4ischen Aufsichtsbeh\u00f6rde f\u00fcr das Versicherungswesen und die betriebliche Altersversorgung",
         "parent": {
@@ -337,7 +314,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022400360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022400360",
         "name": "\u00a7 7c",
         "title": "Zusammenarbeit mit dem Europ\u00e4ischen Bankenausschuss",
         "parent": {
@@ -351,7 +327,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029200301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029200301",
         "name": "\u00a7 7d",
         "title": "Zusammenarbeit mit dem Europ\u00e4ischen Ausschuss f\u00fcr Systemrisiken",
         "parent": {
@@ -365,7 +340,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE003221123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE003221123",
         "name": "\u00a7 8",
         "title": "Zusammenarbeit mit anderen Stellen",
         "parent": {
@@ -379,7 +353,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016804301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016804301",
         "name": "\u00a7 8a",
         "title": "Besondere Aufgaben bei der Aufsicht auf zusammengefasster Basis",
         "parent": {
@@ -393,7 +366,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE014106360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE014106360",
         "name": "\u00a7 8b",
         "title": "(weggefallen)",
         "parent": {
@@ -407,7 +379,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011710301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011710301",
         "name": "\u00a7 8c",
         "title": "\u00dcbertragung der Zust\u00e4ndigkeit f\u00fcr die Aufsicht \u00fcber Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gruppenangeh\u00f6rige Institute",
         "parent": {
@@ -421,7 +392,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE014202360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE014202360",
         "name": "\u00a7 8d",
         "title": "(weggefallen)",
         "parent": {
@@ -435,7 +405,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE019003301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE019003301",
         "name": "\u00a7 8e",
         "title": "Aufsichtskollegien",
         "parent": {
@@ -449,7 +418,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029300301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029300301",
         "name": "\u00a7 8f",
         "title": "Zusammenarbeit bei der Aufsicht \u00fcber bedeutende Zweigniederlassungen",
         "parent": {
@@ -463,7 +431,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022107123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022107123",
         "name": "\u00a7 9",
         "title": "Verschwiegenheitspflicht",
         "parent": {
@@ -477,7 +444,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG000408118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG000408118",
         "name": "Zweiter Abschnitt",
         "title": "Vorschriften f\u00fcr Institute, Institutsgruppen, Finanzholding-Gruppen, gemischte Finanzholding-Gruppen und gemischte Holdinggesellschaften",
         "parent": null,
@@ -487,7 +453,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG000505377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG000505377",
         "name": "1.",
         "title": "Eigenmittel und Liquidit\u00e4t",
         "parent": {
@@ -500,7 +465,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE003434123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE003434123",
         "name": "\u00a7 10",
         "title": "Erg\u00e4nzende Anforderungen an die Eigenmittelausstattung von Instituten, Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -514,7 +478,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011822118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011822118",
         "name": "\u00a7 10a",
         "title": "Ermittlung der Eigenmittelausstattung von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -528,7 +491,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE014306360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE014306360",
         "name": "\u00a7 10b",
         "title": "(weggefallen)",
         "parent": {
@@ -542,7 +504,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016903301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016903301",
         "name": "\u00a7 10c",
         "title": "Kapitalerhaltungspuffer",
         "parent": {
@@ -556,7 +517,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE026901116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE026901116",
         "name": "\u00a7 10d",
         "title": "Antizyklischer Kapitalpuffer",
         "parent": {
@@ -570,7 +530,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027000301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027000301",
         "name": "\u00a7 10e",
         "title": "Kapitalpuffer f\u00fcr systemische Risiken",
         "parent": {
@@ -584,7 +543,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027101118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027101118",
         "name": "\u00a7 10f",
         "title": "Kapitalpuffer f\u00fcr global systemrelevante Institute",
         "parent": {
@@ -598,7 +556,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027201118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027201118",
         "name": "\u00a7 10g",
         "title": "Kapitalpuffer f\u00fcr anderweitig systemrelevante Institute",
         "parent": {
@@ -612,7 +569,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027301118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027301118",
         "name": "\u00a7 10h",
         "title": "Zusammenwirken der Kapitalpuffer f\u00fcr systemische Risiken, f\u00fcr global systemrelevante Institute und f\u00fcr anderweitig systemrelevante Institute",
         "parent": {
@@ -626,7 +582,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027401116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027401116",
         "name": "\u00a7 10i",
         "title": "Kombinierte Kapitalpuffer-Anforderung",
         "parent": {
@@ -640,7 +595,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE003613118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE003613118",
         "name": "\u00a7 11",
         "title": "Liquidit\u00e4t",
         "parent": {
@@ -654,7 +608,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE003817301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE003817301",
         "name": "\u00a7 12",
         "title": "(weggefallen)",
         "parent": {
@@ -668,7 +621,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE003913301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE003913301",
         "name": "\u00a7 12a",
         "title": "Begr\u00fcndung von Unternehmensbeziehungen",
         "parent": {
@@ -682,7 +634,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG000604377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG000604377",
         "name": "2.",
         "title": "Kreditgesch\u00e4ft",
         "parent": {
@@ -695,7 +646,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE026801118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE026801118",
         "name": "\u00a7 13",
         "title": "Gro\u00dfkredite; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -709,7 +659,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE004112301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE004112301",
         "name": "(XXXX) \u00a7\u00a7 13a u. 13b",
         "title": "(weggefallen)",
         "parent": {
@@ -723,7 +672,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE014407118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE014407118",
         "name": "\u00a7 13c",
         "title": "Gruppeninterne Transaktionen mit gemischten Holdinggesellschaften",
         "parent": {
@@ -737,7 +685,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE014501360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE014501360",
         "name": "\u00a7 13d",
         "title": "(weggefallen)",
         "parent": {
@@ -751,7 +698,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027502123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027502123",
         "name": "\u00a7 14",
         "title": "Millionenkredite",
         "parent": {
@@ -765,7 +711,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE004315116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE004315116",
         "name": "\u00a7 15",
         "title": "Organkredite",
         "parent": {
@@ -779,7 +724,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE004406377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE004406377",
         "name": "\u00a7 16",
         "title": null,
         "parent": {
@@ -793,7 +737,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE004505377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE004505377",
         "name": "\u00a7 17",
         "title": "Haftungsbestimmung",
         "parent": {
@@ -807,7 +750,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE004613118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE004613118",
         "name": "\u00a7 18",
         "title": "Kreditunterlagen",
         "parent": {
@@ -821,7 +763,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE019106118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE019106118",
         "name": "\u00a7 18a",
         "title": "Verbraucherdarlehen und entgeltliche Finanzierungshilfen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -835,7 +776,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE004711118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE004711118",
         "name": "\u00a7 19",
         "title": "Begriff des Kredits f\u00fcr \u00a7 14 und des Kreditnehmers f\u00fcr die \u00a7\u00a7 14, 15 und 18",
         "parent": {
@@ -849,7 +789,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE004814301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE004814301",
         "name": "\u00a7 20",
         "title": "Ausnahmen von den Verpflichtungen nach \u00a7 14",
         "parent": {
@@ -863,7 +802,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE017005301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE017005301",
         "name": "(XXXX) \u00a7\u00a7 20a bis 20c",
         "title": "(weggefallen)",
         "parent": {
@@ -877,7 +815,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE004913118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE004913118",
         "name": "\u00a7 21",
         "title": "Begriff des Kredits f\u00fcr die \u00a7\u00a7 15 bis 18",
         "parent": {
@@ -891,7 +828,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011908301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011908301",
         "name": "\u00a7 22",
         "title": "Verordnungserm\u00e4chtigung f\u00fcr Millionenkredite",
         "parent": {
@@ -905,7 +841,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG002400377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG002400377",
         "name": "2a.",
         "title": "Refinanzierungsregister",
         "parent": {
@@ -918,7 +853,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015102301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015102301",
         "name": "\u00a7 22a",
         "title": "Registerf\u00fchrendes Unternehmen",
         "parent": {
@@ -932,7 +866,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015202301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015202301",
         "name": "\u00a7 22b",
         "title": "F\u00fchrung des Refinanzierungsregisters f\u00fcr Dritte",
         "parent": {
@@ -946,7 +879,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015300377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015300377",
         "name": "\u00a7 22c",
         "title": "Refinanzierungsmittler",
         "parent": {
@@ -960,7 +892,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015403118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015403118",
         "name": "\u00a7 22d",
         "title": "Refinanzierungsregister",
         "parent": {
@@ -974,7 +905,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015501360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015501360",
         "name": "\u00a7 22e",
         "title": "Bestellung des Verwalters",
         "parent": {
@@ -988,7 +918,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015600377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015600377",
         "name": "\u00a7 22f",
         "title": "Verh\u00e4ltnis des Verwalters zur Bundesanstalt",
         "parent": {
@@ -1002,7 +931,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015700377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015700377",
         "name": "\u00a7 22g",
         "title": "Aufgaben des Verwalters",
         "parent": {
@@ -1016,7 +944,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015800377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015800377",
         "name": "\u00a7 22h",
         "title": "Verh\u00e4ltnis des Verwalters zum registerf\u00fchrenden Unternehmen und zum Refinanzierungsunternehmen",
         "parent": {
@@ -1030,7 +957,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015901360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015901360",
         "name": "\u00a7 22i",
         "title": "Verg\u00fctung des Verwalters",
         "parent": {
@@ -1044,7 +970,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016002301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016002301",
         "name": "\u00a7 22j",
         "title": "Wirkungen der Eintragung in das Refinanzierungsregister",
         "parent": {
@@ -1058,7 +983,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016101301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016101301",
         "name": "\u00a7 22k",
         "title": "Beendigung und \u00dcbertragung der Registerf\u00fchrung",
         "parent": {
@@ -1072,7 +996,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016200377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016200377",
         "name": "\u00a7 22l",
         "title": "Bestellung des Sachwalters bei Er\u00f6ffnung des Insolvenzverfahrens",
         "parent": {
@@ -1086,7 +1009,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016300377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016300377",
         "name": "\u00a7 22m",
         "title": "Bekanntmachung der Bestellung des Sachwalters",
         "parent": {
@@ -1100,7 +1022,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016400377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016400377",
         "name": "\u00a7 22n",
         "title": "Rechtsstellung des Sachwalters",
         "parent": {
@@ -1114,7 +1035,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE016501360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE016501360",
         "name": "\u00a7 22o",
         "title": "Bestellung des Sachwalters bei Insolvenzgefahr",
         "parent": {
@@ -1128,7 +1048,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG002201377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG002201377",
         "name": "3.",
         "title": "Kundenrechte",
         "parent": {
@@ -1141,7 +1060,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013202360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013202360",
         "name": "\u00a7 22p",
         "title": "(weggefallen)",
         "parent": {
@@ -1155,7 +1073,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG000806377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG000806377",
         "name": "4.",
         "title": "Werbung und Hinweispflichten der Institute",
         "parent": {
@@ -1168,7 +1085,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE005208118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE005208118",
         "name": "\u00a7 23",
         "title": "Werbung",
         "parent": {
@@ -1182,7 +1098,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010711118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010711118",
         "name": "\u00a7 23a",
         "title": "Sicherungseinrichtung",
         "parent": {
@@ -1196,7 +1111,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG000908118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG000908118",
         "name": "5.",
         "title": "Besondere Pflichten der Institute, ihrer Gesch\u00e4ftsleiter sowie der Finanzholding-Gesellschaften, der gemischten Finanzholding-Gesellschaften und der gemischten Holdinggesellschaften",
         "parent": {
@@ -1209,7 +1123,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE005330118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE005330118",
         "name": "\u00a7 24",
         "title": "Anzeigen",
         "parent": {
@@ -1223,7 +1136,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010820124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010820124",
         "name": "\u00a7 24a",
         "title": "Errichtung einer Zweigniederlassung und Erbringung grenz\u00fcberschreitender Dienstleistungen in anderen Staaten des Europ\u00e4ischen Wirtschaftsraums",
         "parent": {
@@ -1237,7 +1149,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013108118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013108118",
         "name": "\u00a7 24b",
         "title": "Teilnahme an Zahlungs- sowie Wertpapierliefer- und -abrechnungssystemen sowie interoperablen Systemen",
         "parent": {
@@ -1251,7 +1162,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013306123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013306123",
         "name": "\u00a7 24c",
         "title": "Automatisierter Abruf von Kontoinformationen",
         "parent": {
@@ -1265,7 +1175,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027601118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027601118",
         "name": "\u00a7 25",
         "title": "Finanzinformationen, Informationen zur Risikotragf\u00e4higkeit; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1279,7 +1188,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027710123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027710123",
         "name": "\u00a7 25a",
         "title": "Besondere organisatorische Pflichten, Bestimmungen f\u00fcr Risikotr\u00e4ger; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1293,7 +1201,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027801118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027801118",
         "name": "\u00a7 25b",
         "title": "Auslagerung von Aktivit\u00e4ten und Prozessen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1307,7 +1214,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE027906118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE027906118",
         "name": "\u00a7 25c",
         "title": "Gesch\u00e4ftsleiter",
         "parent": {
@@ -1321,7 +1227,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE028006118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE028006118",
         "name": "\u00a7 25d",
         "title": "Verwaltungs- oder Aufsichtsorgan",
         "parent": {
@@ -1335,7 +1240,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE028101118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE028101118",
         "name": "\u00a7 25e",
         "title": "Anforderungen bei vertraglich gebundenen Vermittlern",
         "parent": {
@@ -1349,7 +1253,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029601118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029601118",
         "name": "\u00a7 25f",
         "title": "Besondere Anforderungen an die ordnungsgem\u00e4\u00dfe Gesch\u00e4ftsorganisation von CRR-Kreditinstituten sowie von Institutsgruppen, Finanzholding-Gruppen und gemischten Finanzholding-Gruppen, denen ein CRR-Kreditinstitut angeh\u00f6rt; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1363,7 +1266,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001010360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001010360",
         "name": "5a.",
         "title": "Bargeldloser Zahlungsverkehr; Verhinderung von Geldw\u00e4sche, Terrorismusfinanzierung und sonstigen strafbaren Handlungen zu Lasten der Institute",
         "parent": {
@@ -1376,7 +1278,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013509118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013509118",
         "name": "\u00a7 25g",
         "title": "Einhaltung der besonderen organisatorischen Pflichten im bargeldlosen Zahlungsverkehr",
         "parent": {
@@ -1390,7 +1291,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE017809123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE017809123",
         "name": "\u00a7 25h",
         "title": "Interne Sicherungsma\u00dfnahmen",
         "parent": {
@@ -1404,7 +1304,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE017909123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE017909123",
         "name": "\u00a7 25i",
         "title": "Allgemeine Sorgfaltspflichten in Bezug auf E-Geld",
         "parent": {
@@ -1418,7 +1317,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE018004118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE018004118",
         "name": "\u00a7 25j",
         "title": "Zeitpunkt der Identit\u00e4ts\u00fcberpr\u00fcfung",
         "parent": {
@@ -1432,7 +1330,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE018107118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE018107118",
         "name": "\u00a7 25k",
         "title": "Verst\u00e4rkte Sorgfaltspflichten",
         "parent": {
@@ -1446,7 +1343,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE018208118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE018208118",
         "name": "\u00a7 25l",
         "title": "Geldw\u00e4scherechtliche Pflichten f\u00fcr Finanzholding-Gesellschaften",
         "parent": {
@@ -1460,7 +1356,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE018404118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE018404118",
         "name": "\u00a7 25m",
         "title": "Verbotene Gesch\u00e4fte",
         "parent": {
@@ -1474,7 +1369,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022607128",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022607128",
         "name": "\u00a7 25n",
         "title": "Einstufung als bedeutendes Institut",
         "parent": {
@@ -1488,7 +1382,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG002700377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG002700377",
         "name": "5b.",
         "title": "Vorlage von Rechnungslegungsunterlagen",
         "parent": {
@@ -1501,7 +1394,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE005714118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE005714118",
         "name": "\u00a7 26",
         "title": "Vorlage von Jahresabschlu\u00df, Lagebericht und Pr\u00fcfungsberichten",
         "parent": {
@@ -1515,7 +1407,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG002601377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG002601377",
         "name": "5c.",
         "title": "Offenlegung",
         "parent": {
@@ -1528,7 +1419,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE017305116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE017305116",
         "name": "\u00a7 26a",
         "title": "Offenlegung durch die Institute",
         "parent": {
@@ -1542,7 +1432,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001105377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001105377",
         "name": "6.",
         "title": "Pr\u00fcfung und Pr\u00fcferbestellung",
         "parent": {
@@ -1555,7 +1444,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE006007377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE006007377",
         "name": "\u00a7 27",
         "title": null,
         "parent": {
@@ -1569,7 +1457,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE006111118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE006111118",
         "name": "\u00a7 28",
         "title": "Bestellung des Pr\u00fcfers in besonderen F\u00e4llen",
         "parent": {
@@ -1583,7 +1470,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE006242123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE006242123",
         "name": "\u00a7 29",
         "title": "Besondere Pflichten des Pr\u00fcfers",
         "parent": {
@@ -1597,7 +1483,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE006308377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE006308377",
         "name": "\u00a7 30",
         "title": "Bestimmung von Pr\u00fcfungsinhalten",
         "parent": {
@@ -1611,7 +1496,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001204377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001204377",
         "name": "7.",
         "title": "Befreiungen",
         "parent": {
@@ -1624,7 +1508,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029800116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029800116",
         "name": "\u00a7 31",
         "title": "Befreiungen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -1638,7 +1521,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001305377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001305377",
         "name": "Dritter Abschnitt",
         "title": "Vorschriften \u00fcber die Beaufsichtigung der Institute",
         "parent": null,
@@ -1648,7 +1530,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001404377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001404377",
         "name": "1.",
         "title": "Zulassung zum Gesch\u00e4ftsbetrieb",
         "parent": {
@@ -1661,7 +1542,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE006531123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE006531123",
         "name": "\u00a7 32",
         "title": "Erlaubnis",
         "parent": {
@@ -1675,7 +1555,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE006625124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE006625124",
         "name": "\u00a7 33",
         "title": "Versagung der Erlaubnis",
         "parent": {
@@ -1689,7 +1568,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010911118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010911118",
         "name": "\u00a7 33a",
         "title": "Aussetzung oder Beschr\u00e4nkung der Erlaubnis bei Unternehmen mit Sitz au\u00dferhalb der Europ\u00e4ischen Union",
         "parent": {
@@ -1703,7 +1581,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011013118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011013118",
         "name": "\u00a7 33b",
         "title": "Anh\u00f6rung der zust\u00e4ndigen Stellen eines anderen Staates des Europ\u00e4ischen Wirtschaftsraums",
         "parent": {
@@ -1717,7 +1594,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE006707118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE006707118",
         "name": "\u00a7 34",
         "title": "Stellvertretung und Fortf\u00fchrung bei Todesfall",
         "parent": {
@@ -1731,7 +1607,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE006822118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE006822118",
         "name": "\u00a7 35",
         "title": "Erl\u00f6schen und Aufhebung der Erlaubnis",
         "parent": {
@@ -1745,7 +1620,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE001728118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE001728118",
         "name": "\u00a7 36",
         "title": "Ma\u00dfnahmen gegen Gesch\u00e4ftsleiter und Mitglieder des Verwaltungs- oder Aufsichtsorgans",
         "parent": {
@@ -1759,7 +1633,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030604118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030604118",
         "name": "\u00a7 36a",
         "title": "T\u00e4tigkeitsverbot f\u00fcr nat\u00fcrliche Personen",
         "parent": {
@@ -1773,7 +1646,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007013118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007013118",
         "name": "\u00a7 37",
         "title": "Einschreiten gegen unerlaubte oder verbotene Gesch\u00e4fte",
         "parent": {
@@ -1787,7 +1659,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007113118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007113118",
         "name": "\u00a7 38",
         "title": "Folgen der Aufhebung und des Erl\u00f6schens der Erlaubnis, Ma\u00dfnahmen bei der Abwicklung",
         "parent": {
@@ -1801,7 +1672,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001505377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001505377",
         "name": "2.",
         "title": "Bezeichnungsschutz",
         "parent": {
@@ -1814,7 +1684,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007207377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007207377",
         "name": "\u00a7 39",
         "title": "Bezeichnungen \"Bank\" und \"Bankier\"",
         "parent": {
@@ -1828,7 +1697,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007305377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007305377",
         "name": "\u00a7 40",
         "title": "Bezeichnung \"Sparkasse\"",
         "parent": {
@@ -1842,7 +1710,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007405377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007405377",
         "name": "\u00a7 41",
         "title": "Ausnahmen",
         "parent": {
@@ -1856,7 +1723,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007505377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007505377",
         "name": "\u00a7 42",
         "title": "Entscheidung der Bundesanstalt",
         "parent": {
@@ -1870,7 +1736,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007607377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007607377",
         "name": "\u00a7 43",
         "title": "Registervorschriften",
         "parent": {
@@ -1884,7 +1749,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001604377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001604377",
         "name": "3.",
         "title": "Ausk\u00fcnfte und Pr\u00fcfungen",
         "parent": {
@@ -1897,7 +1761,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007720118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007720118",
         "name": "\u00a7 44",
         "title": "Ausk\u00fcnfte und Pr\u00fcfungen von Instituten, Anbietern von Nebendienstleistungen, Finanzholding-Gesellschaften, gemischten Finanzholding-Gesellschaften und anderen Unternehmen",
         "parent": {
@@ -1911,7 +1774,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007818118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007818118",
         "name": "\u00a7 44a",
         "title": "Grenz\u00fcberschreitende Ausk\u00fcnfte und Pr\u00fcfungen",
         "parent": {
@@ -1925,7 +1787,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011109377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011109377",
         "name": "\u00a7 44b",
         "title": "Ausk\u00fcnfte und Pr\u00fcfungen bei Inhabern bedeutender Beteiligungen",
         "parent": {
@@ -1939,7 +1800,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE012711118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE012711118",
         "name": "\u00a7 44c",
         "title": "Verfolgung unerlaubter Bankgesch\u00e4fte und Finanzdienstleistungen",
         "parent": {
@@ -1953,7 +1813,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001704377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001704377",
         "name": "4.",
         "title": "Ma\u00dfnahmen in besonderen F\u00e4llen",
         "parent": {
@@ -1966,7 +1825,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE007920123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE007920123",
         "name": "\u00a7 45",
         "title": "Ma\u00dfnahmen zur Verbesserung der Eigenmittelausstattung und der Liquidit\u00e4t",
         "parent": {
@@ -1980,7 +1838,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE012010301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE012010301",
         "name": "\u00a7 45a",
         "title": "Ma\u00dfnahmen gegen\u00fcber Finanzholding-Gesellschaften und gemischten Finanzholding-Gesellschaften",
         "parent": {
@@ -1994,7 +1851,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE017509118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE017509118",
         "name": "\u00a7 45b",
         "title": "Ma\u00dfnahmen bei organisatorischen M\u00e4ngeln",
         "parent": {
@@ -2008,7 +1864,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE019806118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE019806118",
         "name": "\u00a7 45c",
         "title": "Sonderbeauftragter",
         "parent": {
@@ -2022,7 +1877,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008014118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008014118",
         "name": "\u00a7 46",
         "title": "Ma\u00dfnahmen bei Gefahr",
         "parent": {
@@ -2036,7 +1890,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008117118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008117118",
         "name": "\u00a7 46a",
         "title": "Untersagungs- und Anordnungsbefugnis bei Verwenden externer Ratings",
         "parent": {
@@ -2050,7 +1903,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008219118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008219118",
         "name": "\u00a7 46b",
         "title": "Insolvenzantrag",
         "parent": {
@@ -2064,7 +1916,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008308360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008308360",
         "name": "\u00a7 46c",
         "title": "Insolvenzrechtliche Fristen und Haftungsfragen",
         "parent": {
@@ -2078,7 +1929,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013705301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013705301",
         "name": "\u00a7 46d",
         "title": "Unterrichtung der anderen Staaten des Europ\u00e4ischen Wirtschaftsraums \u00fcber Sanierungsma\u00dfnahmen",
         "parent": {
@@ -2092,7 +1942,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013805118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013805118",
         "name": "\u00a7 46e",
         "title": "Insolvenzverfahren in den Staaten des Europ\u00e4ischen Wirtschaftsraums",
         "parent": {
@@ -2106,7 +1955,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013907124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013907124",
         "name": "\u00a7 46f",
         "title": "Unterrichtung der Gl\u00e4ubiger im Insolvenzverfahren und Insolvenzrangfolge",
         "parent": {
@@ -2120,7 +1968,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008408301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008408301",
         "name": "\u00a7 46g",
         "title": "Moratorium, Einstellung des Bank- und B\u00f6rsenverkehrs",
         "parent": {
@@ -2134,7 +1981,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008506301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008506301",
         "name": "\u00a7 46h",
         "title": "Wiederaufnahme des Bank- und B\u00f6rsenverkehrs",
         "parent": {
@@ -2148,7 +1994,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE024202118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE024202118",
         "name": "\u00a7 47",
         "title": "Anordnungsbefugnis nach der Verordnung (EU) Nr. 1286/2014",
         "parent": {
@@ -2162,7 +2007,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031700118",
         "name": "\u00a7 48",
         "title": "Ma\u00dfnahmen bei Verst\u00f6\u00dfen gegen die Verordnung (EU) 2017/2402",
         "parent": {
@@ -2176,7 +2020,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG002802118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG002802118",
         "name": "4a.",
         "title": "Ma\u00dfnahmen gegen\u00fcber Kreditinstituten bei Gefahren f\u00fcr die Stabilit\u00e4t des Finanzsystems",
         "parent": {
@@ -2189,7 +2032,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE019901118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE019901118",
         "name": "(XXXX) \u00a7\u00a7 48a bis 48s",
         "title": "(weggefallen)",
         "parent": {
@@ -2203,7 +2045,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE028301116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE028301116",
         "name": "\u00a7 48t",
         "title": "Ma\u00dfnahmen zur Begrenzung makroprudenzieller oder systemischer Risiken",
         "parent": {
@@ -2217,7 +2058,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031401123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031401123",
         "name": "\u00a7 48u",
         "title": "Ma\u00dfnahmen zur Begrenzung makroprudenzieller Risiken im Bereich der Darlehensvergabe zum Bau oder zum Erwerb von Wohnimmobilien; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2231,7 +2071,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001805377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001805377",
         "name": "5.",
         "title": "Vollziehbarkeit, Zwangsmittel, Umlage und Kosten",
         "parent": {
@@ -2244,7 +2083,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008631128",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008631128",
         "name": "\u00a7 49",
         "title": "Sofortige Vollziehbarkeit",
         "parent": {
@@ -2258,7 +2096,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008708377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008708377",
         "name": "\u00a7 50",
         "title": null,
         "parent": {
@@ -2272,7 +2109,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008812360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008812360",
         "name": "\u00a7 51",
         "title": "Umlage und Kosten",
         "parent": {
@@ -2286,7 +2122,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001400301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001400301",
         "name": "Vierter Abschnitt",
         "title": "Besondere Vorschriften f\u00fcr Wohnungsunternehmen mit Spareinrichtung",
         "parent": null,
@@ -2296,7 +2131,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE028801116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE028801116",
         "name": "\u00a7 51a",
         "title": "Anforderungen an die Eigenkapitalausstattung f\u00fcr Wohnungsunternehmen mit Spareinrichtung",
         "parent": {
@@ -2310,7 +2144,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE028900360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE028900360",
         "name": "\u00a7 51b",
         "title": "Anforderungen an die Liquidit\u00e4t f\u00fcr Wohnungsunternehmen mit Spareinrichtung",
         "parent": {
@@ -2324,7 +2157,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE028602118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE028602118",
         "name": "\u00a7 51c",
         "title": "Sonstige Sondervorschriften f\u00fcr Wohnungsunternehmen mit Spareinrichtung",
         "parent": {
@@ -2338,7 +2170,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG001905377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG001905377",
         "name": "F\u00fcnfter Abschnitt",
         "title": "Sondervorschriften",
         "parent": null,
@@ -2348,7 +2179,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE008906377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE008906377",
         "name": "\u00a7 52",
         "title": "Sonderaufsicht",
         "parent": {
@@ -2362,7 +2192,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE021800360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE021800360",
         "name": "\u00a7 52a",
         "title": "Verj\u00e4hrung von Anspr\u00fcchen gegen Organmitglieder von Kreditinstituten",
         "parent": {
@@ -2376,7 +2205,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009112116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009112116",
         "name": "\u00a7 53",
         "title": "Zweigstellen von Unternehmen mit Sitz im Ausland",
         "parent": {
@@ -2390,7 +2218,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009206377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009206377",
         "name": "\u00a7 53a",
         "title": "Repr\u00e4sentanzen von Instituten mit Sitz im Ausland",
         "parent": {
@@ -2404,7 +2231,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011233128",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011233128",
         "name": "\u00a7 53b",
         "title": "Unternehmen mit Sitz in einem anderen Staat des Europ\u00e4ischen Wirtschaftsraums",
         "parent": {
@@ -2418,7 +2244,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011310118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011310118",
         "name": "\u00a7 53c",
         "title": "Unternehmen mit Sitz in einem Drittstaat; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2432,7 +2257,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE014906124",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE014906124",
         "name": "\u00a7 53d",
         "title": "Mutterunternehmen mit Sitz in einem Drittstaat",
         "parent": {
@@ -2446,7 +2270,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG002901118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG002901118",
         "name": "Sechster Abschnitt",
         "title": "Sondervorschriften f\u00fcr zentrale Gegenparteien und Zentralverwahrer",
         "parent": null,
@@ -2456,7 +2279,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG003100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG003100118",
         "name": "1.",
         "title": "Zentrale Gegenparteien",
         "parent": {
@@ -2469,7 +2291,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022700360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022700360",
         "name": "\u00a7 53e",
         "title": "Inhaber bedeutender Beteiligungen",
         "parent": {
@@ -2483,7 +2304,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022800360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022800360",
         "name": "\u00a7 53f",
         "title": "Aufsichtskollegien",
         "parent": {
@@ -2497,7 +2317,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022900360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022900360",
         "name": "\u00a7 53g",
         "title": "Finanzmittelausstattung von zentralen Gegenparteien",
         "parent": {
@@ -2511,7 +2330,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023000360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023000360",
         "name": "\u00a7 53h",
         "title": "Liquidit\u00e4t",
         "parent": {
@@ -2525,7 +2343,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023100360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023100360",
         "name": "\u00a7 53i",
         "title": "Gew\u00e4hrung des Zugangs nach den Artikeln 7 und 8 der Verordnung (EU) Nr. 648/2012",
         "parent": {
@@ -2539,7 +2356,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023200360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023200360",
         "name": "\u00a7 53j",
         "title": "Anzeigen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -2553,7 +2369,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023301301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023301301",
         "name": "\u00a7 53k",
         "title": "Auslagerung von Aktivit\u00e4ten und Prozessen",
         "parent": {
@@ -2567,7 +2382,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023401116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023401116",
         "name": "\u00a7 53l",
         "title": "Anordnungsbefugnis; Ma\u00dfnahmen bei organisatorischen M\u00e4ngeln",
         "parent": {
@@ -2581,7 +2395,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023500360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023500360",
         "name": "\u00a7 53m",
         "title": "Inhalt des Zulassungsantrags",
         "parent": {
@@ -2595,7 +2408,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023602118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023602118",
         "name": "\u00a7 53n",
         "title": "Ma\u00dfnahmen zur Verbesserung der Finanzmittel und der Liquidit\u00e4t einer nach der Verordnung (EU) Nr. 648/2012 zugelassenen zentralen Gegenpartei",
         "parent": {
@@ -2609,7 +2421,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG003200118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG003200118",
         "name": "2.",
         "title": "Zentralverwahrer",
         "parent": {
@@ -2622,7 +2433,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030300118",
         "name": "\u00a7 53o",
         "title": "Antr\u00e4ge nach der Verordnung (EU) Nr. 909/2014; Verschwiegenheitspflicht",
         "parent": {
@@ -2636,7 +2446,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030700118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030700118",
         "name": "\u00a7 53p",
         "title": "Anordnungsbefugnis f\u00fcr die Aufsicht nach der Verordnung (EU) Nr. 909/2014",
         "parent": {
@@ -2650,7 +2459,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030800118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030800118",
         "name": "\u00a7 53q",
         "title": "Eigentumsrechte an Zentralverwahrern",
         "parent": {
@@ -2664,7 +2472,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG002006360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG002006360",
         "name": "Siebenter Abschnitt",
         "title": "Strafvorschriften, Bu\u00dfgeldvorschriften",
         "parent": null,
@@ -2674,7 +2481,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009309118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009309118",
         "name": "\u00a7 54",
         "title": "Verbotene Gesch\u00e4fte, Handeln ohne Erlaubnis",
         "parent": {
@@ -2688,7 +2494,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029500301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029500301",
         "name": "\u00a7 54a",
         "title": "Strafvorschriften",
         "parent": {
@@ -2702,7 +2507,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009408377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009408377",
         "name": "\u00a7 55",
         "title": "Verletzung der Pflicht zur Anzeige der Zahlungsunf\u00e4higkeit oder der \u00dcberschuldung",
         "parent": {
@@ -2716,7 +2520,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE012803377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE012803377",
         "name": "\u00a7 55a",
         "title": "Unbefugte Verwertung von Angaben \u00fcber Millionenkredite",
         "parent": {
@@ -2730,7 +2533,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE012904377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE012904377",
         "name": "\u00a7 55b",
         "title": "Unbefugte Offenbarung von Angaben \u00fcber Millionenkredite",
         "parent": {
@@ -2744,7 +2546,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009543123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009543123",
         "name": "\u00a7 56",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -2758,7 +2559,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009604377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009604377",
         "name": "(XXXX) \u00a7\u00a7 57 und 58",
         "title": "(weggefallen)",
         "parent": {
@@ -2772,7 +2572,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009707377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009707377",
         "name": "\u00a7 59",
         "title": "Geldbu\u00dfen gegen Unternehmen",
         "parent": {
@@ -2786,7 +2585,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009805377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009805377",
         "name": "\u00a7 60",
         "title": "Zust\u00e4ndige Verwaltungsbeh\u00f6rde",
         "parent": {
@@ -2800,7 +2598,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013005301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013005301",
         "name": "\u00a7 60a",
         "title": "Beteiligung der Bundesanstalt und Mitteilungen in Strafsachen",
         "parent": {
@@ -2814,7 +2611,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE028904118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE028904118",
         "name": "\u00a7 60b",
         "title": "Bekanntmachung von Ma\u00dfnahmen",
         "parent": {
@@ -2828,7 +2624,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030903118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030903118",
         "name": "\u00a7 60c",
         "title": "Bekanntmachung von Ma\u00dfnahmen und Sanktionen wegen Verst\u00f6\u00dfen gegen die Verordnung (EU) Nr. 909/2014, die Verordnung (EU) 2015/2365, die Verordnung (EU) 2016/1011 oder die Verordnung (EU) 2017/2402",
         "parent": {
@@ -2842,7 +2637,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031500118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031500118",
         "name": "\u00a7 60d",
         "title": "Bekanntmachung von Ma\u00dfnahmen und Sanktionen gegen Wertpapierdienstleistungsunternehmen und Betreiber von Datenbereitstellungsdiensten",
         "parent": {
@@ -2856,7 +2650,6 @@
       {
         "type": "heading",
         "id": "BJNR008810961BJNG002106360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNG002106360",
         "name": "Achter Abschnitt",
         "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
         "parent": null,
@@ -2866,7 +2659,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE009904377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE009904377",
         "name": "\u00a7 61",
         "title": "Erlaubnis f\u00fcr bestehende Kreditinstitute",
         "parent": {
@@ -2880,7 +2672,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010108377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010108377",
         "name": "\u00a7 62",
         "title": "\u00dcberleitungsbestimmungen",
         "parent": {
@@ -2894,7 +2685,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010204377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010204377",
         "name": "\u00a7 63",
         "title": null,
         "parent": {
@@ -2908,7 +2698,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010510377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010510377",
         "name": "\u00a7 63a",
         "title": "Sondervorschriften f\u00fcr das in Artikel 3 des Einigungsvertrages genannte Gebiet",
         "parent": {
@@ -2922,7 +2711,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010307377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010307377",
         "name": "\u00a7 64",
         "title": "Nachfolgeunternehmen der Deutschen Bundespost",
         "parent": {
@@ -2936,7 +2724,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011506377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011506377",
         "name": "\u00a7 64a",
         "title": "(weggefallen)",
         "parent": {
@@ -2950,7 +2737,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE011608301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE011608301",
         "name": "\u00a7 64b",
         "title": "(weggefallen)",
         "parent": {
@@ -2964,7 +2750,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE012105377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE012105377",
         "name": "\u00a7 64c",
         "title": "(weggefallen)",
         "parent": {
@@ -2978,7 +2763,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE012207301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE012207301",
         "name": "\u00a7 64d",
         "title": "(weggefallen)",
         "parent": {
@@ -2992,7 +2776,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE012308301",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE012308301",
         "name": "\u00a7 64e",
         "title": "\u00dcbergangsvorschriften zum Sechsten Gesetz zur \u00c4nderung des Gesetzes \u00fcber das Kreditwesen",
         "parent": {
@@ -3006,7 +2789,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE013401377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE013401377",
         "name": "\u00a7 64f",
         "title": "\u00dcbergangsvorschriften zum Vierten Finanzmarktf\u00f6rderungsgesetz",
         "parent": {
@@ -3020,7 +2802,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE015002118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE015002118",
         "name": "\u00a7 64g",
         "title": "\u00dcbergangsvorschriften zum Finanzkonglomeraterichtlinie-Umsetzungsgesetz",
         "parent": {
@@ -3034,7 +2815,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE017605123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE017605123",
         "name": "\u00a7 64h",
         "title": "\u00dcbergangsvorschriften zum Gesetz zur Umsetzung der neu gefassten Bankenrichtlinie und der neu gefassten Kapitalad\u00e4quanzrichtlinie",
         "parent": {
@@ -3048,7 +2828,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE017700377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE017700377",
         "name": "\u00a7 64i",
         "title": "\u00dcbergangsvorschriften zum Finanzmarktrichtlinie-Umsetzungsgesetz",
         "parent": {
@@ -3062,7 +2841,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE018500377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE018500377",
         "name": "\u00a7 64j",
         "title": "\u00dcbergangsvorschriften zum Jahressteuergesetz 2009",
         "parent": {
@@ -3076,7 +2854,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE018700377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE018700377",
         "name": "\u00a7 64k",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Umsetzung der Beteiligungsrichtlinie",
         "parent": {
@@ -3090,7 +2867,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE018800377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE018800377",
         "name": "\u00a7 64l",
         "title": "\u00dcbergangsvorschrift zur Erlaubnis f\u00fcr die Anlageverwaltung",
         "parent": {
@@ -3104,7 +2880,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE019302128",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE019302128",
         "name": "\u00a7 64m",
         "title": "\u00dcbergangsvorschrift zum Brexit-Steuerbegleitgesetz",
         "parent": {
@@ -3118,7 +2893,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE022500360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE022500360",
         "name": "\u00a7 64n",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Novellierung des Finanzvermittler- und Verm\u00f6gensanlagenrechts",
         "parent": {
@@ -3132,7 +2906,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023800360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023800360",
         "name": "\u00a7 64o",
         "title": "\u00dcbergangsvorschriften zum EMIR-Ausf\u00fchrungsgesetz",
         "parent": {
@@ -3146,7 +2919,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE023900377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE023900377",
         "name": "\u00a7 64p",
         "title": "\u00dcbergangsvorschrift zum Hochfrequenzhandelsgesetz",
         "parent": {
@@ -3160,7 +2932,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE024100360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE024100360",
         "name": "\u00a7 64q",
         "title": "\u00dcbergangsvorschrift zum AIFM-Umsetzungsgesetz",
         "parent": {
@@ -3174,7 +2945,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029005118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029005118",
         "name": "\u00a7 64r",
         "title": "\u00dcbergangsvorschriften zum CRD IV-Umsetzungsgesetz",
         "parent": {
@@ -3188,7 +2958,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029700360",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029700360",
         "name": "\u00a7 64s",
         "title": "\u00dcbergangsvorschrift zum Gesetz zur Abschirmung von Risiken und zur Planung der Sanierung und Abwicklung von Kreditinstituten",
         "parent": {
@@ -3202,7 +2971,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE029900118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE029900118",
         "name": "\u00a7 64t",
         "title": "\u00dcbergangsvorschrift zur Verordnung (EU) Nr. 1060/2009",
         "parent": {
@@ -3216,7 +2984,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030001118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030001118",
         "name": "\u00a7 64u",
         "title": "\u00dcbergangsvorschrift zum BRRD-Umsetzungsgesetz",
         "parent": {
@@ -3230,7 +2997,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031000118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031000118",
         "name": "\u00a7 64v",
         "title": "\u00dcbergangsvorschriften zum Ersten Finanzmarktnovellierungsgesetz",
         "parent": {
@@ -3244,7 +3010,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031300118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031300118",
         "name": "\u00a7 64w",
         "title": "\u00dcbergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz",
         "parent": {
@@ -3258,7 +3023,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031601118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031601118",
         "name": "\u00a7 64x",
         "title": "\u00dcbergangsvorschrift zum Zweiten Finanzmarktnovellierungsgesetz",
         "parent": {
@@ -3272,7 +3036,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE031800123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE031800123",
         "name": "\u00a7 64y",
         "title": "\u00dcbergangsvorschriften zum Gesetz zur Umsetzung der \u00c4nderungsrichtlinie zur Vierten EU-Geldw\u00e4scherichtlinie",
         "parent": {
@@ -3286,7 +3049,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE010404377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE010404377",
         "name": "\u00a7 65",
         "title": null,
         "parent": {
@@ -3300,7 +3062,6 @@
       {
         "type": "article",
         "id": "BJNR008810961BJNE030100118",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/kwg/articles/BJNR008810961BJNE030100118",
         "name": "Anhang I",
         "title": "Informationsbogen f\u00fcr den Einleger",
         "parent": {

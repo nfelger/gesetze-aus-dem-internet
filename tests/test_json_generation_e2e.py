@@ -2,8 +2,8 @@ import json
 
 import pytest
 
-from rip_api import api_schemas, db, gesetze_im_internet
-from rip_api.gesetze_im_internet.download import location_from_string
+from gadi import api_schemas, db, gesetze_im_internet
+from gadi.gesetze_im_internet.download import location_from_string
 from .utils import load_example_json, xml_fixtures_dir
 
 example_law_slugs = ["alg", "ifsg", "jfdg", "skaufg", "estg"]

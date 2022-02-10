@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR232510994",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg",
     "firstPublished": "1994-09-14",
     "sourceTimestamp": "20171231215324",
     "titleShort": "Bundesanstalt-Post-Gesetz",
@@ -36,7 +35,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001003305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001003305",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -47,7 +45,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000101305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000101305",
         "name": "Abschnitt 1",
         "title": "Errichtung",
         "parent": null,
@@ -57,7 +54,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001102305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001102305",
         "name": "\u00a7 1",
         "title": "Errichtung, Rechtsform, Sitz",
         "parent": {
@@ -71,7 +67,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001201308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001201308",
         "name": "\u00a7 2",
         "title": "Aufsicht",
         "parent": {
@@ -85,7 +80,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000201305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000201305",
         "name": "Abschnitt 2",
         "title": "Aufgaben",
         "parent": null,
@@ -95,7 +89,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001304305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001304305",
         "name": "\u00a7 3",
         "title": "Gegenstand",
         "parent": {
@@ -109,7 +102,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000302305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000302305",
         "name": "Abschnitt 3",
         "title": "Organisation",
         "parent": null,
@@ -119,7 +111,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001402305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001402305",
         "name": "\u00a7 4",
         "title": "Leitung",
         "parent": {
@@ -133,7 +124,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001505305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001505305",
         "name": "\u00a7 5",
         "title": "Verwaltungsrat",
         "parent": {
@@ -147,7 +137,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001601308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001601308",
         "name": "\u00a7 6",
         "title": "Einspruch gegen Beschl\u00fcsse des Verwaltungsrats",
         "parent": {
@@ -161,7 +150,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001701308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001701308",
         "name": "\u00a7 7",
         "title": "Genehmigungen",
         "parent": {
@@ -175,7 +163,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001802305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001802305",
         "name": "\u00a7 8",
         "title": "Satzung",
         "parent": {
@@ -189,7 +176,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000403305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000403305",
         "name": "Abschnitt 4",
         "title": "Postbeamtenversorgungskasse",
         "parent": null,
@@ -199,7 +185,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE001902305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE001902305",
         "name": "\u00a7 9",
         "title": "Grunds\u00e4tze",
         "parent": {
@@ -213,7 +198,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002003305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002003305",
         "name": "\u00a7 10",
         "title": "Wirtschaftsf\u00fchrung, Rechnungslegung",
         "parent": {
@@ -227,7 +211,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002102305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002102305",
         "name": "\u00a7 11",
         "title": "Rechtsnachfolge des Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V.",
         "parent": {
@@ -241,7 +224,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002201305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002201305",
         "name": "\u00a7 12",
         "title": "\u00dcberleitung der Arbeitnehmerinnen und Arbeitnehmer des Bundes-Pensions-Service f\u00fcr Post und Telekommunikation e.\u00a0V.",
         "parent": {
@@ -255,7 +237,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002301305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002301305",
         "name": "\u00a7 13",
         "title": "\u00dcberleitung der Beamtinnen und Beamten",
         "parent": {
@@ -269,7 +250,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000502305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000502305",
         "name": "Abschnitt 5",
         "title": "Dienstrechtliche Aufgaben",
         "parent": null,
@@ -279,7 +259,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002401305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002401305",
         "name": "\u00a7 14",
         "title": "Pr\u00fcfungen bei Disziplinarverfahren, Entlassungen und Zurruhesetzungen",
         "parent": {
@@ -293,7 +272,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002503305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002503305",
         "name": "\u00a7 15",
         "title": "Aus\u00fcbung der dienstrechtlichen Befugnisse bei Versorgungsempf\u00e4ngerinnen und Versorgungsempf\u00e4ngern aus dem Bereich der fr\u00fcheren Deutschen Bundespost",
         "parent": {
@@ -307,7 +285,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002604305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002604305",
         "name": "\u00a7 16",
         "title": "Beihilfebearbeitung",
         "parent": {
@@ -321,7 +298,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002703123",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002703123",
         "name": "\u00a7 17",
         "title": "Aus\u00fcbung der dienstrechtlichen Befugnisse bei der Aufl\u00f6sung von Postnachfolgeunternehmen",
         "parent": {
@@ -335,7 +311,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002802305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002802305",
         "name": "\u00a7 18",
         "title": "(weggefallen)",
         "parent": {
@@ -349,7 +324,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000601305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000601305",
         "name": "Abschnitt 6",
         "title": "Wirtschaftsf\u00fchrung",
         "parent": null,
@@ -359,7 +333,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE002902305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE002902305",
         "name": "\u00a7 19",
         "title": "Finanzierung",
         "parent": {
@@ -373,7 +346,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003001308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003001308",
         "name": "\u00a7 20",
         "title": "Wirtschaftsplan",
         "parent": {
@@ -387,7 +359,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003102305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003102305",
         "name": "\u00a7 21",
         "title": "Rechnungslegung",
         "parent": {
@@ -401,7 +372,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003203305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003203305",
         "name": "\u00a7 22",
         "title": "Pr\u00fcfung und Entlastung der Pr\u00e4sidentin oder des Pr\u00e4sidenten",
         "parent": {
@@ -415,7 +385,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000701305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000701305",
         "name": "Abschnitt 7",
         "title": "Personal",
         "parent": null,
@@ -425,7 +394,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003304305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003304305",
         "name": "\u00a7 23",
         "title": "Beamtinnen und Beamte, Arbeitnehmerinnen und Arbeitnehmer",
         "parent": {
@@ -439,7 +407,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003403305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003403305",
         "name": "\u00a7 24",
         "title": "\u00dcberleitungsma\u00dfnahmen f\u00fcr das Personal",
         "parent": {
@@ -453,7 +420,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003501308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003501308",
         "name": "\u00a7 25",
         "title": "Vor\u00fcbergehende geringerwertige Verwendung",
         "parent": {
@@ -467,7 +433,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000802305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000802305",
         "name": "Abschnitt 8",
         "title": "Soziale Aufgaben",
         "parent": null,
@@ -477,7 +442,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003606305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003606305",
         "name": "\u00a7 26",
         "title": "Betriebliche Sozialeinrichtungen",
         "parent": {
@@ -491,7 +455,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG001001305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG001001305",
         "name": "Unterabschnitt 1",
         "title": "Verwaltung der Postbeamtenkrankenkasse",
         "parent": {
@@ -504,7 +467,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE004400308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE004400308",
         "name": "\u00a7 26a",
         "title": "Organe",
         "parent": {
@@ -518,7 +480,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE004503305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE004503305",
         "name": "\u00a7 26b",
         "title": "Vorstand, Verwaltungsrat",
         "parent": {
@@ -532,7 +493,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE004600308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE004600308",
         "name": "\u00a7 26c",
         "title": "Satzung",
         "parent": {
@@ -546,7 +506,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE004701305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE004701305",
         "name": "\u00a7 26d",
         "title": "Aufgaben",
         "parent": {
@@ -560,7 +519,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG001101305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG001101305",
         "name": "Unterabschnitt 2",
         "title": "Wirtschaftsf\u00fchrung der Postbeamtenkrankenkasse",
         "parent": {
@@ -573,7 +531,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE004800308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE004800308",
         "name": "\u00a7 26e",
         "title": "Wirtschaftsplan",
         "parent": {
@@ -587,7 +544,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE004900308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE004900308",
         "name": "\u00a7 26f",
         "title": "Grunds\u00e4tze der Beitragsgestaltung",
         "parent": {
@@ -601,7 +557,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE005003305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE005003305",
         "name": "\u00a7 26g",
         "title": "Beitr\u00e4ge in der Grundversicherung",
         "parent": {
@@ -615,7 +570,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE005101305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE005101305",
         "name": "\u00a7 26h",
         "title": "Ausgleichsfonds",
         "parent": {
@@ -629,7 +583,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE005203305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE005203305",
         "name": "\u00a7 26i",
         "title": "Sonstige Einnahmen",
         "parent": {
@@ -643,7 +596,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE005301305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE005301305",
         "name": "\u00a7 26j",
         "title": "Freistellung der Bundesrepublik Deutschland",
         "parent": {
@@ -657,7 +609,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE005403305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE005403305",
         "name": "\u00a7 26k",
         "title": "Verteilung des Verwaltungsaufwands, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -671,7 +622,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE006100305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE006100305",
         "name": "\u00a7 26l",
         "title": "Beihilfebearbeitung f\u00fcr andere Stellen",
         "parent": {
@@ -685,7 +635,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG001201305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG001201305",
         "name": "Unterabschnitt 3",
         "title": "Wohnungsf\u00fcrsorge",
         "parent": {
@@ -698,7 +647,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003701305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003701305",
         "name": "\u00a7 27",
         "title": "Wohnungsf\u00fcrsorge",
         "parent": {
@@ -712,7 +660,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE005600305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE005600305",
         "name": "\u00a7 28",
         "title": "\u00dcbergangsregelung im Sozialwesen",
         "parent": {
@@ -726,7 +673,6 @@
       {
         "type": "heading",
         "id": "BJNR232510994BJNG000901305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNG000901305",
         "name": "Abschnitt 9",
         "title": "\u00dcbergangsregelungen",
         "parent": null,
@@ -736,7 +682,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE003901308",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE003901308",
         "name": "\u00a7 29",
         "title": "Verm\u00f6gens\u00fcbergang",
         "parent": {
@@ -750,7 +695,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE004002305",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE004002305",
         "name": "\u00a7 30",
         "title": "(weggefallen)",
         "parent": {
@@ -764,7 +708,6 @@
       {
         "type": "article",
         "id": "BJNR232510994BJNE004100320",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/bapostg/articles/BJNR232510994BJNE004100320",
         "name": "Anlage",
         "title": "(zu \u00a7 8 Satz 1)",
         "parent": {

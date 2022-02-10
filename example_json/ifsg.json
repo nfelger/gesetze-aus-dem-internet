@@ -2,7 +2,6 @@
   "data": {
     "type": "law",
     "id": "BJNR104510000",
-    "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg",
     "firstPublished": "2000-07-20",
     "sourceTimestamp": "20200722212523",
     "titleShort": "Infektionsschutzgesetz",
@@ -48,7 +47,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE001727116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE001727116",
         "name": "Inhalts\u00fcbersicht",
         "title": null,
         "parent": null,
@@ -59,7 +57,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000100310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000100310",
         "name": "1. Abschnitt",
         "title": "Allgemeine Vorschriften",
         "parent": null,
@@ -69,7 +66,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE001800310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE001800310",
         "name": "\u00a7 1",
         "title": "Zweck des Gesetzes",
         "parent": {
@@ -83,7 +79,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009801116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009801116",
         "name": "\u00a7 1a",
         "title": "(weggefallen)",
         "parent": {
@@ -97,7 +92,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE001903116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE001903116",
         "name": "\u00a7 2",
         "title": "Begriffsbestimmungen",
         "parent": {
@@ -111,7 +105,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002000310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002000310",
         "name": "\u00a7 3",
         "title": "Pr\u00e4vention durch Aufkl\u00e4rung",
         "parent": {
@@ -125,7 +118,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000201116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000201116",
         "name": "2. Abschnitt",
         "title": "Koordinierung und epidemische Lage von nationaler Tragweite",
         "parent": null,
@@ -135,7 +127,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002107116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002107116",
         "name": "\u00a7 4",
         "title": "Aufgaben des Robert Koch-Institutes",
         "parent": {
@@ -149,7 +140,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002203116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002203116",
         "name": "\u00a7 5",
         "title": "Epidemische Lage von nationaler Tragweite",
         "parent": {
@@ -163,7 +153,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE010200116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE010200116",
         "name": "\u00a7 5a",
         "title": "Aus\u00fcbung heilkundlicher T\u00e4tigkeiten bei Vorliegen einer epidemischen Lage von nationaler Tragweite, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -177,7 +166,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000302116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000302116",
         "name": "3. Abschnitt",
         "title": "\u00dcberwachung",
         "parent": null,
@@ -187,7 +175,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002305116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002305116",
         "name": "\u00a7 6",
         "title": "Meldepflichtige Krankheiten",
         "parent": {
@@ -201,7 +188,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002404116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002404116",
         "name": "\u00a7 7",
         "title": "Meldepflichtige Nachweise von Krankheitserregern",
         "parent": {
@@ -215,7 +201,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002503116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002503116",
         "name": "\u00a7 8",
         "title": "Zur Meldung verpflichtete Personen",
         "parent": {
@@ -229,7 +214,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002607116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002607116",
         "name": "\u00a7 9",
         "title": "Namentliche Meldung",
         "parent": {
@@ -243,7 +227,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002705116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002705116",
         "name": "\u00a7 10",
         "title": "Nichtnamentliche Meldung",
         "parent": {
@@ -257,7 +240,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002806116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002806116",
         "name": "\u00a7 11",
         "title": "\u00dcbermittlung an die zust\u00e4ndige Landesbeh\u00f6rde und an das Robert Koch-Institut",
         "parent": {
@@ -271,7 +253,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE002906116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE002906116",
         "name": "\u00a7 12",
         "title": "\u00dcbermittlungen und Mitteilungen auf Grund v\u00f6lker- und unionsrechtlicher Vorschriften",
         "parent": {
@@ -285,7 +266,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009602116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009602116",
         "name": "\u00a7 12a",
         "title": "(weggefallen)",
         "parent": {
@@ -299,7 +279,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003005116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003005116",
         "name": "\u00a7 13",
         "title": "Weitere Formen der epidemiologischen \u00dcberwachung; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -313,7 +292,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003106116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003106116",
         "name": "\u00a7 14",
         "title": "Elektronisches Melde- und Informationssystem; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -327,7 +305,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003202310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003202310",
         "name": "\u00a7 15",
         "title": "Anpassung der Meldepflicht an die epidemische Lage",
         "parent": {
@@ -341,7 +318,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE010000116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE010000116",
         "name": "\u00a7 15a",
         "title": "Durchf\u00fchrung der infektionshygienischen und hygienischen \u00dcberwachung",
         "parent": {
@@ -355,7 +331,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000400310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000400310",
         "name": "4. Abschnitt",
         "title": "Verh\u00fctung \u00fcbertragbarer Krankheiten",
         "parent": null,
@@ -365,7 +340,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003303116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003303116",
         "name": "\u00a7 16",
         "title": "Allgemeine Ma\u00dfnahmen zur Verh\u00fctung \u00fcbertragbarer Krankheiten",
         "parent": {
@@ -379,7 +353,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003402116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003402116",
         "name": "\u00a7 17",
         "title": "Besondere Ma\u00dfnahmen zur Verh\u00fctung \u00fcbertragbarer Krankheiten, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -393,7 +366,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003512116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003512116",
         "name": "\u00a7 18",
         "title": "Beh\u00f6rdlich angeordnete Ma\u00dfnahmen zur Desinfektion und zur Bek\u00e4mpfung von Gesundheitssch\u00e4dlingen, Kr\u00e4tzmilben und Kopfl\u00e4usen; Verordnungserm\u00e4chtigungen",
         "parent": {
@@ -407,7 +379,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003602116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003602116",
         "name": "\u00a7 19",
         "title": "Aufgaben des Gesundheitsamtes in besonderen F\u00e4llen",
         "parent": {
@@ -421,7 +392,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003705116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003705116",
         "name": "\u00a7 20",
         "title": "Schutzimpfungen und andere Ma\u00dfnahmen der spezifischen Prophylaxe",
         "parent": {
@@ -435,7 +405,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003801116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003801116",
         "name": "\u00a7 21",
         "title": "Impfstoffe",
         "parent": {
@@ -449,7 +418,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE003903116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE003903116",
         "name": "\u00a7 22",
         "title": "Impfdokumentation",
         "parent": {
@@ -463,7 +431,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004008116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004008116",
         "name": "\u00a7 23",
         "title": "Nosokomiale Infektionen; Resistenzen; Rechtsverordnungen durch die L\u00e4nder",
         "parent": {
@@ -477,7 +444,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009703116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009703116",
         "name": "\u00a7 23a",
         "title": "Personenbezogene Daten \u00fcber den Impf- und Serostatus von Besch\u00e4ftigten",
         "parent": {
@@ -491,7 +457,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000500310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000500310",
         "name": "5. Abschnitt",
         "title": "Bek\u00e4mpfung \u00fcbertragbarer Krankheiten",
         "parent": null,
@@ -501,7 +466,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004101116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004101116",
         "name": "\u00a7 24",
         "title": "Feststellung und Heilbehandlung \u00fcbertragbarer Krankheiten, Verordnungserm\u00e4chtigung",
         "parent": {
@@ -515,7 +479,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004206116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004206116",
         "name": "\u00a7 25",
         "title": "Ermittlungen",
         "parent": {
@@ -529,7 +492,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004301116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004301116",
         "name": "\u00a7 26",
         "title": "Teilnahme des behandelnden Arztes",
         "parent": {
@@ -543,7 +505,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004403116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004403116",
         "name": "\u00a7 27",
         "title": "Gegenseitige Unterrichtung",
         "parent": {
@@ -557,7 +518,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004503116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004503116",
         "name": "\u00a7 28",
         "title": "Schutzma\u00dfnahmen",
         "parent": {
@@ -571,7 +531,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004603116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004603116",
         "name": "\u00a7 29",
         "title": "Beobachtung",
         "parent": {
@@ -585,7 +544,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004703116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004703116",
         "name": "\u00a7 30",
         "title": "Absonderung",
         "parent": {
@@ -599,7 +557,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004800310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004800310",
         "name": "\u00a7 31",
         "title": "Berufliches T\u00e4tigkeitsverbot",
         "parent": {
@@ -613,7 +570,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE004900310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE004900310",
         "name": "\u00a7 32",
         "title": "Erlass von Rechtsverordnungen",
         "parent": {
@@ -627,7 +583,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000601116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000601116",
         "name": "6. Abschnitt",
         "title": "Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen",
         "parent": null,
@@ -637,7 +592,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005001116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005001116",
         "name": "\u00a7 33",
         "title": "Gemeinschaftseinrichtungen",
         "parent": {
@@ -651,7 +605,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005102116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005102116",
         "name": "\u00a7 34",
         "title": "Gesundheitliche Anforderungen, Mitwirkungspflichten, Aufgaben des Gesundheitsamtes",
         "parent": {
@@ -665,7 +618,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005200310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005200310",
         "name": "\u00a7 35",
         "title": "Belehrung f\u00fcr Personen in der Betreuung von Kindern\nund Jugendlichen",
         "parent": {
@@ -679,7 +631,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005305116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005305116",
         "name": "\u00a7 36",
         "title": "Infektionsschutz bei bestimmten Einrichtungen, Unternehmen und Personen; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -693,7 +644,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000700310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000700310",
         "name": "7. Abschnitt",
         "title": "Wasser",
         "parent": null,
@@ -703,7 +653,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005402116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005402116",
         "name": "\u00a7 37",
         "title": "Beschaffenheit von Wasser f\u00fcr den menschlichen Gebrauch sowie von Wasser zum Schwimmen oder Baden in Becken oder Teichen, \u00dcberwachung",
         "parent": {
@@ -717,7 +666,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005514116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005514116",
         "name": "\u00a7 38",
         "title": "Erlass von Rechtsverordnungen",
         "parent": {
@@ -731,7 +679,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005606116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005606116",
         "name": "\u00a7 39",
         "title": "Untersuchungen, Ma\u00dfnahmen der zust\u00e4ndigen Beh\u00f6rde",
         "parent": {
@@ -745,7 +692,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005704116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005704116",
         "name": "\u00a7 40",
         "title": "Aufgaben des Umweltbundesamtes",
         "parent": {
@@ -759,7 +705,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005801116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005801116",
         "name": "\u00a7 41",
         "title": "Abwasser",
         "parent": {
@@ -773,7 +718,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000800310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000800310",
         "name": "8. Abschnitt",
         "title": "Gesundheitliche Anforderungen\nan das Personal beim Umgang mit Lebensmitteln",
         "parent": null,
@@ -783,7 +727,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE005903116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE005903116",
         "name": "\u00a7 42",
         "title": "T\u00e4tigkeits- und Besch\u00e4ftigungsverbote",
         "parent": {
@@ -797,7 +740,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006004116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006004116",
         "name": "\u00a7 43",
         "title": "Belehrung, Bescheinigung des Gesundheitsamtes",
         "parent": {
@@ -811,7 +753,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG000900310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG000900310",
         "name": "9. Abschnitt",
         "title": "T\u00e4tigkeiten mit\nKrankheitserregern",
         "parent": null,
@@ -821,7 +762,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006100310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006100310",
         "name": "\u00a7 44",
         "title": "Erlaubnispflicht f\u00fcr T\u00e4tigkeiten mit\nKrankheitserregern",
         "parent": {
@@ -835,7 +775,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006201116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006201116",
         "name": "\u00a7 45",
         "title": "Ausnahmen",
         "parent": {
@@ -849,7 +788,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006300310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006300310",
         "name": "\u00a7 46",
         "title": "T\u00e4tigkeit unter Aufsicht",
         "parent": {
@@ -863,7 +801,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006400310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006400310",
         "name": "\u00a7 47",
         "title": "Versagungsgr\u00fcnde, Voraussetzungen f\u00fcr die\nErlaubnis",
         "parent": {
@@ -877,7 +814,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006500310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006500310",
         "name": "\u00a7 48",
         "title": "R\u00fccknahme und Widerruf",
         "parent": {
@@ -891,7 +827,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006600310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006600310",
         "name": "\u00a7 49",
         "title": "Anzeigepflichten",
         "parent": {
@@ -905,7 +840,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006700310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006700310",
         "name": "\u00a7 50",
         "title": "Ver\u00e4nderungsanzeige",
         "parent": {
@@ -919,7 +853,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009900116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009900116",
         "name": "\u00a7 50a",
         "title": "Laborcontainment und Ausrottung des Poliovirus; Verordnungserm\u00e4chtigung",
         "parent": {
@@ -933,7 +866,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006801116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006801116",
         "name": "\u00a7 51",
         "title": "Aufsicht",
         "parent": {
@@ -947,7 +879,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE006901116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE006901116",
         "name": "\u00a7 52",
         "title": "Abgabe",
         "parent": {
@@ -961,7 +892,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007004116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007004116",
         "name": "\u00a7 53",
         "title": "Anforderungen an R\u00e4ume und Einrichtungen, Gefahrenvorsorge",
         "parent": {
@@ -975,7 +905,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009500310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009500310",
         "name": "\u00a7 53a",
         "title": "Verfahren \u00fcber eine einheitliche Stelle, Entscheidungsfrist",
         "parent": {
@@ -989,7 +918,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG001001116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001001116",
         "name": "10. Abschnitt",
         "title": "Vollzug des Gesetzes und zust\u00e4ndige Beh\u00f6rden",
         "parent": null,
@@ -999,7 +927,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007102116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007102116",
         "name": "\u00a7 54",
         "title": "Vollzug durch die L\u00e4nder",
         "parent": {
@@ -1013,7 +940,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE010300116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE010300116",
         "name": "\u00a7 54a",
         "title": "Vollzug durch die Bundeswehr",
         "parent": {
@@ -1027,7 +953,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE010400116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE010400116",
         "name": "\u00a7 54b",
         "title": "Vollzug durch das Eisenbahn-Bundesamt",
         "parent": {
@@ -1041,7 +966,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG001100310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001100310",
         "name": "11. Abschnitt",
         "title": "Angleichung an Gemeinschaftsrecht",
         "parent": null,
@@ -1051,7 +975,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007200310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007200310",
         "name": "\u00a7 55",
         "title": "Angleichung an Gemeinschaftsrecht",
         "parent": {
@@ -1065,7 +988,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG001200310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001200310",
         "name": "12. Abschnitt",
         "title": "Entsch\u00e4digung in besonderen F\u00e4llen",
         "parent": null,
@@ -1075,7 +997,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007312116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007312116",
         "name": "\u00a7 56",
         "title": "Entsch\u00e4digung",
         "parent": {
@@ -1089,7 +1010,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007401116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007401116",
         "name": "\u00a7 57",
         "title": "Verh\u00e4ltnis zur Sozialversicherung und zur Arbeitsf\u00f6rderung",
         "parent": {
@@ -1103,7 +1023,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007501116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007501116",
         "name": "\u00a7 58",
         "title": "Aufwendungserstattung",
         "parent": {
@@ -1117,7 +1036,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007600310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007600310",
         "name": "\u00a7 59",
         "title": "Sondervorschrift f\u00fcr Ausscheider",
         "parent": {
@@ -1131,7 +1049,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007701377",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007701377",
         "name": "\u00a7 60",
         "title": "Versorgung bei Impfschaden und bei Gesundheitssch\u00e4den durch andere Ma\u00dfnahmen der spezifischen Prophylaxe",
         "parent": {
@@ -1145,7 +1062,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007801310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007801310",
         "name": "\u00a7 61",
         "title": "Gesundheitsschadensanerkennung",
         "parent": {
@@ -1159,7 +1075,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE007900310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE007900310",
         "name": "\u00a7 62",
         "title": "Heilbehandlung",
         "parent": {
@@ -1173,7 +1088,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008004310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008004310",
         "name": "\u00a7 63",
         "title": "Konkurrenz von Anspr\u00fcchen, Anwendung der Vorschriften nach dem Bundesversorgungsgesetz, \u00dcbergangsregelungen zum Erstattungsverfahren an die Krankenkassen",
         "parent": {
@@ -1187,7 +1101,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008100310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008100310",
         "name": "\u00a7 64",
         "title": "Zust\u00e4ndige Beh\u00f6rde f\u00fcr die Versorgung",
         "parent": {
@@ -1201,7 +1114,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008200310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008200310",
         "name": "\u00a7 65",
         "title": "Entsch\u00e4digung bei beh\u00f6rdlichen Ma\u00dfnahmen",
         "parent": {
@@ -1215,7 +1127,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008302116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008302116",
         "name": "\u00a7 66",
         "title": "Zahlungsverpflichteter",
         "parent": {
@@ -1229,7 +1140,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008400310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008400310",
         "name": "\u00a7 67",
         "title": "Pf\u00e4ndung",
         "parent": {
@@ -1243,7 +1153,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008500310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008500310",
         "name": "\u00a7 68",
         "title": "Rechtsweg",
         "parent": {
@@ -1257,7 +1166,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG001300310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001300310",
         "name": "13. Abschnitt",
         "title": "Kosten",
         "parent": null,
@@ -1267,7 +1175,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008610116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008610116",
         "name": "\u00a7 69",
         "title": "Kosten",
         "parent": {
@@ -1281,7 +1188,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG001400310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001400310",
         "name": "14. Abschnitt",
         "title": "Sondervorschriften",
         "parent": null,
@@ -1291,7 +1197,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008702116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008702116",
         "name": "\u00a7 70",
         "title": "(weggefallen)",
         "parent": {
@@ -1305,7 +1210,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008802116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008802116",
         "name": "\u00a7 71",
         "title": "(weggefallen)",
         "parent": {
@@ -1319,7 +1223,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE008901116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE008901116",
         "name": "\u00a7 72",
         "title": "(weggefallen)",
         "parent": {
@@ -1333,7 +1236,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG001501116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001501116",
         "name": "14. Abschnitt",
         "title": "Straf- und Bu\u00dfgeldvorschriften",
         "parent": {
@@ -1346,7 +1248,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009008116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009008116",
         "name": "\u00a7 73",
         "title": "Bu\u00dfgeldvorschriften",
         "parent": {
@@ -1360,7 +1261,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009103116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009103116",
         "name": "\u00a7 74",
         "title": "Strafvorschriften",
         "parent": {
@@ -1374,7 +1274,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009201116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009201116",
         "name": "\u00a7 75",
         "title": "Weitere Strafvorschriften",
         "parent": {
@@ -1388,7 +1287,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009300310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009300310",
         "name": "\u00a7 76",
         "title": "Einziehung",
         "parent": {
@@ -1402,7 +1300,6 @@
       {
         "type": "heading",
         "id": "BJNR104510000BJNG001601116",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNG001601116",
         "name": "15. Abschnitt",
         "title": "\u00dcbergangsvorschriften",
         "parent": null,
@@ -1412,7 +1309,6 @@
       {
         "type": "article",
         "id": "BJNR104510000BJNE009400310",
-        "url": "https://api.rechtsinformationsportal.de/v1/laws/ifsg/articles/BJNR104510000BJNE009400310",
         "name": "\u00a7 77",
         "title": "\u00dcbergangsvorschriften",
         "parent": {
