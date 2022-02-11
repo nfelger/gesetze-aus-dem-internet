@@ -12,6 +12,7 @@ wheel = "*"
 [packages]
 lxml = "*"
 pydantic = "*"
+pyhumps = "*"
 invoke = "*"
 sqlalchemy = "*"
 psycopg2-binary = "*"
