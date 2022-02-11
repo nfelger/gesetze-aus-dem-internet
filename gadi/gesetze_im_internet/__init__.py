@@ -160,7 +160,7 @@ def write_all_law_json_files(session, dir_path):
     _write_gzipped_file(f"{dir_path}/all_laws.json.gz", json.dumps({'data': all_laws}, indent=2))
 
 
-def write_law_json_file(session, law, dir_path):
+def write_law_json_file(law, dir_path):
     filepath = f"{dir_path}/{law.slug}.json"
     law_schema = api_schemas.LawAllFields.from_orm_model(law, include_contents=True)
     response = api_schemas.LawResponse(data=law_schema)
