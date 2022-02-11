@@ -167,14 +167,13 @@ def write_law_json_file(law, dir_path):
     _write_file(filepath, response.json(indent=2))
 
 
-def generate_bulk_law_files(session):
+def generate_bulk_law_files(session, output_dir):
     tarfilename = "all_laws.tar.gz"
-    dir_path = "."
 
     print("Generating json files")
-    write_all_law_json_files(session, dir_path)
+    write_all_law_json_files(session, output_dir)
 
     print("Creating tarball")
-    tarfilepath = f"{dir_path}/{tarfilename}"
+    tarfilepath = f"{output_dir}/{tarfilename}"
     with tarfile.open(tarfilepath, "w:gz") as tf:
-        tf.add(dir_path + "/laws", arcname="laws")
+        tf.add(output_dir + "/laws", arcname="laws")

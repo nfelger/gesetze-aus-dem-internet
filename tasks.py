@@ -130,12 +130,12 @@ ns.add_collection(Collection(
 # Deployment-related tasks
 
 @task
-def generate_bulk_law_files(c):
+def generate_bulk_law_files(c, output_dir):
     """
     Generate and upload bulk law files.
     """
     with db.session_scope() as session:
-        gesetze_im_internet.generate_bulk_law_files(session)
+        gesetze_im_internet.generate_bulk_law_files(session, output_dir)
 
 
 ns.add_collection(Collection(
