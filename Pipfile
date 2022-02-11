@@ -12,7 +12,6 @@ wheel = "*"
 [packages]
 lxml = "*"
 pydantic = "*"
-pyhumps = "*"
 invoke = "*"
 sqlalchemy = "*"
 psycopg2-binary = "*"
@@ -20,6 +19,7 @@ tqdm = "*"
 requests = "*"
 alembic = "*"
 sqlalchemy-utils = "*"
+declxml = "*"
 
 [requires]
 python_version = "3.8"
