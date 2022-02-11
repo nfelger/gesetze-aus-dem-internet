@@ -70,7 +70,6 @@ jobs:
         DB_URI: postgresql://postgres:secret@postgres:5432/gadi
 
     - name: Deploy to Github Pages
-      uses: JamesIves/github-pages-deploy-action@v4.2.3
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        branch: gh-pages
-        folder: dist
+        publish_dir: $OUTPUT_DIR
