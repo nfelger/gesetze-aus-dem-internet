@@ -7,20 +7,6 @@ from sqlalchemy.orm import load_only, sessionmaker, aliased
 
 from .models import Base, Law
 
-# There's big variety in how paragraph names are formatted. This rule captures 88% of them as of 2020-10-01.
-ARTICLE_NUM_REGEX = re.compile(
-    # Optional article identifier, optionally followed by a space,
-    r'((§|art|artikel|nr) ?)?'
-    # and:
-    # 1) bare numbers ("13"),
-    # 2) roman numerals below 50 ("XIV"),
-    # 3) 1/2 may be followed by 1 or 2 letters ("224b", "13mb")
-    # 4) 1/2/3 may be followed by a single dot ("3.", "IX.", "7c.")
-    # 5) two groups of 1/2/3 may be joined by a single dot in the middle ("12.31", "4a.03")
-    r'(?P<article_num>([\dIVX]+\w{0,2}\.?){1,2})',
-    re.IGNORECASE
-)
-
 db_uri = os.environ.get("DB_URI") or "postgresql://localhost:5432/gadi"
 _engine = create_engine(db_uri)
 Session = sessionmaker(bind=_engine)
