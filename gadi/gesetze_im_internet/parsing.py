@@ -71,6 +71,12 @@ def _content_string_hooks_after_parse(_, text):
 
 content_string_hooks = xml.Hooks(after_parse=_content_string_hooks_after_parse)
 
+text_processor = xml.dictionary("textdaten/text", [
+        node_as_string("Content", required=False, hooks=content_string_hooks),
+        node_as_string("TOC", required=False, default=None),
+        node_as_string("Footnotes", required=False, default=None),
+    ], required=False, alias="text")
+
 header_norm_processor = xml.dictionary("norm", [
     xml.array(xml.string("metadaten/jurabk", alias="jurabk")),
     xml.array(xml.string("metadaten/amtabk", alias="amtabk", required=False)),
@@ -79,11 +85,7 @@ header_norm_processor = xml.dictionary("norm", [
     xml.string(".", attribute="builddate", alias="source_timestamp"),
     node_as_string("metadaten/langue", alias="title_long"),
     node_as_string("metadaten/kurzue", alias="title_short", required=False, default=None),
-    xml.dictionary("textdaten/text", [
-        node_as_string("Content", required=False, hooks=content_string_hooks),
-        node_as_string("TOC", required=False, default=None),
-        node_as_string("Footnotes", required=False, default=None),
-    ], required=False, alias="text"),
+    text_processor,
     xml.array(xml.dictionary("metadaten/fundstelle", [
         xml.string("periodikum", alias="periodical"),
         xml.string("zitstelle", alias="reference")
@@ -95,71 +97,18 @@ header_norm_processor = xml.dictionary("norm", [
     node_as_string("textdaten/fussnoten/Content", required=False, default=None, alias="notes_documentary_footnotes", hooks=content_string_hooks),
 ])
 
-
-def _text(elements, multi=False):
-    def _element_text_with_tags(element):
-        """Preserve XML tags in the returned text string."""
-        return "".join(
-            itertools.chain([element.text or ""], (etree.tostring(child, encoding="unicode") for child in element))
-        ).strip()
-
-    if elements is None or len(elements) == 0:
-        return None
-
-    values = [_element_text_with_tags(el) for el in elements]
-
-    if multi:
-        return values
-
-    assert len(values) == 1, f"Multiple values found but not requested: {values}"
-    return values[0].strip() or None
-
-
-def _parse_section_info(norm):
-    if not norm.xpath("metadaten/gliederungseinheit"):
-        return None
-
-    return {
-        "code": _text(norm.xpath("metadaten/gliederungseinheit/gliederungskennzahl")),
-        "name": _text(norm.xpath("metadaten/gliederungseinheit/gliederungsbez")),
-        "title": _text(norm.xpath("metadaten/gliederungseinheit/gliederungstitel"))
-    }
-
-
-def _parse_text(norm):
-    elements = norm.xpath("textdaten/text")
-
-    if not elements:
-        return {}
-
-    assert len(elements) == 1, 'Found multiple elements matching "textdaten/text"'
-    text = elements[0]
-
-    text_format = text.get("format")
-    if text_format == "decorated":
-        assert _text(text) is None, "Found text[@format=decorated] with unexpected text content."
-        return {}
-
-    assert text_format == "XML", f'Unknown text format {text["format"]}'
-
-    content = _parse_text_content(text.xpath("Content"))
-    toc = _text(text.xpath("TOC"))
-    assert not (content and toc), "Found norm with both TOC and Content."
-
-    data = {"body": content or toc, "footnotes": _text(text.xpath("Footnotes"))}
-
-    return data
-
-
-def _parse_text_content(content):
-    text_content = _text(content)
-    if not text_content or any(text_content.strip() == p for p in EMPTY_CONTENT_PATTERNS):
-        return None
-    return text_content
-
-
-def _parse_documentary_footnotes(norm):
-    return _parse_text_content(norm.xpath("textdaten/fussnoten/Content"))
+body_norm_processor = xml.dictionary("norm", [
+    xml.string(".", attribute="doknr"),
+    text_processor,
+    node_as_string("textdaten/fussnoten/Content", required=False, default=None, alias="documentary_footnotes", hooks=content_string_hooks),
+    xml.string("metadaten/enbez", alias="name", required=False, default=None),
+    node_as_string("metadaten/titel", alias="title", required=False, default=None, hooks=content_string_hooks),
+    xml.dictionary("metadaten/gliederungseinheit", [
+        xml.string("gliederungskennzahl", alias="code"),
+        xml.string("gliederungsbez", alias="name"),
+        node_as_string("gliederungstitel", alias="title", required=False, default=None, hooks=content_string_hooks),
+    ], required=False, alias="section_info")
+])
 
 
 def load_norms_from_file(file_or_filepath):
@@ -172,16 +121,23 @@ def load_norms_from_file(file_or_filepath):
     return doc.xpath("/dokumente/norm")
 
 
-def apply_transformer(dict, keys, transform_func):
-    args = [dict.pop(key) for key in keys]
+def apply_transformer(dict, transform_func, replace=None, read=None):
+    args = [dict.pop(key) for key in replace or []] + [dict[key] for key in read or []]
     new_entries = transform_func(*args)
     dict.update(new_entries)
 
 
-def transform_text(text_dict):
+def transform_notes_text(text_dict):
     return {
         "notes_body": text_dict.get("Content") or text_dict.get("TOC"),
         "notes_footnotes": text_dict.get("Footnotes")
+    }
+
+
+def transform_text(text_dict):
+    return {
+        "body": text_dict.get("Content") or text_dict.get("TOC"),
+        "footnotes": text_dict.get("Footnotes")
     }
 
 
@@ -193,97 +149,93 @@ def transform_abbreviations(amtabk, jurabk):
     }
 
 
+def transform_item_type(doknr, body):
+    if "NE" in doknr:
+        return { "item_type": "article" }
+    elif "NG" in doknr:
+        if body:
+            return { "item_type": "heading_article" }
+        else:
+            return { "item_type": "heading" }
+    else:
+        raise Exception(f"Unknown norm structure encountered: {doknr}")
+
+
+def transform_name_and_title(section_info, name, title, item_type):
+    if item_type == "article":
+        return {
+            "name": name,
+            "title": title,
+        }
+    else:
+        return {
+            "name": section_info["name"],
+            "title": section_info["title"],
+        }
+
+
+def _find_parent(sections_by_code, code):
+    """
+    Search by iteratively removing 3 digits from the end of the code to find a
+    match among already-added sections.
+    """
+    chunks = chunk_string(code, 3)
+    for i in reversed(range(len(chunks) + 1)):
+        substring = "".join(chunks[:i])
+        if sections_by_code.get(substring):
+            return sections_by_code[substring]
+    return None
+
+
+def _set_parent(item, parser_state):
+    code = item["section_info"] and item["section_info"]["code"]
+
+    if item["item_type"] == "article":
+        if code:
+            item["parent"] = _find_parent(parser_state["sections_by_code"], code)
+        else:
+            item["parent"] = parser_state["current_parent"]
+
+    else:
+        item["parent"] = _find_parent(parser_state["sections_by_code"], code)
+        parser_state["sections_by_code"][code] = parser_state["current_parent"] = item
+
+    if item["parent"]:
+        parser_state["items_with_children"].add(item["parent"]["doknr"])
+
+
 def extract_law_attrs(header_norm):
     law_dict = xml.parse_from_string(header_norm_processor, etree.tostring(header_norm, encoding="unicode"))
     apply_transformer(
-        law_dict, ["text"], transform_text
+        law_dict, transform_notes_text, replace=["text"]
     )
     apply_transformer(
-        law_dict, ["amtabk", "jurabk"], transform_abbreviations
+        law_dict, transform_abbreviations, replace=["amtabk", "jurabk"]
     )
 
     return law_dict
 
 
 def extract_contents(body_norms):
-    def _extract_common_attrs(norm):
-        text = _parse_text(norm)
-        return {
-            "doknr": norm.get("doknr"),
-            "body": text.get("body"),
-            "footnotes": text.get("footnotes"),
-            "documentary_footnotes": _parse_documentary_footnotes(norm)
-        }
-
-    def _set_item_type(item, norm):
-        if "NE" in item["doknr"]:
-            item["item_type"] = "article"
-        elif "NG" in item["doknr"]:
-            if item["body"]:
-                item["item_type"] = "heading_article"
-            else:
-                item["item_type"] = "heading"
-        else:
-            raise Exception(f"Unknown norm structure encountered: {etree.tostring(norm)}")
-
-    def _set_name_and_title(item, norm):
-        section_info = _parse_section_info(norm)
-
-        if "NE" in item["doknr"]:
-            item.update({
-                "name": _text(norm.xpath("metadaten/enbez")),
-                "title": _text(norm.xpath("metadaten/titel"))
-            })
-        elif "NG" in item["doknr"]:
-            item.update({
-                "name": section_info["name"],
-                "title": section_info["title"]
-            })
-        else:
-            raise Exception(f"Unknown norm structure encountered: {etree.tostring(norm)}")
-
-    def _find_parent(sections_by_code, code):
-        """
-        Search by iteratively removing 3 digits from the end of the code to find a
-        match among already-added sections.
-        """
-        chunks = chunk_string(code, 3)
-        for i in reversed(range(len(chunks) + 1)):
-            substring = "".join(chunks[:i])
-            if sections_by_code.get(substring):
-                return sections_by_code[substring]
-        return None
-
-    def _set_parent(item, norm, parser_state):
-        section_info = _parse_section_info(norm)
-        code = section_info and section_info["code"]
-
-        if "NE" in item["doknr"]:
-            if code:
-                item["parent"] = _find_parent(parser_state["sections_by_code"], code)
-            else:
-                item["parent"] = parser_state["current_parent"]
-
-        elif "NG" in item["doknr"]:
-            item["parent"] = _find_parent(parser_state["sections_by_code"], code)
-            parser_state["sections_by_code"][code] = parser_state["current_parent"] = item
-
-        if item["parent"]:
-            parser_state["items_with_children"].add(item["parent"]["doknr"])
-
-    content_items = []
-
     parser_state = {
         "current_parent": None,
         "sections_by_code": {"": None},
         "items_with_children": set(),
     }
 
+    content_items = []
     for norm in body_norms:
-        item = _extract_common_attrs(norm)
-        _set_item_type(item, norm)
-        _set_name_and_title(item, norm)
-        _set_parent(item, norm, parser_state)
+        item = xml.parse_from_string(body_norm_processor, etree.tostring(norm, encoding="unicode"))
+        apply_transformer(
+            item, transform_text, replace=["text"],
+        )
+        apply_transformer(
+            item, transform_item_type, read=["doknr", "body"]
+        )
+        _set_parent(item, parser_state)
+        apply_transformer(
+            item, transform_name_and_title, replace=["section_info", "name", "title"], read=["item_type"]
+        )
         content_items.append(item)
 
     # Convert empty heading articles to articles
