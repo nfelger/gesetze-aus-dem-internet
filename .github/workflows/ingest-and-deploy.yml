@@ -1,0 +1,76 @@
+name: Ingest and Deploy
+
+on:
+  workflow_dispatch:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '30 2 * * *'
+
+env:
+  DATA_DIR: ./data
+  OUTPUT_DIR: ./dist
+
+jobs:
+  ingest-and-deploy:
+    runs-on: ubuntu-latest
+    container: python:3.8
+
+    services:
+      postgres:
+        image: postgres:12-alpine
+        env:
+          POSTGRES_PASSWORD: secret
+          POSTGRES_DB: gadi
+        # Set health checks to wait until postgres has started
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies
+      run: |
+        pip install pipenv
+        pipenv install --dev
+
+    - name: Set up database
+      run: |
+        pipenv run invoke database.init
+      env:
+        DB_URI: postgresql://postgres:secret@postgres:5432/gadi
+
+    - name: Cache downloaded data
+      uses: actions/cache@v2
+      with:
+        path: ${{ env.DATA_DIR }}
+        key: downloaded-files
+
+    - name: Download laws
+      run: |
+        pipenv run invoke ingest.download-laws $DATA_DIR
+
+    - name: Ingest data
+      run: |
+        pipenv run invoke ingest.ingest-data $DATA_DIR
+      env:
+        DB_URI: postgresql://postgres:secret@postgres:5432/gadi
+
+    - name: Generate JSON files
+      run: |
+        pipenv run invoke deploy.generate-bulk-law-files $OUTPUT_DIR
+      env:
+        DB_URI: postgresql://postgres:secret@postgres:5432/gadi
+
+    - name: Deploy to Github Pages
+      uses: JamesIves/github-pages-deploy-action@v4.2.3
+      with:
+        branch: gh-pages
+        folder: dist
