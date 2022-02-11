@@ -172,20 +172,35 @@ def load_norms_from_file(file_or_filepath):
     return doc.xpath("/dokumente/norm")
 
 
+def apply_transformer(dict, keys, transform_func):
+    args = [dict.pop(key) for key in keys]
+    new_entries = transform_func(*args)
+    dict.update(new_entries)
+
+
+def transform_text(text_dict):
+    return {
+        "notes_body": text_dict.get("Content") or text_dict.get("TOC"),
+        "notes_footnotes": text_dict.get("Footnotes")
+    }
+
+
+def transform_abbreviations(amtabk, jurabk):
+    primary, *rest = list(dict.fromkeys(amtabk + jurabk))
+    return {
+        "abbreviation": primary,
+        "extra_abbreviations": rest,
+    }
+
+
 def extract_law_attrs(header_norm):
     law_dict = xml.parse_from_string(header_norm_processor, etree.tostring(header_norm, encoding="unicode"))
-
-    # post-process text
-    law_dict["notes_body"] = law_dict["text"].get("Content") or law_dict["text"].get("TOC")
-    law_dict["notes_footnotes"] = law_dict["text"].get("Footnotes")
-    del law_dict["text"]
-
-    # post-process abbreviations
-    primary, *rest = list(dict.fromkeys(law_dict["amtabk"] + law_dict["jurabk"]))
-    law_dict["abbreviation"] = primary
-    law_dict["extra_abbreviations"] = rest
-    del law_dict["amtabk"]
-    del law_dict["jurabk"]
+    apply_transformer(
+        law_dict, ["text"], transform_text
+    )
+    apply_transformer(
+        law_dict, ["amtabk", "jurabk"], transform_abbreviations
+    )
 
     return law_dict
 
