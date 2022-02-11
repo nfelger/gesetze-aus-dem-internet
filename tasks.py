@@ -130,7 +130,7 @@ ns.add_collection(Collection(
 # Deployment-related tasks
 
 @task
-def update_bulk_law_files(c):
+def generate_bulk_law_files(c):
     """
     Generate and upload bulk law files.
     """
@@ -140,5 +140,5 @@ def update_bulk_law_files(c):
 
 ns.add_collection(Collection(
     'deploy',
-    update_bulk_law_files=update_bulk_law_files,
+    generate_bulk_law_files=generate_bulk_law_files,
 ))
