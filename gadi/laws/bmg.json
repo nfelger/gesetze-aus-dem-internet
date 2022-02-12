@@ -1,0 +1,921 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR108410013",
+    "firstPublished": "2013-05-03",
+    "sourceTimestamp": "20210921213516",
+    "titleShort": null,
+    "titleLong": "Bundesmeldegesetz",
+    "abbreviation": "BMG",
+    "slug": "bmg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2013, 1084",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 7 G v. 15.1.2021 I 530",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 4 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "Mittelbare \u00c4nderung durch Art. 15 Nr. 6 G v. 30.3.2021 I 448 ist ber\u00fccksichtigt",
+        "category": "Sonst"
+      },
+      {
+        "comment": "Mittelbare \u00c4nderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausf\u00fchrbar, da das ge\u00e4nderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren \u00c4nderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.11.2015 +++)<BR /><BR /></pre>Das G wurde als Artikel 1 G v. 3.5.2013 I 1084 vom Bundestag mit Zustimmung des  Bundesrates beschlossen. Es tritt gem. Art. 4 Satz 1 idF d. Art. 1 Nr. 3 G v. 20.11.2014 I 1738 am 1.11.2015 in Kraft, abweichend hiervon treten die \u00a7\u00a7 55 bis 57 des G gem. Art. 4 Satz 2 idF d. Art. 1 Nr. 3 G v. 20.11.2014 I 1738 am 26.11.2014 in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000103360",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<TOC><Ident Class=\"S2\">Abschnitt 1</Ident><Title Align=\"auto\" Class=\"S2\">Allgemeine Bestimmungen</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Meldebeh\u00f6rden</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Aufgaben und Befugnisse der Meldebeh\u00f6rden</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Speicherung von Daten</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Ordnungsmerkmale</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Zweckbindung der Daten</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Richtigkeit und Vollst\u00e4ndigkeit des Melderegisters</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">Meldegeheimnis</entry></row></tbody></tgroup></table><P /><Ident Class=\"S2\">Abschnitt 2</Ident><Title Align=\"auto\" Class=\"S2\">Schutzrechte</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 \u00a08</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Schutzw\u00fcrdige Interessen der betroffenen Person</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">(weggefallen)</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Auskunftsrecht der betroffenen Person</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Auskunftsbeschr\u00e4nkungen</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Recht auf Berichtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Aufbewahrung von Daten</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">L\u00f6schung von Daten</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Aufbewahrung und L\u00f6schung von Hinweisen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Anbieten von Daten an Archive</entry></row></tbody></tgroup></table><P /><Ident Class=\"S2\">Abschnitt 3</Ident><Title Align=\"auto\" Class=\"S2\">Allgemeine Meldepflichten</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 17</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Anmeldung, Abmeldung</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 18</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Meldebescheinigung</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 19</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Mitwirkung des Wohnungsgebers</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 20</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Begriff der Wohnung</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 21</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Mehrere Wohnungen</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 22</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Bestimmung der Hauptwohnung</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 23</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Erf\u00fcllung der allgemeinen Meldepflicht</entry></row><row><entry VJ=\"1\">\u00a7 23a</entry><entry VJ=\"1\">Elektronische Anmeldung</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 24</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Datenerhebung, Meldebest\u00e4tigung</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 25</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Mitwirkungspflichten der meldepflichtigen Person</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 26</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Befreiung von der Meldepflicht</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 27</entry><entry VJ=\"1\" colname=\"col2\">Ausnahmen von der Meldepflicht</entry></row></tbody></tgroup></table><P /><Ident Class=\"S2\">Abschnitt 4</Ident><Title Align=\"auto\" Class=\"S2\">Besondere Meldepflichten</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 28</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Besondere Meldepflichten f\u00fcr Binnenschiffer und Seeleute</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 29</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Besondere Meldepflicht in Beherbergungsst\u00e4tten</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 30</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Besondere Meldescheine f\u00fcr Beherbergungsst\u00e4tten</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 31</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Verarbeitungsbeschr\u00e4nkungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 32</entry><entry VJ=\"1\" colname=\"col2\">Besondere Meldepflicht in Krankenh\u00e4usern, Heimen und \u00e4hnlichen Einrichtungen</entry></row></tbody></tgroup></table><P /><Ident Class=\"S2\">Abschnitt 5</Ident><Title Align=\"auto\" Class=\"S2\">Daten\u00fcbermittlungen</Title><P /><Ident Class=\"S0\">Unterabschnitt 1</Ident><Title Align=\"auto\" Class=\"S0\">Daten\u00fcbermittlungen zwischen \u00f6ffentlichen Stellen</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 33</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Daten\u00fcbermittlungen zwischen den Meldebeh\u00f6rden</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 34</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Daten\u00fcbermittlungen an andere \u00f6ffentliche Stellen</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 35</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Daten\u00fcbermittlungen an ausl\u00e4ndische Stellen</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 36</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Regelm\u00e4\u00dfige Daten\u00fcbermittlungen</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 37</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Datenweitergabe</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 38</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Automatisierter Abruf</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 39</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Verfahren des automatisierten Abrufs</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 40</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Protokollierungspflicht bei automatisiertem Abruf</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 41</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Zweckbindung \u00fcbermittelter Daten und Hinweise</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 42</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Daten\u00fcbermittlungen an \u00f6ffentlich-rechtliche Religionsgesellschaften</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 43</entry><entry VJ=\"1\" colname=\"col2\">Daten\u00fcbermittlungen an die Suchdienste</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Unterabschnitt 2</Ident><Title Align=\"auto\" Class=\"S0\">Melderegisterauskunft</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 44</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Einfache Melderegisterauskunft</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 45</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Erweiterte Melderegisterauskunft</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 46</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Gruppenauskunft</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 47</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Zweckbindung der Melderegisterauskunft</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 48</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Melderegisterauskunft f\u00fcr \u00f6ffentlich-rechtliche Rundfunkanstalten</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 49</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Automatisierte Melderegisterauskunft</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 50</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Melderegisterausk\u00fcnfte in besonderen F\u00e4llen</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 51</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Auskunftssperren</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 52</entry><entry VJ=\"1\" colname=\"col2\">Bedingter Sperrvermerk</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Unterabschnitt 3</Ident><Title Align=\"auto\" Class=\"S0\">Zeugenschutz</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 53</entry><entry VJ=\"1\" colname=\"col2\">Zeugenschutz</entry></row></tbody></tgroup></table><P /><Ident Class=\"S2\">Abschnitt 6</Ident><Title Align=\"auto\" Class=\"S2\">Ordnungswidrigkeiten</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 54</entry><entry VJ=\"1\" colname=\"col2\">Bu\u00dfgeldvorschriften</entry></row></tbody></tgroup></table><P /><Ident Class=\"S2\">Abschnitt 7</Ident><Title Align=\"auto\" Class=\"S2\">Sonstige Vorschriften, Schlussvorschriften</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"0.18*\" /><colspec colname=\"col2\" colwidth=\"1.82*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 55</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Regelungsbefugnisse der L\u00e4nder</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 56</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Verordnungserm\u00e4chtigungen</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 57</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Verwaltungsvorschriften</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 58</entry><entry VJ=\"1\" colname=\"col2\">(weggefallen)</entry></row></tbody></tgroup></table></TOC>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000101116",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000201116",
+        "name": "\u00a7 1",
+        "title": "Meldebeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000101116"
+        },
+        "body": "<P>Meldebeh\u00f6rden sind die durch Landesrecht dazu bestimmten Beh\u00f6rden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000302116",
+        "name": "\u00a7 2",
+        "title": "Aufgaben und Befugnisse der Meldebeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000101116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rden haben die in ihrem Zust\u00e4ndigkeitsbereich wohnhaften Personen (Einwohner) zu registrieren, um deren Identit\u00e4t und deren Wohnungen feststellen und nachweisen zu k\u00f6nnen.</P><P>(2) Die Meldebeh\u00f6rden f\u00fchren zur Erf\u00fcllung ihrer Aufgaben Melderegister. Diese enthalten Daten, die bei der betroffenen Person erhoben, von \u00f6ffentlichen Stellen \u00fcbermittelt oder sonst amtlich bekannt werden.</P><P>(3) Die Meldebeh\u00f6rden erteilen Melderegisterausk\u00fcnfte, wirken nach Ma\u00dfgabe dieses Gesetzes oder sonstiger Rechtsvorschriften bei der Durchf\u00fchrung von Aufgaben anderer \u00f6ffentlicher Stellen mit und \u00fcbermitteln Daten.</P><P>(4) Die Meldebeh\u00f6rden d\u00fcrfen personenbezogene Daten, die im Melderegister gespeichert werden, nur nach Ma\u00dfgabe dieses Gesetzes oder sonstiger Rechtsvorschriften verarbeiten. Daten nicht meldepflichtiger Personen d\u00fcrfen nur verarbeitet werden, wenn die betroffene Person in die Datenverarbeitung eingewilligt hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000410360",
+        "name": "\u00a7 3",
+        "title": "Speicherung von Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000101116"
+        },
+        "body": "<P>(1) Zur Erf\u00fcllung ihrer Aufgaben nach \u00a7 2 Absatz 1 und 3 speichern die Meldebeh\u00f6rden folgende Daten sowie die zum Nachweis ihrer Richtigkeit erforderlichen Hinweise im Melderegister: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Namen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname, K\u00fcnstlername,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">keine Eintragung,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">zum gesetzlichen Vertreter <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum sowie</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunftssperren nach \u00a7 51 und bedingte Sperrvermerke nach \u00a7 52,</LA></DD></DL></LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Staatsangeh\u00f6rigkeiten,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">rechtliche Zugeh\u00f6rigkeit zu einer \u00f6ffentlich-rechtlichen Religionsgesellschaft,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Anschriften, fr\u00fchere Anschriften im Zust\u00e4ndigkeitsbereich der Meldebeh\u00f6rde sowie Anschrift der letzten alleinigen Wohnung oder Hauptwohnung und der letzten Nebenwohnungen au\u00dferhalb des Zust\u00e4ndigkeitsbereichs der Meldebeh\u00f6rde, gekennzeichnet nach Haupt- und Nebenwohnung, bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift im Inland, bei Wegzug in das Ausland auch die Zuzugsanschrift im Ausland und den Staat,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum, Auszugsdatum, Datum des letzten Wegzugs aus einer Wohnung im Inland sowie Datum des letzten Zuzugs aus dem Ausland,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienstand, bei Verheirateten oder Lebenspartnern zus\u00e4tzlich Datum und Ort der Eheschlie\u00dfung oder der Begr\u00fcndung der Lebenspartnerschaft sowie bei Eheschlie\u00dfung oder Begr\u00fcndung der Lebenspartnerschaft im Ausland auch den Staat,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">zum Ehegatten oder Lebenspartner <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsname,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Anschriften im Zust\u00e4ndigkeitsbereich der Meldebeh\u00f6rde sowie Anschrift der letzten alleinigen Wohnung oder Hauptwohnung au\u00dferhalb des Zust\u00e4ndigkeitsbereichs der Meldebeh\u00f6rde,</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum sowie</LA></DD><DT>i)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunftssperren nach \u00a7 51 und bedingte Sperrvermerke nach \u00a7 52,</LA></DD></DL></LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu minderj\u00e4hrigen Kindern <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift im Inland,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunftssperren nach \u00a7 51 und bedingte Sperrvermerke nach \u00a7 52,</LA></DD></DL></LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausstellungsbeh\u00f6rde, Ausstellungsdatum, letzter Tag der G\u00fcltigkeitsdauer und Seriennummer des Personalausweises, vorl\u00e4ufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers, Ausstellungsbeh\u00f6rde, letzter Tag der G\u00fcltigkeitsdauer und Seriennummer der eID-Karte sowie Sperrkennwort und Sperrsumme des Personalausweises und der eID-Karte,</LA></DD><DT>17a.</DT><DD Font=\"normal\"><LA Size=\"normal\">die AZR-Nummer in den F\u00e4llen und nach Ma\u00dfgabe des \u00a7 10 Absatz 4 Satz 2 Nummer 4 des AZR-Gesetzes, \u00fcbergangsweise die Seriennummer des Ankunftsnachweises nach \u00a7 63a Absatz 1 Nummer 10 des Asylgesetzes,</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunfts- und \u00dcbermittlungssperren,</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat.</LA></DD></DL></P><P>(2) \u00dcber die in Absatz 1 genannten Daten hinaus speichern die Meldebeh\u00f6rden folgende Daten sowie die zum Nachweis ihrer Richtigkeit erforderlichen Hinweise im Melderegister: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Vorbereitung und Durchf\u00fchrung von Wahlen und Abstimmungen auf staatlicher und kommunaler Ebene die Tatsache, dass die betroffene Person <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">von der Wahlberechtigung oder der W\u00e4hlbarkeit ausgeschlossen ist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">als Unionsb\u00fcrger (\u00a7 6 Absatz 3 Satz 1 des Europawahlgesetzes) bei der Wahl des Europ\u00e4ischen Parlaments von Amts wegen in ein W\u00e4hlerverzeichnis im Inland einzutragen ist; ebenfalls zu speichern ist die Gebietsk\u00f6rperschaft oder der Wahlkreis im Herkunftsmitgliedstaat, wo die betroffene Person zuletzt in ein W\u00e4hlerverzeichnis eingetragen war,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Verfahren zur Bildung und Anwendung der elektronischen Lohnsteuerabzugsmerkmale nach \u00a7 39e Absatz 2 Satz 2 und 3 des Einkommensteuergesetzes <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zugeh\u00f6rigkeit zu einer steuererhebenden Religionsgesellschaft sowie das Datum des Eintritts und Austritts,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">den Familienstand,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Datum der Begr\u00fcndung oder Aufl\u00f6sung der Ehe oder Lebenspartnerschaft sowie</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Identifikationsnummern oder die Vorl\u00e4ufigen Bearbeitungsmerkmale <DL Font=\"normal\" Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Ehegatten oder Lebenspartners,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">der minderj\u00e4hrigen Kinder, die ihre alleinige Wohnung oder ihre Hauptwohnung im Zust\u00e4ndigkeitsbereich derselben Meldebeh\u00f6rde haben,</LA></DD></DL></LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Zwecke nach \u00a7 139b Absatz 2 der Abgabenordnung</LA><LA Size=\"normal\">die Identifikationsnummer nach \u00a7 139b der Abgabenordnung und bis zu deren Speicherung im Melderegister das Vorl\u00e4ufige Bearbeitungsmerkmal nach \u00a7 139b Absatz 6 Satz 2 der Abgabenordnung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Ausstellung von P\u00e4ssen und Ausweisen<BR /> die Tatsache, dass Passversagungsgr\u00fcnde vorliegen, ein Pass versagt oder entzogen oder eine Anordnung nach \u00a7 6 Absatz 7, \u00a7 6a Absatz 1 oder \u00a7 6a Absatz 2 des Personalausweisgesetzes getroffen worden ist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr staatsangeh\u00f6rigkeitsrechtliche Verfahren</LA><LA Size=\"normal\">die Tatsache, dass die deutsche Staatsangeh\u00f6rigkeit nach \u00a7 4 Absatz 3 oder \u00a7 40b des Staatsangeh\u00f6rigkeitsgesetzes erworben wurde und nach \u00a7 29 des Staatsangeh\u00f6rigkeitsgesetzes ein Verlust der deutschen Staatsangeh\u00f6rigkeit eintreten kann,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Zwecke der Suchdienste</LA><LA Size=\"normal\">die Anschrift vom 1. September 1939 derjenigen Einwohner, die aus den in \u00a7 1 Absatz 2 Nummer 3 des Bundesvertriebenengesetzes bezeichneten Gebieten stammen,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr waffenrechtliche Verfahren</LA><LA Size=\"normal\">die Tatsache, dass eine waffenrechtliche Erlaubnis erteilt oder ein Waffenbesitzverbot erlassen worden ist, sowie die jeweilige Beh\u00f6rde, die diese Tatsache mitteilt, mit Angabe des Datums, an dem die waffenrechtliche Erlaubnis erstmals erteilt oder das Waffenbesitzverbot erlassen worden ist,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr sprengstoffrechtliche Verfahren</LA><LA Size=\"normal\">die Tatsache, dass eine sprengstoffrechtliche Erlaubnis oder ein Bef\u00e4higungsschein nach \u00a7 20 des Sprengstoffgesetzes erteilt worden ist, sowie die Beh\u00f6rde, die diese Tatsache mitteilt, mit Angabe des Datums der erstmaligen Erteilung,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Beantwortung von Aufenthaltsanfragen anderer Beh\u00f6rden und sonstiger \u00f6ffentlicher Stellen, wenn der Einwohner die Wohnung aufgegeben hat und der Meldebeh\u00f6rde eine neue Wohnung nicht bekannt ist,</LA><LA Size=\"normal\">das Ersuchen um Daten\u00fcbermittlung mit dem Datum der Anfrage und der Angabe der anfragenden Stelle f\u00fcr die Dauer von bis zu zwei Jahren,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Pr\u00fcfung, ob die von der meldepflichtigen Person gemachten Angaben richtig sind, und zur Gew\u00e4hrleistung der Auskunftsrechte in \u00a7 19 Absatz 1 Satz 3 und \u00a7 50 Absatz 4</LA><LA Size=\"normal\">den Namen und die Anschrift des Eigent\u00fcmers der Wohnung und, wenn dieser nicht selbst Wohnungsgeber ist, den Namen des Eigent\u00fcmers der Wohnung sowie den Namen und die Anschrift des Wohnungsgebers,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Spannungs- oder Verteidigungsfall f\u00fcr die Wehrerfassung</LA><LA Size=\"normal\">die Tatsache, dass ein Einwohner bereits vor der Erfassung seines Jahrganges erfasst worden ist.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000502116",
+        "name": "\u00a7 4",
+        "title": "Ordnungsmerkmale",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000101116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rden d\u00fcrfen ihre Register mit Hilfe von Ordnungsmerkmalen f\u00fchren. Die Ordnungsmerkmale k\u00f6nnen aus den in \u00a7 3 Absatz 1 Nummer 6 und 7 genannten Daten gebildet werden. Durch geeignete technische Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L\u00a0119 vom 4.5.2016, S.\u00a01; L\u00a0314 vom 22.11.2016, S. 72; L\u00a0127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung sind die Ordnungsmerkmale vor Verwechslungen zu sch\u00fctzen.</P><P>(2) Soweit von den Meldebeh\u00f6rden bereits Ordnungsmerkmale verarbeitet werden, die andere als die in \u00a7 3 Absatz 1 Nummer 6 und 7 genannten Daten enthalten, d\u00fcrfen diese noch f\u00fcr eine \u00dcbergangsfrist von sechs Jahren nach Inkrafttreten dieses Gesetzes verarbeitet werden.</P><P>(3) Ordnungsmerkmale d\u00fcrfen im Rahmen von Daten\u00fcbermittlungen an \u00f6ffentliche Stellen und \u00f6ffentlich-rechtliche Religionsgesellschaften \u00fcbermittelt werden. Der Empf\u00e4nger der Daten darf die Ordnungsmerkmale nur im Verkehr mit der jeweiligen Meldebeh\u00f6rde verarbeiten, eine Weiter\u00fcbermittlung ist unzul\u00e4ssig. Soweit Ordnungsmerkmale personenbezogene Daten enthalten, d\u00fcrfen sie nur \u00fcbermittelt werden, wenn dem Empf\u00e4nger auch die im Ordnungsmerkmal enthaltenen personenbezogenen Daten \u00fcbermittelt werden d\u00fcrfen.</P><P>(4) Absatz 3 Satz 2 und 3 gilt entsprechend f\u00fcr die Weitergabe von Ordnungsmerkmalen innerhalb der Verwaltungseinheit, der die Meldebeh\u00f6rde angeh\u00f6rt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000603116",
+        "name": "\u00a7 5",
+        "title": "Zweckbindung der Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000101116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rden d\u00fcrfen die in \u00a7 3 Absatz 2 bezeichneten Daten nur f\u00fcr die dort genannten Zwecke verarbeiten. Sie haben durch technische und organisatorische Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass diese Daten nur nach Ma\u00dfgabe des Satzes 1 verarbeitet werden.</P><P>(2) Die in \u00a7 3 Absatz 2 bezeichneten Daten d\u00fcrfen nur insoweit zusammen mit den in \u00a7 3 Absatz 1 bezeichneten Daten verarbeitet werden, als dies zur Erf\u00fcllung der jeweiligen Aufgabe erforderlich ist. \u00a7 34 Absatz 3 und 4 bleibt unber\u00fchrt mit der Ma\u00dfgabe, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in \u00a7 3 Absatz 2 Nummer 1 genannten Daten nur an die Stellen \u00fcbermittelt werden d\u00fcrfen, die f\u00fcr die Vorbereitung und Durchf\u00fchrung der dort genannten Wahlen und Abstimmungen zust\u00e4ndig sind, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in \u00a7 3 Absatz 2 Nummer 2 und 3 genannten Daten nur an das Bundeszentralamt f\u00fcr Steuern \u00fcbermittelt werden d\u00fcrfen. Das in \u00a7 3 Absatz 2 Nummer 2 Buchstabe c genannte Datum zur Aufl\u00f6sung der Ehe oder Lebenspartnerschaft darf auch an die amtliche Statistik \u00fcbermittelt werden.</LA></DD></DL>Die in Satz 2 Nummer 1 und 2 genannten Daten d\u00fcrfen nach \u00a7 33 auch an die Meldebeh\u00f6rden \u00fcbermittelt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000703360",
+        "name": "\u00a7 6",
+        "title": "Richtigkeit und Vollst\u00e4ndigkeit des Melderegisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000101116"
+        },
+        "body": "<P>(1) Ist das Melderegister unrichtig oder unvollst\u00e4ndig, hat es die Meldebeh\u00f6rde nach Artikel 5 Absatz 1 Buchstabe d der Verordnung (EU) 2016/679 zu berichtigen oder zu vervollst\u00e4ndigen (Fortschreibung). \u00dcber die Fortschreibung sind unverz\u00fcglich diejenigen \u00f6ffentlichen Stellen zu unterrichten, denen im Rahmen regelm\u00e4\u00dfiger Daten\u00fcbermittlungen die unrichtigen oder unvollst\u00e4ndigen Daten \u00fcbermittelt worden sind.</P><P>(2) Soweit die in Absatz 1 Satz 2 genannten \u00f6ffentlichen Stellen nicht Aufgaben der amtlichen Statistik wahrnehmen oder \u00f6ffentlich-rechtliche Religionsgesellschaften sind, haben sie die Meldebeh\u00f6rden unverz\u00fcglich zu unterrichten, wenn ihnen konkrete Anhaltspunkte f\u00fcr die Unrichtigkeit oder Unvollst\u00e4ndigkeit der \u00fcbermittelten Daten vorliegen. \u00d6ffentliche Stellen, denen auf ihr Ersuchen hin Meldedaten \u00fcbermittelt worden sind, haben die Meldebeh\u00f6rden zu unterrichten, wenn ihnen solche Anhaltspunkte vorliegen. Gesetzliche Geheimhaltungspflichten, insbesondere das Steuergeheimnis nach \u00a7 30 der Abgabenordnung, sowie Berufs- oder besondere Amtsgeheimnisse stehen der Unterrichtung nicht entgegen, soweit sie sich auf die Angabe beschr\u00e4nkt, dass konkrete Anhaltspunkte f\u00fcr die Unrichtigkeit oder Unvollst\u00e4ndigkeit \u00fcbermittelter Daten vorliegen.</P><P>(3) Liegen der Meldebeh\u00f6rde konkrete Anhaltspunkte f\u00fcr die Unrichtigkeit oder Unvollst\u00e4ndigkeit des Melderegisters vor, hat sie den Sachverhalt von Amts wegen zu ermitteln.</P><P>(4) Bei der Weitergabe von Daten und Hinweisen nach \u00a7 37 sind Absatz 1 Satz 2 und Absatz 2 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000802116",
+        "name": "\u00a7 7",
+        "title": "Meldegeheimnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000101116"
+        },
+        "body": "<P>(1) Personen, die bei Meldebeh\u00f6rden oder anderen Stellen, die im Auftrag der Meldebeh\u00f6rden handeln, besch\u00e4ftigt sind, ist es verboten, personenbezogene Daten unbefugt zu verarbeiten.</P><P>(2) Die in Absatz 1 genannten Personen sind bei Aufnahme ihrer T\u00e4tigkeit von ihrem Arbeitgeber \u00fcber ihre Pflichten nach Absatz 1 zu belehren und schriftlich auf die Einhaltung des Meldegeheimnisses zu verpflichten. Ihre Pflichten bestehen auch nach Beendigung ihrer T\u00e4tigkeit fort.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000201116",
+        "name": "Abschnitt 2",
+        "title": "Schutzrechte",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE000902116",
+        "name": "\u00a7 8",
+        "title": "Schutzw\u00fcrdige Interessen der betroffenen Person",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": "<P>Schutzw\u00fcrdige Interessen der betroffenen Person d\u00fcrfen durch die Verarbeitung personenbezogener Daten nicht beeintr\u00e4chtigt werden. Schutzw\u00fcrdige Interessen werden insbesondere beeintr\u00e4chtigt, wenn die Verarbeitung, gemessen an ihrer Eignung und ihrer Erforderlichkeit zu dem vorgesehenen Zweck, die betroffene Person unverh\u00e4ltnism\u00e4\u00dfig belastet. Die Pr\u00fcfung, ob schutzw\u00fcrdige Interessen der betroffenen Person beeintr\u00e4chtigt werden, entf\u00e4llt, falls die Verarbeitung durch Rechtsvorschrift vorgeschrieben ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001002116",
+        "name": "\u00a7 9",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001106360",
+        "name": "\u00a7 10",
+        "title": "Auskunftsrecht der betroffenen Person",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": "<P>(1) Vor der Erteilung der Auskunft an die betroffene Person nach Artikel 15 der Verordnung (EU) 2016/679 hat die Meldebeh\u00f6rde die Identit\u00e4t der betroffenen Person zu \u00fcberpr\u00fcfen.</P><P>(2) Sofern die Auskunft elektronisch erteilt wird, ist sicherzustellen, dass Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 auch im Bereich der Verschl\u00fcsselungstechnik und der Authentifizierung getroffen werden, um den Datenschutz und die Datensicherheit zu gew\u00e4hrleisten, insbesondere im Hinblick auf die Vertraulichkeit und die Unversehrtheit der Daten, die im Melderegister gespeichert sind und an die betroffene Person \u00fcbermittelt werden.</P><P>(3) Die Identit\u00e4t des Antragstellers ist mittels des elektronischen Identit\u00e4tsnachweises nach \u00a7 18 des Personalausweisgesetzes, \u00a7 12 des eID-Karte-Gesetzes oder \u00a7 78 Absatz 5 des Aufenthaltsgesetzes oder mittels eines Identit\u00e4tsbest\u00e4tigungsdienstes nach \u00a7 6 Absatz 1 des De-Mail-Gesetzes vom 28. April 2011 (BGBl. I S. 666) in der jeweils geltenden Fassung in Verbindung mit einer sicheren Anmeldung nach \u00a7 4 Absatz 1 des De-Mail-Gesetzes zu \u00fcberpr\u00fcfen. Alternativ kann die Identit\u00e4t des Antragstellers anhand einer qualifizierten elektronischen Signatur \u00fcberpr\u00fcft werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Hinweis: Die \u00c4nderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausf\u00fchrbar, da Art. 5 d. G v. 21.6.2019  I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001203116",
+        "name": "\u00a7 11",
+        "title": "Auskunftsbeschr\u00e4nkungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": "<P>(1) Das Recht auf Auskunft der betroffenen Person \u00fcber die Kategorien der \u00fcbermittelten Daten und \u00fcber die Empf\u00e4nger der Daten nach Artikel 15 Absatz 1 Buchstabe b und c der Verordnung (EU) 2016/679 besteht nicht, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nicht automatisierte Melderegisterauskunft nach den \u00a7\u00a7 46 und 50 Absatz 1 bis 3 erfolgt ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nicht automatisierte Daten\u00fcbermittlung nach \u00a7\u00a034 oder eine nicht automatisierte Datenweitergabe nach \u00a7 37 Absatz 1 erfolgt ist oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die abrufende Stelle eine der in \u00a7 34 Absatz 4 Satz 1 genannten Beh\u00f6rden ist.</LA></DD></DL>Auskunft \u00fcber automatisierte Melderegisterausk\u00fcnfte und \u00fcber Daten\u00fcbermittlungen im automatisierten Abrufverfahren durch \u00f6ffentliche Stellen wird nur innerhalb der Frist zur Aufbewahrung der Protokolldaten nach \u00a7 40 Absatz 4 erteilt.</P><P>(2) Das Recht auf Auskunft der betroffenen Person nach Artikel 15 der Verordnung (EU) 2016/679 besteht nicht, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit der betroffenen Person die Einsicht in ein Personenstandsregister nach \u00a7 63 Absatz 1 und 3 des Personenstandsgesetzes nicht gestattet werden darf,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn F\u00e4lle des \u00a7 1758 des B\u00fcrgerlichen Gesetzbuches vorliegen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit es sich um Daten zum gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu minderj\u00e4hrigen Kindern handelt und f\u00fcr diesen Personenkreis eine Auskunftssperre nach \u00a7 51 oder ein bedingter Sperrvermerk nach \u00a7 52 gespeichert ist oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn das Interesse der betroffenen Person an der Auskunftserteilung zur\u00fccktreten muss, weil <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Auskunft die ordnungsgem\u00e4\u00dfe Erf\u00fcllung der Aufgaben im Sinne des Artikels 23 Absatz 1 Buchstabe e der Verordnung (EU) 2016/679, die in der Zust\u00e4ndigkeit der Meldebeh\u00f6rde liegen, gef\u00e4hrden w\u00fcrde,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Auskunft die \u00f6ffentliche Sicherheit oder Ordnung gef\u00e4hrden oder sich sonst nachteilig auf das Wohl des Bundes oder eines Landes auswirken w\u00fcrde,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Auskunft strafrechtliche Ermittlungen gef\u00e4hrden w\u00fcrde oder</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Daten oder die Tatsache ihrer Speicherung nach einer Rechtsvorschrift oder ihrem Wesen nach, insbesondere wegen der \u00fcberwiegenden berechtigten Interessen eines Dritten, geheim gehalten werden m\u00fcssen.</LA></DD></DL></LA></DD></DL></P><P>(3) Die Auskunft \u00fcber die Herkunft von Daten ist nur mit Zustimmung der \u00fcbermittelnden Stellen zul\u00e4ssig, wenn diese der Meldebeh\u00f6rde \u00fcbermittelt worden sind von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Polizeibeh\u00f6rden des Bundes und der L\u00e4nder,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Staatsanwaltschaften,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Amtsanwaltschaften,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Verfassungsschutzbeh\u00f6rden des Bundes und der L\u00e4nder,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Bundesnachrichtendienst,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Milit\u00e4rischen Abschirmdienst,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Zollfahndungsdienst,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Hauptzoll\u00e4mtern oder</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Finanzbeh\u00f6rden, soweit sie strafverfolgend t\u00e4tig sind.</LA></DD></DL>Dies gilt entsprechend f\u00fcr die Auskunft \u00fcber den Empf\u00e4nger der Daten, soweit sie an die in Satz 1 genannten Beh\u00f6rden \u00fcbermittelt worden sind. Die Zustimmung darf nur unter den in den Abs\u00e4tzen 1 und 2 bezeichneten Voraussetzungen versagt werden.</P><P>(4) Die Ablehnung der Auskunftserteilung bedarf einer Begr\u00fcndung nicht, soweit durch die Mitteilung der tats\u00e4chlichen und rechtlichen Gr\u00fcnde, auf die die Entscheidung gest\u00fctzt wird, der mit der Auskunftsverweigerung verfolgte Zweck gef\u00e4hrdet w\u00fcrde. In diesem Fall ist die betroffene Person darauf hinzuweisen, dass sie sich an die Stelle wenden kann, die f\u00fcr die Kontrolle der Einhaltung der Datenschutzbestimmungen bei der Meldebeh\u00f6rde zust\u00e4ndig ist. Die Mitteilung dieser Stelle an die betroffene Person darf keine R\u00fcckschl\u00fcsse auf den Erkenntnisstand des Verantwortlichen zulassen, sofern dieser nicht einer weitergehenden Auskunft zustimmt.</P><P>(5) Wird der betroffenen Person keine Auskunft erteilt, so ist die Auskunft auf ihr Verlangen der in Absatz 4 Satz 2 bezeichneten Stelle zu erteilen. Stellt die jeweils zust\u00e4ndige oberste Landesbeh\u00f6rde im Einzelfall fest, dass dadurch die Sicherheit des Bundes oder eines Landes gef\u00e4hrdet w\u00fcrde, erh\u00e4lt der Landesbeauftragte f\u00fcr den Datenschutz pers\u00f6nlich Auskunft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001302116",
+        "name": "\u00a7 12",
+        "title": "Recht auf Berichtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": "<P>Hat die Meldebeh\u00f6rde die Daten auf Antrag der betroffenen Person nach Artikel 16 der Verordnung (EU) 2016/679 berichtigt oder vervollst\u00e4ndigt, so gilt \u00a7 6 Absatz 1 Satz 2 entsprechend. F\u00fcr die Dauer der Pr\u00fcfung der Richtigkeit ist die Verarbeitung der Daten nicht nach Artikel 18 Absatz 1 Buchstabe a der Verordnung (EU) 2016/679 eingeschr\u00e4nkt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001404116",
+        "name": "\u00a7 13",
+        "title": "Aufbewahrung von Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": "<P>(1) Nach dem Wegzug oder dem Tod eines Einwohners hat die Meldebeh\u00f6rde f\u00fcr die Erf\u00fcllung ihrer Aufgaben weiterhin die in \u00a7 3 Absatz 1 Nummer 1 bis 10, 12 bis 16, 17a, 18 und 19 genannten Daten zu speichern. Sie darf in diesen F\u00e4llen auch die Daten nach \u00a7 3 Absatz 2 Nummer 1 und 2 im Melderegister speichern. Bei Wegzug eines Einwohners speichert die Meldebeh\u00f6rde au\u00dferdem die Daten nach \u00a7 3 Absatz 1 Nummer 17 und die Feststellung der Tatsache nach \u00a7 3 Absatz 2 Nummer 5.</P><P>(2) Nach Ablauf von f\u00fcnf Jahren nach dem Ende des Kalenderjahres, in dem ein Einwohner weggezogen oder verstorben ist, sind die nach Absatz 1 weiterhin gespeicherten Daten f\u00fcr die Dauer von 50 Jahren aufzubewahren und durch technische und organisatorische Ma\u00dfnahmen nach Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 zu sichern, es sei denn, \u00a7 14 sieht eine fr\u00fchere L\u00f6schung vor. W\u00e4hrend dieser Zeit d\u00fcrfen die Daten nicht mehr verarbeitet werden. Davon ausgenommen sind Familienname und Vornamen sowie fr\u00fchere Namen, Geburtsdatum, Geburtsort sowie bei Geburt im Ausland auch der Staat, derzeitige und fr\u00fchere Anschriften, Auszugsdatum sowie Sterbedatum, Sterbeort sowie bei Versterben im Ausland auch der Staat. Satz 2 gilt nicht, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die betroffene Person in die Verarbeitung der Daten eingewilligt hat oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verarbeitung der Daten unerl\u00e4sslich ist <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">zu wissenschaftlichen Zwecken,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Behebung einer bestehenden Beweisnot,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Erf\u00fcllung der Aufgaben der in \u00a7 34 Absatz 4 Satz 1 genannten Beh\u00f6rden,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Wahlzwecke nach \u00a7 3 Absatz 2 Nummer 1,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Durchf\u00fchrung des staatsangeh\u00f6rigkeitsrechtlichen Verfahrens nach \u00a7 3 Absatz 2 Nummer 5 dieses Gesetzes sowie nach \u00a7 29 Absatz 6 und \u00a7 30 des Staatsangeh\u00f6rigkeitsgesetzes.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001505116",
+        "name": "\u00a7 14",
+        "title": "L\u00f6schung von Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde hat gespeicherte Daten zu l\u00f6schen, wenn sie zur Erf\u00fcllung ihrer Aufgaben nicht mehr erforderlich sind. Das Gleiche gilt, wenn bereits die Speicherung der Daten unzul\u00e4ssig war.</P><P>(2) Daten nach \u00a7 3 Absatz 2 Nummer 6 sind unverz\u00fcglich nach \u00dcbermittlung an die Suchdienste zu l\u00f6schen. Die Daten nach \u00a7 3 Absatz 1 Nummer 11 und Absatz 2 Nummer 2 sind nach Ablauf des auf den Wegzug oder den Tod des Einwohners folgenden Kalenderjahres zu l\u00f6schen. Die Daten nach \u00a7 3 Absatz 1 Nummer 17 sind f\u00fcnf Jahre nach dem Ablauf der G\u00fcltigkeit des Ausweisdokuments, auf das sie sich beziehen, zu l\u00f6schen. Die weiteren Daten weggezogener oder verstorbener Einwohner, die nicht nach \u00a7 13 Absatz 1 aufbewahrt werden, sind 30 Tage nach dem Wegzug und der Auswertung der R\u00fcckmeldung oder nach dem Tod des Einwohners zu l\u00f6schen.</P><P>(3) Ist eine L\u00f6schung im Fall nicht automatisierter Datenverarbeitung wegen der besonderen Art der Speicherung nicht oder nur mit unverh\u00e4ltnism\u00e4\u00dfig hohem Aufwand m\u00f6glich und ist das Interesse der betroffenen Person an der L\u00f6schung als gering anzusehen, besteht das Recht der betroffenen Person auf L\u00f6schung personenbezogener Daten und die Pflicht der Meldebeh\u00f6rde zur L\u00f6schung personenbezogener Daten nach Artikel 17 Absatz 1 der Verordnung (EU) 2016/679 erg\u00e4nzend zu den in Artikel 17 Absatz 3 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht. In diesem Fall tritt an die Stelle einer L\u00f6schung die Einschr\u00e4nkung der Verarbeitung nach Artikel 18 der Verordnung (EU) 2016/679.</P><P>(4) Die Meldebeh\u00f6rde hat Daten, die nach \u00a7 3 Absatz 1 Nummer 17a gespeichert sind, zu l\u00f6schen, sobald sie von der Ausl\u00e4nderbeh\u00f6rde nach \u00a7 90a Absatz 1 Satz 3 des Aufenthaltsgesetzes unterrichtet wurde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001601116",
+        "name": "\u00a7 15",
+        "title": "Aufbewahrung und L\u00f6schung von Hinweisen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": "<P>Die \u00a7\u00a7 13 und 14 gelten entsprechend f\u00fcr Hinweise, die gespeichert werden, um die Richtigkeit der jeweiligen Daten nachzuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001702116",
+        "name": "\u00a7 16",
+        "title": "Anbieten von Daten an Archive",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000201116"
+        },
+        "body": "<P>(1) Nach Ablauf der in \u00a7 13 Absatz 2 Satz 1 f\u00fcr die Aufbewahrung bestimmten Frist hat die Meldebeh\u00f6rde die Daten und die zum Nachweis ihrer Richtigkeit gespeicherten Hinweise vor der L\u00f6schung den durch Landesrecht bestimmten Archiven nach den jeweiligen archivrechtlichen Vorschriften zur \u00dcbernahme anzubieten.</P><P>(2) Innerhalb der in \u00a7 13 Absatz 2 Satz 1 f\u00fcr die Aufbewahrung bestimmten Frist kann die Meldebeh\u00f6rde die Daten und Hinweise den durch Landesrecht bestimmten Archiven zur \u00dcbernahme anbieten, sofern die Erf\u00fcllung der Aufgaben der Meldebeh\u00f6rde im Rahmen des \u00a7 13 Absatz 2 Satz 2 und 3 gew\u00e4hrleistet bleibt. Bis zum Ablauf dieser Frist darf das Archiv die \u00fcbernommenen Daten und Hinweise nur nach Ma\u00dfgabe des \u00a7 13 Absatz 2 Satz 2 bis 4 verarbeiten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000301116",
+        "name": "Abschnitt 3",
+        "title": "Allgemeine Meldepflichten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001801116",
+        "name": "\u00a7 17",
+        "title": "Anmeldung, Abmeldung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Wer eine Wohnung bezieht, hat sich innerhalb von zwei Wochen nach dem Einzug bei der Meldebeh\u00f6rde anzumelden.</P><P>(2) Wer aus einer Wohnung auszieht und keine neue Wohnung im Inland bezieht, hat sich innerhalb von zwei Wochen nach dem Auszug bei der Meldebeh\u00f6rde abzumelden. Eine Abmeldung ist fr\u00fchestens eine Woche vor Auszug m\u00f6glich; die Fortschreibung des Melderegisters erfolgt zum Datum des Auszugs.</P><P>(3) Die An- oder Abmeldung f\u00fcr Personen unter 16 Jahren obliegt denjenigen, in deren Wohnung die Personen unter 16 Jahren einziehen oder aus deren Wohnung sie ausziehen. Neugeborene, die im Inland geboren wurden, sind nur anzumelden, wenn sie in eine andere Wohnung als die der Eltern oder der Mutter aufgenommen werden. Ist f\u00fcr eine vollj\u00e4hrige Person ein Pfleger oder ein Betreuer bestellt, der den Aufenthalt bestimmen kann, obliegt diesem die An- oder Abmeldung.</P><P>(4) Die Standes\u00e4mter teilen den Meldebeh\u00f6rden unverz\u00fcglich die Beurkundung der Geburt eines Kindes sowie jede \u00c4nderung des Personenstandes einer Person mit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE001903116",
+        "name": "\u00a7 18",
+        "title": "Meldebescheinigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde erteilt der betroffenen Person auf Antrag eine schriftliche Meldebescheinigung. Die einfache Meldebescheinigung enth\u00e4lt folgende Daten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Namen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname, K\u00fcnstlername,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung.</LA></DD></DL></P><P>(2) Auf Antrag kann eine erweiterte Meldebescheinigung ausgestellt werden, die Daten nach \u00a7 3 Absatz 1, mit Ausnahme von Auskunfts- und \u00dcbermittlungssperren, enthalten darf. Der Datenumfang der Meldebescheinigung nach Absatz 1 darf dabei auch unterschritten werden.</P><P>(3) F\u00fcr die elektronische Erteilung einer Meldebescheinigung gilt \u00a7 10 Absatz 2 und 3 entsprechend.</P><P>(4) \u00a7 11 Absatz 2 Nummer 1 bis 3 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002003116",
+        "name": "\u00a7 19",
+        "title": "Mitwirkung des Wohnungsgebers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Der Wohnungsgeber ist verpflichtet, bei der Anmeldung mitzuwirken. Hierzu hat der Wohnungsgeber oder eine von ihm beauftragte Person der meldepflichtigen Person den Einzug schriftlich oder gegen\u00fcber der Meldebeh\u00f6rde nach Absatz 4 auch elektronisch innerhalb der in \u00a7 17 Absatz 1 genannten Frist zu best\u00e4tigen. Er kann sich durch R\u00fcckfrage bei der Meldebeh\u00f6rde davon \u00fcberzeugen, dass sich die meldepflichtige Person angemeldet hat. Die meldepflichtige Person hat dem Wohnungsgeber die Ausk\u00fcnfte zu geben, die f\u00fcr die Best\u00e4tigung des Einzugs erforderlich sind. Die Best\u00e4tigung nach Satz 2 darf nur vom Wohnungsgeber oder einer von ihm beauftragten Person ausgestellt werden.</P><P>(2) Verweigert der Wohnungsgeber oder eine von ihm beauftragte Person die Best\u00e4tigung oder erh\u00e4lt die meldepflichtige Person sie aus anderen Gr\u00fcnden nicht rechtzeitig, so hat die meldepflichtige Person dies der Meldebeh\u00f6rde unverz\u00fcglich mitzuteilen.</P><P>(3) Die Best\u00e4tigung des Wohnungsgebers enth\u00e4lt folgende Daten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des Wohnungsgebers und wenn dieser nicht Eigent\u00fcmer ist, auch den Namen des Eigent\u00fcmers,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift der Wohnung sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen der nach \u00a7 17 Absatz 1 meldepflichtigen Personen.</LA></DD></DL></P><P>(4) Bei einer elektronischen Best\u00e4tigung gegen\u00fcber der Meldebeh\u00f6rde erh\u00e4lt der Wohnungsgeber ein Zuordnungsmerkmal, welches er der meldepflichtigen Person zur Nutzung bei der Anmeldung mitzuteilen hat. \u00a7 10 Absatz 2 und 3 gilt entsprechend. Sofern die Meldebeh\u00f6rde weitere Formen der Authentifizierung des Wohnungsgebers vorsieht, ist sicherzustellen, dass Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 getroffen werden.</P><P>(5) Die Meldebeh\u00f6rde kann von dem Eigent\u00fcmer der Wohnung und, wenn er nicht selbst Wohnungsgeber ist, auch vom Wohnungsgeber Auskunft verlangen \u00fcber Personen, welche bei ihm wohnen oder gewohnt haben.</P><P>(6) Es ist verboten, eine Wohnungsanschrift f\u00fcr eine Anmeldung nach \u00a7 17 Absatz 1 einem Dritten anzubieten oder zur Verf\u00fcgung zu stellen, obwohl ein tats\u00e4chlicher Bezug der Wohnung durch einen Dritten weder stattfindet noch beabsichtigt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002101116",
+        "name": "\u00a7 20",
+        "title": "Begriff der Wohnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>Wohnung im Sinne dieses Gesetzes ist jeder umschlossene Raum, der zum Wohnen oder Schlafen benutzt wird. Als Wohnung gilt auch die Unterkunft an Bord eines Schiffes der Marine. Wohnwagen und Wohnschiffe sind nur dann als Wohnungen anzusehen, wenn sie nicht oder nur gelegentlich fortbewegt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002202360",
+        "name": "\u00a7 21",
+        "title": "Mehrere Wohnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Hat ein Einwohner mehrere Wohnungen im Inland, so ist eine dieser Wohnungen seine Hauptwohnung.</P><P>(2) Hauptwohnung ist die vorwiegend benutzte Wohnung des Einwohners.</P><P>(3) Nebenwohnung ist jede weitere Wohnung des Einwohners im Inland.</P><P>(4) Die meldepflichtige Person hat der Meldebeh\u00f6rde bei jeder An- oder Abmeldung mitzuteilen, welche weiteren Wohnungen im Inland sie hat und welche Wohnung ihre Hauptwohnung ist. Sie hat jede \u00c4nderung der Hauptwohnung innerhalb von zwei Wochen der Meldebeh\u00f6rde mitzuteilen, die f\u00fcr die neue Hauptwohnung zust\u00e4ndig ist. Zieht die meldepflichtige Person aus einer ihrer Nebenwohnungen im Inland aus und bezieht sie keine neue Wohnung, so hat sie dies der Meldebeh\u00f6rde, die f\u00fcr die Nebenwohnung zust\u00e4ndig ist, oder der Meldebeh\u00f6rde, die f\u00fcr die alleinige Wohnung oder die Hauptwohnung zust\u00e4ndig ist, mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002301116",
+        "name": "\u00a7 22",
+        "title": "Bestimmung der Hauptwohnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Hauptwohnung eines verheirateten oder eine Lebenspartnerschaft f\u00fchrenden Einwohners, der nicht dauernd getrennt von seiner Familie oder seinem Lebenspartner lebt, ist die vorwiegend benutzte Wohnung der Familie oder der Lebenspartner.</P><P>(2) Hauptwohnung eines minderj\u00e4hrigen Einwohners ist die vorwiegend benutzte Wohnung der Personensorgeberechtigten; leben diese getrennt, ist Hauptwohnung die Wohnung des Sorgeberechtigten, die von dem minderj\u00e4hrigen Einwohner vorwiegend benutzt wird.</P><P>(3) In Zweifelsf\u00e4llen ist die vorwiegend benutzte Wohnung dort, wo der Schwerpunkt der Lebensbeziehungen des Einwohners liegt.</P><P>(4) Kann der Wohnungsstatus eines verheirateten oder eine Lebenspartnerschaft f\u00fchrenden Einwohners nach den Abs\u00e4tzen 1 und 3 nicht zweifelsfrei bestimmt werden, ist die Hauptwohnung die Wohnung nach \u00a7 21 Absatz 2.</P><P>(5) Auf Antrag eines Einwohners, der in einer Einrichtung f\u00fcr behinderte Menschen wohnt, bleibt die Wohnung nach Absatz 2, bis er 25 Jahre alt ist, seine Hauptwohnung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002404116",
+        "name": "\u00a7 23",
+        "title": "Erf\u00fcllung der allgemeinen Meldepflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Soweit nachstehend nicht etwas anderes bestimmt ist, hat die meldepflichtige Person einen Meldeschein auszuf\u00fcllen, zu unterschreiben und der Meldebeh\u00f6rde zusammen mit dem Personalausweis, dem vorl\u00e4ufigen Personalausweis, dem Ersatz-Personalausweis, dem anerkannten und g\u00fcltigen Pass oder Passersatzpapier sowie der Best\u00e4tigung des Wohnungsgebers oder dem entsprechenden Zuordnungsmerkmal nach \u00a7 19 Absatz 4 Satz 1 vorzulegen. Wird das Melderegister automatisiert gef\u00fchrt, kann von dem Ausf\u00fcllen des Meldescheins abgesehen werden, wenn die meldepflichtige Person pers\u00f6nlich bei der Meldebeh\u00f6rde erscheint und auf einem Ausdruck die Richtigkeit und Vollst\u00e4ndigkeit der bei ihr erhobenen Daten durch ihre Unterschrift best\u00e4tigt.</P><P>(2) F\u00fcr die elektronische Anmeldung gilt \u00a7 10 Absatz 2 und 3 entsprechend.</P><P>(3) Die Meldebeh\u00f6rde des neuen Wohnortes (Zuzugsmeldebeh\u00f6rde) ist berechtigt, die bei der Meldebeh\u00f6rde des letzten fr\u00fcheren Wohnortes (Wegzugsmeldebeh\u00f6rde) nach \u00a7 3 Absatz 1 Nummer 1 bis 18 gespeicherten Daten anzufordern und der meldepflichtigen Person diese Daten schriftlich oder in elektronischer Form zu \u00fcbermitteln (vorausgef\u00fcllter Meldeschein). Die meldepflichtige Person hat die \u00fcbermittelten Angaben auf ihre Richtigkeit zu pr\u00fcfen, unzutreffende Angaben zu berichtigen und fehlende Angaben zu erg\u00e4nzen. Sie hat den aktualisierten vorausgef\u00fcllten Meldeschein bei der Zuzugsmeldebeh\u00f6rde unterschrieben einzureichen. F\u00fcr die elektronische \u00dcbermittlung gilt \u00a7 10 Absatz 2 und 3 entsprechend.</P><P>(4) F\u00fcr den vorausgef\u00fcllten Meldeschein gibt die meldepflichtige Person Familienname, Vornamen, Geburtsdatum sowie die letzte Wohnanschrift an. Diese Daten \u00fcbermittelt die Zuzugsmeldebeh\u00f6rde der Wegzugsmeldebeh\u00f6rde, um die Daten nach \u00a7 3 Absatz 1 Nummer 1 bis 18 anzufordern. Die Wegzugsmeldebeh\u00f6rde \u00fcbermittelt der Zuzugsmeldebeh\u00f6rde unverz\u00fcglich die angeforderten Daten.</P><P>(5) Ehegatten, Lebenspartner und Familienangeh\u00f6rige mit denselben Zuzugsdaten (Zuzugsdatum sowie fr\u00fchere und derzeitige Wohnungen) sollen gemeinsam einen Meldeschein verwenden. Es gen\u00fcgt die Anmeldung nach den Abs\u00e4tzen 1 und 2 durch eine der meldepflichtigen Personen. Die Abs\u00e4tze 3 und 4 gelten entsprechend, wenn die meldepflichtige Person versichert, dass sie berechtigt ist, die Daten der \u00fcbrigen meldepflichtigen Personen entgegenzunehmen. Sie ist dar\u00fcber zu belehren, dass der unberechtigte Empfang unter Vorspiegelung einer Berechtigung nach \u00a7 202a des Strafgesetzbuchs unter Strafe steht.</P><P>(6) Abweichend von den Abs\u00e4tzen 1 und 2 kann die Anmeldung von Personen, die in eine Aufnahmeeinrichtung zugezogen sind, automatisiert durch \u00dcbernahme der Daten aus dem Ausl\u00e4nderzentralregister nach \u00a7 18e des AZR-Gesetzes erfolgen.</P><P>(7) Die Abmeldung von in das Ausland verzogenen Personen kann schriftlich oder in entsprechender Anwendung des \u00a7 10 Absatz 2 und 3 elektronisch erfolgen. Der Nachweis der Identit\u00e4t der abmeldepflichtigen Person kann bei der elektronischen Abmeldung auch durch die Angabe des Familiennamens, des Vornamens, des Geburtsdatums und der Seriennummer des zuletzt im Melderegister gespeicherten Ausweises oder Passes nach \u00a7 3 Absatz 1 Nummer 17 erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE006100360",
+        "name": "\u00a7 23a",
+        "title": "Elektronische Anmeldung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Abweichend von \u00a7 23 Absatz 1, 3 und 4 kann das Bundesministerium des Innern, f\u00fcr Bau und Heimat im Einvernehmen mit der jeweils zust\u00e4ndigen obersten Landesbeh\u00f6rde zur Erprobung der elektronischen Anmeldung ein Verfahren nach Ma\u00dfgabe der Abs\u00e4tze 2 bis 4 zulassen.</P><P>(2) Die meldepflichtige Person darf bei einer Anmeldung nach Absatz 1 bei der Wegzugsmeldebeh\u00f6rde die nach \u00a7 3 Absatz 1 Nummer 1 bis 18 gespeicherten Daten elektronisch anfordern. Hierzu hat sie Familienname, Vornamen, Geburtsdatum sowie die letzte Wohnanschrift anzugeben. Die Wegzugsmeldebeh\u00f6rde ist verpflichtet, diese Daten in elektronischer und unver\u00e4nderbarer Form zu \u00fcbermitteln (vorausgef\u00fcllter Meldeschein). Daten zum gesetzlichen Vertreter, Ehegatten, Lebenspartner oder zu minderj\u00e4hrigen Kindern, f\u00fcr die eine Auskunftssperre nach \u00a7 51 oder ein bedingter Sperrvermerk nach \u00a7\u00a052 gespeichert ist, d\u00fcrfen nicht in dem vorausgef\u00fcllten Meldeschein enthalten sein.</P><P>(3) Die meldepflichtige Person hat die \u00fcbermittelten Angaben auf ihre Richtigkeit zu pr\u00fcfen, um Angaben nach \u00a7\u00a019 Absatz 3 Nummer 1 bis 3 zu erg\u00e4nzen, elektronisch zu best\u00e4tigen und an die Zuzugsmeldebeh\u00f6rde zu \u00fcbermitteln.</P><P>(4) Die Vorlage der Best\u00e4tigung des Wohnungsgebers oder des entsprechenden Zuordnungsmerkmals nach \u00a7 19 Absatz 4 Satz 1 kann bei einer elektronischen Anmeldung durch einen Code, der durch die Zuzugsmeldebeh\u00f6rde an die Zuzugsanschrift der meldepflichtigen Person versendet und von dieser best\u00e4tigt wird, ersetzt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002503360",
+        "name": "\u00a7 24",
+        "title": "Datenerhebung, Meldebest\u00e4tigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Bei der An- oder Abmeldung oder der \u00c4nderung der Hauptwohnung d\u00fcrfen bei der meldepflichtigen Person die in \u00a7 3 Absatz 1 Nummer 1 bis 18 und in Absatz 2 Nummer 2 Buchstabe a bis c, Nummer 5, 6 und 10 genannten Daten erhoben werden. Dies gilt auch f\u00fcr die Hinweise, die zum Nachweis der Richtigkeit dieser Daten erforderlich sind.</P><P>(2) Die meldepflichtige Person erh\u00e4lt unentgeltlich eine schriftliche oder, sofern die An- oder Abmeldung elektronisch durchgef\u00fchrt wird, eine elektronische Best\u00e4tigung \u00fcber die An- oder Abmeldung (amtliche Meldebest\u00e4tigung). Diese darf nur folgende Daten enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum oder Auszugsdatum,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Datum der An- oder Abmeldung,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">alleinige Wohnung, Haupt- oder Nebenwohnung.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002601116",
+        "name": "\u00a7 25",
+        "title": "Mitwirkungspflichten der meldepflichtigen Person",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>Die meldepflichtige Person hat auf Verlangen der Meldebeh\u00f6rde <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die zur ordnungsgem\u00e4\u00dfen F\u00fchrung des Melderegisters erforderlichen Ausk\u00fcnfte zu erteilen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die zum Nachweis der Angaben erforderlichen Unterlagen vorzulegen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>pers\u00f6nlich bei der Meldebeh\u00f6rde zu erscheinen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002701116",
+        "name": "\u00a7 26",
+        "title": "Befreiung von der Meldepflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>Von der Meldepflicht nach \u00a7 17 Absatz 1 und 2 sind befreit <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Mitglieder einer ausl\u00e4ndischen diplomatischen Mission oder einer ausl\u00e4ndischen konsularischen Vertretung und die mit ihnen im gemeinsamen Haushalt lebenden Familienmitglieder, falls die genannten Personen weder die deutsche Staatsangeh\u00f6rigkeit besitzen noch im Inland st\u00e4ndig ans\u00e4ssig sind, noch dort eine private Erwerbst\u00e4tigkeit aus\u00fcben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Personen, f\u00fcr die diese Befreiung in v\u00f6lkerrechtlichen \u00dcbereink\u00fcnften festgelegt ist.</LA></DD></DL>Die Befreiung von der Meldepflicht nach Satz 1 Nummer 1 tritt nur ein, wenn Gegenseitigkeit besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002804360",
+        "name": "\u00a7 27",
+        "title": "Ausnahmen von der Meldepflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000301116"
+        },
+        "body": "<P>(1) Eine Meldepflicht nach \u00a7 17 Absatz 1 und 2 wird nicht begr\u00fcndet, wenn eine Person, die f\u00fcr eine Wohnung im Inland gemeldet ist, eine Gemeinschaftsunterkunft oder eine andere dienstlich bereitgestellte Unterkunft bezieht, um <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wehrdienst nach dem Wehrpflichtgesetz oder freiwilligen Wehrdienst nach dem Soldatengesetz zu leisten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bundesfreiwilligendienst nach dem Bundesfreiwilligendienstgesetz zu leisten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zivildienst nach dem Zivildienstgesetz zu leisten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Dienstleistung nach dem Vierten Abschnitt des Soldatengesetzes zu erbringen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Dienst bei der Bundeswehr als Berufssoldat oder Soldat auf Zeit oder Vollzugsdienst bei der Bundes- oder der Landespolizei zu leisten, sofern die Unterkunft f\u00fcr nicht l\u00e4nger als zw\u00f6lf Monate bezogen wird,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Angeh\u00f6rige des \u00f6ffentlichen Dienstes an Lehrg\u00e4ngen oder Fachstudien zur Aus- oder Fortbildung teilzunehmen.</LA></DD></DL></P><P>(2) Wer im Inland nach \u00a7 17 oder \u00a7 28 gemeldet ist und f\u00fcr einen nicht l\u00e4nger als sechs Monate dauernden Aufenthalt eine Wohnung bezieht, muss sich f\u00fcr diese Wohnung weder an- noch abmelden. Wer nach Ablauf von sechs Monaten nicht aus dieser Wohnung ausgezogen ist, hat sich innerhalb von zwei Wochen bei der Meldebeh\u00f6rde anzumelden. F\u00fcr Personen, die sonst im Ausland wohnen und im Inland nicht nach \u00a7 17 Absatz 1 gemeldet sind, besteht diese Pflicht nach Ablauf von drei Monaten.</P><P>(3) Die Ausnahme von der Meldepflicht nach Absatz 2 gilt nicht f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sp\u00e4taussiedler und deren Familienangeh\u00f6rige, wenn sie nach \u00a7 8 des Bundesvertriebenengesetzes verteilt werden, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Asylbewerber oder sonstige Ausl\u00e4nder, die vor\u00fcbergehend eine Aufnahmeeinrichtung oder eine sonstige zugewiesene Unterkunft beziehen.</LA></DD></DL>Die Meldepflicht nach Absatz 2 in Verbindung mit Satz 1 Nummer 2 kann erf\u00fcllt werden, indem die f\u00fcr die Erfassung von Personen in den Aufnahmeeinrichtungen zust\u00e4ndige Stelle der Meldebeh\u00f6rde die f\u00fcr die Anmeldung notwendigen Daten in Form einer Liste \u00fcbermittelt. Statt einer Liste kann auch eine Kopie der ausl\u00e4nderrechtlichen Erfassung \u00fcbermittelt werden. Eine elektronische \u00dcbermittlung ist in beiden F\u00e4llen zul\u00e4ssig.</P><P>(4) F\u00fcr eine Person, der durch eine richterliche Entscheidung die Freiheit entzogen ist, begr\u00fcndet \u00a7 17 Absatz 1 keine Meldepflicht, solange <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vollzug der Freiheitsentziehung drei Monate nicht \u00fcberschreitet oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die betroffene Person im Inland nach \u00a7\u00a017 oder \u00a7 28 gemeldet ist und der Vollzug der Freiheitsentziehung die Dauer von zw\u00f6lf Monaten nicht \u00fcberschreitet.</LA></DD></DL>Andernfalls hat die Leitung der Anstalt die Aufnahme und die Entlassung innerhalb der folgenden zwei Wochen der Meldebeh\u00f6rde, die f\u00fcr den Sitz der Anstalt zust\u00e4ndig ist, mitzuteilen; die betroffene Person ist zu unterrichten. Die Mitteilung enth\u00e4lt die in den Meldescheinen vorgesehenen Daten. Die Mitteilung ersetzt die Anmeldung nach \u00a7 23 Absatz 1.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000401116",
+        "name": "Abschnitt 4",
+        "title": "Besondere Meldepflichten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE002901116",
+        "name": "\u00a7 28",
+        "title": "Besondere Meldepflichten f\u00fcr Binnenschiffer und Seeleute",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000401116"
+        },
+        "body": "<P>(1) Wer auf ein Binnenschiff zieht, das in einem Schiffsregister im Inland eingetragen ist, hat sich bei der Meldebeh\u00f6rde des Ortes anzumelden, in dem der Heimathafen des Schiffes liegt. Die Vorschriften \u00fcber die allgemeine Meldepflicht gelten entsprechend. Die An- und Abmeldung kann auch bei einer anderen Meldebeh\u00f6rde oder bei der Wasserschutzpolizei vorgenommen werden, die die Daten an die zust\u00e4ndige Meldebeh\u00f6rde weiterleitet.</P><P>(2) Der Reeder eines Seeschiffes, das berechtigt ist, die Bundesflagge zu f\u00fchren, hat den Kapit\u00e4n und die Besatzungsmitglieder des Schiffes bei Beginn des Anstellungs-, Heuer- oder Ausbildungsverh\u00e4ltnisses anzumelden. Er hat diese Personen bei Beendigung des Anstellungs-, Heuer- oder Ausbildungsverh\u00e4ltnisses abzumelden. \u00a7 24 Absatz 1 gilt entsprechend. Zust\u00e4ndig ist die Meldebeh\u00f6rde am Sitz des Reeders. Die zu meldenden Personen haben dem Reeder die erforderlichen Ausk\u00fcnfte zu geben.</P><P>(3) Die Meldepflicht nach den Abs\u00e4tzen 1 und 2 besteht nicht f\u00fcr Personen, die im Inland f\u00fcr eine Wohnung nach \u00a7 17 Absatz 1 gemeldet sind.</P><P>(4) Die Meldebeh\u00f6rde kann von Schiffseignern und Reedern Auskunft verlangen \u00fcber Personen, welche auf ihren Schiffen wohnen oder gewohnt haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003003116",
+        "name": "\u00a7 29",
+        "title": "Besondere Meldepflicht in Beherbergungsst\u00e4tten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000401116"
+        },
+        "body": "<P>(1) Wer in Einrichtungen, die der gewerbs- oder gesch\u00e4ftsm\u00e4\u00dfigen Aufnahme von Personen dienen (Beherbergungsst\u00e4tten), f\u00fcr l\u00e4nger als sechs Monate aufgenommen wird, unterliegt der Meldepflicht nach \u00a7 17 oder \u00a7 28. Wer nicht f\u00fcr eine Wohnung im Inland gemeldet ist, hat sich innerhalb von zwei Wochen bei der Meldebeh\u00f6rde anzumelden, sobald sein Aufenthalt die Dauer von drei Monaten \u00fcberschreitet.</P><P>(2) Beherbergte Personen haben am Tag der Ankunft einen besonderen Meldeschein handschriftlich zu unterschreiben, der die in \u00a7 30 Absatz 2 aufgef\u00fchrten Daten enth\u00e4lt. Mitreisende Angeh\u00f6rige sind auf dem Meldeschein nur der Zahl nach anzugeben. Bei Reisegesellschaften von mehr als zehn Personen betrifft die Verpflichtung nach Satz 1 nur den Reiseleiter; er hat die Anzahl der Mitreisenden und ihre Staatsangeh\u00f6rigkeit anzugeben.</P><P>(3) Beherbergte ausl\u00e4ndische Personen, die nach Absatz 2 namentlich auf dem Meldeschein aufzuf\u00fchren sind, haben sich bei der Anmeldung gegen\u00fcber den Leitern der Beherbergungsst\u00e4tten durch die Vorlage eines g\u00fcltigen Identit\u00e4tsdokumentes (anerkannter und g\u00fcltiger Pass oder Passersatz) auszuweisen.</P><P>(4) Personen, die in Zelten, Wohnmobilen, Wohnwagen oder Wasserfahrzeugen auf gewerbs- oder gesch\u00e4ftsm\u00e4\u00dfig \u00fcberlassenen Pl\u00e4tzen \u00fcbernachten, unterliegen nicht der Meldepflicht nach \u00a7 17 Absatz 1 und 2, solange sie im Inland nach \u00a7 17 oder \u00a7 28 gemeldet sind. Wer nicht nach \u00a7 17 oder \u00a7 28 gemeldet ist, hat sich innerhalb von zwei Wochen bei der Meldebeh\u00f6rde anzumelden, sobald der Aufenthalt die Dauer von drei Monaten \u00fcberschreitet. Die Abs\u00e4tze 2 und 3 gelten entsprechend.</P><P>(5) Abweichend von Absatz 2 Satz 1 kann die Meldepflicht mit Zustimmung der beherbergten Person auch dadurch erf\u00fcllt werden, dass die in \u00a7 30 Absatz 2 genannten Daten elektronisch erhoben werden und die beherbergte Person deren Richtigkeit und Vollst\u00e4ndigkeit am Tag der Ankunft best\u00e4tigt, indem die beherbergte Person <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen kartengebundenen Zahlungsvorgang mit einer starken Kundenauthentifizierung im Sinne des \u00a7 1 Absatz 24 des Zahlungsdiensteaufsichtsgesetzes ausl\u00f6st, bei dem die zweckgebundene Zuordnungsnummer des eingesetzten Zahlungsmittels erhoben wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den elektronischen Identit\u00e4tsnachweis nach \u00a7 18 des Personalausweisgesetzes, nach \u00a7 12 des eID-Karte-Gesetzes oder nach \u00a7 78 Absatz 5 des Aufenthaltsgesetzes erbringt oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihren Personalausweis nach \u00a7 18a des Personalausweisgesetzes, ihre eID-Karte nach \u00a7 13 des eID-Karte-Gesetzes oder ihren Aufenthaltstitel nach \u00a7 78 Absatz 5 des Aufenthaltsgesetzes zum Vor-Ort-Auslesen verwendet.</LA></DD></DL>Wer Beherbergungsst\u00e4tten betreibt, kann f\u00fcr seine und andere mit seinen Beherbergungsst\u00e4tten vertraglich zum Zweck des Erbringens von Beherbergungsdienstleistungen verbundenen Beherbergungsst\u00e4tten zur Erprobung weiterer elektronischer Verfahren zur Erf\u00fcllung der Meldepflicht bei dem Bundesministerium des Innern, f\u00fcr Bau und Heimat bis zum Ablauf des 31. Dezember 2023 f\u00fcr die Dauer von h\u00f6chstens zwei Jahren einen Antrag auf Zulassung eines von Satz 1 abweichenden Verfahrens stellen, bei dem <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in \u00a7 30 Absatz 2 genannten Daten elektronisch mit Zustimmung der beherbergten Person erhoben werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die beherbergte Person die Richtigkeit und Vollst\u00e4ndigkeit der Daten nach Nummer 1 am Tag der Ankunft in geeigneter Weise best\u00e4tigt und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesamt f\u00fcr Sicherheit in der Informationstechnik bei einer vorherigen Pr\u00fcfung des Verfahrens ein vergleichbares Sicherheitsniveau zu den in Satz 1 Nummer 1 bis 3 genannten Verfahren festgestellt hat.</LA></DD></DL></P><P>(6) Die Abs\u00e4tze 2 und 3 gelten nicht f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen mit Heimunterbringung, die der Jugend- und Erwachsenenbildung, der Ausbildung oder der Fortbildung dienen, soweit Personen zu den genannten Zwecken untergebracht werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betriebs- oder Vereinsheime, wenn dort nur Betriebs- oder Vereinsmitglieder und deren Familienangeh\u00f6rige beherbergt werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Jugendherbergen und Bergh\u00fctten, zeitweilig belegte Einrichtungen der \u00f6ffentlichen oder \u00f6ffentlich anerkannten Tr\u00e4ger der Jugendarbeit und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen der \u00f6ffentlich-rechtlichen Religionsgesellschaften.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003102116",
+        "name": "\u00a7 30",
+        "title": "Besondere Meldescheine f\u00fcr Beherbergungsst\u00e4tten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000401116"
+        },
+        "body": "<P>(1) Die Leiter der Beherbergungsst\u00e4tten oder der Einrichtungen nach \u00a7 29 Absatz 4 haben besondere Meldescheine bereitzuhalten. Sie k\u00f6nnen zus\u00e4tzlich technische Vorrichtungen zur elektronischen Erf\u00fcllung der Meldepflicht nach \u00a7 29 Absatz 5 vorhalten. Sie haben darauf hinzuwirken, dass die betroffenen Personen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verpflichtungen nach \u00a7 29 Absatz 2 oder die Vorgaben des gew\u00e4hlten elektronischen Verfahrens nach Absatz 5 erf\u00fcllen sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verpflichtungen nach \u00a7 29 Absatz 3 und 4 Satz 3 erf\u00fcllen.</LA></DD></DL></P><P>(2) Die Meldescheine enthalten vorbehaltlich der Regelung in Absatz 3 ausschlie\u00dflich folgende Daten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Datum der Ankunft und der voraussichtlichen Abreise,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familiennamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Staatsangeh\u00f6rigkeiten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Mitreisenden und ihre Staatsangeh\u00f6rigkeit in den F\u00e4llen des \u00a7 29 Absatz 2 Satz 2 und 3 sowie</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Seriennummer des anerkannten und g\u00fcltigen Passes oder Passersatzpapiers bei ausl\u00e4ndischen Personen.</LA></DD></DL>Bei ausl\u00e4ndischen Personen haben die Leiter der Beherbergungsst\u00e4tten oder der Einrichtungen nach \u00a7 29 Absatz 4 die Angaben im Meldeschein mit denen des Identit\u00e4tsdokumentes zu vergleichen. Ergeben sich hierbei Abweichungen, ist dies auf dem Meldeschein zu vermerken. Legen ausl\u00e4ndische Personen kein oder kein g\u00fcltiges Identit\u00e4tsdokument vor, ist dies auf dem Meldeschein zu vermerken. Im Fall des \u00a7 29 Absatz 5 Nummer 1 ist die zweckgebundene Zuordnungsnummer des eingesetzten Zahlungsmittels zusammen mit den Daten nach Satz 1 zu speichern.</P><P>(3) Durch Landesrecht kann bestimmt werden, dass f\u00fcr die Erhebung von Fremdenverkehrs- und Kurbeitr\u00e4gen weitere Daten auf dem Meldeschein erhoben werden d\u00fcrfen.</P><P>(4) Die nach Absatz 1 verpflichteten Personen haben die ausgef\u00fcllten Meldescheine vom Tag der Abreise der beherbergten Person an ein Jahr aufzubewahren und innerhalb von drei Monaten nach Ablauf der Aufbewahrungsfrist zu vernichten. Wird die Meldepflicht elektronisch erf\u00fcllt, gelten f\u00fcr die Speicherung und L\u00f6schung der nach \u00a7 29 Absatz 5 erhobenen Daten die Fristen nach Satz 1. Den nach Landesrecht bestimmten Beh\u00f6rden und den in \u00a7 34 Absatz 4 Satz 1 Nummer 1 bis 5 und 9 bis 11 genannten Beh\u00f6rden sind zur Erf\u00fcllung ihrer Aufgaben auf Verlangen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 29 Absatz 2 Satz 1 handschriftlich unterschriebenen Meldescheine zur Einsichtnahme vorzulegen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 29 Absatz 5 elektronisch erhobenen Daten maschinenlesbar zur Verf\u00fcgung zu stellen.</LA></DD></DL></P><P>(5) Sofern das Meldeverfahren elektronisch durchgef\u00fchrt wird, haben die nach Absatz 1 verpflichteten Personen durch geeignete technische und organisatorische Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass die in Absatz 2 bezeichneten Daten nur nach Ma\u00dfgabe von Absatz 4 und \u00a7 29 Absatz 5 verarbeitet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003203116",
+        "name": "\u00a7 31",
+        "title": "Verarbeitungsbeschr\u00e4nkungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000401116"
+        },
+        "body": "<P>Die nach \u00a7 30 Absatz 2 erhobenen Daten d\u00fcrfen von den nach Landesrecht bestimmten Beh\u00f6rden und den in \u00a7 34 Absatz 4 Satz 1 Nummer 1 bis 5 und 9 bis 11 genannten Beh\u00f6rden verarbeitet werden, sofern dies zur Erf\u00fcllung ihrer Aufgaben erforderlich ist. Sie d\u00fcrfen au\u00dferdem zur Aufkl\u00e4rung des Schicksals von Vermissten und Unfallopfern, f\u00fcr die Erhebung von Fremdenverkehrs- und Kurbeitr\u00e4gen, zur Ausstellung kommunaler G\u00e4stekarten sowie f\u00fcr die Beherbergungs- und die Fremdenverkehrsstatistik verarbeitet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003301116",
+        "name": "\u00a7 32",
+        "title": "Besondere Meldepflicht in Krankenh\u00e4usern, Heimen und \u00e4hnlichen Einrichtungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000401116"
+        },
+        "body": "<P>(1) Wer in Krankenh\u00e4usern, Pflegeheimen oder sonstigen Einrichtungen, die der Betreuung pflegebed\u00fcrftiger oder behinderter Menschen oder der Heimerziehung dienen, aufgenommen wird oder dort einzieht, muss sich nicht anmelden, solange er f\u00fcr eine Wohnung im Inland gemeldet ist. Wer nicht f\u00fcr eine Wohnung im Inland gemeldet ist, hat sich, sobald sein Aufenthalt die Dauer von drei Monaten \u00fcberschreitet, innerhalb von zwei Wochen anzumelden. F\u00fcr Personen, die ihrer Meldepflicht nicht pers\u00f6nlich nachkommen k\u00f6nnen, haben die Leiter der Einrichtungen die Aufnahme innerhalb von zwei Wochen der Meldebeh\u00f6rde mitzuteilen, die f\u00fcr den Sitz der Einrichtung zust\u00e4ndig ist; die betroffenen Personen sind zu unterrichten. \u00a7 17 Absatz 3 Satz 3 bleibt unber\u00fchrt.</P><P>(2) Der zust\u00e4ndigen Beh\u00f6rde ist Auskunft aus den Unterlagen der genannten Einrichtungen zu erteilen, wenn dies nach Feststellung der Beh\u00f6rde zur Abwehr einer erheblichen und gegenw\u00e4rtigen Gefahr, zur Verfolgung von Straftaten oder zur Aufkl\u00e4rung des Schicksals von Vermissten und Unfallopfern im Einzelfall erforderlich ist. Die Auskunft umfasst folgende Daten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Vornamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Staatsangeh\u00f6rigkeiten,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Anschriften,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Datum der Aufnahme und Datum der Entlassung.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000501116",
+        "name": "Abschnitt 5",
+        "title": "Daten\u00fcbermittlungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000601116",
+        "name": "Unterabschnitt 1",
+        "title": "Daten\u00fcbermittlungen zwischen \u00f6ffentlichen Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000501116"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003403116",
+        "name": "\u00a7 33",
+        "title": "Daten\u00fcbermittlungen zwischen den Meldebeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Hat sich eine Person bei einer Meldebeh\u00f6rde angemeldet, so hat diese die Wegzugsmeldebeh\u00f6rde und die f\u00fcr weitere Wohnungen zust\u00e4ndigen Meldebeh\u00f6rden dar\u00fcber durch \u00dcbermittlung der in \u00a7 3 Absatz 1 Nummer 1 bis 18 genannten Daten der betroffenen Person zu unterrichten (R\u00fcckmeldung). Bei einem Zuzug aus dem Ausland ist die f\u00fcr den letzten Wohnort im Inland zust\u00e4ndige Meldebeh\u00f6rde als Wegzugsmeldebeh\u00f6rde zu unterrichten. Die Daten sind unverz\u00fcglich, sp\u00e4testens jedoch drei Werktage nach der Anmeldung, durch Daten\u00fcbertragung zu \u00fcbermitteln; \u00a7 10 Absatz 2 gilt entsprechend.</P><P>(2) Die \u00fcbermittelten Daten sind unverz\u00fcglich von der Wegzugsmeldebeh\u00f6rde zu verarbeiten. Die Wegzugsmeldebeh\u00f6rde hat die Zuzugsmeldebeh\u00f6rde unverz\u00fcglich, sp\u00e4testens jedoch drei Werktage nach Eingang der R\u00fcckmeldung, \u00fcber die in \u00a7 3 Absatz 2 Nummer 1, 2 Buchstabe d, Nummer 3, 4, 5, 7, 8 und 11 genannten Tatsachen sowie dann zu unterrichten, wenn die in Satz 1 bezeichneten Daten von den bisherigen Angaben abweichen (Auswertung der R\u00fcckmeldung). Soweit Meldebeh\u00f6rden desselben Landes beteiligt sind, k\u00f6nnen f\u00fcr die Daten\u00fcbermittlung weitergehende Regelungen durch Landesrecht getroffen werden.</P><P>(3) Werden die in \u00a7 3 Absatz 1 und 2 Nummer 7 und 8 bezeichneten Daten fortgeschrieben, so sind unverz\u00fcglich die f\u00fcr weitere Wohnungen der betroffenen Person zust\u00e4ndigen Meldebeh\u00f6rden zu unterrichten, soweit die Daten zur Erf\u00fcllung ihrer Aufgaben erforderlich sind. Verstirbt oder verzieht eine meldepflichtige Person, zu der Daten der in \u00a7 3 Absatz 1 Nummer 9, 15 und 16 genannten Personen au\u00dferhalb der Zust\u00e4ndigkeit der Meldebeh\u00f6rde gespeichert sind, ist unverz\u00fcglich die f\u00fcr diese Personen zust\u00e4ndige Meldebeh\u00f6rde \u00fcber die Fortschreibung zu unterrichten.</P><P>(4) Speichert die Meldebeh\u00f6rde eine Auskunftssperre nach \u00a7 51 im Melderegister oder hebt die Meldebeh\u00f6rde eine Auskunftssperre auf, so hat sie hier\u00fcber die f\u00fcr die letzte fr\u00fchere oder die neue Wohnung zust\u00e4ndige Meldebeh\u00f6rde und die f\u00fcr weitere Wohnungen zust\u00e4ndigen Meldebeh\u00f6rden unverz\u00fcglich zu unterrichten. Diese Meldebeh\u00f6rden haben die Auskunftssperre nach \u00a7 51 unverz\u00fcglich im Melderegister zu speichern und im Falle der Aufhebung zu l\u00f6schen. Die S\u00e4tze 1 und 2 gelten f\u00fcr bedingte Sperrvermerke nach \u00a7 52 mit der Ma\u00dfgabe entsprechend, dass eine Aufhebung nicht stattfindet.</P><P>(5) Soweit auf Grund von v\u00f6lkerrechtlichen \u00dcbereink\u00fcnften ein meldebeh\u00f6rdliches R\u00fcckmeldeverfahren mit Stellen des Auslands vorgesehen ist, gehen die darin getroffenen Vereinbarungen den Regelungen nach den Abs\u00e4tzen 1 bis 3 vor.</P><P>(6) Daten\u00fcbermittlungen und Ausk\u00fcnfte zwischen den Meldebeh\u00f6rden sind geb\u00fchrenfrei.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003506360",
+        "name": "\u00a7 34",
+        "title": "Daten\u00fcbermittlungen an andere \u00f6ffentliche Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde darf einer anderen \u00f6ffentlichen Stelle im Sinne von \u00a7 2 Absatz 1 bis 3 und 4 Satz 2 des Bundesdatenschutzgesetzes im Inland aus dem Melderegister folgende Daten \u00fcbermitteln, soweit dies zur Erf\u00fcllung der in ihrer Zust\u00e4ndigkeit oder in der Zust\u00e4ndigkeit des Empf\u00e4ngers liegenden \u00f6ffentlichen Aufgaben erforderlich ist: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Namen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname, K\u00fcnstlername,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige und fr\u00fchere Anschriften, Haupt- und Nebenwohnung; bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift im Inland, bei Wegzug in das Ausland auch die Zuzugsanschrift im Ausland und den Staat,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum, Auszugsdatum, Datum des letzten Wegzugs aus einer Wohnung im Inland sowie Datum des letzten Zuzugs aus dem Ausland,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">zum gesetzlichen Vertreter <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunftssperren nach \u00a7 51 und bedingte Sperrvermerke nach \u00a7 52,</LA></DD></DL></LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Staatsangeh\u00f6rigkeiten einschlie\u00dflich der nach \u00a7 3 Absatz 2 Nummer 5 gespeicherten Daten,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienstand, bei Verheirateten oder Lebenspartnern zus\u00e4tzlich Datum, Ort und Staat der Eheschlie\u00dfung oder der Begr\u00fcndung der Lebenspartnerschaft,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunftssperren nach \u00a7 51 und bedingte Sperrvermerke nach \u00a7 52 sowie</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat.</LA></DD></DL>Den in Absatz 4 Satz 1 bezeichneten Beh\u00f6rden darf die Meldebeh\u00f6rde unter den Voraussetzungen des Satzes 1 \u00fcber die dort genannten Daten hinaus auch Ausstellungsbeh\u00f6rde, Ausstellungsdatum, G\u00fcltigkeitsdauer und Seriennummer des Personalausweises, vorl\u00e4ufigen Personalausweises oder Ersatz-Personalausweises sowie des anerkannten Passes oder Passersatzpapieres \u00fcbermitteln.</P><P>(2) Werden Daten \u00fcber eine Vielzahl nicht namentlich bezeichneter Personen \u00fcbermittelt, d\u00fcrfen f\u00fcr die Zusammensetzung der Personengruppe nur die in Absatz 1 Satz 1 genannten Daten zugrunde gelegt werden.</P><P>(3) Die \u00dcbermittlung weiterer als der in Absatz 1 Satz 1 bezeichneten Daten oder die \u00dcbermittlung der in \u00a7 3 Absatz 1 oder 2 genannten Hinweise im Melderegister an andere \u00f6ffentliche Stellen ist nur dann zul\u00e4ssig, wenn der Empf\u00e4nger <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ohne Kenntnis der Daten nicht in der Lage w\u00e4re, eine ihm durch Rechtsvorschrift \u00fcbertragene Aufgabe zu erf\u00fcllen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Daten bei der betroffenen Person nur mit unverh\u00e4ltnism\u00e4\u00dfig hohem Aufwand erheben k\u00f6nnte oder von einer Datenerhebung nach der Art der Aufgabe, zu der die Daten erforderlich sind, abgesehen werden muss.</LA></DD></DL></P><P>(4) Die Pr\u00fcfung bei der Meldebeh\u00f6rde, ob die Voraussetzungen nach Absatz 3 und \u00a7 8 vorliegen, entf\u00e4llt, wenn sie von den folgenden Beh\u00f6rden um \u00dcbermittlung von Daten und Hinweisen nach Absatz 3 ersucht wird: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Polizeibeh\u00f6rden des Bundes und der L\u00e4nder,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Staatsanwaltschaften,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Amtsanwaltschaften,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gerichte, soweit sie Aufgaben der Strafverfolgung, der Strafvollstreckung oder des Strafvollzugs wahrnehmen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Justizvollzugsbeh\u00f6rden,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verfassungsschutzbeh\u00f6rden des Bundes und der L\u00e4nder,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bundesnachrichtendienst,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Milit\u00e4rischer Abschirmdienst,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zollfahndungsdienst,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hauptzoll\u00e4mter,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Finanzbeh\u00f6rden, soweit sie strafverfolgend t\u00e4tig sind, oder</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bundesamt f\u00fcr Justiz, soweit es Aufgaben der Vollstreckungshilfe nach dem Rahmenbeschluss 2005/214/JI des Rates vom 24. Februar 2005 \u00fcber die Anwendung des Grundsatzes der gegenseitigen Anerkennung von Geldstrafen und Geldbu\u00dfen (ABl. L 76 vom 22.3.2005, S. 16), der durch den Rahmenbeschluss 2009/299/JI (ABl. L 81 vom 27.3.2009, S. 24) ge\u00e4ndert worden ist, sowie Aufgaben des Strafnachrichtenaustausches nach dem Rahmenbeschluss 2009/315/JI des Rates vom 26. Februar 2009 \u00fcber die Durchf\u00fchrung und den Inhalt des Austauschs von Informationen aus dem Strafregister zwischen den Mitgliedstaaten (ABl. L 93 vom 7.4.2009, S. 23) wahrnimmt.</LA></DD></DL>Die ersuchende Beh\u00f6rde hat den Namen und die Anschrift der betroffenen Person unter Hinweis auf den Anlass der \u00dcbermittlung aufzuzeichnen. Diese Aufzeichnungen sind aufzubewahren, durch technische und organisatorische Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 zu sichern und nach Ablauf des Kalenderjahres, das dem Jahr der Erstellung der Aufzeichnung folgt, zu vernichten. Satz 3 gilt nicht, wenn die Daten nach Satz 2 Bestandteil von Akten oder Dateisystemen geworden sind.</P><P>(5) Wurde eine Auskunftssperre nach \u00a7 51 Absatz 1 auf Veranlassung einer in Absatz 4 Satz 1 Nummer 1 bis 4, 6 bis 9 und 11 genannten Beh\u00f6rde von Amts wegen eingetragen, sind die betroffene Person und die veranlassende Stelle \u00fcber jedes Ersuchen um \u00dcbermittlung von Daten zur betroffenen Person unverz\u00fcglich zu unterrichten. Sofern nach Anh\u00f6rung der betroffenen Person, oder, wenn diese nicht erreichbar ist, nach Anh\u00f6rung der veranlassenden Stelle, eine Gefahr nach \u00a7 51 Absatz 1 nicht ausgeschlossen werden kann, ist eine \u00dcbermittlung in diesen F\u00e4llen nicht zul\u00e4ssig; die ersuchende Stelle erh\u00e4lt eine Mitteilung, die keine R\u00fcckschl\u00fcsse darauf zulassen darf, ob zu der betroffenen Person keine Daten vorhanden sind oder eine Auskunftssperre besteht. Abweichend von den S\u00e4tzen 1 und 2 wird bei \u00dcbermittlungsersuchen einer in Absatz 4 Satz 1 genannten Stelle ausschlie\u00dflich die veranlassende Stelle unterrichtet und angeh\u00f6rt.</P><P>(6) Daten\u00fcbermittlungen und Ausk\u00fcnfte von Meldebeh\u00f6rden an andere \u00f6ffentliche Stellen im Inland sind geb\u00fchrenfrei. Landesrechtliche Regelungen zur Geb\u00fchrenerhebung bei Daten\u00fcbermittlungen aus zentralen Meldedatenbest\u00e4nden oder Portalen auf Landesebene bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003601116",
+        "name": "\u00a7 35",
+        "title": "Daten\u00fcbermittlungen an ausl\u00e4ndische Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>Im Rahmen von T\u00e4tigkeiten, die ganz oder teilweise in den Anwendungsbereich des Rechts der Europ\u00e4ischen Union fallen, gilt \u00a7 34 Absatz 1 Satz 1 nach Ma\u00dfgabe der daf\u00fcr geltenden Gesetze und Vereinbarungen, wenn Daten \u00fcbermittelt werden an <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u00f6ffentliche Stellen in anderen Mitgliedstaaten der Europ\u00e4ischen Union,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u00f6ffentliche Stellen in anderen Vertragsstaaten des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Organe und Einrichtungen der Europ\u00e4ischen Union oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Organe und Einrichtungen der Europ\u00e4ischen Atomgemeinschaft.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003702116",
+        "name": "\u00a7 36",
+        "title": "Regelm\u00e4\u00dfige Daten\u00fcbermittlungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Daten\u00fcbermittlungen an andere \u00f6ffentliche Stellen, die ohne Ersuchen in allgemein bestimmten F\u00e4llen regelm\u00e4\u00dfig wiederkehrend durchgef\u00fchrt werden (regelm\u00e4\u00dfige Daten\u00fcbermittlungen), sind zul\u00e4ssig, soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem Anlass und Zweck der \u00dcbermittlungen, der Empf\u00e4nger und die zu \u00fcbermittelnden Daten festgelegt sind.</P><P>(2) Eine Daten\u00fcbermittlung nach \u00a7 58c Absatz 1 Satz 1 des Soldatengesetzes ist nur zul\u00e4ssig, soweit die betroffene Person nicht widersprochen hat. Bei einem Widerspruch hat die betroffene Person gegen\u00fcber der Meldebeh\u00f6rde ein Recht auf unentgeltliche Einrichtung einer \u00dcbermittlungssperre. Die betroffene Person ist auf ihr Widerspruchsrecht bei der Anmeldung und sp\u00e4testens im Oktober eines jeden Jahres durch orts\u00fcbliche Bekanntmachung hinzuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003802116",
+        "name": "\u00a7 37",
+        "title": "Datenweitergabe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Innerhalb der Verwaltungseinheit, der die Meldebeh\u00f6rde angeh\u00f6rt, d\u00fcrfen unter den in \u00a7 34 Absatz 1 genannten Voraussetzungen s\u00e4mtliche der in \u00a7 3 Absatz 1 aufgef\u00fchrten Daten und Hinweise weitergegeben werden. F\u00fcr die Einsichtnahme und Weitergabe von Daten und Hinweisen nach \u00a7 3 Absatz 2 gilt \u00a7 34 Absatz 3 entsprechend.</P><P>(2) Die Einrichtung automatisierter Verfahren zur Daten\u00fcbertragung an andere Stellen innerhalb der Verwaltungseinheit, der die Meldebeh\u00f6rde angeh\u00f6rt, bedarf der Zulassung durch den Leiter der Verwaltungseinheit; dabei hat er die abrufberechtigten Stellen sowie die erforderlichen technischen und organisatorischen Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 schriftlich festzulegen. Die abrufberechtigte Stelle darf von der M\u00f6glichkeit des Datenabrufs nur Gebrauch machen, wenn dies im Einzelfall zur Erf\u00fcllung ihrer Aufgaben erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE003905116",
+        "name": "\u00a7 38",
+        "title": "Automatisierter Abruf",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde darf einer anderen \u00f6ffentlichen Stelle folgende Daten durch automatisierte Abrufverfahren \u00fcbermitteln (einfache Beh\u00f6rdenauskunft): <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Namen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname, K\u00fcnstlername,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Anschriften oder Wegzugsanschrift, gekennzeichnet nach Haupt- und Nebenwohnung,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum und Sterbeort sowie</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">bedingte Sperrvermerke nach \u00a7 52.</LA></DD></DL></P><P>(2) Ein Abruf ist nur zul\u00e4ssig, soweit diese Daten der abrufenden Stelle zur Erf\u00fcllung ihrer Aufgaben bekannt sein m\u00fcssen. Ist im Melderegister eine Auskunftssperre nach \u00a7 51 eingetragen, erh\u00e4lt die abrufende Stelle eine Mitteilung, die keine R\u00fcckschl\u00fcsse darauf zulassen darf, ob zu der betroffenen Person keine Daten vorhanden sind oder eine Auskunftssperre besteht; in diesen F\u00e4llen ist der Abruf von der Meldebeh\u00f6rde wie ein Ersuchen um Daten\u00fcbermittlung nach \u00a7 34 zu behandeln.</P><P>(3) Den in \u00a7 34 Absatz 4 Satz 1 genannten Beh\u00f6rden d\u00fcrfen dar\u00fcber hinaus durch das automatisierte Abrufverfahren folgende Daten \u00fcbermittelt werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Staatsangeh\u00f6rigkeiten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum und Auszugsdatum,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausstellungsbeh\u00f6rde, Ausstellungsdatum, G\u00fcltigkeitsdauer, Seriennummer des Personalausweises, vorl\u00e4ufigen Personalausweises oder Ersatz-Personalausweises, des anerkannten Passes oder Passersatzpapiers und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Daten nach \u00a7 3 Absatz 2 Nummer 7 und 8.</LA></DD></DL></P><P>(4) Als Auswahldaten f\u00fcr Abrufe d\u00fcrfen die in \u00a7 34 Absatz 4 Satz 1 genannten Beh\u00f6rden Daten nach \u00a7 34 Absatz 1 verwenden, alle \u00fcbrigen \u00f6ffentlichen Stellen nur den Familiennamen, fr\u00fchere Namen, Vornamen, das Geschlecht, das Geburtsdatum und den Geburtsort sowie bei Geburt im Ausland auch den Staat und die derzeitige oder eine fr\u00fchere Anschrift. F\u00fcr Familiennamen, fr\u00fchere Namen und Vornamen ist eine phonetische Suche zul\u00e4ssig. Werden auf Grund eines Abrufs die Datens\u00e4tze mehrerer Personen angezeigt, darf die abrufberechtigte Stelle diese Daten nur in dem Umfang verwenden, der zur Erf\u00fcllung der ihr durch Rechtsvorschrift \u00fcbertragenen Aufgaben erforderlich ist. Nicht erforderliche Daten sind unverz\u00fcglich zu l\u00f6schen.</P><P>(5) Die \u00dcbermittlung weiterer Daten und Hinweise durch automatisierte Abrufverfahren nach den Abs\u00e4tzen 1 bis 3 ist zul\u00e4ssig, soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem auch Anlass und Zweck der \u00dcbermittlungen, der Empf\u00e4nger und die zu \u00fcbermittelnden Daten festgelegt sind. Die Verwendung von weiteren Auswahldaten nach Absatz 4 ist zul\u00e4ssig, soweit dies durch Bundes- oder Landesrecht bestimmt ist, in dem auch Anlass und Zweck des Abrufs festgelegt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004002116",
+        "name": "\u00a7 39",
+        "title": "Verfahren des automatisierten Abrufs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Bei der Einrichtung eines automatisierten Abrufverfahrens hat die abrufberechtigte Stelle durch geeignete technische und organisatorische Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 sicherzustellen, dass Daten nur von hierzu befugten Personen abgerufen werden k\u00f6nnen. \u00a7 10 Absatz 2 gilt entsprechend. Zus\u00e4tzlich darf \u00fcber die Identit\u00e4t der abrufenden Stelle kein Zweifel bestehen. \u00a7 3 des Gesetzes \u00fcber die Verbindung der informationstechnischen Netze des Bundes und der L\u00e4nder \u2013 Gesetz zur Ausf\u00fchrung von Artikel 91c Absatz 4 des Grundgesetzes \u2013 vom 10. August 2009 (BGBl. I S. 2702) in der jeweils geltenden Fassung bleibt unber\u00fchrt.</P><P>(2) Werden auf Grund eines automatisierten Abrufs nach \u00a7 38 Absatz 1 bis 3 die Datens\u00e4tze von unterschiedlichen Personen gefunden, d\u00fcrfen hierzu Identifikationsmerkmale gebildet und \u00fcbermittelt werden. Zur Bildung dieser Identifikationsmerkmale d\u00fcrfen die in \u00a7 3 genannten Daten nicht verarbeitet werden. Der Empf\u00e4nger der Daten darf das Identifikationsmerkmal nur an die Meldebeh\u00f6rde \u00fcbermitteln.</P><P>(3) F\u00fcr die in \u00a7 34 Absatz 4 Satz 1 genannten sowie weitere durch Bundes- oder Landesrecht bestimmte \u00f6ffentliche Stellen ist bei zentralen Meldedatenbest\u00e4nden der L\u00e4nder oder, sofern solche nicht vorhanden sind, bei sonstigen Stellen, die durch Landesrecht dazu bestimmt sind, oder bei den Meldebeh\u00f6rden zu jeder Zeit sicherzustellen, dass Daten \u00fcber das Internet oder \u00fcber das Verbindungsnetz des Bundes und der L\u00e4nder abgerufen werden k\u00f6nnen. Absatz 1 Satz 2 bis 4 gilt entsprechend.</P><P>(4) Die Verantwortung f\u00fcr die Zul\u00e4ssigkeit des einzelnen automatisierten Abrufs tr\u00e4gt die abrufende Stelle. Die Meldebeh\u00f6rde \u00fcberpr\u00fcft die Zul\u00e4ssigkeit des Abrufs nur, wenn dazu Anlass besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004102116",
+        "name": "\u00a7 40",
+        "title": "Protokollierungspflicht bei automatisiertem Abruf",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde hat bei einem automatisierten Abruf von Daten einer einzelnen Person Folgendes zu protokollieren: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die abrufberechtigte Stelle,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die abgerufenen Daten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Zeitpunkt des Abrufs,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit vorhanden, das Aktenzeichen der abrufenden Beh\u00f6rde und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kennung der abrufenden Person.</LA></DD></DL></P><P>(2) Werden Daten \u00fcber eine Vielzahl nicht n\u00e4her bezeichneter Personen nach \u00a7 34 Absatz 2 abgerufen, sind zus\u00e4tzlich der Anlass, die Abrufkriterien und die Anzahl der Treffer zu protokollieren.</P><P>(3) Ist die abrufende Stelle eine der in \u00a7 34 Absatz 4 Satz 1 genannten Beh\u00f6rden, hat sie die Protokollierung vorzunehmen.</P><P>(4) Die Protokolldaten sind mindestens zw\u00f6lf Monate aufzubewahren und zu sichern. Sie sind sp\u00e4testens zum Ende des Kalenderjahres zu l\u00f6schen, das auf die Speicherung folgt. Die Protokolldaten d\u00fcrfen nur f\u00fcr Zwecke der Datenschutzkontrolle, hieraus folgender Strafverfahren, der Sicherstellung des Betriebs der Register und der Auskunftserteilung an die betroffene Person verarbeitet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004202116",
+        "name": "\u00a7 41",
+        "title": "Zweckbindung \u00fcbermittelter Daten und Hinweise",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>Die Empf\u00e4nger d\u00fcrfen die Daten und Hinweise, soweit gesetzlich nichts anderes bestimmt ist, nur f\u00fcr die Zwecke verarbeiten, zu deren Erf\u00fcllung sie ihnen \u00fcbermittelt oder weitergegeben wurden. In den F\u00e4llen der \u00a7\u00a7 51 und 52 ist eine Verarbeitung der \u00fcbermittelten oder weitergegebenen Daten und Hinweise nur zul\u00e4ssig, wenn die Beeintr\u00e4chtigung schutzw\u00fcrdiger Interessen der betroffenen Person ausgeschlossen werden kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004305360",
+        "name": "\u00a7 42",
+        "title": "Daten\u00fcbermittlungen an \u00f6ffentlich-rechtliche Religionsgesellschaften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde darf einer \u00f6ffentlich-rechtlichen Religionsgesellschaft unter den in \u00a7 34 Absatz 1 Satz 1 genannten Voraussetzungen zur Erf\u00fcllung ihrer Aufgaben, nicht jedoch zu arbeitsrechtlichen Zwecken folgende Daten ihrer Mitglieder auch regelm\u00e4\u00dfig \u00fcbermitteln: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Namen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname, K\u00fcnstlername,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">zum gesetzlichen Vertreter <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum sowie</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunftssperren nach \u00a7 51 und bedingte Sperrvermerke nach \u00a7 52,</LA></DD></DL></LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Staatsangeh\u00f6rigkeiten,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">rechtliche Zugeh\u00f6rigkeit zu der \u00f6ffentlich-rechtlichen Religionsgesellschaft,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Anschriften, gekennzeichnet nach Haupt- und Nebenwohnung, die letzte fr\u00fchere Anschrift, bei Zuzug aus dem Ausland die letzte Anschrift im Inland, bei Wegzug in das Ausland auch die Zuzugsanschrift im Ausland und den Staat,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum und Auszugsdatum,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienstand beschr\u00e4nkt auf die Angabe, ob verheiratet oder eine Lebenspartnerschaft f\u00fchrend oder nicht; zus\u00e4tzlich bei Verheirateten oder Lebenspartnern: Datum, Ort und Staat der Eheschlie\u00dfung oder der Begr\u00fcndung der Lebenspartnerschaft,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der minderj\u00e4hrigen Kinder,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunftssperren nach \u00a7 51 und bedingte Sperrvermerke nach \u00a7 52 sowie</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat.</LA></DD></DL></P><P>(2) Haben Mitglieder einer \u00f6ffentlich-rechtlichen Religionsgesellschaft Familienangeh\u00f6rige, die nicht derselben oder keiner \u00f6ffentlich-rechtlichen Religionsgesellschaft angeh\u00f6ren, darf die Meldebeh\u00f6rde von diesen Familienangeh\u00f6rigen folgende Daten \u00fcbermitteln: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vor- und Familiennamen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum und Geburtsort,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zugeh\u00f6rigkeit zu einer \u00f6ffentlich-rechtlichen Religionsgesellschaft,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Anschriften und letzte fr\u00fchere Anschrift,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auskunftssperren nach \u00a7 51 und bedingte Sperrvermerke nach \u00a7 52 sowie</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum.</LA></DD></DL></P><P>(3) Familienangeh\u00f6rige im Sinne des Absatzes 2 sind der Ehegatte oder Lebenspartner, minderj\u00e4hrige Kinder und die Eltern von minderj\u00e4hrigen Kindern. Die betroffenen Personen haben das Recht, der \u00dcbermittlung ihrer Daten zu widersprechen; sie sind auf dieses Recht bei der Anmeldung nach \u00a7 17 Absatz 1 sowie einmal j\u00e4hrlich durch orts\u00fcbliche Bekanntmachung hinzuweisen. \u00a7 36 Absatz 2 Satz 2 gilt entsprechend. Satz 2 gilt nicht, soweit Daten f\u00fcr Zwecke des Steuererhebungsrechts der jeweiligen \u00f6ffentlich-rechtlichen Religionsgesellschaft \u00fcbermittelt werden.</P><P>(4) F\u00fcr Daten\u00fcbermittlungen nach den Abs\u00e4tzen 1 und 2 gilt \u00a7 34 Absatz 5 entsprechend.</P><P>(4a) Die Meldebeh\u00f6rden d\u00fcrfen den \u00f6ffentlich-rechtlichen Religionsgesellschaften jeweils zu Beginn einer standardisierten Daten\u00fcbermittlung zu einem bundesweit einheitlichen Stichtag die in den Abs\u00e4tzen 1 und 2 genannten sowie die gem\u00e4\u00df \u00a7 55 Absatz 2 durch Landesrecht bestimmten Daten innerhalb von l\u00e4ngstens zw\u00f6lf Monaten automatisiert \u00fcbermitteln, um einen einmaligen Abgleich zum Zwecke der Bestands- und Ersterfassung und darauf aufbauende Folgedaten\u00fcbermittlungen zu erm\u00f6glichen. Dabei sind auch Widerspr\u00fcche nach \u00a7 42 Absatz 3 Satz 2 zu \u00fcbermitteln. Der jeweilige Stichtag wird vom Bundesministerium des Innern, f\u00fcr Bau und Heimat im Bundesanzeiger bekannt gegeben.</P><P>(5) Eine Daten\u00fcbermittlung nach den Abs\u00e4tzen 1 und 2 ist nur zul\u00e4ssig, wenn sichergestellt ist, dass beim Empf\u00e4nger ausreichende Ma\u00dfnahmen zum Datenschutz getroffen sind. Die Feststellung hier\u00fcber trifft eine durch Landesrecht zu bestimmende Beh\u00f6rde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004402116",
+        "name": "\u00a7 43",
+        "title": "Daten\u00fcbermittlungen an die Suchdienste",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000601116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde darf den Suchdiensten zur Erf\u00fcllung ihrer \u00f6ffentlich-rechtlichen Aufgaben regelm\u00e4\u00dfig folgende Daten von den Personen, die aus den in \u00a7 1 Absatz 2 Nummer 3 des Bundesvertriebenengesetzes bezeichneten Gebieten stammen, \u00fcbermitteln: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Namen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige und fr\u00fchere Anschriften,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift am 1. September 1939.</LA></DD></DL></P><P>(2) Die Meldebeh\u00f6rde darf den Suchdiensten zur Erf\u00fcllung ihrer \u00f6ffentlich-rechtlichen Aufgaben \u00fcber die in Absatz 1 genannten Daten hinaus folgende Daten durch das automatisierte Abrufverfahren \u00fcbermitteln: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Staatsangeh\u00f6rigkeiten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum und Auszugsdatum.</LA></DD></DL>Als Auswahldaten f\u00fcr Abrufe d\u00fcrfen die Suchdienste neben den nach \u00a7 38 Absatz 4 Satz 1 allen \u00f6ffentlichen Stellen zur Verf\u00fcgung stehenden Daten die folgenden verwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Zuzug aus dem Ausland auch den Staat und die letzte Anschrift im Inland, bei Wegzug in das Ausland auch die Zuzugsanschrift im Ausland und den Staat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum und Auszugsdatum,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Staatsangeh\u00f6rigkeiten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienstand,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000701116",
+        "name": "Unterabschnitt 2",
+        "title": "Melderegisterauskunft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000501116"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004503116",
+        "name": "\u00a7 44",
+        "title": "Einfache Melderegisterauskunft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>(1) Wenn eine Person zu einer anderen Person oder wenn eine andere als die in \u00a7 34 Absatz 1 Satz 1 oder \u00a7 35 bezeichnete Stelle Auskunft verlangt, darf die Meldebeh\u00f6rde nur Auskunft \u00fcber folgende Daten einzelner bestimmter Personen erteilen (einfache Melderegisterauskunft): <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen unter Kennzeichnung des gebr\u00e4uchlichen Vornamens,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Anschriften sowie,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">sofern die Person verstorben ist, diese Tatsache.</LA></DD></DL>Sofern die Daten f\u00fcr gewerbliche Zwecke verwendet werden, sind diese anzugeben.</P><P>(2) Absatz 1 gilt auch, wenn Auskunft \u00fcber Daten einer Vielzahl von Personen verlangt wird.</P><P>(3) Die Erteilung einer einfachen Melderegisterauskunft ist nur zul\u00e4ssig, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Identit\u00e4t der Person, \u00fcber die eine Auskunft begehrt wird, eindeutig festgestellt werden kann auf Grund der in der Anfrage mitgeteilten Angaben \u00fcber <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">den Familiennamen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">den fr\u00fcheren Namen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vornamen,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Geburtsdatum,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Geschlecht oder</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Anschrift und</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Daten nicht f\u00fcr Zwecke der Werbung oder des Adresshandels verwendet werden und die Auskunft verlangende Person oder Stelle dies erkl\u00e4rt.</LA></DD></DL></P><P>(4) Es ist verboten, Daten aus einer Melderegisterauskunft gewerblich zu verwenden, ohne dass ein Zweck nach Absatz 1 Satz 2 bei der Anfrage angegeben wurde.</P><P>(5) \u00a7 45 Absatz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004602116",
+        "name": "\u00a7 45",
+        "title": "Erweiterte Melderegisterauskunft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>(1) Soweit ein berechtigtes Interesse glaubhaft gemacht wird, darf zu den in \u00a7 44 Absatz 1 genannten Daten einzelner bestimmter Personen eine erweiterte Melderegisterauskunft erteilt werden \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Namen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum und Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienstand, beschr\u00e4nkt auf die Angabe, ob verheiratet oder eine Lebenspartnerschaft f\u00fchrend oder nicht,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Staatsangeh\u00f6rigkeiten,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">fr\u00fchere Anschriften,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum und Auszugsdatum,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname und Vornamen sowie Anschrift des gesetzlichen Vertreters,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname und Vornamen sowie Anschrift des Ehegatten oder des Lebenspartners sowie</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum und Sterbeort sowie bei Versterben im Ausland auch den Staat.</LA></DD></DL></P><P>(2) Die Pflicht zur Information der betroffenen Person gem\u00e4\u00df Artikel 14 Absatz 1, 2 und 4 der Verordnung (EU) 2016/679 durch den Empf\u00e4nger der erweiterten Melderegisterauskunft besteht erg\u00e4nzend zu den in Artikel 14 Absatz 5 der Verordnung (EU) 2016/679 genannten Ausnahmen nicht, wenn durch ihre Erf\u00fcllung ein rechtliches Interesse, insbesondere die Geltendmachung von Rechtsanspr\u00fcchen, beeintr\u00e4chtigen w\u00fcrde, sofern nicht das berechtigte Interesse der betroffenen Person an der Erf\u00fcllung der Informationspflicht \u00fcberwiegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004701116",
+        "name": "\u00a7 46",
+        "title": "Gruppenauskunft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>(1) Eine Melderegisterauskunft \u00fcber eine Vielzahl nicht namentlich bezeichneter Personen (Gruppenauskunft) darf nur erteilt werden, wenn sie im \u00f6ffentlichen Interesse liegt. F\u00fcr die Zusammensetzung der Personengruppe d\u00fcrfen die folgenden Daten herangezogen werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Geburtsdatum,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Geschlecht,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>derzeitige Staatsangeh\u00f6rigkeit,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>derzeitige Anschriften,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Einzugsdatum und Auszugsdatum,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Familienstand mit der Angabe, ob ledig, verheiratet, geschieden, verwitwet, eine Lebenspartnerschaft f\u00fchrend, Lebenspartnerschaft aufgehoben oder Lebenspartner verstorben.</LA></DD></DL></P><P>(2) Au\u00dfer der Tatsache der Zugeh\u00f6rigkeit zu der Gruppe d\u00fcrfen folgende Daten mitgeteilt werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Vornamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Doktorgrad,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Alter,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Geschlecht,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Staatsangeh\u00f6rigkeiten,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>derzeitige Anschriften und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>gesetzliche Vertreter mit Familienname und Vornamen sowie Anschrift.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004801116",
+        "name": "\u00a7 47",
+        "title": "Zweckbindung der Melderegisterauskunft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>(1) Bei Melderegisterausk\u00fcnften nach \u00a7 44 zu gewerblichen Zwecken und bei Melderegisterausk\u00fcnften nach den \u00a7\u00a7 45 und 46 sowie bei Vorliegen einer Auskunftssperre nach \u00a7 51 Absatz 1 darf der Empf\u00e4nger die Daten nur f\u00fcr die Zwecke verwenden, zu deren Erf\u00fcllung sie ihm \u00fcbermittelt wurden. Danach sind die Daten zu l\u00f6schen.</P><P>(2) Soweit Daten zum Zwecke der gesch\u00e4ftsm\u00e4\u00dfigen Anschriftenermittlung f\u00fcr Dritte erhoben werden, d\u00fcrfen diese nicht wiederverwendet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE004902116",
+        "name": "\u00a7 48",
+        "title": "Melderegisterauskunft f\u00fcr \u00f6ffentlich-rechtliche Rundfunkanstalten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>Soweit \u00f6ffentlich-rechtliche Rundfunkanstalten publizistisch t\u00e4tig sind, sind sie keine \u00f6ffentlichen Stellen im Sinne dieses Gesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005004116",
+        "name": "\u00a7 49",
+        "title": "Automatisierte Melderegisterauskunft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>(1) Einfache Melderegisterausk\u00fcnfte k\u00f6nnen auch auf Datentr\u00e4gern erteilt werden, die sich automatisiert verarbeiten lassen. Die der Meldebeh\u00f6rde \u00fcberlassenen Datentr\u00e4ger oder die der Meldebeh\u00f6rde \u00fcbermittelten Daten sind nach Erledigung des Antrags unverz\u00fcglich zur\u00fcckzugeben, zu l\u00f6schen oder zu vernichten.</P><P>(2) Einfache Melderegisterausk\u00fcnfte k\u00f6nnen auch durch einen automatisierten Abruf \u00fcber das Internet erteilt werden. Die Antwort an den Antragsteller ist verschl\u00fcsselt zu \u00fcbertragen.</P><P>(3) Eine einfache Melderegisterauskunft \u00fcber das Internet kann auch \u00fcber ein Portal oder mehrere Portale erteilt werden. Wird ein Portal nicht in \u00f6ffentlich-rechtlicher Form betrieben, bedarf es der Zulassung durch die zust\u00e4ndige Landesbeh\u00f6rde. Portale haben insbesondere die Aufgabe, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anfragenden zu registrieren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Auskunftsersuchen entgegenzunehmen und an die Meldebeh\u00f6rde oder andere Portale weiterzuleiten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Antworten entgegenzunehmen und an Meldebeh\u00f6rden oder andere Portale weiterzuleiten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zahlung der Geb\u00fchren und Auslagen an die Meldebeh\u00f6rden sicherzustellen und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Datensicherheit zu gew\u00e4hrleisten.</LA></DD></DL>Absatz 1 Satz 2 gilt entsprechend.</P><P>(4) Ausk\u00fcnfte d\u00fcrfen nur erteilt werden, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Antragsteller die betroffene Person mit ihrem Familiennamen oder einem fr\u00fcheren Familiennamen und mindestens einem jeweils dazugeh\u00f6rigen Vornamen, wobei f\u00fcr Vor-und Familiennamen eine phonetische Suche zul\u00e4ssig ist, sowie entweder mit einer Anschrift oder mit zwei weiteren Daten bezeichnet hat, wobei die Daten nach Absatz 5 Nummer 5 und 9 nicht zusammen verwendet werden d\u00fcrfen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Identit\u00e4t der betroffenen Person durch einen automatisierten Abgleich der im Antrag angegebenen Daten mit den im Melderegister gespeicherten Daten der betroffenen Person eindeutig festgestellt worden ist.</LA></DD></DL></P><P>(5) F\u00fcr die weitere Bezeichnung der betroffenen Person nach Absatz 4 Nummer 1 k\u00f6nnen folgende Daten zus\u00e4tzlich verwendet werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">K\u00fcnstlername,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsdatum,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsort sowie bei Geburt im Ausland auch den Staat,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschlecht,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorname und Familienname des gesetzlichen Vertreters,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzugsdatum zu einer Anschrift,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auszugsdatum zu einer Anschrift,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienstand,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Datum und Ort der Eheschlie\u00dfung oder Begr\u00fcndung der Lebenspartnerschaft sowie bei Eheschlie\u00dfung oder Begr\u00fcndung der Lebenspartnerschaft im Ausland auch den Staat,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorname und Familienname des Ehegatten oder Lebenspartners,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbedatum,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbeort sowie bei Versterben im Ausland auch den Staat.</LA></DD></DL></P><P>(6) \u00a7 10 Absatz 2 und \u00a7 40 gelten entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005102116",
+        "name": "\u00a7 50",
+        "title": "Melderegisterausk\u00fcnfte in besonderen F\u00e4llen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde darf Parteien, W\u00e4hlergruppen und anderen Tr\u00e4gern von Wahlvorschl\u00e4gen im Zusammenhang mit Wahlen und Abstimmungen auf staatlicher und kommunaler Ebene in den sechs der Wahl oder Abstimmung vorangehenden Monaten Auskunft aus dem Melderegister \u00fcber die in \u00a7 44 Absatz 1 Satz 1 bezeichneten Daten von Gruppen von Wahlberechtigten erteilen, soweit f\u00fcr deren Zusammensetzung das Lebensalter bestimmend ist. Die Geburtsdaten der Wahlberechtigten d\u00fcrfen dabei nicht mitgeteilt werden. Die Person oder Stelle, der die Daten \u00fcbermittelt werden, darf diese nur f\u00fcr die Werbung bei einer Wahl oder Abstimmung verwenden und hat sie sp\u00e4testens einen Monat nach der Wahl oder Abstimmung zu l\u00f6schen oder zu vernichten.</P><P>(2) Verlangen Mandatstr\u00e4ger, Presse oder Rundfunk Auskunft aus dem Melderegister \u00fcber Alters- oder Ehejubil\u00e4en von Einwohnern, darf die Meldebeh\u00f6rde Auskunft erteilen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift sowie</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Datum und Art des Jubil\u00e4ums.</LA></DD></DL>Altersjubil\u00e4en im Sinne des Satzes 1 sind der 70. Geburtstag, jeder f\u00fcnfte weitere Geburtstag und ab dem 100. Geburtstag jeder folgende Geburtstag; Ehejubil\u00e4en sind das 50. und jedes folgende Ehejubil\u00e4um.</P><P>(3) Adressbuchverlagen darf zu allen Einwohnern, die das 18. Lebensjahr vollendet haben, Auskunft erteilt werden \u00fcber deren <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">derzeitige Anschriften.</LA></DD></DL>Die \u00fcbermittelten Daten d\u00fcrfen nur f\u00fcr die Herausgabe von Adressb\u00fcchern (Adressenverzeichnisse in Buchform) verwendet werden.</P><P>(4) Die Meldebeh\u00f6rde hat dem Eigent\u00fcmer der Wohnung und, wenn er nicht selbst Wohnungsgeber ist, auch dem Wohnungsgeber bei Glaubhaftmachung eines rechtlichen Interesses unentgeltlich Auskunft \u00fcber Familiennamen und Vornamen sowie Doktorgrad der in seiner Wohnung gemeldeten Einwohner zu erteilen. Die Auskunft kann auf Antrag des Auskunftsberechtigten im elektronischen Verfahren erteilt werden; \u00a7 10 Absatz 2 und 3 gilt entsprechend.</P><P>(5) Die betroffene Person hat das Recht, der \u00dcbermittlung ihrer Daten nach den Abs\u00e4tzen 1 bis 3 zu widersprechen; hierauf ist bei der Anmeldung nach \u00a7 17 Absatz 1 sowie einmal j\u00e4hrlich durch orts\u00fcbliche Bekanntmachung hinzuweisen. \u00a7 36 Absatz 2 Satz 2 gilt entsprechend.</P><P>(6) Eine Erteilung von Ausk\u00fcnften nach den Abs\u00e4tzen 1 bis 3 unterbleibt, wenn eine Auskunftssperre nach \u00a7 51 vorliegt. Eine Auskunft nach Absatz 3 darf au\u00dferdem nicht erteilt werden, wenn ein bedingter Sperrvermerk nach \u00a7 52 eingetragen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 50 Abs. 4 Satz 1: Hessen - Abweichung durch Geb\u00fchrennummer 421 der  Anlage zu \u00a7 1 der Verwaltungskostenordnung f\u00fcr den Gesch\u00e4ftsbereich des Ministeriums des Innern und f\u00fcr Sport (VwKostO-MdIS) v. 7.6.2013 GVBl. S. 410 mWv 1.11.2015 (vgl. BGBl. I 2017, 4016)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005206360",
+        "name": "\u00a7 51",
+        "title": "Auskunftssperren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>(1) Liegen Tatsachen vor, die die Annahme rechtfertigen, dass der betroffenen oder einer anderen Person durch eine Melderegisterauskunft eine Gefahr f\u00fcr Leben, Gesundheit, pers\u00f6nliche Freiheit oder \u00e4hnliche schutzw\u00fcrdige Interessen erwachsen kann, hat die Meldebeh\u00f6rde auf Antrag oder von Amts wegen unentgeltlich eine Auskunftssperre im Melderegister einzutragen. Ein \u00e4hnliches schutzw\u00fcrdiges Interesse ist insbesondere der Schutz der betroffenen oder einer anderen Person vor Bedrohungen, Beleidigungen sowie unbefugten Nachstellungen. Bei der Feststellung, ob Tatsachen im Sinne des Satzes 1 vorliegen, ist auch zu ber\u00fccksichtigen, ob die betroffene oder eine andere Person einem Personenkreis angeh\u00f6rt, der sich auf Grund seiner beruflichen oder ehrenamtlich ausge\u00fcbten T\u00e4tigkeit allgemein in verst\u00e4rktem Ma\u00dfe Anfeindungen oder sonstigen Angriffen ausgesetzt sieht.</P><P>(2) Sofern nach Anh\u00f6rung der betroffenen Person eine Gefahr nach Absatz 1 nicht ausgeschlossen werden kann, ist eine Melderegisterauskunft nicht zul\u00e4ssig. Ist die betroffene Person nicht erreichbar, ist in den F\u00e4llen, in denen eine Auskunftssperre auf Veranlassung einer in \u00a7 34 Absatz 4 Satz 1 Nummer 1 bis 4, 6 bis 9 und 11 genannten Beh\u00f6rde von Amts wegen eingetragen wurde, die veranlassende Stelle anzuh\u00f6ren. Sofern eine Auskunft nicht erteilt wird, erh\u00e4lt die ersuchende Person oder Stelle eine Mitteilung, die keine R\u00fcckschl\u00fcsse darauf zulassen darf, ob zu der betroffenen Person keine Daten vorhanden sind oder eine Auskunftssperre besteht.</P><P>(3) Wurde eine Auskunftssperre eingetragen, sind die betroffene Person und, sofern die Eintragung auf Veranlassung einer in \u00a7 34 Absatz 4 Satz 1 Nummer 1 bis 4, 6 bis 9 und 11 genannten Beh\u00f6rde von Amts wegen erfolgte, zus\u00e4tzlich die veranlassende Stelle \u00fcber jedes Ersuchen um eine Melderegisterauskunft unverz\u00fcglich zu unterrichten.</P><P>(4) Die Auskunftssperre wird auf zwei Jahre befristet. Sie kann auf Antrag oder von Amts wegen verl\u00e4ngert werden. Die betroffene Person ist vor Aufhebung der Sperre zu unterrichten, soweit sie erreichbar ist. Wurde die Sperre von einer in \u00a7 34 Absatz 4 Satz 1 Nummer 1 bis 4, 6 bis 9 und 11 genannten Beh\u00f6rde veranlasst, ist diese zu unterrichten, wenn die betroffene Person nicht erreichbar ist.</P><P>(5) Die Melderegisterauskunft ist ferner nicht zul\u00e4ssig, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit die Einsicht in ein Personenstandsregister nach \u00a7 63 des Personenstandsgesetzes nicht gestattet werden darf und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 1758 des B\u00fcrgerlichen Gesetzbuchs.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005304360",
+        "name": "\u00a7 52",
+        "title": "Bedingter Sperrvermerk",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000701116"
+        },
+        "body": "<P>(1) Die Meldebeh\u00f6rde richtet unentgeltlich einen bedingten Sperrvermerk f\u00fcr derzeitige Anschriften der Personen ein, die nach Kenntnis der Meldebeh\u00f6rde wohnhaft gemeldet sind in <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegeheimen oder sonstigen Einrichtungen, die der Betreuung pflegebed\u00fcrftiger oder behinderter Menschen oder der Heimerziehung dienen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen zum Schutz vor h\u00e4uslicher Gewalt oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen zur Behandlung von Suchterkrankungen.</LA></DD></DL></P><P>(2) In diesen F\u00e4llen darf, soweit nicht die Voraussetzungen des \u00a7 51 Absatz 1 bis 3 vorliegen, eine Melderegisterauskunft nur erteilt werden, wenn eine Beeintr\u00e4chtigung schutzw\u00fcrdiger Interessen ausgeschlossen werden kann. Die betroffene Person ist vor Erteilung einer Melderegisterauskunft zu h\u00f6ren. Ist der Meldebeh\u00f6rde eine aktuelle, nicht gesperrte Anschrift bekannt, so darf sie diese aktuelle Anschrift beauskunften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000801116",
+        "name": "Unterabschnitt 3",
+        "title": "Zeugenschutz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000501116"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005401116",
+        "name": "\u00a7 53",
+        "title": "Zeugenschutz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000801116"
+        },
+        "body": "<P>Die Vorschriften des Zeugenschutz-Harmonisierungsgesetzes vom 11. Dezember 2001 (BGBl. I S. 3510), das durch Artikel 2 Absatz 12 des Gesetzes vom 19. Februar 2007 (BGBl. I S. 122) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung bleiben von den Regelungen zu Daten\u00fcbermittlungen und Datenweitergabe nach den \u00a7\u00a7 34, 36 bis 38 und 49 unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG000901116",
+        "name": "Abschnitt 6",
+        "title": "Ordnungswidrigkeiten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005503116",
+        "name": "\u00a7 54",
+        "title": "Bu\u00dfgeldvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG000901116"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer entgegen \u00a7 19 Absatz 6 eine Wohnanschrift anbietet oder zur Verf\u00fcgung stellt.</P><P>(2) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 17 Absatz 1, auch in Verbindung mit \u00a7 27 Absatz 2 Satz 2 oder \u00a7 28 Absatz 1 Satz 1 oder Satz 2, entgegen \u00a7 29 Absatz 1 Satz 2 oder Absatz 4 Satz 2 oder \u00a7 32 Absatz 1 Satz 2 sich nicht, nicht richtig oder nicht rechtzeitig anmeldet,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 17 Absatz 2 Satz 1 sich nicht oder nicht rechtzeitig abmeldet,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 19 Absatz 1 Satz 2 den Einzug nicht, nicht richtig oder nicht rechtzeitig best\u00e4tigt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 19 Absatz 1 Satz 5 eine Best\u00e4tigung ausstellt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 19 Absatz 5 oder \u00a7 25 oder \u00a7 28 Absatz 4 zuwiderhandelt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 21 Absatz 4 Satz 2 eine Mitteilung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 28 Absatz 2 Satz 1 oder Satz 2 den Kapit\u00e4n oder ein Besatzungsmitglied nicht oder nicht rechtzeitig anmeldet oder nicht oder nicht rechtzeitig abmeldet,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 29 Absatz 2 Satz 1 einen besonderen Meldeschein nicht oder nicht rechtzeitig unterschreibt,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 30 Absatz 1 Satz 1 einen besonderen Meldeschein nicht bereith\u00e4lt,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 30 Absatz 4 Satz 1, auch in Verbindung mit Satz 2, einen Meldeschein nicht oder nicht mindestens ein Jahr aufbewahrt oder Daten nicht oder nicht mindestens ein Jahr speichert,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 30 Absatz 4 Satz 3 einen Meldeschein nicht oder nicht rechtzeitig vorlegt oder Daten nicht oder nicht rechtzeitig zur Verf\u00fcgung stellt,</LA></DD></DL></P><P>(3) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 mit einer Geldbu\u00dfe bis zu f\u00fcnfzigtausend Euro und in den \u00fcbrigen F\u00e4llen mit einer Geldbu\u00dfe bis zu tausend Euro geahndet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR108410013BJNG001001116",
+        "name": "Abschnitt 7",
+        "title": "Sonstige Vorschriften, Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005602116",
+        "name": "\u00a7 55",
+        "title": "Regelungsbefugnisse der L\u00e4nder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG001001116"
+        },
+        "body": "<P>(1) Durch Landesrecht kann bestimmt werden, dass f\u00fcr die Erf\u00fcllung von Aufgaben der L\u00e4nder weitere als die in \u00a7 3 aufgef\u00fchrten Daten und Hinweise verarbeitet werden.</P><P>(2) Durch Landesrecht kann bestimmt werden, dass den \u00f6ffentlich-rechtlichen Religionsgesellschaften zur Erf\u00fcllung ihrer Aufgaben weitere als die in \u00a7 42 genannten Daten \u00fcbermittelt werden d\u00fcrfen.</P><P>(3) Durch Landesrecht k\u00f6nnen die Einrichtung, die F\u00fchrung und die Aufgaben von zentralen Meldedatenbest\u00e4nden geregelt werden. In diesem Fall gelten die \u00a7\u00a7 4, 5, 6 Absatz 2 Satz 1 und 2 sowie die \u00a7\u00a7 7, 8, 10, 11 und 40 entsprechend.</P><P>(4) Durch Landesrecht kann das Muster der Meldescheine f\u00fcr die Meldungen nach \u00a7 17 Absatz 1 und 2 Satz 1, der einfachen Meldebescheinigung nach \u00a7 18 Absatz 1, der Meldebest\u00e4tigung nach \u00a7 24 Absatz 2 und der besonderen Meldescheine nach \u00a7 30 Absatz 1 bestimmt werden.</P><P>(5) Durch Landesrecht k\u00f6nnen regelm\u00e4\u00dfige Daten\u00fcbermittlungen nach \u00a7 36 Absatz 1 im Rahmen der Erf\u00fcllung von Aufgaben der L\u00e4nder geregelt werden, soweit dadurch Anlass und Zweck der \u00dcbermittlung festgelegt und der Empf\u00e4nger sowie die zu \u00fcbermittelnden Daten bestimmt werden.</P><P>(6) Durch Landesrecht kann die \u00dcbermittlung weiterer Daten und Hinweise nach \u00a7 38 Absatz 5 Satz 1 im Rahmen der Erf\u00fcllung von Aufgaben der L\u00e4nder geregelt werden, soweit dadurch Anlass und Zweck der \u00dcbermittlung festgelegt und der Empf\u00e4nger sowie die zu \u00fcbermittelnden Daten bestimmt werden.</P><P>(7) Durch Landesrecht kann bestimmt werden, welche weiteren Daten nach \u00a7 38 Absatz 5 Satz 2 im Rahmen der Erf\u00fcllung von Aufgaben der L\u00e4nder als Auswahldaten f\u00fcr Abrufe zul\u00e4ssig sind, soweit dadurch Anlass und Zweck des Abrufs bestimmt werden.</P><P>(8) Durch Landesrecht kann bestimmt werden, welche sonstigen Stellen nach \u00a7 39 Absatz 3 Daten zum Abruf anbieten. Sofern bestimmt wird, dass der Datenabruf innerhalb eines Landes abweichend von \u00a7 39 Absatz 3 \u00fcber landesinterne Netze erfolgt, ist sicherzustellen, dass Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 getroffen werden.</P><P>(9) Von den in \u00a7 33 Absatz 1 bis 3 und 6, \u00a7 34 Absatz 6 sowie in \u00a7 39 Absatz 3 getroffenen Regelungen und von den auf Grund von \u00a7 56 Absatz 1 getroffenen Regelungen des Verwaltungsverfahrens kann durch Landesrecht nicht abgewichen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005706360",
+        "name": "\u00a7 56",
+        "title": "Verordnungserm\u00e4chtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG001001116"
+        },
+        "body": "<P>(1) Das Bundesministerium des Innern, f\u00fcr Bau und Heimat wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Durchf\u00fchrung von Daten\u00fcbermittlungen nach \u00a7 23 Absatz 2 und 3 sowie \u00a7 33 Absatz 1 bis 3, die zur Fortschreibung der Melderegister erforderlich sind, die zu \u00fcbermittelnden Daten, ihre Form sowie das N\u00e4here \u00fcber das Verfahren der \u00dcbermittlung festzulegen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Durchf\u00fchrung von regelm\u00e4\u00dfigen Daten\u00fcbermittlungen nach \u00a7 36 Absatz 1, die zur Aufgabenerf\u00fcllung der datenempfangenden \u00f6ffentlichen Stelle erforderlich sind, die zu \u00fcbermittelnden Daten, ihre Form sowie das N\u00e4here \u00fcber das Verfahren der \u00dcbermittlung festzulegen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Durchf\u00fchrung von automatisierten Abrufen nach den \u00a7\u00a7 34a, 38 und 39 die Voraussetzungen, unter denen ein Datenabruf erfolgen darf, sowie die Form und den Inhalt der Daten festzulegen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Durchf\u00fchrung von Daten\u00fcbermittlungen zwischen Meldebeh\u00f6rden und einem Verwaltungsportal nach \u00a7\u00a03 Absatz 2 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3138), die zur Erbringung von elektronischen Verwaltungsleistungen nach diesem Gesetz erforderlich sind, die zu \u00fcbermittelnden Daten, ihre Form sowie das N\u00e4here \u00fcber das Verfahren der \u00dcbermittlung festzulegen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Durchf\u00fchrung von Melderegisterausk\u00fcnften \u00fcber Portale nach \u00a7 49 Absatz 3 die Voraussetzungen und das Verfahren zur Zulassung von Portalen zu regeln und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Vertrauensniveau im Sinne des Artikels 8 der Verordnung (EU) Nr. 910/2014 des Europ\u00e4ischen Parlaments und des Rates vom 23. Juli 2014 \u00fcber elektronische Identifizierung und Vertrauensdienste f\u00fcr elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73; L 23 vom 29.1.2015, S. 19; L 155 vom 14.6.2016, S. 44) festzulegen, das bei einer elektronischen Beantragung von Verwaltungsleistungen nach diesem Gesetz jeweils erforderlich ist.</LA></DD></DL></P><P>(2) Das Bundesministerium des Innern, f\u00fcr Bau und Heimat wird erm\u00e4chtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die Einzelheiten der elektronischen Speicherung nach \u00a7 29 Absatz 5 und \u00a7 30 Absatz 4, insbesondere die bei der Speicherung der Daten einzuhaltenden Datenformate, zu regeln. Es hat dabei die technischen und wirtschaftlichen Belange der nach \u00a7 30 Absatz 1 Satz 1 verpflichteten Beherbergungsst\u00e4tten und Einrichtungen zu ber\u00fccksichtigen.</P><P>(3) Soweit in Rechtsverordnungen auf Grund dieses Gesetzes Form und Verfahren von Daten\u00fcbermittlungen zu bestimmen sind, kann insoweit auf jedermann zug\u00e4ngliche Bekanntmachungen sachverst\u00e4ndiger Stellen verwiesen werden. In der Rechtsverordnung sind das Datum der Bekanntmachung, die Fundstelle und die Bezugsquelle der Bekanntmachung anzugeben. Die Bekanntmachung ist beim Bundesarchiv niederzulegen; in der Rechtsverordnung ist darauf hinzuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005801116",
+        "name": "\u00a7 57",
+        "title": "Verwaltungsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG001001116"
+        },
+        "body": "<P>Die Bundesregierung kann mit Zustimmung des Bundesrates allgemeine Verwaltungsvorschriften zur Durchf\u00fchrung dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erlassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108410013BJNE005902116",
+        "name": "\u00a7 58",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR108410013BJNG001001116"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

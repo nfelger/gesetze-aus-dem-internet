@@ -1,0 +1,324 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR031700001",
+    "firstPublished": "2001-02-20",
+    "sourceTimestamp": "20200305213015",
+    "titleShort": "Verordnung \u00fcber Anlagen zur biologischen Behandlung von Abf\u00e4llen",
+    "titleLong": "Drei\u00dfigste Verordnung zur Durchf\u00fchrung des\nBundes-Immissionsschutzgesetzes",
+    "abbreviation": "30. BImSchV",
+    "slug": "30_bimschv",
+    "extraAbbreviations": [
+      "BImSchV 30"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2001, 305, 317",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 2 V v. 13.12.2019 I 2739",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 1.3.2001 +++)</P><P><BR /> Die V wurde als Artikel 2 d. V v. 20.2.2001 I 305 (AbfAblV/BImSchV30/Abw\u00c4ndV) von der Bundesregierung nach Anh\u00f6rung der beteiligten Kreise mit Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 4 dieser V am 1.3.2001 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE000600305",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"15*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"70*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Erster Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Allgemeine Vorschriften</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 1</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendungsbereich</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 2</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Begriffsbestimmungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Zweiter Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Anforderungen an die Errichtung, die Beschaffenheit und den Betrieb</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 3</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Mindestabstand</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 4</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Emissionsbezogene Anforderungen f\u00fcr Anlieferung, Aufbereitung, Stofftrennung, Lagerung und Transport</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 5</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Emissionsbezogene Anforderungen f\u00fcr biologische Behandlung, Prozessw\u00e4sser und Br\u00fcdenkondensate</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 6</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Emissionsgrenzwerte</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 7</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ableitbedingungen f\u00fcr Abgase</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Dritter Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Messung und \u00dcberwachung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 8</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Messverfahren und Messeinrichtungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 9</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Kontinuierliche Messungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 10</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Auswertung und Beurteilung von kontinuierlichen Messungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 11</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einzelmessungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 12</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Berichte und Beurteilung von Einzelmessungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 13</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">St\u00f6rungen des Betriebes</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Vierter Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Anforderungen an Altanlagen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 14</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbergangsregelungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">F\u00fcnfter Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Gemeinsame Vorschriften</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 15</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unterrichtung der \u00d6ffentlichkeit</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 16</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zulassung von Ausnahmen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 17</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Weitergehende Anforderungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 18</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ordnungswidrigkeiten</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR031700001BJNG000100305",
+        "name": "Erster Teil",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE000702116",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000100305"
+        },
+        "body": "<P>(1) Diese Verordnung gilt f\u00fcr die Errichtung, die Beschaffenheit und den Betrieb von Anlagen, in denen Siedlungsabf\u00e4lle und Abf\u00e4lle, die wie Siedlungsabf\u00e4lle entsorgt werden k\u00f6nnen, mit biologischen oder einer Kombination von biologischen mit physikalischen Verfahren behandelt werden, soweit <DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">biologisch stabilisierte Abf\u00e4lle als Vorbehandlung zur Ablagerung oder vor einer thermischen Behandlung erzeugt,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">heizwertreiche Fraktionen oder Ersatzbrennstoffe gewonnen oder</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Biogase zur energetischen Nutzung erzeugt</LA></DD></DL>werden (biologische Abfallbehandlungsanlagen) und sie nach \u00a7 4 des Bundes-Immissionsschutzgesetzes in Verbindung mit der Verordnung \u00fcber genehmigungsbed\u00fcrftige Anlagen genehmigungsbed\u00fcrftig sind.</P><P>(2) Diese Verordnung gilt nicht f\u00fcr Anlagen, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erzeugung von verwertbarem Kompost oder Biogas ausschlie\u00dflich aus Bioabf\u00e4llen gem\u00e4\u00df \u00a7 2 Nr. 1 der Bioabfallverordnung vom 21. September 1998 (BGBl. I S. 2955) oder aus Erzeugnissen oder Nebenerzeugnissen aus der Land-, Forst- oder Fischwirtschaft oder aus Kl\u00e4rschlamm nach \u00a7 2 Absatz 2, Kl\u00e4rschlammgemisch nach \u00a7 2 Absatz 7 oder Kl\u00e4rschlammkompost nach \u00a7 2 Absatz 8 der Kl\u00e4rschlammverordnung vom 27. September 2017 (BGBl. I S. 3465), in der jeweils geltenden Fassung, sowie aus einem Gemisch der vorgenannten Stoffe in Kofermentationsanlagen oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Ausfaulung von Kl\u00e4rschlamm</LA></DD></DL>bestimmt sind.</P><P>(3) Diese Verordnung enth\u00e4lt insbesondere Anforderungen, die nach \u00a7 5 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes bei der Errichtung und beim Betrieb der Anlagen zur Vorsorge gegen sch\u00e4dliche Umwelteinwirkungen durch Luftverunreinigungen zu erf\u00fcllen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE000800305",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000100305"
+        },
+        "body": "<P>Im Sinne dieser Verordnung sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abgase</LA><LA Size=\"normal\">die Tr\u00e4gergase mit festen, fl\u00fcssigen oder gasf\u00f6rmigen Emissionen;</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abgasreinigungseinrichtung</LA><LA Size=\"normal\">Einrichtungen zur Emissionsminderung von emissionsrelevanten Luftverunreinigungen im Abgas der biologischen Abfallbehandlungsanlage, insbesondere zur Emissionsbegrenzung f\u00fcr Geruchsstoffe, klimarelevante Gase, organische Stoffe und St\u00e4ube und zur Reduzierung lebens- und vermehrungsf\u00e4higer Mikroorganismen;</LA></DD>  <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Altanlagen</LA><LA Size=\"normal\">biologische Abfallbehandlungsanlagen, f\u00fcr die bis zum Zeitpunkt des Inkrafttretens dieser Verordnung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Anzeige nach \u00a7 67 Abs. 2 oder 7 oder \u00a7 67a Abs. 1 des Bundes-Immissionsschutzgesetzes oder vor Inkrafttreten des Bundes-Immissionsschutzgesetzes nach \u00a7 16 Abs. 4 der Gewerbeordnung erfolgen musste,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Planfeststellungsbeschluss nach \u00a7 7 Abs. 1 des Abfallgesetzes vom 27. August 1986 (BGBl. I S. 1410, 1501) zur Errichtung und zum Betrieb ergangen ist,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Planfeststellungsbeschluss nach \u00a7 31 Abs. 2 oder die Genehmigung nach \u00a7 31 Abs. 3 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705) zur Errichtung und zum Betrieb ergangen ist,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem Planfeststellungsverfahren nach \u00a7 31 Abs. 2 des Kreislaufwirtschafts- und Abfallgesetzes der Beginn der Ausf\u00fchrung nach \u00a7 33 Abs. 1 des Kreislaufwirtschafts- und Abfallgesetzes vor Feststellung des Planes zugelassen worden ist,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Genehmigung nach \u00a7 4 oder \u00a7 16 des Bundes-Immissionsschutzgesetzes zur Errichtung und zum Betrieb erteilt ist oder</LA></DD> <DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Teilgenehmigung nach \u00a7 8, eine Zulassung vorzeitigen Beginns nach \u00a7 8a oder ein Vorbescheid nach \u00a7 9 des Bundes-Immissionsschutzgesetzes erteilt ist, soweit darin Anforderungen nach \u00a7 5 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes festgelegt sind;</LA></DD> </DL></LA></DD>  <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anfallende Abf\u00e4lle</LA><LA Size=\"normal\">alle festen oder fl\u00fcssigen Abf\u00e4lle, die in der biologischen Abfallbehandlungsanlage anfallen;</LA></DD>  <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abf\u00e4lle mit biologisch abbaubaren Anteilen</LA><LA Size=\"normal\">Abf\u00e4lle mit hohem organischen Anteil im Sinne der in Anhang 1 Nr. 1 der Bioabfallverordnung genannten Abf\u00e4lle sowie andere Abf\u00e4lle mit hohem biologisch abbaubaren Anteil, die aufgrund ihrer Beschaffenheit oder Zusammensetzung wie Siedlungsabf\u00e4lle entsorgt werden, insbesondere Kl\u00e4rschl\u00e4mme aus Abwasserbehandlungsanlagen zur Behandlung von kommunalem Abwasser oder Abw\u00e4ssern mit \u00e4hnlich geringer Schadstoffbelastung, F\u00e4kalien, F\u00e4kalschlamm, R\u00fcckst\u00e4nde aus Abwasseranlagen, Wasserreinigungsschl\u00e4mme, Bauabf\u00e4lle und produktionsspezifische Abf\u00e4lle. Hierunter fallen auch Abf\u00e4lle aus der Behandlung von Siedlungsabf\u00e4llen und von Abf\u00e4llen nach Satz 1;</LA></DD>  <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Biologische Abfallbehandlungsanlage</LA><LA Size=\"normal\">Abfallbehandlungsanlage, in der Siedlungsabf\u00e4lle oder andere Abf\u00e4lle mit biologisch abbaubaren Anteilen mit biologischen oder einer Kombination von biologischen mit physikalischen Verfahren behandelt werden, soweit biologisch stabilisierte Abf\u00e4lle, heizwertreiche Fraktionen, Ersatzbrennstoffe oder Biogase erzeugt werden. Zur biologischen Abfallbehandlungsanlage geh\u00f6ren insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtungen zur biologischen Behandlung der Einsatzstoffe oder der anfallenden Abf\u00e4lle unter aeroben Bedingungen (Verrottung) oder unter anaeroben Bedingungen (Verg\u00e4rung) mit ihren Austrags-, Eintrags-, Luft- und Abgasf\u00fchrungs- und Umsetzsystemen und</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtungen zur mechanischen Aufbereitung oder zur physikalischen Trennung der Einsatzstoffe oder der anfallenden Abf\u00e4lle als Vorbehandlungs- und Nachbehandlungseinrichtungen vor und nach der biologischen Behandlung (wie zum Abscheiden oder Aussortieren von Metallen, Folien oder anderen St\u00f6r- oder Wertstoffen, zum Entw\u00e4ssern, zum Homogenisieren oder Mischen, zum Klassieren oder Sortieren durch Sieben, Windsichten oder hydraulisches Trennen, zum Pelletieren, zum Trocknen, zum Verpressen oder zum Zerkleinern),</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtungen zur Anlieferung, Eingangskontrolle und Entladung der Einsatzstoffe, zur Lagerung der Einsatzstoffe und der anfallenden Abf\u00e4lle sowie zu ihrem Transport, ihrem Umschlag und ihrer Dosierung,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtungen f\u00fcr die Abgaserfassung,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtungen f\u00fcr die Abgasreinigung und f\u00fcr die Behandlung von Prozessw\u00e4ssern und Br\u00fcdenkondensaten,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtungen f\u00fcr die Abgasableitungen in die Atmosph\u00e4re,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtungen zur Betriebskontrolle der Behandlungsvorg\u00e4nge und der Zwischenlagerung sowie zur \u00dcberwachung der Behandlungs- und Lagerungsbedingungen und</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtungen zur \u00dcberwachung der Emissionen;</LA></DD> </DL></LA></DD>  <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einsatzstoffe</LA><LA Size=\"normal\">alle einer biologischen Abfallbehandlungsanlage zugef\u00fchrten Siedlungsabf\u00e4lle oder anderen Abf\u00e4lle mit biologisch abbaubaren Anteilen;</LA></DD>  <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Emissionen</LA><LA Size=\"normal\">die von einer biologischen Abfallbehandlungsanlage ausgehenden Luftverunreinigungen; sie werden angegeben als:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Massenkonzentration in der Einheit Milligramm je Kubikmeter <ABWFORMAT typ=\"A\" />(mg/cbm), bezogen auf das Abgasvolumen im Normzustand (273 K, 1013 hPa) nach Abzug des Feuchtegehaltes an Wasserdampf,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Massenverh\u00e4ltnis in der Einheit Gramm je Megagramm (g/Mg) als Verh\u00e4ltnis der Masse der emittierten Stoffe zu der Masse der zugef\u00fchrten Einsatzstoffe im Anlieferungszustand,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Geruchsstoffkonzentration in der Einheit Geruchseinheit je Kubikmeter <ABWFORMAT typ=\"A\" />(GE/cbm) als olfaktometrisch gemessenes Verh\u00e4ltnis der Volumenstr\u00f6me bei Verd\u00fcnnung einer Abgasprobe mit Neutralluft bis zur Geruchsschwelle, angegeben als Vielfaches der Geruchsschwelle;</LA></DD> </DL></LA></DD>  <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Emissionsgrenzwerte</LA><LA Size=\"normal\">zul\u00e4ssige Emissionen im Abgas, die nach den in \u00a7 10 Abs. 4 und \u00a7 12 Abs. 2 festgelegten Kriterien beurteilt werden;</LA></DD>  <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Siedlungsabf\u00e4lle</LA><LA Size=\"normal\">Abf\u00e4lle aus Haushaltungen sowie Abf\u00e4lle aus anderen Herkunftsbereichen, die aufgrund ihrer Beschaffenheit oder Zusammensetzung den Abf\u00e4llen aus Haushaltungen \u00e4hnlich sind, insbesondere Hausm\u00fcll, Sperrm\u00fcll, hausm\u00fcllartige Gewerbeabf\u00e4lle, Garten- und Parkabf\u00e4lle, Marktabf\u00e4lle und Stra\u00dfenreinigungsabf\u00e4lle.</LA></DD>  </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR031700001BJNG000200305",
+        "name": "Zweiter Teil",
+        "title": "Anforderungen an die Errichtung,\ndie Beschaffenheit und den Betrieb",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE000900305",
+        "name": "\u00a7 3",
+        "title": "Mindestabstand",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000200305"
+        },
+        "body": "<P>Bei der Errichtung von biologischen Abfallbehandlungsanlagen soll ein Mindestabstand von 300 Meter zur n\u00e4chsten vorhandenen oder in einem Bebauungsplan festgesetzten Wohnbebauung nicht unterschritten werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001001116",
+        "name": "\u00a7 4",
+        "title": "Emissionsbezogene Anforderungen f\u00fcr Anlieferung, Aufbereitung, Stofftrennung und Lagerung und Transport",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000200305"
+        },
+        "body": "<P>(1) Entladestellen, Aufgabe- oder Aufnahmebunker oder andere Einrichtungen f\u00fcr Anlieferung, Transport und Lagerung der Einsatzstoffe sind in geschlossenen R\u00e4umen mit Schleusen oder funktionell gleichwertigen Einrichtungen, zum Beispiel mit Luftschleieranlagen in Kombination mit Schnelllauftoren, zu errichten, in denen der Luftdruck durch Absaugung im Schleusenbereich oder im Bereich der Be- und Entladung und der Lagerung kleiner als der Atmosph\u00e4rendruck zu halten ist. Das abgesaugte Abgas ist einer Abgasreinigungseinrichtung zuzuf\u00fchren.</P><P>(2) Maschinen, Ger\u00e4te oder sonstige Einrichtungen zur mechanischen Aufbereitung oder zur physikalischen Trennung der Einsatzstoffe oder der anfallenden Abf\u00e4lle (zum Beispiel durch Zerkleinern, Klassieren, Sortieren, Mischen, Homogenisieren, Entw\u00e4ssern, Trocknen, Pelletieren, Verpressen) sind zu kapseln. Soweit eine abgasdichte Ausf\u00fchrung, insbesondere an den Aufgabe-, Austrags- oder \u00dcbergabestellen, nicht oder nur teilweise m\u00f6glich ist, sind die Abgasstr\u00f6me dieser Einrichtungen zu erfassen und einer Abgasreinigungseinrichtung zuzuf\u00fchren.</P><P>(3) Die Abgasstr\u00f6me nach Absatz 1 Satz 2 und Absatz 2 Satz 2 k\u00f6nnen auch als Zuluft f\u00fcr die beim Rottevorgang ben\u00f6tigte Prozessluft dienen.</P><P>(4) F\u00fcr den Abtransport staubender G\u00fcter sind geschlossene Beh\u00e4lter zu verwenden.</P><P>(5) Die Fahrwege im Bereich der biologischen Abfallbehandlungsanlage sind mit einer Deckschicht aus Asphalt-Stra\u00dfenbaustoffen, in Zementbeton oder gleichwertigem Material auszuf\u00fchren und entsprechend dem Verschmutzungsgrad zu s\u00e4ubern. Es ist sicherzustellen, dass erhebliche Verschmutzungen durch Fahrzeuge nach Verlassen des Anlagenbereichs vermieden oder beseitigt werden, zum Beispiel durch Reifenwaschanlagen oder regelm\u00e4\u00dfiges S\u00e4ubern der Fahrwege.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001101116",
+        "name": "\u00a7 5",
+        "title": "Emissionsbezogene Anforderungen f\u00fcr biologische Behandlung, Prozessw\u00e4sser und Br\u00fcdenkondensate",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000200305"
+        },
+        "body": "<P>(1) Einrichtungen zur biologischen Behandlung von Einsatzstoffen oder von anfallenden Abf\u00e4llen unter aeroben Bedingungen (Verrottung) oder unter anaeroben Bedingungen (Verg\u00e4rung) sind zu kapseln oder in geschlossenen R\u00e4umen mit Schleusen zu errichten, in denen der Luftdruck durch Absaugung im Schleusenbereich oder im Bereich der biologischen Behandlung kleiner als der Atmosph\u00e4rendruck zu halten ist. Soweit eine abgasdichte Ausf\u00fchrung an den Aufgabe-, Austrags- oder \u00dcbergabestellen und beim Umsetzen des Rottegutes nicht oder nur teilweise m\u00f6glich ist, sind die Abgasstr\u00f6me zu erfassen und einer Abgasreinigungseinrichtung zuzuf\u00fchren.</P><P>(2) Das beim Rottevorgang in den Rottesystemen entstehende Abgas ist vollst\u00e4ndig einer Abgasreinigungseinrichtung zuzuf\u00fchren.</P><P>(3) Die beim Verg\u00e4rungsvorgang in Einrichtungen zur Nass- oder Trockenfermentation entstehenden Biogase sind einer Gasreinigungsanlage zur Umwandlung in ein nutzbares Gas zuzuf\u00fchren, soweit sie nicht unmittelbar in einer Verbrennungsanlage energetisch genutzt werden k\u00f6nnen.</P><P>(4) M\u00f6glichkeiten, die Emissionen durch den Einsatz emissionsarmer Verfahren und Technologien zu mindern, zum Beispiel durch eine Getrennthaltung unterschiedlich belasteter Abgasstr\u00f6me, eine Mehrfachnutzung von Abgas als Prozessluft beim Rottevorgang oder eine prozessintegrierte R\u00fcckf\u00fchrung anfallender Prozessw\u00e4sser oder schlammf\u00f6rmiger R\u00fcckst\u00e4nde, sind auszusch\u00f6pfen.</P><P>(5) Die F\u00f6rder- und Lagersysteme sowie die anlageninternen Behandlungseinrichtungen f\u00fcr Prozessw\u00e4sser und Br\u00fcdenkondensate sind so auszulegen und zu betreiben, dass hiervon keine relevanten diffusen Emissionen ausgehen k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001201116",
+        "name": "\u00a7 6",
+        "title": "Emissionsgrenzwerte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000200305"
+        },
+        "body": "<P>Der Betreiber hat die biologische Abfallbehandlungsanlage so zu errichten und zu betreiben, dass in den zur Ableitung in die Atmosph\u00e4re bestimmten Abgasstr\u00f6men nach \u00a7 4 Abs. 1 Satz 2 und Abs. 2 Satz 2 und \u00a7 5 Abs. 1 Satz 2 und Abs. 2 <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">kein Tagesmittelwert die folgenden Emissionsgrenzwerte \u00fcberschreitet:</LA></DD></DL><BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"60*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"15*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gesamtstaub</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">5 mg/cbm</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">organische Stoffe, angegeben als Gesamtkohlenstoff,</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">20 mg/cbm</entry></row></tbody></tgroup></table><DL Font=\"normal\" Type=\"arabic\"><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">kein Halbstundenmittelwert die folgenden Emissionsgrenzwerte \u00fcberschreitet:</LA></DD></DL><BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"60*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"15*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gesamtstaub</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">30 mg/cbm</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">organische Stoffe, angegeben als Gesamtkohlenstoff,</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">40 mg/cbm</entry></row></tbody></tgroup></table><DL Font=\"normal\" Type=\"arabic\"><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">kein Monatsmittelwert, bestimmt als Massenverh\u00e4ltnis nach \u00a7 10 Abs. 2, die folgenden Emissionsgrenzwerte \u00fcberschreitet:</LA></DD></DL><BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"60*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"15*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Distickstoffoxid</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">100 g/Mg</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">organische Stoffe, angegeben als Gesamtkohlenstoff,</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">55 g/Mg</entry></row></tbody></tgroup></table><DL Font=\"normal\" Type=\"arabic\"><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">kein Messwert einer Probe den folgenden Emissionsgrenzwert \u00fcberschreitet:</LA></DD></DL><BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"50*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"30*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Geruchsstoffe</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">500 GE/cbm</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">und</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row></tbody></tgroup></table><DL Font=\"normal\" Type=\"arabic\"><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">kein Mittelwert, der \u00fcber die jeweilige Probenahmezeit gebildet ist, den folgenden Emissionsgrenzwerte \u00fcberschreitet:</LA></DD></DL><BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"60*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"25*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Dioxine/Furane, angegeben als Summenwert gem\u00e4\u00df Anhang zur 17. BImSchV,</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">0,1 ng/cbm.</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001300305",
+        "name": "\u00a7 7",
+        "title": "Ableitbedingungen f\u00fcr Abgase",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000200305"
+        },
+        "body": "<P>Der Betreiber hat die Abgasstr\u00f6me nach \u00a7 4 Abs. 1 Satz 2 und Abs. 2 Satz 2 und \u00a7 5 Abs. 1 Satz 2 und Abs. 2 so abzuleiten, dass ein ungest\u00f6rter Abtransport mit der freien Luftstr\u00f6mung erfolgt; eine Ableitung \u00fcber Schornsteine ist erforderlich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR031700001BJNG000300305",
+        "name": "Dritter Teil",
+        "title": "Messung und \u00dcberwachung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001400305",
+        "name": "\u00a7 8",
+        "title": "Messverfahren und Messeinrichtungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000300305"
+        },
+        "body": "<P>(1) F\u00fcr die Messungen sind nach n\u00e4herer Bestimmung der zust\u00e4ndigen Beh\u00f6rde Messpl\u00e4tze einzurichten; diese sollen ausreichend gro\u00df, leicht zug\u00e4nglich und so beschaffen sein sowie so ausgew\u00e4hlt werden, dass repr\u00e4sentative und einwandfreie Messungen gew\u00e4hrleistet sind.</P><P>(2) F\u00fcr Messungen zur Feststellung der Emissionen und zur Ermittlung der Bezugs- und Betriebsgr\u00f6\u00dfen sind die dem Stand der Messtechnik entsprechenden Messverfahren und geeignete Messeinrichtungen nach n\u00e4herer Bestimmung der zust\u00e4ndigen Beh\u00f6rde anzuwenden oder zu verwenden.</P><P>(3) \u00dcber den ordnungsgem\u00e4\u00dfen Einbau von Messeinrichtungen zur kontinuierlichen \u00dcberwachung ist eine Bescheinigung einer von der nach Landesrecht zust\u00e4ndigen Beh\u00f6rde bekannt gegebenen Stelle zu erbringen.</P><P>(4) Der Betreiber hat Messeinrichtungen, die zur kontinuierlichen Feststellung der Emissionen eingesetzt werden, durch eine von der nach Landesrecht zust\u00e4ndigen Beh\u00f6rde bekannt gegebenen Stelle vor Inbetriebnahme der Anlage kalibrieren und j\u00e4hrlich einmal auf Funktionsf\u00e4higkeit pr\u00fcfen zu lassen; die Kalibrierung ist vor Inbetriebnahme einer wesentlich ge\u00e4nderten Anlage, im \u00dcbrigen im Abstand von drei Jahren zu wiederholen. Die Berichte \u00fcber das Ergebnis der Kalibrierung und der Pr\u00fcfung der Funktionsf\u00e4higkeit sind der zust\u00e4ndigen Beh\u00f6rde innerhalb von acht Wochen nach Eingang der Berichte vorzulegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001500305",
+        "name": "\u00a7 9",
+        "title": "Kontinuierliche Messungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000300305"
+        },
+        "body": "<P>Der Betreiber hat <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Massenkonzentrationen der Emissionen nach \u00a7 6 Nr. 1 und 2,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Massenkonzentrationen der Emissionen an Distickstoffoxid und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zur Auswertung und Beurteilung des ordnungsgem\u00e4\u00dfen Betriebes erforderlichen Bezugsgr\u00f6\u00dfen, insbesondere Abgastemperatur, Abgasvolumenstrom, Druck, Feuchtegehalt an Wasserdampf sowie Masse der zugef\u00fchrten Einsatzstoffe im Anlieferungszustand</LA></DD> </DL>kontinuierlich zu ermitteln, zu registrieren und gem\u00e4\u00df \u00a7 10 Abs. 1 und 2 auszuwerten. Messeinrichtungen f\u00fcr den Feuchtegehalt an Wasserdampf sind nicht notwendig, soweit das Abgas vor der Ermittlung der Massenkonzentration der Emissionen getrocknet wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001600305",
+        "name": "\u00a7 10",
+        "title": "Auswertung und Beurteilung von kontinuierlichen Messungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000300305"
+        },
+        "body": "<P>(1) W\u00e4hrend des Betriebes der biologischen Abfallbehandlungsanlage ist aus den Messwerten nach \u00a7 9 Satz 1 f\u00fcr jede aufeinander folgende halbe Stunde der Halbstundenmittelwert zu bilden und auf die Bedingungen nach \u00a7 2 Nr. 8 Buchstabe a umzurechnen. Aus den Halbstundenmittelwerten ist f\u00fcr jeden Tag der Tagesmittelwert, bezogen auf die t\u00e4gliche Betriebszeit einschlie\u00dflich der Anfahr- oder Abstellvorg\u00e4nge, zu bilden.</P><P>(2) Aus den nach Absatz 1 Satz 2 gebildeten Tagesmittelwerten der Massenkonzentrationen f\u00fcr organische Stoffe, angegeben als Gesamtkohlenstoff, und f\u00fcr Distickstoffoxid und der Abgasmenge als Tagessumme der Abgasstr\u00f6me nach \u00a7 4 Abs. 1 Satz 2 und Abs. 2 Satz 2 und \u00a7 5 Abs. 1 Satz 2 und Abs. 2 sind die emittierten Tagesmassen dieser Luftverunreinigungen zu ermitteln. Aus den emittierten Tagesmassen sind die w\u00e4hrend des Betriebes der biologischen Abfallbehandlungsanlage emittierten Monatsmassen zu bilden. Die monatliche Einsatzstoffmenge ist als Monatssumme der zugef\u00fchrten Einsatzstoffe im Anlieferungszustand zu erfassen. Aus den emittierten Monatsmassen nach Satz 2 und der monatlichen Einsatzstoffmenge nach Satz 3 ist das Massenverh\u00e4ltnis nach \u00a7 2 Nr. 8 Buchstabe b zu berechnen.</P><P>(3) \u00dcber die Auswertung der kontinuierlichen Messungen und die Bestimmung der Massenverh\u00e4ltnisse hat der Betreiber einen Messbericht zu erstellen und innerhalb von drei Monaten nach Ablauf eines jeden Kalenderjahres der zust\u00e4ndigen Beh\u00f6rde vorzulegen. Der Betreiber muss die Aufzeichnungen der Messger\u00e4te nach dem Erstellen des Messberichtes f\u00fcnf Jahre aufbewahren. Satz 1 gilt nicht, soweit die zust\u00e4ndige Beh\u00f6rde die telemetrische \u00dcbermittlung der Messergebnisse vorgeschrieben hat.</P><P>(4) Die Emissionsgrenzwerte sind eingehalten, wenn kein Tagesmittelwert nach \u00a7 6 Nr. 1, kein Halbstundenmittelwert nach \u00a7 6 Nr. 2 und kein Monatsmittelwert nach \u00a7 6 Nr. 3 den jeweiligen Emissionsgrenzwert \u00fcberschreitet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001701116",
+        "name": "\u00a7 11",
+        "title": "Einzelmessungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000300305"
+        },
+        "body": "<P>(1) Der Betreiber hat nach Errichtung oder wesentlicher \u00c4nderung der biologischen Abfallbehandlungsanlage Messungen einer nach \u00a7 26 des Bundes-Immissionsschutzgesetzes bekannt gegebenen Stelle zur Feststellung, ob die Anforderungen nach \u00a7 6 Nr. 4 und 5 erf\u00fcllt werden, durchf\u00fchren zu lassen. Die Messungen sind im Zeitraum von zw\u00f6lf Monaten nach Inbetriebnahme alle zwei Monate mindestens an einem Tag und anschlie\u00dfend wiederkehrend sp\u00e4testens alle zw\u00f6lf Monate mindestens an drei Tagen durchf\u00fchren zu lassen. Diese sollen vorgenommen werden, wenn die Anlagen mit der h\u00f6chsten Leistung betrieben werden, f\u00fcr die sie bei den w\u00e4hrend der Messung verwendeten Einsatzstoffen f\u00fcr den Dauerbetrieb zugelassen sind. Auf Einzelmessungen nach \u00a7 6 Nummer 5 kann verzichtet werden, wenn der Betreiber mit ausreichender Sicherheit nachweist, dass die dort genannten Emissionsbegrenzungen nicht \u00fcberschritten werden, zum Beispiel durch das Ergebnis einer Pr\u00fcfung der Wirksamkeit von Einrichtungen zur Emissionsminderung, der Zusammensetzung der Einsatzstoffe oder der Art der Prozessbedingungen.</P><P>(2) F\u00fcr jede Einzelmessung sollen je Emissionsquelle mindestens drei Proben genommen werden. Die olfaktometrische Analyse hat unmittelbar nach der Probenahme zu erfolgen.</P><P>(3) Nach Errichtung oder wesentlicher \u00c4nderung der biologischen Abfallbehandlungsanlage kann die zust\u00e4ndige Beh\u00f6rde vom Betreiber die Durchf\u00fchrung von Messungen einer nach \u00a7 26 des Bundes-Immissionsschutzgesetzes bekannt gegebenen Stelle zur Feststellung, ob durch den Betrieb der Anlage in der Nachbarschaft Geruchsimmissionen hervorgerufen werden, die eine erhebliche Bel\u00e4stigung im Sinne des \u00a7 3 Abs. 1 des Bundes-Immissionsschutzgesetzes darstellen, verlangen. F\u00fcr die Ermittlung der Immissionsbelastung sind olfaktorische Feststellungen im Rahmen von Begehungen vorzunehmen. Die Messungen sind nach Erreichen des ungest\u00f6rten Betriebes, jedoch sp\u00e4testens zw\u00f6lf Monate nach Inbetriebnahme durchf\u00fchren zu lassen. Diese sollen vorgenommen werden, wenn die Anlagen mit der h\u00f6chsten Leistung betrieben werden, f\u00fcr die sie bei den w\u00e4hrend der Messung verwendeten Einsatzstoffen f\u00fcr den Dauerbetrieb zugelassen sind.</P><P>(4) Werden in Abgaseinrichtungen Verbrennungstemperaturen von mehr als 800 Grad Celsius eingesetzt, soll f\u00fcr den betreffenden Abgasstrom auf die Festlegung einer Geruchsstoffkonzentration als Emissionsbegrenzung verzichtet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001800305",
+        "name": "\u00a7 12",
+        "title": "Berichte und Beurteilung von Einzelmessungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000300305"
+        },
+        "body": "<P>(1) \u00dcber die Ergebnisse der Messungen nach \u00a7 11 hat der Betreiber einen Messbericht zu erstellen und der zust\u00e4ndigen Beh\u00f6rde unverz\u00fcglich vorzulegen. Der Messbericht muss Angaben \u00fcber die Messplanung, das Ergebnis jeder Einzelmessung, das verwendete Messverfahren und die Betriebsbedingungen, die f\u00fcr die Beurteilung der Messergebnisse von Bedeutung sind, enthalten.</P><P>(2) Die Emissionsgrenzwerte nach \u00a7 6 Nr. 4 und 5 gelten als eingehalten, wenn kein Ergebnis einer Einzelmessung diese Emissionsgrenzwerte \u00fcberschreitet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE001900305",
+        "name": "\u00a7 13",
+        "title": "St\u00f6rungen des Betriebes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000300305"
+        },
+        "body": "<P>(1) Ergibt sich aus Messungen und sonstigen offensichtlichen Wahrnehmungen, dass Anforderungen an den Betrieb der Anlagen oder zur Begrenzung von Emissionen nicht erf\u00fcllt werden, hat der Betreiber dies den zust\u00e4ndigen Beh\u00f6rden unverz\u00fcglich mitzuteilen. Er hat unverz\u00fcglich die erforderlichen Ma\u00dfnahmen f\u00fcr einen ordnungsgem\u00e4\u00dfen Betrieb zu treffen.</P><P>(2) Die Beh\u00f6rde soll f\u00fcr technisch unvermeidbare Abschaltungen, St\u00f6rungen oder Ausf\u00e4lle der Abgasreinigungseinrichtungen den Zeitraum festlegen, w\u00e4hrenddessen von den Emissionsgrenzwerten nach \u00a7 6 unter bestimmten Voraussetzungen abgewichen werden darf. Der Weiterbetrieb der biologischen Abfallbehandlungsanlage darf unter den in Satz 1 genannten Bedingungen acht aufeinander folgende Stunden und innerhalb eines Kalenderjahres 96 Stunden nicht \u00fcberschreiten. Die Emission von Gesamtstaub darf eine Massenkonzentration von 100 Milligramm je Kubikmeter Abgas, gemessen als Halbstundenmittelwert, nicht \u00fcberschreiten; \u00a7 2 Nr. 8 findet entsprechende Anwendung.</P><P>(3) Bei Stillstand der Abgasreinigungseinrichtungen ist das abgesaugte Abgas nach Ma\u00dfgabe des \u00a7 7 abzuleiten. Sind Stillstandszeiten von mehr als acht Stunden zu erwarten, hat der Betreiber zus\u00e4tzliche Ma\u00dfnahmen zu treffen und die zust\u00e4ndige Beh\u00f6rde hier\u00fcber unverz\u00fcglich zu unterrichten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR031700001BJNG000400305",
+        "name": "Vierter Teil",
+        "title": "Anforderungen an Altanlagen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE002000305",
+        "name": "\u00a7 14",
+        "title": "\u00dcbergangsregelungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000400305"
+        },
+        "body": "<P>(1) F\u00fcr Altanlagen gelten die Anforderungen dieser Verordnung nach Ablauf von f\u00fcnf Jahren seit Inkrafttreten dieser Verordnung.</P><P>(2) Wird eine biologische Abfallbehandlungsanlage durch Zubau einer oder mehrerer weiterer Behandlungseinrichtungen in der Weise erweitert, dass die vorhandenen und die neu zu errichtenden Behandlungseinrichtungen eine gemeinsame Anlage bilden, so bestimmen sich die Anforderungen f\u00fcr die neu zu errichtenden Behandlungseinrichtungen nach den Vorschriften des zweiten und dritten Teils und die Anforderungen f\u00fcr die vorhandenen Einrichtungen nach den Vorschriften des vierten Teils dieser Verordnung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR031700001BJNG000500305",
+        "name": "F\u00fcnfter Teil",
+        "title": "Gemeinsame Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE002100305",
+        "name": "\u00a7 15",
+        "title": "Unterrichtung der \u00d6ffentlichkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000500305"
+        },
+        "body": "<P>Der Betreiber der biologischen Abfallbehandlungsanlage hat die \u00d6ffentlichkeit nach erstmaliger Kalibrierung der Messeinrichtung zur kontinuierlichen Feststellung der Emissionen nach \u00a7 8 Abs. 4 und erstmaligen Einzelmessungen nach \u00a7 11 Abs. 1 einmal j\u00e4hrlich sowie nach Messungen nach \u00a7 11 Abs. 3 \u00fcber die Beurteilung der Messungen von Emissionen zu unterrichten. Die zust\u00e4ndige Beh\u00f6rde kann Art und Form der \u00d6ffentlichkeitsunterrichtung festlegen. Die S\u00e4tze 1 und 2 gelten nicht f\u00fcr solche Angaben, aus denen R\u00fcckschl\u00fcsse auf Betriebs- oder Gesch\u00e4ftsgeheimnisse gezogen werden k\u00f6nnen. Abweichend von den S\u00e4tzen 1 und 2 k\u00f6nnen Betreiber von Unternehmen, die in das Verzeichnis der Verordnung (EWG) Nr. 1836/93 des Rates vom 29. Juni 1993 \u00fcber die freiwillige Beteiligung gewerblicher Unternehmen an einem Gemeinschaftssystem f\u00fcr das Umweltmanagement und die Umweltbetriebspr\u00fcfung (ABl. EG Nr. L 168 S. 1) eingetragen sind, die Unterrichtung der \u00d6ffentlichkeit durch Dokumente ersetzen, die im Rahmen des Umweltmanagementsystems erarbeitet wurden, sofern die erforderlichen Angaben enthalten sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE002201310",
+        "name": "\u00a7 16",
+        "title": "Zulassung von Ausnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000500305"
+        },
+        "body": "<P>Abweichend von der in \u00a7 5 Abs. 1 Satz 1 festgelegten Kapselung von Einrichtungen zur biologischen Behandlung oder ihrer Ausf\u00fchrung in geschlossenen R\u00e4umen mit Schleusen und der in \u00a7 5 Abs. 2 festgelegten vollst\u00e4ndigen Zuf\u00fchrung des beim Rottevorgang entstehenden Abgases zu einer Abgasreinigung kann die zust\u00e4ndige Beh\u00f6rde auf Antrag des Betreibers bei einer mehrstufigen biologischen Behandlung eine Nachbehandlung unter aeroben Bedingungen (Nachrotte) in nicht gekapselten Einrichtungen oder in nicht geschlossenen R\u00e4umen ohne Abgaserfassung und Abgasreinigung zulassen, wenn der zur Nachrotte vorgesehene Abfall den Wert von 20 mg 0<SUB>2</SUB>/g Trockenmasse, bestimmt als Atmungsaktivit\u00e4t gem\u00e4\u00df Anhang 4 Nummer 3.3.1 der Deponieverordnung vom 27. April 2009 (BGBl. I S. 900), unterschreitet und durch sonstige betriebliche Ma\u00dfnahmen sichergestellt wird, dass der Vorsorge gegen sch\u00e4dliche Umwelteinwirkungen auf andere Weise Gen\u00fcge getan ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE002300305",
+        "name": "\u00a7 17",
+        "title": "Weitergehende Anforderungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000500305"
+        },
+        "body": "<P>Die Befugnis der zust\u00e4ndigen Beh\u00f6rde, andere oder weitergehende Anforderungen, insbesondere zur Vermeidung sch\u00e4dlicher Umwelteinwirkungen nach \u00a7 5 Abs. 1 Nr. 1 des Bundes-Immissionsschutzgesetzes zu treffen, bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031700001BJNE002400305",
+        "name": "\u00a7 18",
+        "title": "Ordnungswidrigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031700001BJNG000500305"
+        },
+        "body": "<P>Ordnungswidrig im Sinne des \u00a7 62 Abs. 1 Nr. 2 des Bundes-Immissionsschutzgesetzes handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 6 eine Anlage nicht richtig errichtet oder nicht richtig betreibt,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 8 Abs. 4 Satz 1 eine Messeinrichtung nicht oder nicht rechtzeitig kalibrieren oder nicht oder nicht rechtzeitig pr\u00fcfen l\u00e4sst oder die Kalibrierung nicht oder nicht rechtzeitig wiederholt,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 8 Abs. 4 Satz 2, \u00a7 10 Abs. 3 Satz 1 oder \u00a7 12 Abs. 1 Satz 1 einen Bericht nicht oder nicht rechtzeitig vorlegt,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 9 Satz 1 die Massenkonzentrationen der Emissionen oder eine dort genannte Bezugsgr\u00f6\u00dfe nicht, nicht richtig oder nicht vollst\u00e4ndig auswertet,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 10 Abs. 3 Satz 2 eine Aufzeichnung nicht oder nicht mindestens f\u00fcnf Jahre aufbewahrt,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11 Abs. 1 Satz 1 oder 2 eine Messung nicht oder nicht rechtzeitig durchf\u00fchren l\u00e4sst,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 13 Abs. 1 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht oder</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 15 Satz 1 die \u00d6ffentlichkeit nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig unterrichtet.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

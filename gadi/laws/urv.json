@@ -1,0 +1,241 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR021700007",
+    "firstPublished": "2007-02-26",
+    "sourceTimestamp": "20211213213529",
+    "titleShort": "Unternehmensregisterverordnung",
+    "titleLong": "Verordnung \u00fcber das Unternehmensregister",
+    "abbreviation": "URV",
+    "slug": "urv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2007, 217",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 6 G v. 12.8.2020 I 1874",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 13 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 54 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2007 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 9a Abs. 2 und 3 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, ver\u00f6ffentlichten bereinigten Fassung, der durch Artikel 1 Nr. 2 des Gesetzes vom 10. November 2006 (BGBl. I S. 2553) neu gefasst worden ist, und des \u00a7 9 Abs. 2 Satz 2 der Insolvenzordnung vom 5. Oktober 1994 (BGBl. I S. 2866), der zuletzt durch Artikel 12 Abs. 2 des Gesetzes vom 10. November 2006 (BGBl. I S. 2553) ge\u00e4ndert worden ist, verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000203360",
+        "name": "\u00a7 1",
+        "title": "Allgemeines",
+        "parent": null,
+        "body": "<P>(1) Im Unternehmensregister werden die nach \u00a7 8b Abs. 3 Satz 1 des Handelsgesetzbuchs zur Einstellung \u00fcbermittelten Daten, mit Ausnahme der gem\u00e4\u00df \u00a7 326 Absatz 2 des Handelsgesetzbuchs lediglich hinterlegten Bilanzen von Kleinstkapitalgesellschaften (\u00a7 267a des Handelsgesetzbuchs) oder Kleinstgenossenschaften (\u00a7 336 Absatz 2 Satz 3 des Handelsgesetzbuchs), im Internet unmittelbar zug\u00e4nglich gemacht. Die Daten werden wie folgt gespeichert: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>strukturiert in Form der Extensible Markup Language (XML),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in einem nach dem Stand der Technik vergleichbaren Format oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>in dem gesetzlich festgelegten Offenlegungsformat bei Jahresfinanzberichten oder Rechnungslegungsunterlagen eines Unternehmens, das als Inlandsemittent (\u00a7 2 Absatz 14 des Wertpapierhandelsgesetzes) Wertpapiere (\u00a7 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt, wenn die Daten in diesem Format vorliegen.</LA></DD></DL>Eine Speicherung in einem reinen Bin\u00e4rformat ist nur zul\u00e4ssig, soweit eine Umwandlung in Text nicht oder nur mit unvertretbarem Aufwand m\u00f6glich ist. Das Unternehmensregister muss erkennen lassen, in welcher Sprache die Daten im Sinn des Satzes 1 im Unternehmensregister gespeichert sind.</P><P>(2) Das Unternehmensregister vermittelt \u00fcber die nach \u00a7 8b Abs. 3 Satz 2 des Handelsgesetzbuchs \u00fcbermittelten Daten (Indexdaten) den Zugang zu den Eintragungen im Handels-, Genossenschafts- und Partnerschaftsregister, den Bekanntmachungen aus den Registern, den zu den Registern eingereichten Dokumenten und den Zugang zu den Bekanntmachungen der Insolvenzgerichte im Sinn des \u00a7 8b Abs. 2 Nr. 11 des Handelsgesetzbuchs. Die Indexdaten dienen nur der Zugangsvermittlung und sind nicht zug\u00e4nglich zu machen.</P><P>(3) Das Unternehmensregister ist zumindest \u00fcber die Adresse www.unternehmensregister.de erreichbar. Zugangsst\u00f6rungen, insbesondere aufgrund von Wartungs- oder Verbesserungsarbeiten, sind soweit m\u00f6glich rechtzeitig anzuk\u00fcndigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Sicherheit",
+        "parent": null,
+        "body": "<P>(1) Kommt es w\u00e4hrend einer Daten\u00fcbermittlung zu St\u00f6rungen oder Unterbrechungen, soll dies der \u00fcbermittelnden Stelle angezeigt und eine erneute \u00dcbermittlung verlangt werden.</P><P>(2) Fehlgeschlagene Anmeldungen sowie alle Abrufe d\u00fcrfen dokumentiert werden, um missbr\u00e4uchliche Zugriffe auf das Unternehmensregister erkennen und unterbinden zu k\u00f6nnen. Abrufe d\u00fcrfen ferner dokumentiert werden, sofern dies f\u00fcr die Zwecke der Abrechnung von Kosten erforderlich ist. Die dabei erhobenen Daten d\u00fcrfen nur f\u00fcr die in Satz 1 und 2 genannten Zwecke verwendet werden und sind f\u00fcr eine Verwendung f\u00fcr andere Zwecke zu sperren. Sie sind nach Ablauf von sechs Monaten zu l\u00f6schen, es sei denn, sie sind f\u00fcr die Zwecke der Kostenabrechnung noch erforderlich.</P><P>(3) Der Betreiber des Unternehmensregisters (Betreiber) erstellt im Einvernehmen mit dem Bundesamt f\u00fcr Sicherheit in der Informationstechnik ein Sicherheitskonzept f\u00fcr das Unternehmensregister.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000401377",
+        "name": "\u00a7 3",
+        "title": "Registrierung der Nutzer",
+        "parent": null,
+        "body": "<P>(1) Soweit nach \u00a7 11 Satz 4, \u00a7 13 Absatz 4, \u00a7 15 Abs. 1 Satz 2 oder Abs. 2 Satz 2 eine Registrierung beim Unternehmensregister erforderlich ist, erfolgt diese ausschlie\u00dflich \u00fcber eine nach dem Stand der Technik gesicherte Internetverbindung. Dabei sind folgende Mindestangaben zu machen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Firma oder Name des Nutzers,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift des Wohnsitzes oder des Sitzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">elektronische Postadresse,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rufnummer.</LA></DD></DL>Im Fall einer Registrierung, die nach \u00a7 13 Absatz 4 erforderlich ist, ist Satz 2 Nummer 4 nicht anzuwenden.</P><P>(2) Aufgrund der Registrierung erh\u00e4lt der Nutzer eine Kennung und ein Passwort, die ihm auf elektronischem Weg oder per Post mitgeteilt werden; es k\u00f6nnen andere Authentifizierungsverfahren verwendet werden, soweit diese nach dem Stand der Technik einen vergleichbaren Sicherheitsstandard gew\u00e4hrleisten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000501360",
+        "name": "\u00a7 4",
+        "title": "Art der Daten\u00fcbermittlung",
+        "parent": null,
+        "body": "<P>Daten werden dem Unternehmensregister im Wege der Datenfern\u00fcbertragung \u00fcbermittelt. Daten\u00fcbermittlungen nach \u00a7 11 Satz 1 k\u00f6nnen ausnahmsweise in Absprache mit dem Betreiber durch Telefax erfolgen, wenn die Daten nicht in einem gesetzlich festgelegten Offenlegungsformat vorzuliegen haben. Die Landesjustizverwaltungen k\u00f6nnen mit dem Betreiber eine andere Art der Datenbereitstellung vereinbaren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Daten\u00fcbermittlung durch die Landesjustizverwaltungen",
+        "parent": null,
+        "body": "<P>(1) Die Landesjustizverwaltungen \u00fcbermitteln dem Unternehmensregister die Indexdaten (\u00a7 1 Abs. 2) \u00fcber eine nach dem Stand der Technik gesicherte, zwischen dem Betreiber und den Landesjustizverwaltungen vereinbarte Verbindung.</P><P>(2) Die Indexdaten sind in einem mit den Landesjustizverwaltungen vereinbarten strukturierten Format zu \u00fcbermitteln. Die Landesjustizverwaltungen stellen sicher, dass die \u00fcbermittelten Indexdaten ohne Aufbereitung oder Ver\u00e4nderung den Zugang zu den Originaldaten und eine Suche im Unternehmensregister erm\u00f6glichen.</P><P>(3) Die Landesjustizverwaltungen \u00fcbermitteln \u00c4nderungen der Indexdaten zu Eintragungen im Handels-, Genossenschafts- oder Partnerschaftsregister (\u00a7 6) unverz\u00fcglich. Die Indexdaten zu Bekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister (\u00a7 7) sowie die Indexdaten zu Insolvenzbekanntmachungen (\u00a7 8) sind t\u00e4glich zu aktualisieren. Die Landesjustizverwaltungen k\u00f6nnen in Absprache mit dem Betreiber eine h\u00e4ufigere Aktualisierung oder eine vollst\u00e4ndige Neu\u00fcbermittlung vornehmen, wenn dadurch der Betrieb des Unternehmensregisters nicht beeintr\u00e4chtigt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "\u00dcbermittlung von Indexdaten zu Eintragungen im Handels-,\nGenossenschafts- und Partnerschaftsregister",
+        "parent": null,
+        "body": "<P>Die Landesjustizverwaltungen \u00fcbermitteln dem Unternehmensregister folgende Indexdaten zu Eintragungen im Handels-, Genossenschafts- und Partnerschaftsregister: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Registerart, Registergericht, Registernummer sowie ein Ortskennzeichen, soweit vorhanden,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Firma oder Name des Unternehmens, bei Zweigniederlassungen die betreffenden Daten der Zweigniederlassung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rechtsform des Unternehmens,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sitz und Anschrift des Unternehmens, bei Zweigniederlassungen die betreffenden Daten der Zweigniederlassung,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kennzeichnung, ob es sich um eine Neueintragung, eine Ver\u00e4nderung oder eine L\u00f6schung handelt,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verf\u00fcgbarkeit der Dokumentenarten \"Aktueller Ausdruck (AD)\", \"Chronologischer Ausdruck (CD)\", \"Historischer Ausdruck (HD)\", \"Unternehmenstr\u00e4gerdaten (UT)\" und \"Dokumentenansicht (DK)\" zu dem jeweiligen Unternehmen.</LA></DD> </DL>Wenn durch die Landesjustizverwaltungen f\u00fcr ein l\u00e4nder\u00fcbergreifendes, zentrales elektronisches Informations- und Kommunikationssystem (\u00a7 9 Abs. 1 Satz 4 des Handelsgesetzbuchs) weitere Indexdaten, insbesondere die Gerichtskennung, bereitgestellt werden, sind dem Unternehmensregister auch diese zu \u00fcbermitteln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "\u00dcbermittlung von Indexdaten zu Bekanntmachungen aus dem Handels-,\nGenossenschafts- und Partnerschaftsregister",
+        "parent": null,
+        "body": "<P>Die Landesjustizverwaltungen \u00fcbermitteln dem Unternehmensregister folgende Indexdaten zu Bekanntmachungen aus dem Handels-, Genossenschafts- und Partnerschaftsregister: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Registerart, Registergericht, Registernummer sowie ein Ortskennzeichen, soweit vorhanden,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Firma oder Name des Unternehmens,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rechtsform des Unternehmens,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sitz des Unternehmens,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gegenstand der Bekanntmachung,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">elektronische Verkn\u00fcpfung zu der Bekanntmachung,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag der Bekanntmachung,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag der Eintragung oder Anordnung.</LA></DD> </DL>\u00a7 6 Satz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "\u00dcbermittlung von Indexdaten zu Insolvenzbekanntmachungen",
+        "parent": null,
+        "body": "<P>Die Landesjustizverwaltungen \u00fcbermitteln dem Unternehmensregister folgende Indexdaten zu Bekanntmachungen der Insolvenzgerichte im Sinn des \u00a7 8b Abs. 2 Nr. 11 des Handelsgesetzbuchs: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aktenzeichen und Sitz des Insolvenzgerichts,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name oder Firma des Schuldners,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sitz oder Wohnsitz des Schuldners einschlie\u00dflich einer vorhandenen Postleitzahl,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gegenstand der Bekanntmachung,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">elektronische Verkn\u00fcpfung zu der Bekanntmachung,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag der Bekanntmachung,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Registernummer des Schuldners einschlie\u00dflich eines Ortskennzeichens, soweit vorhanden, Registerart und zust\u00e4ndiges Registergericht.</LA></DD> </DL>\u00a7 6 Satz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001001123",
+        "name": "\u00a7 9",
+        "title": "\u00dcbermittlung von Unterlagen der Rechnungslegung",
+        "parent": null,
+        "body": "<P>Wird ein Antrag auf elektronische \u00dcbermittlung nach \u00a7 9 Abs. 2 des Handelsgesetzbuchs gestellt, der sich auf Unterlagen der Rechnungslegung im Sinn des \u00a7 8b Abs. 2 Nr. 4 des Handelsgesetzbuchs bezieht, \u00fcbermittelt das Registergericht dem Unternehmensregister die Schriftst\u00fccke, auf die sich der Antrag bezieht. Die Schriftst\u00fccke werden in ein elektronisches Dokument \u00fcbertragen und im Unternehmensregister unmittelbar zug\u00e4nglich gemacht; \u00a7 9 Abs. 4 der Handelsregisterverordnung gilt entsprechend. Das Unternehmensregister \u00fcbermittelt das elektronische Dokument zudem \u00fcber eine nach dem Stand der Technik gesicherte, zwischen dem Betreiber und den Landesjustizverwaltungen vereinbarte Verbindung an eine von den Landesjustizverwaltungen festgelegte Stelle.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001106360",
+        "name": "\u00a7 10",
+        "title": "Daten\u00fcbermittlung durch den Betreiber des Bundesanzeigers",
+        "parent": null,
+        "body": "<P>(1) Der Betreiber des Bundesanzeigers \u00fcbermittelt dem Unternehmensregister die Daten im Sinn des \u00a7 8b Abs. 3 Satz 1 Nr. 1 des Handelsgesetzbuchs, mit Ausnahme der gem\u00e4\u00df \u00a7 326 Absatz 2 des Handelsgesetzbuchs lediglich hinterlegten Bilanzen von Kleinstkapitalgesellschaften oder Kleinstgenossenschaften, unverz\u00fcglich nach ihrer Ver\u00f6ffentlichung, sp\u00e4testens bis zum Ablauf des auf die Ver\u00f6ffentlichung folgenden Arbeitstages. Die Daten sind unter Verwendung einer vom Betreiber bestimmten, nach dem Stand der Technik gesicherten Verbindung sowie in einem vom Betreiber bestimmten, in Wirtschaftskreisen verbreiteten strukturierten Format, zum Beispiel in Form der Extensible Markup Language (XML), zu \u00fcbermitteln. Der Betreiber \u00fcbermittelt Rechnungslegungsunterlagen eines Unternehmens, das als Inlandsemittent (\u00a7\u00a02 Absatz\u00a014 des Wertpapierhandelsgesetzes) Wertpapiere (\u00a7 2 Absatz 1 des Wertpapierhandelsgesetzes) begibt, in dem gesetzlich festgelegten Offenlegungsformat, wenn sie in diesem Format vorliegen. Der Eingang \u00fcbermittelter Daten ist mit einem Zeitstempel unter Verwendung einer fortgeschrittenen elektronischen Signatur zu dokumentieren.</P><P>(2) Der Betreiber des Bundesanzeigers \u00fcbermittelt dem Unternehmensregister unverz\u00fcglich die nach \u00a7 326 Absatz 2 des Handelsgesetzbuchs von Kleinstkapitalgesellschaften oder Kleinstgenossenschaften zur Hinterlegung eingereichten Bilanzen in einem Dateiformat, das die Archivierung der Daten erm\u00f6glicht. Reicht eine Kleinstkapitalgesellschaft oder Kleinstgenossenschaft ihre Bilanz beim Betreiber des Bundesanzeigers in einem anderen, zur Archivierung der Daten nicht geeigneten Dateiformat ein, wandelt dieser die Daten im Auftrag des Unternehmens um.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001202360",
+        "name": "\u00a7 11",
+        "title": "Daten\u00fcbermittlung durch Ver\u00f6ffentlichungspflichtige oder mit der Veranlassung der Ver\u00f6ffentlichung beauftragte Dritte",
+        "parent": null,
+        "body": "<P>Daten im Sinn des \u00a7 8b Abs. 2 Nr. 9 des Handelsgesetzbuchs sind dem Unternehmensregister unverz\u00fcglich nach der Ver\u00f6ffentlichung sowie Daten im Sinn des \u00a7 8b Abs. 2 Nr. 10 des Handelsgesetzbuchs unverz\u00fcglich nach der Mitteilung zu \u00fcbermitteln. Wenn die Daten in einem gesetzlich festgelegten Offenlegungsformat vorzuliegen haben, sind sie in diesem Format zu \u00fcbermitteln; im \u00dcbrigen gilt \u00a7 10 Absatz 1 Satz 2 und 4 entsprechend. Den Ver\u00f6ffentlichungspflichtigen und den von diesen mit der Veranlassung der Ver\u00f6ffentlichung beauftragten Dritten kann auch die \u00dcbermittlung \u00fcber Formulare im Internet erm\u00f6glicht werden. F\u00fcr die \u00dcbermittlung ist eine Registrierung des Ver\u00f6ffentlichungspflichtigen oder des mit der Veranlassung der Ver\u00f6ffentlichung beauftragten Dritten nach \u00a7 3 erforderlich. Der Erfolg der \u00dcbermittlung wird elektronisch angezeigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001302377",
+        "name": "\u00a7 12",
+        "title": "Zug\u00e4nglichkeit, Berichtigung und L\u00f6schung von Daten",
+        "parent": null,
+        "body": "<P>(1) Die nach den \u00a7 10 Absatz 1 und \u00a7 11 \u00fcbermittelten Daten werden unverz\u00fcglich nach ihrer \u00dcbermittlung, sp\u00e4testens bis zum Ablauf des auf die \u00dcbermittlung folgenden Arbeitstages im Unternehmensregister unmittelbar zug\u00e4nglich gemacht. Nach \u00a7 4 Satz 2 per Telefax \u00fcbermittelte Daten sind so bald wie m\u00f6glich im Unternehmensregister unmittelbar zug\u00e4nglich zu machen. Berichtigungen zug\u00e4nglich gemachter Daten sind als solche zu kennzeichnen.</P><P>(2) Die nach \u00a7 10 Absatz 1 \u00fcbermittelten Daten werden gel\u00f6scht, wenn die Originaldaten nicht mehr im Bundesanzeiger zug\u00e4nglich sind. Nach \u00a7 11 an das Unternehmensregister \u00fcbermittelte Daten sind f\u00fcr zehn Jahre zug\u00e4nglich zu halten und anschlie\u00dfend zu l\u00f6schen. Gesetzliche L\u00f6schungsregelungen bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001402360",
+        "name": "\u00a7 13",
+        "title": "Einsichtnahme in das Unternehmensregister",
+        "parent": null,
+        "body": "<P>(1) Das Unternehmensregister ist ausschlie\u00dflich \u00fcber das Internet zug\u00e4nglich. Eine vorherige Registrierung ist f\u00fcr die Einsichtnahme in die im Unternehmensregister unmittelbar zug\u00e4nglich gemachten Daten im Sinn des \u00a7 8b Abs. 3 Satz 1 des Handelsgesetzbuchs sowie eine \u00fcber das Unternehmensregister erfolgende Einsichtnahme in Bekanntmachungen im Sinn des \u00a7 8b Abs. 2 Nr. 1 bis 3 und 11 des Handelsgesetzbuchs nicht erforderlich.</P><P>(2) Das Unternehmensregister vermittelt den Zugang zu den Originaldaten im Sinn des \u00a7 8b Abs. 2 Nr. 1 bis 3 und 11 des Handelsgesetzbuchs \u00fcber die Ergebnisse einer Suche. Die Landesjustizverwaltungen er\u00f6ffnen den hierzu erforderlichen Zugang. Die Darstellung erfolgt einheitlich und hat deutlich zu machen, dass es sich um einen Datenabruf aus dem Originalbestand der Register handelt.</P><P>(3) Dem Unternehmensregister unmittelbar zug\u00e4nglich gemachte Daten k\u00f6nnen vom Nutzer durch Ausdruck oder als elektronische Datei kopiert werden. Derartige Vervielf\u00e4ltigungen sind mit dem Herkunftsvermerk \"Auszug aus dem Unternehmensregister\" und dem Tag der Erstellung zu kennzeichnen.</P><P>(4) Der Antrag auf \u00dcbermittlung einer Kopie von lediglich hinterlegten Bilanzen von Kleinstkapitalgesellschaften (\u00a7 267a des Handelsgesetzbuchs) oder Kleinstgenossenschaften (\u00a7 336 Absatz 2 Satz 3 des Handelsgesetzbuchs) an das Unternehmensregister ist nur nach vorheriger Registrierung m\u00f6glich. Die \u00dcbermittlung erfolgt in elektronischer Form. Die Kopie ist mit dem Herkunftsvermerk \u201eAuszug aus dem Unternehmensregister\u201c und dem Datum, zu dem die Bilanz im Unternehmensregister hinterlegt worden ist, zu versehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "Suche im Register",
+        "parent": null,
+        "body": "<P>Das Unternehmensregister erlaubt die Suche nach allen eingestellten Daten sowie \u00fcber s\u00e4mtliche Indexdaten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001603123",
+        "name": "\u00a7 15",
+        "title": "Auskunftsdienstleistungen; Zahlungen und Rechnungsstellung",
+        "parent": null,
+        "body": "<P>(1) Der Betreiber kann mit den Daten im Sinn des \u00a7 1 Absatz 1 Satz 1 mit Ausnahme der nach \u00a7 326 Absatz 2 des Handelsgesetzbuchs lediglich hinterlegten Bilanzen von Kleinstkapitalgesellschaften oder Kleinstgenossenschaften \u00fcber diese Verordnung hinausgehende weitere entgeltliche Auskunftsdienstleistungen anbieten; insbesondere kann er eine automatisierte Unterrichtung \u00fcber neu zug\u00e4nglich gemachte Daten vorsehen. Der Betreiber kann vor der Nutzung von Auskunftsdienstleistungen eine Registrierung nach \u00a7 3 verlangen.</P><P>(2) Zahlungen k\u00f6nnen \u00fcber Kreditkarte, elektronisches Lastschriftverfahren oder einen vergleichbaren vereinbarten Zahlungsweg erfolgen. Der Zahlungsweg kann von einer Registrierung nach \u00a7 3 abh\u00e4ngig gemacht werden. Rechnungen oder Quittungen werden in Textform (\u00a7 126b des B\u00fcrgerlichen Gesetzbuchs) \u00fcbermittelt oder elektronisch angezeigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001702301",
+        "name": "\u00a7 16",
+        "title": "Befugnisse der Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht",
+        "parent": null,
+        "body": "<P>(1) Im Hinblick auf kapitalmarktrechtliche Daten \u00fcberwacht die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht gegen\u00fcber dem Betreiber die Einhaltung von Mindestqualit\u00e4tsnormen in Bezug auf Datensicherheit, Herkunftsgewissheit, Zeitaufzeichnung und leichten Zugang der Endnutzer zu den Daten sowie die Zusammenarbeit mit amtlich bestellten Speicherungssystemen anderer Mitgliedstaaten der Europ\u00e4ischen Union oder anderer Vertragsstaaten des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum im Rahmen des Aufbaus eines europaweiten Netzwerks zwischen den Speicherungssystemen.</P><P>(2) Soweit dies f\u00fcr die \u00dcberwachung nach Absatz 1 erforderlich ist, kann die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht von dem Betreiber Ausk\u00fcnfte, die Vorlage von Unterlagen und die \u00dcberlassung von Kopien verlangen. Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unber\u00fchrt. Sollte der Betreiber berechtigten Verlangen der Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht nicht nachkommen, kann diese gegen\u00fcber dem Bundesministerium der Justiz und f\u00fcr Verbraucherschutz als der Kontroll- und Aufsichtsbeh\u00f6rde \u00fcber das Unternehmensregister auf die Erf\u00fcllung der bestehenden Pflichten durch den Betreiber und die Beseitigung von Missst\u00e4nden hinwirken.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001800000",
+        "name": "\u00a7 17",
+        "title": "Erstmalige \u00dcbermittlung der Indexdaten",
+        "parent": null,
+        "body": "<P>Die Landesjustizverwaltungen \u00fcbermitteln die Indexdaten (\u00a7\u00a7 6 bis 8) erstmalig zum 1. Januar 2007.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE001900000",
+        "name": "\u00a7 18",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>\u00a7 16 tritt am Tag nach der Verk\u00fcndung dieser Verordnung in Kraft. Im \u00dcbrigen tritt diese Verordnung mit Wirkung vom 1. Januar 2007 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021700007BJNE002000000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

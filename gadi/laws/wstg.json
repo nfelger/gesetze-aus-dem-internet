@@ -1,0 +1,765 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR002980957",
+    "firstPublished": "1957-03-30",
+    "sourceTimestamp": "20180112214028",
+    "titleShort": null,
+    "titleLong": "Wehrstrafgesetz",
+    "abbreviation": "WStG",
+    "slug": "wstg",
+    "extraAbbreviations": [
+      "WStrG"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1957, 298",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 24.5.1974 I 1213;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 10 Abs. 8 G v. 30.10.2017 I 3618",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1980 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE000701377",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"70*\" />\n\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"10*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\n\t\t\t\t\t<B>Erster Teil</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\n\t\t\t\t\t<B>Allgemeine Bestimmungen</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Geltungsbereich</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 1</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Auslandstaten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 1a</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Begriffsbestimmungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 2</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung des allgemeinen Strafrechts</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 3</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Milit\u00e4rische Straftaten gegen verb\u00fcndete Streitkr\u00e4fte</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 4</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Handeln auf Befehl</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 5</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Furcht vor pers\u00f6nlicher Gefahr</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 6</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Selbstverschuldete Trunkenheit</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 7</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">weggefallen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 8</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Strafarrest</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 9</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Geldstrafe bei Straftaten von Soldaten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 10</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ersatzfreiheitsstrafe</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 11</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Strafarrest statt Freiheitsstrafe</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 12</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zusammentreffen mehrerer Straftaten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 13</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Strafaussetzung zur Bew\u00e4hrung bei Freiheitsstrafe </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 14</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Strafaussetzung zur Bew\u00e4hrung bei Strafarrest</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 14a</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\n\t\t\t\t\t<B>Zweiter Teil</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\n\t\t\t\t\t<B>Milit\u00e4rische Straftaten</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Erster Abschnitt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Straftaten gegen die Pflicht zur milit\u00e4rischen Dienstleistung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Eigenm\u00e4chtige Abwesenheit</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 15</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Fahnenflucht</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 16</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Selbstverst\u00fcmmelung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 17</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Dienstentziehung durch T\u00e4uschung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 18</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Zweiter Abschnitt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Straftaten gegen die Pflichten der Untergebenen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ungehorsam</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 19</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gehorsamsverweigerung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 20</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Leichtfertiges Nichtbefolgen eines Befehls</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 21</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verbindlichkeit des Befehls; Irrtum</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 22</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bedrohung eines Vorgesetzten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 23</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">N\u00f6tigung eines Vorgesetzten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 24</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">T\u00e4tlicher Angriff gegen einen Vorgesetzten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 25</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">weggefallen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 26</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Meuterei</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 27</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verabredung zur Unbotm\u00e4\u00dfigkeit</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 28</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Taten gegen Soldaten mit h\u00f6herem Dienstgrad </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 29</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Dritter Abschnitt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Straftaten gegen die Pflichten der Vorgesetzten</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Mi\u00dfhandlung </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 30</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Entw\u00fcrdigende Behandlung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 31</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Mi\u00dfbrauch der Befehlsbefugnis zu unzul\u00e4ssigen Zwecken </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 32</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verleiten zu einer rechtswidrigen Tat </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 33</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erfolgloses Verleiten zu einer rechtswidrigen Tat </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 34</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unterdr\u00fccken von Beschwerden</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 35</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Taten von Soldaten mit h\u00f6herem Dienstgrad </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 36</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Beeinflussung der Rechtspflege</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 37</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anma\u00dfen von Befehlsbefugnissen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 38</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Mi\u00dfbrauch der Disziplinarbefugnis</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 39</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unterlassene Mitwirkung bei Strafverfahren</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 40</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Mangelhafte Dienstaufsicht</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 41</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Vierter Abschnitt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Straftaten gegen andere milit\u00e4rische Pflichten</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unwahre dienstliche Meldung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 42</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unterlassene Meldung </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 43</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wachverfehlung </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 44</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pflichtverletzung bei Sonderauftr\u00e4gen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 45</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Rechtswidriger Waffengebrauch</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 46</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">weggefallen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 47</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verletzung anderer Dienstpflichten </entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 48</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002980957BJNG000100315",
+        "name": "Erster Teil",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE000802123",
+        "name": "\u00a7 1",
+        "title": "Geltungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Dieses Gesetz gilt f\u00fcr Straftaten, die Soldaten der Bundeswehr begehen.</P><P>(2) Es gilt auch f\u00fcr Straftaten, durch die milit\u00e4rische Vorgesetzte, die nicht Soldaten sind, ihre Pflichten verletzen (\u00a7\u00a7 30 bis 41).</P><P>(3) Wegen Verletzung von Privatgeheimnissen (\u00a7 203 Absatz 2, 5 und 6, \u00a7\u00a7 204, 205 des Strafgesetzbuches), wegen Verletzung des Post- oder Fernmeldegeheimnisses (\u00a7 206 Abs. 4 des Strafgesetzbuches) und wegen Verletzung des Dienstgeheimnisses (\u00a7 353b Abs. 1 des Strafgesetzbuches) sind nach Ma\u00dfgabe des \u00a7 48 auch fr\u00fchere Soldaten strafbar, soweit ihnen diese Geheimnisse w\u00e4hrend des Wehrdienstes anvertraut worden oder sonst bekanntgeworden sind.</P><P>(4) Wegen Anstiftung und Beihilfe zu milit\u00e4rischen Straftaten sowie wegen Versuchs der Beteiligung an solchen Straftaten ist nach diesem Gesetz auch strafbar, wer nicht Soldat ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE000900315",
+        "name": "\u00a7 1a",
+        "title": "Auslandstaten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Das deutsche Strafrecht gilt, unabh\u00e4ngig vom Recht des Tatorts, f\u00fcr Taten, die nach diesem Gesetz mit Strafe bedroht sind und im Ausland begangen werden, wenn der T\u00e4ter <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Soldat ist oder zu den in \u00a7 1 Abs. 2 bezeichneten Personen geh\u00f6rt oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Deutscher ist und seine Lebensgrundlage im r\u00e4umlichen Geltungsbereich dieses Gesetzes hat.</LA></DD> </DL> </P><P>(2) Das deutsche Strafrecht gilt, unabh\u00e4ngig vom Recht des Tatorts, auch f\u00fcr Taten, die ein Soldat w\u00e4hrend eines dienstlichen Aufenthalts oder in Beziehung auf den Dienst im Ausland begeht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001002377",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>Im Sinne dieses Gesetzes ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine milit\u00e4rische Straftat eine Handlung, die der Zweite Teil dieses Gesetzes mit Strafe bedroht;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Befehl eine Anweisung zu einem bestimmten Verhalten, die ein milit\u00e4rischer Vorgesetzter (\u00a7 1 Abs. 3 des Soldatengesetzes) einem Untergebenen schriftlich, m\u00fcndlich oder in anderer Weise, allgemein oder f\u00fcr den Einzelfall und mit dem Anspruch auf Gehorsam erteilt;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine schwerwiegende Folge eine Gefahr f\u00fcr die Sicherheit der Bundesrepublik Deutschland, die Schlagkraft der Truppe, Leib oder Leben eines Menschen oder Sachen von bedeutendem Wert, die dem T\u00e4ter nicht geh\u00f6ren.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001100315",
+        "name": "\u00a7 3",
+        "title": "Anwendung des allgemeinen Strafrechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Das allgemeine Strafrecht ist anzuwenden, soweit dieses Gesetz nichts anderes bestimmt.</P><P>(2) F\u00fcr Straftaten von Soldaten, die Jugendliche oder Heranwachsende sind, gelten besondere Vorschriften des Jugendgerichtsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001200315",
+        "name": "\u00a7 4",
+        "title": "Milit\u00e4rische Straftaten gegen verb\u00fcndete Streitkr\u00e4fte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Die Vorschriften dieses Gesetzes sind auch dann anzuwenden, wenn ein Soldat der Bundeswehr eine milit\u00e4rische Straftat gegen Streitkr\u00e4fte eines verb\u00fcndeten Staates oder eines ihrer Mitglieder begeht.</P><P>(2) Das Gericht kann von Strafe absehen, wenn die Wahrung der Disziplin in der Bundeswehr eine Bestrafung nicht erfordert.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001300315",
+        "name": "\u00a7 5",
+        "title": "Handeln auf Befehl",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Begeht ein Untergebener eine rechtswidrige Tat, die den Tatbestand eines Strafgesetzes verwirklicht, auf Befehl, so trifft ihn eine Schuld nur, wenn er erkennt, da\u00df es sich um eine rechtswidrige Tat handelt oder dies nach den ihm bekannten Umst\u00e4nden offensichtlich ist.</P><P>(2) Ist die Schuld des Untergebenen mit R\u00fccksicht auf die besondere Lage, in der er sich bei der Ausf\u00fchrung des Befehls befand, gering, so kann das Gericht die Strafe nach \u00a7 49 Abs. 1 des Strafgesetzbuches mildern, bei Vergehen auch von Strafe absehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001400315",
+        "name": "\u00a7 6",
+        "title": "Furcht vor pers\u00f6nlicher Gefahr",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>Furcht vor pers\u00f6nlicher Gefahr entschuldigt eine Tat nicht, wenn die soldatische Pflicht verlangt, die Gefahr zu bestehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001500315",
+        "name": "\u00a7 7",
+        "title": "Selbstverschuldete Trunkenheit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Selbstverschuldete Trunkenheit f\u00fchrt nicht zu einer Milderung der angedrohten Strafe, wenn die Tat eine milit\u00e4rische Straftat ist, gegen das Kriegsv\u00f6lkerrecht verst\u00f6\u00dft oder in Aus\u00fcbung des Dienstes begangen wird.</P><P>(2) Der Trunkenheit steht ein Rausch anderer Art gleich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001600315",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001700315",
+        "name": "\u00a7 9",
+        "title": "Strafarrest",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Das H\u00f6chstma\u00df des Strafarrestes ist sechs Monate, das Mindestma\u00df zwei Wochen.</P><P>(2) Der Strafarrest besteht in Freiheitsentziehung. Im Vollzug soll der Soldat, soweit tunlich, in seiner Ausbildung gef\u00f6rdert werden.</P><P>(3) Die Vollstreckung des Strafarrestes verj\u00e4hrt in zwei Jahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001800315",
+        "name": "\u00a7 10",
+        "title": "Geldstrafe bei Straftaten von Soldaten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>Bei Straftaten von Soldaten darf Geldstrafe nicht verh\u00e4ngt werden, wenn besondere Umst\u00e4nde, die in der Tat oder der Pers\u00f6nlichkeit des T\u00e4ters liegen, die Verh\u00e4ngung von Freiheitsstrafe zur Wahrung der Disziplin gebieten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE001900315",
+        "name": "\u00a7 11",
+        "title": "Ersatzfreiheitsstrafe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>Ist wegen einer Tat, die ein Soldat w\u00e4hrend der Aus\u00fcbung des Dienstes oder in Beziehung auf den Dienst begangen hat, eine Geldstrafe bis zu einhundertachtzig Tagess\u00e4tzen verh\u00e4ngt, so ist die Ersatzfreiheitsstrafe Strafarrest. Einem Tagessatz entspricht ein Tag Strafarrest.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002000315",
+        "name": "\u00a7 12",
+        "title": "Strafarrest statt Freiheitsstrafe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>Darf auf Geldstrafe nach \u00a7 10 nicht erkannt werden oder ist bei Straftaten von Soldaten die Verh\u00e4ngung einer Freiheitsstrafe, die nach \u00a7 47 des Strafgesetzbuches unerl\u00e4\u00dflich ist, auch zur Wahrung der Disziplin geboten, so ist, wenn eine Freiheitsstrafe von mehr als sechs Monaten nicht in Betracht kommt, auf Strafarrest zu erkennen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002100315",
+        "name": "\u00a7 13",
+        "title": "Zusammentreffen mehrerer Straftaten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) W\u00e4re nach den Vorschriften des Strafgesetzbuches eine Gesamtstrafe von mehr als sechs Monaten Strafarrest zu bilden, so wird statt auf Strafarrest auf Freiheitsstrafe erkannt. Die Gesamtstrafe darf zwei Jahre nicht \u00fcbersteigen.</P><P>(2) Trifft zeitige Freiheitsstrafe mit Strafarrest zusammen, so ist die Gesamtstrafe durch Erh\u00f6hung der Freiheitsstrafe zu bilden. Jedoch ist auf Freiheitsstrafe und Strafarrest gesondert zu erkennen, wenn die Voraussetzungen f\u00fcr die Aussetzung der Vollstreckung des Strafarrestes nicht vorliegen, die Vollstreckung der Gesamtstrafe aber zur Bew\u00e4hrung ausgesetzt werden m\u00fc\u00dfte. In diesem Fall sind beide Strafen so zu k\u00fcrzen, da\u00df ihre Summe die Dauer der sonst zu bildenden Gesamtstrafe nicht \u00fcberschreitet.</P><P>(3) Die Abs\u00e4tze 1 und 2 sind auch anzuwenden, wenn nach den allgemeinen Vorschriften eine Gesamtstrafe nachtr\u00e4glich zu bilden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002200315",
+        "name": "\u00a7 14",
+        "title": "Strafaussetzung zur Bew\u00e4hrung bei Freiheitsstrafe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Bei der Verurteilung zu Freiheitsstrafe von mindestens sechs Monaten wird die Vollstreckung nicht ausgesetzt, wenn die Wahrung der Disziplin sie gebietet.</P><P>(2) Bew\u00e4hrungsauflagen und Weisungen (\u00a7\u00a7 56b bis 56d des Strafgesetzbuches) sollen die Besonderheiten des Wehrdienstes ber\u00fccksichtigen.</P><P>(3) F\u00fcr die Dauer des Wehrdienstverh\u00e4ltnisses kann ein Soldat als ehrenamtlicher Bew\u00e4hrungshelfer (\u00a7 56d des Strafgesetzbuches) bestellt werden. Er untersteht bei der \u00dcberwachung des Verurteilten nicht den Anweisungen des Gerichts.</P><P>(4) Von der \u00dcberwachung durch einen Bew\u00e4hrungshelfer, der nicht Soldat ist, sind f\u00fcr die Dauer des Wehrdienstverh\u00e4ltnisses Angelegenheiten ausgeschlossen, f\u00fcr welche die milit\u00e4rischen Vorgesetzten des Verurteilten zu sorgen haben. Ma\u00dfnahmen des Disziplinarvorgesetzten haben den Vorrang.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002300315",
+        "name": "\u00a7 14a",
+        "title": "Strafaussetzung zur Bew\u00e4hrung bei Strafarrest",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000100315"
+        },
+        "body": "<P>(1) Das Gericht setzt die Vollstreckung des Strafarrestes unter den Voraussetzungen des \u00a7 56 Abs. 1 Satz 1 des Strafgesetzbuches zur Bew\u00e4hrung aus, wenn nicht die Wahrung der Disziplin die Vollstreckung gebietet. \u00a7 56 Abs. 1 Satz 2, Abs. 4, die \u00a7\u00a7 56a bis 56c, 56e bis 56g und 58 des Strafgesetzbuches gelten entsprechend.</P><P>(2) Das Gericht kann die Vollstreckung des Restes eines Strafarrestes unter den Voraussetzungen des \u00a7 57 Abs. 1 Satz 1 des Strafgesetzbuches zur Bew\u00e4hrung aussetzen. \u00a7 57 Abs. 1 Satz 2, Abs. 4 und die \u00a7\u00a7 56a bis 56c, 56e bis 56g des Strafgesetzbuches gelten entsprechend.</P><P>(3) Bew\u00e4hrungsauflagen und Weisungen (\u00a7\u00a7 56b und 56c des Strafgesetzbuches) sollen die Besonderheiten des Wehrdienstes ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002980957BJNG000200315",
+        "name": "Zweiter Teil",
+        "title": "Milit\u00e4rische Straftaten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002980957BJNG000300315",
+        "name": "Erster Abschnitt",
+        "title": "Straftaten gegen die Pflicht\nzur milit\u00e4rischen Dienstleistung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002400315",
+        "name": "\u00a7 15",
+        "title": "Eigenm\u00e4chtige Abwesenheit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000300315"
+        },
+        "body": "<P>(1) Wer eigenm\u00e4chtig seine Truppe oder Dienststelle verl\u00e4\u00dft oder ihr fernbleibt und vors\u00e4tzlich oder fahrl\u00e4ssig l\u00e4nger als drei volle Kalendertage abwesend ist, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P><P>(2) Ebenso wird bestraft, wer au\u00dferhalb des r\u00e4umlichen Geltungsbereichs dieses Gesetzes von seiner Truppe oder Dienststelle abgekommen ist und es vors\u00e4tzlich oder fahrl\u00e4ssig unterl\u00e4\u00dft, sich bei ihr, einer anderen Truppe oder Dienststelle der Bundeswehr oder einer Beh\u00f6rde der Bundesrepublik Deutschland innerhalb von drei vollen Kalendertagen zu melden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002500315",
+        "name": "\u00a7 16",
+        "title": "Fahnenflucht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000300315"
+        },
+        "body": "<P>(1) Wer eigenm\u00e4chtig seine Truppe oder Dienststelle verl\u00e4\u00dft oder ihr fernbleibt, um sich der Verpflichtung zum Wehrdienst dauernd oder f\u00fcr die Zeit eines bewaffneten Einsatzes zu entziehen oder die Beendigung des Wehrdienstverh\u00e4ltnisses zu erreichen, wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren bestraft.</P><P>(2) Der Versuch ist strafbar.</P><P>(3) Stellt sich der T\u00e4ter innerhalb eines Monats und ist er bereit, der Verpflichtung zum Wehrdienst nachzukommen, so ist die Strafe Freiheitsstrafe bis zu drei Jahren.</P><P>(4) Die Vorschriften \u00fcber den Versuch der Beteiligung nach \u00a7 30 Abs. 1 des Strafgesetzbuches gelten f\u00fcr Straftaten nach Absatz 1 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002600315",
+        "name": "\u00a7 17",
+        "title": "Selbstverst\u00fcmmelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000300315"
+        },
+        "body": "<P>(1) Wer sich oder einen anderen Soldaten mit dessen Einwilligung durch Verst\u00fcmmelung oder auf andere Weise zum Wehrdienst untauglich macht oder machen l\u00e4\u00dft, wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren bestraft. Dies gilt auch dann, wenn der T\u00e4ter die Untauglichkeit nur f\u00fcr eine gewisse Zeit oder teilweise herbeif\u00fchrt.</P><P>(2) Der Versuch ist strafbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002700315",
+        "name": "\u00a7 18",
+        "title": "Dienstentziehung durch T\u00e4uschung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000300315"
+        },
+        "body": "<P>(1) Wer sich oder einen anderen Soldaten durch arglistige, auf T\u00e4uschung berechnete Machenschaften dem Wehrdienst dauernd oder f\u00fcr eine gewisse Zeit, ganz oder teilweise entzieht, wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren bestraft.</P><P>(2) Der Versuch ist strafbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002980957BJNG000400315",
+        "name": "Zweiter Abschnitt",
+        "title": "Straftaten gegen die\nPflichten der Untergebenen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002801307",
+        "name": "\u00a7 19",
+        "title": "Ungehorsam",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(1) Wer einen Befehl nicht befolgt und dadurch wenigstens fahrl\u00e4ssig eine schwerwiegende Folge (\u00a7 2 Nr. 3) verursacht, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P><P>(2) Der Versuch ist strafbar.</P><P>(3) In besonders schweren F\u00e4llen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der T\u00e4ter durch die Tat <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenigstens fahrl\u00e4ssig die Gefahr eines schweren Nachteils f\u00fcr die Sicherheit der Bundesrepublik Deutschland oder die Schlagkraft der Truppe oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">fahrl\u00e4ssig den Tod oder eine schwere K\u00f6rperverletzung eines anderen (\u00a7 226 des Strafgesetzbuches)</LA></DD> </DL>verursacht.</P><P>(4) Die Vorschriften \u00fcber den Versuch der Beteiligung nach \u00a7 30 Abs. 1 des Strafgesetzbuches gelten f\u00fcr Straftaten nach Absatz 1 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE002900315",
+        "name": "\u00a7 20",
+        "title": "Gehorsamsverweigerung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(1) Mit Freiheitsstrafe bis zu drei Jahren wird bestraft, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wer die Befolgung eines Befehls dadurch verweigert, da\u00df er sich mit Wort oder Tat gegen ihn auflehnt, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wer darauf beharrt, einen Befehl nicht zu befolgen, nachdem dieser wiederholt worden ist.</LA></DD> </DL> </P><P>(2) Verweigert der T\u00e4ter in den F\u00e4llen des Absatzes 1 Nr. 1 den Gehorsam gegen\u00fcber einem Befehl, der nicht sofort auszuf\u00fchren ist, befolgt er ihn aber rechtzeitig und freiwillig, so kann das Gericht von Strafe absehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003000315",
+        "name": "\u00a7 21",
+        "title": "Leichtfertiges Nichtbefolgen eines Befehls",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>Wer leichtfertig einen Befehl nicht befolgt und dadurch wenigstens fahrl\u00e4ssig eine schwerwiegende Folge (\u00a7 2 Nr. 3) verursacht, wird mit Freiheitsstrafe bis zu zwei Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003100315",
+        "name": "\u00a7 22",
+        "title": "Verbindlichkeit des Befehls, Irrtum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(1) In den F\u00e4llen der \u00a7\u00a7 19 bis 21 handelt der Untergebene nicht rechtswidrig, wenn der Befehl nicht verbindlich ist, insbesondere wenn er nicht zu dienstlichen Zwecken erteilt ist oder die Menschenw\u00fcrde verletzt oder wenn durch das Befolgen eine Straftat begangen w\u00fcrde. Dies gilt auch, wenn der Untergebene irrig annimmt, der Befehl sei verbindlich.</P><P>(2) Befolgt ein Untergebener einen Befehl nicht, weil er irrig annimmt, da\u00df durch die Ausf\u00fchrung eine Straftat begangen w\u00fcrde, so ist er nach den \u00a7\u00a7 19 bis 21 nicht strafbar, wenn er den Irrtum nicht vermeiden konnte.</P><P>(3) Nimmt ein Untergebener irrig an, da\u00df ein Befehl aus anderen Gr\u00fcnden nicht verbindlich ist, und befolgt er ihn deshalb nicht, so ist er nach den \u00a7\u00a7 19 bis 21 nicht strafbar, wenn er den Irrtum nicht vermeiden konnte und ihm nach den ihm bekannten Umst\u00e4nden auch nicht zuzumuten war, sich mit Rechtsbehelfen gegen den vermeintlich nicht verbindlichen Befehl zu wehren; war ihm dies zuzumuten, so kann das Gericht von einer Bestrafung nach den \u00a7\u00a7 19 bis 21 absehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003200315",
+        "name": "\u00a7 23",
+        "title": "Bedrohung eines Vorgesetzten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>Wer im Dienst oder in Beziehung auf eine Diensthandlung einen Vorgesetzten mit der Begehung einer Straftat bedroht, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003300315",
+        "name": "\u00a7 24",
+        "title": "N\u00f6tigung eines Vorgesetzten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(1) Wer es unternimmt, durch Gewalt oder Drohung einen Vorgesetzten zu n\u00f6tigen, eine Diensthandlung vorzunehmen oder zu unterlassen, wird mit Freiheitsstrafe von drei Monaten bis zu drei Jahren bestraft.</P><P>(2) Ebenso wird bestraft, wer die Tat gegen einen Soldaten begeht, der zur Unterst\u00fctzung des Vorgesetzten zugezogen worden ist.</P><P>(3) In minder schweren F\u00e4llen ist die Strafe Freiheitsstrafe bis zu zwei Jahren.</P><P>(4) In besonders schweren F\u00e4llen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der T\u00e4ter durch die Tat eine schwerwiegende Folge (\u00a7 2 Nr. 3) herbeif\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003400315",
+        "name": "\u00a7 25",
+        "title": "T\u00e4tlicher Angriff gegen einen Vorgesetzten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(1) Wer es unternimmt, gegen einen Vorgesetzten t\u00e4tlich zu werden, wird mit Freiheitsstrafe von drei Monaten bis zu drei Jahren bestraft.</P><P>(2) In minder schweren F\u00e4llen ist die Strafe Freiheitsstrafe bis zu zwei Jahren.</P><P>(3) In besonders schweren F\u00e4llen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der T\u00e4ter durch die Tat eine schwerwiegende Folge (\u00a7 2 Nr. 3) herbeif\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003500315",
+        "name": "\u00a7 26",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003600315",
+        "name": "\u00a7 27",
+        "title": "Meuterei",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(1) Wenn Soldaten sich zusammenrotten und mit vereinten Kr\u00e4ften eine Gehorsamsverweigerung (\u00a7 20), eine Bedrohung (\u00a7 23), eine N\u00f6tigung (\u00a7 24) oder einen t\u00e4tlichen Angriff (\u00a7 25) begehen, so wird jeder, der sich an der Zusammenrottung beteiligt, mit Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren bestraft.</P><P>(2) Der Versuch ist strafbar.</P><P>(3) In besonders schweren F\u00e4llen ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der T\u00e4ter R\u00e4delsf\u00fchrer ist oder durch die Tat eine schwerwiegende Folge (\u00a7 2 Nr. 3) herbeif\u00fchrt.</P><P>(4) Wer sich nur an der Zusammenrottung beteiligt, jedoch freiwillig zur Ordnung zur\u00fcckkehrt, bevor eine der in Absatz 1 bezeichneten Taten begangen wird, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003700315",
+        "name": "\u00a7 28",
+        "title": "Verabredung zur Unbotm\u00e4\u00dfigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(1) Verabreden Soldaten, gemeinschaftlich eine Gehorsamsverweigerung (\u00a7 20), eine Bedrohung (\u00a7 23), eine N\u00f6tigung (\u00a7 24), einen t\u00e4tlichen Angriff (\u00a7 25) oder eine Meuterei (\u00a7 27) zu begehen, so werden sie nach den Vorschriften bestraft, die f\u00fcr die Begehung der Tat gelten. In den F\u00e4llen des \u00a7 27 kann die Strafe nach \u00a7 49 Abs. 1 des Strafgesetzbuches gemildert werden.</P><P>(2) Nach Absatz 1 wird nicht bestraft, wer nach der Verabredung freiwillig die Tat verhindert. Unterbleibt sie ohne sein Zutun oder wird sie unabh\u00e4ngig von seinem fr\u00fcheren Verhalten begangen, so gen\u00fcgt zu seiner Straflosigkeit sein freiwilliges und ernsthaftes Bem\u00fchen, die Tat zu verhindern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003800315",
+        "name": "\u00a7 29",
+        "title": "Taten gegen Soldaten mit h\u00f6herem Dienstgrad",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000400315"
+        },
+        "body": "<P>(1) Die \u00a7\u00a7 23 bis 28 gelten entsprechend, wenn die Tat gegen einen Soldaten begangen wird, der zur Zeit der Tat nicht Vorgesetzter des T\u00e4ters, aber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Offizier oder Unteroffizier ist und einen h\u00f6heren Dienstgrad als der T\u00e4ter hat oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Dienst dessen Vorgesetzter ist,</LA></DD></DL>und der T\u00e4ter oder der andere zur Zeit der Tat im Dienst ist oder die Tat sich auf eine Diensthandlung bezieht.</P><P>(2) In den F\u00e4llen des Absatzes 1 Nr. 1 ist \u00a7 4 nicht anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002980957BJNG000500315",
+        "name": "Dritter Abschnitt",
+        "title": "Straftaten gegen die Pflichten\nder Vorgesetzten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE003900315",
+        "name": "\u00a7 30",
+        "title": "Mi\u00dfhandlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>(1) Wer einen Untergebenen k\u00f6rperlich mi\u00dfhandelt oder an der Gesundheit besch\u00e4digt, wird mit Freiheitsstrafe von drei Monaten bis zu f\u00fcnf Jahren bestraft.</P><P>(2) Ebenso wird bestraft, wer es f\u00f6rdert oder pflichtwidrig duldet, da\u00df ein Untergebener die Tat gegen einen anderen Soldaten begeht.</P><P>(3) In minder schweren F\u00e4llen ist die Strafe Freiheitsstrafe bis zu drei Jahren.</P><P>(4) In besonders schweren F\u00e4llen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der T\u00e4ter sein Verhalten beharrlich wiederholt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004000315",
+        "name": "\u00a7 31",
+        "title": "Entw\u00fcrdigende Behandlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>(1) Wer einen Untergebenen entw\u00fcrdigend behandelt oder ihm b\u00f6swillig den Dienst erschwert, wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren bestraft.</P><P>(2) Ebenso wird bestraft, wer es f\u00f6rdert oder pflichtwidrig duldet, da\u00df ein Untergebener die Tat gegen einen anderen Soldaten begeht.</P><P>(3) In besonders schweren F\u00e4llen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren. Ein besonders schwerer Fall liegt in der Regel vor, wenn der T\u00e4ter sein Verhalten beharrlich wiederholt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004100315",
+        "name": "\u00a7 32",
+        "title": "Mi\u00dfbrauch der Befehlsbefugnis zu unzul\u00e4ssigen Zwecken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>Wer seine Befehlsbefugnis oder Dienststellung gegen\u00fcber einem Untergebenen zu Befehlen, Forderungen oder Zumutungen mi\u00dfbraucht, die nicht in Beziehung zum Dienst stehen oder dienstlichen Zwecken zuwiderlaufen, wird mit Freiheitsstrafe bis zu zwei Jahren bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004200315",
+        "name": "\u00a7 33",
+        "title": "Verleiten zu einer rechtswidrigen Tat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>Wer durch Mi\u00dfbrauch seiner Befehlsbefugnis oder Dienststellung einen Untergebenen zu einer von diesem begangenen rechtswidrigen Tat bestimmt hat, die den Tatbestand eines Strafgesetzes verwirklicht, wird nach den Vorschriften bestraft, die f\u00fcr die Begehung der Tat gelten. Die Strafe kann bis auf das Doppelte der sonst zul\u00e4ssigen H\u00f6chststrafe, jedoch nicht \u00fcber das gesetzliche H\u00f6chstma\u00df der angedrohten Strafe hinaus erh\u00f6ht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004300315",
+        "name": "\u00a7 34",
+        "title": "Erfolgloses Verleiten zu einer rechtswidrigen Tat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>(1) Wer durch Mi\u00dfbrauch seiner Befehlsbefugnis oder Dienststellung einen Untergebenen zu bestimmen versucht, eine rechtswidrige Tat, die den Tatbestand eines Strafgesetzes verwirklicht, zu begehen oder zu ihr anzustiften, wird nach den f\u00fcr die Begehung der Tat geltenden Vorschriften bestraft. Jedoch kann die Strafe nach \u00a7 49 Abs. 1 des Strafgesetzbuches gemildert werden.</P><P>(2) Nach Absatz 1 wird nicht bestraft, wer freiwillig den Versuch aufgibt, den Untergebenen zu bestimmen, und eine etwa bestehende Gefahr, da\u00df der Untergebene die Tat begeht, abwendet. Unterbleibt die Tat ohne Zutun des Zur\u00fccktretenden oder wird sie unabh\u00e4ngig von seinem fr\u00fcheren Verhalten begangen, so gen\u00fcgt zu seiner Straflosigkeit sein freiwilliges und ernsthaftes Bem\u00fchen, die Tat zu verhindern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004400315",
+        "name": "\u00a7 35",
+        "title": "Unterdr\u00fccken von Beschwerden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>(1) Wer einen Untergebenen durch Befehle, Drohungen, Versprechungen, Geschenke oder sonst auf pflichtwidrige Weise davon abh\u00e4lt, Eingaben, Meldungen oder Beschwerden bei der Volksvertretung der Bundesrepublik Deutschland oder eines ihrer L\u00e4nder, bei dem Wehrbeauftragten des Bundestages, bei einer Dienststelle oder bei einem Vorgesetzten anzubringen, Anzeige zu erstatten oder von einem Rechtsbehelf Gebrauch zu machen, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P><P>(2) Ebenso wird bestraft, wer eine solche Erkl\u00e4rung, zu deren Pr\u00fcfung oder Weitergabe er dienstlich verpflichtet ist, unterdr\u00fcckt.</P><P>(3) Der Versuch ist strafbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004500315",
+        "name": "\u00a7 36",
+        "title": "Taten von Soldaten mit h\u00f6herem Dienstgrad",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>(1) Die \u00a7\u00a7 30 bis 35 gelten entsprechend f\u00fcr Taten eines Soldaten, der zur Zeit der Tat nicht Vorgesetzter des anderen, aber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Offizier oder Unteroffizier ist und einen h\u00f6heren Dienstgrad als der andere hat oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Dienst dessen Vorgesetzter ist</LA></DD> </DL>und der bei der Tat seine Dienststellung mi\u00dfbraucht.</P><P>(2) In den F\u00e4llen des Absatzes 1 Nr. 1 ist \u00a7 4 nicht anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004600315",
+        "name": "\u00a7 37",
+        "title": "Beeinflussung der Rechtspflege",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>Wer es unternimmt, durch Mi\u00dfbrauch seiner Befehlsbefugnis oder Dienststellung unzul\u00e4ssigen Einflu\u00df auf Soldaten zu nehmen, die als Organe der Rechtspflege t\u00e4tig sind, wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004701377",
+        "name": "\u00a7 38",
+        "title": "Anma\u00dfen von Befehlsbefugnissen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>Wer sich Befehlsbefugnis oder Disziplinarbefugnis anma\u00dft oder seine Befehlsbefugnis oder Disziplinarbefugnis \u00fcberschreitet, wird mit Freiheitsstrafe bis zu zwei Jahren bestraft, wenn die Tat nicht in \u00a7 39 mit Strafe bedroht ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004801377",
+        "name": "\u00a7 39",
+        "title": "Mi\u00dfbrauch der Disziplinarbefugnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>Ein Disziplinarvorgesetzter, der absichtlich oder wissentlich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Untergebenen, der nach dem Gesetz nicht disziplinarrechtlich verfolgt werden darf, disziplinarrechtlich verfolgt oder auf eine solche Verfolgung hinwirkt,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zum Nachteil des Untergebenen eine Disziplinarma\u00dfnahme verh\u00e4ngt, die nach Art oder H\u00f6he im Gesetz nicht vorgesehen ist oder die er nicht verh\u00e4ngen darf, oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Dienstvergehen mit unerlaubten Ma\u00dfnahmen ahndet,</LA></DD> </DL>wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE004900315",
+        "name": "\u00a7 40",
+        "title": "Unterlassene Mitwirkung bei Strafverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>Wer es seiner Pflicht als Vorgesetzter zuwider unterl\u00e4\u00dft, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Verdacht zu melden oder zu untersuchen, da\u00df ein Untergebener eine rechtswidrige Tat begangen hat, die den Tatbestand eines Strafgesetzes verwirklicht, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine solche Sache an die Strafverfolgungsbeh\u00f6rde abzugeben,</LA></DD> </DL>um den Untergebenen der im Gesetz vorgesehenen Strafe oder Ma\u00dfnahme (\u00a7 11 Abs. 1 Nr. 8 des Strafgesetzbuches) zu entziehen, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE005000315",
+        "name": "\u00a7 41",
+        "title": "Mangelhafte Dienstaufsicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000500315"
+        },
+        "body": "<P>(1) Wer es unterl\u00e4\u00dft, Untergebene pflichtgem\u00e4\u00df zu beaufsichtigen oder beaufsichtigen zu lassen, und dadurch wenigstens fahrl\u00e4ssig eine schwerwiegende Folge (\u00a7 2 Nr. 3) verursacht, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P><P>(2) Der Versuch ist strafbar.</P><P>(3) Wer die Aufsichtspflicht leichtfertig verletzt und dadurch wenigstens fahrl\u00e4ssig eine schwerwiegende Folge verursacht, wird mit Freiheitsstrafe bis zu sechs Monaten bestraft.</P><P>(4) Die Abs\u00e4tze 1 bis 3 sind nicht anzuwenden, wenn die Tat in anderen Vorschriften mit schwererer Strafe bedroht ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002980957BJNG000600315",
+        "name": "Vierter Abschnitt",
+        "title": "Straftaten gegen andere\nmilit\u00e4rische Pflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE005100315",
+        "name": "\u00a7 42",
+        "title": "Unwahre dienstliche Meldung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000600315"
+        },
+        "body": "<P>(1) Wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in einer dienstlichen Meldung oder Erkl\u00e4rung unwahre Angaben \u00fcber Tatsachen von dienstlicher Bedeutung macht,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine solche Meldung weitergibt, ohne sie pflichtgem\u00e4\u00df zu berichtigen, oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine dienstliche Meldung unrichtig \u00fcbermittelt</LA></DD> </DL>und dadurch wenigstens fahrl\u00e4ssig eine schwerwiegende Folge (\u00a7 2 Nr. 3) verursacht, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P><P>(2) Der Versuch ist strafbar.</P><P>(3) Wer im Falle des Absatzes 1 leichtfertig handelt und die schwerwiegende Folge wenigstens fahrl\u00e4ssig verursacht, wird mit Freiheitsstrafe bis zu einem Jahr bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE005200315",
+        "name": "\u00a7 43",
+        "title": "Unterlassene Meldung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000600315"
+        },
+        "body": "<P>(1) Wer von dem Vorhaben oder der Ausf\u00fchrung einer Meuterei (\u00a7 27) oder einer Sabotage (\u00a7 109e Abs. 1 des Strafgesetzbuches) zu einer Zeit, zu der die Ausf\u00fchrung oder der Erfolg noch abgewendet werden kann, glaubhaft erf\u00e4hrt und es unterl\u00e4\u00dft, unverz\u00fcglich Meldung zu machen, wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P><P>(2) \u00a7 139 des Strafgesetzbuches gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE005300315",
+        "name": "\u00a7 44",
+        "title": "Wachverfehlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000600315"
+        },
+        "body": "<P>(1) Wer im Wachdienst <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Wachvorgesetzter es unterl\u00e4\u00dft, die Wache pflichtgem\u00e4\u00df zu beaufsichtigen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">pflichtwidrig seinen Postenbereich oder Streifenweg verl\u00e4\u00dft oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich au\u00dferstande setzt, seinen Dienst zu versehen,</LA></DD> </DL>wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P><P>(2) Ebenso wird bestraft, wer im Wachdienst in anderen als den in Absatz 1 bezeichneten F\u00e4llen Befehle nicht befolgt, die f\u00fcr den Wachdienst gelten, und dadurch wenigstens fahrl\u00e4ssig eine schwerwiegende Folge (\u00a7 2 Nr. 3) verursacht.</P><P>(3) Der Versuch ist strafbar.</P><P>(4) In besonders schweren F\u00e4llen ist die Strafe Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren. \u00a7 19 Abs. 3 Satz 2 gilt entsprechend.</P><P>(5) Wer in den F\u00e4llen der Abs\u00e4tze 1 oder 2 fahrl\u00e4ssig handelt und dadurch wenigstens fahrl\u00e4ssig eine schwerwiegende Folge verursacht (\u00a7 2 Nr. 3), wird mit Freiheitsstrafe bis zu zwei Jahren bestraft.</P><P>(6) Wird ein Befehl nicht befolgt (Absatz 2), so gelten \u00a7 22 sowie die Vorschriften \u00fcber den Versuch der Beteiligung nach \u00a7 30 Abs. 1 des Strafgesetzbuches entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE005400315",
+        "name": "\u00a7 45",
+        "title": "Pflichtverletzung bei Sonderauftr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000600315"
+        },
+        "body": "<P>Nach \u00a7 44 Abs. 1, 3 bis 6 wird auch bestraft, wer als F\u00fchrer eines Kommandos oder einer Abteilung, der einen Sonderauftrag selbst\u00e4ndig auszuf\u00fchren hat und auf seine erh\u00f6hte Verantwortung hingewiesen worden ist, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich au\u00dferstande setzt, den Auftrag pflichtgem\u00e4\u00df zu erf\u00fcllen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">seinen Posten verl\u00e4\u00dft oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Befehle nicht befolgt, die f\u00fcr die Ausf\u00fchrung des Auftrags gelten,</LA></DD> </DL>und dadurch wenigstens fahrl\u00e4ssig eine schwerwiegende Folge (\u00a7 2 Nr. 3) verursacht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE005500315",
+        "name": "\u00a7 46",
+        "title": "Rechtswidriger Waffengebrauch",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000600315"
+        },
+        "body": "<P>Wer von der Waffe einen rechtswidrigen Gebrauch macht, wird mit Freiheitsstrafe bis zu einem Jahr bestraft, wenn die Tat nicht in anderen Vorschriften mit schwererer Strafe bedroht ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE005600315",
+        "name": "\u00a7 47",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000600315"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002980957BJNE005704123",
+        "name": "\u00a7 48",
+        "title": "Verletzung anderer Dienstpflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002980957BJNG000600315"
+        },
+        "body": "<P>(1) F\u00fcr die Anwendung der Vorschriften des Strafgesetzbuches \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\">Gefangenenbefreiung (\u00a7 120 Abs. 2),</LA><LA Size=\"normal\">Verletzung der Vertraulichkeit des Wortes (\u00a7 201 Abs. 3),</LA><LA Size=\"normal\">Verletzung von Privatgeheimnissen (\u00a7 203 Absatz 2, 5 und 6, \u00a7\u00a7 204, 205),</LA><LA Size=\"normal\">Verletzung des Post- oder Fernmeldegeheimnisses (\u00a7 206 Abs. 4),</LA><LA Size=\"normal\">Vorteilsannahme und Bestechlichkeit (\u00a7\u00a7 331, 332, 335 Abs. 1 Nr. 1 Buchstabe a, Abs. 2, \u00a7 336),</LA><LA Size=\"normal\">K\u00f6rperverletzung im Amt (\u00a7 340),</LA><LA Size=\"normal\">Aussageerpressung (\u00a7 343),</LA><LA Size=\"normal\">Vollstreckung gegen Unschuldige (\u00a7 345),</LA><LA Size=\"normal\">Falschbeurkundung im Amt (\u00a7 348) und</LA><LA Size=\"normal\">Verletzung des Dienstgeheimnisses (\u00a7 353b Abs. 1)</LA></DD></DL>stehen Offiziere und Unteroffiziere den Amtstr\u00e4gern und ihr Wehrdienst dem Amt gleich.</P><P>(2) F\u00fcr die Anwendung der Vorschriften des Strafgesetzbuches \u00fcber Gefangenenbefreiung (\u00a7 120 Abs. 2), Vorteilsannahme und Bestechlichkeit (\u00a7\u00a7 331, 332, 335 Absatz 1 Nummer 1 Buchstabe a, Absatz 2, \u00a7 336), Falschbeurkundung im Amt (\u00a7 348) und Verletzung des Dienstgeheimnisses (\u00a7 353b Abs. 1) stehen auch Mannschaften den Amtstr\u00e4gern und ihr Wehrdienst dem Amt gleich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

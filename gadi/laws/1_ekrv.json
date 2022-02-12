@@ -1,0 +1,139 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR007110964",
+    "firstPublished": "1964-09-02",
+    "sourceTimestamp": "20210630213101",
+    "titleShort": "1. Eisenbahnkreuzungsverordnung",
+    "titleLong": "Verordnung \u00fcber die Kosten von Ma\u00dfnahmen nach dem\nEisenbahnkreuzungsgesetz",
+    "abbreviation": "1. EKrV",
+    "slug": "1_ekrv",
+    "extraAbbreviations": [
+      "EKrV 1"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1964, 711",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 1 V v. 11.2.1983 I 85",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 1 V v. 18.5.2021 I1181 (Nr. 26) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.3.1983 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000100312",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 16 Abs. 1 Nr. 1 des Eisenbahnkreuzungsgesetzes vom 14. August 1963 (Bundesgesetzbl. I S. 681) wird mit Zustimmung des Bundesrates verordnet:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000201360",
+        "name": "\u00a7 1",
+        "title": "Umfang der Kostenmasse",
+        "parent": null,
+        "body": "<P>(1) Die Kostenmasse bei der Herstellung einer neuen Kreuzung (\u00a7 2 des Gesetzes) oder bei Ma\u00dfnahmen an bestehenden Kreuzungen (\u00a7 3 des Gesetzes) umfa\u00dft die Aufwendungen f\u00fcr alle Ma\u00dfnahmen an den sich kreuzenden Verkehrswegen, die unter Ber\u00fccksichtigung der anerkannten Regeln der Technik notwendig sind, damit die Kreuzung den Anforderungen der Sicherheit und der Abwicklung des Verkehrs gen\u00fcgt.</P><P>(2) Zur Kostenmasse geh\u00f6ren auch die Aufwendungen f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">diejenigen Ma\u00dfnahmen, die zur Ber\u00fccksichtigung der \u00fcbersehbaren Verkehrsentwicklung auf den sich kreuzenden Verkehrswegen erforderlich sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">diejenigen Ma\u00dfnahmen, die infolge der Herstellung einer neuen Kreuzung oder einer Ma\u00dfnahme nach \u00a7 3 des Gesetzes an Anlagen erforderlich werden, die nicht zu den sich kreuzenden Verkehrswegen der Beteiligten geh\u00f6ren,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Ersatz von Sch\u00e4den, die bei der Durchf\u00fchrung einer Ma\u00dfnahme den Beteiligten oder Dritten entstanden sind, es sei denn, da\u00df die Sch\u00e4den auf Vorsatz oder grober Fahrl\u00e4ssigkeit eines Beteiligten oder seiner Bediensteten beruhen.</LA></DD></DL></P><P>(3) Wird eine Kreuzung durch \u00c4nderung der Linienf\u00fchrung des Verkehrswegs eines Beteiligten verlegt oder beseitigt, obwohl an der bisherigen Kreuzungsstelle eine Ma\u00dfnahme nach \u00a7 3 des Gesetzes mit geringeren Kosten verkehrsgerecht m\u00f6glich w\u00e4re, so ist die Kostenmasse auf die H\u00f6he dieser Kosten beschr\u00e4nkt.</P><P>(4) Von der Kostenmasse abzuziehen sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Erl\u00f6s aus der Ver\u00e4u\u00dferung der f\u00fcr die Kreuzung nicht ben\u00f6tigten oder nicht mehr ben\u00f6tigten Grundst\u00fccke oder der Verkehrswert dieser Grundst\u00fccke und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Erl\u00f6s aus der Verwertung der nicht mehr ben\u00f6tigten Anlagen der Kreuzung oder der Wert dieser Anlagen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000300312",
+        "name": "\u00a7 2",
+        "title": "Zusammensetzung der Kostenmasse",
+        "parent": null,
+        "body": "<P>Die Kostenmasse setzt sich zusammen aus <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grunderwerbskosten,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Baukosten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verwaltungskosten.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000401360",
+        "name": "\u00a7 3",
+        "title": "Grunderwerbskosten",
+        "parent": null,
+        "body": "<P>(1) Zu den Grunderwerbskosten geh\u00f6ren <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Aufwendungen im Zusammenhang mit dem Erwerb von Grundst\u00fccken oder Rechten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Entsch\u00e4digungen f\u00fcr die durch die Kreuzung bedingten Wertminderungen fremder Grundst\u00fccke.</LA></DD></DL></P><P>(2) Den Grunderwerbskosten zuzurechnen ist der Verkehrswert der schon im Eigentum der Beteiligten befindlichen Grundst\u00fccke oder ihrer Rechte, soweit sie nicht zum Verkehrsweg des nach \u00a7 4 des Gesetzes Duldungspflichtigen geh\u00f6ren.</P><P>(3) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000501360",
+        "name": "\u00a7 4",
+        "title": "Baukosten",
+        "parent": null,
+        "body": "<P>(1) Zu den Baukosten geh\u00f6ren insbesondere die Aufwendungen f\u00fcr Leistungen nach Anlage 1.</P><P>(2) F\u00fchrt ein Beteiligter Bauleistungen selbst durch, so kann er als Baukosten in Rechnung stellen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geh\u00e4lter und Dienstbez\u00fcge (Personalkosten) mit einem Zuschlag von 100 Prozent; bei der Berechnung der Personalkosten k\u00f6nnen Durchschnittss\u00e4tze zugrunde gelegt werden;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Einsatz gr\u00f6\u00dferer Ger\u00e4te die nach betriebswirtschaftlichen Grunds\u00e4tzen zu errechnenden Kosten; die Stellung von Werkzeug und Kleinger\u00e4ten ist mit den Zuschl\u00e4gen nach Nummer 1 abgegolten.</LA></DD></DL></P><P>(3) Beschafft ein Beteiligter Stoffe selbst, so kann er als Baukosten die Stoffkosten nach dem Marktpreis mit einem Zuschlag von 10 Prozent in Rechnung stellen.</P><P>(4) Mit eigenen Transportmitteln erbrachte Bef\u00f6rderungsleistungen sind nach den Selbstkosten abzurechnen. Soweit im Schienenverkehr Tarife bestehen, sind diese anzuwenden.</P><P>(5) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000601360",
+        "name": "\u00a7 5",
+        "title": "Verwaltungskosten",
+        "parent": null,
+        "body": "<P>(1) Zu den Verwaltungskosten geh\u00f6ren insbesondere die Aufwendungen f\u00fcr Leistungen nach Anlage 2.</P><P>(2) F\u00fcr die von ihm aufgewandten Verwaltungskosten kann jeder Beteiligte einen Pauschalbetrag in H\u00f6he von 20 Prozent der von ihm aufgewandten Grunderwerbskosten und Baukosten in Rechnung stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000701360",
+        "name": "\u00a7 6",
+        "title": "\u00dcbergangsregelung",
+        "parent": null,
+        "body": "<P>F\u00fcr Ma\u00dfnahmen, \u00fcber die die Beteiligten vor dem Ablauf des 1. Juli 2021 eine Vereinbarung getroffen haben, ist diese Verordnung in der bis zum Ablauf des 30. Juni 2021 geltenden Fassung weiterhin anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000800305",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": null,
+        "body": "<P><SP>Der Bundesminister f\u00fcr Verkehr</SP></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE000900360",
+        "name": "Anlage 1",
+        "title": "(zu \u00a7 4 Absatz 1)<BR />Bauleistungen",
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2021, 1182)<BR /><BR /></kommentar></noindex></P><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"10*\" /><colspec align=\"justify\" colname=\"col2\" colnum=\"2\" colwidth=\"155*\" /><thead valign=\"bottom\"><row><entry VJ=\"1\" colname=\"col1\" valign=\"top\">Nr.</entry><entry VJ=\"1\" colname=\"col2\" valign=\"top\">Leistung</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a01</entry><entry VJ=\"1\" colname=\"col2\">Ausf\u00fchrungsplanung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a02</entry><entry VJ=\"1\" colname=\"col2\">Bautechnische Pr\u00fcfung der Ausf\u00fchrungsunterlagen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a03</entry><entry VJ=\"1\" colname=\"col2\">Leistungen f\u00fcr Ingenieurbauwerke, z. B. Baustelleneinrichtung, Bauvorbereitung, Verkehrssicherung, Erdbau, konstruktiver Ingenieurbau, Ausstattung, Oberbau, Landschaftsbau, Abbruch</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a04</entry><entry VJ=\"1\" colname=\"col2\">Leistungen f\u00fcr Bahn\u00fcberg\u00e4nge, z. B. Schranken, Lichtzeichen, Blinklichter, Leit- und Sicherungstechnik, elektrotechnische Anlagen, Stra\u00dfen- und Wegebau, Abbruch</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a05</entry><entry VJ=\"1\" colname=\"col2\">Leit- und Sicherungstechnik, Planteil 2</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a06</entry><entry VJ=\"1\" colname=\"col2\">Erdung von Oberleitungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a07</entry><entry VJ=\"1\" colname=\"col2\">Gutachten, z. B. Baugrundgutachten, Baul\u00e4rmgutachten, Ersch\u00fctterungsgutachten, Bodenuntersuchungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a08</entry><entry VJ=\"1\" colname=\"col2\">Umweltfachliche Baubegleitung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a09</entry><entry VJ=\"1\" colname=\"col2\">Pr\u00fcfung der Sicherheit der Gr\u00fcndung, der Boden-Bauwerk-Wechselwirkung sowie der getroffenen Annahmen und der bodenmechanischen Kenngr\u00f6\u00dfen</entry></row><row><entry VJ=\"1\" colname=\"col1\">10</entry><entry VJ=\"1\" colname=\"col2\">Kampfmittelsondierung</entry></row><row><entry VJ=\"1\" colname=\"col1\">11</entry><entry VJ=\"1\" colname=\"col2\">Ma\u00dfnahmen an Versorgungsleitungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">12</entry><entry VJ=\"1\" colname=\"col2\">Erkundung von Versorgungsleitungen Dritter</entry></row><row><entry VJ=\"1\" colname=\"col1\">13</entry><entry VJ=\"1\" colname=\"col2\">Bauvermessung</entry></row><row><entry VJ=\"1\" colname=\"col1\">14</entry><entry VJ=\"1\" colname=\"col2\">Aufstellung und Durchf\u00fchrung von Messprogrammen</entry></row><row><entry VJ=\"1\" colname=\"col1\">15</entry><entry VJ=\"1\" colname=\"col2\">Messung \u201eGlobal System for Mobile Communications \u2013 Railway (GSM-R)\u201c, Funkfeldbetrachtung und Funkmessfahrten</entry></row><row><entry VJ=\"1\" colname=\"col1\">16</entry><entry VJ=\"1\" colname=\"col2\">Verkehrslenkungsma\u00dfnahmen</entry></row><row><entry VJ=\"1\" colname=\"col1\">17</entry><entry VJ=\"1\" colname=\"col2\">Erstellung des Abfallentsorgungskonzepts, Abfallentsorgung</entry></row><row><entry VJ=\"1\" colname=\"col1\">18</entry><entry VJ=\"1\" colname=\"col2\">Pr\u00fcfungen des Auftragnehmers</entry></row><row><entry VJ=\"1\" colname=\"col1\">19</entry><entry VJ=\"1\" colname=\"col2\">Anfertigung, Aufstellung, Vorhaltung und Abbau des Baustelleninformationsschilds</entry></row><row><entry VJ=\"1\" colname=\"col1\">20</entry><entry VJ=\"1\" colname=\"col2\">Aufbau, Vorhaltung und Abbau eines Informationszentrums oder Informationscontainers bei Kreuzungsma\u00dfnahmen mit gro\u00dfem Projektumfang und langem Realisierungszeitraum</entry></row><row><entry VJ=\"1\" colname=\"col1\">21</entry><entry VJ=\"1\" colname=\"col2\">Durchf\u00fchrung von Sicherungsma\u00dfnahmen zur Abwendung von Gefahren, die von bewegten Schienenfahrzeugen ausgehen, Erstellung des Sicherungsplans, Sicherungs\u00fcberwachung</entry></row><row><entry VJ=\"1\" colname=\"col1\">22</entry><entry VJ=\"1\" colname=\"col2\">Koordinierung der Sicherheitsma\u00dfnahmen nach der Baustellenverordnung</entry></row><row><entry VJ=\"1\" colname=\"col1\">23</entry><entry VJ=\"1\" colname=\"col2\">Amtliche Geb\u00fchren, Bearbeitungsentgelte</entry></row><row><entry VJ=\"1\" colname=\"col1\">24</entry><entry VJ=\"1\" colname=\"col2\">Kosten f\u00fcr Rechtsstreitigkeiten mit Auftragnehmern</entry></row><row><entry VJ=\"1\" colname=\"col1\">25</entry><entry VJ=\"1\" colname=\"col2\">Sicherung, Absperrung der Anlage bis zur Inbetriebnahme</entry></row><row><entry VJ=\"1\" colname=\"col1\">26</entry><entry VJ=\"1\" colname=\"col2\">1. Hauptpr\u00fcfung bei Ingenieurbauwerken</entry></row><row><entry VJ=\"1\" colname=\"col1\">27</entry><entry VJ=\"1\" colname=\"col2\">Erstellung der Bauwerksakte, Baustellendokumentation des Auftragnehmers</entry></row></tbody></tgroup></table>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007110964BJNE001000360",
+        "name": "Anlage 2",
+        "title": "(zu \u00a7 5 Absatz 1)<BR />Verwaltungsleistungen",
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2021, 1183)<BR /><BR /></kommentar></noindex></P><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"35.63pt\" /><colspec align=\"justify\" colname=\"col2\" colnum=\"2\" colwidth=\"571.14pt\" /><thead valign=\"bottom\"><row><entry VJ=\"1\" colname=\"col1\" valign=\"top\">Nr.</entry><entry VJ=\"1\" colname=\"col2\" valign=\"top\">Leistung</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a01</entry><entry VJ=\"1\" colname=\"col2\">Grundlagenermittlung und Vorplanung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a02</entry><entry VJ=\"1\" colname=\"col2\">Entwurfsplanung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a03</entry><entry VJ=\"1\" colname=\"col2\">Ingenieurleistungen f\u00fcr die Kostenteilung und f\u00fcr die Berechnung von Abl\u00f6sungsbetr\u00e4gen nach dem Eisenbahnkreuzungsgesetz</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a04</entry><entry VJ=\"1\" colname=\"col2\">Genehmigungsplanung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a05</entry><entry VJ=\"1\" colname=\"col2\">Vorbereitung der Vergabe</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a06</entry><entry VJ=\"1\" colname=\"col2\">Mitwirkung bei der Vergabe</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a07</entry><entry VJ=\"1\" colname=\"col2\">Freigabe der Ausf\u00fchrungsunterlagen, Pr\u00fcfung der Bauvorlagen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a08</entry><entry VJ=\"1\" colname=\"col2\">Leit- und Sicherungstechnik, Planteil 1</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a09</entry><entry VJ=\"1\" colname=\"col2\">Schaltantragstellung und Abnahme der Erdung von Oberleitungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">10</entry><entry VJ=\"1\" colname=\"col2\">Festlegung des geod\u00e4tischen Referenzsystems</entry></row><row><entry VJ=\"1\" colname=\"col1\">11</entry><entry VJ=\"1\" colname=\"col2\">Erstellung des Verkehrskonzepts f\u00fcr die Bauzeit</entry></row><row><entry VJ=\"1\" colname=\"col1\">12</entry><entry VJ=\"1\" colname=\"col2\">Erstellung des Markierungs- und Beschilderungsplans</entry></row><row><entry VJ=\"1\" colname=\"col1\">13</entry><entry VJ=\"1\" colname=\"col2\">Beantragung, Umsetzung und \u00dcberwachung der Betriebs- und Bauanweisung</entry></row><row><entry VJ=\"1\" colname=\"col1\">14</entry><entry VJ=\"1\" colname=\"col2\">Kontrollpr\u00fcfungen des Aufraggebers</entry></row><row><entry VJ=\"1\" colname=\"col1\">15</entry><entry VJ=\"1\" colname=\"col2\">Kontrollvermessung des Auftraggebers</entry></row><row><entry VJ=\"1\" colname=\"col1\">16</entry><entry VJ=\"1\" colname=\"col2\">Bau\u00fcberwachung, Bauleitung, Objektbetreuung, Baustellendokumentation des Auftraggebers</entry></row><row><entry VJ=\"1\" colname=\"col1\">17</entry><entry VJ=\"1\" colname=\"col2\">Abnahmen von Bauteilen und Leistungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">18</entry><entry VJ=\"1\" colname=\"col2\">Stellung von Fahrzeugen f\u00fcr Probebelastungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">19</entry><entry VJ=\"1\" colname=\"col2\">Erstellung der Planunterlagen f\u00fcr EG-Zertifizierung</entry></row><row><entry VJ=\"1\" colname=\"col1\">20</entry><entry VJ=\"1\" colname=\"col2\">Sicherheitsaudit, Sicherheitsmanagement</entry></row><row><entry VJ=\"1\" colname=\"col1\">21</entry><entry VJ=\"1\" colname=\"col2\">Beantragung und Erteilung von unternehmensinternen Genehmigungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">22</entry><entry VJ=\"1\" colname=\"col2\">Beantragung und Erteilung von Zulassungen im Einzelfall</entry></row><row><entry VJ=\"1\" colname=\"col1\">23</entry><entry VJ=\"1\" colname=\"col2\">Versicherungspr\u00e4mien</entry></row><row><entry VJ=\"1\" colname=\"col1\">24</entry><entry VJ=\"1\" colname=\"col2\">Gesch\u00e4ftsumlagen, z. B. Leitung, Personalverwaltung, Bilanzierung, Finanzierung, Controlling, Kassenwesen, Sozialwesen, Aus- und Weiterbildung</entry></row><row><entry VJ=\"1\" colname=\"col1\">25</entry><entry VJ=\"1\" colname=\"col2\">\u00d6ffentlichkeitsarbeit</entry></row></tbody></tgroup></table>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

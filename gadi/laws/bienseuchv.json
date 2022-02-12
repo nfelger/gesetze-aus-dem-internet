@@ -1,0 +1,653 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR005940972",
+    "firstPublished": "1972-04-10",
+    "sourceTimestamp": "20140522221503",
+    "titleShort": null,
+    "titleLong": "Bienenseuchen-Verordnung",
+    "abbreviation": "BienSeuchV",
+    "slug": "bienseuchv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1972, 594",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 3.11.2004 I 2738;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 7 V v. 17.4.2014 I 388",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.1.1989 +++)</P><P><BR /> Die V wurde vom Bundesminister f\u00fcr Ern\u00e4hrung, Landwirtschaft und Forsten auf Grund des \u00a7 79 Abs. 1 des Viehseuchengesetzes idF d. Bek. vom 27.2.1969 I 158 erlassen.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG000102377",
+        "name": "I.",
+        "title": "Begriffsbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE001402377",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000102377"
+        },
+        "body": "<P>(1) Bienenvolk im Sinne der Verordnung sind die in einer Bienenwohnung lebenden Bienen mit ihrer Brut und ihren Waben.</P><P>(2) Bienenstand im Sinne der Verordnung sind die R\u00e4ume oder Einrichtungen, in denen Bienenv\u00f6lker gehalten werden oder gehalten worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG000202377",
+        "name": "II.",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE003702377",
+        "name": "\u00a7 1a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000202377"
+        },
+        "body": "<P>Wer Bienen halten will, hat dies sp\u00e4testens bei Beginn der T\u00e4tigkeit der zust\u00e4ndigen Beh\u00f6rde unter Angabe der Anzahl der Bienenv\u00f6lker und ihres Standortes anzuzeigen. Die zust\u00e4ndige Beh\u00f6rde erfasst die angezeigten Bienenhaltungen unter Erteilung einer Registernummer und legt hier\u00fcber ein Register an. Die Registernummer ist zw\u00f6lfstellig und wird aus der f\u00fcr die Gemeinde der Bienenhaltung vorgesehenen amtlichen Schl\u00fcsselnummer des vom Statistischen Bundesamt herausgegebenen Gemeindeschl\u00fcsselverzeichnisses sowie einer vierstelligen Betriebsnummer gebildet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE001504301",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000202377"
+        },
+        "body": "<P>(1) Betriebe, in denen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">gewerbsm\u00e4\u00dfig Honig gelagert oder behandelt wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mittelw\u00e4nde f\u00fcr Bienenwaben hergestellt werden oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Seuchenwachs be- oder verarbeitet wird,</LA></DD></DL>unterliegen der Beaufsichtigung durch die zust\u00e4ndige Beh\u00f6rde.</P><P>(2) In Betrieben, in denen Honig gewerbsm\u00e4\u00dfig behandelt wird, m\u00fcssen zur Aufbewahrung, Be- und Verarbeitung, zum Abf\u00fcllen und f\u00fcr die Bef\u00f6rderung von Honig benutzte Gegenst\u00e4nde nach Gebrauch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit kochendem Wasser gr\u00fcndlich gereinigt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr mindestens 20 Minuten einer Temperatur von mindestens <ABWFORMAT typ=\"A\" />230 Grad C ausgesetzt oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">so aufbewahrt werden, dass sie Bienen nicht zug\u00e4nglich sind.</LA></DD></DL>Die Betriebsr\u00e4ume sind bienendicht zu halten.</P><P>(3) Honig aus Betrieben, in denen Honig gewerbsm\u00e4\u00dfig behandelt wird, darf nur so beseitigt werden, dass er Bienen nicht zug\u00e4nglich ist.</P><P>(4) Betriebe, die gewerbsm\u00e4\u00dfig Honig zur Herstellung von Futterteig verwenden, m\u00fcssen den Honig vor der Herstellung des Futterteigs mit einem Verfahren behandeln, durch das Erreger \u00fcbertragbarer Bienenkrankheiten abget\u00f6tet werden.</P><P>(5) Die zust\u00e4ndige Beh\u00f6rde kann die Ma\u00dfnahmen nach Absatz 2 sowie f\u00fcr Trester die Ma\u00dfnahmen nach Absatz 3 f\u00fcr Betriebe, in denen Mittelw\u00e4nde f\u00fcr Bienenwaben hergestellt werden oder Seuchenwachs be- oder verarbeitet wird, anordnen, soweit dies zur Verh\u00fctung der Verschleppung der Amerikanischen Faulbrut notwendig ist. Sie kann ferner anordnen, dass Pl\u00e4tze der in Absatz 1 genannten Betriebe, an denen Honig gelagert oder aufbewahrt wird, bienendicht zu halten sind und Wachs, das zur Herstellung von Mittelw\u00e4nden f\u00fcr Bienenwaben verwendet wird, mit einem Verfahren behandelt wird, durch das Erreger \u00fcbertragbarer Bienenkrankheiten abget\u00f6tet werden, soweit dies zur Verh\u00fctung der Verschleppung der Amerikanischen Faulbrut notwendig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE001704377",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000202377"
+        },
+        "body": "<P>Ist zu bef\u00fcrchten, dass sich die Amerikanische Faulbrut, die Acariose (Milbenseuche), die Varroatose, der Kleine Beutenk\u00e4fer oder die Tropilaelaps-Milbe ausgebreitet hat oder ausbreitet, kann die zust\u00e4ndige Beh\u00f6rde eine amtliche Untersuchung aller Bienenv\u00f6lker und Bienenst\u00e4nde des verd\u00e4chtigen Gebietes anordnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE001802377",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000202377"
+        },
+        "body": "<P>Der Besitzer von Bienenv\u00f6lkern und Bienenst\u00e4nden oder sein Vertreter ist verpflichtet, zur Durchf\u00fchrung von Untersuchungen die erforderliche Hilfe zu leisten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE001904377",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000202377"
+        },
+        "body": "<P>(1) Der Besitzer oder die mit der Beaufsichtigung, Wartung und Pflege der Bienenv\u00f6lker betrauten Personen haben f\u00fcr Bienenv\u00f6lker, die an einen anderen Ort verbracht werden, unverz\u00fcglich nach dem Eintreffen der f\u00fcr den neuen Standort zust\u00e4ndigen Beh\u00f6rde oder einer von ihr beauftragten Stelle eine Bescheinigung des f\u00fcr den Herkunftsort zust\u00e4ndigen beamteten Tierarztes vorzulegen. Aus der Bescheinigung muss hervorgehen, dass die Bienen als frei von Amerikanischer Faulbrut befunden worden sind und der Herkunftsort der Bienen nicht in einem Faulbrut-Sperrbezirk liegt. Die Bescheinigung darf nicht vor dem 1. September des vorhergehenden Kalenderjahres ausgestellt und nicht \u00e4lter als neun Monate sein.</P><P>(2) Die Bescheinigung nach Absatz 1 wird von der f\u00fcr den neuen Standort zust\u00e4ndigen Beh\u00f6rde oder der von ihr beauftragten Stelle einbehalten. F\u00fcr Bienenv\u00f6lker, die nur vor\u00fcbergehend an einen anderen Ort verbracht werden, tr\u00e4gt sie in der Bescheinigung den Ort, den Beginn und das Ende der Wanderung sowie am Ort der Wanderung oder auf dem Bienenstand festgestellte Bienenseuchen ein. Die Bescheinigung wird dem Besitzer oder den mit der Beaufsichtigung, Wartung oder Pflege der Bienenv\u00f6lker betrauten Personen wieder ausgeh\u00e4ndigt, wenn die Bienenv\u00f6lker aus dem Bezirk der zust\u00e4ndigen Beh\u00f6rde verbracht werden.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde kann Ausnahmen von den Abs\u00e4tzen 1 und 2 zulassen, wenn Belange der Seuchenbek\u00e4mpfung nicht entgegenstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002002377",
+        "name": "\u00a7 5a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000202377"
+        },
+        "body": "<P>Der Besitzer von Bienenv\u00f6lkern, die nur vor\u00fcbergehend an einen anderen Ort verbracht werden, hat an dem Bienenstand ein Schild mit seinem Namen und seiner Anschrift sowie der Zahl der Bienenv\u00f6lker in deutlicher und haltbarer Schrift gut sichtbar anzubringen. Er hat daf\u00fcr zu sorgen, dass die Bienenv\u00f6lker in seiner Gegenwart oder im Beisein eines von ihm Beauftragten von dem beamteten Tierarzt untersucht werden k\u00f6nnen, soweit eine solche Untersuchung aus Gr\u00fcnden der Seuchenbek\u00e4mpfung erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002103377",
+        "name": "\u00a7 5b",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000202377"
+        },
+        "body": "<P>Die zust\u00e4ndige Beh\u00f6rde kann anordnen, dass in einem Sperrbezirk, in einem nach \u00a7 3 verd\u00e4chtigen Gebiet oder einem nach \u00a7 14 Abs. 2 bestimmten Gebiet die Besitzer von Bienenv\u00f6lkern diese unter Angabe des Standortes der Bienenst\u00e4nde anzuzeigen haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG000303377",
+        "name": "III.",
+        "title": "Schutzma\u00dfregeln gegen die Amerikanische\nFaulbrut",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG000402377",
+        "name": "1.",
+        "title": "Verschluss von Bienenwohnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000303377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002203301",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000402377"
+        },
+        "body": "<P>Von Bienen nicht mehr besetzte Bienenwohnungen sind vom Besitzer der Bienen stets bienendicht verschlossen zu halten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG000503377",
+        "name": "2.",
+        "title": "Schutzma\u00dfregeln vor amtlicher Feststellung\nder Amerikanischen Faulbrut oder des Seuchenverdachts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000303377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002305377",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000503377"
+        },
+        "body": "<P>(1) Im Falle des Ausbruchs oder des Verdachts des Ausbruchs der Amerikanischen Faulbrut d\u00fcrfen vor der amtlichen Feststellung an dem Bienenstand keine Ver\u00e4nderungen vorgenommen werden. Insbesondere d\u00fcrfen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker, lebende oder tote Bienen, Waben, Wabenteile, Wabenabf\u00e4lle, Wachs und Honig sowie Futtervorr\u00e4te, Bienenwohnungen und benutzte Ger\u00e4tschaften nicht aus dem Bienenstand entfernt und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker und Bienen nicht in den Bienenstand verbracht</LA></DD> </DL>werden. Die S\u00e4tze 1 und 2 gelten nicht f\u00fcr Honig, der nicht zur Verf\u00fctterung von Bienen bestimmt ist.</P><P>(2) Dar\u00fcber hinaus darf der Bienenstand nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenv\u00f6lker betrauten Personen, von Tier\u00e4rzten und von Personen im amtlichen Auftrag betreten werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG000603377",
+        "name": "3.",
+        "title": "Schutzma\u00dfregeln nach amtlicher Feststellung\nder Amerikanischen Faulbrut",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000303377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002404377",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000603377"
+        },
+        "body": "<P>(1) Ist der Ausbruch der Amerikanischen Faulbrut amtlich festgestellt, unterliegt der Bienenstand nach Ma\u00dfgabe folgender Vorschriften der Sperre: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Der Bienenstand darf nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenv\u00f6lker betrauten Personen, von Tier\u00e4rzten und von Personen im amtlichen Auftrag betreten werden.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker, lebende Bienen, Waben, Wabenteile, Wabenabf\u00e4lle, Wachs, Honig, Futtervorr\u00e4te, Bienenwohnungen und benutzte Ger\u00e4tschaften, die sich in dem Bienenstand oder au\u00dferhalb des Bienenstandes auf dem Grundst\u00fcck befinden, d\u00fcrfen von ihrem Standort nicht entfernt werden; tote Bienen d\u00fcrfen nur zur unsch\u00e4dlichen Beseitigung nach Anweisung des beamteten Tierarztes entfernt werden.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker und Bienen d\u00fcrfen nicht in den Bienenstand verbracht werden.</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waben, Wabenteile verseuchter oder verd\u00e4chtiger Bienenv\u00f6lker sowie Futtervorr\u00e4te aus Bienenwohnungen verseuchter oder verd\u00e4chtiger Bienenv\u00f6lker d\u00fcrfen nicht, lebende Bienen nur nach Durchf\u00fchrung eines Kunstschwarmverfahrens in unverseuchte Bienenwohnungen des Bienenstandes verbracht werden.</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">In dem Bienenstand gewonnener Honig darf an Bienen nicht verf\u00fcttert werden.</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aus Bienenwohnungen entfernte Waben, Wabenteile und Wabenabf\u00e4lle sowie Beh\u00e4ltnisse, die Honig enthalten und Ger\u00e4tschaften, denen Honig anhaftet, m\u00fcssen so aufbewahrt werden, dass sie Bienen nicht zug\u00e4nglich sind.</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tote Bienen und tote Bienenbrut sowie die \u00fcbrige Bienenbrut des seuchenkranken Bienenvolkes, ferner Abf\u00e4lle aus Bienenwohnungen sind nach n\u00e4herer Anweisung des beamteten Tierarztes unsch\u00e4dlich zu beseitigen.</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Bienenst\u00e4nde und Bienenwohnungen, au\u00dfer solchen aus Stroh, sowie Ger\u00e4tschaften sind nach n\u00e4herer Anweisung des beamteten Tierarztes und unter amtlicher \u00dcberwachung zu reinigen und zu entseuchen; Bienenwohnungen aus Stroh sind zu verbrennen.</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waben, Wabenteile und Wabenabf\u00e4lle aus verseuchten Bienenwohnungen, Vorratswaben, Wachs und, soweit aus Gr\u00fcnden der Seuchenbek\u00e4mpfung erforderlich, auch Futtervorr\u00e4te sind nach n\u00e4herer Anweisung des beamteten Tierarztes zu entseuchen oder unsch\u00e4dlich zu beseitigen.</LA></DD> </DL> </P><P>(2) Die Vorschrift des Absatzes 1 findet keine Anwendung auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wachs, Waben, Wabenteile und Wabenabf\u00e4lle, wenn sie an wachsverarbeitende Betriebe, die \u00fcber die erforderliche Einrichtung zur Entseuchung des Wachses verf\u00fcgen, unter der Kennzeichnung \"Seuchenwachs\" abgegeben werden, und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Honig, der nicht zur Verf\u00fctterung an Bienen bestimmt ist.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002505377",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000603377"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde ordnet die T\u00f6tung der seuchenkranken Bienenv\u00f6lker an. Sie kann hiervon absehen und die Behandlung durch ein Kunstschwarmverfahren zulassen, wenn nach dem Gutachten des beamteten Tierarztes dadurch die Tilgung der Seuche zu erwarten ist.</P><P>(1a) Die zust\u00e4ndige Beh\u00f6rde kann nach dem Gutachten des beamteten Tierarztes die Behandlung von verd\u00e4chtigen Bienenv\u00f6lkern mittels Kunstschwarmverfahren anordnen.</P><P>(2) Fr\u00fchestens zwei, sp\u00e4testens neun Monate nach der T\u00f6tung oder Behandlung der an der Seuche erkrankten Bienenv\u00f6lker sind alle V\u00f6lker des Bienenstandes zweimal durch den beamteten Tierarzt nachzuuntersuchen; der Abstand zwischen den beiden Untersuchungen muss mindestens acht Wochen betragen. Die zweite Untersuchung ist entbehrlich, wenn sich bei der Untersuchung von Futterproben, die im Rahmen der ersten Untersuchung zus\u00e4tzlich gezogen worden sind, keine Anhaltspunkte f\u00fcr die Amerikanische Faulbrut ergeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002603377",
+        "name": "\u00a7 10",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000603377"
+        },
+        "body": "<P>(1) Ist die Amerikanische Faulbrut in einem Bienenstand amtlich festgestellt, erkl\u00e4rt die zust\u00e4ndige Beh\u00f6rde das Gebiet in einem Umkreis von mindestens einem Kilometer um den Bienenstand zum Sperrbezirk.</P><P>(2) Ist die Amerikanische Faulbrut in einem Wanderbienenstand amtlich festgestellt, kann die zust\u00e4ndige Beh\u00f6rde auch das Gebiet um die fr\u00fcheren Standorte des erkrankten Bienenvolkes zum Sperrbezirk erkl\u00e4ren, wenn anzunehmen ist, dass die Seuche bereits an den fr\u00fcheren Standorten in dem Bienenstand geherrscht hat. Die zust\u00e4ndigen Beh\u00f6rden k\u00f6nnen genehmigen, dass der betroffene Bienenstand an seinen Heimatstandort verbracht wird; in diesem Falle ist dort ebenfalls ein Gebiet gem\u00e4\u00df Absatz 1 zum Sperrbezirk zu erkl\u00e4ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002704377",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000603377"
+        },
+        "body": "<P>(1) F\u00fcr den Sperrbezirk gilt folgendes: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Alle Bienenv\u00f6lker und Bienenst\u00e4nde im Sperrbezirk sind unverz\u00fcglich auf Amerikanische Faulbrut amtstier\u00e4rztlich zu untersuchen; diese Untersuchung ist fr\u00fchestens zwei, sp\u00e4testens neun Monate nach der T\u00f6tung oder Behandlung der an der Seuche erkrankten Bienenv\u00f6lker des verseuchten Bienenstandes zu wiederholen.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bewegliche Bienenst\u00e4nde d\u00fcrfen von ihrem Standort nicht entfernt werden.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker, lebende oder tote Bienen, Waben, Wabenteile, Wabenabf\u00e4lle, Wachs, Honig, Futtervorr\u00e4te, Bienenwohnungen und benutzte Ger\u00e4tschaften d\u00fcrfen nicht aus den Bienenst\u00e4nden entfernt werden.</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker oder Bienen d\u00fcrfen nicht in den Sperrbezirk verbracht werden.</LA></DD> </DL>Im Falle des Satzes 1 Nr. 1 findet \u00a7 9 Abs. 2 Satz 2 entsprechend Anwendung.</P><P>(2) Die Vorschrift des Absatzes 1 Nr. 3 findet keine Anwendung auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wachs, Waben, Wabenteile und Wabenabf\u00e4lle, wenn sie an wachsverarbeitende Betriebe, die \u00fcber die erforderliche Einrichtung zur Entseuchung des Wachses verf\u00fcgen, unter der Kennzeichnung \"Seuchenwachs\" abgegeben werden, und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Honig, der nicht zur Verf\u00fctterung an Bienen bestimmt ist.</LA></DD> </DL> </P><P>(3) Die zust\u00e4ndige Beh\u00f6rde kann f\u00fcr Bienenv\u00f6lker, Bienen, Bienenwohnungen und Ger\u00e4tschaften sowie Futtervorr\u00e4te Ausnahmen von Absatz 1 zulassen, wenn eine Verschleppung der Seuche nicht zu bef\u00fcrchten ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG000702377",
+        "name": "4.",
+        "title": "Aufhebung der Schutzma\u00dfregeln",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000303377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002803377",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000702377"
+        },
+        "body": "<P>(1) Angeordnete Schutzma\u00dfregeln sind aufzuheben, wenn die Amerikanische Faulbrut erloschen ist.</P><P>(2) Die Amerikanische Faulbrut im Bienenstand gilt als erloschen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Bienenv\u00f6lker des verseuchten Bienenstandes verendet oder get\u00f6tet und unsch\u00e4dlich beseitigt worden sind oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die an der Seuche erkrankten Bienenv\u00f6lker des verseuchten Bienenstandes<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">verendet oder get\u00f6tet und unsch\u00e4dlich beseitigt oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">behandelt worden sind und</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Untersuchung nach \u00a7 9 Abs. 2 einen negativen Befund ergeben hat</LA><LA Size=\"normal\">und</LA></DD>  </DL></LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entseuchung unter amtlicher \u00dcberwachung durchgef\u00fchrt und vom beamteten Tierarzt abgenommen worden ist.</LA></DD> </DL> </P><P>(3) Die Amerikanische Faulbrut im Sperrbezirk gilt als erloschen, wenn die Voraussetzungen des Absatzes 2 erf\u00fcllt sind und die Untersuchungen nach \u00a7 11 Abs. 1 Nr. 1 einen negativen Befund ergeben haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG000802377",
+        "name": "IV.",
+        "title": "Schutzma\u00dfregeln gegen die Milbenseuche",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE002902377",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000802377"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE003003377",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG000802377"
+        },
+        "body": "<P>(1) Ist ein Bienenstand von der Milbenseuche befallen, so hat der Besitzer alle Bienenv\u00f6lker des Bienenstandes zu behandeln, soweit nicht eine Behandlung nach Absatz 2 angeordnet worden ist.</P><P>(2) Die zust\u00e4ndige Beh\u00f6rde kann, soweit es zum Schutz gegen die Milbenseuche erforderlich ist, anordnen, dass in einem von ihr bestimmten Gebiet innerhalb einer von ihr bestimmten Frist alle Bienenv\u00f6lker gegen die Milbenseuche zu behandeln sind; sie kann dabei die Art der Behandlung bestimmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001103377",
+        "name": "V.",
+        "title": "Schutzma\u00dfregeln gegen die Varroatose",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE003303377",
+        "name": "\u00a7 15",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001103377"
+        },
+        "body": "<P>(1) Ist ein Bienenstand mit Varroamilben befallen, so hat der Besitzer alle Bienenv\u00f6lker des Bienenstandes j\u00e4hrlich gegen Varroatose zu behandeln, soweit nicht eine Behandlung nach Absatz 2 angeordnet worden ist.</P><P>(2) Die zust\u00e4ndige Beh\u00f6rde kann, soweit es zum Schutz gegen die Varroatose erforderlich ist, anordnen, dass in einem von ihr bestimmten Gebiet innerhalb einer von ihr bestimmten Frist alle Bienenv\u00f6lker gegen Varroamilben zu behandeln sind; sie kann dabei die Art der Behandlung bestimmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001404377",
+        "name": "VI.",
+        "title": "Schutzma\u00dfregeln gegen den Befall mit dem Kleinen Beutenk\u00e4fer",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001501377",
+        "name": "1.",
+        "title": "Allgemeine Schutzma\u00dfregeln",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001404377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE003901377",
+        "name": "\u00a7 16",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001501377"
+        },
+        "body": "<P>Der Besitzer von Bienenv\u00f6lkern hat Honig, Waben, Wabenteile, Wabenabf\u00e4lle, Wachs und Futtervorr\u00e4te so aufzubewahren sowie unbewohnte Bienenwohnungen so zu sichern, dass sie f\u00fcr den Kleinen Beutenk\u00e4fer nicht zug\u00e4nglich sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE003802377",
+        "name": "\u00a7 16a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001501377"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001601377",
+        "name": "2.",
+        "title": "Schutzma\u00dfregeln vor amtlicher Feststellung des Befalls mit dem\nKleinen Beutenk\u00e4fer oder des Verdachts des Befalls",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001404377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004001377",
+        "name": "\u00a7 17",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001601377"
+        },
+        "body": "<P>(1) Im Falle des Befalls oder des Verdachts des Befalls mit dem Kleinen Beutenk\u00e4fer d\u00fcrfen vor der amtlichen Feststellung an dem Bienenstand und im Futtervorratslager keine Ver\u00e4nderungen vorgenommen werden. Insbesondere d\u00fcrfen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker, lebende oder tote Bienen, Waben, Wabenteile, Wabenabf\u00e4lle, unbehandeltes Wachs, Bienenwohnungen und benutzte Ger\u00e4tschaften nicht aus dem Bienenstand und Futtervorr\u00e4te nicht aus dem Futtervorratslager entfernt und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker und Bienen nicht in den Bienenstand verbracht werden.</LA></DD> </DL>Die S\u00e4tze 1 und 2 Nr. 1 gelten nicht, soweit lebende oder tote Bienen, Waben, Wabenteile, Wabenabf\u00e4lle, unbehandeltes Wachs, Futtervorr\u00e4te oder K\u00e4ferproben zum Zwecke der Untersuchung in einer von der zust\u00e4ndigen Beh\u00f6rde bestimmten Untersuchungseinrichtung entfernt werden.</P><P>(2) Dar\u00fcber hinaus d\u00fcrfen der Bienenstand und das Futtervorratslager nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenv\u00f6lker betrauten Personen, von Tier\u00e4rzten und von Personen im amtlichen Auftrag betreten werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001701377",
+        "name": "3.",
+        "title": "Schutzma\u00dfregeln nach amtlicher Feststellung des Befalls mit dem\nKleinen Beutenk\u00e4fer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001404377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004101377",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001701377"
+        },
+        "body": "<P>(1) Ist der Befall mit dem Kleinen Beutenk\u00e4fer amtlich festgestellt, unterliegt der Bienenstand nach Ma\u00dfgabe folgender Vorschriften der Sperre: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Der Bienenstand darf nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenv\u00f6lker betrauten Personen, von Tier\u00e4rzten und von Personen im amtlichen Auftrag betreten werden.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker, lebende oder tote Bienen, Waben, Wabenteile, Wabenabf\u00e4lle, Wachs, Honig, Futtervorr\u00e4te, Bienenwohnungen und benutzte Ger\u00e4tschaften, die sich in dem Bienenstand oder au\u00dferhalb des Bienenstandes auf dem Grundst\u00fcck befinden, d\u00fcrfen von ihrem Standort nicht entfernt werden.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker und Bienen d\u00fcrfen nicht in den Bienenstand verbracht werden.</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waben, Wabenteile befallener oder befallsverd\u00e4chtiger Bienenv\u00f6lker sowie Futtervorr\u00e4te aus Bienenwohnungen befallener oder befallsverd\u00e4chtiger Bienenv\u00f6lker d\u00fcrfen in nicht befallene Bienenwohnungen des Bienenstandes nicht verbracht werden.</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">In dem Bienenstand gewonnener Honig darf an Bienen nicht verf\u00fcttert werden.</LA></DD> </DL>Abweichend von Satz 1 Nr. 2 d\u00fcrfen lebende oder tote Bienen, Waben, Wabenteile, Wabenabf\u00e4lle, Wachs oder Futtervorr\u00e4te zum Zwecke der Untersuchung in einer von der zust\u00e4ndigen Beh\u00f6rde bestimmten Untersuchungseinrichtung oder zur unsch\u00e4dlichen Beseitigung nach Anweisung des beamteten Tierarztes entfernt werden.</P><P>(2) Absatz 1 Satz 1 Nr. 2 findet keine Anwendung auf Honig, der nicht zur Verf\u00fctterung an Bienen bestimmt ist.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde untersucht unverz\u00fcglich alle Bienenv\u00f6lker im Umkreis von mindestens drei Kilometern um den betroffenen Bienenstand auf den Befall mit dem Kleinen Beutenk\u00e4fer.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004201377",
+        "name": "\u00a7 19",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001701377"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde f\u00fchrt unverz\u00fcglich epidemiologische Untersuchungen durch, um <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ursache der Einschleppung zu ermitteln und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Verschleppung durch das Verbringen von Bienen, Bienenbrut, Waben, Wabenteilen, Wachs oder Futtervorr\u00e4ten aus dem befallenen Bienenstand festzustellen.</LA></DD> </DL> </P><P>(2) F\u00fchren die Untersuchungen nach Absatz 1 Nr. 1 zu dem Ergebnis, dass der festgestellte Befall zur\u00fcckzuf\u00fchren ist auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verbringen von Bienen, Bienenbrut, Waben, Wabenteilen, Wachs oder Futtervorr\u00e4ten aus einem anderen Mitgliedstaat oder die Einfuhr aus einem Drittland und ist das Verbringen oder die Einfuhr innerhalb des letzten Jahres vor der Feststellung des Befalls mit dem Kleinen Beutenk\u00e4fer erfolgt, ordnet die zust\u00e4ndige Beh\u00f6rde<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die T\u00f6tung aller Bienenv\u00f6lker des Besitzers des befallenen Bienenstandes nach Verschlie\u00dfen der Bienenwohnungen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die unsch\u00e4dliche Beseitigung der Bienenwohnungen, der Mittelw\u00e4nde, der Waben, der Wabenteile, der Wabenabf\u00e4lle, des Wachses und der Futtervorr\u00e4te sowie \u00e4hnlicher Gegenst\u00e4nde, die mit dem Kleinen Beutenk\u00e4fer in Ber\u00fchrung gekommen sein k\u00f6nnen, und</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Reinigung der Ger\u00e4tschaften</LA></DD> </DL></LA><LA Size=\"normal\">an;</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine andere Ursache als das Verbringen oder die Einfuhr nach Nummer 1 oder l\u00e4sst sich die Ursache f\u00fcr den Befall nicht ermitteln, ordnet die zust\u00e4ndige Beh\u00f6rde unter Ber\u00fccksichtigung der Befallssituation<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Schutzma\u00dfregeln nach Nummer 1 oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Behandlung des betroffenen Bienenstandes gegen den Kleinen Beutenk\u00e4fer sowie die Reinigung und Entseuchung des Bienenstandes, der Bienenwohnungen, der Mittelw\u00e4nde, der Waben, der Wabenteile, der Wabenabf\u00e4lle, des Wachses, des Futtervorratslagers und der Ger\u00e4tschaften</LA></DD> </DL></LA><LA Size=\"normal\">an.</LA></DD>  </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004301377",
+        "name": "\u00a7 20",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001701377"
+        },
+        "body": "<P>Die zust\u00e4ndige Beh\u00f6rde macht den Befall mit dem Kleinen Beutenk\u00e4fer \u00f6ffentlich bekannt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001801377",
+        "name": "4.",
+        "title": "Aufhebung der Schutzma\u00dfregeln",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001404377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004401377",
+        "name": "\u00a7 21",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001801377"
+        },
+        "body": "<P>(1) Angeordnete Schutzma\u00dfregeln sind aufzuheben, wenn die Bienenst\u00e4nde und Futtervorratslager frei vom Befall mit dem Kleinen Beutenk\u00e4fer sind.</P><P>(2) Bienenst\u00e4nde und Futtervorratslager gelten als befallsfrei, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Bienenv\u00f6lker des Bienenstandes verendet, get\u00f6tet oder nach \u00a7 19 Abs. 2 Nr. 2 Buchstabe b behandelt worden sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">tote Bienen und tote Bienenbrut sowie die \u00fcbrige Bienenbrut des befallenen Bienenvolkes, ferner Abf\u00e4lle aus Bienenwohnungen unsch\u00e4dlich beseitigt worden sind,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenst\u00e4nde und Bienenwohnungen, das Futtervorratslager sowie Ger\u00e4tschaften unter amtlicher \u00dcberwachung gereinigt und entseucht worden sind,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waben, Wabenteile und Wabenabf\u00e4lle aus befallenen Bienenwohnungen eingeschmolzen, entseucht oder unsch\u00e4dlich beseitigt worden sind,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Boden vor der Flugfront umgegraben und gegen die Puppen des Kleinen Beutenk\u00e4fers nach Anweisung der zust\u00e4ndigen Beh\u00f6rde behandelt worden ist und</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 19 Abs. 2 Nr. 2 Buchstabe b eine Untersuchung der behandelten Bienenv\u00f6lker, der entseuchten Bienenst\u00e4nde und Bienenwohnungen sowie des Futtervorratslagers drei Wochen nach Abschluss der Behandlung durch die zust\u00e4ndige Beh\u00f6rde einen negativen Befund ergeben hat.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001904377",
+        "name": "VII.",
+        "title": "Schutzma\u00dfregeln gegen den Befall mit Tropilaelaps-Milben",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG002001377",
+        "name": "1.",
+        "title": "Schutzma\u00dfregeln vor amtlicher Feststellung des Befalls mit der\nTropilaelaps-Milbe oder des Verdachts des Befalls",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001904377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004501377",
+        "name": "\u00a7 22",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG002001377"
+        },
+        "body": "<P>(1) Im Falle des Befalls oder des Verdachts des Befalls mit der Tropilaelaps-Milbe d\u00fcrfen vor der amtlichen Feststellung an dem Bienenstand keine Ver\u00e4nderungen vorgenommen werden. Insbesondere d\u00fcrfen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker, lebende oder tote Bienen, Bienenbrut, Waben, Wabenteile, Wabenabf\u00e4lle, Bienenwohnungen und benutzte Ger\u00e4tschaften nicht aus dem Bienenstand entfernt und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker und Bienen nicht in den Bienenstand verbracht</LA></DD> </DL>werden. Die S\u00e4tze 1 und 2 Nr. 1 gelten nicht, soweit lebende oder tote Bienen oder Bienenbrut zum Zwecke der Untersuchung in einer von der zust\u00e4ndigen Beh\u00f6rde bestimmten Untersuchungseinrichtung entfernt werden.</P><P>(2) Dar\u00fcber hinaus darf der Bienenstand nur von dem Besitzer, seinem Vertreter, den mit der Beaufsichtigung, Wartung und Pflege der Bienenv\u00f6lker betrauten Personen, von Tier\u00e4rzten und von Personen im amtlichen Auftrag betreten werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG002101377",
+        "name": "2.",
+        "title": "Schutzma\u00dfregeln nach amtlicher Feststellung des Befalls mit der\nTropilaelaps-Milbe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001904377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004601377",
+        "name": "\u00a7 23",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG002101377"
+        },
+        "body": "<P>(1) Ist der Befall mit der Tropilaelaps-Milbe amtlich festgestellt, unterliegt der Bienenstand nach Ma\u00dfgabe folgender Vorschriften der Sperre: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker, lebende Bienen, Waben, Wabenteile, Wabenabf\u00e4lle und Bienenwohnungen sowie benutzte Ger\u00e4tschaften, die sich in dem Bienenstand oder au\u00dferhalb des Bienenstandes auf dem Grundst\u00fcck befinden, d\u00fcrfen von ihrem Standort nicht entfernt werden.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenv\u00f6lker und Bienen d\u00fcrfen nicht in den Bienenstand verbracht werden.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tote Bienen und tote Bienenbrut sowie die \u00fcbrige Bienenbrut des befallenen Bienenvolkes, ferner Abf\u00e4lle aus Bienenwohnungen sind nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde unsch\u00e4dlich zu beseitigen.</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenst\u00e4nde, Bienenwohnungen und Ger\u00e4tschaften sind zu entseuchen oder zu reinigen und anschlie\u00dfend f\u00fcr die Dauer von mindestens drei Wochen so zu sichern, dass sie Bienen nicht zug\u00e4nglich sind.</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waben, Wabenteile und Wabenabf\u00e4lle ohne Bienenbrut aus befallenen Bienenwohnungen sind nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde unsch\u00e4dlich zu beseitigen oder mindestens drei Wochen lang so zu sichern, dass sie Bienen nicht zug\u00e4nglich sind.</LA></DD> </DL> </P><P>(2) Absatz 1 gilt nicht f\u00fcr Waben, Wabenteile und Wabenabf\u00e4lle ohne Bienenbrut, sofern sichergestellt ist, dass die Waben, Wabenteile und Wabenabf\u00e4lle nur an Wachs verarbeitende Betriebe abgegeben werden und nur, soweit sie zuvor mindestens drei Wochen lang f\u00fcr Bienen unzug\u00e4nglich aufbewahrt worden sind.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde kann unter Ber\u00fccksichtigung der Befallssituation die Behandlung von Bienenv\u00f6lkern des befallenen Bienenstandes anordnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004701377",
+        "name": "\u00a7 24",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG002101377"
+        },
+        "body": "<P>(1) Ist der Befall mit der Tropilaelaps-Milbe in einem Bienenstand amtlich festgestellt, erkl\u00e4rt die zust\u00e4ndige Beh\u00f6rde das Gebiet in einem Umkreis von mindestens einem Kilometer um den Bienenstand zum Sperrbezirk.</P><P>(2) F\u00fcr den Sperrbezirk gilt, dass Bienenv\u00f6lker und Bienen nur mit Genehmigung der zust\u00e4ndigen Beh\u00f6rde <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus dem Sperrbezirk entfernt oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den Sperrbezirk verbracht</LA></DD> </DL>werden d\u00fcrfen.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde kann ferner unter Ber\u00fccksichtigung der Befallssituation anordnen, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Sperrbezirk oder in Teilen des Sperrbezirks alle Bienenv\u00f6lker zu behandeln sind;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bienenbrut oder Gem\u00fcll von Bienenv\u00f6lkern des Sperrbezirks zur Untersuchung an eine von ihr bestimmte Untersuchungseinrichtung einzusenden sind.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG002201377",
+        "name": "3.",
+        "title": "Aufhebung der Schutzma\u00dfregeln",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001904377"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE004801377",
+        "name": "\u00a7 25",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG002201377"
+        },
+        "body": "<P>(1) Angeordnete Schutzma\u00dfregeln sind aufzuheben, wenn die Bienenst\u00e4nde frei von Befall mit der Tropilaelaps-Milbe sind.</P><P>(2) Bienenst\u00e4nde gelten als befallsfrei, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Bienenv\u00f6lker des befallenen Bienenstandes verendet und unsch\u00e4dlich beseitigt und die betroffenen Bienenwohnungen mindestens drei Wochen so gesichert worden sind, dass sie Bienen nicht zug\u00e4nglich sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die befallenen Bienenv\u00f6lker des Bienenstandes verendet und unsch\u00e4dlich beseitigt, die betroffenen Bienenwohnungen mindestens drei Wochen so gesichert worden sind, dass sie Bienen nicht zug\u00e4nglich sind, und, soweit die zust\u00e4ndige Beh\u00f6rde eine Behandlung nach \u00a7 23 Abs. 3 angeordnet hat, alle sonstigen Bienenv\u00f6lker des Bienenstandes nach Anweisung der zust\u00e4ndigen Beh\u00f6rde behandelt worden sind und eine Untersuchung der behandelten Bienenv\u00f6lker drei Wochen nach Abschluss der Behandlung einen negativen Befund ergeben hat oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in F\u00e4llen, in denen Bienenv\u00f6lker nicht verendet sind, tote Bienen und die Bienenbrut des befallenen Bienenvolkes unsch\u00e4dlich beseitigt worden sind und, soweit die zust\u00e4ndige Beh\u00f6rde nach \u00a7 23 Abs. 3 eine Behandlung angeordnet hat, alle Bienenv\u00f6lker des befallenen Bienenstandes nach Anweisung der zust\u00e4ndigen Beh\u00f6rde behandelt worden sind und eine Untersuchung der behandelten Bienenv\u00f6lker drei Wochen nach Abschluss der Behandlung einen negativen Befund ergeben hat.</LA></DD> </DL> </P><P>(3) Der Sperrbezirk gilt als befallsfrei, wenn die Voraussetzungen des Absatzes 2 erf\u00fcllt sind und, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit die zust\u00e4ndige Beh\u00f6rde nach \u00a7 24 Abs. 3 Nr. 1 eine Behandlung angeordnet hat, alle Bienenv\u00f6lker behandelt und drei Wochen nach Abschluss der Behandlung mit einem negativen Befund untersucht worden sind oder,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit die zust\u00e4ndige Beh\u00f6rde nach \u00a7 24 Abs. 3 Nr. 2 eine Untersuchung angeordnet hat, alle Bienenv\u00f6lker im Sperrbezirk in einer von der zust\u00e4ndigen Beh\u00f6rde bestimmten Untersuchungseinrichtung mit einem negativen Befund auf den Befall mit der Tropilaelaps-Milbe untersucht worden sind.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001204377",
+        "name": "VIII.",
+        "title": "Ordnungswidrigkeiten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE003407301",
+        "name": "\u00a7 26",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001204377"
+        },
+        "body": "<P>Ordnungswidrig im Sinne des \u00a7 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 1a Satz 1 eine Anzeige nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig erstattet,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 2 Absatz 2 Satz 1 einen dort genannten Gegenstand nicht oder nicht rechtzeitig reinigt, nicht oder nicht rechtzeitig einer dort genannten Temperatur aussetzt und nicht oder nicht rechtzeitig aufbewahrt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 2 Absatz 3 Honig beseitigt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 2 Absatz 4 Honig nicht, nicht richtig oder nicht rechtzeitig behandelt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 5 Absatz 1 Satz 2 eine Bescheinigung vorlegt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>einer mit einer Zulassung nach \u00a7 5 Absatz 3 oder \u00a7 11 Absatz 3 verbundenen vollziehbaren Auflage zuwiderhandelt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 6 eine Bienenwohnung nicht oder nicht richtig verschlossen h\u00e4lt,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 7 Absatz 1 Satz 2 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand entfernt oder verbringt,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 7 Absatz 2, \u00a7 8 Absatz 1 Nummer 1, \u00a7 17 Absatz 2, \u00a7 18 Absatz 1 Nummer 1 oder \u00a7 22 Absatz 2 einen Bienenstand oder ein Futtervorratslager betritt,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 8 Absatz 1 Nummer 2, \u00a7 11 Absatz 1 Nummer 3, \u00a7 17 Absatz 1 Satz 2 Nummer 1, \u00a7 18 Absatz 1 Nummer 2, \u00a7 22 Absatz 1 Satz 2 Nummer 1 oder \u00a7 23 Absatz 1 Nummer 1 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand entfernt,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 8 Absatz 1 Nummer 3 oder Nummer 4, \u00a7 11 Absatz 1 Nummer 4, \u00a7 17 Absatz 1 Satz 2 Nummer 2, \u00a7 18 Absatz 1 Nummer 3 oder Nummer 4, \u00a7 22 Absatz 1 Satz 2 Nummer 2 oder \u00a7 23 Absatz 1 Nummer 2 ein Bienenvolk, eine Biene oder einen dort genannten Gegenstand verbringt,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 8 Absatz 1 Nummer 5 oder \u00a7 18 Absatz 1 Nummer 5 Honig verf\u00fcttert,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 8 Absatz 1 Nummer 6 einen dort genannten Gegenstand nicht oder nicht richtig aufbewahrt,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA>einer vollziehbaren Anordnung nach \u00a7 8 Absatz 1 Nummer 7, 8 oder Nummer 9, \u00a7 9 Absatz 1 Satz 1, \u00a7 19 Absatz 2, \u00a7 23 Absatz 1 Nummer 3 oder Absatz 3 oder \u00a7 24 Absatz 3 zuwiderhandelt,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA>einer mit einer Genehmigung nach \u00a7 10 Absatz 2 Satz 2 verbundenen Auflage zuwiderhandelt,</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 11 Absatz 1 Nummer 2 einen Bienenstand entfernt,</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 16 einen dort genannten Gegenstand nicht oder nicht richtig aufbewahrt oder eine Bienenwohnung nicht oder nicht richtig sichert oder</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA>ohne Genehmigung nach \u00a7 24 Absatz 2 Nummer 1 ein Bienenvolk oder eine Biene entfernt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR005940972BJNG001305377",
+        "name": "IX.",
+        "title": "Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005940972BJNE003605377",
+        "name": "\u00a7 27",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR005940972BJNG001305377"
+        },
+        "body": "<P>(Inkrafttreten)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR006410952",
+    "firstPublished": "1952-09-27",
+    "sourceTimestamp": "20130604220015",
+    "titleShort": null,
+    "titleLong": "Gesetz \u00fcber das gerichtliche Verfahren in Binnenschiffahrtssachen",
+    "abbreviation": "BinSchGerG",
+    "slug": "binschgerg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1952, 641",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 8 G v. 20.4.2013 I 831",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.7.1977 +++)<BR /><BR /></pre>\u00dcberschrift: IdF d. Art. 1 Nr. 1 G v. 14.5.1965 I 389 mWv 1.7.1965</P><P><BR /> Erstreckt sich auf das Saarland gem. \u00a7 1 Nr. 26 V v. 26.8.1957 I 1255</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR006410952BJNG000100311",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Verfahrensvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE000500311",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>In Binnenschiffahrtssachen sind im ersten Rechtszug die Amtsgerichte zust\u00e4ndig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE000603311",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>(1) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind b\u00fcrgerliche Rechtsstreitigkeiten, die mit der Benutzung von Binnengew\u00e4ssern durch Schiffahrt zusammenh\u00e4ngen und zum Gegenstand haben: <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Schadensersatzanspr\u00fcche aus unerlaubten Handlungen;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">andere Anspr\u00fcche wegen der Besch\u00e4digungen, welche Schiffer w\u00e4hrend ihrer Fahrt oder beim Anlanden anderen verursacht haben;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">vertragliche Schadensersatzanspr\u00fcche aus einem Unfall, der durch ein Schiff oder bei dem Betrieb eines Schiffes entstanden ist;</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Schadensersatzanspr\u00fcche wegen Verletzung einer Amtspflicht zur Sicherung des Verkehrs;</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche aus Bergung, namentlich auf Bergelohn oder Sonderverg\u00fctung einschlie\u00dflich Bergungskosten;</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche wegen Zahlung der Lotsen-, Kran-, Waage-, Hafen- und Bohlwerksgeb\u00fchren oder -verg\u00fctungen und ihres Betrages;</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD></DL><BR />Dies gilt nicht f\u00fcr Rechtsstreitigkeiten \u00fcber Anspr\u00fcche aus einem Vorfall, an dem ein Seeschiff beteiligt ist, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vorfall sich auf Binnengew\u00e4ssern, auf denen die Seeschiffahrtsstra\u00dfenordnung gilt, auf dem Nord-Ostsee-Kanal oder in einem Seehafen ereignet hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vorfall sich auf anderen Binnengew\u00e4ssern au\u00dfer dem Rhein und der Mosel ereignet hat, sofern der Anspruch auf Ersatz des Schadens gerichtet ist, der den Schiffen oder den an Bord befindlichen Personen oder Sachen durch einen Schiffszusammensto\u00df oder durch ein unter \u00a7 572 des Handelsgesetzbuchs fallendes Ereignis zugef\u00fcgt worden ist.</LA></DD></DL></P><P>(2) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind ferner b\u00fcrgerliche Rechtsstreitigkeiten, die mit der Benutzung von Binnengew\u00e4ssern durch Schiffahrt zusammenh\u00e4ngen und Anspr\u00fcche zum Gegenstand haben, f\u00fcr deren Verhandlung und Entscheidung die Parteien die Zust\u00e4ndigkeit eines Schiffahrtsgerichts vereinbart haben.</P><P>(3) Binnenschiffahrtssachen im Sinne dieses Gesetzes sind: <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Strafsachen wegen Taten, die auf oder an Binnengew\u00e4ssern unter Verletzung von schiffahrtspolizeilichen Vorschriften begangen sind und deren Schwerpunkt in der Verletzung dieser Vorschriften liegt, soweit f\u00fcr die Strafsachen nach den Vorschriften des Gerichtsverfassungsgesetzes die Amtsgerichte zust\u00e4ndig sind;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bu\u00dfgeldsachen wegen Zuwiderhandlungen gegen schiffahrtspolizeiliche Vorschriften, die auf oder an Binnengew\u00e4ssern begangen sind.</LA></DD></DL>Als Binnenschiffahrtssachen gelten jedoch diese Straf- und Bu\u00dfgeldsachen nicht, wenn die Tat au\u00dferhalb eines Seehafens auf oder an Binnenwasserstra\u00dfen, auf denen die Seeschiffahrtstra\u00dfen-Ordnung gilt, begangen ist. Steht eine in Satz 1 bezeichnete Tat mit einer anderen Straftat oder Ordnungswidrigkeit in Zusammenhang, so ist das f\u00fcr Binnenschiffahrtssachen bestimmte Gericht zust\u00e4ndig, wenn das Schwergewicht bei der zuerst genannten Tat liegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 2 Abs. 1 Satz 1 Buchst. d, Abs. 3, Abs. 4: \u00c4nd. durch G v. 26.6.1981 I 553, gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE000701301",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>(1) In b\u00fcrgerlichen Rechtsstreitigkeiten, die Binnenschiffahrtssachen sind, sind die Amtsgerichte auch soweit sachlich zust\u00e4ndig, wie nach den Vorschriften des Gerichtsverfassungsgesetzes die Landgerichte zust\u00e4ndig w\u00e4ren. Vorbehaltlich einer abweichenden Vereinbarung ist \u00f6rtlich zust\u00e4ndig <DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 2 Abs. 1 Buchstaben a bis d <I>und g</I> nur das Gericht, in dessen Bezirk sich die den Anspruch begr\u00fcndende Tatsache ereignet hat;</LA><LA Size=\"normal\">in den F\u00e4llen des \u00a7 2 Abs. 1 Buchstabe e nur das Gericht, in dessen Bezirk die Bergung bewirkt worden ist;</LA><LA Size=\"normal\">in den F\u00e4llen des \u00a7 2 Abs. 1 Buchstabe f nur das Gericht des Erf\u00fcllungsortes.</LA></DD>   </DL>Hat sich die den Anspruch begr\u00fcndende Tatsache auf einem Gew\u00e4sser zwischen zwei deutschen Ufern ereignet, die zum Bezirk verschiedener Gericht geh\u00f6ren, so sind die Gerichte beider Ufer zust\u00e4ndig.</P><P>(2) F\u00fcr Mahnverfahren gelten die allgemeinen Vorschriften \u00fcber die Zust\u00e4ndigkeit. Die Abgabe nach \u00a7\u00a7 696, 700 Abs. 3 der Zivilproze\u00dfordnung erfolgt an das nach Absatz 1 zust\u00e4ndige Gericht, das entsprechend \u00a7 690 Abs. 1 Nr. 5 der Zivilproze\u00dfordnung in dem Antrag auf Erla\u00df des Mahnbescheids anzugeben ist.</P><P>(3) In Straf- und Bu\u00dfgeldsachen, die Binnenschiffahrtssachen sind, ist nur das Gericht zust\u00e4ndig, in dessen Bezirk die Tat begangen ist; \u00a7 68 des Gesetzes \u00fcber Ordnungswidrigkeiten ist nicht anzuwenden. Ist die Tat auf einem Gew\u00e4sser zwischen zwei deutschen Ufern begangen, die zum Bezirk verschiedener Gerichte geh\u00f6ren, so sind die Gerichte beider Ufer zust\u00e4ndig.</P><P>(4) W\u00e4re nach diesen Vorschriften ein Gerichtsstand im Geltungsbereich dieses Gesetzes nicht begr\u00fcndet, so ist das Gericht zust\u00e4ndig, das bei Anwendung der Vorschriften der Zivilproze\u00dfordnung, der Strafproze\u00dfordnung oder des Gesetzes \u00fcber Ordnungswidrigkeiten zust\u00e4ndig w\u00e4re.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>Kursivdruck: \u00a7 2 Abs. 1 Buchst. g aufgeh., vgl. Fu\u00dfnote zu \u00a7 2 Abs. 1 Satz 1 Buchst. g</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE000800311",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>(1) Die Landesregierungen sind erm\u00e4chtigt, die Verhandlung und Entscheidung von Binnenschiffahrtssachen einem Amtsgericht als Schiffahrtsgericht oder einem Oberlandesgericht als Schiffahrtsobergericht f\u00fcr bestimmte Binnengew\u00e4sser oder bestimmte Abschnitte von Binnengew\u00e4ssern aus dem Bezirk mehrerer Gerichte zuzuweisen, sofern dies der sachlichen F\u00f6rderung oder schnelleren Erledigung der Verfahren dient. Die Zuweisung kann f\u00fcr Zivil- sowie Straf- und Bu\u00dfgeldsachen unterschiedlich erfolgen. Die Landesregierungen k\u00f6nnten diese Erm\u00e4chtigungen auf die Landesjustizverwaltungen \u00fcbertragen.</P><P>(2) Die Bezirke der nach Absatz 1 bestimmten Gerichte erstrecken sich auf die Bezirke der anderen Gerichte.</P><P>(3) Die L\u00e4nder k\u00f6nnen vereinbaren, da\u00df die Verhandlung und Entscheidung von Binnenschiffahrtssachen eines Landes ganz oder teilweise den Gerichten eines anderen Landes zugewiesen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE000900311",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>(1) Die f\u00fcr Binnenschiffahrtssachen zust\u00e4ndigen Amtsgerichte sind Schiffahrtsgerichte im Sinne dieses Gesetzes. Sie f\u00fchren bei der Verhandlung und Entscheidung von Binnenschiffahrtssachen die Bezeichnung \"Schiffahrtsgericht\".</P><P>(2) Ist ein Amtsgericht mit mehreren Richtern besetzt, so sind bei der Gesch\u00e4ftsverteilung die Gesch\u00e4fte des Schiffahrtsgerichts einem oder einzelnen von ihnen zu \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001000311",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>Ist f\u00fcr b\u00fcrgerliche Rechtsstreitigkeiten die Zust\u00e4ndigkeit eines Gerichts vereinbart, das nicht ein Schiffahrtsgericht ist, so sind die Vorschriften dieses Gesetzes nicht anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001100311",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>Die Gesch\u00e4fte der Staatsanwaltschaft werden in Binnenschiffahrtssachen von der Staatsanwaltschaft bei dem Schiffahrtsgericht oder bei dem ihm \u00fcbergeordneten Landgericht wahrgenommen. Die Antr\u00e4ge und Verf\u00fcgungen in Binnenschiffahrtssachen sollen als solche gekennzeichnet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001201310",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>Im Verfahren vor den Schiffahrtsgerichten ist \u00a7 495a der Zivilproze\u00dfordnung nicht anzuwenden. Die Antr\u00e4ge der Parteien in Binnenschiffahrtssachen sollen als solche gekennzeichnet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001300311",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>(1) In b\u00fcrgerlichen Rechtsstreitigkeiten ist gegen die Urteile der Schiffahrtsgerichte die Berufung ohne R\u00fccksicht auf den Wert des Beschwerdegegenstandes zul\u00e4ssig.</P><P>(2)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001400311",
+        "name": "\u00a7 10",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>In Strafsachen ist die Revision ausgeschlossen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001500311",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>F\u00fcr die Verhandlung und Entscheidung \u00fcber Berufungen und Beschwerden gegen die Entscheidungen der Schiffahrtsgerichte in b\u00fcrgerlichen Rechtsstreitigkeiten sowie in Straf- und Bu\u00dfgeldsachen sind die Oberlandesgerichte zust\u00e4ndig. Sie f\u00fchren hierbei die Bezeichnung \"Schiffahrtsobergericht\".</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001601301",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001700311",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000100311"
+        },
+        "body": "<P>In b\u00fcrgerlichen Rechtsstreitigkeiten wird die Zul\u00e4ssigkeit des Rechtsmittels nicht dadurch ber\u00fchrt, da\u00df es statt bei dem Oberlandesgericht bei dem dem Schiffahrtsgericht \u00fcbergeordneten Landgericht eingelegt wird; die Sache wird von Amts wegen an das Oberlandesgericht abgegeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR006410952BJNG000200311",
+        "name": "Zweiter Abschnitt",
+        "title": "Besondere Verfahrensvorschriften f\u00fcr\nRheinschiffahrtssachen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001800311",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000200311"
+        },
+        "body": "<P>(1) In Binnenschiffahrtssachen, die Rheinschiffahrtssachen sind, gelten die Vorschriften des ersten Abschnitts dieses Gesetzes nur, soweit sich aus den Bestimmungen der Revidierten Rheinschiffahrtsakte vom 17. Oktober 1868 und den \u00a7\u00a7 15 bis 18 dieses Gesetzes nichts anderes ergibt.</P><P>(2) Rheinschiffahrtssachen sind nur die in den Artikeln 34 und 34 <ABWFORMAT typ=\"A\" />* Kl bis  der Revidierten Rheinschiffahrtsakte bezeichneten b\u00fcrgerlichen Rechtsstreitigkeiten und Straf- sowie Bu\u00dfgeldsachen, die sich auf Vorg\u00e4nge auf dem Rhein abw\u00e4rts von der deutsch-schweizerischen Grenze bei Basel beziehen. Ein b\u00fcrgerlicher Rechtsstreit gilt nicht als Rheinschiffahrtssache, wenn die Parteien die Zust\u00e4ndigkeit eines Gerichts vereinbaren, das f\u00fcr Rheinschiffahrtssachen nicht zust\u00e4ndig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE001900311",
+        "name": "\u00a7 15",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000200311"
+        },
+        "body": "<P>(1) Bei der Verhandlung und Entscheidung von Rheinschiffahrtssachen f\u00fchrt das Amtsgericht an Stelle der Bezeichnung \"Schiffahrtsgericht\" die Bezeichnung \"Rheinschiffahrtsgericht\", das Oberlandesgericht an Stelle der Bezeichnung \"Schiffahrtsobergericht\" die Bezeichnung \"Rheinschiffahrtsobergericht\".</P><P>(2) Die Antr\u00e4ge und die Verf\u00fcgungen der Staatsanwaltschaft in Rheinschiffahrtssachen und die Antr\u00e4ge der Parteien in Rheinschiffahrtssachen sollen als solche gekennzeichnet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002000311",
+        "name": "\u00a7 16",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000200311"
+        },
+        "body": "<P>Die Entscheidung einer Binnenschiffahrtssache, die nicht Rheinschiffahrtssache ist, darf nicht mit der Entscheidung einer Rheinschiffahrtssache verbunden werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002100311",
+        "name": "\u00a7 17",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000200311"
+        },
+        "body": "<P>Die Berufung in b\u00fcrgerlichen Rechtsstreitigkeiten und die Rechtsbeschwerde in Bu\u00dfgeldsachen an das Rheinschiffahrtsobergericht unterliegen nicht der in Artikel 37 Abs. 1 der Revidierten Rheinschiffahrtsakte vorgesehenen Beschr\u00e4nkung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002200311",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000200311"
+        },
+        "body": "<P>In b\u00fcrgerlichen Rechtsstreitigkeiten und Bu\u00dfgeldsachen, die Rheinschiffahrtssachen sind, ist unter der in Artikel 37 Abs. 1 der Revidierten Rheinschiffahrtsakte vorgesehenen Beschr\u00e4nkung statt der Berufung oder der Rechtsbeschwerde an das Rheinschiffahrtsobergericht auch die Anrufung der Zentralkommission in Stra\u00dfburg zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR006410952BJNG000300311",
+        "name": "Dritter Abschnitt",
+        "title": "Besondere Verfahrensvorschriften f\u00fcr\nMoselschiffahrtssachen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002300311",
+        "name": "\u00a7 18a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000300311"
+        },
+        "body": "<P>(1) In Binnenschiffahrtssachen, die Moselschiffahrtssachen sind, gelten die Vorschriften des Ersten Abschnitts dieses Gesetzes nur, soweit sich aus den Bestimmungen der Artikel 34 und 35 des in Luxemburg am 27. Oktober 1956 unterzeichneten Vertrages zwischen der Bundesrepublik Deutschland, der Franz\u00f6sischen Republik und dem Gro\u00dfherzogtum Luxemburg \u00fcber die Schiffbarmachung der Mosel (Bundesgesetzbl. 1956 II S. 1838) und den \u00a7\u00a7 18b bis 18e dieses Gesetzes nichts anderes ergibt. Nach Abschlu\u00df des in Artikel 56 des Vertrages vorgesehenen zwischenstaatlichen \u00dcbereinkommens gelten f\u00fcr die Aus\u00fcbung der Schiffahrtsgerichtsbarkeit im Gebiet an der Grenze zwischen der Bundesrepublik Deutschland und dem Gro\u00dfherzogtum Luxemburg die Bestimmungen des \u00dcbereinkommens.</P><P>(2) Moselschiffahrtssachen sind nur die in Artikel 35 des genannten Vertrages bezeichneten b\u00fcrgerlichen Rechtsstreitigkeiten und Straf- sowie Bu\u00dfgeldsachen, die sich auf Vorg\u00e4nge auf der Mosel einschlie\u00dflich der Sicherheitsh\u00e4fen, Vorh\u00e4fen und Schleusen sowie des Seitenkanals bei Detzem beziehen. Ein b\u00fcrgerlicher Rechtsstreit gilt nicht als Moselschiffahrtssache, wenn die Parteien die Zust\u00e4ndigkeit eines Gerichts vereinbaren, das f\u00fcr Moselschiffahrtssachen nicht zust\u00e4ndig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002400311",
+        "name": "\u00a7 18b",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000300311"
+        },
+        "body": "<P>(1) Bei der Verhandlung und Entscheidung von Moselschiffahrtssachen f\u00fchrt das Amtsgericht an Stelle der Bezeichnung \"Schiffahrtsgericht\" die Bezeichnung \"Moselschiffahrtsgericht\", das Oberlandesgericht an Stelle der Bezeichnung \"Schiffahrtsobergericht\" die Bezeichnung \"Moselschiffahrtsobergericht\".</P><P>(2) Die Antr\u00e4ge und die Verf\u00fcgungen der Staatsanwaltschaft in Moselschiffahrtssachen und die Antr\u00e4ge der Parteien in Moselschiffahrtssachen sollen als solche gekennzeichnet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002500311",
+        "name": "\u00a7 18c",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000300311"
+        },
+        "body": "<P>Die Entscheidung einer Binnenschiffahrtssache, die nicht Moselschiffahrtssache ist, darf nicht mit der Entscheidung einer Moselschiffahrtssache verbunden werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002600311",
+        "name": "\u00a7 18d",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000300311"
+        },
+        "body": "<P>Die Berufung in b\u00fcrgerlichen Rechtsstreitigkeiten und die Rechtsbeschwerde in Bu\u00dfgeldsachen an das Moselschiffahrtsobergericht unterliegen nicht der Beschr\u00e4nkung, die sich aus Artikel 34 Abs. 3 des in \u00a7 18a genannten Vertrages in Verbindung mit Artikel 37 Abs. 1 der Revidierten Rheinschiffahrtsakte ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002700311",
+        "name": "\u00a7 18e",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000300311"
+        },
+        "body": "<P>In b\u00fcrgerlichen Rechtsstreitigkeiten und Bu\u00dfgeldsachen, die Moselschiffahrtssachen sind, ist unter der Beschr\u00e4nkung, die sich aus Artikel 34 Abs. 3 des in \u00a7 18a genannten Vertrages in Verbindung mit Artikel 37 Abs. 1 der Revidierten Rheinschiffahrtsakte ergibt, statt der Berufung oder der Rechtsbeschwerde an das Moselschiffahrtsobergericht auch die Anrufung des Berufungsausschusses der Moselkommission in Trier zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR006410952BJNG000400311",
+        "name": "Vierter Abschnitt",
+        "title": "Zusatz-, \u00dcbergangs- und Schlu\u00dfbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002800311",
+        "name": "\u00a7 19",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE002900311",
+        "name": "\u00a7 20",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE003000311",
+        "name": "\u00a7 21",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000400311"
+        },
+        "body": "<P>(1) Entscheidungen au\u00dferdeutscher Rheinschiffahrtsgerichte werden auf Grund einer von dem Rheinschiffahrtsobergericht K\u00f6ln mit der Vollstreckungsklausel (\u00a7 724 der Zivilproze\u00dfordnung, \u00a7 451 Abs. 1 der Strafproze\u00dfordnung) kostenfrei zu versehenden Ausfertigung vollstreckt.</P><P>(2) Entscheidungen au\u00dferdeutscher Moselschiffahrtsgerichte werden auf Grund einer von dem Moselschiffahrtsobergericht mit der Vollstreckungsklausel (\u00a7 724 der Zivilproze\u00dfordnung, \u00a7 451 Abs. 1 der Strafproze\u00dfordnung) kostenfrei zu versehenden Ausfertigung vollstreckt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE003100311",
+        "name": "\u00a7 22",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE003200311",
+        "name": "\u00a7 23",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000400311"
+        },
+        "body": "<P>Bis zu anderer Regelung durch die Landesregierungen sind die Gerichte, die nach den bisher geltenden Vorschriften zu Schiffahrtsgerichten (Schiffahrtsobergerichten) oder zu Rheinschiffahrtsgerichten (Rheinschiffahrtsobergerichten) bestellt sind, f\u00fcr die ihnen als solchen zugeteilten Bezirke Schiffahrtsgerichte (Schiffahrtsobergerichte) im Sinne dieses Gesetzes. Die Zust\u00e4ndigkeit der in dem bisherigen Land Baden gelegenen Schiffahrtsgerichte des Landes Baden-W\u00fcrttemberg beschr\u00e4nkt sich auf die bisher badischen Teile dieser Bezirke.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE003300311",
+        "name": "(XXXX) \u00a7\u00a7 24 und 25",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE003400311",
+        "name": "\u00a7 26",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000400311"
+        },
+        "body": "<P>(1) Dieses Gesetz tritt am 1. Oktober 1952 in Kraft.</P><P>(2)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR006410952BJNE003500311",
+        "name": "\u00a7 27",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR006410952BJNG000400311"
+        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe der \u00a7\u00a7 13 und 14 des Gesetzes \u00fcber die Stellung des Landes Berlin im Finanzsystem des Bundes (Drittes \u00dcberleitungsgesetz) vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR002870941",
+    "firstPublished": "1941-05-19",
+    "sourceTimestamp": "20161021222002",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber den weiteren Ausbau der knappschaftlichen Versicherung",
+    "abbreviation": "KnVAusbauV",
+    "slug": "knvausbauv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1941, 287",
+        "periodical": "RGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 22 Nr. 1 G v. 22.12.1983 I 1532",
+        "category": "Stand"
+      },
+      {
+        "comment": "V aufgeh. mit Ausnahme des \u00a7 2 Abs. 1 durch Art. 22 Nr. 1 G 63-19 v. 22.12.1983 mWv 1.1.1984",
+        "category": "Aufh"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1984 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE000700326",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Ministerrat f\u00fcr die Reichsverteidigung verordnet mit Gesetzeskraft:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002870941BJNG000100326",
+        "name": "Abschnitt I",
+        "title": "Neuordnung der Krankenversicherung\nder Bergleute",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE000800326",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000100326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE000900326",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000100326"
+        },
+        "body": "<P>(1) \u00dcber die Zust\u00e4ndigkeit ... der besonderen Krankenkassen sowie \u00fcber die Berechnung des Grundlohns bestimmt die Satzung das N\u00e4here. Sie stellt Richtlinien auf f\u00fcr die Gew\u00e4hrung der Mehrleistungen. Diese k\u00f6nnen f\u00fcr Arbeiter, Angestellte und Rentner verschieden festgesetzt werden. Bestandteil der Satzung bildet auch die Krankenordnung.</P><P>(2)</P><P>(3) u. (4) ...</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001000326",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000100326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002870941BJNG000200326",
+        "name": "Abschnitt II",
+        "title": "Gesundheitsf\u00fcrsorge",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001100326",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000200326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002870941BJNG000300326",
+        "name": "Abschnitt III",
+        "title": "Krankenversicherung der\nRentner",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001200326",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000300326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002870941BJNG000400326",
+        "name": "Abschnitt IV",
+        "title": "Gemeinschaftshilfe des\nReichsstocks f\u00fcr Arbeitseinsatz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001300326",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000400326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002870941BJNG000500326",
+        "name": "Abschnitt V",
+        "title": "Umfang der Versicherung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001400326",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000500326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001500326",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000500326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR002870941BJNG000600326",
+        "name": "Abschnitt VI",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001600326",
+        "name": "(XXXX) \u00a7\u00a7 9 u. 10",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000600326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001700326",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000600326"
+        },
+        "body": "<P>Diese Verordnung tritt mit dem 1. Mai 1941 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002870941BJNE001800326",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR002870941BJNG000600326"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

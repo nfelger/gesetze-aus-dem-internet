@@ -1,0 +1,61 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR083000008",
+    "firstPublished": "2008-05-13",
+    "sourceTimestamp": "20210615213136",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber die Entwicklung und Erprobung des Ausbildungsberufs Speiseeishersteller/Speiseeisherstellerin <FnR ID=\"f771080_01_BJNR083000008\" />",
+    "abbreviation": "SpEisHErprobV",
+    "slug": "speisherprobv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2008, 830",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 1 V v. 19.6.2013 I 1611",
+        "category": "Stand"
+      },
+      {
+        "comment": "Die V tritt mit Ausnahme des \u00a7 10 nach ihrem \u00a7 11 am 31. Juli 2013 au\u00dfer Kraft",
+        "category": "Aufh"
+      },
+      {
+        "comment": "Die Geltung dieser V ist durch \u00a7 11 idF d. Art. 1 V v. 19.6.2013 I 1611 \u00fcber den 31.7.2013 hinaus bis zum 31.7.2014 verl\u00e4ngert worden.",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"f771080_01_BJNR083000008\" Pos=\"normal\" Postfix=\")\"><noindex>Diese Rechtsverordnung ist eine Ausbildungsordnung im Sinne des \u00a7 6 des Berufsbildungsgesetzes und des \u00a7 27 der Handwerksordnung. Die Ausbildungsordnung und der damit abgestimmte von der St\u00e4ndigen Konferenz der Kultusminister der L\u00e4nder in der Bundesrepublik Deutschland beschlossene Rahmenlehrplan f\u00fcr die Berufsschule werden demn\u00e4chst als Beilage im Bundesanzeiger ver\u00f6ffentlicht.</noindex></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.8.2008 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR083000008BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Bestehende Berufsausbildungsverh\u00e4ltnisse",
+        "parent": null,
+        "body": "<P>Die bei Au\u00dferkrafttreten dieser Verordnung bestehenden Berufsausbildungsverh\u00e4ltnisse k\u00f6nnen nach den Vorschriften dieser Verordnung zu Ende gef\u00fchrt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083000008BJNE001201140",
+        "name": "\u00a7 11",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am 1. August 2008 in Kraft und mit Ausnahme des \u00a7 10 am 31. Juli 2014 au\u00dfer Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

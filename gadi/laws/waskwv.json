@@ -1,0 +1,153 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR002780944",
+    "firstPublished": "1944-10-26",
+    "sourceTimestamp": "20131008093436",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber die steuerliche Beg\u00fcnstigung von Wasserkraftwerken",
+    "abbreviation": "WasKwV",
+    "slug": "waskwv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1944, 278",
+        "periodical": "RGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 61 G v. 8.12.2010 I 1864",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 21.8.1977 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000100303",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 12 der Reichsabgabenordnung wird im Einvernehmen mit dem Reichsminister des Innern und dem Generalinspektor f\u00fcr Wasser und Energie verordnet:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000200303",
+        "name": "\u00a7 1",
+        "title": "Steuerbeg\u00fcnstigte Unternehmen",
+        "parent": null,
+        "body": "<P>Unternehmen, die elektrische Arbeit durch Wasserkr\u00e4fte erzeugen, werden nach Ma\u00dfgabe dieser Verordnung steuerlich beg\u00fcnstigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000300303",
+        "name": "\u00a7 2",
+        "title": "Steuerbeg\u00fcnstigte Anlagen",
+        "parent": null,
+        "body": "<P>(1) Die steuerliche Beg\u00fcnstigung erstreckt sich nur auf die Anlagen zur Erzeugung elektrischer Arbeit durch Wasserkr\u00e4fte (Wasserkraftwerke). Zu den Wasserkraftwerken geh\u00f6ren auch die Anlagen zur Fortleitung der erzeugten elektrischen Arbeit bis zu den Abspannketten der Fernleitungen.</P><P>(2) Die steuerliche Beg\u00fcnstigung kann auf Antrag auch f\u00fcr die Anlagen zur Fortleitung des Stroms aus steuerbeg\u00fcnstigten Wasserkraftwerken gew\u00e4hrt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000401309",
+        "name": "\u00a7 3",
+        "title": "Voraussetzungen der steuerlichen Beg\u00fcnstigung",
+        "parent": null,
+        "body": "<P>Die steuerliche Beg\u00fcnstigung tritt nur ein, wenn der Baubeginn der Anlagen in die Zeit vom 1. Januar 1938 bis zum 31. Dezember 1990 f\u00e4llt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000500303",
+        "name": "\u00a7 4",
+        "title": "Einkommensteuer und K\u00f6rperschaftsteuer",
+        "parent": null,
+        "body": "<P>(1) Die Einkommensteuer oder die K\u00f6rperschaftsteuer, die auf den Gewinn aus den steuerbeg\u00fcnstigten Anlagen entf\u00e4llt, erm\u00e4\u00dfigt sich ab dem Betriebsbeginn f\u00fcr die Dauer von zwanzig Jahren auf die H\u00e4lfte der gesetzlichen Betr\u00e4ge.</P><P>(2) Die Bundesregierung wird erm\u00e4chtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung Vorschriften \u00fcber die Ermittlung des steuerbeg\u00fcnstigten Gewinns f\u00fcr den Fall zu erlassen, da\u00df ein Unternehmen steuerbeg\u00fcnstigte und nicht steuerbeg\u00fcnstigte Anlagen unterh\u00e4lt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000600303",
+        "name": "\u00a7 5",
+        "title": "Verm\u00f6gensteuer und Aufbringungsumlage",
+        "parent": null,
+        "body": "<P>Die Verm\u00f6gensteuer <I>und die Aufbringungsumlage,</I> die auf die steuerbeg\u00fcnstigten Anlagen entfallen, sind w\u00e4hrend der Bauzeit nicht zu entrichten. Sie erm\u00e4\u00dfigen sich ab dem Betriebsbeginn f\u00fcr die Dauer von zwanzig Jahren auf die H\u00e4lfte der gesetzlichen Betr\u00e4ge.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000701140",
+        "name": "\u00a7 6",
+        "title": "Gewerbesteuer",
+        "parent": null,
+        "body": "<P>(1) Die einheitlichen Gewerbesteuerme\u00dfbetr\u00e4ge, die auf die steuerbeg\u00fcnstigten Anlagen entfallen, erm\u00e4\u00dfigen sich ab dem Betriebsbeginn f\u00fcr die Dauer von zwanzig Jahren auf die H\u00e4lfte der gesetzlichen Betr\u00e4ge.</P><P>(2) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000800303",
+        "name": "\u00a7 7",
+        "title": "Absetzung f\u00fcr Abnutzung",
+        "parent": null,
+        "body": "<P>(1) Die Summe der Absetzungen f\u00fcr Abnutzung auf die Wirtschaftsg\u00fcter, die zu den steuerbeg\u00fcnstigten Anlagen geh\u00f6ren, mu\u00df f\u00fcr die gesamte Dauer der Steuerbeg\u00fcnstigung bei den Wasserkraftwerken mindestens 25 vom Hundert, bei den Fortleitungsanlagen (\u00a7 2 Abs. 2) mindestens 40 vom Hundert der Anschaffungs- oder Herstellungskosten betragen.</P><P>(2) Die Bundesregierung wird erm\u00e4chtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung zu bestimmen, wie der Gesamtbetrag der Absetzung f\u00fcr Abnutzung auf die einzelnen Jahre zu verteilen ist. Bleibt die Summe der Absetzungen f\u00fcr Abnutzung eines Jahres hinter dem danach ma\u00dfgebenden Betrag zur\u00fcck, so tritt die steuerliche Beg\u00fcnstigung f\u00fcr dieses Jahr nicht ein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE000901309",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE001000303",
+        "name": "\u00a7 9",
+        "title": "Weitergew\u00e4hrung bisheriger steuerlicher Beg\u00fcnstigungen",
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE001101309",
+        "name": "\u00a7 10",
+        "title": "Anwendungsvorschriften",
+        "parent": null,
+        "body": "<P>(1) Die Bestimmungen dieser Verordnung sind erstmalig anzuwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Veranlagung zur Einkommensteuer und zur K\u00f6rperschaftsteuer f\u00fcr das Kalenderjahr 1943;</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Veranlagung zur Verm\u00f6gensteuer und zur Aufbringungsumlage f\u00fcr das Rechnungsjahr 1943;</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Festsetzung der einheitlichen Gewerbesteuerme\u00dfbetr\u00e4ge f\u00fcr das Kalenderjahr 1943.</LA></DD> </DL> </P><P>(2) ...</P><P>(3) \u00a7 8 in der im Bundesgesetzblatt Teil III, Gliederungsnummer 610-6-2, ver\u00f6ffentlichten bereinigten Fassung ist letztmals f\u00fcr Wirtschaftsjahre anzuwenden, die vor dem 1. Januar 1984 enden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR002780944BJNE001200303",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": null,
+        "body": "<P><SP>Der Reichsminister der Finanzen</SP></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

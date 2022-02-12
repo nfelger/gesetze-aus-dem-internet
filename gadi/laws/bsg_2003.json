@@ -1,0 +1,48 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR464100002",
+    "firstPublished": "2002-12-23",
+    "sourceTimestamp": "20120625150931",
+    "titleShort": "Beitragssatzgesetz 2003",
+    "titleLong": "Gesetz zur Bestimmung der Beitragss\u00e4tze in der gesetzlichen\nRentenversicherung und der Beitragszahlung des Bundes f\u00fcr\nKindererziehungszeiten f\u00fcr das Jahr 2003",
+    "abbreviation": "BSG 2003",
+    "slug": "bsg_2003",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2002, 4637, 4641",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  1. 1.2003 +++)</P><P><BR /> Das G wurde als Art. 8 d. G 860-5/10 v. 23.12.2002 I 4637 vom Bundestag beschlossen. Es ist gem. Art. 13 Abs. 3 dieses G mWv 1.1.2003 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR464100002BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Beitragss\u00e4tze in der Rentenversicherung",
+        "parent": null,
+        "body": "<P>Der Beitragssatz f\u00fcr das Jahr 2003 betr\u00e4gt in der Rentenversicherung der Arbeiter und der Angestellten 19,5 Prozent und in der knappschaftlichen Rentenversicherung 25,9 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR464100002BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Zahlungen f\u00fcr Kindererziehungszeiten",
+        "parent": null,
+        "body": "<P>Zur pauschalen Abgeltung f\u00fcr die Beitragszahlung f\u00fcr Kindererziehungszeiten zahlt der Bund an die Rentenversicherung der Arbeiter und der Angestellten f\u00fcr das Jahr 2003 einen Betrag in H\u00f6he von 11.874.710.850 Euro.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

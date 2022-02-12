@@ -1,0 +1,113 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR231210007",
+    "firstPublished": "2007-10-09",
+    "sourceTimestamp": "20200921213011",
+    "titleShort": "Passdatenerfassungs- und \u00dcbermittlungsverordnung",
+    "titleLong": "Verordnung zur Erfassung und Qualit\u00e4tssicherung des Lichtbildes und der Fingerabdr\u00fccke in den Passbeh\u00f6rden und der \u00dcbermittlung der Passantragsdaten an den Passhersteller",
+    "abbreviation": "PassDE\u00dcV",
+    "slug": "passdeuev",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2007, 2312",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 79 V v. 19.6.2020 I 1328",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.11.2007 +++)<BR /><BR /></pre>Die V wurde als Art. 1 d. V v. 9.10.2007 I 2312 (PassDE\u00dcV/BMeldD\u00dcV21995\u00c4ndV) von der Bundesregierung mit Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 3 Abs. 1 dieser V am 1.11.2007 in Kraft getreten. \u00a7 3 Abs. 2 u. \u00a7 7 Abs. 3 treten gem. Art. 3 Abs. 2 d. vorstehenden V am 1.5.2008 in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR231210007BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "body": "<P>(1) Diese Verordnung regelt die technischen Anforderungen und Verfahren f\u00fcr die elektronische Erfassung des Lichtbildes und der Fingerabdr\u00fccke, die \u00dcbermittlung s\u00e4mtlicher Passantragsdaten von der Passbeh\u00f6rde an den Passhersteller, die Qualit\u00e4tssicherung in der Passbeh\u00f6rde und beim Passhersteller sowie das Verfahren zum Nachweis der Erf\u00fcllung der Anforderungen dieser Verordnung.</P><P>(2) Diese Verordnung gilt f\u00fcr Passbeh\u00f6rden, den Passhersteller sowie f\u00fcr Hersteller und Lieferanten von technischen Systemen und Bestandteilen, die zum Einsatz bei den Verfahren bestimmt sind, die in dieser Rechtsverordnung geregelt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR231210007BJNE000202310",
+        "name": "\u00a7 2",
+        "title": "Erfassung von Lichtbild und Fingerabdr\u00fccken; dezentrale Qualit\u00e4tssicherung",
+        "parent": null,
+        "body": "<P>(1) Die Passbeh\u00f6rde hat durch geeignete technische und organisatorische Ma\u00dfnahmen die erforderliche Qualit\u00e4t der Erfassung des Lichtbildes und der Fingerabdr\u00fccke sicherzustellen.</P><P>(2) Die technischen und organisatorischen Anforderungen an <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erfassung des Lichtbildes und der Fingerabdr\u00fccke,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Qualit\u00e4tssicherung des Lichtbildes und der Fingerabdr\u00fccke und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcbermittlung s\u00e4mtlicher Passantragsdaten zwischen Passbeh\u00f6rde und Passhersteller</LA></DD></DL>sind nach dem Stand der Technik zu erf\u00fcllen. Der Stand der Technik ist als niedergelegt zu vermuten in den Technischen Richtlinien des Bundesamtes f\u00fcr Sicherheit in der Informationstechnik. Diese sind in der Anlage 1 aufgef\u00fchrt und gelten in der jeweils im Bundesanzeiger ver\u00f6ffentlichten Fassung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR231210007BJNE000305116",
+        "name": "\u00a7 3",
+        "title": "\u00dcbermittlung der Daten an den Passhersteller",
+        "parent": null,
+        "body": "<P>(1) Nach der Erfassung werden s\u00e4mtliche Passantragsdaten in den Passbeh\u00f6rden zu einem digitalen Datensatz zusammengef\u00fchrt und an den Passhersteller \u00fcbermittelt. Die Daten\u00fcbermittlung umfasst auch die Qualit\u00e4tswerte zu den erhobenen Fingerabdr\u00fccken und \u2013 soweit vorhanden \u2013 zu den Lichtbildern, die Beh\u00f6rdenkennzahl, die Versionsnummern der QS-Software und der Sollwerte, den Zeitstempel des Passantrags sowie die Speichergr\u00f6\u00dfe der kodierten biometrischen Daten. Die Daten\u00fcbermittlung erfolgt durch Daten\u00fcbertragung \u00fcber verwaltungseigene Kommunikationsnetze oder \u00fcber das Internet. Sie erfolgt unmittelbar zwischen Passbeh\u00f6rde und Passhersteller oder \u00fcber Vermittlungsstellen. Die zu \u00fcbermittelnden Daten sind elektronisch zu signieren und zu verschl\u00fcsseln.</P><P>(2) Zum Signieren und Verschl\u00fcsseln der gem\u00e4\u00df Absatz 1 zu \u00fcbermittelnden Daten sind g\u00fcltige Zertifikate gem\u00e4\u00df den Anforderungen der vom Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BSI) erstellten Sicherheitsleitlinien der Wurzelzertifizierungsinstanz der Verwaltung zu nutzen. Diese sind auf der Internetseite des BSI ver\u00f6ffentlicht und k\u00f6nnen dort auf Anfrage bezogen werden. Der Passhersteller hat geeignete technische und organisatorische Regelungen zu treffen, die eine Weiterverarbeitung von ung\u00fcltig signierten Antragsdaten ausschlie\u00dfen.</P><P>(3) Die Daten\u00fcbertragung nach Absatz 1 Satz 3 erfolgt unter Verwendung eines XML-basierten Datenaustauschformats (XhD) und auf der Grundlage des Daten\u00fcbermittlungsprotokolls OSCI-Transport, das in der vom Bundesamt f\u00fcr Sicherheit in der Informationstechnik festgelegten Fassung, die im Bundesanzeiger bekannt gemacht ist, zu verwenden ist. Das Ausw\u00e4rtige Amt kann f\u00fcr die Daten\u00fcbertragung an den Passhersteller als \u00dcbermittlungsprotokoll auch WSDL/SOAP verwenden. Die Daten\u00fcbertragung zwischen den Stellen, die gem\u00e4\u00df \u00a7 19 Abs. 2 des Passgesetzes f\u00fcr Passangelegenheiten im Ausland zust\u00e4ndig sind, und dem Ausw\u00e4rtigen Amt muss hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen der Verordnung entsprechendes Niveau aufweisen. Zu Testzwecken kann nach Genehmigung durch das Bundesministerium des Innern, f\u00fcr Bau und Heimat von den Vorgaben f\u00fcr das Datenaustauschformat nach Satz 1 abgewichen werden.</P><P>(4) XhD ist ein auf XML basierendes Datenaustauschformat f\u00fcr Dokumentdaten und dokumentenabh\u00e4ngige Gesch\u00e4ftsprozesse in Nachrichten zwischen den Passbeh\u00f6rden und dem Passhersteller. OSCI-Transport ist der am 6. Juni 2002 vom Kooperationsausschuss ADV Bund/L\u00e4nder/Kommunaler Bereich herausgegebene Standard f\u00fcr ein Daten\u00fcbermittlungsprotokoll. Hinsichtlich des Standards OSCI-Transport gilt \u00a7 2 Abs. 4 Satz 4 bis 7 der Ersten Bundesmeldedaten\u00fcbermittlungsverordnung entsprechend.</P><P>(5) Vor der \u00dcbermittlung der Passantragsdaten hinterlegen Passbeh\u00f6rden und Passhersteller alle f\u00fcr eine elektronische und automatisierte Kommunikation ben\u00f6tigten technischen Verbindungsparameter im Deutschen Verwaltungsdiensteverzeichnis (DVDV), insbesondere die daf\u00fcr erforderlichen Zertifikate. Der Passhersteller nutzt eine Funktionalit\u00e4t des DVDV, um die Passbeh\u00f6rde als eine solche zu verifizieren. Das Ausw\u00e4rtige Amt kann die ben\u00f6tigten technischen Verbindungsparameter und die damit verbundenen erforderlichen Zertifikate technisch unabh\u00e4ngig vom Deutschen Verwaltungsdiensteverzeichnis (DVDV) l\u00f6sen. Die L\u00f6sung muss hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen dieser Verordnung entsprechendes Niveau aufweisen.</P><P>(6) Soweit die Daten\u00fcbermittlung \u00fcber Vermittlungsstellen erfolgt, gelten die Abs\u00e4tze 1 bis 5 f\u00fcr die Daten\u00fcbermittlung zwischen Vermittlungsstelle und Passhersteller entsprechend. Die Daten\u00fcbermittlung zwischen Passbeh\u00f6rde und Vermittlungsstelle muss hinsichtlich Datensicherheit und Datenschutz ein den Anforderungen der Verordnung entsprechendes Niveau aufweisen. Die Einzelheiten richten sich nach dem jeweiligen Landesrecht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR231210007BJNE000402310",
+        "name": "\u00a7 4",
+        "title": "Zertifizierung",
+        "parent": null,
+        "body": "<P>(1) Die Systemkomponenten der Passbeh\u00f6rden und des Passherstellers, deren Zertifizierung verpflichtend ist, ergeben sich aus Anlage 2. Die Art und die Einzelheiten der Zertifizierung sind den Technischen Richtlinien des Bundesamtes f\u00fcr Sicherheit in der Informationstechnik zu entnehmen.</P><P>(2) F\u00fcr die Zertifizierung gilt \u00a7 9 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821) sowie die BSI-Zertifizierungsverordnung vom 7. Juli 1992 (BGBl. I S. 1230) in der jeweils geltenden Fassung.</P><P>(3) Die Kosten der Zertifizierung tr\u00e4gt der Antragsteller. Die BSI-Kostenverordnung vom 3. M\u00e4rz 2005 (BGBl. I S. 519) in der jeweils geltenden Fassung findet Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR231210007BJNE000502116",
+        "name": "\u00a7 5",
+        "title": "Qualit\u00e4tsstatistik",
+        "parent": null,
+        "body": "<P>Der Passhersteller erstellt eine Qualit\u00e4tsstatistik. Sie enth\u00e4lt anonymisierte Qualit\u00e4tswerte zu Lichtbildern und Fingerabdr\u00fccken, die sowohl in der Passbeh\u00f6rde als auch beim Passhersteller ermittelt und vom Passhersteller ausgewertet werden. Der Passhersteller stellt die Ergebnisse der Auswertung und auf Verlangen die in der Statistik erfassten anonymisierten Einzeldaten dem Bundesministerium des Innern, f\u00fcr Bau und Heimat und dem BSI zur Verf\u00fcgung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR231210007BJNE000703310",
+        "name": "\u00a7 6",
+        "title": "\u00dcbergangsregelungen",
+        "parent": null,
+        "body": "<P>Passbeh\u00f6rden, die zum Zeitpunkt des Inkrafttretens dieser Verordnung bereits ein Verfahren zur elektronischen Daten\u00fcbertragung betreiben, das auf einem von den Vorgaben des \u00a7 3 Abs. 3 Satz 1 abweichenden Datenaustauschformat (XPass) beruht, k\u00f6nnen dieses Verfahren bis zum 31. Dezember 2012 weiterf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR231210007BJNE000801310",
+        "name": "Anlage 1",
+        "title": "\u00dcbersicht \u00fcber die Technischen Richtlinien des Bundesamtes f\u00fcr Sicherheit in der Informationstechnik",
+        "parent": null,
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2010, 1455)</kommentar></P><P><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">BSI:\u00a0Technische Richtlinie TR-03104, Technische Richtlinie zur Produktionsdatenerfassung, -qualit\u00e4tspr\u00fcfung und -\u00fcbermittlung (TR PD\u00dc)</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">BSI:\u00a0Technische Richtlinie TR-03121, Biometrics for Public Sector Applications (TR Biometrie)<BR /> [Technische Richtlinie f\u00fcr Biometrie in hoheitlichen Anwendungen]</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">BSI:\u00a0Technische Richtlinie TR-03123, XML-Datenaustauschformat f\u00fcr hoheitliche Dokumente (TR XhD)</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">BSI:\u00a0Technische Richtlinie TR-03132, Sichere Szenarien f\u00fcr Kommunikationsprozesse im Bereich hoheitlicher Dokumente (TR SiSKo hD)</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR231210007BJNE000900310",
+        "name": "Anlage 2",
+        "title": "\u00dcbersicht \u00fcber die zu zertifizierenden Systemkomponenten",
+        "parent": null,
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2010, 1456)</kommentar></P><P><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tabstyle=\"Reisepass3\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"2*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"16*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"18*\" /><thead valign=\"bottom\"><row><entry VJ=\"1\" align=\"center\" colname=\"col1\" valign=\"middle\">Nr.</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\" valign=\"middle\">Bezeichnung der Systemkomponente</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\" valign=\"middle\">Verpflichtung/Option</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"center\" colname=\"col1\">1</entry><entry VJ=\"1\" colname=\"col2\">Fingerabdruckleser</entry><entry VJ=\"1\" colname=\"col3\">Verpflichtung f\u00fcr die Anbieter dieser Ger\u00e4te<BR />Verpflichtung f\u00fcr den Passhersteller<BR />Verpflichtung f\u00fcr die Passbeh\u00f6rden</entry></row><row><entry VJ=\"1\" align=\"center\" colname=\"col1\">2</entry><entry VJ=\"1\" align=\"justify\">Software zur Erfassung und Qualit\u00e4tssicherung von Lichtbild und Fingerabdr\u00fccken</entry><entry VJ=\"1\" colname=\"col3\">Verpflichtung f\u00fcr den Passhersteller<BR />Verpflichtung f\u00fcr die Passbeh\u00f6rden</entry></row><row><entry VJ=\"1\" align=\"center\" colname=\"col1\">3</entry><entry VJ=\"1\" align=\"justify\" colname=\"col2\">Modul f\u00fcr die Daten\u00fcbermittlung von der Passbeh\u00f6rde an den Passhersteller</entry><entry VJ=\"1\" colname=\"col3\">Verpflichtung f\u00fcr den Passhersteller<BR />Verpflichtung f\u00fcr die Passbeh\u00f6rden</entry></row><row><entry VJ=\"1\" align=\"center\" colname=\"col1\">4</entry><entry VJ=\"1\" align=\"justify\" colname=\"col2\">Modul zur Sicherung der Authentizit\u00e4t und Vertraulichkeit der Antragsdaten</entry><entry VJ=\"1\" colname=\"col3\">Verpflichtung f\u00fcr den Passhersteller<BR />Verpflichtung f\u00fcr die Passbeh\u00f6rden</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR051600006",
+    "firstPublished": "2006-03-06",
+    "sourceTimestamp": "20210630213138",
+    "titleShort": null,
+    "titleLong": "Vierunddrei\u00dfigste Verordnung zur Durchf\u00fchrung des Bundes-Immissionsschutzgesetzes (Verordnung \u00fcber die L\u00e4rmkartierung)",
+    "abbreviation": "34. BImSchV",
+    "slug": "34_bimschv",
+    "extraAbbreviations": [
+      "BImSchV 34"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2006, 516",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 111 V v. 19.6.2020 I 1328",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 1 V v. 28.5.2021 I 1251 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": "<P><noindex>Die Rechtsverordnung dient der Umsetzung der Richtlinie 2002/49/EG des Europ\u00e4ischen Parlaments und des Rates vom 25. Juni 2002 \u00fcber die Bewertung und Bek\u00e4mpfung von Umgebungsl\u00e4rm (ABl. EG Nr. L 189 S. 12) in deutsches Recht.</noindex></P>",
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 16.3.2006 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Umsetzung der<BR />       EGRL 49/2002            (CELEX Nr: 302L0049) +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {
+      "bgbl1_2006_j0516_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/bimschv_34/bgbl1_2006_j0516_0010.jpg"
+    },
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 47f des Bundes-Immissionsschutzgesetzes, der durch Artikel 1 des Gesetzes zur Umsetzung der EG-Richtlinie \u00fcber die Bewertung und Bek\u00e4mpfung von Umgebungsl\u00e4rm vom 24. Juni 2005 (BGBl. I S. 1794) eingef\u00fcgt worden ist, verordnet die Bundesregierung nach Anh\u00f6rung der beteiligten Kreise:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "body": "<P>Diese Verordnung gilt f\u00fcr die Kartierung von Umgebungsl\u00e4rm. Sie konkretisiert Anforderungen an L\u00e4rmkarten nach \u00a7 47c des Bundes-Immissionsschutzgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000301125",
+        "name": "\u00a7 2",
+        "title": "L\u00e4rmindizes",
+        "parent": null,
+        "body": "<P>(1) Die L\u00e4rmindizes <ABWFORMAT typ=\"A\" /> L<SUB>Day</SUB> , L<SUB>Evening</SUB> und L<SUB>Night</SUB> sind die A-bewerteten \u00e4quivalenten Dauerschallpegel in Dezibel gem\u00e4\u00df ISO 1996-2: 1987, wobei der Beurteilungszeitraum ein Jahr betr\u00e4gt und die Bestimmungen an allen Tagen in folgenden Zeitr\u00e4umen erfolgen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><ABWFORMAT typ=\"A\" /> L<SUB>Day</SUB> : 12 Stunden, beginnend um 6.00 Uhr,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><ABWFORMAT typ=\"A\" /> L<SUB>Evening</SUB> : 4 Stunden, beginnend um 18.00 Uhr,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\"><ABWFORMAT typ=\"A\" /> L<SUB>Night</SUB> : 8 Stunden, beginnend um 22.00 Uhr.</LA></DD></DL>Ein Jahr ist das f\u00fcr die Schallemission ausschlaggebende und ein hinsichtlich der Witterungsbedingungen durchschnittliches Kalenderjahr.</P><P>(2) Der L\u00e4rmindex <ABWFORMAT typ=\"A\" /> L<SUB>DEN</SUB> in Dezibel ist wie folgt definiert: <BR /><BR /><IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_2006_j0516_0010.jpg\" alt=\"\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000401125",
+        "name": "\u00a7 3",
+        "title": "Datenerhebung und Daten\u00fcbermittlung",
+        "parent": null,
+        "body": "<P>(1) Soweit die f\u00fcr die Ausarbeitung der L\u00e4rmkarten zust\u00e4ndigen Beh\u00f6rden nicht auf Best\u00e4nde zur\u00fcckgreifen k\u00f6nnen, k\u00f6nnen sie anordnen, dass ihnen vorhandene, nach den \u00a7\u00a7 4 und 5 f\u00fcr die Erarbeitung von L\u00e4rmkarten erforderliche Daten sowie vorhandene Ergebnisdaten f\u00fcr L\u00e4rmkarten unentgeltlich zur Verf\u00fcgung gestellt werden von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Eisenbahninfrastrukturunternehmen f\u00fcr den durch Eisenbahnen hervorgerufenen Umgebungsl\u00e4rm,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verkehrsunternehmen f\u00fcr den durch Stra\u00dfenbahnen im Sinne des \u00a7 4 des Personenbef\u00f6rderungsgesetzes hervorgerufenen Umgebungsl\u00e4rm,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betreibern von Verkehrsflugh\u00e4fen f\u00fcr den durch Flugzeuge in der Umgebung von Verkehrsflugh\u00e4fen hervorgerufenen Umgebungsl\u00e4rm,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagenbetreibern und Betreibern von H\u00e4fen f\u00fcr den durch Anlagen und H\u00e4fen nach \u00a7 4 Absatz 1 Nummer 5 hervorgerufenen Umgebungsl\u00e4rm,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tr\u00e4gern der Stra\u00dfenbaulast f\u00fcr den durch Stra\u00dfenverkehr hervorgerufenen Umgebungsl\u00e4rm.</LA></DD></DL>Sofern f\u00fcr die Ausarbeitung der L\u00e4rmkarten die Erhebung von Daten erforderlich ist, sind die Betreiber und Unternehmen nach Satz 1 zur Mitwirkung verpflichtet, insbesondere dazu, w\u00e4hrend der \u00fcblichen Gesch\u00e4ftszeiten das Betreten von Betriebsgrundst\u00fccken und -r\u00e4umen zu dulden, Anlagen und Einrichtungen zug\u00e4nglich zu machen oder vorhandene Unterlagen zur Verf\u00fcgung zu stellen. \u00a7 52 Absatz 5 und 7 des Bundes-Immissionsschutzgesetzes gilt entsprechend.</P><P>(2) Die Gemeinden haben die f\u00fcr die L\u00e4rmkarten erforderlichen Daten \u00fcber die vom Umgebungsl\u00e4rm betroffene Wohnbev\u00f6lkerung, soweit vorhanden, den f\u00fcr die Ausarbeitung der L\u00e4rmkarten zust\u00e4ndigen Beh\u00f6rden unentgeltlich zur Verf\u00fcgung zu stellen.</P><P>(3) Andere Beh\u00f6rden haben den f\u00fcr die Ausarbeitung der L\u00e4rmkarten zust\u00e4ndigen Beh\u00f6rden die dort vorhandenen und f\u00fcr die L\u00e4rmkarten erforderlichen Daten unentgeltlich zur Verf\u00fcgung zu stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000501125",
+        "name": "\u00a7 4",
+        "title": "Ausarbeitung von L\u00e4rmkarten",
+        "parent": null,
+        "body": "<P>(1) L\u00e4rmkarten f\u00fcr Ballungsr\u00e4ume erstrecken sich auf s\u00e4mtliche darin gelegene Hauptl\u00e4rmquellen, sowie ferner auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Stra\u00dfen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Schienenwege von Eisenbahnen nach dem Allgemeinen Eisenbahngesetz,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schienenwege von Stra\u00dfenbahnen im Sinne des \u00a7 4 des Personenbef\u00f6rderungsgesetzes,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Flugpl\u00e4tze f\u00fcr den zivilen Luftverkehr,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Industrie- oder Gewerbegel\u00e4nde, auf denen sich eine oder mehrere Anlagen gem\u00e4\u00df Anhang I der Richtlinie 2010/75/EU des Europ\u00e4ischen Parlaments und des Rates vom 24. November 2010 \u00fcber Industrieemissionen (integrierte Vermeidung und Verminderung der Umweltverschmutzung) (ABl. L 334 vom 17.12.2010, S. 17; L 158 vom 19.6.2012, S. 25) in der jeweils geltenden Fassung befinden, einschlie\u00dflich H\u00e4fen f\u00fcr die Binnen- oder Seeschifffahrt mit einer Gesamtumschlagsleistung von mehr als 1,5 Millionen Tonnen pro Jahr,</LA></DD></DL>soweit diese sonstigen L\u00e4rmquellen erheblichen Umgebungsl\u00e4rm hervorrufen.</P><P>(2) Die Ausarbeitung von L\u00e4rmkarten hat getrennt f\u00fcr jede L\u00e4rmart (Stra\u00dfenl\u00e4rm, Schienenl\u00e4rm, Flugl\u00e4rm, Industrie- und Gewerbel\u00e4rm einschlie\u00dflich Hafenl\u00e4rm) auf der Grundlage der L\u00e4rmindizes L<SUB>DEN</SUB> und L<SUB>Night</SUB> zu erfolgen.</P><P>(3) L\u00e4rmkarten m\u00fcssen georeferenziert sein. Alle Daten sind in einer Form vorzuhalten, die ihre digitale Weiterverarbeitung erm\u00f6glicht. L\u00e4rmkarten sind in elektronischer Form zu erstellen; sie m\u00fcssen in k\u00f6rperlicher Form herstellbar sein.</P><P>(4) L\u00e4rmkarten bestehen aus <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer graphischen Darstellung der L\u00e4rmsituation mit den Isophonen-B\u00e4ndern f\u00fcr <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">den L<SUB>DEN</SUB> ab 55\u00a0dB(A) bis 59\u00a0dB(A), ab 60 dB(A) bis 64 dB(A), ab 65 dB(A) bis 69 dB(A), ab 70 dB(A) bis 74 dB(A) sowie ab 75 dB(A) und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">den L<SUB>Night</SUB> ab 50\u00a0dB(A) bis 54\u00a0dB(A), ab 55 dB(A) bis 59 dB(A), ab 60 dB(A) bis 64 dB(A), ab 65 dB(A) bis 69 dB(A) sowie ab 70\u00a0dB(A) und optional ab 45 dB(A) bis 49 dB(A)</LA></DD></DL>mit den Farben nach DIN 45682, Ausgabe April 2020, wobei auf ganze Zahlen auf- oder abzurunden ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer graphischen Darstellung der \u00dcberschreitung eines Wertes, bei dessen \u00dcberschreitung L\u00e4rmschutzma\u00dfnahmen in Erw\u00e4gung gezogen oder eingef\u00fchrt werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">tabellarischen Angaben \u00fcber die gesch\u00e4tzte Zahl der Menschen, die in Gebieten wohnen, die innerhalb der Isophonen-B\u00e4nder nach Nummer 1 liegen, wobei die Absch\u00e4tzung nach Absatz 5 zu erfolgen hat,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer allgemeinen Beschreibung der Hauptl\u00e4rmquellen nach Lage, Gr\u00f6\u00dfe und Verkehrsaufkommen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Beschreibung der Umgebung: Ballungsr\u00e4ume (Lage, Gr\u00f6\u00dfe, Einwohnerzahl), St\u00e4dte, D\u00f6rfer, l\u00e4ndliche Gegend oder nicht l\u00e4ndliche Gegend, Fl\u00e4chennutzung, andere Hauptl\u00e4rmquellen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber durchgef\u00fchrte und laufende L\u00e4rmaktionspl\u00e4ne und L\u00e4rmschutzprogramme,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer tabellarischen Angabe \u00fcber l\u00e4rmbelastete Fl\u00e4chen sowie \u00fcber die gesch\u00e4tzte Zahl der Wohnungen, Schulen und Krankenh\u00e4user in diesen Gebieten, nach Ma\u00dfgabe des Absatzes 6,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber die zust\u00e4ndigen Beh\u00f6rden f\u00fcr die L\u00e4rmkartierung,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">tabellarischen Angaben \u00fcber <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die gesch\u00e4tzte Zahl der F\u00e4lle isch\u00e4mischer Herzkrankheiten,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die gesch\u00e4tzte Zahl der F\u00e4lle starker Bel\u00e4stigung und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die gesch\u00e4tzte Zahl der F\u00e4lle starker Schlafst\u00f6rung</LA></DD></DL>in Gebieten, die innerhalb der Isophonen-B\u00e4nder nach Nummer 1 liegen.</LA></DD></DL>In den L\u00e4rmkarten k\u00f6nnen zus\u00e4tzliche Texterl\u00e4uterungen und Informationen verwendet werden.</P><P>(5) Die Zahl der in ihren Wohnungen durch Umgebungsl\u00e4rm belasteten Menschen (Absatz 4 Satz 1 Nummer 3) ist separat f\u00fcr jede L\u00e4rmart anzugeben. Die Zahlenangaben sind auf die n\u00e4chste Hunderterstelle auf- oder abzurunden.</P><P>(6) Die Gesamtfl\u00e4che der l\u00e4rmbelasteten Gebiete (Absatz 4 Satz 1 Nummer 7) ist anzugeben. Die Angabe hat in Quadratkilometern zu erfolgen und ist aufzugliedern nach L<SUB>DEN</SUB>-Werten \u00fcber 55 dB(A), \u00fcber 65 dB(A) und \u00fcber 75 dB(A). Entsprechendes gilt f\u00fcr die Zahl der Wohnungen, Schulen und Krankenh\u00e4user. Bei der Zahlenangabe f\u00fcr Wohnungen ist auf 100 Wohnungen zu runden.</P><P>(7) Die Zahl der F\u00e4lle gesundheitssch\u00e4dlicher Auswirkungen und Bel\u00e4stigungen nach Absatz 4 Satz 1 Nummer 9 ist separat f\u00fcr jede L\u00e4rmart anzugeben. Die Angabe zu isch\u00e4mischen Herzkrankheiten hat f\u00fcr Stra\u00dfenl\u00e4rm f\u00fcr den L<SUB>DEN</SUB> zu erfolgen. Die Angabe zu starken Bel\u00e4stigungen hat jeweils f\u00fcr die L\u00e4rmarten Stra\u00dfenl\u00e4rm, Schienenl\u00e4rm und Flugl\u00e4rm f\u00fcr den L<SUB>DEN</SUB> zu erfolgen. Die Angabe zu starken Schlafst\u00f6rungen hat jeweils f\u00fcr die L\u00e4rmarten Stra\u00dfenl\u00e4rm, Schienenl\u00e4rm und Flugl\u00e4rm f\u00fcr den L<SUB>Night</SUB> zu erfolgen. Die Angaben sind auf ganze Zahlen zu runden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000603125",
+        "name": "\u00a7 5",
+        "title": "Berechnungsverfahren",
+        "parent": null,
+        "body": "<P>(1) Die L\u00e4rmindizes werden nach Verfahren berechnet, die den allgemein anerkannten Regeln der Technik entsprechen. Die Berechnungsverfahren werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die L\u00e4rmarten nach \u00a7 4 Absatz 1 Nummer 1 bis 3 vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Flugl\u00e4rm (\u00a7 4 Absatz 1 Nummer 4) vom Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit im Einvernehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Industrie- und Gewerbel\u00e4rm (\u00a7 4 Absatz 1 Nummer 5) vom Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit</LA></DD></DL>durch Ver\u00f6ffentlichung im Bundesanzeiger konkretisiert.</P><P>(2) Die Berechnungspunkte zur Ermittlung von L<SUB>DEN</SUB> und L<SUB>Night</SUB> f\u00fcr die L\u00e4rmbelastung in der N\u00e4he von Geb\u00e4uden liegen in einer H\u00f6he von vier Meter \u00fcber dem Boden.</P><P>(3) F\u00fcr die Ermittlung der Belastetenzahlen nach \u00a7 4 Absatz 5 liegen die Berechnungspunkte auf der Geb\u00e4udefassade. F\u00fcr diesen Fall wird die letzte Reflexion an der Geb\u00e4udefassade, auf der der Berechnungspunkt liegt, nicht ber\u00fccksichtigt. F\u00fcr die fl\u00e4chenm\u00e4\u00dfige Darstellung der L\u00e4rmbelastung nach \u00a7 4 Absatz 4 ist ein Raster von 50 Meter mal 50 Meter oder weniger zu Grunde zu legen.</P><P>(3a) Die gesch\u00e4tzte Zahl der gesundheitssch\u00e4dlichen Auswirkungen und Bel\u00e4stigungen nach \u00a7\u00a04 Absatz 7 wird berechnet nach den Methoden zur Bewertung der gesundheitssch\u00e4dlichen Auswirkungen, die in Anhang III der Richtlinie 2002/49/EG des Europ\u00e4ischen Parlaments und des Rates vom 25. Juni 2002 \u00fcber die Bewertung und Bek\u00e4mpfung von Umgebungsl\u00e4rm (ABl. L\u00a0189 vom 18.7.2002, S. 12), die zuletzt durch die Richtlinie (EU) 2020/367 (ABl. L 67 vom 5.3.2020, S. 132) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung aufgef\u00fchrt sind.</P><P>(3b) F\u00fcr die Ermittlung der Zahlen nach \u00a7\u00a04 Absatz 4 Satz 1 Nummer 9 sind als mittlere Werte jedes Isophonen-Bandes anzusetzen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den L<SUB>DEN</SUB> 57\u00a0dB(A), 62\u00a0dB(A), 67\u00a0dB(A), 72 dB(A) sowie 77 dB(A) und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den L<SUB>Night</SUB> 52\u00a0dB(A), 57\u00a0dB(A), 62\u00a0dB(A), 67 dB(A) sowie 72 dB(A) und optional 47 dB(A).</LA></DD></DL>Die Inzidenzrate von isch\u00e4mischen Herzkrankheiten in Deutschland, die als Eingangsgr\u00f6\u00dfe f\u00fcr die Ermittlung der Zahl der F\u00e4lle isch\u00e4mischer Herzkrankheiten f\u00fcr Stra\u00dfenverkehrsl\u00e4rm nach \u00a7\u00a04 Absatz 4 Satz 1 Nummer 9 Buchstabe a dient, wird aus den aktuellen Gesundheitsstatistiken ermittelt. Das Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit gibt die aktuelle Inzidenzrate im Einvernehmen mit dem Bundesministerium f\u00fcr Gesundheit im Bundesanzeiger bekannt.</P><P>(4) Das Bundesamt f\u00fcr Kartographie und Geod\u00e4sie stellt den f\u00fcr die Ausarbeitung von L\u00e4rmkarten zust\u00e4ndigen Beh\u00f6rden zentral das Digitale Gel\u00e4ndemodell f\u00fcr Deutschland (DGM-D) zur Verf\u00fcgung. Liegen in den L\u00e4ndern detailliertere geographische Daten vor, k\u00f6nnen diese erg\u00e4nzend zu dem DGM-D verwendet werden.</P><P>(5) F\u00fcr die Berechnung sind f\u00fcr jede L\u00e4rmart dieselben Geb\u00e4ude- und Einwohnerdaten zu verwenden. Gleiches gilt f\u00fcr sonstige Bauwerke auf dem Ausbreitungsweg.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000703125",
+        "name": "\u00a7 6",
+        "title": "\u00dcbermittlung von Daten f\u00fcr den digitalen Informationsaustausch",
+        "parent": null,
+        "body": "<P>(1) Die nach \u00a7 47e Absatz 2 und 3 des Bundes-Immissionsschutzgesetzes zust\u00e4ndigen Beh\u00f6rden \u00fcbermitteln binnen vier Monaten nach den in \u00a7 47c Absatz 1 des Bundes-Immissionsschutzgesetzes aufgef\u00fchrten Fristen dem Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit oder einer von ihm benannten Stelle diejenigen Daten zu L\u00e4rmkarten, die in Anhang VI der Richtlinie 2002/49/EG in ihrer jeweils geltenden Fassung bezeichnet sind.</P><P>(2) Die nach \u00a7 47e Absatz 1 des Bundes-Immissionsschutzgesetzes zust\u00e4ndigen Beh\u00f6rden \u00fcbermitteln zu den in \u00a7 47c Absatz 1 des Bundes-Immissionsschutzgesetzes aufgef\u00fchrten Fristen den obersten Landesbeh\u00f6rden oder den von ihnen benannten Stellen die vollst\u00e4ndigen L\u00e4rmkarten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000801125",
+        "name": "\u00a7 7",
+        "title": "Information der \u00d6ffentlichkeit \u00fcber L\u00e4rmkarten",
+        "parent": null,
+        "body": "<P>Geeignete Ausfertigungen der L\u00e4rmkarten, die der Unterrichtung der \u00d6ffentlichkeit dienen, werden von den zust\u00e4ndigen Beh\u00f6rden nach \u00a7 47e Absatz 1 und 3 des Bundes-Immissionsschutzgesetzes verbreitet. Die Verbreitung der L\u00e4rmkarten hat in f\u00fcr die \u00d6ffentlichkeit verst\u00e4ndlicher Darstellung und leicht zug\u00e4nglichen Formaten zu erfolgen. Erforderlichenfalls ist eine Zusammenfassung mit den wichtigsten Punkten der \u00d6ffentlichkeit zur Verf\u00fcgung zu stellen. F\u00fcr die Verbreitung sollen, soweit vorhanden, elektronische Kommunikationsmittel verwendet werden. Die Anforderungen an die Unterrichtung der \u00d6ffentlichkeit k\u00f6nnen auch dadurch erf\u00fcllt werden, dass Verkn\u00fcpfungen zu Internet-Seiten eingerichtet werden, auf denen die zu verbreitenden L\u00e4rmkarten zu finden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE001100125",
+        "name": "\u00a7 7a",
+        "title": "Zug\u00e4nglichkeit der Normen",
+        "parent": null,
+        "body": "<P>DIN- und ISO-Normen, auf die in dieser Verordnung verwiesen wird, sind bei der Beuth Verlag GmbH, Berlin, zu beziehen. Die DIN- und ISO-Normen sind bei dem Deutschen Patent- und Markenamt, M\u00fcnchen, archivm\u00e4\u00dfig gesichert niedergelegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am 16. M\u00e4rz 2006 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR051600006BJNE001000000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

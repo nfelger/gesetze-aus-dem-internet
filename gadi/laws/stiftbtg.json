@@ -1,0 +1,554 @@
+{
+  "data": {
+    "type": "law",
+    "id": "DDNR014830990",
+    "firstPublished": "1990-09-13",
+    "sourceTimestamp": "20130405133158",
+    "titleShort": "Stiftungsgesetz",
+    "titleLong": "Gesetz \u00fcber die Bildung und T\u00e4tigkeit von Stiftungen",
+    "abbreviation": "StiftBTG",
+    "slug": "stiftbtg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1990, 1483",
+        "periodical": "GBl DDR I"
+      },
+      {
+        "reference": "1990, Nr 61, 1483",
+        "periodical": "GBl DDR I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab:  3.10.1990 +++)</P><P><BR /> In den beigetretenen L\u00e4ndern, soweit es bundesrechltich nicht geregelte Gegenst\u00e4nde betrifft, als Landesrecht fortgeltendes Recht der ehem. Deutschen Demokratischen Republik gem. Art. 3 Nr. 5 EinigVtrVbg v. 18.9.1990 II 1239 nach Ma\u00dfgabe d. Art. 9 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 889 mWv 3.10.1990.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000100307",
+        "name": "I.",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001100307",
+        "name": "\u00a7 1",
+        "title": "Geltungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000100307"
+        },
+        "body": "<P>(1) Dieses Gesetz gilt f\u00fcr die rechtsf\u00e4higen Stiftungen des Privatrechts und des \u00f6ffentlichen Rechts, einschlie\u00dflich kirchlicher Stiftungen, die in der Deutschen Demokratischen Republik bzw. in den L\u00e4ndern Brandenburg, Mecklenburg-Vorpommern, Sachsen, Sachsen/Anhalt, Th\u00fcringen und der ihnen gleichgestellten Stadt Berlin ihren Sitz haben.</P><P>(2) Dieses Gesetz gilt in den in Absatz 1 aufgef\u00fchrten L\u00e4ndern sowie der ihnen gleichgestellten Stadt Berlin solange, bis dort ein anderes Stiftungsgesetz zur Geltung gelangt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001200307",
+        "name": "\u00a7 2",
+        "title": "Auslegungsgrundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000100307"
+        },
+        "body": "<P>Bei der Anwendung dieses Gesetzes ist in erster Linie der Wille des Stifters zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001300307",
+        "name": "\u00a7 3",
+        "title": "Stiftungsbeh\u00f6rde",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000100307"
+        },
+        "body": "<P>(1) Die Landesregierung legt die nach diesem Gesetz zust\u00e4ndigen Stiftungsbeh\u00f6rden fest.</P><P>(2) \u00d6rtlich zust\u00e4ndig ist die Stiftungsbeh\u00f6rde, in deren Bereich die Stiftung ihren Sitz hat oder haben wird. Als Sitz der Stiftung gilt, wenn nichts anderes bestimmt ist, der Ort, an dem die Verwaltung gef\u00fchrt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000200307",
+        "name": "II.",
+        "title": "Stiftungen des Privatrechts",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001400307",
+        "name": "\u00a7 4",
+        "title": "Stiftungserfordernisse",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000200307"
+        },
+        "body": "<P>Zur Entstehung einer rechtsf\u00e4higen Stiftung des Privatrechts bedarf es au\u00dfer eines Stiftungsgesch\u00e4fts der Genehmigung durch die Stiftungsbeh\u00f6rde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000300307",
+        "name": "-",
+        "title": "Stiftungsgesch\u00e4ft",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000200307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001500307",
+        "name": "\u00a7 5",
+        "title": "Stiftungsgesch\u00e4ft",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>(1) Das Stiftungsgesch\u00e4ft unter Lebenden bedarf der schriftlichen Form.</P><P>(2) Bis zur Erteilung der Genehmigung ist der Stifter zum Widerruf berechtigt. Ist die Genehmigung bei der zust\u00e4ndigen Beh\u00f6rde nachgesucht, so kann der Widerruf nur dieser gegen\u00fcber erkl\u00e4rt werden. Der Erbe des Stifters ist zum Widerrufe nicht berechtigt, wenn der Stifter das Gesuch bei der zust\u00e4ndigen Beh\u00f6rde eingereicht oder im Falle der gerichtlichen oder notariellen Beurkundung des Stiftungsgesch\u00e4fts das Gericht oder den Notar bei oder nach der Beurkundung mit der Einreichung betraut hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001600307",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>Wird die Stiftung genehmigt, so ist der Stifter verpflichtet, das in dem Stiftungsgesch\u00e4ft zugesicherte Verm\u00f6gen auf die Stiftung zu \u00fcbertragen. Rechte, zu deren \u00dcbertragung der Abtretungsvertrag gen\u00fcgt, gehen mit der Genehmigung auf die Stiftung \u00fcber, sofern nicht aus dem Stiftungsgesch\u00e4ft sich ein anderer Wille des Stifters ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001700307",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>Besteht das Stiftungsgesch\u00e4ft in einer Verf\u00fcgung von Todes wegen, so hat das Nachla\u00dfgericht die Genehmigung einzuholen, sofern sie nicht von dem Erben oder dem Testamentsvollstrecker nachgesucht wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001800307",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>Wird die Stiftung erst nach dem Tode des Stifters genehmigt, so gilt sie f\u00fcr die Zuwendungen des Stifters als schon vor dessen Tode entstanden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE001900307",
+        "name": "\u00a7 9",
+        "title": "Satzung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>Die Satzung einer Stiftung wird, soweit sie nicht auf den Bestimmungen dieses Gesetzes beruht, durch das Stiftungsgesch\u00e4ft bestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002000307",
+        "name": "\u00a7 10",
+        "title": "Inhalt der Satzung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>(1) Die Satzung einer Stiftung mu\u00df Bestimmungen enthalten \u00fcber den Namen, den Sitz, den Zweck, das Verm\u00f6gen und die Organe der Stiftung.</P><P>(2) Die Satzung soll ferner Regelungen enthalten \u00fcber die Anzahl der Mitglieder der Stiftungsorgane, ihre Bestellung, Amtsdauer und Abberufung, ihren Gesch\u00e4ftsbereich und ihre Vertretungsvollmacht sowie die Einberufung, Beschlu\u00dff\u00e4higkeit und Beschlu\u00dffassung der Stiftungsorgane, die Rechtsstellung der durch die Stiftung Beg\u00fcnstigten, die \u00c4nderung der Stiftungssatzung oder die Aufhebung der Stiftung und den Verm\u00f6gensanfall nach dem Erl\u00f6schen der Stiftung.</P><P>(3) Fehlen Satzungsbestimmungen, kann die Stiftungsbeh\u00f6rde den Stifter oder Antragsteller zu einer entsprechenden Erg\u00e4nzung der Satzung auffordern. Ist der Stifter dazu nicht mehr in der Lage, kann die Stiftungsbeh\u00f6rde die Satzung bei der Genehmigung der Stiftung erg\u00e4nzen; das gilt nicht f\u00fcr Bestimmungen \u00fcber Zweck und Verm\u00f6gen der Stiftung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002100307",
+        "name": "\u00a7 11",
+        "title": "Vorstand",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>(1) Die Stiftung mu\u00df einen Vorstand haben. Der Vorstand kann aus mehreren Personen bestehen.</P><P>(2) Der Vorstand vertritt die Stiftung gerichtlich und au\u00dfergerichtlich; er hat die Stellung eines gesetzlichen Vertreters. Der Umfang seiner Vertretungsmacht kann durch die Satzung mit Wirkung gegen Dritte beschr\u00e4nkt werden.</P><P>(3) F\u00fcr die Gesch\u00e4ftsf\u00fchrung des Vorstandes gelten die Bestimmungen des Vereinsrechts entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002200307",
+        "name": "\u00a7 12",
+        "title": "Haftung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>(1) Verletzen Mitglieder des Vorstandes oder eines anderen Organs der Stiftung schuldhaft ihre Obliegenheiten, so sind sie der Stiftung zum Ersatz des daraus entstehenden Schadens als Gesamtschuldner verpflichtet.</P><P>(2) Mitglieder von Organen der Stiftung, die ohne Entgelt t\u00e4tig sind, haften nur bei vors\u00e4tzlicher oder grob fahrl\u00e4ssiger Verletzung ihrer Pflichten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002300307",
+        "name": "\u00a7 13",
+        "title": "Stiftungsverm\u00f6gen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>(1) In eine Stiftung k\u00f6nnen alle Arten von Verm\u00f6genswerten und Gegenst\u00e4nde eingebracht werden. Insbesondere k\u00f6nnen finanzielle Mittel, Rechte an beweglichen und unbeweglichen Sachen, Forderungen, Kunstwerke und Beteiligungen an Wirtschaftsunternehmen Stiftungseigentum darstellen.</P><P>(2) Die Ertr\u00e4gnisse der Stiftungen k\u00f6nnen sich aus den Anlagen des Stiftungsverm\u00f6gens, daneben aus Spenden, Zuwendungen sowie aus Leistungsentgelten ergeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002400307",
+        "name": "\u00a7 14",
+        "title": "Verm\u00f6gensverwaltung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000300307"
+        },
+        "body": "<P>(1) Die Stiftung ist nach den Gesetzen, dem Stiftungsgesch\u00e4ft und der Stiftungssatzung sparsam und wirtschaftlich zu verwalten. Die Verwaltung dient der dauernden und nachhaltigen Erf\u00fcllung des Stiftungszwecks.</P><P>(2) Das Stiftungsverm\u00f6gen ist in seinem Bestand zu erhalten; es sei denn, da\u00df die Satzung eine Ausnahme zul\u00e4\u00dft und der Stiftungszweck nicht anders zu verwirklichen ist. Das Stiftungsverm\u00f6gen ist von anderem Verm\u00f6gen getrennt zu halten.</P><P>(3) Bei der Verwaltung von Stiftungen sind die Regeln ordentlicher Wirtschaftsf\u00fchrung einzuhalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000400307",
+        "name": "III.",
+        "title": "Genehmigung und Stiftungsaufsicht",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002500307",
+        "name": "\u00a7 15",
+        "title": "Genehmigung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000400307"
+        },
+        "body": "<P>(1) Die Genehmigung einer Stiftung wird durch die Stiftungsbeh\u00f6rde erteilt.</P><P>(2) Die Genehmigung darf nicht unter Auflagen oder Bedingungen erteilt werden.</P><P>(3) Eine Ausfertigung der Stiftungsurkunde, der Satzung und Genehmigung sind bei der Stiftungsbeh\u00f6rde zu hinterlegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002600307",
+        "name": "\u00a7 16",
+        "title": "Versagung der Genehmigung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000400307"
+        },
+        "body": "<P>(1) Die Genehmigung ist zu versagen: <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die Stiftung das Gemeinwohl gef\u00e4hrden w\u00fcrde;</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die dauernde und nachhaltige Erf\u00fcllung des Stiftungszweckes insbesondere wegen unzureichender Mittel nicht gew\u00e4hrleistet ist und auch weitere ausreichende Zuwendungen nicht mit Sicherheit zu erwarten sind.</LA></DD> </DL> </P><P>(2) Die Genehmigung kann versagt werden, wenn das Stiftungsgesch\u00e4ft oder die Satzung keine ausreichenden Bestimmungen \u00fcber Zweck und Verm\u00f6gen der Stiftung enth\u00e4lt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002700307",
+        "name": "\u00a7 17",
+        "title": "Bekanntgabe der Entscheidung und Widerruf",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000400307"
+        },
+        "body": "<P>(1) Die Entscheidung ist dem Antragsteller schriftlich mitzuteilen. Die Versagung der Genehmigung ist zu begr\u00fcnden. Die Genehmigung, der Zeitpunkt der Entstehung der Stiftung und der Stiftungszweck sind in das Stiftungsverzeichnis einzutragen.</P><P>(2) Die Genehmigung ist zu widerrufen, wenn das Stiftungsgesch\u00e4ft unwirksam ist oder mit Erfolg angefochten wird. Der Widerruf ist dem Antragsteller schriftlich mitzuteilen und \u00f6ffentlich bekanntzumachen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002800307",
+        "name": "\u00a7 18",
+        "title": "Rechtsaufsicht",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000400307"
+        },
+        "body": "<P>Die Stiftungen stehen unter der Rechtsaufsicht des Landes, in dem sie ihren Sitz haben. Sie beschr\u00e4nkt sich darauf, zu \u00fcberwachen, da\u00df die Organe der Stiftung die Gesetze, das Stiftungsgesetz und die Stiftungssatzung beachten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE002900307",
+        "name": "\u00a7 19",
+        "title": "T\u00e4tigkeit der Stiftungsbeh\u00f6rde",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000400307"
+        },
+        "body": "<P>(1) Die Stiftungsbeh\u00f6rde ist befugt, sich \u00fcber alle Angelegenheiten der Stiftung zu unterrichten. Sie kann insbesondere Anstalten und Einrichtungen der Stiftung besichtigen, die Gesch\u00e4fts- und Kassenf\u00fchrung pr\u00fcfen oder auf Kosten der Stiftung pr\u00fcfen lassen und Berichte und Akten anfordern.</P><P>(2) Die Stiftungsbeh\u00f6rde kann Ma\u00dfnahmen der Stiftungsorgane, die den Gesetzen, dem Stiftungsgesch\u00e4ft oder der Stiftungssatzung widersprechen, beanstanden und verlangen, da\u00df sie innerhalb einer bestimmten Frist aufgehoben oder r\u00fcckg\u00e4ngig gemacht werden. Unterlassen die Stiftungsorgane vorgesehene Ma\u00dfnahmen, so kann die Stiftungsbeh\u00f6rde f\u00fcr die Durchsetzung der Ma\u00dfnahmen eine Frist setzen und nach deren erfolglosen Ablauf selbst die erforderlichen Ma\u00dfnahmen durchf\u00fchren oder durchf\u00fchren lassen.</P><P>(3) Hat ein Mitglied des Stiftungsorgans sich einer groben Pflichtverletzung schuldig gemacht oder ist es zu einer ordnungsgem\u00e4\u00dfen Gesch\u00e4ftsf\u00fchrung unf\u00e4hig, so kann die Stiftungsbeh\u00f6rde die Abberufung eines Mitglieds und die Berufung eines anderen verlangen. Sie kann dem Mitglied die Gesch\u00e4ftsf\u00fchrung einstweilen untersagen.</P><P>(4) Ist die Stiftung zur Abberufung des Mitglieds nicht in der Lage oder kommt sie innerhalb einer bestimmten Frist dem Verlangen der Stiftungsbeh\u00f6rde nach Absatz 3 Satz 1 nicht nach, so kann die Stiftungsbeh\u00f6rde das Mitglied abberufen und ein anderes an seiner Stelle berufen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003000307",
+        "name": "\u00a7 20",
+        "title": "Stiftungsverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000400307"
+        },
+        "body": "<P>(1) Bei der Stiftungsbeh\u00f6rde ist ein Verzeichnis der in ihrem Zust\u00e4ndigkeitsbereich bestehenden und neu entstehenden Stiftungen (Stiftungsverzeichnis) zu f\u00fchren. In das Stiftungsverzeichnis sind Name, Sitz, Zweck, Vertretungsberechtigung und Zusammensetzung der Organe der Stiftung und der Tag der Erteilung der Genehmigung einzutragen; die Satzung ist zur Eintragung beizuf\u00fcgen. \u00c4nderungen der Satzung sowie die Aufl\u00f6sung der Stiftung sind einzutragen.</P><P>(2) S\u00e4mtliche Stiftungen sind verpflichtet, dem Stiftungsverzeichnis gegen\u00fcber die erforderlichen Angaben und \u00c4nderungen von erheblichen Tatsachen innerhalb einer Frist von 1 Monat nach Eintritt der Wirksamkeit der \u00c4nderung mitzuteilen.</P><P>(3) Eintragungen im Stiftungsverzeichnis begr\u00fcnden nicht die Vermutung ihrer Richtigkeit. Die Einsicht in das Stiftungsverzeichnis ist jedem gestattet, der ein berechtigtes Interesse geltend macht.</P><P>(4) Entstehung und Aufhebung einer Stiftung sowie der Stifter und der Stiftungszweck sind \u00f6ffentlich bekannt zu machen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000500307",
+        "name": "IV.",
+        "title": "Satzungs\u00e4nderung und Beendigung der\nStiftungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003100307",
+        "name": "\u00a7 21",
+        "title": "Satzungs\u00e4nderung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000500307"
+        },
+        "body": "<P>(1) Wenn die Satzung dies vorsieht oder wenn sich die Verh\u00e4ltnisse seit der Errichtung der Stiftung wesentlich ge\u00e4ndert haben, kann die Satzung ge\u00e4ndert oder die Stiftung mit einer anderen Stiftung zusammengelegt werden.</P><P>(2) Zu Lebzeiten des Stifters ist dessen Zustimmung erforderlich. In Rechte derer, die durch die Stiftung beg\u00fcnstigt sind, darf nicht eingegriffen werden.</P><P>(3) Ma\u00dfnahmen nach Absatz 1 werden von den zur Verwaltung der Stiftung berufenen Organen getroffen. Die Ma\u00dfnahmen bed\u00fcrfen der Genehmigung der Stiftungsbeh\u00f6rde.</P><P>(4) Eine Sitzverlegung in das oder aus dem Land bedarf auch dann der Genehmigung durch die Stiftungsbeh\u00f6rde, wenn die Sitzverlegung nach dem Recht des bisherigen oder des zuk\u00fcnftigen Sitzes von der dort zust\u00e4ndigen Beh\u00f6rde zu genehmigen ist.</P><P>(5) Mit der Genehmigung der Zusammenlegung wird die neue Stiftung rechtsf\u00e4hig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003200307",
+        "name": "\u00a7 22",
+        "title": "Zweck\u00e4nderung und Aufhebung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000500307"
+        },
+        "body": "<P>(1) Ist die Erf\u00fcllung des Stiftungszweckes unm\u00f6glich geworden oder gef\u00e4hrdet sie das Gemeinwohl, so kann die Stiftungsbeh\u00f6rde der Stiftung eine andere Zweckbestimmung geben oder sie aufheben.</P><P>(2) Bei der Umwandlung des Zweckes ist die Absicht des Stifters zu ber\u00fccksichtigen, insbesondere daf\u00fcr Sorge zu tragen, da\u00df die Ertr\u00e4ge des Stiftungsverm\u00f6gens dem Personenkreis, dem sie zustatten kommen sollten, im Sinne des Stifters tunlichst erhalten bleiben. Die Beh\u00f6rde kann die Satzung der Stiftung \u00e4ndern, soweit die Umwandlung des Zweckes es erfordert.</P><P>(3) Vor der Umwandlung des Zweckes und der \u00c4nderung der Satzung soll der Vorstand der Stiftung geh\u00f6rt werden.</P><P>(4) Die Aufhebung der Stiftung durch den Vorstand bedarf der Genehmigung der Stiftungsbeh\u00f6rde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003300307",
+        "name": "\u00a7 23",
+        "title": "Verm\u00f6gensanfall",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000500307"
+        },
+        "body": "<P>(1) Ist f\u00fcr den Fall des Erl\u00f6schens einer Stiftung in der Satzung weder ein Anfallberechtigter bestimmt noch einem Stiftungsorgan die Bestimmung des Anfallberechtigten \u00fcbertragen, so f\u00e4llt das Verm\u00f6gen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer kommunalen Stiftung an die kommunale K\u00f6rperschaft,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer kirchlichen Stiftung an die aufsichtsf\u00fchrende Kirche,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">aller anderen Stiftungen an das Land.</LA></DD> </DL> </P><P>(2) Die Anfallberechtigten haben das Verm\u00f6gen tunlichst in einer den Zwecken der Stiftung entsprechenden Weise zu verwenden.</P><P>(3) F\u00e4llt das Verm\u00f6gen nicht an ein staatliches Organ, findet eine Liquidation in entsprechender Anwendung der Bestimmungen \u00fcber das Vereinsrecht statt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000600307",
+        "name": "V.",
+        "title": "Stiftungen \u00f6ffentlichen Rechts",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003400307",
+        "name": "\u00a7 24",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000600307"
+        },
+        "body": "<P>(1) Stiftungen des \u00f6ffentlichen Rechts sind Stiftungen, die ausschlie\u00dflich \u00f6ffentliche Zwecke verfolgen und mit dem Land ihres Sitzes oder einer anderen \u00f6ffentlich-rechtlichen Gebiets-K\u00f6rperschaft oder einer sonstigen K\u00f6rperschaft oder Anstalt des \u00f6ffentlichen Rechts in einem organischen Zusammenhang stehen.</P><P>(2) Eine Stiftung des \u00f6ffentlichen Rechts entsteht durch den Stiftungsakt eines Tr\u00e4gers hoheitlicher Gewalt oder durch Rechtsvorschrift. Ihre Bildung ist der Stiftungsbeh\u00f6rde zur Eintragung in das Stiftungsverzeichnis mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000700307",
+        "name": "VI.",
+        "title": "Kommunale Stiftungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003500307",
+        "name": "\u00a7 25",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000700307"
+        },
+        "body": "<P>(1) Kommunale Stiftungen sind solche, deren Zweck im Rahmen der jeweiligen kommunalen Aufgaben liegt und nicht wesentlich \u00fcber den r\u00e4umlichen Bereich der Gebietsk\u00f6rperschaft hinauswirkt.</P><P>(2) Die Vertretung und Verwaltung der kommunalen Stiftungen obliegt, soweit nicht durch Satzung anderes bestimmt ist, den f\u00fcr die Vertretung und Verwaltung der Kommunen zust\u00e4ndigen Organen.</P><P>(3) Die Stiftungsaufsicht wird durch die kommunale Aufsichtsbeh\u00f6rde wahrgenommen, soweit durch die Landesregierung nichts anderes bestimmt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000800307",
+        "name": "VII.",
+        "title": "Kirchliche Stiftungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003600307",
+        "name": "\u00a7 26",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000800307"
+        },
+        "body": "<P>(1) Kirchliche Stiftungen im Sinne dieses Gesetzes sind Stiftungen, die ausschlie\u00dflich oder \u00fcberwiegend dazu bestimmt sind, kirchliche Aufgaben zu erf\u00fcllen und von einer Kirche errichtet oder organisatorisch mit einer Kirche verbunden oder in der Stiftungssatzung der kirchlichen Aufsicht unterstellt oder deren Zwecke nur sinnvoll in Verbindung mit einer Kirche zu erf\u00fcllen sind.</P><P>(2) Die Bestimmungen \u00fcber kirchliche Stiftungen gelten entsprechend f\u00fcr Stiftungen der j\u00fcdischen Religionsgemeinschaft und anderer Religionsgemeinschaften, die K\u00f6rperschaften des \u00f6ffentlichen Rechts sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003700307",
+        "name": "\u00a7 27",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000800307"
+        },
+        "body": "<P>(1) Eine kirchliche Stiftung ist auf Antrag der zust\u00e4ndigen Kirchenbeh\u00f6rde zu genehmigen, wenn die Verwirklichung des Stiftungszwecks aus dem Ertrag des Stiftungsverm\u00f6gens gesichert erscheint oder von der Kirche gew\u00e4hrleistet wird.</P><P>(2) Eine Stiftung darf nicht ohne Zustimmung der zust\u00e4ndigen Kirchenbeh\u00f6rde als kirchliche Stiftung genehmigt werden. Das gleiche gilt f\u00fcr die Aufhebung oder Umwandlung einer kirchlichen Stiftung.</P><P>(3) Kirchliche Stiftungen unterliegen nicht der Staatsaufsicht, wenn sie kirchlichen Vorschriften entsprechend von der zust\u00e4ndigen Kirchenbeh\u00f6rde beaufsichtigt werden. Der Erla\u00df allgemeiner Vorschriften \u00fcber Namen, Sitz, Zweck, Vertretung, Verwaltung und Beaufsichtigung kirchlicher Stiftungen ist Aufgabe der Kirche.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG000900307",
+        "name": "VIII.",
+        "title": "Nichtrechtsf\u00e4hige Stiftungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003800307",
+        "name": "\u00a7 28",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG000900307"
+        },
+        "body": "<P>(1) Eine nichtrechtsf\u00e4hige Stiftung ist eine Verm\u00f6gensmasse, die einem bestimmten Zweck gewidmet ist aber keine Rechtsperson darstellt, sondern nach dem Willen des Stifters auf eine juristische Person des Privatrechts oder \u00f6ffentlichen Rechts zur treuh\u00e4nderischen Verwaltung \u00fcbertragen worden ist. Ihre gesetzliche Vertretung erfolgt durch die juristische Person, der die Stiftung zugeordnet ist. Diese hat Stifter und Stiftungszweck der Stiftungsbeh\u00f6rde mitzuteilen.</P><P>(2) Im \u00fcbrigen gelten die Bestimmungen \u00fcber die privatrechtliche Stiftung entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014830990BJNG001000307",
+        "name": "IX.",
+        "title": "\u00dcbergangs- und Schlu\u00dfbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE003900307",
+        "name": "\u00a7 29",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG001000307"
+        },
+        "body": "<P>Die bei Inkrafttreten dieses Gesetzes bestehenden Stiftungen bestehen fort. F\u00fcr ihre k\u00fcnftigen Rechtsverh\u00e4ltnisse sind die Vorschriften dieses Gesetzes anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE004000307",
+        "name": "\u00a7 30",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG001000307"
+        },
+        "body": "<P>(1) Bestehende Stiftungen haben der zust\u00e4ndigen Stiftungsbeh\u00f6rde innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes Name, Sitz, Zweck, Vertretungsberechtigung und Zusammensetzung der Organe und, soweit m\u00f6glich, den Tag der Erteilung der Genehmigung und die erteilende Stelle mitzuteilen sowie ihre Satzung vorzulegen.</P><P>(2) Stiftungen, die keine Satzung oder eine den zwingenden Vorschriften dieses Gesetzes nicht entsprechende Satzung haben, sind verpflichtet, der zust\u00e4ndigen Stiftungsbeh\u00f6rde innerhalb der in Absatz 1 genannten Frist eine Satzung vorzulegen, die mit den zwingenden Vorschriften dieses Gesetzes \u00fcbereinstimmt. Zust\u00e4ndig sind hierf\u00fcr die in der Satzung oder dem Stiftungsgesch\u00e4ft f\u00fcr den Erla\u00df oder die \u00c4nderung der Satzung bestimmten Organe. Fehlt eine solche Bestimmung, ist das oberste Beschlu\u00dforgan der Stiftung zust\u00e4ndig. Die Satzung bedarf der Genehmigung der Stiftungsbeh\u00f6rde. Die Genehmigung gilt als erteilt, wenn die Stiftungsbeh\u00f6rde die Satzung nicht innerhalb von sechs Monaten, nachdem ihr die Satzung vorgelegt wurde, beanstandet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE004100307",
+        "name": "\u00a7 31",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG001000307"
+        },
+        "body": "<P>Bestehen Zweifel \u00fcber die Rechtsnatur einer Stiftung, die f\u00fcr sie geltende Satzung oder die Stiftungsverwaltung, so entscheidet dar\u00fcber die Stiftungsbeh\u00f6rde. Sie kann der Stiftung eine andere Zweckbestimmung geben oder die Stiftung aufl\u00f6sen. Bei der Umwandlung des Stiftungszwecks ist die Absicht des Stifters tunlichst zu ber\u00fccksichtigen; die Stiftungsbeh\u00f6rde kann in diesem Fall, soweit erforderlich, die Satzung der Stiftung \u00e4ndern. Der Vorstand der Stiftung soll geh\u00f6rt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE004200307",
+        "name": "\u00a7 32",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG001000307"
+        },
+        "body": "<P>(1) Dieses Gesetz tritt am 24. September 1990 in Kraft.</P><P>(2) <I>\u00a7 9 des Einf\u00fchrungsgesetzes zum Zivilgesetzbuch vom 19. Juni 1975 (GBl. I Nr. 27 S. 517) wird aufgehoben.</I></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 32 Abs. 2 Kursivdruck: Aufhebungsvorschrift</P>"
+      },
+      {
+        "type": "article",
+        "id": "DDNR014830990BJNE004300307",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014830990BJNG001000307"
+        },
+        "body": "<P><B>Die Pr\u00e4sidentin der Volkskammer der Deutschen Demokratischen Republik</B></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

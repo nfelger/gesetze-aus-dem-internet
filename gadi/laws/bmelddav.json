@@ -1,0 +1,101 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR195500014",
+    "firstPublished": "2014-12-01",
+    "sourceTimestamp": "20210730213039",
+    "titleShort": "Bundesmeldedatenabrufverordnung",
+    "titleLong": "Verordnung zu Voraussetzungen von automatisierten Meldedatenabrufen durch Beh\u00f6rden oder sonstige \u00f6ffentliche Stellen des Bundes und der L\u00e4nder",
+    "abbreviation": "BMeldDAV",
+    "slug": "bmelddav",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2014, 1955",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "V aufgeh. durch \u00a7 12 Satz 2 V 210-7-7 v. 27.7.2021 I 3209 mWv 1.5.2022",
+        "category": "Aufh"
+      },
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 85 V v. 19.6.2020 I 1328",
+        "category": "Stand"
+      },
+      {
+        "comment": "Ersetzt durch V 2010-7-7 v. 27.7.2021 I 3209 (BMeldDAV 2022)",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.11.2015 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR195500014BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 56 Absatz 1 Nummer 3 und Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084) verordnet das Bundesministerium des Innern:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR195500014BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Allgemeines",
+        "parent": null,
+        "body": "<P>(1) Diese Verordnung regelt die technischen Voraussetzungen f\u00fcr automatisierte Abrufe von Meldedaten durch Beh\u00f6rden oder sonstige \u00f6ffentliche Stellen des Bundes sowie der L\u00e4nder, soweit sie l\u00e4nder\u00fcbergreifend erfolgen, nach den \u00a7\u00a7 38 und 39 des Bundesmeldegesetzes.</P><P>(2) Die Auswahldaten f\u00fcr Abrufe sowie Daten und Hinweise zur \u00dcbermittlung im automatisierten Abruf ergeben sich aus \u00a7 38 Absatz 1, 3 und 4 des Bundesmeldegesetzes sowie aus Bundes- und Landesrecht auf der Grundlage von \u00a7 38 Absatz 5 des Bundesmeldegesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR195500014BJNE000301116",
+        "name": "\u00a7 2",
+        "title": "Verfahren des Datenabrufes",
+        "parent": null,
+        "body": "<P>(1) Datenabrufe nach den \u00a7\u00a7 38 und 39 des Bundesmeldegesetzes erfolgen elektronisch unter Zugrundelegung des Datenaustauschformats OSCI-XMeld und Nutzung des \u00dcbermittlungsprotokolls OSCI-Transport in der im Bundesanzeiger jeweils bekannt gemachten geltenden Fassung. \u00a7 3 des Gesetzes \u00fcber die Verbindung der informationstechnischen Netze des Bundes und der L\u00e4nder \u2013 Gesetz zur Ausf\u00fchrung von Artikel 91c Absatz 4 des Grundgesetzes \u2013 vom 10. August 2009 (BGBl. I S. 2702, 2706) in der jeweils geltenden Fassung bleibt unber\u00fchrt. Soweit bei der Nutzung des Verbindungsnetzes gleichwertige Funktionalit\u00e4ten zur Verf\u00fcgung stehen, kann bis zum 30. April 2018 auf die Verwendung des \u00dcbermittlungsprotokolls OSCI-Transport verzichtet werden.</P><P>(2) Bei Datenabrufen \u00fcber das Internet sind die zu \u00fcbermittelnden Daten mit einer fortgeschrittenen elektronischen Signatur zu versehen und nach dem jeweiligen Stand der Technik zu verschl\u00fcsseln.</P><P>(3) Betreiben mehrere L\u00e4nder gemeinsam eine Vermittlungsstelle, kann bei Datenabrufen auch ein anderes \u00dcbermittlungsprotokoll eingesetzt werden, wenn es dem \u00dcbermittlungsprotokoll OSCI-Transport hinsichtlich der Sicherstellung der Vertraulichkeit, Integrit\u00e4t und Authentizit\u00e4t der \u00fcbertragenen Daten gleichwertig ist. Die Gleichwertigkeit ist durch die verantwortliche Stelle zu dokumentieren.</P><P>(4) Bei der Daten\u00fcbermittlung innerhalb von Rechenzentren und besonders gesicherter verwaltungseigener Netze kann auf die Verwendung des \u00dcbermittlungsprotokolls OSCI-Transport verzichtet werden, wenn durch technische und organisatorische Ma\u00dfnahmen gew\u00e4hrleistet ist, dass die Sicherheitseigenschaften denen des OSCI-Transports gleichwertig sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR195500014BJNE000402116",
+        "name": "\u00a7 3",
+        "title": "Standards der Daten\u00fcbermittlung",
+        "parent": null,
+        "body": "<P>(1) OSCI-XMeld ist der am 23. Juli 2003 auf der Grundlage des Datensatzes f\u00fcr das Meldewesen \u2013 Einheitlicher Bundes-/L\u00e4nderteil \u2013 (DSMeld) herausgegebene Standard einer technischen Beschreibung des Datensatzes f\u00fcr Daten\u00fcbermittlung im Bereich des Meldewesens.</P><P>(2) OSCI-Transport ist der am 6. Juni 2002 herausgegebene Standard f\u00fcr ein Daten\u00fcbermittlungsprotokoll.</P><P>(3) Der von der Koordinierungsstelle f\u00fcr IT-Standards (KoSIT) am 1. Mai 2014 herausgegebene DSMeld legt Form und Inhalt der zu \u00fcbermittelnden Daten fest.</P><P>(4) Das Datenaustauschformat OSCI-XMeld, das \u00dcbermittlungsprotokoll OSCI-Transport und der DSMeld sind beim Bundesarchiv, Potsdamer Stra\u00dfe 1, 56075 Koblenz, archivm\u00e4\u00dfig gesichert niedergelegt und der \u00d6ffentlichkeit zug\u00e4nglich. Sie k\u00f6nnen beim Informationstechnikzentrum Bund (ITZBund), Dienstsitz Bonn, An der K\u00fcppe 2, 53225 Bonn, bezogen werden.</P><P>(5) \u00c4nderungen des Datenaustauschformats OSCI-XMeld, des \u00dcbermittlungsprotokolls OSCI-Transport sowie des DSMeld werden vom Bundesministerium des Innern, f\u00fcr Bau und Heimat im Bundesanzeiger bekannt gemacht. In der Bekanntmachung sind das Herausgabedatum und der Beginn der Anwendung anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR195500014BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am 1. November 2015 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR195500014BJNE000600000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

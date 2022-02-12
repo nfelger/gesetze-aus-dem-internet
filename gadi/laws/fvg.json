@@ -1,0 +1,635 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR014270971",
+    "firstPublished": "1971-08-30",
+    "sourceTimestamp": "20211231214619",
+    "titleShort": "Finanzverwaltungsgesetz",
+    "titleLong": "Gesetz \u00fcber die Finanzverwaltung",
+    "abbreviation": "FVG",
+    "slug": "fvg",
+    "extraAbbreviations": [
+      "FVG 1971"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1971, 1426, 1427",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 4.4.2006 I 846, 1202;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 8 G v. 25.6.2021 I 2056",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1980 +++)<BR /><BR /></pre>Inkrafttreten d. Neufassung vgl. Art. 17 FAnpG 600-4</P><P><BR /> Das G wurde als Artikel 5 G 600-4 v. 30.8.1971 I 1426 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 17 dieses G am 3.9.1971 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR014270971BJNG000101301",
+        "name": "Abschnitt I",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE000720123",
+        "name": "\u00a7 1",
+        "title": "Bundesfinanzbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000101301"
+        },
+        "body": "<P>Bundesfinanzbeh\u00f6rden sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als oberste Beh\u00f6rde:</LA><LA Size=\"normal\">das Bundesministerium der Finanzen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Oberbeh\u00f6rden:</LA><LA Size=\"normal\">das Bundeszentralamt f\u00fcr Steuern, das Informationstechnikzentrum Bund und die Generalzolldirektion;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">als \u00f6rtliche Beh\u00f6rden:</LA><LA Size=\"normal\">die Hauptzoll\u00e4mter einschlie\u00dflich ihrer Dienststellen (Zoll\u00e4mter) und die Zollfahndungs\u00e4mter.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE000805123",
+        "name": "\u00a7 2",
+        "title": "Landesfinanzbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000101301"
+        },
+        "body": "<P>(1) Landesfinanzbeh\u00f6rden sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als oberste Beh\u00f6rde:</LA><LA Size=\"normal\">die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Oberbeh\u00f6rden, soweit nach diesem Gesetz oder nach Landesrecht als Landesfinanzbeh\u00f6rden eingerichtet;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Mittelbeh\u00f6rden, soweit eingerichtet:</LA><LA Size=\"normal\">die Oberfinanzdirektionen; anstelle der Oberfinanzdirektionen k\u00f6nnen Oberbeh\u00f6rden nach Nummer 2 oder andere nach Landesrecht eingerichtete Mittelbeh\u00f6rden treten;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">als \u00f6rtliche Beh\u00f6rden:</LA><LA Size=\"normal\">die Finanz\u00e4mter.</LA></DD></DL></P><P>(2) Durch Rechtsverordnung der zust\u00e4ndigen Landesregierung kann ein Rechenzentrum der Landesfinanzverwaltung als Teil der f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rde, als Oberbeh\u00f6rde oder als Teil einer Oberbeh\u00f6rde, die nach Landesrecht als Landesfinanzbeh\u00f6rde nach Absatz 1 Nr. 2 oder 3 eingerichtet ist, als Teil einer Mittelbeh\u00f6rde, als Finanzamt oder als Teil eines Finanzamtes eingerichtet werden. Die Landesregierung kann die Erm\u00e4chtigung durch Rechtsverordnung auf die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde \u00fcbertragen. Soweit ein Rechenzentrum der Finanzverwaltung eingerichtet ist, k\u00f6nnen ihm weitere Aufgaben, auch aus dem Gesch\u00e4ftsbereich einer anderen obersten Landesbeh\u00f6rde, \u00fcbertragen werden.</P><P>(3) Durch Rechtsverordnung der zust\u00e4ndigen Landesregierung k\u00f6nnen f\u00fcr Kassengesch\u00e4fte andere \u00f6rtliche Landesbeh\u00f6rden zu Landesfinanzbeh\u00f6rden bestimmt werden (besondere Landesfinanzbeh\u00f6rden). Absatz 2 Satz 2 ist anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003505123",
+        "name": "\u00a7 2a",
+        "title": "Verzicht auf Mittelbeh\u00f6rden, Aufgabenwahrnehmung durch andere Finanzbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000101301"
+        },
+        "body": "<P>(1) Durch Rechtsverordnung kann auf Mittelbeh\u00f6rden verzichtet werden. Die Rechtsverordnung erl\u00e4sst f\u00fcr den Bereich von Aufgaben des Landes die zust\u00e4ndige Landesregierung. Die Landesregierung kann die Erm\u00e4chtigung durch Rechtsverordnung auf die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde \u00fcbertragen.</P><P>(2) Wird auf Mittelbeh\u00f6rden verzichtet, gehen die diesen zugewiesenen Aufgaben der Landesfinanzverwaltung auf die oberste Beh\u00f6rde nach \u00a7 2 Abs. 1 Nr. 1 \u00fcber. Durch Rechtsverordnung der zust\u00e4ndigen Landesregierung k\u00f6nnen Landesaufgaben nach Satz 1 einer anderen Landesfinanzbeh\u00f6rde \u00fcbertragen werden. Die Landesregierung kann die Erm\u00e4chtigung durch Rechtsverordnung auf die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003602301",
+        "name": "\u00a7 2b",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000101301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE000904311",
+        "name": "\u00a7 3",
+        "title": "Leitung der Finanzverwaltung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000101301"
+        },
+        "body": "<P>(1) Das Bundesministerium der Finanzen leitet die Bundesfinanzverwaltung. Soweit die Bundesfinanzbeh\u00f6rden Aufgaben aus dem Gesch\u00e4ftsbereich eines anderen Bundesministeriums zu erledigen haben, erteilt dieses die fachlichen Weisungen. Fachliche Weisungen, die wesentliche organisatorische Auswirkungen haben, ergehen im Benehmen mit dem Bundesministerium der Finanzen.</P><P>(2) Die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde leitet die Landesfinanzverwaltung. Soweit Landesfinanzbeh\u00f6rden Aufgaben aus dem Gesch\u00e4ftsbereich einer anderen obersten Landesbeh\u00f6rde zu erledigen haben, erteilt diese die fachlichen Weisungen. Fachliche Weisungen, die wesentliche organisatorische Auswirkungen haben, ergehen im Benehmen mit der f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014270971BJNG000201301",
+        "name": "Abschnitt II",
+        "title": "Oberbeh\u00f6rden",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001003377",
+        "name": "\u00a7 4",
+        "title": "Sitz und Aufgaben der Bundesoberbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000201301"
+        },
+        "body": "<P>(1) Das Bundesministerium der Finanzen bestimmt den Sitz der Bundesoberbeh\u00f6rden, soweit durch Gesetz nichts anderes bestimmt ist.</P><P>(2) Die Bundesoberbeh\u00f6rden erledigen in eigener Zust\u00e4ndigkeit Aufgaben, die ihnen durch dieses Gesetz, durch andere oder aufgrund anderer Bundesgesetze zugewiesen werden.</P><P>(3) Die Bundesoberbeh\u00f6rden erledigen als beauftragte Beh\u00f6rden Aufgaben des Bundes, mit deren Durchf\u00fchrung sie vom Bundesministerium der Finanzen oder mit dessen Zustimmung von dem fachlich zust\u00e4ndigen Bundesministerium beauftragt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE005109123",
+        "name": "\u00a7 5",
+        "title": "Aufgaben des Bundeszentralamtes f\u00fcr Steuern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000201301"
+        },
+        "body": "<P>(1) Das Bundeszentralamt f\u00fcr Steuern hat unbeschadet des \u00a7 4 Abs. 2 und 3 folgende Aufgaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Mitwirkung an Au\u00dfenpr\u00fcfungen (\u00a7 19);</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erstattung von Kapitalertragsteuer und von im Wege des Steuerabzugs nach \u00a7 50a des Einkommensteuergesetzes erhobener Steuer an beschr\u00e4nkt Steuerpflichtige, soweit die Einkommensteuer oder die K\u00f6rperschaftsteuer mit dem Steuerabzug abgegolten ist und die beschr\u00e4nkte Steuerpflicht nicht auf \u00a7 2 Nummer 2 des K\u00f6rperschaftsteuergesetzes beruht;</LA></DD><DT>2a.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entgegennahme der Antr\u00e4ge nach \u00a7 1a Absatz 1 Satz 4 des K\u00f6rperschaftsteuergesetzes und Ber\u00fccksichtigung des Status der optierenden Gesellschaft in den Verfahren zur Entlastung von deutschen Abzugsteuern (Erstattungen und Freistellungen) auf Grund von Abkommen zur Vermeidung der Doppelbesteuerung;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entlastung bei deutschen Besitz- oder Verkehrsteuern gegen\u00fcber internationalen Organisationen, amtlichen zwischenstaatlichen Einrichtungen, ausl\u00e4ndischen Missionen, berufskonsularischen Vertretungen und deren Mitgliedern auf Grund v\u00f6lkerrechtlicher Vereinbarung oder besonderer gesetzlicher Regelung nach n\u00e4herer Weisung des Bundesministeriums der Finanzen sowie die Durchf\u00fchrung des Besteuerungsverfahrens nach \u00a7 18 Absatz 5a des Umsatzsteuergesetzes einschlie\u00dflich der damit im Zusammenhang stehenden T\u00e4tigkeiten f\u00fcr ausl\u00e4ndische Missionen, berufskonsularische Vertretungen und deren Mitglieder;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Besteuerung von Investmentfonds und Spezial-Investmentfonds sowie die Feststellung der Besteuerungsgrundlagen von Spezial-Investmentfonds, soweit es nach \u00a7 4 Absatz 2 Nummer 2 des Investmentsteuergesetzes zust\u00e4ndig ist. Daneben stellt das Bundeszentralamt f\u00fcr Steuern auf Anforderung den f\u00fcr die Besteuerung von Investmentfonds, Spezial-Investmentfonds oder deren Anlegern zust\u00e4ndigen Landesfinanzbeh\u00f6rden seine Erkenntnisse \u00fcber ausl\u00e4ndische Rechtsformen und ausl\u00e4ndisches Recht zur Verf\u00fcgung;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aus\u00fcbung der Funktion der zust\u00e4ndigen Beh\u00f6rde auf dem Gebiet der steuerlichen Rechts- und Amtshilfe und bei der Durchf\u00fchrung von Verst\u00e4ndigungs- und Schiedsverfahren im Einvernehmen mit der zust\u00e4ndigen obersten Landesfinanzbeh\u00f6rde oder mit der von dieser beauftragten Beh\u00f6rde nach den Doppelbesteuerungsabkommen, dem \u00dcbereinkommen Nr. 90/436/EWG \u00fcber die Beseitigung der Doppelbesteuerung im Falle von Gewinnberichtigungen zwischen verbundenen Unternehmen (ABl. L 225 vom 20.8.1990, S. 10) in der jeweils geltenden Fassung und dem EU-Doppelbesteuerungsabkommen-Streitbeilegungsgesetz vom 10. Dezember 2019 (BGBl. I S. 2103) in der jeweils geltenden Fassung und bei der Durchf\u00fchrung von Vorabverst\u00e4ndigungsverfahren nach \u00a7 89a der Abgabenordnung, soweit das zust\u00e4ndige Bundesministerium seine Befugnisse in diesem Bereich delegiert;</LA></DD><DT>5a.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entgegennahme und Weiterleitung von Meldungen nach auf der Grundlage von \u00a7 117c der Abgabenordnung ergangenen Rechtsverordnungen und die Durchf\u00fchrung von Bu\u00dfgeldverfahren in den F\u00e4llen des \u00a7 379 Absatz 2 Nummer 1b der Abgabenordnung sowie die Auswertung dieser Meldungen im Rahmen der dem Bundeszentralamt f\u00fcr Steuern gesetzlich \u00fcbertragenen Aufgaben;</LA></DD><DT>5b.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entgegennahme und Weiterleitung von Meldungen und Auswertungen im Rahmen der nach \u00a7 2 des Gesetzes zum automatischen Austausch von Informationen \u00fcber Finanzkonten in Steuersachen auszutauschenden Informationen und die Durchf\u00fchrung von Bu\u00dfgeldverfahren nach \u00a7 28 des vorgenannten Gesetzes;</LA></DD><DT>5c.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einstellung von Informationen zu grenz\u00fcberschreitenden Vorbescheiden oder Vorabverst\u00e4ndigungen \u00fcber die Verrechnungspreisgestaltung gem\u00e4\u00df \u00a7 7 Absatz 3 bis 5 des EU-Amtshilfegesetzes in das Zentralverzeichnis der Mitgliedstaaten der Europ\u00e4ischen Union gem\u00e4\u00df Artikel 21 Absatz 5 der Richtlinie 2011/16/EU des Rates vom 15. Februar 2011 \u00fcber die Zusammenarbeit der Verwaltungsbeh\u00f6rden im Bereich der Besteuerung und zur Aufhebung der Richtlinie 77/799/EWG (ABl. L 64 vom 11.3.2011, S. 1) in der jeweils geltenden Fassung sowie die Entgegennahme der von den anderen Mitgliedstaaten der Europ\u00e4ischen Union in das Zentralverzeichnis eingestellten Informationen im Sinne des Artikels 8a der Richtlinie 2011/16/EU und ihre Weiterleitung an die jeweils zust\u00e4ndige Landesfinanzbeh\u00f6rde nach Ma\u00dfgabe des \u00a7 7 Absatz 9 des EU-Amtshilfegesetzes;</LA></DD><DT>5d.</DT><DD Font=\"normal\"><LA Size=\"normal\">die automatische \u00dcbermittlung der l\u00e4nderbezogenen Berichte, die dem Bundeszentralamt f\u00fcr Steuern hierzu von den Unternehmen nach \u00a7 138a Absatz 6 der Abgabenordnung \u00fcbermittelt worden sind, an <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die jeweils zust\u00e4ndige Landesfinanzbeh\u00f6rde,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die zust\u00e4ndigen Beh\u00f6rden der Vertragsstaaten der am 27. Januar 2016 unterzeichneten \u201eMehrseitigen Vereinbarung zwischen den zust\u00e4ndigen Beh\u00f6rden \u00fcber den Austausch l\u00e4nderbezogener Berichte\u201c (BGBl. 2016 II S. 1178, 1179),</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die zust\u00e4ndigen Beh\u00f6rden der anderen Mitgliedstaaten gem\u00e4\u00df Artikel 8aa der Richtlinie 2011/16/EU sowie</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die zust\u00e4ndigen Beh\u00f6rden der Drittstaaten, mit denen die Bundesrepublik Deutschland ein Abkommen \u00fcber den steuerlichen Informationsaustausch geschlossen hat, nach dem ein automatischer Austausch von Informationen vereinbart werden kann;</LA></DD></DL></LA></DD><DT>5e.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entgegennahme und Weiterleitung <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der l\u00e4nderbezogenen Berichte, die dem zentralen Verbindungsb\u00fcro von den zust\u00e4ndigen Beh\u00f6rden der anderen Mitgliedstaaten gem\u00e4\u00df Artikel 8aa der Richtlinie 2011/16/EU \u00fcbersandt wurden, an die zust\u00e4ndigen Landesfinanzbeh\u00f6rden,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der l\u00e4nderbezogenen Berichte im Sinne des \u00a7 138a Absatz 2 der Abgabenordnung, die dem zentralen Verbindungsb\u00fcro von den zust\u00e4ndigen Beh\u00f6rden der Vertragsstaaten der am 27. Januar 2016 unterzeichneten \u201eMehrseitigen Vereinbarung zwischen den zust\u00e4ndigen Beh\u00f6rden \u00fcber den Austausch l\u00e4nderbezogener Berichte\u201c (BGBl. 2016 II S. 1178, 1179) \u00fcbermittelt wurden, an die jeweils zust\u00e4ndige Landesfinanzbeh\u00f6rde sowie</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der l\u00e4nderbezogenen Berichte im Sinne des \u00a7 138a Absatz 2 der Abgabenordnung, die dem zentralen Verbindungsb\u00fcro von den zust\u00e4ndigen Beh\u00f6rden der Drittstaaten, mit denen die Bundesrepublik Deutschland ein Abkommen \u00fcber den steuerlichen Informationsaustausch geschlossen hat, nach dem ein automatischer Austausch von Informationen vereinbart werden kann, \u00fcbermittelt wurden, an die jeweils zust\u00e4ndige Landesfinanzbeh\u00f6rde;</LA></DD></DL></LA></DD><DT>5f.</DT><DD Font=\"normal\"><LA Size=\"normal\">die automatische \u00dcbermittlung von Informationen zu grenz\u00fcberschreitenden Steuergestaltungen gem\u00e4\u00df \u00a7 7 Absatz 13 des EU-Amtshilfegesetzes sowie die Entgegennahme von Informationen im Sinne des Artikels 8ab der Richtlinie 2011/16/EU gem\u00e4\u00df \u00a7 7 Absatz 14 des EU-Amtshilfegesetzes;</LA></DD><DT>5g.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Auswertung der Informationen nach den Nummern 5c, 5d, 5e und 5f im Rahmen der dem Bundeszentralamt f\u00fcr Steuern gesetzlich \u00fcbertragenen Aufgaben; Auswertungen der Informationen nach den Nummern 5c, 5d, 5e und 5f durch die jeweils zust\u00e4ndige Landesfinanzbeh\u00f6rde bleiben hiervon unber\u00fchrt;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zentrale Sammlung und Auswertung von Unterlagen \u00fcber steuerliche Auslandsbeziehungen nach n\u00e4herer Weisung des Bundesministeriums der Finanzen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Personen, die nicht im Geltungsbereich dieses Gesetzes ans\u00e4ssig sind, die Bestimmung des f\u00fcr die Besteuerung \u00f6rtlich zust\u00e4ndigen Finanzamts, wenn sich mehrere Finanz\u00e4mter f\u00fcr \u00f6rtlich zust\u00e4ndig oder f\u00fcr \u00f6rtlich unzust\u00e4ndig halten oder wenn sonst Zweifel \u00fcber die \u00f6rtliche Zust\u00e4ndigkeit bestehen;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verg\u00fctung der Vorsteuerbetr\u00e4ge in dem besonderen Verfahren nach \u00a7 18 Abs. 9 des Umsatzsteuergesetzes;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 \u00fcber die Zusammenarbeit der Verwaltungsbeh\u00f6rden und die Betrugsbek\u00e4mpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1)<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vergabe der Umsatzsteuer-Identifikationsnummer (\u00a7 27a des Umsatzsteuergesetzes),</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entgegennahme der Zusammenfassenden Meldungen (\u00a7 18a des Umsatzsteuergesetzes) und Speicherung der Daten,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">den Austausch von gespeicherten Informationen mit anderen Mitgliedstaaten;</LA></DD></DL></LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erteilung von Bescheinigungen in Anwendung des Artikels 151 der Richtlinie 2006/112/EG des Rates vom 28. November 2006 \u00fcber das gemeinsame Mehrwertsteuersystem (ABl. L 347 vom 11.12.2006, S. 1, L 335 vom 20.12.2007, S. 60), die zuletzt durch die Richtlinie 2013/61/EU (ABl. L 353 vom 28.12.2013, S. 5) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung zum Nachweis der Umsatzsteuerbefreiung der Ums\u00e4tze, die in anderen Mitgliedstaaten der Europ\u00e4ischen Union an im Geltungsbereich dieses Gesetzes ans\u00e4ssige zwischenstaatliche Einrichtungen, st\u00e4ndige diplomatische Missionen und berufskonsularische Vertretungen sowie deren Mitglieder ausgef\u00fchrt werden;</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Durchf\u00fchrung des Familienleistungsausgleichs nach Ma\u00dfgabe der \u00a7\u00a7 31, 62 bis 78 des Einkommensteuergesetzes. Die Bundesagentur f\u00fcr Arbeit stellt dem Bundeszentralamt f\u00fcr Steuern zur Durchf\u00fchrung dieser Aufgaben ihre Dienststellen als Familienkassen zur Verf\u00fcgung. Das N\u00e4here, insbesondere die H\u00f6he der Verwaltungskostenerstattung, wird durch Verwaltungsvereinbarung geregelt. Der Vorstand der Bundesagentur f\u00fcr Arbeit kann innerhalb seines Zust\u00e4ndigkeitsbereichs abweichend von den Vorschriften der Abgabenordnung \u00fcber die \u00f6rtliche Zust\u00e4ndigkeit von Finanzbeh\u00f6rden die Entscheidung \u00fcber den Anspruch auf Kindergeld f\u00fcr bestimmte Bezirke oder Gruppen von Berechtigten einer anderen Familienkasse \u00fcbertragen. F\u00fcr die besonderen Belange der Personen, die in einem \u00f6ffentlich-rechtlichen Dienst-, Amts- oder Ausbildungsverh\u00e4ltnis zum Bund stehen oder Versorgungsbez\u00fcge nach bundesbeamten- oder soldatenrechtlichen Vorschriften oder Grunds\u00e4tzen erhalten oder Arbeitnehmer des Bundes oder einer sonstigen K\u00f6rperschaft, einer Anstalt oder einer Stiftung des \u00f6ffentlichen Rechts im Bereich des Bundes sind, benennt die Bundesagentur f\u00fcr Arbeit als Familienkasse zentrale Ansprechpartner. Das Bundesministerium der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates Bundesfamilienkassen zur Wahrnehmung der Aufgaben der Familienkassen nach \u00a7 72 Absatz 1 des Einkommensteuergesetzes f\u00fcr die in \u00a7 72 Absatz 3 Nummer 3 des Einkommensteuergesetzes ausgenommenen Beh\u00f6rden, K\u00f6rperschaften, Anstalten oder Stiftungen des \u00f6ffentlichen Rechts im Bereich des Bundes einzurichten. Diese k\u00f6nnen auch Aufgaben im Auftrag der mittelbaren Verwaltung wahrnehmen. Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung Landesfamilienkassen zur Wahrnehmung der Aufgaben nach \u00a7 72 Abs. 1 des Einkommensteuergesetzes einzurichten. Diese k\u00f6nnen auch Aufgaben der mittelbaren Verwaltung wahrnehmen. Die Erm\u00e4chtigung kann durch Rechtsverordnung auf die zust\u00e4ndigen obersten Landesbeh\u00f6rden \u00fcbertragen werden. Die Familienkassen gelten als Bundesfinanzbeh\u00f6rden, soweit sie den Familienleistungsausgleich durchf\u00fchren, und unterliegen insoweit der Fachaufsicht des Bundeszentralamtes f\u00fcr Steuern. Das Bundeszentralamt f\u00fcr Steuern erteilt diesen Familienkassen ein Merkmal zur Identifizierung (Familienkassenschl\u00fcssel) und ver\u00f6ffentlicht die Namen und die Anschriften dieser Familienkassen jeweils zu Beginn eines Kalenderjahres im Bundessteuerblatt;</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Durchf\u00fchrung der Veranlagung nach \u00a7 50 Absatz 2 Satz 2 Nummer 5 des Einkommensteuergesetzes und \u00a7\u00a032 Absatz 2 Nummer 2 des K\u00f6rperschaftsteuergesetzes sowie die Durchf\u00fchrung des Steuerabzugsverfahrens nach \u00a7 50a Absatz 1 des Einkommensteuergesetzes und nach \u00a7\u00a010 des Steueroasen-Abwehrgesetzes; einschlie\u00dflich des Erlasses von Haftungs- und Nachforderungsbescheiden und deren Vollstreckung;</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zentrale Sammlung und Auswertung der von den Finanzbeh\u00f6rden der L\u00e4nder \u00fcbermittelten Informationen \u00fcber Betrugsf\u00e4lle im Bereich der Umsatzsteuer;</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sammlung, Auswertung und Weitergabe der Daten, die nach \u00a7 45d des Einkommensteuergesetzes in den dort genannten F\u00e4llen zu \u00fcbermitteln sind sowie die \u00dcbermittlung der Identifikationsnummer (\u00a7 139b der Abgabenordnung) in dem Anfrageverfahren nach \u00a7 44a Absatz 2a Satz 3 bis 7 des Einkommensteuergesetzes;</LA></DD><DT>14a.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sammlung, Auswertung und Bereitstellung der Daten, die nach den \u00a7\u00a7 45b und 45c des Einkommensteuergesetzes in den dort genannten F\u00e4llen zu \u00fcbermitteln sind; das Bundeszentralamt f\u00fcr Steuern unterrichtet die Finanzbeh\u00f6rden der L\u00e4nder \u00fcber die Ergebnisse der Datenauswertung und stellt den Finanzbeh\u00f6rden der L\u00e4nder Daten f\u00fcr die Verwendung in Besteuerungsverfahren zur Verf\u00fcgung;</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Koordinierung von Umsatzsteuerpr\u00fcfungen der Landesfinanzbeh\u00f6rden in grenz- und l\u00e4nder\u00fcbergreifenden F\u00e4llen;</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Zusammenf\u00fchren und Auswerten von umsatzsteuerlich erheblichen Informationen zur Identifizierung pr\u00fcfungsw\u00fcrdiger Sachverhalte;</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Beobachtung von elektronisch angebotenen Dienstleistungen zur Unterst\u00fctzung der Landesfinanzverwaltungen bei der Umsatzbesteuerung des elektronischen Handels;</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Weiterleitung der Daten, die nach \u00a7 10 Absatz 2a, 2b und 4b des Einkommensteuergesetzes in den dort genannten F\u00e4llen zu \u00fcbermitteln sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sammlung, Auswertung und Weitergabe der Daten, die nach \u00a7 10a Absatz 5 des Einkommensteuergesetzes in den dort genannten F\u00e4llen zu \u00fcbermitteln sind,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sammlung, Auswertung und Weitergabe der Daten, die nach \u00a7 22a des Einkommensteuergesetzes in den dort genannten F\u00e4llen zu \u00fcbermitteln sind,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Daten\u00fcbermittlung nach \u00a7 22a Absatz 1 des Einkommensteuergesetzes die Pr\u00fcfung nach \u00a7 93c Absatz 4 Satz 1 der Abgabenordnung und die Erhebung des Versp\u00e4tungsgeldes nach \u00a7 22a Absatz 5 des Einkommensteuergesetzes,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcbermittlung der Identifikationsnummer (\u00a7 139b der Abgabenordnung) im Anfrageverfahren nach \u00a7 22a Absatz 2 in Verbindung mit \u00a7 10 Absatz 2a, 2b und 4b, \u00a7 10a Absatz 5 und \u00a7 32b Absatz 3 Satz 1 des Einkommensteuergesetzes,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gew\u00e4hrung der Altersvorsorgezulage nach Abschnitt XI des Einkommensteuergesetzes sowie</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Durchf\u00fchrung von Bu\u00dfgeldverfahren nach \u00a7 50f des Einkommensteuergesetzes.</LA></DD></DL>Das Bundeszentralamt f\u00fcr Steuern bedient sich zur Durchf\u00fchrung dieser Aufgaben der Deutschen Rentenversicherung Bund, soweit diese zentrale Stelle im Sinne des \u00a7 81 des Einkommensteuergesetzes ist, im Wege der Organleihe. Die Deutsche Rentenversicherung Bund unterliegt insoweit der Fachaufsicht des Bundeszentralamtes f\u00fcr Steuern. Das N\u00e4here, insbesondere die H\u00f6he der Verwaltungskostenerstattung, wird durch Verwaltungsvereinbarung geregelt;</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zentrale Sammlung der von den Finanzbeh\u00f6rden \u00fcbermittelten Angaben \u00fcber erteilte Freistellungsbescheinigungen nach \u00a7 48b des Einkommensteuergesetzes und die Erteilung von Ausk\u00fcnften im Wege einer elektronischen Abfrage an den Leistungsempf\u00e4nger im Sinne des \u00a7 48 Abs. 1 Satz 1 des Einkommensteuergesetzes \u00fcber die \u00fcbermittelten Freistellungsbescheinigungen;</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Einzug der einheitlichen Pauschsteuer nach \u00a7 40a Abs. 2 des Einkommensteuergesetzes. Das Bundeszentralamt f\u00fcr Steuern bedient sich zur Durchf\u00fchrung dieser Aufgabe der Deutschen Rentenversicherung Knappschaft-Bahn-See als Tr\u00e4ger der knappschaftlichen Rentenversicherung im Wege der Organleihe. Das N\u00e4here, insbesondere die H\u00f6he der Verwaltungskostenerstattung, wird durch Verwaltungsvereinbarung geregelt. Die Deutsche Rentenversicherung Knappschaft-Bahn-See als Tr\u00e4ger der knappschaftlichen Rentenversicherung gilt f\u00fcr die Durchf\u00fchrung dieser Aufgabe als Bundesfinanzbeh\u00f6rde und unterliegt insoweit der Fachaufsicht des Bundeszentralamtes f\u00fcr Steuern.</LA></DD><DT>21.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr vor dem 1. Juli 2021 ausgef\u00fchrte Ums\u00e4tze die Durchf\u00fchrung des Besteuerungsverfahrens nach \u00a7 18 Absatz 4c des Umsatzsteuergesetzes in der bis zum 30. Juni 2021 geltenden Fassung einschlie\u00dflich der damit im Zusammenhang stehenden T\u00e4tigkeiten auf Grund von Kapitel XI Abschnitt 1 und 2 der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 \u00fcber die Zusammenarbeit der Verwaltungsbeh\u00f6rden und die Betrugsbek\u00e4mpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1) sowie f\u00fcr nach dem 30. Juni 2021 ausgef\u00fchrte Ums\u00e4tze die Entgegennahme und Weiterleitung von Anzeigen, Umsatzsteuererkl\u00e4rungen und Zahlungen von nicht im Gemeinschaftsgebiet ans\u00e4ssigen Unternehmern in Anwendung der Artikel 360 bis 367 und 369 der Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 2 Nummer 17 bis 19 der Richtlinie (EU) 2017/2455 des Rates vom 5. Dezember 2017 zur \u00c4nderung der Richtlinie 2006/112/EG und der Richtlinie 2009/132/EG in Bezug auf bestimmte mehrwertsteuerliche Pflichten f\u00fcr die Erbringung von Dienstleistungen und f\u00fcr Fernverk\u00e4ufe von Gegenst\u00e4nden (ABl. L 348 vom 29.12.2017, S. 7) einschlie\u00dflich der mit der Durchf\u00fchrung des Besteuerungsverfahrens nach \u00a7 18i des Umsatzsteuergesetzes zusammenh\u00e4ngenden T\u00e4tigkeiten auf Grund der Kapitel V und XI der Verordnung (EU) Nr. 904/2010 des Rates in der Fassung von Artikel 1 der Verordnung (EU) 2017/2454 des Rates vom 5. Dezember 2017 zur \u00c4nderung der Verordnung (EU) Nr. 904/2010 des Rates \u00fcber die Zusammenarbeit der Verwaltungsbeh\u00f6rden und die Betrugsbek\u00e4mpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 348 vom 29.12.2017, S. 1);</LA></DD><DT>22.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vergabe und die Verwaltung des Identifikationsmerkmals nach den \u00a7\u00a7 139a bis 139d der Abgabenordnung;</LA></DD><DT>23.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Best\u00e4tigungen nach \u00a7 18e des Umsatzsteuergesetzes 1999;</LA></DD><DT>24.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Abruf von Daten aus den nach \u00a7 93b der Abgabenordnung in Verbindung mit \u00a7 24c Abs. 1 Satz 1 des Kreditwesengesetzes von den Kreditinstituten gef\u00fchrten Dateien und die Weiterleitung der abgerufenen Daten an die zust\u00e4ndigen Finanzbeh\u00f6rden;</LA></DD><DT>25.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verwaltung der Versicherung- und Feuerschutzsteuer und die zentrale Sammlung und Auswertung der Informationen f\u00fcr die Verwaltung der Versicherung- und Feuerschutzsteuer;</LA></DD><DT>26.</DT><DD Font=\"normal\"><LA Size=\"normal\">Entgegennahme von Meldungen und Zahlungen von Zinsabschlag nach der Zinsinformationsverordnung und deren Weiterleitung;</LA></DD><DT>27.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erteilung von verbindlichen Ausk\u00fcnften nach \u00a7 89 Abs. 2 Satz 3 der Abgabenordnung;</LA></DD><DT>28.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterst\u00fctzung der Finanzbeh\u00f6rden der L\u00e4nder bei der Verh\u00fctung und Verfolgung von Steuerstraftaten mit l\u00e4nder\u00fcbergreifender, internationaler oder erheblicher Bedeutung sowie bei Anzeigen nach \u00a7 116 Abs. 1 der Abgabenordnung. Das Bundeszentralamt f\u00fcr Steuern hat zur Wahrnehmung dieser Aufgabe alle hierf\u00fcr erforderlichen Informationen zu sammeln und auszuwerten und die Beh\u00f6rden der L\u00e4nder \u00fcber die sie betreffenden Informationen und die in Erfahrung gebrachten Zusammenh\u00e4nge von Straftaten zu unterrichten;</LA></DD><DT>28a.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Weiterleitung von Mitteilungen nach \u00a7 116 Abs. 1 der Abgabenordnung an die zust\u00e4ndigen Finanzbeh\u00f6rden der Zollverwaltung;</LA></DD><DT>28b.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterst\u00fctzung der Finanzbeh\u00f6rden der L\u00e4nder bei der Ermittlung von Steuergestaltungen, die die Erlangung eines Steuervorteils aus der Erhebung oder Entlastung von Kapitalertragsteuer mit l\u00e4nder\u00fcbergreifender, internationaler oder erheblicher Bedeutung zum Gegenstand haben; das Bundeszentralamt f\u00fcr Steuern hat zur Wahrnehmung dieser Aufgabe alle hierf\u00fcr erforderlichen Informationen zu sammeln und auszuwerten und die Beh\u00f6rden der L\u00e4nder \u00fcber die sie betreffenden Informationen zu unterrichten;</LA></DD><DT>29.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Durchf\u00fchrung der gesonderten Feststellung und Erteilung der Bescheinigung nach \u00a7 27 Abs. 8 des K\u00f6rperschaftsteuergesetzes;</LA></DD><DT>30.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bildung, Speicherung und Bereitstellung elektronischer Lohnsteuerabzugsmerkmale;</LA></DD><DT>31.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zentrale Sammlung der von den Finanzbeh\u00f6rden der L\u00e4nder \u00fcbermittelten Daten zu Konzern\u00fcbersichten (Konzernverzeichnis) sowie die Erteilung von Ausk\u00fcnften daraus im Wege einer elektronischen Abfrage durch die Finanzbeh\u00f6rden der L\u00e4nder;</LA></DD><DT>32.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zentrale Sammlung der von den Finanzbeh\u00f6rden der L\u00e4nder \u00fcbermittelten branchenbezogenen Kennzahlen sowie die Erteilung von Ausk\u00fcnften daraus im Wege einer elektronischen Abfrage durch die Finanzbeh\u00f6rden der L\u00e4nder;</LA></DD><DT><I>33.</I></DT><DD Font=\"normal\"><LA Size=\"normal\">die Registrierung eines Vor-REIT nach \u00a7 2 des REIT-Gesetzes;</LA></DD><DT>34.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zertifizierung von Altersvorsorge- und Basisrentenvertr\u00e4gen nach dem Altersvorsorgevertr\u00e4ge-Zertifizierungsgesetz und die Durchf\u00fchrung von Bu\u00dfgeldverfahren nach \u00a7 13 des Altersvorsorgevertr\u00e4ge-Zertifizierungsgesetzes;</LA></DD><DT>35.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Pr\u00fcfung der Vollst\u00e4ndigkeit und Zul\u00e4ssigkeit von Antr\u00e4gen auf Vorsteuer-Verg\u00fctung f\u00fcr im Inland ans\u00e4ssige Unternehmer in Anwendung von Artikel 18 der Richtlinie 2008/9/EG des Rates vom 12. Februar 2008 zur Regelung der Erstattung der Mehrwertsteuer gem\u00e4\u00df der Richtlinie 2006/112/EG an nicht im Mitgliedstaat der Erstattung, sondern in einem anderen Mitgliedstaat ans\u00e4ssige Steuerpflichtige (ABl. EU Nr. L 44 S. 23);</LA></DD><DT>36.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Pr\u00fcfung nach \u00a7 93c Absatz 4 Satz 1 der Abgabenordnung der nach \u00a7 10 Absatz 2b des Einkommensteuergesetzes zu \u00fcbermittelnden Daten sowie bei dieser Daten\u00fcbermittlung die Festsetzung und Erhebung des Haftungsbetrages nach \u00a7 72a Absatz 4 der Abgabenordnung;</LA></DD><DT>37.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausstellung der Bescheinigung an Unternehmer \u00fcber die Erf\u00fcllung der Voraussetzungen des \u00a7 4 Nummer 11b des Umsatzsteuergesetzes;</LA></DD><DT>38.</DT><DD Font=\"normal\"><LA Size=\"normal\">ab 14. Dezember 2010 die Weiterleitung von Anzeigen nach \u00a7 9 der Erbschaftsteuer-Durchf\u00fchrungsverordnung an die zust\u00e4ndigen Finanzbeh\u00f6rden der L\u00e4nder;</LA></DD><DT>39.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>40.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr vor dem 1. Juli 2021 ausgef\u00fchrte Ums\u00e4tze die mit der Durchf\u00fchrung des Besteuerungsverfahrens nach \u00a7 18 Absatz 4e des Umsatzsteuergesetzes in Zusammenhang stehenden T\u00e4tigkeiten auf Grund der Kapitel V und XI Abschnitt 2 der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 \u00fcber die Zusammenarbeit der Verwaltungsbeh\u00f6rden und die Betrugsbek\u00e4mpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1) und die Entgegennahme und Weiterleitung von Anzeigen und Umsatzsteuererkl\u00e4rungen f\u00fcr im Inland ans\u00e4ssige Unternehmer in Anwendung der Artikel 369c bis 369i der Richtlinie 2006/112/EG des Rates in der Fassung des Artikels 5 Nummer 15 der Richtlinie 2008/8/EG des Rates vom 12. Februar 2008 zur \u00c4nderung der Richtlinie 2006/112/EG bez\u00fcglich des Ortes der Dienstleistung (ABl. L 44 vom 20.2.2008, S. 11) einschlie\u00dflich der damit zusammenh\u00e4ngenden T\u00e4tigkeiten auf Grund von Artikel 17 Absatz 1 Buchstabe d und Artikel 21 Absatz 1 sowie Kapitel XI Abschnitt 2 der Verordnung (EU) Nr. 904/2010 des Rates vom 7. Oktober 2010 \u00fcber die Zusammenarbeit der Verwaltungsbeh\u00f6rden und die Betrugsbek\u00e4mpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 268 vom 12.10.2010, S. 1) sowie f\u00fcr nach dem 30. Juni 2021 ausgef\u00fchrte Ums\u00e4tze die Entgegennahme und Weiterleitung von Anzeigen, Umsatzsteuererkl\u00e4rungen und Zahlungen von im Inland oder nicht im Gemeinschaftsgebiet ans\u00e4ssigen Unternehmern in Anwendung der Artikel 369c bis 369i und 369k der Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 1 Nummer 11 bis 13 der Richtlinie (EU) 2019/1995 des Rates vom 21. November 2019 zur \u00c4nderung der Richtlinie 2006/112/EG des Rates vom 28. November 2006 in Bezug auf Vorschriften f\u00fcr Fernverk\u00e4ufe von Gegenst\u00e4nden und bestimmte inl\u00e4ndische Lieferungen von Gegenst\u00e4nden (ABl. L 310 vom 2.12.2019, S. 1) einschlie\u00dflich der mit der Durchf\u00fchrung des Besteuerungsverfahrens nach \u00a7 18j des Umsatzsteuergesetzes zusammenh\u00e4ngenden T\u00e4tigkeiten auf Grund der Kapitel V und XI Abschnitt 2 und 3 der Verordnung (EU) Nr. 904/2010 des Rates in der Fassung von Artikel 1 der Verordnung (EU) 2017/2454 des Rates vom 5. Dezember 2017 zur \u00c4nderung der Verordnung (EU) Nr. 904/2010 des Rates \u00fcber die Zusammenarbeit der Verwaltungsbeh\u00f6rden und die Betrugsbek\u00e4mpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 348 vom 29.12.2017, S. 1);</LA></DD><DT>41.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entgegennahme und Weiterleitung von Anzeigen, Umsatzsteuererkl\u00e4rungen und Zahlungen von im Inland oder nicht im Gemeinschaftsgebiet ans\u00e4ssigen Unternehmern oder von im Auftrag handelnden im Inland ans\u00e4ssigen Vertretern in Anwendung der Artikel 369o bis 369v und 369x der Richtlinie 2006/112/EG des Rates in der Fassung von Artikel 2 Nummer 30 der Richtlinie (EU) 2017/2455 des Rates vom 5. Dezember 2017 zur \u00c4nderung der Richtlinie 2006/112/EG und der Richtlinie 2009/132/EG in Bezug auf bestimmte mehrwertsteuerliche Pflichten f\u00fcr die Erbringung von Dienstleistungen und f\u00fcr Fernverk\u00e4ufe von Gegenst\u00e4nden (ABl. L 348 vom 29.12.2017, S. 7) einschlie\u00dflich der mit der Durchf\u00fchrung des Besteuerungsverfahrens nach \u00a7 18k des Umsatzsteuergesetzes zusammenh\u00e4ngenden T\u00e4tigkeiten auf Grund der Kapitel V und XI Abschnitt 3 der Verordnung (EU) Nr. 904/2010 des Rates in der Fassung von Artikel 1 der Verordnung (EU) 2017/2454 des Rates vom 5. Dezember 2017 zur \u00c4nderung der Verordnung (EU) Nr. 904/2010 des Rates \u00fcber die Zusammenarbeit der Verwaltungsbeh\u00f6rden und die Betrugsbek\u00e4mpfung auf dem Gebiet der Mehrwertsteuer (ABl. L 348 vom 29.12.2017, S. 1);</LA></DD><DT>42.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einrichtung und Pflege des Online-Zugriffs der Finanz\u00e4mter auf ATLAS-Ein- und Ausfuhrdaten;</LA></DD><DT>43.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterst\u00fctzung des Bundesministeriums der Finanzen bei der Gesetzesfolgenabsch\u00e4tzung im Steuerrecht;</LA></DD><DT>44.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sammlung, Sortierung, Zuordnung und Auswertung der ihm nach den \u00a7\u00a7 138d bis 138h der Abgabenordnung und \u00a7 7 Absatz 14 Satz 2 des EU-Amtshilfegesetzes zugegangenen Mitteilungen \u00fcber grenz\u00fcberschreitende Steuergestaltungen, ihre Weiterleitung an die Generalzolldirektion nach \u00a7 138j Absatz 1 Satz 2 der Abgabenordnung, die Information der Landesfinanzbeh\u00f6rden nach \u00a7 138i und \u00a7 138j Absatz 3 der Abgabenordnung sowie die Unterrichtung des Bundesministeriums der Finanzen \u00fcber die Ergebnisse der Auswertung nach \u00a7 138j Absatz 1 der Abgabenordnung;</LA></DD><DT>45.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcbermittlung von Daten im Rahmen des automatisierten Datenabrufverfahrens mit den Tr\u00e4gern der gesetzlichen Rentenversicherung in den in \u00a7 151b Absatz 2 Satz 2 und \u00a7 151c Absatz 1 des Sechsten Buches Sozialgesetzbuch genannten F\u00e4llen;</LA></DD><DT>46.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mitwirkung bei der Festlegung der Einzelheiten der Risikomanagementsysteme zur Gew\u00e4hrleistung eines bundeseinheitlichen Vollzugs auf dem Gebiet der Steuern, die von den Landesfinanzbeh\u00f6rden im Auftrag des Bundes verwaltet werden.</LA></DD></DL>Das Bundeszentralamt f\u00fcr Steuern hat Daten, die von ihm oder der zentralen Stelle im Sinne des \u00a7 81 des Einkommensteuergesetzes nach \u00a7 88 Absatz 4 der Abgabenordnung nicht an die Landesfinanzbeh\u00f6rden weitergeleitet wurden, bis zum Ablauf des 15. Jahres nach dem Jahr des Zugangs der Daten zur Durchf\u00fchrung von Verfahren im Sinne des \u00a7 30 Absatz 2 Nummer 1 Buchstabe a und b der Abgabenordnung sowie zur Datenschutzkontrolle zu speichern.</P><P>(1a) Soweit durch Absatz 1 Aufgaben der Steuerverwaltung \u00fcbertragen wurden, ist hiervon auch die Durchf\u00fchrung von Vorfeldermittlungen nach \u00a7 208 Absatz 1 Satz 1 Nummer 3 der Abgabenordnung umfasst. Dies gilt nicht f\u00fcr F\u00e4lle des Absatzes 1 Satz 1 Nummer 1, 5 bis 7, 9, 10, 13 bis 17, 19, 22 bis 24, 26, 28, 28a, 28b, 30 bis 34, 36, 38 und 42 bis 46.</P><P>(2) Die vom Bundeszentralamt f\u00fcr Steuern auf Grund gesetzlicher Vorschriften gew\u00e4hrten Steuererstattungen und Steuerverg\u00fctungen sowie die nach \u00a7 44b Absatz 6 Satz 1 bis 3 des Einkommensteuergesetzes erstattete Kapitalertragsteuer werden von den L\u00e4ndern in dem Verh\u00e4ltnis getragen, in dem sie an dem Aufkommen der betreffenden Steuern beteiligt sind. Kapitalertragsteuer, die das Bundeszentralamt f\u00fcr Steuern anl\u00e4sslich der Verg\u00fctung von K\u00f6rperschaftsteuer vereinnahmt hat, steht den L\u00e4ndern in demselben Verh\u00e4ltnis zu. F\u00fcr die Aufteilung ist das Aufkommen an den betreffenden Steuern in den einzelnen L\u00e4ndern ma\u00dfgebend, das sich ohne Ber\u00fccksichtigung der in den S\u00e4tzen 1 und 2 bezeichneten Steuerbetr\u00e4ge f\u00fcr das Vorjahr ergibt. Das N\u00e4here bestimmt das Bundesministerium der Finanzen durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf.</P><P>(3) Die von den Familienkassen bei der Durchf\u00fchrung des Familienleistungsausgleichs nach Absatz 1 Nr. 11 ausgezahlten Steuerverg\u00fctungen im Sinne des \u00a7 31 des Einkommensteuergesetzes werden jeweils von den L\u00e4ndern und Gemeinden, in denen der Gl\u00e4ubiger der Steuerverg\u00fctung seinen Wohnsitz hat, nach den f\u00fcr die Verteilung des Aufkommens der Einkommensteuer ma\u00dfgebenden Vorschriften mitgetragen. Das Bundeszentralamt f\u00fcr Steuern stellt nach Ablauf eines jeden Monats die Anteile der einzelnen L\u00e4nder einschlie\u00dflich ihrer Gemeinden an den gew\u00e4hrten Leistungen fest. Die nach Satz 2 festgestellten Anteile sind dem Bund von den L\u00e4ndern bis zum 15. des dem Zahlungsmonat folgenden Monats zu erstatten. F\u00fcr den Monat Dezember ist dem Bund von den L\u00e4ndern ein Abschlag auf der Basis der Abrechnung des Vormonats zu leisten. Die Abrechnung f\u00fcr den Monat Dezember hat bis zum 15. Januar des Folgejahres zu erfolgen. Das Bundesministerium der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here zu bestimmen.</P><P>(4) Die von der zentralen Stelle (\u00a7 81 des Einkommensteuergesetzes) veranlassten Auszahlungen von Altersvorsorgezulagen (\u00a7 83 des Einkommensteuergesetzes) werden nach den f\u00fcr die Verteilung des Aufkommens der Einkommensteuer ma\u00dfgebenden Vorschriften von den L\u00e4ndern und Gemeinden mitgetragen, in denen der Gl\u00e4ubiger der Steuerverg\u00fctung seinen inl\u00e4ndischen Wohnsitz hat; bei Gl\u00e4ubigern mit ausl\u00e4ndischem Wohnsitz wird der letzte bekannte inl\u00e4ndische Wohnsitz zugrunde gelegt. Die sich aus Satz 1 ergebenden Finanzierungsanteile gelten auch, wenn der Wohnsitz nicht nach Satz 1 zugeordnet werden kann. Die zentrale Stelle stellt nach Ablauf des dem Kalendervierteljahr folgenden Monats die Anteile der einzelnen L\u00e4nder einschlie\u00dflich ihrer Gemeinden an den zu gew\u00e4hrenden Leistungen fest. Die nach Satz 2 festgestellten Anteile sind dem Bund von den L\u00e4ndern bis zum 15. des zweiten, dem Kalendervierteljahr folgenden Monats zu erstatten. Das Bundesministerium der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here zu bestimmen.</P><P>(5) An dem Aufkommen der von der vereinnahmten pauschalen Lohnsteuer (\u00a7 40a Abs. 6 des Einkommensteuergesetzes) sind die L\u00e4nder und Gemeinden, in denen die Steuerpflichtigen ihren Wohnsitz haben, nach den f\u00fcr die Verteilung des Aufkommens der Einkommensteuer ma\u00dfgebenden Vorschriften zu beteiligen. Nach Ablauf eines jeden Monats werden die Anteile der einzelnen L\u00e4nder einschlie\u00dflich ihrer Gemeinden an der vereinnahmten pauschalen Lohnsteuer festgestellt. Die nach Satz 2 festgestellten Anteile sind an die L\u00e4nder bis zum 15. des darauf folgenden Monats auszuzahlen. Das Bundesministerium der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here zur Verwaltung und Auszahlung der einheitlichen Pauschsteuer zu bestimmen.</P><P>(6) An dem Aufkommen der nach der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinsertr\u00e4gen (ABl. EU Nr. L 157 S. 38, 2005 Nr. L 103 S. 41), zuletzt ge\u00e4ndert durch die Richtlinie 2006/98/EG des Rates vom 20. November 2006 (ABl. EU Nr. L 363 S. 129), in der jeweils geltenden Fassung von den berechtigten Mitgliedstaaten sowie von den in Artikel 17 dieser Richtlinie genannten Staaten und abh\u00e4ngigen Gebieten erhobenen Quellensteuer sind die L\u00e4nder und Gemeinden entsprechend ihrem Anteil an der Kapitalertragsteuer nach \u00a7 43 Abs. 1 Satz 1 Nr. 6, 7 und 8 bis 12 sowie Satz 2 des Einkommensteuergesetzes zu beteiligen. Die Verteilung des L\u00e4nder- und Gemeindeanteils auf die einzelnen L\u00e4nder erfolgt nach den Anteilen an der Kapitalertragsteuer nach \u00a7 43 Abs. 1 Satz 1 Nr. 6, 7 und 8 bis 12 sowie Satz 2 des Einkommensteuergesetzes vom Vorjahr, die den L\u00e4ndern und Gemeinden nach Zerlegung (\u00a7 8 des Zerlegungsgesetzes) zustehen; f\u00fcr 2009 sind die Anteile der L\u00e4nder und Gemeinden am Zinsabschlagsaufkommen des Jahres 2008 nach Zerlegung ma\u00dfgeblich. Das Bundeszentralamt f\u00fcr Steuern stellt jeweils nach Ablauf eines Monats die Anteile der L\u00e4nder einschlie\u00dflich ihrer Gemeinden fest und zahlt sie an die L\u00e4nder bis zum 15. des dem Abrechnungsmonat folgenden Monats aus. Das Bundesministerium der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here zur Verwaltung und Auszahlung dieser Quellensteuer zu bestimmen.</P><P>(7) Das Aufkommen der in Aus\u00fcbung der Aufgaben nach Absatz 1 Nummer 12 zugeflossenen Einkommen- und K\u00f6rperschaftsteuer steht den L\u00e4ndern und Gemeinden nach den f\u00fcr die Verteilung des Aufkommens der Einkommen- und K\u00f6rperschaftsteuer ma\u00dfgebenden Vorschriften zu. Nach Ablauf eines jeden Monats werden die Anteile der einzelnen L\u00e4nder einschlie\u00dflich ihrer Gemeinden an den Einnahmen durch das Bundeszentralamt f\u00fcr Steuern festgestellt. Die nach Satz 2 festgestellten Anteile sind an die L\u00e4nder bis zum 15. des darauf folgenden Monats auszuzahlen. Das Bundesministerium der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates das N\u00e4here zur Verwaltung und Auszahlung der Einnahmen in Aus\u00fcbung der Aufgaben nach Absatz 1 Nummer 12 zu bestimmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 5 Abs. 1 Satz 1 Nr. 33 (fr\u00fcher Abs. 1 Nr. 33) Kursivdruck (bezeichnet als \"Nr. 31\"): Eingef. durch Art. 4 G v. 28.5.2007 I 914 mWv 1.1.2007</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003009123",
+        "name": "\u00a7 5a",
+        "title": "Aufgaben und Gliederung der Generalzolldirektion",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000201301"
+        },
+        "body": "<P>(1) Unbeschadet des \u00a7 4 Absatz 2 und 3 leitet die Generalzolldirektion bundesweit die Durchf\u00fchrung der Aufgaben der Zollverwaltung. Sie \u00fcbt die Dienst- und Fachaufsicht \u00fcber die Hauptzoll\u00e4mter und Zollfahndungs\u00e4mter aus. Sie wertet die ihr nach \u00a7 138j Absatz 1 Satz 2 der Abgabenordnung vom Bundeszentralamt f\u00fcr Steuern \u00fcbermittelten Daten \u00fcber grenz\u00fcberschreitende Steuergestaltungen aus, unterrichtet nach \u00a7 138j Absatz 2 der Abgabenordnung das Bundesministerium der Finanzen \u00fcber die Ergebnisse der Auswertung und stellt dem zust\u00e4ndigen Hauptzollamt die zur Durchf\u00fchrung des Besteuerungsverfahrens und des Bu\u00dfgeldverfahrens erforderlichen Informationen zur Verf\u00fcgung. Au\u00dferdem nimmt die Generalzolldirektion die ihr sonst \u00fcbertragenen Aufgaben wahr.</P><P>(2) Die Generalzolldirektion gliedert sich in Direktionen. Es wird neben der f\u00fcr den Zollfahndungsdienst zust\u00e4ndigen Direktion (Zollkriminalamt) eine f\u00fcr die Aufgaben nach dem Gesetz \u00fcber das Aufsp\u00fcren von Gewinnen aus schweren Straftaten (Geldw\u00e4schegesetz) zust\u00e4ndige Direktion (Zentralstelle f\u00fcr Finanztransaktionsuntersuchungen) eingerichtet. Andere Organisationseinheiten k\u00f6nnen eingerichtet werden.</P><P>(3) Die Zust\u00e4ndigkeiten und Aufgaben der Direktionen und der anderen Organisationseinheiten bestimmt das Bundesministerium der Finanzen. Aufgaben des Zollfahndungsdienstes werden durch das Zollkriminalamt wahrgenommen.</P><P>(4) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE004600377",
+        "name": "\u00a7 5b",
+        "title": "\u00dcbertragung von Bauaufgaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000201301"
+        },
+        "body": "<P>Durch Verwaltungsvereinbarung mit dem jeweiligen Land kann der Bund die Leitung und Erledigung seiner Bauaufgaben im Wege der Organleihe Landesbeh\u00f6rden sowie Landesbetrieben, Sonderverm\u00f6gen des Landes und landesunmittelbaren juristischen Personen des \u00f6ffentlichen Rechts \u00fcbertragen. Die Verwaltungsvereinbarung muss vorsehen, dass die Landesbeh\u00f6rden die Anordnungen des fachlich zust\u00e4ndigen Bundesministeriums zu befolgen haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001204301",
+        "name": "\u00a7 6",
+        "title": "Sitz und Aufgaben der Landesoberbeh\u00f6rde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000201301"
+        },
+        "body": "<P>(1) Die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde bestimmt den Sitz der Landesoberbeh\u00f6rde, soweit durch Gesetz nichts anderes bestimmt ist.</P><P>(2) Die Landesoberbeh\u00f6rde erledigt Aufgaben, die ihr nach Ma\u00dfgabe des \u00a7 17 Abs. 3 Satz 1 zugewiesen werden und die ihr sonst \u00fcbertragenen Aufgaben.</P><P>(3) F\u00fcr die Ernennung und Entlassung des Leiters einer Oberbeh\u00f6rde, die nach \u00a7 2 Abs. 1 Nr. 3 anstelle einer Oberfinanzdirektion tritt, gilt \u00a7 9a Satz 3 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014270971BJNG000301301",
+        "name": "Abschnitt III",
+        "title": "Mittelbeh\u00f6rden",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001306123",
+        "name": "\u00a7 7",
+        "title": "Bezirk und Sitz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000301301"
+        },
+        "body": "<P>Die obersten Landesbeh\u00f6rden bestimmen den Bezirk und Sitz der Mittelbeh\u00f6rde, die ihnen jeweils untersteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001408377",
+        "name": "\u00a7 8",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000301301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE004201123",
+        "name": "\u00a7 8a",
+        "title": "Aufgaben und Gliederung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000301301"
+        },
+        "body": "<P>(1) Die Mittelbeh\u00f6rden leiten die Finanzverwaltung des jeweiligen Landes in ihrem Bezirk. Einer Mittelbeh\u00f6rde kann auch die Leitung der Finanzverwaltung eines Landes f\u00fcr mehrere Oberfinanzbezirke \u00fcbertragen werden. Die Mittelbeh\u00f6rden k\u00f6nnen weitere Aufgaben erledigen.</P><P>(2) Die Mittelbeh\u00f6rden k\u00f6nnen sich in eine Besitz- und Verkehrsteuerabteilung und eine Landesbauabteilung oder Landesverm\u00f6gens- und Bauabteilung gliedern. Au\u00dferdem k\u00f6nnen weitere Landesabteilungen oder andere Organisationseinheiten des Landes eingerichtet werden.</P><P>(3) Durch Rechtsverordnung k\u00f6nnen Aufgaben einer Mittelbeh\u00f6rde f\u00fcr den ganzen Bezirk oder einen Teil davon auf andere Mittelbeh\u00f6rden \u00fcbertragen werden, wenn dadurch der Vollzug der Aufgaben verbessert oder erleichtert wird. Die Rechtsverordnung erl\u00e4sst die zust\u00e4ndige Landesregierung. Die Landesregierung kann die Erm\u00e4chtigung auf die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde \u00fcbertragen.</P><P>(4) Die Besitz- und Verkehrsteuerabteilung leitet die Durchf\u00fchrung der Aufgaben, f\u00fcr deren Erledigung die Finanz\u00e4mter zust\u00e4ndig sind. Au\u00dferdem erledigt sie die ihr sonst \u00fcbertragenen Aufgaben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001505377",
+        "name": "\u00a7 9",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000301301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE004301123",
+        "name": "\u00a7 9a",
+        "title": "Leitung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000301301"
+        },
+        "body": "<P>Der Pr\u00e4sident oder die Pr\u00e4sidentin leitet die jeweilige Mittelbeh\u00f6rde. Ihm oder ihr kann auch die Leitung einer Abteilung \u00fcbertragen werden. Er oder sie wird auf Vorschlag der f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rde im Einvernehmen mit der Bundesregierung durch die zust\u00e4ndige Stelle des Landes ernannt und entlassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001604377",
+        "name": "\u00a7 10",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000301301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE004401123",
+        "name": "\u00a7 10a",
+        "title": "Landeskassen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000301301"
+        },
+        "body": "<P>Werden oder sind bei einer Mittelbeh\u00f6rde eine oder mehrere Landeskassen errichtet, so kann eine Landeskasse Kassengesch\u00e4fte f\u00fcr mehrere Bezirke oder f\u00fcr Teile davon wahrnehmen. Die Landeskassen k\u00f6nnen unmittelbar dem zust\u00e4ndigen Pr\u00e4sidenten oder der zust\u00e4ndigen Pr\u00e4sidentin unterstellt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001703301",
+        "name": "\u00a7 11",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000301301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014270971BJNG000401301",
+        "name": "Abschnitt IV",
+        "title": "\u00d6rtliche Beh\u00f6rden",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001810377",
+        "name": "\u00a7 12",
+        "title": "Bezirk und Sitz der Hauptzoll\u00e4mter und Zollfahndungs\u00e4mter sowie Aufgaben der Hauptzoll\u00e4mter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": "<P>(1) Die Generalzolldirektion bestimmt den Bezirk und den Sitz der Hauptzoll\u00e4mter und der Zollfahndungs\u00e4mter.</P><P>(2) Die Hauptzoll\u00e4mter sind als \u00f6rtliche Bundesbeh\u00f6rden f\u00fcr die Verwaltung der Z\u00f6lle, der bundesgesetzlich geregelten Verbrauchsteuern einschlie\u00dflich der Einfuhrumsatzsteuer und der Biersteuer, der Luftverkehrsteuer, der Kraftfahrzeugsteuer, der Abgaben im Rahmen der Europ\u00e4ischen Gemeinschaften, f\u00fcr die zollamtliche \u00dcberwachung des Warenverkehrs \u00fcber die Grenze, f\u00fcr die Grenzaufsicht, f\u00fcr die Bek\u00e4mpfung der Schwarzarbeit und der illegalen Besch\u00e4ftigung und f\u00fcr die ihnen sonst \u00fcbertragenen Aufgaben zust\u00e4ndig.</P><P>(3) Das Bundesministerium der Finanzen kann durch Rechtsverordnung ohne Zustimmung des Bundesrates die Zust\u00e4ndigkeit eines Hauptzollamts nach Absatz 2 auf einzelne Aufgaben beschr\u00e4nken oder Zust\u00e4ndigkeiten nach Absatz 2 einem Hauptzollamt f\u00fcr den Bereich mehrerer Hauptzoll\u00e4mter \u00fcbertragen, wenn dadurch der Vollzug der Aufgaben verbessert oder erleichtert wird. Das Bundesministerium der Finanzen kann die Erm\u00e4chtigung nach Satz 1 durch Rechtsverordnung auf die Generalzolldirektion \u00fcbertragen.</P><P>(4) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003105301",
+        "name": "\u00a7 12a",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003201301",
+        "name": "\u00a7 12b",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003302301",
+        "name": "\u00a7 12c",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003401301",
+        "name": "\u00a7 12d",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE001901301",
+        "name": "\u00a7 13",
+        "title": "Beistandspflicht der Ortsbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": "<P>(1) Die Gemeindebeh\u00f6rden, die Ortspolizeibeh\u00f6rden und die sonstigen Ortsbeh\u00f6rden haben den Hauptzoll\u00e4mtern auch neben der in \u00a7 111 der Abgabenordnung vorgesehenen Beistandspflicht Hilfe zu leisten, soweit dies wegen ihrer Kenntnis der \u00f6rtlichen Verh\u00e4ltnisse oder zur Ersparung von Kosten oder Zeit zweckm\u00e4\u00dfig ist.</P><P>(2) F\u00fcr Hilfeleistungen nach Absatz 1 werden Entsch\u00e4digungen nicht gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002002301",
+        "name": "\u00a7 14",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002101301",
+        "name": "\u00a7 15",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002203301",
+        "name": "\u00a7 16",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002307360",
+        "name": "\u00a7 17",
+        "title": "Bezirk, Sitz und Aufgaben der Finanz\u00e4mter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000401301"
+        },
+        "body": "<P>(1) Die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde bestimmt den Bezirk und den Sitz der Finanz\u00e4mter.</P><P>(2) Die Finanz\u00e4mter sind als \u00f6rtliche Landesbeh\u00f6rden f\u00fcr die Verwaltung der Steuern mit Ausnahme der Kraftfahrzeugsteuer, der sonstigen auf motorisierte Verkehrsmittel bezogenen Verkehrsteuern, der Z\u00f6lle und der bundesgesetzlich geregelten Verbrauchsteuern (\u00a7 12) zust\u00e4ndig, soweit die Verwaltung nicht auf Grund des Artikels 108 Absatz 4 Satz 1 des Grundgesetzes den Bundesfinanzbeh\u00f6rden oder auf Grund des Artikels 108 Absatz 4 Satz 2 des Grundgesetzes den Gemeinden (Gemeindeverb\u00e4nden) \u00fcbertragen worden ist. Sie sind ferner f\u00fcr die ihnen sonst \u00fcbertragenen Aufgaben zust\u00e4ndig. Soweit es sich um Aufgaben der Finanzverwaltung handelt und der Vollzug der Aufgaben verbessert oder erleichtert wird, kann die zust\u00e4ndige Landesregierung durch Rechtsverordnung <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Zust\u00e4ndigkeit eines Finanzamts oder einer besonderen Landesfinanzbeh\u00f6rde (\u00a7 2 Absatz 3) auf einzelne Aufgaben beschr\u00e4nken,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einem Finanzamt oder einer besonderen Landesfinanzbeh\u00f6rde (\u00a7 2 Absatz 3) Zust\u00e4ndigkeiten f\u00fcr die Bezirke mehrerer Finanz\u00e4mter \u00fcbertragen oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>einer Landesoberbeh\u00f6rde (\u00a7 6) die landesweite Zust\u00e4ndigkeit f\u00fcr Kassengesch\u00e4fte und das Erhebungsverfahren einschlie\u00dflich der Vollstreckung \u00fcbertragen.</LA></DD></DL>Die Landesregierung kann die Erm\u00e4chtigung durch Rechtsverordnung auf die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde \u00fcbertragen.</P><P>(3) Wenn im Besteuerungsverfahren automatische Einrichtungen eingesetzt werden, k\u00f6nnen durch Rechtsverordnung der zust\u00e4ndigen Landesregierung damit zusammenh\u00e4ngende Steuerverwaltungst\u00e4tigkeiten auf ein nach \u00a7 2 Abs. 2 eingerichtetes Rechenzentrum \u00fcbertragen werden. Dieses handelt insoweit f\u00fcr das jeweils \u00f6rtlich zust\u00e4ndige Finanzamt. Absatz 2 Satz 4 gilt entsprechend.</P><P>(4) Auf Grund eines Staatsvertrages zwischen mehreren L\u00e4ndern k\u00f6nnen Zust\u00e4ndigkeiten nach Absatz 2 Satz 1 und 2 auf ein Finanzamt, ein nach \u00a7 2 Abs. 2 eingerichtetes Rechenzentrum der Landesfinanzverwaltung oder eine besondere Landesfinanzbeh\u00f6rde (\u00a7 2 Abs. 3) au\u00dferhalb des Landes \u00fcbertragen werden.</P><P>(5) Das Bundesministerium der Finanzen kann zur Effizienzsteigerung im Verwaltungsvollzug auf Antrag von und im Einvernehmen mit allen unmittelbar betroffenen L\u00e4ndern durch Rechtsverordnung mit Zustimmung des Bundesrates jeweils Zust\u00e4ndigkeiten nach Absatz 2 Satz 1 eines Landes oder mehrerer L\u00e4nder auf ein Finanzamt, ein nach \u00a7 2 Absatz 2 eingerichtetes Rechenzentrum der Landesfinanzverwaltung oder eine besondere Landesfinanzbeh\u00f6rde (\u00a7 2 Absatz 3) eines anderen Landes \u00fcbertragen. Absatz 4 bleibt unber\u00fchrt. Durch die Rechtsverordnung nach Satz 1 kann zugleich die Kostentragung geregelt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014270971BJNG000501301",
+        "name": "Abschnitt V",
+        "title": "Zusammenwirken von Bundes- und\nLandesfinanzbeh\u00f6rden",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002404140",
+        "name": "\u00a7 18",
+        "title": "Verwaltung der Umsatzsteuer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000501301"
+        },
+        "body": "<P>Die Hauptzoll\u00e4mter und ihre Dienststellen wirken bei der Verwaltung der Umsatzsteuer nach Ma\u00dfgabe der f\u00fcr diese Steuer geltenden Vorschriften mit. Sie handeln hierbei f\u00fcr die Finanzbeh\u00f6rde, die f\u00fcr die Besteuerung \u00f6rtlich zust\u00e4ndig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE004501377",
+        "name": "\u00a7 18a",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000501301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002505123",
+        "name": "\u00a7 19",
+        "title": "Mitwirkung des Bundeszentralamtes f\u00fcr Steuern an Au\u00dfenpr\u00fcfungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000501301"
+        },
+        "body": "<P>(1) Das Bundeszentralamt f\u00fcr Steuern ist zur Mitwirkung an Au\u00dfenpr\u00fcfungen berechtigt, die durch Landesfinanzbeh\u00f6rden durchgef\u00fchrt werden. Es kann verlangen, dass bestimmte von ihm namhaft gemachte Betriebe zu einem bestimmten Zeitpunkt gepr\u00fcft werden.</P><P>(2) Das Bundeszentralamt f\u00fcr Steuern bestimmt Art und Umfang seiner Mitwirkung. Die Landesfinanzbeh\u00f6rden machen dem Bundeszentralamt f\u00fcr Steuern auf Anforderung alle den Pr\u00fcfungsfall betreffenden Unterlagen zug\u00e4nglich und erteilen die erforderlichen Ausk\u00fcnfte.</P><P>(3) Im Einvernehmen mit den zust\u00e4ndigen Landesfinanzbeh\u00f6rden kann das Bundeszentralamt f\u00fcr Steuern im Auftrag des zust\u00e4ndigen Finanzamtes Au\u00dfenpr\u00fcfungen durchf\u00fchren. Das gilt insbesondere bei Pr\u00fcfungen von Auslandsbeziehungen und bei Pr\u00fcfungen, die sich \u00fcber das Gebiet eines Landes hinaus erstrecken.</P><P>(4) Ist bei der Auswertung des Pr\u00fcfungsberichts oder im Rechtsbehelfsverfahren beabsichtigt, von den Feststellungen des Bundeszentralamts f\u00fcr Steuern abzuweichen, so ist hier\u00fcber Einvernehmen mit dem Bundeszentralamt f\u00fcr Steuern zu erzielen. Dies gilt auch f\u00fcr die in diesen F\u00e4llen zu erteilenden verbindlichen Zusagen nach \u00a7 204 der Abgabenordnung. Wird kein Einvernehmen erzielt, kann die Frage dem Bundesministerium der Finanzen zur Entscheidung vorgelegt werden.</P><P>(5) Das Bundeszentralamt f\u00fcr Steuern kann verlangen, dass bestimmte von ihm namhaft gemachte Steuerpflichtige, die nach \u00a7 193 der Abgabenordnung oder \u00a7 5 des Investmentsteuergesetzes der Au\u00dfenpr\u00fcfung unterliegen, gepr\u00fcft werden und Regelungen zur Durchf\u00fchrung und zu Inhalten der Au\u00dfenpr\u00fcfung dieser Steuerpflichtigen festlegen. Es wirkt in diesen F\u00e4llen an der jeweiligen Au\u00dfenpr\u00fcfung mit. Dies gilt insbesondere in F\u00e4llen, in denen die Gleichm\u00e4\u00dfigkeit der Rechtsanwendung in mehreren Betrieben sicherzustellen ist, sowie in den F\u00e4llen des Absatzes 3 Satz 2.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002607360",
+        "name": "\u00a7 20",
+        "title": "Einsatz von automatischen Einrichtungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000501301"
+        },
+        "body": "<P>(1) Die f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rden bestimmen Art, Umfang und Organisation des Einsatzes der automatischen Einrichtungen f\u00fcr die Festsetzung und Erhebung von Steuern, die von den Landesfinanzbeh\u00f6rden verwaltet werden; zur Gew\u00e4hrleistung gleicher Programmergebnisse und eines ausgewogenen Leistungsstandes ist Einvernehmen mit dem Bundesministerium der Finanzen herbeizuf\u00fchren.</P><P>(2) Werden Steuern von den Landesfinanzbeh\u00f6rden im Auftrag des Bundes verwaltet, wirken die obersten Finanzbeh\u00f6rden des Bundes und der L\u00e4nder zur Verbesserung oder Erleichterung des gleichm\u00e4\u00dfigen Vollzugs der Steuergesetze zusammen. Art, Umfang und Organisation des Einsatzes der automatischen Einrichtung f\u00fcr die Festsetzung und Erhebung der Steuern bed\u00fcrfen des Einvernehmens des Bundesministeriums der Finanzen. Wird dieses nicht erzielt, kann das Bundesministerium der Finanzen Vorgaben hierzu erlassen, wenn nicht mindestens elf L\u00e4nder widersprechen. Im Falle von Vorgaben sind die L\u00e4nder verpflichtet, die f\u00fcr die Umsetzung erforderlichen Voraussetzungen zu schaffen.</P><P>(3) Die f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rden k\u00f6nnen technische Hilfst\u00e4tigkeiten durch automatische Einrichtungen der Finanzbeh\u00f6rden des Bundes, eines anderen Landes oder anderer Verwaltungstr\u00e4ger verrichten lassen. Das Bundesministerium der Finanzen kann technische Hilfst\u00e4tigkeiten durch automatische Einrichtungen der Finanzbeh\u00f6rden eines Landes oder anderer Verwaltungstr\u00e4ger verrichten lassen. Technische Hilfst\u00e4tigkeiten sind unterst\u00fctzende Dienstleistungen, insbesondere die Entgegennahme elektronischer Steuererkl\u00e4rungen einschlie\u00dflich der Authentifizierung des Daten\u00fcbermittlers, die Bereitstellung des Zugangs zum Abruf von Steuerdaten durch die Steuerpflichtigen, die elektronische \u00dcbermittlung von Steuerverwaltungsakten und anderer Mitteilungen und die elektronische \u00dcbermittlung von Daten innerhalb der Finanzverwaltung. Die technischen Hilfst\u00e4tigkeiten der beauftragten Stelle oder Einrichtung sind der sachlich und \u00f6rtlich zust\u00e4ndigen Finanzbeh\u00f6rde zuzurechnen. In diesen F\u00e4llen ist sicherzustellen, dass die technischen Hilfst\u00e4tigkeiten entsprechend den fachlichen Weisungen der f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Beh\u00f6rde oder der von ihr bestimmten Finanzbeh\u00f6rde der Gebietsk\u00f6rperschaft verrichtet werden, die die Aufgabenwahrnehmung \u00fcbertragen hat.</P><P>(4) Das Bundesministerium der Finanzen erstattet dem Haushalts- und dem Finanzausschuss des Deutschen Bundestages j\u00e4hrlich zum 1. M\u00e4rz Bericht \u00fcber den aktuellen Stand und die Fortschritte des Zusammenwirkens von Bund und L\u00e4ndern nach Absatz 2.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE004702123",
+        "name": "\u00a7 20a",
+        "title": "Druckdienstleistungen f\u00fcr Bundesfinanzbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000501301"
+        },
+        "body": "<P>(1) Das Bundesministerium der Finanzen darf sich zum Drucken und Kuvertieren von schriftlichen Verwaltungsakten im Sinne des \u00a7 118 der Abgabenordnung und sonstigen Schreiben im Verwaltungsverfahren nach der Abgabenordnung der Bundesfinanzbeh\u00f6rden und zu deren anschlie\u00dfenden verschlossenen \u00dcbergabe an einen Postdienstleister (Druckdienstleistung) nur dann einer nicht \u00f6ffentlichen Stelle als Auftragsverarbeiter im Sinne des Artikels 4 Nummer 8 der Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L\u00a0127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung im Rahmen eines Vertrages bedienen, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Druckdienstleistung insoweit weder von der Bundesverwaltung noch durch automatische Einrichtungen der Beh\u00f6rden eines Landes oder eines anderen Verwaltungstr\u00e4gers in wirtschaftlich vertretbarer Weise geleistet werden kann,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>gesch\u00fctzte Daten im Sinne des \u00a7 30 der Abgabenordnung ausschlie\u00dflich durch Amtstr\u00e4ger oder nach \u00a7 11 Absatz 1 Nummer 4 des Strafgesetzbuchs f\u00fcr den \u00f6ffentlichen Dienst besonders verpflichtete Personen verarbeitet werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die zur Erbringung der Druckdienstleistung \u00fcberlassenen Daten sowie die Protokolldaten nicht f\u00fcr andere Zwecke verarbeitet werden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Druckdienstleistung im Inland stattfindet,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>der Auftragsverarbeiter im Rahmen der Artikel 25 und 32 der Verordnung (EU) 2016/679 ein vom Bundesministerium der Finanzen freizugebendes IT-Sicherheitskonzept nach dem Standard des aktuellen IT-Grundschutzkatalogs des Bundesamtes f\u00fcr Sicherheit in der Informationstechnik erstellt hat,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>der Auftragsverarbeiter die \u00fcberlassenen Daten entsprechend der vertraglich festgelegten Frist nach Abschluss der Druckdienstleistung l\u00f6scht und</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>das Ergebnis der Druckdienstleistung vom Auftragsverarbeiter protokolliert und diese Protokolldaten entsprechend der vertraglich festgelegten Frist an die vom Auftraggeber benannte Stelle \u00fcbermittelt werden.</LA></DD></DL></P><P>(2) Absatz 1 gilt entsprechend, wenn der Auftragsverarbeiter sich eines weiteren Auftragsverarbeiters bedienen will.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002710360",
+        "name": "\u00a7 21",
+        "title": "Auskunfts- und Teilnahmerechte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000501301"
+        },
+        "body": "<P>(1) Soweit die den L\u00e4ndern zustehenden Steuern von Bundesfinanzbeh\u00f6rden verwaltet werden, haben die f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rden das Recht, sich \u00fcber die f\u00fcr diese Steuern erheblichen Vorg\u00e4nge bei den zust\u00e4ndigen Bundesfinanzbeh\u00f6rden zu unterrichten. Zu diesem Zweck steht ihnen das Recht auf Akteneinsicht und auf m\u00fcndliche und schriftliche Auskunft zu.</P><P>(2) Die f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rden sind berechtigt, durch Landesbedienstete an Au\u00dfenpr\u00fcfungen teilzunehmen, die durch Bundesfinanzbeh\u00f6rden durchgef\u00fchrt werden und die in Absatz 1 genannten Steuern betreffen.</P><P>(3) Die in den Abs\u00e4tzen 1 und 2 genannten Rechte stehen den Gemeinden hinsichtlich der Realsteuern insoweit zu, als diese von den Landesfinanzbeh\u00f6rden verwaltet werden. Die Gemeinden sind jedoch abweichend von Absatz 2 nur dann berechtigt, durch Gemeindebedienstete an Au\u00dfenpr\u00fcfungen bei Steuerpflichtigen teilzunehmen, wenn diese in der Gemeinde eine Betriebsst\u00e4tte unterhalten oder Grundbesitz haben und die Au\u00dfenpr\u00fcfungen im Gemeindebezirk erfolgen.</P><P>(4) Das Bundeszentralamt f\u00fcr Steuern, die Familienkassen, soweit sie den Familienleistungsausgleich nach Ma\u00dfgabe der \u00a7\u00a7 31 und 62 bis 78 des Einkommensteuergesetzes durchf\u00fchren, und die Landesfinanzbeh\u00f6rden stellen sich gegenseitig die f\u00fcr die Durchf\u00fchrung des \u00a7 31 des Einkommensteuergesetzes erforderlichen Daten und Ausk\u00fcnfte zur Verf\u00fcgung.</P><P>(5) Das Bundeszentralamt f\u00fcr Steuern, die Deutsche Rentenversicherung Knappschaft-Bahn-See als Tr\u00e4ger der knappschaftlichen Rentenversicherung, soweit sie den Einzug der einheitlichen Pauschalsteuer nach \u00a7 40a Abs. 2 des Einkommensteuergesetzes durchf\u00fchrt, und die Landesfinanzbeh\u00f6rden stellen sich gegenseitig die f\u00fcr die Durchf\u00fchrung des \u00a7 40a Abs. 6 des Einkommensteuergesetzes erforderlichen Daten und Ausk\u00fcnfte zur Verf\u00fcgung.</P><P>(6) Soweit die dem Bund ganz oder zum Teil zuflie\u00dfenden Steuern von Landesfinanzbeh\u00f6rden verwaltet werden, stellen die L\u00e4nder den Bundesfinanzbeh\u00f6rden Daten des Steuervollzugs zur eigenst\u00e4ndigen Auswertung, insbesondere f\u00fcr Zwecke der Gesetzesfolgenabsch\u00e4tzung, zur Verf\u00fcgung. Dies gilt unter den Voraussetzungen des \u00a7 29c Absatz 1 Satz 1 Nummer 5 der Abgabenordnung auch f\u00fcr nach \u00a7 30 der Abgabenordnung gesch\u00fctzte Daten.</P><P>(7) Zur Durchf\u00fchrung der Verpflichtungen des Bundeszentralamtes f\u00fcr Steuern nach \u00a7 7 Absatz 3 bis 5 des EU-Amtshilfegesetzes stellen die zust\u00e4ndigen Landesfinanzbeh\u00f6rden dem Bundeszentralamt f\u00fcr Steuern die erforderlichen Informationen nach Ma\u00dfgabe der in \u00a7 7 Absatz 7 Satz 2 des EU-Amtshilfegesetzes angef\u00fchrten praktischen Regelungen der Europ\u00e4ischen Kommission zur Verf\u00fcgung. Hierzu nutzen die Landesfinanzbeh\u00f6rden das Zentralverzeichnis der Mitgliedstaaten der Europ\u00e4ischen Kommission gem\u00e4\u00df Artikel 21 Absatz 5 der Richtlinie 2011/16/EU ab dem Zeitpunkt seiner Bereitstellung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003704123",
+        "name": "\u00a7 21a",
+        "title": "Allgemeine Verfahrensgrunds\u00e4tze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000501301"
+        },
+        "body": "<P>(1) Zur Verbesserung und Erleichterung des Vollzugs von Steuergesetzen und im Interesse des Zieles der Gleichm\u00e4\u00dfigkeit der Besteuerung bestimmt das Bundesministerium der Finanzen mit Zustimmung der obersten Finanzbeh\u00f6rden der L\u00e4nder einheitliche Verwaltungsgrunds\u00e4tze, Regelungen zur Zusammenarbeit des Bundes mit den L\u00e4ndern und erteilt allgemeine fachliche Weisungen. Die Zustimmung gilt als erteilt, wenn nicht mindestens elf L\u00e4nder widersprechen. Initiativen zur Festlegung der Angelegenheiten des Satzes 1 kann das Bundesministerium der Finanzen allein oder auf gemeinsame Veranlassung von mindestens vier L\u00e4ndern ergreifen. Die Vertraulichkeit der Sitzungen ist zu wahren, wenn nicht im Einzelfall einstimmig etwas anderes beschlossen wurde. F\u00fcr Beratungen im schriftlichen Verfahren gilt Entsprechendes.</P><P>(2) Die oberste Finanzbeh\u00f6rde jedes Landes vereinbart mit dem Bundesministerium der Finanzen bilateral Vollzugsziele f\u00fcr die Steuerverwaltung des Landes auf der Grundlage eines vom Bundesministerium der Finanzen mit Zustimmung der obersten Finanzbeh\u00f6rden der L\u00e4nder bestimmten Rahmenkatalogs ma\u00dfgebender Leistungskennzahlen. Die Zustimmung gilt als erteilt, wenn eine Mehrheit der L\u00e4nder nicht widerspricht.</P><P>(3) Die obersten Finanzbeh\u00f6rden des Bundes und der L\u00e4nder \u00fcberpr\u00fcfen regelm\u00e4\u00dfig die Erf\u00fcllung der vereinbarten Vollzugsziele. Hierzu \u00fcbermitteln die obersten Finanzbeh\u00f6rden der L\u00e4nder dem Bundesministerium der Finanzen die erforderlichen Daten.</P><P>(4) Vereinbarungen nach Absatz 2 sind f\u00fcr die obersten Finanzbeh\u00f6rden des Bundes und der L\u00e4nder verbindlich.</P><P>(5) Die Finanzbeh\u00f6rden der L\u00e4nder wirken bei der Auswertung von Mitteilungen \u00fcber grenz\u00fcberschreitende Steuergestaltungen nach \u00a7 138j Absatz 1 Satz 1 der Abgabenordnung durch das Bundeszentralamt f\u00fcr Steuern mit, soweit Steuern betroffen sind, die von den L\u00e4ndern oder Gemeinden verwaltet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014270971BJNG000602301",
+        "name": "Abschnitt VI",
+        "title": "\u00dcbergangsregelungen aus Anlass des Zweiten Gesetzes zur \u00c4nderung des Finanzverwaltungsgesetzes und anderer Gesetze vom 13. Dezember 2007",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002805160",
+        "name": "\u00a7 22",
+        "title": "Dienstrechtliche Folgen und Regelung der Versorgungslasten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000602301"
+        },
+        "body": "<P>(1) F\u00fcr die am 31. Dezember 2007 vorhandenen Oberfinanzpr\u00e4sidenten und Oberfinanzpr\u00e4sidentinnen der Oberfinanzdirektionen Chemnitz, Hannover, Karlsruhe und Koblenz endet das Beamtenverh\u00e4ltnis zur Bundesrepublik Deutschland mit Ablauf dieses Tages. \u00a7 107b des Beamtenversorgungsgesetzes in der Fassung der Bekanntmachung vom 24. Februar 2010 (BGBl. I S. 150) gilt entsprechend mit der Ma\u00dfgabe, dass der in \u00a7 107b Abs. 1 Satz 1 des Beamtenversorgungsgesetzes genannte Dienstherrenwechsel sowie der dort genannte Zeitraum von mindestens f\u00fcnf Jahren unber\u00fccksichtigt bleiben und dass abgeleistete ruhegehaltf\u00e4hige Dienstzeiten, in denen die Oberfinanzpr\u00e4sidenten oder Oberfinanzpr\u00e4sidentinnen sowohl beim Bund als auch beim Land beamtet waren, vom Bund und vom Land je zur H\u00e4lfte getragen werden. F\u00fcr die Zeit ab 1. Januar 2008 tr\u00e4gt das jeweilige Bundesland, dem die genannte Oberfinanzdirektion untersteht, die vollen Versorgungslasten.</P><P>(2) F\u00fcr die \u00fcbrigen Personen, die<DL><DT>1.</DT><DD><LA>das Amt des Oberfinanzpr\u00e4sidenten oder der Oberfinanzpr\u00e4sidentin am oder vor dem 31. Dezember 2007 innehatten und</LA></DD><DT>2.</DT><DD><LA>an diesem Tag noch nicht im Ruhestand waren,</LA></DD></DL>gilt Absatz 1 Satz 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE002904377",
+        "name": "\u00a7 23",
+        "title": "\u00dcbergangsregelung<BR />Kosten der Oberfinanzdirektion",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000602301"
+        },
+        "body": "<P>Die Kosten der Oberfinanzdirektion werden vom Bund getragen, soweit sie auf den Bund entfallen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014270971BJNG000900377",
+        "name": "Abschnitt VII",
+        "title": "\u00dcberleitungs- und \u00dcbergangsregelungen aus Anlass des Gesetzes zur Neuorganisation der Zollverwaltung vom 3. Dezember 2015 (BGBl. I S. 2178)",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003801377",
+        "name": "\u00a7 24",
+        "title": "\u00dcberleitung der Besch\u00e4ftigten der Bundesfinanzdirektionen, des Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000900377"
+        },
+        "body": "<P>Auf Grund der mit Inkrafttreten des Gesetzes zur Neuorganisation der Zollverwaltung vom 3. Dezember 2015 (BGBl. I S. 2178) vollzogenen \u00dcberf\u00fchrung der Bundesfinanzdirektionen Nord, Mitte, West, S\u00fcdwest und S\u00fcdost, des Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung in die Generalzolldirektion sind die Beamtinnen und Beamten sowie die Arbeitnehmerinnen und Arbeitnehmer, die bei diesen Bundesfinanzdirektionen, dem Zollkriminalamt oder dem Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung am 31. Dezember 2015 besch\u00e4ftigt waren, ab dem 1. Januar 2016 Besch\u00e4ftigte der Generalzolldirektion. Satz 1 gilt f\u00fcr die Auszubildenden bei den zuvor genannten Beh\u00f6rden entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE003901377",
+        "name": "\u00a7 25",
+        "title": "\u00dcbergangsregelung Personalvertretung, Jugend- und Auszubildendenvertretung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000900377"
+        },
+        "body": "<P>(1) Die erstmaligen Wahlen zu den Personalvertretungen finden bei der Generalzolldirektion sp\u00e4testens bis zum 31. Mai 2016 statt. Bis zu diesen Wahlen werden die Personalratsaufgaben des \u00f6rtlichen Personalrats und des Bezirkspersonalrats \u00fcbergangsweise vom Hauptpersonalrat beim Bundesministerium der Finanzen wahrgenommen.</P><P>(2) Die am 31. Dezember 2015 bestehenden Dienstvereinbarungen zwischen den aufgel\u00f6sten Dienststellen und den dort gebildeten Personalvertretungen gelten bis zum Abschluss neuer Dienstvereinbarungen fort, l\u00e4ngstens aber f\u00fcr die Dauer von 18 Monaten.</P><P>(3) F\u00fcr die Jugend- und Auszubildendenvertretungen bei der Generalzolldirektion gelten die Abs\u00e4tze 1 und 2 entsprechend. Bis zu den erstmaligen Wahlen werden die Aufgaben der \u00f6rtlichen Jugend- und Auszubildendenvertretung und der Bezirksjugend- und Auszubildendenvertretung \u00fcbergangsweise von der Hauptjugend- und Auszubildendenvertretung beim Bundesministerium der Finanzen wahrgenommen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE004001377",
+        "name": "\u00a7 26",
+        "title": "\u00dcbergangsregelung Schwerbehindertenvertretung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000900377"
+        },
+        "body": "<P>(1) Die erstmaligen Wahlen zur \u00f6rtlichen Schwerbehindertenvertretung nach dem Neunten Buch Sozialgesetzbuch finden in der Generalzolldirektion sp\u00e4testens bis zum 30. Juni 2016 statt. Bis die Schwerbehindertenvertretung ihre T\u00e4tigkeit aufnimmt, werden deren Aufgaben \u00fcbergangsweise von der Hauptschwerbehindertenvertretung im Gesch\u00e4ftsbereich des Bundesministeriums der Finanzen wahrgenommen. Die Hauptvertrauensperson der schwerbehinderten Menschen in der Bundesfinanzverwaltung bestellt unter Beachtung der gesetzlichen Bestimmungen unverz\u00fcglich den Wahlvorstand f\u00fcr die erstmaligen Wahlen nach Satz 1.</P><P>(2) Die erstmalige Wahl zur Bezirksschwerbehindertenvertretung nach dem Neunten Buch Sozialgesetzbuch findet in der Generalzolldirektion zeitnah nach den Wahlen zur \u00f6rtlichen Schwerbehindertenvertretung, sp\u00e4testens bis zum 30. September 2016 statt. Bis die Bezirksschwerbehindertenvertretung ihre T\u00e4tigkeit aufnimmt, werden deren Aufgaben \u00fcbergangsweise von der Hauptschwerbehindertenvertretung im Gesch\u00e4ftsbereich des Bundesministeriums der Finanzen wahrgenommen. Die Hauptvertrauensperson der schwerbehinderten Menschen in der Bundesfinanzverwaltung bestellt unverz\u00fcglich den Wahlvorstand f\u00fcr die erstmalige Wahl nach Satz 1.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014270971BJNE004101377",
+        "name": "\u00a7 27",
+        "title": "\u00dcbergangsregelung Gleichstellungsbeauftragte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014270971BJNG000900377"
+        },
+        "body": "<P>(1) Die erstmalige Wahl der Gleichstellungsbeauftragten der Generalzolldirektion sowie der Stellvertreterinnen findet sp\u00e4testens bis zum 31. M\u00e4rz 2016 statt.</P><P>(2) Bis zur erstmaligen Wahl f\u00fchren die bisherigen Gleichstellungsbeauftragten der Bundesfinanzdirektionen, des Zollkriminalamtes und des Bildungs- und Wissenschaftszentrums der Bundesfinanzverwaltung sowie die Stellvertreterinnen ihr Amt bei der Generalzolldirektion fort. Bis zur erstmaligen Wahl bleiben sie f\u00fcr die Besch\u00e4ftigten derjenigen Dienststellen zust\u00e4ndig, f\u00fcr die sie vor der Einrichtung der Generalzolldirektion zust\u00e4ndig waren. Sofern Entscheidungen getroffen und Ma\u00dfnahmen durchgef\u00fchrt werden, die die gesamte Generalzolldirektion betreffen, sind bis zur erstmaligen Wahl alle bisherigen Gleichstellungsbeauftragten zu beteiligen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR015239981",
+    "firstPublished": "1981-12-22",
+    "sourceTimestamp": "20130405125731",
+    "titleShort": "2. Haushaltsstrukturgesetz",
+    "titleLong": "Zweites Gesetz zur Verbesserung der Haushaltsstruktur",
+    "abbreviation": "2. HStruktG",
+    "slug": "2_hstruktg",
+    "extraAbbreviations": [
+      "HStruktG 2"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1981, 1523",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 14. G v. 29. 6.1998 I 1666",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>Art. 27: MVzAFWoG 2330-22 <BR />Art. 27 Unterart. 1: AFWoG 2330-22 <BR />Art. 39: StIndInvZuLG 707-13</P><P><BR /> (+++ Textnachweis ab: 1. 1.1982 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNG000100314",
+        "name": "Art 1",
+        "title": "Bundesbesoldungsgesetz",
+        "parent": null,
+        "body": "<P>1. <DL Font=\"normal\" Type=\"arabic\"><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">a)<DL Font=\"normal\" Type=\"arabic\"><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00fcr den Wegfall des \u00f6rtlichen Sonderzuschlages f\u00fcr Berlin wird folgende \u00dcbergangsregelung getroffen:<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">Der \u00f6rtliche Sonderzuschlag f\u00fcr Berlin (\u00a7 74 des Bundesbesoldungsgesetzes, \u00a7 50 Abs. 2 des Beamtenversorgungsgesetzes, \u00a7 47 Abs. 3 und \u00a7 89a des Soldatenversorgungsgesetzes in der am 31. Dezember 1981 geltenden Fassung) wird nach Ma\u00dfgabe des Doppelbuchstaben bb \u00fcbergangsweise weitergezahlt; allgemeine Erh\u00f6hungen der Grundgeh\u00e4lter nach dem 31. Dezember 1981 f\u00fchren nicht zu einer Erh\u00f6hung des \u00f6rtlichen Sonderzuschlages.</LA></DD> <DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">Der \u00f6rtliche Sonderzuschlag vermindert sich bei jeder nach dem 31. Dezember 1981 in Kraft tretenden allgemeinen Besoldungsverbesserung um ein Drittel des Betrages nach dem Stande vom 31. Dezember 1981. Die Verminderung tritt von dem Zeitpunkt an ein, zu dem die allgemeine Besoldungsverbesserung in Kraft tritt.</LA></DD> </DL></LA></DD> </DL></LA></DD> </DL>3. <BR />4. <DL Font=\"normal\" Type=\"arabic\"><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorschriften f\u00fcr Versorgungsempf\u00e4nger</LA></DD> </DL> </P><P>(1) Die Fu\u00dfnote zu Anlage IX zum Bundesbesoldungsgesetz findet auch auf die am 1. M\u00e4rz 1982 vorhandenen Versorgungsempf\u00e4nger Anwendung.</P><P>(2) Versorgungsbez\u00fcge, die nicht nach vorstehendem Absatz 1 oder nach \u00a7 41a des Bundesbesoldungsgesetzes in Verbindung mit \u00a7 50 Abs. 1 Satz 1 des Beamtenversorgungsgesetzes, \u00a7 47 Abs. 1 Satz 1 des Soldatenversorgungsgesetzes gek\u00fcrzt werden, werden vom 1. M\u00e4rz 1982 an um 0,7 vom Hundert gek\u00fcrzt.</P><P>(3) Der durchschnittliche Hundertsatz der allgemeinen Verminderung der Dienstbez\u00fcge im Sinne des \u00a7 70 Abs. 3 des Beamtenversorgungsgesetzes vom 24. August 1976 (BGBl. I S. 2485), das zuletzt durch Artikel 5 des Gesetzes vom 20. August 1980 (BGBl. I S. 1509) ge\u00e4ndert worden ist, wird f\u00fcr das Zweite Haushaltsstrukturgesetz auf 0,7 vom Hundert festgestellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG000200314",
+        "name": "Art 2",
+        "title": "Beamtenversorgungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE004700314",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000200314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE004805301",
+        "name": "\u00a7 2",
+        "title": "\u00dcbergangsvorschrift",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000200314"
+        },
+        "body": "<P>(1) Beruht die Versorgung auf einem Beamtenverh\u00e4ltnis, das vor dem 1. Januar 1966 begr\u00fcndet worden ist und ergibt sich durch die \u00c4nderungen in \u00a7 1 Nr. 1 bis 5, 7, 11 bis 13 eine niedrigere Versorgung als nach dem bis zum Inkrafttreten dieser Vorschrift geltenden Recht, wird ein Ausgleich gew\u00e4hrt. Der Ausgleich wird f\u00fcr die am Tage vor dem Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempf\u00e4nger mit Renten in H\u00f6he des Unterschieds gew\u00e4hrt, der sich zu diesem Zeitpunkt ergibt. Bei Beginn der Zahlung der Versorgungsbez\u00fcge oder der Rente in der Zeit vom 1. Januar 1982 bis zum 31. Dezember 1992 wird der Ausgleich aus dem Unterschied berechnet, der sich bei Eintritt der Voraussetzungen des \u00a7 55 des Beamtenversorgungsgesetzes ergibt; der Ausgleich betr\u00e4gt bei Eintritt dieser Voraussetzungen im Jahre <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"10*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"40*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1982</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">elf Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1983</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">zehn Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1984</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">neun Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1985</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">acht Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1986</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">sieben Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1987</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">sechs Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1988</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">f\u00fcnf Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1989</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">vier Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1990</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">drei Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1991</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">zwei Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1992</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">ein Zw\u00f6lftel</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> <BR />des Unterschieds. Der Ausgleich verringert sich um jeweils die H\u00e4lfte des Betrages, um den sich die Versorgungsbez\u00fcge auf Grund einer allgemeinen Erh\u00f6hung der Versorgungsbez\u00fcge erh\u00f6hen; er verringert sich ferner um jede sonstige Erh\u00f6hung der Versorgungsbez\u00fcge. Der Ausgleich darf den nach \u00a7 55 des Beamtenversorgungsgesetzes sich jeweils ergebenden Ruhensbetrag nicht \u00fcbersteigen. Vermindert sich eine f\u00fcr die Berechnung des Ausgleichs ber\u00fccksichtigte Rente durch Umwandlung oder aus anderen Gr\u00fcnden, ist vom gleichen Zeitpunkt an der Ausgleich um den Betrag zu verringern, um den sich der Ruhensbetrag nach \u00a7 55 des Beamtenversorgungsgesetzes vermindert.</P><P>(2) Die versorgungsberechtigten Hinterbliebenen eines nach Absatz 1 Ausgleichsberechtigten erhalten den Ausgleich in H\u00f6he der Anteilss\u00e4tze des Witwen- oder Waisengeldes. Absatz 1 Satz 4 bis 6 gilt entsprechend.</P><P>(3) Beruht die Versorgung auf einem Beamtenverh\u00e4ltnis, das vor dem 1. Januar 1966 begr\u00fcndet worden ist, ist \u00a7 55 des Beamtenversorgungsgesetzes mit folgenden Ma\u00dfgaben anzuwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der zu ber\u00fccksichtigende Rentenbetrag wird um 40 vom Hundert gemindert,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">neben den Renten ist mindestens ein Betrag in H\u00f6he von 40 vom Hundert der Versorgungsbez\u00fcge zu belassen;</LA></DD> </DL>solange ein Ausgleich nach Absatz 1 oder 2 zusteht, ist der Unterschied zwischen dem Betrag der Versorgungsbez\u00fcge, der sich nach Halbsatz 1 ergibt, und dem Betrag der Versorgungsbez\u00fcge, der sich ohne Anwendung des Halbsatzes 1 erg\u00e4be, nur insoweit zu zahlen, als er den Ausgleich \u00fcbersteigt. Satz 1 gilt nicht f\u00fcr die Anwendung des Absatzes 1 Satz 1 bis 3.</P><P>(4) Im Sinne der Abs\u00e4tze 1 und 3 beruht die Versorgung auch dann auf einem vor dem 1. Januar 1966 begr\u00fcndeten Beamtenverh\u00e4ltnis, wenn dem Beamtenverh\u00e4ltnis, aus dem der Beamte in den Ruhestand getreten ist, bereits vor dem 1. Januar 1966 begr\u00fcndete \u00f6ffentlich-rechtliche Dienstverh\u00e4ltnisse in unmittelbarem zeitlichen Zusammenhang vorausgegangen sind. Einem \u00f6ffentlich-rechtlichen Dienstverh\u00e4ltnis steht ein Besch\u00e4ftigungsverh\u00e4ltnis im Sinne des \u00a7 5 Abs. 1 Nr. 2 und des \u00a7 6 Abs. 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch gleich.</P><P>(5) \u00c4nderungen der Zahlbetr\u00e4ge, die sich auf Grund des Absatzes 4 ergeben, werden auf Antrag vorgenommen, fr\u00fchestens ab Inkrafttreten dieser Vorschrift. Ein Ausgleich nach Absatz 1 wird nicht gew\u00e4hrt. Absatz 4 ist vom Ersten des Monats der Antragstellung an anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE004900314",
+        "name": "\u00a7 3",
+        "title": "R\u00fcckforderungsvorbehalt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000200314"
+        },
+        "body": "<P>Ab 1. Januar 1982 werden die Versorgungsbez\u00fcge unter dem Vorbehalt gezahlt, da\u00df \u00dcberzahlungen auf Grund der Rechts\u00e4nderungen durch die \u00a7\u00a7 1 und 2 zur\u00fcckgefordert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG000300314",
+        "name": "Art 3",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005000314",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000300314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005100314",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000300314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005204301",
+        "name": "\u00a7 3",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000300314"
+        },
+        "body": "<P>(1) F\u00fcr Soldaten auf Zeit, die vor dem 1. Januar 1982 eine Verpflichtungs- oder Weiterverpflichtungserkl\u00e4rung f\u00fcr eine Dienstzeit von zw\u00f6lf oder mehr Jahren abgegeben haben und deren Dienstzeit auf Grund dieser Erkl\u00e4rung festgesetzt wurde, gilt, wenn diese Dienstzeitfestsetzung im Zeitpunkt der Beendigung des Dienstverh\u00e4ltnisses noch ma\u00dfgebend ist, \u00a7 12 Abs. 3 Satz 1 des Soldatenversorgungsgesetzes in der bis zum 31. Dezember 1981 geltenden Fassung. Artikel 10 \u00a7 3 Abs. 2 Satz 1 des Haushaltsstrukturgesetzes vom 18. Dezember 1975 (BGBl. I S. 3091) bleibt unber\u00fchrt.</P><P>(2) Beruht die Versorgung auf einem Soldatenverh\u00e4ltnis, das vor dem 1. Januar 1966 begr\u00fcndet worden ist und ergibt sich durch die \u00c4nderungen in \u00a7 1 Nr. 3 bis 5, 7 und 12 sowie in \u00a7 2 eine niedrigere Versorgung als nach dem bis zum Inkrafttreten dieser Vorschrift geltenden Recht, wird ein Ausgleich gew\u00e4hrt. Der Ausgleich wird f\u00fcr die am Tage vor dem Inkrafttreten dieses Gesetzes vorhandenen Versorgungsempf\u00e4nger mit Renten in H\u00f6he des Unterschieds gew\u00e4hrt, der sich zu diesem Zeitpunkt ergibt. Bei Beginn der Zahlung der Versorgungsbez\u00fcge oder der Rente in der Zeit vom 1. Januar 1982 bis zum 31. Dezember 1992 wird der Ausgleich aus dem Unterschied berechnet, der sich bei Eintritt der Voraussetzungen des \u00a7 55a des Soldatenversorgungsgesetzes ergibt; der Ausgleich betr\u00e4gt bei Eintritt dieser Voraussetzungen im Jahre <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"10*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"40*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1982</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">elf Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1983</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">zehn Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1984</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">neun Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1985</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">acht Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1986</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">sieben Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1987</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">sechs Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1988</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">f\u00fcnf Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1989</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">vier Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1990</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">drei Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1991</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">zwei Zw\u00f6lftel,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1992</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">ein Zw\u00f6lftel</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> <BR />des Unterschieds. Der Ausgleich verringert sich um jeweils die H\u00e4lfte des Betrages, um den sich die Versorgungsbez\u00fcge auf Grund einer allgemeinen Erh\u00f6hung der Versorgungsbez\u00fcge erh\u00f6hen; er verringert sich ferner um jede sonstige Erh\u00f6hung der Versorgungsbez\u00fcge. Der Ausgleich darf den nach \u00a7 55a des Soldatenversorgungsgesetzes sich jeweils ergebenden Ruhensbetrag nicht \u00fcbersteigen. Vermindert sich eine f\u00fcr die Berechnung des Ausgleichs ber\u00fccksichtigte Rente durch Umwandlung oder aus anderen Gr\u00fcnden, ist vom gleichen Zeitpunkt an der Ausgleich um den Betrag zu verringern, um den sich der Ruhensbetrag nach \u00a7 55a des Soldatenversorgungsgesetzes vermindert.</P><P>(3) Die versorgungsberechtigten Hinterbliebenen eines nach Absatz 2 Ausgleichsberechtigten erhalten den Ausgleich in H\u00f6he der Anteilss\u00e4tze des Witwen- oder Waisengeldes. Absatz 2 Satz 4 bis 6 gilt entsprechend.</P><P>(4) Beruht die Versorgung auf einem Soldatenverh\u00e4ltnis, das vor dem 1. Januar 1966 begr\u00fcndet worden ist, ist \u00a7 55a des Soldatenversorgungsgesetzes mit folgenden Ma\u00dfgaben anzuwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der zu ber\u00fccksichtigende Rentenbetrag wird um 40 vom Hundert gemindert,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">neben den Renten ist mindestens ein Betrag in H\u00f6he von 40 vom Hundert der Versorgungsbez\u00fcge zu belassen;</LA></DD> </DL>solange ein Ausgleich nach Absatz 2 oder 3 zusteht, ist der Unterschied zwischen dem Betrag der Versorgungsbez\u00fcge, der sich nach Halbsatz 1 ergibt, und dem Betrag der Versorgungsbez\u00fcge, der sich ohne Anwendung des Halbsatzes 1 erg\u00e4be, nur insoweit zu zahlen, als er den Ausgleich \u00fcbersteigt. Satz 1 gilt nicht f\u00fcr die Anwendung des Absatzes 2 Satz 1 bis 3.</P><P>(5) Im Sinne der Abs\u00e4tze 2 und 4 beruht die Versorgung auch dann auf einem vor dem 1. Januar 1966 begr\u00fcndeten Soldatenverh\u00e4ltnis, wenn dem Soldatenverh\u00e4ltnis, aus dem der Soldat in den Ruhestand getreten ist, bereits vor dem 1. Januar 1966 begr\u00fcndete andere \u00f6ffentlich-rechtliche Dienstverh\u00e4ltnisse in unmittelbarem zeitlichen Zusammenhang vorausgegangen sind. Einem \u00f6ffentlich-rechtlichen Dienstverh\u00e4ltnis steht ein Besch\u00e4ftigungsverh\u00e4ltnis im Sinne des \u00a7 5 Abs. 1 Nr. 2 und \u00a7 6 Abs. 1 Nr. 2 des Sechsten Buches Sozialgesetzbuch gleich.</P><P>(6) \u00c4nderungen der Zahlbetr\u00e4ge, die sich auf Grund des Absatzes 5 ergeben, werden auf Antrag vorgenommen, fr\u00fchestens ab dem 1. Januar 1999. Ein Ausgleich nach Absatz 2 wird nicht gew\u00e4hrt. Absatz 5 ist vom Ersten des Monats der Antragstellung an anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>Art. 3 \u00a7 3 Abs. 4 gilt in Berlin in folgender Fassung:</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005300314",
+        "name": "\u00a7 4",
+        "title": "R\u00fcckforderungsvorbehalt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000300314"
+        },
+        "body": "<P>Ab 1. Januar 1982 werden die Versorgungsbez\u00fcge unter dem Vorbehalt gezahlt, da\u00df \u00dcberzahlungen auf Grund der Rechts\u00e4nderungen durch die \u00a7\u00a7 1 bis 3 zur\u00fcckgefordert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005400314",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000300314"
+        },
+        "body": "<P>Die \u00a7\u00a7 1 bis 4 gelten nicht im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG000400314",
+        "name": "Art 4",
+        "title": "Gesetz zu Art 131 des Grundgesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005500314",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000400314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005600314",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000400314"
+        },
+        "body": "<P>Artikel 2 \u00a7\u00a7 2 und 3 gelten entsprechend f\u00fcr Versorgungsempf\u00e4nger nach dem Gesetz zur Regelung der Rechtsverh\u00e4ltnisse der unter Artikel 131 des Grundgesetzes fallenden Personen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG000500314",
+        "name": "Art 5",
+        "title": "Gesetz zur Regelung der Wiedergutmachung\nnationalsozialistischen Unrechts f\u00fcr Angeh\u00f6rige des \u00f6ffentlichen\nDienstes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005700314",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000500314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNE005800314",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG000500314"
+        },
+        "body": "<P>Artikel 2 \u00a7\u00a7 2 und 3 gelten entsprechend f\u00fcr Versorgungsempf\u00e4nger nach dem Gesetz zur Regelung der Wiedergutmachung nationalsozialistischen Unrechts f\u00fcr Angeh\u00f6rige des \u00f6ffentlichen Dienstes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG000600314",
+        "name": "Art 6",
+        "title": "Schwerbehindertengesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG000700314",
+        "name": "Art 7",
+        "title": "Gesetz zur Personaleinsparung in der\nmittelbaren Bundesverwaltung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNG000801306",
+        "name": "Art 8",
+        "title": "Bundesausbildungsf\u00f6rderungsrecht",
+        "parent": null,
+        "body": "<P>(1) - (3)</P><P>(4) Die nach \u00a7 35 des Bundesausbildungsf\u00f6rderungsgesetzes f\u00fcr das Jahr 1982 vorgeschriebene \u00dcberpr\u00fcfung erfolgt im Jahre 1983.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG000900314",
+        "name": "Art 9",
+        "title": "Reichsversicherungsordnung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001000314",
+        "name": "Art 10",
+        "title": "Gesetz \u00fcber Krankenversicherung der\nStudenten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001100314",
+        "name": "Art 11",
+        "title": "Reichsknappschaftsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001200314",
+        "name": "Art 12",
+        "title": "Angestelltenversicherungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001300314",
+        "name": "Art 13",
+        "title": "Gesetz \u00fcber eine Altershilfe f\u00fcr\nLandwirte",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001400314",
+        "name": "Art 14",
+        "title": "Gesetz zur Neuregelung der Altershilfe\nf\u00fcr Landwirte",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001500314",
+        "name": "Art 15",
+        "title": "Mutterschutzgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001600314",
+        "name": "Art 16",
+        "title": "Bundesversorgungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001700314",
+        "name": "Art 17",
+        "title": "Rehabilitationsangleichungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001800314",
+        "name": "Art 18",
+        "title": "Unterhaltssicherungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG001900314",
+        "name": "Art 19",
+        "title": "Entwicklungshelfer-Gesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002000314",
+        "name": "Art 20",
+        "title": "Wohngeldgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002100314",
+        "name": "Art 21",
+        "title": "Bundessozialhilfegesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002200314",
+        "name": "Art 22",
+        "title": "Strafvollzugsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002300314",
+        "name": "Art 23",
+        "title": "Stra\u00dfenbaufinanzierungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002400314",
+        "name": "Art 24",
+        "title": "Selbstverwaltungs- und\nKrankenversicherungsangleichungsgesetz Berlin",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002500314",
+        "name": "Art 25",
+        "title": "Gesetz \u00fcber die verbilligte\nVer\u00e4u\u00dferung, Vermietung und Verpachtung von bundeseigenen\nGrundst\u00fccken",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002600314",
+        "name": "Art 26",
+        "title": "Einkommensteuergesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002700314",
+        "name": "Art 27",
+        "title": "Gesetz zum Abbau der Fehlsubventionierung\nund der Mietverzerrung im Wohnungswesen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002800314",
+        "name": "Unterartikel 1",
+        "title": "Gesetz \u00fcber den Abbau der\nFehlsubventionierung im Wohnungswesen (AFWoG)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG002700314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG002900314",
+        "name": "Unterartikel 2",
+        "title": "\u00c4nderung des Wohnungsbindungsgesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG002700314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003000314",
+        "name": "Unterartikel 3",
+        "title": "\u00c4nderung des Zweiten\nWohnungsbaugesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG002700314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003100314",
+        "name": "Unterartikel 4",
+        "title": "\u00c4nderung des Wohnungsbaugesetzes\nf\u00fcr das Saarland",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG002700314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003200314",
+        "name": "Unterartikel 5",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015239981BJNG002700314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003300314",
+        "name": "Art 28",
+        "title": "Wohnungsbau-Pr\u00e4miengesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003400314",
+        "name": "Art 29",
+        "title": "Drittes Verm\u00f6gensbildungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003500314",
+        "name": "Art 30",
+        "title": "Kapitalerh\u00f6hungsteuergesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003600314",
+        "name": "Art 31",
+        "title": "Gewerbesteuergesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003700314",
+        "name": "Art 32",
+        "title": "Berlinf\u00f6rderungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003800314",
+        "name": "Art 33",
+        "title": "Gesetz \u00fcber steuerliche Ma\u00dfnahmen\nbei Auslandsinvestitionen der deutschen Wirtschaft",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG003900314",
+        "name": "Art 34",
+        "title": "Entwicklungsl\u00e4nder-Steuergesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG004000314",
+        "name": "Art 35",
+        "title": "Investitionszulagengesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG004100314",
+        "name": "Art 36",
+        "title": "Umsatzsteuergesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG004200314",
+        "name": "Art 37",
+        "title": "Abgabenordnung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG004300314",
+        "name": "Art 38",
+        "title": "Bewertungsgesetz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015239981BJNG004400314",
+        "name": "Art 39",
+        "title": "Gesetz \u00fcber eine Investitionszulage\nf\u00fcr Investitionen in der Eisen- und Stahlindustrie",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNG004500314",
+        "name": "Art 40",
+        "title": "Berlin-Klausel",
+        "parent": null,
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 12 Abs. 1 und des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes auch im Land Berlin. Rechtsverordnungen, die auf Grund des Einkommensteuergesetzes erlassen werden, gelten im Land Berlin nach \u00a7 14 des Dritten \u00dcberleitungsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015239981BJNG004601306",
+        "name": "Art 41",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>(1) Dieses Gesetz tritt vorbehaltlich der Abs\u00e4tze 2 bis 6 am 1. Januar 1982 in Kraft.</P><P>(2) Artikel 8 Abs. 1 Nr. 1 tritt am 1. Februar 1982 mit der Ma\u00dfgabe in Kraft, da\u00df die darin bestimmte \u00c4nderung f\u00fcr alle Kalendermonate der Studienjahre oder -halbjahre gilt, die nach dem 31. Januar 1982 beginnen. Vom 1. April 1982 an gilt die \u00c4nderung ohne die einschr\u00e4nkende Ma\u00dfgabe des Satzes 1.</P><P>(3) Artikel 8 Abs. 1 Nr. 2 und 3 und Abs. 3 treten am 1. Juli 1983 mit der Ma\u00dfgabe in Kraft, da\u00df die darin bestimmten \u00c4nderungen bei den Entscheidungen f\u00fcr alle Bewilligungszeitr\u00e4ume zu ber\u00fccksichtigen sind, die nach dem 30. Juni 1983 beginnen.</P><P>(4) Artikel 9 Nr. 1 und 2 und Artikel 10 treten f\u00fcr eingeschriebene Studenten der staatlichen oder staatlich anerkannten Hochschulen am 1. Februar 1982 mit der Ma\u00dfgabe in Kraft, da\u00df die darin bestimmten \u00c4nderungen ab dem Semester zu ber\u00fccksichtigen sind, das nach dem 31. Januar 1982 beginnt. Im \u00fcbrigen treten Artikel 9 Nr. 1 und 2 und Artikel 10 am 1. April 1982 in Kraft.</P><P>(5) Artikel 9 Nr. 3, Artikel 26, 28 bis 35 und 38 bis 40 treten am Tage nach der Verk\u00fcndung dieses Gesetzes in Kraft.</P><P>(6) Artikel 36 Nr. 4 Buchstabe b tritt am 1. Juli 1982 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

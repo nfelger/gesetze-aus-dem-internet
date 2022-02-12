@@ -1,0 +1,665 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR014710999",
+    "firstPublished": "1999-02-10",
+    "sourceTimestamp": "20210819213013",
+    "titleShort": null,
+    "titleLong": "Vereinsregisterverordnung",
+    "abbreviation": "VRV",
+    "slug": "vrv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1999, 147",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 29 G v. 5.7.2021 I 3338",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 24.2.1999 +++)<BR /><BR /></pre>Die V wurde als Artikel 1 V v. 10.2.1999 I 147 (VRuaV) vom Bundesministerium der Justiz mit Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 3 dieser V am 24.2.1999 in Kraft getreten. <BR />\u00a7 34 Abs. 2 Satz 2 tritt gem. \u00a7 39 Abs. 2 Satz 1 mit dem Erla\u00df einer Verordnung nach \u00a7 79 Abs. 10 BGB in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG000300308",
+        "name": "Abschnitt 1",
+        "title": "Zust\u00e4ndigkeit, Einrichtung des Vereinsregisters",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE000402160",
+        "name": "\u00a7 1",
+        "title": "Zust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG000300308"
+        },
+        "body": "<P>(1) Jedes Amtsgericht f\u00fchrt f\u00fcr seinen Bezirk ein Vereinsregister, soweit nicht die Landesjustizverwaltung gem\u00e4\u00df \u00a7 23d des Gerichtsverfassungsgesetzes die F\u00fchrung des Vereinsregisters f\u00fcr die Bezirke mehrerer Amtsgerichte einem Amtsgericht zugewiesen hat.</P><P>(2) Zu dem Vereinsregister wird ein alphabetisches Verzeichnis der Namen der Vereine gef\u00fchrt, die im Register eingetragen sind (Namensverzeichnis).</P><P>(3) Wird die Zust\u00e4ndigkeit des Amtsgerichts durch die Landesjustizverwaltung ge\u00e4ndert, gibt das bisher zust\u00e4ndige Amtsgericht das Vereinsregister einschlie\u00dflich der geschlossenen Registerbl\u00e4tter, das dazu gef\u00fchrte Namensverzeichnis und die Registerakten an das k\u00fcnftig zust\u00e4ndige Amtsgericht ab.</P><P>(4) F\u00fcr die Erledigung der Gesch\u00e4fte des Registergerichts ist der Rechtspfleger zust\u00e4ndig, soweit nicht nach dem B\u00fcrgerlichen Gesetzbuch oder dieser Verordnung der Urkundsbeamte der Gesch\u00e4ftsstelle zust\u00e4ndig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE000502160",
+        "name": "\u00a7 2",
+        "title": "Aufbau des Vereinsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG000300308"
+        },
+        "body": "<P>(1) Das Vereinsregister wird in Karteiform gef\u00fchrt. Es enth\u00e4lt f\u00fcr jeden dort einzutragenden Verein ein Registerblatt, das aus einem oder mehreren Bl\u00e4ttern besteht. Die Registerbl\u00e4tter erhalten fortlaufende Nummern. Wenn ein Amtsgericht das Register f\u00fcr mehrere Amtsgerichtsbezirke f\u00fchrt, k\u00f6nnen auf Anordnung der Landesjustizverwaltung die fortlaufenden Nummern f\u00fcr einzelne Amtsgerichtsbezirke je gesondert gef\u00fchrt werden. In diesem Fall sind die fortlaufenden Nummern der jeweiligen Amtsgerichtsbezirke durch den Zusatz eines Ortskennzeichens unterscheidbar zu halten. N\u00e4here Anordnungen hier\u00fcber trifft die Landesjustizverwaltung. Die Bl\u00e4tter eines Registerblatts sind durchzunumerieren; auf die Benutzung der R\u00fcckseite eines Registerblattes ist auf seiner Vorderseite hinzuweisen.</P><P>(2) Das Registerblatt wird in Papierform gef\u00fchrt, soweit nicht durch Rechtsverordnung nach \u00a7 55a Abs. 1 des B\u00fcrgerlichen Gesetzbuchs die maschinelle F\u00fchrung als automatisierte Datei angeordnet wird.</P><P>(3) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE000601160",
+        "name": "\u00a7 3",
+        "title": "Gestaltung und Benutzung des Registerblatts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG000300308"
+        },
+        "body": "<P>Das Registerblatt hat f\u00fcnf Spalten. Die Einzelheiten ergeben sich aus dem Muster in der Anlage 1 zu dieser Verordnung. Es sind einzutragen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Spalte 1: die laufende Nummer der Eintragung;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Spalte 2: unter Buchstabe a der Name und unter Buchstabe b der Sitz;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Spalte 3: unter Buchstabe a die allgemeine Vertretungsregelung und unter Buchstabe b die Vertretungsberechtigten (der Vorstand und etwaige Liquidatoren) mit Namen, Vornamen, Wohnort, Geburtsdatum und, soweit zweckm\u00e4\u00dfig, auch die Stellung im Vorstand sowie besondere Vertretungsbefugnisse sowie die \u00c4nderung dieser Eintragungen unter kurzer Angabe des Grundes;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Spalte 4:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe a Angaben zur Satzung, namentlich die Rechtsform, das Datum der Errichtung der Satzung, ihre \u00c4nderungen unter Beschr\u00e4nkung auf die ge\u00e4nderten Vorschriften der Satzung und den Gegenstand ihrer \u00c4nderung, und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>unter Buchstabe b Angaben zu den sonstigen Rechtsverh\u00e4ltnissen, namentlich <DL Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA>Umwandlungen,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA>der Verzicht auf die Rechtsf\u00e4higkeit und die Entziehung der Rechtsf\u00e4higkeit,</LA></DD><DT>cc)</DT><DD Font=\"normal\"><LA>der Beschluss, durch den die Er\u00f6ffnung eines Insolvenzverfahrens mangels Masse rechtskr\u00e4ftig abgewiesen worden ist, die Er\u00f6ffnung, Einstellung und Aufhebung eines Insolvenzverfahrens, die Aufhebung des Er\u00f6ffnungsbeschlusses, die Bestellung eines vorl\u00e4ufigen Insolvenzverwalters oder Treuh\u00e4nders unter den Voraussetzungen des \u00a7 75 Absatz 1 Nummer 2 des B\u00fcrgerlichen Gesetzbuchs und die Aufhebung dieser Ma\u00dfnahme, die Anordnung der Eigenverwaltung durch den Schuldner, deren Aufhebung und die Anordnung der Zustimmungsbed\u00fcrftigkeit bestimmter Rechtsgesch\u00e4fte des Schuldners sowie die \u00dcberwachung der Erf\u00fcllung des Insolvenzplans und die Aufhebung der \u00dcberwachung,</LA></DD><DT>dd)</DT><DD Font=\"normal\"><LA>die Aufl\u00f6sung und die Fortsetzung,</LA></DD><DT>ee)</DT><DD Font=\"normal\"><LA>die Beendigung des Vereins nach der Liquidation und</LA></DD><DT>ff)</DT><DD Font=\"normal\"><LA>das Erl\u00f6schen;</LA></DD></DL></LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Spalte 5: unter Buchstabe a das Datum einer Eintragung und unter Buchstabe b zum Verst\u00e4ndnis der Eintragung notwendige Bemerkungen.</LA></DD></DL>Eintragungen in den Spalten 1 bis 4 sind in Spalte 5 zu unterschreiben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE000701160",
+        "name": "\u00a7 4",
+        "title": "Schlie\u00dfung des Registerblatts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG000300308"
+        },
+        "body": "<P>(1) Ist das Registerblatt zu schlie\u00dfen, so sind s\u00e4mtliche Seiten des Registerblatts rot zu durchkreuzen.</P><P>(2) Das Registerblatt ist insbesondere zu schlie\u00dfen, wenn alle Eintragungen gegenstandslos geworden sind. Gegenstandslos sind alle Eintragungen eines Registerblatts namentlich, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Verein wegen Wegfalls s\u00e4mtlicher Mitglieder oder durch bestandskr\u00e4ftiges Verbot erloschen und das Erl\u00f6schen eingetragen ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Beendigung der Liquidation des Vereins, die Fortf\u00fchrung als nichtrechtsf\u00e4higer Verein oder der Verzicht auf die Rechtsf\u00e4higkeit eingetragen worden ist.</LA></DD></DL>Das Registerblatt eines aufgel\u00f6sten Vereins kann geschlossen werden, wenn seit mindestens 1 Jahr von der Eintragung der Aufl\u00f6sung an keine weitere Eintragung erfolgt und eine schriftliche Anfrage des Registergerichts bei dem Verein unbeantwortet geblieben ist.</P><P>(3) Ist ein Registerblatt zu Unrecht geschlossen worden, so wird die Schlie\u00dfung r\u00fcckg\u00e4ngig gemacht.</P><P>(4) Die geschlossenen Registerbl\u00e4tter k\u00f6nnen nach n\u00e4herer Anordnung der Landesjustizverwaltung elektronisch aufbewahrt werden, wenn sichergestellt ist, da\u00df die Daten innerhalb angemessener Zeit lesbar gemacht werden k\u00f6nnen. Sie k\u00f6nnen bei einer anderen Stelle aufbewahrt werden, wenn sie elektronisch auch beim Registergericht abrufbar sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE000800308",
+        "name": "\u00a7 5",
+        "title": "Neufassung des Registerblatts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG000300308"
+        },
+        "body": "<P>(1) Ist ein Registerblatt un\u00fcbersichtlich geworden, so sind die noch g\u00fcltigen Eintragungen unter Beibehaltung der bisherigen Blattnummer auf ein neues Registerblatt zu \u00fcbertragen (Neufassung). Dabei kann auch von dem urspr\u00fcnglichen Text der Eintragung abgewichen werden, soweit der Inhalt der Eintragung dadurch nicht ver\u00e4ndert wird. Abweichend von Satz 1 k\u00f6nnen auch nicht mehr g\u00fcltige Eintragungen \u00fcbertragen werden, soweit dies im Einzelfall dazu dient, die Nachvollziehung von Eintragungen zu erleichtern. Auf dem neu gefa\u00dften Registerblatt ist die Neufassung unter Angabe des Datums zu vermerken. Nach der Eintragung der noch g\u00fcltigen Eintragungen auf dem neuen Blatt wird das bisherige Registerblatt geschlossen.</P><P>(2) Das Registerblatt kann neu gefa\u00dft werden, wenn es durch die Neufassung wesentlich vereinfacht wird.</P><P>(3) Eine Benachrichtigung der Beteiligten von der Neufassung ist nicht notwendig. Bestehen Zweifel \u00fcber die Art oder den Umfang der Neufassung, so sind die Beteiligten vorher zu h\u00f6ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE000900308",
+        "name": "\u00a7 6",
+        "title": "Sitzverlegung und Umwandlung von Vereinen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG000300308"
+        },
+        "body": "<P>(1) Wird der Sitz eines Vereins aus dem Bezirk des Registergerichts des bisherigen Sitzes verlegt, so hat dieses unverz\u00fcglich von Amts wegen die Verlegung dem Gericht des neuen Sitzes mitzuteilen. Der Mitteilung sind die Eintragungen f\u00fcr den bisherigen Sitz sowie die Registerakten beizuf\u00fcgen. Das Gericht des neuen Sitzes hat zu pr\u00fcfen, ob der Sitz ordnungsgem\u00e4\u00df verlegt und \u00a7 57 Abs. 2 des B\u00fcrgerlichen Gesetzbuchs beachtet ist. Ist dies der Fall, so hat es die Verlegung einzutragen und dabei die ihm mitgeteilten Eintragungen ohne weitere Nachpr\u00fcfung in sein Vereinsregister zu \u00fcbernehmen. Die Eintragung ist dem Gericht des bisherigen Sitzes mitzuteilen. Nach Eingang dieser Mitteilung tr\u00e4gt das Gericht des bisherigen Sitzes die Sitzverlegung ein und schlie\u00dft das bisherige Registerblatt. Auf dem bisherigen Registerblatt ist in der Spalte 5 unter \"Bemerkungen\" auf das Registerblatt des neuen Registergerichts zu verweisen und umgekehrt.</P><P>(2) Sind mit der Sitzverlegung weitere Eintragungen vorzunehmen, ist das Gericht des neuen Sitzes auch f\u00fcr die Vornahme dieser Eintragungen zust\u00e4ndig.</P><P>(3) Die Verlegung des Vereinssitzes in das Ausland ist in den Spalten 2 und 4 des bestehenden Registerblatts als Aufl\u00f6sung einzutragen.</P><P>(4) Die Umwandlung (Verschmelzung, Spaltung oder Formwechsel) von Vereinen ist in Spalte 4 unter Buchstabe b des Registerblatts aller beteiligten Vereine einzutragen. Bei einer Verschmelzung durch Aufnahme wird nach der Eintragung des Tages der Verschmelzung in das Registerblatt eines aufgenommenen Vereins dieses Registerblatt geschlossen. Dies gilt entsprechend bei einer Aufspaltung oder einem Formwechsel. Bei einer Verschmelzung durch Neugr\u00fcndung werden nach der Eintragung des Tages der Verschmelzung in die Registerbl\u00e4tter der beteiligten Vereine diese Registerbl\u00e4tter geschlossen. F\u00fcr die aus der Verschmelzung oder Spaltung entstandenen Vereine sind neue Registerbl\u00e4tter anzulegen. Auf den Registerbl\u00e4ttern der \u00fcbertragenden oder formwechselnden Vereine ist in der Spalte 4 unter \"b) Sonstige Rechtsverh\u00e4ltnisse\" auf das Registerblatt der \u00fcbernehmenden, neu gegr\u00fcndeten Vereine oder Rechtstr\u00e4ger neuer Rechtsform zu verweisen und umgekehrt. Die vorstehenden Vorschriften gelten entsprechend, wenn Vereine in andere Rechtstr\u00e4ger aufgenommen werden oder aus ihnen andere Rechtstr\u00e4ger entstehen sollen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001002160",
+        "name": "\u00a7 7",
+        "title": "Registerakten, Handblatt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG000300308"
+        },
+        "body": "<P>(1) F\u00fcr jedes Registerblatt wird eine Registerakte gef\u00fchrt. Die zum Vereinsregister eingereichten Dokumente k\u00f6nnen f\u00fcr jedes Registerblatt in einem besonderen Aktenband zusammengefa\u00dft werden.</P><P>(2) Werden Urkunden, die zum Register einzureichen waren, zur\u00fcckgegeben, so wird eine beglaubigte Abschrift zur\u00fcckbehalten. Wird ein Dokument aus anderen Akten des Amtsgerichts f\u00fcr die F\u00fchrung des Registers gebraucht, so ist eine beglaubigte Abschrift zu den Registerakten zu nehmen. In den Abschriften k\u00f6nnen die Teile des Dokuments, die f\u00fcr die F\u00fchrung des Vereinsregisters ohne Bedeutung sind, weggelassen werden. Im Zweifel bestimmt der Rechtspfleger den Umfang der Abschrift, sonst der Urkundsbeamte der Gesch\u00e4ftsstelle.</P><P>(3) F\u00fcr jedes Registerblatt des Vereinsregisters ist ein dem Inhalt des Registers w\u00f6rtlich entsprechendes Handblatt zu f\u00fchren; es ist unter dem Deckel des letzten Bandes der Registerakten zu verwahren und in einen Umschlag zu heften, wenn ein Bed\u00fcrfnis hierf\u00fcr besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001101160",
+        "name": "\u00a7 8",
+        "title": "F\u00fchrung des Namensverzeichnisses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG000300308"
+        },
+        "body": "<P>Das Namensverzeichnis kann elektronisch gef\u00fchrt werden. Im \u00dcbrigen richtet sich die F\u00fchrung des Namensverzeichnisses nach den Vorschriften \u00fcber die Aktenf\u00fchrung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG001200308",
+        "name": "Abschnitt 2",
+        "title": "F\u00fchrung des Vereinsregisters",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001302160",
+        "name": "\u00a7 9",
+        "title": "Eintragungsverf\u00fcgung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>(1) Die Eintragung erfolgt auf Grund einer Eintragungsverf\u00fcgung, die den Wortlaut der Eintragung feststellt.</P><P>(2) Das Registergericht hat daf\u00fcr Sorge zu tragen, da\u00df die gesetzlich vorgeschriebenen Eintragungen in das Register erfolgen. Ist zweifelhaft, ob der Zweck eines angemeldeten Vereins auf einen nichtwirtschaftlichen Gesch\u00e4ftsbetrieb gerichtet ist, kann das Registergericht im Wege der Amtshilfe eine Stellungnahme der nach \u00a7 22 des B\u00fcrgerlichen Gesetzbuchs zust\u00e4ndigen Stelle und der Industrie- und Handelskammer oder einer anderen geeigneten Stelle einholen. Das Registergericht teilt seine Entscheidung dieser Stelle mit, wenn sie darum gebeten hat.</P><P>(3) (weggefallen)</P><P>(4) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001402160",
+        "name": "\u00a7 10",
+        "title": "Form der Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>(1) Die Eintragungen sind deutlich und in der Regel ohne Abk\u00fcrzung herzustellen. In dem Register darf nichts radiert oder unleserlich gemacht werden.</P><P>(2) Jede Eintragung ist mit einer laufenden Nummer zu versehen und mittels eines alle Spalten des Registerblatts durchschneidenden Querstrichs von der folgenden Eintragung zu trennen. Werden mehrere Eintragungen gleichzeitig vorgenommen, so erhalten sie nur eine laufende Nummer.</P><P>(3) Bei jeder Eintragung ist der Tag der Eintragung anzugeben. Der Tag der Eintragung und ihre Stelle im Register sind in den Registerakten bei der gerichtlichen Verf\u00fcgung zu vermerken.</P><P>(4) Erfolgt eine Eintragung auf Grund einer rechtskr\u00e4ftigen oder vollstreckbaren Entscheidung des Proze\u00dfgerichts, so ist dies bei der Eintragung im Register unter Angabe des Prozessgerichts, des Datums und des Aktenzeichens der Entscheidung zu vermerken. Eine Aufhebung der Entscheidung ist in dieselbe Spalte des Registers einzutragen. Hat in sonstigen F\u00e4llen eine Eintragung von Amts wegen zu erfolgen, so mu\u00df sie den Hinweis auf die gesetzliche Grundlage und den Vermerk \"Von Amts wegen eingetragen\" enthalten. Dies gilt nicht f\u00fcr die Eintragung der Vermerke \u00fcber den Beschluss, durch den die Er\u00f6ffnung eines Insolvenzverfahrens mangels Masse rechtskr\u00e4ftig abgewiesen worden ist, die Er\u00f6ffnung, die Einstellung oder Aufhebung des Insolvenzverfahrens, die Aufhebung des Er\u00f6ffnungsbeschlusses, die Anordnung der Eigenverwaltung durch den Schuldner und deren Aufhebung, die Anordnung der Zustimmungsbed\u00fcrftigkeit bestimmter Rechtsgesch\u00e4fte des Schuldners nach \u00a7 277 der Insolvenzordnung sowie die sonstigen in \u00a7 75 des B\u00fcrgerlichen Gesetzbuchs vorgesehenen Vermerke.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001500308",
+        "name": "\u00a7 11",
+        "title": "\u00c4nderung und L\u00f6schung von Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>(1) \u00c4nderungen des Inhalts einer Eintragung sowie L\u00f6schungen sind unter einer neuen laufenden Nummer einzutragen. Eine Eintragung, die durch eine sp\u00e4tere Eintragung ihre Bedeutung verloren hat, ist rot zu unterstreichen. Die rote Unterstreichung kann dadurch ersetzt werden, da\u00df \u00fcber der ersten und unter der letzten Zeile der Eintragung oder des Vermerks ein waagerechter roter Strich gezogen wird und beide Striche durch einen von oben links nach unten rechts verlaufenden roten Schr\u00e4gstrich verbunden werden; erstreckt sich eine Eintragung oder ein Vermerk auf mehr als eine Seite, so ist auf jeder Seite entsprechend zu verfahren. Mit der Eintragung selbst ist auch der Vermerk \u00fcber ihre L\u00f6schung rot zu unterstreichen.</P><P>(2) Ein Teil einer Eintragung darf nur rot unterstrichen oder durchkreuzt werden, wenn die Verst\u00e4ndlichkeit der Eintragung und des aktuellen Ausdrucks nach \u00a7 32 Abs. 3 nicht beeintr\u00e4chtigt wird.</P><P>(3) Soll eine Eintragung von Amts wegen gel\u00f6scht werden, weil sie mangels einer wesentlichen Voraussetzung unzul\u00e4ssig war, so erfolgt die L\u00f6schung durch Eintragung des Vermerks \"Von Amts wegen gel\u00f6scht\".</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001600308",
+        "name": "\u00a7 12",
+        "title": "Berichtigung von Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>(1) Bei noch nicht unterschriebenen Eintragungen k\u00f6nnen Schreibfehler, die den Sinn der Eintragung nicht ver\u00e4ndern, dadurch berichtigt werden, da\u00df die fehlerhaften Worte, Buchstaben oder Zeichen durchgestrichen und, soweit erforderlich, in richtiger Schreibweise wiederholt werden. Die Berichtigung kann entweder unmittelbar bei der Streichung oder unter Verwendung von Einschaltezeichen an geeigneter Stelle au\u00dferhalb des Eintragungstextes erfolgen. Die unrichtig geschriebenen Worte, Buchstaben oder Zeichen m\u00fcssen lesbar bleiben.</P><P>(2) Sonstige Schreibversehen und \u00e4hnliche offenbare Unrichtigkeiten, die in einer Eintragung vorkommen, sind an oder neben dieser Eintragung zu berichtigen. In Spalte 5 unter Buchstabe b ist ein Berichtigungsvermerk einzutragen. Berichtigungen k\u00f6nnen auch in Form einer neuen Eintragung vorgenommen werden.</P><P>(3) Die Berichtigung wird von der f\u00fcr die Eintragung zust\u00e4ndigen Person angeordnet. Eine Berichtigung nach Absatz 2 ist den Beteiligten bekanntzugeben.</P><P>(4) Eine versehentliche rote Unterstreichung ist dadurch zu beseitigen, da\u00df der rote Strich durch kleine schwarze Striche durchkreuzt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001701160",
+        "name": "\u00a7 13",
+        "title": "Bekanntgabe gegen\u00fcber den Beteiligten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>(1) F\u00fcr die Bekanntgabe der Eintragung an die Beteiligten sollen Vordrucke verwendet werden. Die Benachrichtigungen zur Bekanntgabe der Eintragung sind zu unterschreiben. In geeigneten F\u00e4llen ist darauf hinzuweisen, dass auf die Bekanntgabe der Eintragung verzichtet werden kann.</P><P>(2) Werden die Benachrichtigungen nach Absatz 1 maschinell erstellt, brauchen sie nicht unterschrieben werden. Anstelle der Unterschrift ist der Vermerk \"Dieses Schreiben ist maschinell erstellt und auch ohne Unterschrift wirksam\" anzubringen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001801160",
+        "name": "\u00a7 14",
+        "title": "\u00d6ffentliche Bekanntmachung der Ersteintragung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>Die Ver\u00f6ffentlichung der Eintragung des Vereins ist unverz\u00fcglich zu veranlassen. In ihr sollen Name und Sitz des Vereins und die Registernummer angegeben werden. In den Ver\u00f6ffentlichungen ist das Gericht und der Tag der Eintragung zu bezeichnen, einer Unterschrift bedarf es nicht. \u00a7 13 Abs. 2 gilt entsprechend. Erfolgen mehrere Ver\u00f6ffentlichungen desselben Gerichts gleichzeitig, so sind sie m\u00f6glichst zusammenzufassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE001900308",
+        "name": "\u00a7 15",
+        "title": "Erreichbarkeit des Vereins",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>Bei der Benachrichtigung \u00fcber die erstmalige Eintragung in das Register, bei der Eintragung nach \u00a7 6 Abs. 1 und in anderen F\u00e4llen, in denen dies zweckm\u00e4\u00dfig ist, um die Erreichbarkeit des Vereins sicherzustellen, kann das Registergericht den Verein auffordern, die \u00c4nderung der ladungsf\u00e4higen Vereinsanschrift unverz\u00fcglich mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002001160",
+        "name": "\u00a7 16",
+        "title": "Einsicht in das Vereinsregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>Das Register, die von dem Verein zum Register eingereichten Dokumente und das Namensverzeichnis sind in der Gesch\u00e4ftsstelle des Registergerichts w\u00e4hrend der Dienststunden zur Einsicht vorzulegen. Werden die vom Verein zum Register eingereichten Dokumente oder geschlossene Registerbl\u00e4tter elektronisch aufbewahrt, wird die Einsicht nach \u00a7 31 Satz 2 gew\u00e4hrt. Dasselbe gilt f\u00fcr die Einsicht in ein elektronisch gef\u00fchrtes Namensverzeichnis.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002101160",
+        "name": "\u00a7 17",
+        "title": "Abschriften, Bescheinigungen und Zeugnisse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG001200308"
+        },
+        "body": "<P>(1) Einfache Abschriften sind mit dem Vermerk: \"Gefertigt am ...\" abzuschlie\u00dfen. Der Vermerk ist nicht zu unterzeichnen. Die Beglaubigung einer Abschrift geschieht durch einen unter die Abschrift zu setzenden Vermerk, der die \u00dcbereinstimmung mit der Hauptschrift bezeugt. Der Beglaubigungsvermerk mu\u00df Ort und Tag der Ausstellung enthalten, von dem Urkundsbeamten der Gesch\u00e4ftsstelle unterschrieben und mit Siegel oder Stempel versehen sein.</P><P>(2) Wird eine beglaubigte Abschrift von einem zum Register eingereichten Dokument beantragt, so ist in dem Beglaubigungsvermerk ersichtlich zu machen, ob das Dokument eine Urschrift, eine Wiedergabe auf einem Bildtr\u00e4ger oder anderen Datentr\u00e4ger nach \u00a7 55a Absatz 5 des B\u00fcrgerlichen Gesetzbuchs in der vor dem 30. September 2009 geltenden Fassung, eine Ausfertigung oder eine einfache oder beglaubigte Abschrift ist. Ist das Dokument eine beglaubigte Abschrift, eine Ausfertigung oder eine Wiedergabe nach Satz 1, so ist der Ausfertigungsvermerk, der Beglaubigungsvermerk oder der Vermerk nach \u00a7 55a Absatz 5 Satz 2 des B\u00fcrgerlichen Gesetzbuchs in der vor dem 30. September 2009 geltenden Fassung in die beglaubigte Abschrift aufzunehmen. Auch Durchstreichungen, \u00c4nderungen, Einschaltungen, Radierungen oder andere M\u00e4ngel des Dokuments sollen in dem Vermerk angegeben werden.</P><P>(3) Ausfertigungen der Bescheinigungen und Zeugnisse sind unter Angabe des Ortes und Tages zu unterschreiben und mit dem Gerichtssiegel oder Stempel zu versehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG002200308",
+        "name": "Abschnitt 3",
+        "title": "Besondere Vorschriften f\u00fcr das maschinell gef\u00fchrte\nVereinsregister",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG002300308",
+        "name": "Unterabschnitt 1",
+        "title": "Einrichtung des maschinell gef\u00fchrten Vereinsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002200308"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002300308",
+        "name": "\u00a7 18",
+        "title": "Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002300308"
+        },
+        "body": "<P>Wird das Vereinsregister auf Grund einer Bestimmung nach \u00a7 55a Abs. 1 des B\u00fcrgerlichen Gesetzbuchs in maschineller Form als automatisierte Datei gef\u00fchrt, sind die Vorschriften der Abschnitte 1 und 2 entsprechend anzuwenden, soweit nachfolgend nichts anderes bestimmt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002400308",
+        "name": "\u00a7 19",
+        "title": "Begriff des maschinell gef\u00fchrten Vereinsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002300308"
+        },
+        "body": "<P>Bei dem maschinell gef\u00fchrten Vereinsregister ist der in den daf\u00fcr bestimmten Datenspeicher aufgenommene und auf Dauer unver\u00e4ndert in lesbarer Form wiedergabef\u00e4hige Inhalt des Registerblatts (\u00a7 2 Abs. 1 Satz 2) das Vereinsregister. Die Bestimmung des Datenspeichers nach Satz 1 kann durch Verf\u00fcgung der nach Landesrecht zust\u00e4ndigen Stelle ge\u00e4ndert werden, wenn dies dazu dient, die Erhaltung und die Abrufbarkeit der Daten sicherzustellen oder zu verbessern, und die Daten dabei nicht ver\u00e4ndert werden. Die Verf\u00fcgung kann auch in allgemeiner Form und vor Eintritt eines \u00c4nderungsfalls getroffen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002500308",
+        "name": "\u00a7 20",
+        "title": "Anforderungen an Anlagen und Programme, Sicherung\nder Anlagen, Programme und Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002300308"
+        },
+        "body": "<P>(1) Hinsichtlich der Anforderungen an die f\u00fcr das maschinell gef\u00fchrte Vereinsregister verwendeten Anlagen und Programme, deren Sicherung sowie der Sicherung der Daten gelten die \u00a7\u00a7 64 bis 66 der Grundbuchverf\u00fcgung entsprechend.</P><P>(2) Das eingesetzte Datenverarbeitungssystem soll innerhalb eines jeden Landes einheitlich sein und mit den in den anderen L\u00e4ndern eingesetzten Systemen verbunden werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002600308",
+        "name": "\u00a7 21",
+        "title": "Gestaltung des maschinell gef\u00fchrten Vereinsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002300308"
+        },
+        "body": "<P>Der Inhalt des maschinell gef\u00fchrten Vereinsregisters mu\u00df auf dem Bildschirm und in Ausdrucken entsprechend \u00a7 3 und dem Muster der Anlage 1 zu dieser Verordnung sichtbar gemacht werden k\u00f6nnen. Kopfzeile und Spalten\u00fcberschrift m\u00fcssen beim Abruf der Registerdaten auf dem Bildschirm oder in einem Ausdruck stets sichtbar sein; eine Einteilung in Bl\u00e4tter (\u00a7 2 Abs. 1 Satz 2) ist nicht erforderlich. Der letzte Stand aller noch nicht gegenstandslos gewordenen Eintragungen (aktueller Registerinhalt) darf statt in spaltenweiser Wiedergabe auch als fortlaufender Text nach dem Muster in Anlage 2 zu dieser Verordnung sichtbar gemacht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG002700308",
+        "name": "Unterabschnitt 2",
+        "title": "Anlegung des maschinell gef\u00fchrten Registerblatts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002200308"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002701310",
+        "name": "\u00a7 22",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002700308"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002801310",
+        "name": "\u00a7 23",
+        "title": "Anlegung des maschinell gef\u00fchrten\nRegisterblattes durch Umschreibung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002700308"
+        },
+        "body": "<P>Ein bisher in Papierform gef\u00fchrtes Registerblatt ist f\u00fcr die maschinelle F\u00fchrung umzuschreiben. Die Landesjustizverwaltung kann anordnen, dass f\u00fcr Registerbl\u00e4tter, die von anderen Registergerichten \u00fcbernommen werden, bestimmte Nummern vergeben werden. Es k\u00f6nnen nicht mehr g\u00fcltige Eintragungen \u00fcbertragen werden, soweit dies im Einzelfall dazu dient, die Nachvollziehung von Eintragungen zu erleichtern. Der Tag der ersten Eintragung des Vereins in das Vereinsregister ist in dem maschinell gef\u00fchrten Registerblatt in Spalte 5 unter Buchstabe b zu vermerken.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE002901310",
+        "name": "\u00a7 24",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002700308"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003001310",
+        "name": "\u00a7 25",
+        "title": "Freigabe des maschinell gef\u00fchrten Registerblatts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002700308"
+        },
+        "body": "<P>(1) Das nach \u00a7 23 angelegte maschinell gef\u00fchrte Registerblatt tritt mit seiner Freigabe an die Stelle des in Papierform gef\u00fchrten Registerblatts. Die Freigabe erfolgt, wenn die Vollst\u00e4ndigkeit und Richtigkeit der \u00dcbertragung des angelegten maschinell gef\u00fchrten Registerblatts und seine Abrufbarkeit aus dem Datenspeicher gesichert sind.</P><P>(2) In der Wiedergabe des Registerblatts auf dem Bildschirm oder bei Ausdrucken soll folgender Freigabevermerk erscheinen: <BR />\"Dieses Blatt ist zur Fortf\u00fchrung auf EDV umgeschrieben worden und dabei an die Stelle des bisherigen Registerblatts getreten. Freigegeben am/zum ... <BR />Name(n).\"</P><P>(3) Die Umschreibung des Registerblattes einschlie\u00dflich seiner Freigabe kann ganz oder teilweise dem Urkundsbeamten der Gesch\u00e4ftsstelle \u00fcbertragen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG003100308",
+        "name": "Unterabschnitt 3",
+        "title": "Maschinelle F\u00fchrung des Vereinsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002200308"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003102160",
+        "name": "\u00a7 26",
+        "title": "Registerakten, Namensverzeichnis und Handblatt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003100308"
+        },
+        "body": "<P>(1) Nach Anlegung des maschinell gef\u00fchrten Vereinsregisters werden die Registerakten nach \u00a7 7 Absatz 1 und 2 weitergef\u00fchrt. Ein Namensverzeichnis und Handbl\u00e4tter werden zu dem maschinell gef\u00fchrten Vereinsregister nicht gef\u00fchrt. Das Namensverzeichnis und die Handbl\u00e4tter zu dem in Papierform gef\u00fchrten Register werden geschlossen.</P><P>(2) Die Handbl\u00e4tter k\u00f6nnen ausgesondert und vernichtet werden. Wird das Handblatt bei den Registerakten verwahrt, ist es deutlich als Handblatt des wegen Umschreibung geschlossenen Registers zu kennzeichnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003201160",
+        "name": "\u00a7 27",
+        "title": "Eintragung in das maschinell gef\u00fchrte Vereinsregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003100308"
+        },
+        "body": "<P>(1) Einer Eintragungsverf\u00fcgung bedarf es nicht, wenn die Eintragungen in das maschinell gef\u00fchrte Vereinsregister von dem Rechtspfleger selbst vorgenommen werden.</P><P>(2) Bei der \u00dcberpr\u00fcfung nach \u00a7 55a Absatz 3 des B\u00fcrgerlichen Gesetzbuchs soll die Eintragung auch auf ihre Richtigkeit, Vollst\u00e4ndigkeit, Verst\u00e4ndlichkeit und auf ihre \u00dcbereinstimmung mit der Eintragungsverf\u00fcgung durchgesehen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003300308",
+        "name": "\u00a7 28",
+        "title": "Elektronische Registersignatur",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003100308"
+        },
+        "body": "<P>Bei dem maschinell gef\u00fchrten Vereinsregister soll eine Eintragung nur m\u00f6glich sein, wenn die f\u00fcr die Eintragung zust\u00e4ndige Person der Eintragung ihren Nachnamen hinzusetzt und beides elektronisch signiert. Im \u00fcbrigen gilt \u00a7 75 der Grundbuchverf\u00fcgung entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003400308",
+        "name": "\u00a7 29",
+        "title": "R\u00f6tungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003100308"
+        },
+        "body": "<P>Bei dem maschinell gef\u00fchrten Vereinsregister k\u00f6nnen Eintragungen oder Vermerke, die rot zu unterstreichen oder rot zu durchkreuzen sind, statt durch R\u00f6tung auch auf andere eindeutige Weise als gegenstandslos kenntlich gemacht werden. Eine versehentlich vorgenommene R\u00f6tung oder Kenntlichmachung nach Satz 1 ist zu l\u00f6schen oder auf andere eindeutige Weise zu beseitigen. Die L\u00f6schung oder sonstige Beseitigung ist zu vermerken.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003501160",
+        "name": "\u00a7 30",
+        "title": "Behandlung der nach Neufassung geschlossenen Registerbl\u00e4tter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003100308"
+        },
+        "body": "<P>Wird ein maschinell gef\u00fchrtes Registerblatt nach einer Neufassung entsprechend den \u00a7\u00a7 4 und 5 geschlossen, soll es, als geschlossen erkennbar, weiterhin lesbar und auch in Form von Ausdrucken wiedergabef\u00e4hig bleiben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG003600308",
+        "name": "Unterabschnitt 4",
+        "title": "Einsicht in das maschinell gef\u00fchrte Vereinsregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002200308"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003601160",
+        "name": "\u00a7 31",
+        "title": "Einsicht in das maschinell gef\u00fchrte Vereinsregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003600308"
+        },
+        "body": "<P>Die Einsicht in das maschinell gef\u00fchrte Vereinsregister ist \u00fcber ein Datensichtger\u00e4t oder durch Einsicht in einen aktuellen oder chronologischen Ausdruck zu gew\u00e4hren. Dem Einsichtnehmenden kann gestattet werden, das Registerblatt selbst am Datensichtger\u00e4t einzusehen, wenn sichergestellt ist, dass er die zul\u00e4ssige Einsicht nicht \u00fcberschreitet und Ver\u00e4nderungen am Inhalt des Vereinsregisters nicht vorgenommen werden k\u00f6nnen. F\u00fcr die Einsicht in die vom Verein eingereichten Dokumente, die elektronisch aufbewahrt werden, in ein elektronisch gef\u00fchrtes Namensverzeichnis oder elektronisch aufbewahrte geschlossene Registerbl\u00e4tter gilt Satz 1 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003702160",
+        "name": "\u00a7 32",
+        "title": "Ausdrucke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003600308"
+        },
+        "body": "<P>(1) Ausdrucke aus dem maschinell gef\u00fchrten Vereinsregister sind mit der Aufschrift \"Ausdruck\" oder \"Amtlicher Ausdruck\", dem Datum der letzten Eintragung und dem Datum des Abrufs der Daten aus dem Vereinsregister zu versehen. Sie sind nicht zu unterschreiben.</P><P>(2) Der amtliche Ausdruck ist dar\u00fcber hinaus mit Ort und Tag der Ausstellung, dem Vermerk, da\u00df der Ausdruck den Inhalt des Vereinsregisters bezeugt, sowie dem Namen des erstellenden Urkundsbeamten der Gesch\u00e4ftsstelle und mit einem Dienstsiegel zu versehen. Anstelle der Siegelung kann maschinell ein Abdruck des Dienstsiegels eingedruckt sein oder aufgedruckt werden; in beiden F\u00e4llen mu\u00df unter der Aufschrift \"Amtlicher Ausdruck\" der Vermerk \"Dieser Ausdruck wird nicht unterschrieben und gilt als beglaubigte Abschrift.\" aufgedruckt sein oder werden.</P><P>(3) Auf Antrag ist anstelle eines Ausdrucks, der ausschlie\u00dflich den letzten Stand aller noch nicht gegenstandslos gewordenen Eintragungen wiedergibt (aktueller Ausdruck), ein vollst\u00e4ndiger Ausdruck zu erteilen, in dem alle Eintragungen enthalten sind (chronologischer Ausdruck). Aktuelle Ausdrucke k\u00f6nnen statt in spaltenweiser Wiedergabe auch als fortlaufender Text erstellt werden.</P><P>(4) Ausdrucke und amtliche Ausdrucke k\u00f6nnen dem Antragsteller auch elektronisch \u00fcbermittelt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG003800308",
+        "name": "Unterabschnitt 5",
+        "title": "Automatisierter Abruf von Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002200308"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003802160",
+        "name": "\u00a7 33",
+        "title": "Umfang des automatisierten Datenabrufs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003800308"
+        },
+        "body": "<P>Umfang und Voraussetzungen des Abrufs im automatisierten Verfahren richten sich nach \u00a7 79 Abs. 1 bis 4 des B\u00fcrgerlichen Gesetzbuchs. Die Fertigung von Abdrucken ist zul\u00e4ssig. Abdrucke stehen den Ausdrucken (\u00a7 32) nicht gleich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE003901310",
+        "name": "\u00a7 34",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003800308"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE004001310",
+        "name": "\u00a7 35",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003800308"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE004101310",
+        "name": "\u00a7 36",
+        "title": "Abrufprotokollierung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG003800308"
+        },
+        "body": "<P>(1) Die Rechtm\u00e4\u00dfigkeit der Abrufe durch einzelne Nutzer pr\u00fcft das Gericht nur, wenn es dazu nach den konkreten Umst\u00e4nden Anla\u00df hat. F\u00fcr die Kontrolle der Rechtm\u00e4\u00dfigkeit der Abrufe, f\u00fcr die Sicherstellung der ordnungsgem\u00e4\u00dfen Datenverarbeitung und f\u00fcr die Erhebung der Kosten f\u00fcr die Abrufe durch die Justizverwaltung protokolliert das Registergericht alle Abrufe. Das Registergericht h\u00e4lt das Protokoll f\u00fcr Stichprobenverfahren durch die aufsichtsf\u00fchrenden Stellen bereit. Das Protokoll mu\u00df jeweils das Gericht, die Nummer des Registerblatts, die abrufende Person oder Stelle, deren Gesch\u00e4fts- oder Aktenzeichen, den Zeitpunkt des Abrufs und die f\u00fcr die Durchf\u00fchrung des Abrufs verwendeten Daten ausweisen.</P><P>(2) Die protokollierten Daten d\u00fcrfen nur f\u00fcr die in Absatz 1 Satz 2 genannten Zwecke verwendet werden. Sie sind durch geeignete Vorkehrungen gegen zweckfremde Nutzung und gegen sonstigen Mi\u00dfbrauch zu sch\u00fctzen.</P><P>(3) Nach Ablauf des auf die Erstellung der Protokolle n\u00e4chstfolgenden Kalenderjahres werden die nach Absatz 1 Satz 2 gefertigten Protokolle vernichtet. Protokolle, die im Rahmen eines Stichprobenverfahrens den aufsichtsf\u00fchrenden Stellen zur Verf\u00fcgung gestellt wurden, sind dort sp\u00e4testens ein Jahr nach ihrem Eingang zu vernichten, sofern sie nicht f\u00fcr weitere bereits eingeleitete Pr\u00fcfungen ben\u00f6tigt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014710999BJNG004200308",
+        "name": "Unterabschnitt 6",
+        "title": "Schlu\u00dfbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG002200308"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE004201160",
+        "name": "\u00a7 37",
+        "title": "Datenverarbeitung im Auftrag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG004200308"
+        },
+        "body": "<P>(1) Die Vorschriften der Unterabschnitte 1 bis 5 gelten f\u00fcr die Verarbeitung von Vereinsregisterdaten im Auftrag des zust\u00e4ndigen Gerichts (\u00a7 387 Abs. 1 und 5 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit) sinngem\u00e4\u00df. Hierbei soll sichergestellt sein, da\u00df Eintragungen in das maschinell gef\u00fchrte Vereinsregister und der Abruf von Daten hieraus nur erfolgen, wenn dies von dem zust\u00e4ndigen Gericht verf\u00fcgt worden oder sonst zul\u00e4ssig ist.</P><P>(2) Die Verarbeitung von Registerdaten im Auftrag des zust\u00e4ndigen Gerichts ist auf Anlagen, die nicht im Eigentum des Auftragnehmers stehen, nur zul\u00e4ssig, wenn gew\u00e4hrleistet ist, dass die Daten dem uneingeschr\u00e4nkten Zugriff des Gerichts unterliegen und der Eigent\u00fcmer der Anlage keinen Zugang zu den Daten hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE004300308",
+        "name": "\u00a7 38",
+        "title": "Ersatzregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG004200308"
+        },
+        "body": "<P>(1) Ist die Vornahme von Eintragungen in das maschinell gef\u00fchrte Vereinsregister vor\u00fcbergehend nicht m\u00f6glich, so k\u00f6nnen auf Anordnung der nach Landesrecht zust\u00e4ndigen Stelle Eintragungen ohne Vergabe einer neuen Nummer in einem Ersatzregister in Papierform vorgenommen werden, sofern hiervon Verwirrung nicht zu besorgen ist. Sie sollen in das maschinell gef\u00fchrte Vereinsregister \u00fcbernommen werden, sobald dies wieder m\u00f6glich ist. Auf die erneute \u00dcbernahme sind die Vorschriften \u00fcber die Anlegung des maschinell gef\u00fchrten Registerblatts sinngem\u00e4\u00df anzuwenden.</P><P>(2) Bestimmt die Landesregierung oder die von ihr erm\u00e4chtigte Landesjustizverwaltung durch Rechtsverordnung auf der Grundlage des \u00a7 55a Abs. 1 des B\u00fcrgerlichen Gesetzbuchs, da\u00df ein maschinell gef\u00fchrtes Vereinsregister wieder in Papierform gef\u00fchrt wird, weil die Voraussetzungen nach \u00a7 55a Abs. 1 Satz 2 des B\u00fcrgerlichen Gesetzbuchs nicht nur vor\u00fcbergehend entfallen sind und in absehbarer Zeit nicht wieder hergestellt werden k\u00f6nnen, so sind die betroffenen maschinell gef\u00fchrten Registerbl\u00e4tter im Wege der Umschreibung oder der Neufassung auf Registerbl\u00e4tter in Papierform zu \u00fcbertragen.</P><P>(3) F\u00fcr die Einrichtung und F\u00fchrung der Ersatzregister nach Absatz 1 und der wieder in Papierform umgeschriebenen Registerbl\u00e4tter nach Absatz 2 gelten die Bestimmungen der Abschnitte 1 und 2.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE004401310",
+        "name": "\u00a7 39",
+        "title": "\u00dcbergangsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG004200308"
+        },
+        "body": "<P>F\u00fcr das in Papierform gef\u00fchrte Vereinsregister k\u00f6nnen die bisher zul\u00e4ssigen Muster weiterverwendet werden. Wird ein Registerblatt neu gefa\u00dft, ist f\u00fcr das neu gefa\u00dfte Registerblatt das in \u00a7 2 und der Anlage 1 zu dieser Verordnung vorgesehene Muster zu verwenden. In diesem Falle erhalten die Beteiligten eine Eintragungsnachricht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE004500308",
+        "name": "Anlage 1",
+        "title": "(zu \u00a7 2 Satz 2)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG004200308"
+        },
+        "body": "<P><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"9\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colsep=\"1\" colwidth=\"15*\" /><colspec colname=\"col2\" colnum=\"2\" colsep=\"0\" colwidth=\"5*\" /><colspec colname=\"col3\" colnum=\"3\" colsep=\"1\" colwidth=\"15*\" /><colspec colname=\"col4\" colnum=\"4\" colsep=\"0\" colwidth=\"5*\" /><colspec colname=\"col5\" colnum=\"5\" colsep=\"1\" colwidth=\"20*\" /><colspec colname=\"col6\" colnum=\"6\" colsep=\"0\" colwidth=\"5*\" /><colspec colname=\"col7\" colnum=\"7\" colsep=\"1\" colwidth=\"20*\" /><colspec colname=\"col8\" colnum=\"8\" colsep=\"0\" colwidth=\"5*\" /><colspec colname=\"col9\" colnum=\"9\" colsep=\"0\" colwidth=\"20*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col9\" namest=\"col1\" valign=\"top\"><noindex><kommentar typ=\"Fundstelle\">&lt; Fundstelle des Originaltextes: BGBl. I 1999, 154 &gt;</kommentar></noindex></entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Vereinsregister des Amtsgerichts</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" nameend=\"col9\" namest=\"col6\" valign=\"top\">Nummer des Vereins: VR</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" morerows=\"1\" rowsep=\"1\" valign=\"top\">Nummer der Eintragung</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Name</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Allgemeine Vertretungsregelung</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Satzung</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Tag der</entry></row><row rowsep=\"1\"><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sitz</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Vertretungsberechtigte und besondere Vertretungsbefugnis</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Rechtsverh\u00e4ltnisse</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Eintragung Bemerkungen</entry></row><row rowsep=\"1\"><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">1</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col3\" namest=\"col2\" valign=\"top\">2</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col5\" namest=\"col4\" valign=\"top\">3</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col7\" namest=\"col6\" valign=\"top\">4</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col9\" namest=\"col8\" valign=\"top\">5</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"1\" nameend=\"col3\" namest=\"col2\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"1\" nameend=\"col5\" namest=\"col4\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"1\" nameend=\"col7\" namest=\"col6\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col9\" namest=\"col8\" valign=\"top\">\u00a0</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014710999BJNE004601310",
+        "name": "Anlage 2",
+        "title": "(zu \u00a7 21 Satz 3)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014710999BJNG004200308"
+        },
+        "body": "<P><pre xml:space=\"preserve\"><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">(Fundstelle des Originaltextes: BGBl. I 1999, 154;<BR /> <BR />  bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)</kommentar> <BR />Vereinsregister                                                     Nummer des<BR />des Amtsgerichts    Wiedergabe des aktuellen Registerinhalts        Vereins: VR<BR />-------------------------------------------------------------------------------<BR />1.  Anzahl der bisherigen Eintragungen<BR />2.  a) Name<BR />    b) Sitz<BR />3.  a) Allgemeine Vertretungsregelung<BR />    b) Vertretungsberechtigte und besondere Vertretungsbefugnis<BR />4.  a) Satzung<BR />    b) Sonstige Rechtsverh\u00e4ltnisse<BR />5.  Tag der letzten Eintragung<BR /></pre></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR000120938",
+    "firstPublished": "1938-01-07",
+    "sourceTimestamp": "20210930213001",
+    "titleShort": null,
+    "titleLong": "Erste Verordnung zur Durchf\u00fchrung des Gesetzes \u00fcber die \u00c4nderung von Familiennamen und Vornamen",
+    "abbreviation": "FamNam\u00c4ndGDV 1",
+    "slug": "famnamaendgdv_1",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1938, 12",
+        "periodical": "RGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 4 Abs. 47 G v. 18.7.2016 I 1666",
+        "category": "Stand"
+      },
+      {
+        "comment": "Mittelbare \u00c4nderung durch Art. 2 G v. 18.7.2016 I 1666 ist ber\u00fccksichtigt",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.5.1975 +++)<BR /><BR /></pre>Eingliederung dieser Vorschrift in das Sachgebiet 2 ist vorgesehen</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR000120938BJNE000300303",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 13 des Gesetzes \u00fcber die \u00c4nderung von Familiennamen und Vornamen vom 5. Januar 1938 (Reichsgesetzbl. I S. 9) wird folgendes verordnet:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR000120938BJNG000100303",
+        "name": "Art I",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR000120938BJNE000400303",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR000120938BJNG000100303"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR000120938BJNE000500303",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR000120938BJNG000100303"
+        },
+        "body": "<P>(1) Die h\u00f6here Verwaltungsbeh\u00f6rde kann den Antrag auf \u00c4nderung oder Feststellung des Familiennamens unter Bestimmung einer Frist zur Geltendmachung von Einwendungen in einer von ihr zu bestimmenden Tageszeitung auf Kosten des Antragstellers ver\u00f6ffentlichen, soweit es zur Verh\u00fctung der Beeintr\u00e4chtigung von Rechten anderer Personen erforderlich erscheint.</P><P>(2) Wird ein Familienname ge\u00e4ndert oder festgestellt ..., so kann die h\u00f6here Verwaltungsbeh\u00f6rde diese Anordnung durch einmaliges Einr\u00fccken in eine von ihr zu bestimmende Tageszeitung auf Kosten des Betroffenen bekanntmachen, wenn es im Einzelfall zweckm\u00e4\u00dfig erscheint.</P><P>(3) Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung die zust\u00e4ndige Beh\u00f6rde abweichend von den Abs\u00e4tzen 1 und 2 zu bestimmen. Sie k\u00f6nnen diese Erm\u00e4chtigung auf oberste Landesbeh\u00f6rden \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR000120938BJNE000603123",
+        "name": "\u00a7 3",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR000120938BJNG000100303"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR000120938BJNG000200303",
+        "name": "Art II",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR000120938BJNE000700303",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR000120938BJNG000200303"
+        },
+        "body": "<P><SP>Der Reichsminister des Innern</SP></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

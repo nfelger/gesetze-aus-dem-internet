@@ -1,0 +1,1220 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR014990940",
+    "firstPublished": "1940-11-15",
+    "sourceTimestamp": "20130405125717",
+    "titleShort": null,
+    "titleLong": "Gesetz \u00fcber Rechte an eingetragenen Schiffen und Schiffsbauwerken",
+    "abbreviation": "SchRG",
+    "slug": "schrg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1940, 1499",
+        "periodical": "RGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 2 G v. 21.1.2013 I 91",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1970 +++)<BR />(+++ Ma\u00dfgaben aufgrund EinigVtr vgl. BGB Anhang EV; nicht mehr anzuwenden<BR />     gem. Art. 1 Nr. 2 Buchst. b G v. 21.1.2013 I 91 mWv 29.1.2013 +++)<BR />(+++ Zur Geltung in dem in Art. 3 EinigVtr genannten Gebiet <BR />     vgl. \u00a7 83 F 2013-01-21 +++)  <BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE000900318",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verk\u00fcndet wird:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014990940BJNG000100318",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001001308",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Dieses Gesetz gilt nur f\u00fcr Schiffe, die im Schiffsregister eines deutschen Gerichts eingetragen sind.</P><P>(2) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001100318",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Zur \u00dcbertragung des Eigentums an einem im Seeschiffsregister eingetragenen Schiff ist erforderlich und gen\u00fcgend, da\u00df der Eigent\u00fcmer und der Erwerber dar\u00fcber einig sind, da\u00df das Eigentum auf den Erwerber \u00fcbergehen soll.</P><P>(2) Jeder Teil kann verlangen, da\u00df ihm auf seine Kosten eine \u00f6ffentlich beglaubigte Urkunde \u00fcber die Ver\u00e4u\u00dferung erteilt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001200318",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Zur \u00dcbertragung des Eigentums an einem im Binnenschiffsregister eingetragenen Schiff ist die Einigung des Eigent\u00fcmers und des Erwerbers hier\u00fcber und die Eintragung des Eigentums\u00fcbergangs in das Binnenschiffsregister erforderlich.</P><P>(2) Vor der Eintragung sind die Beteiligten an die Einigung nur gebunden, wenn die Erkl\u00e4rungen notarisch beurkundet oder vor dem Registergericht abgegeben oder bei diesem eingereicht sind oder wenn der Eigent\u00fcmer dem Erwerber eine den Vorschriften der Schiffsregisterordnung entsprechende Eintragungsbewilligung ausgeh\u00e4ndigt hat.</P><P>(3) Die Erkl\u00e4rung des Eigent\u00fcmers wird nicht dadurch unwirksam, da\u00df er in der Verf\u00fcgung beschr\u00e4nkt wird, nachdem die Erkl\u00e4rung f\u00fcr ihn bindend geworden und der Antrag auf Eintragung beim Registergericht gestellt worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001300318",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Sind der Ver\u00e4u\u00dferer und der Erwerber dar\u00fcber einig, da\u00df sich die Ver\u00e4u\u00dferung auf das Zubeh\u00f6r des Schiffs erstrecken soll, so erlangt der Erwerber mit dem Eigentum an dem Schiff auch das Eigentum an den zur Zeit des Erwerbs vorhandenen Zubeh\u00f6rst\u00fccken, soweit sie dem Ver\u00e4u\u00dferer geh\u00f6ren.</P><P>(2) Erlangt der Erwerber durch die Ver\u00e4u\u00dferung den Besitz von Zubeh\u00f6rst\u00fccken, die dem Ver\u00e4u\u00dferer nicht geh\u00f6ren oder mit Rechten Dritter belastet sind, so sind die Vorschriften der \u00a7\u00a7 932 bis 936 des B\u00fcrgerlichen Gesetzbuchs anzuwenden; f\u00fcr den guten Glauben des Erwerbers ist der Zeitpunkt ma\u00dfgebend, in dem der Erwerber den Besitz erlangt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001400318",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>Wer als Eigent\u00fcmer eines Schiffs im Schiffsregister eingetragen ist, ohne da\u00df er das Eigentum erlangt hat, erwirbt das Eigentum, wenn die Eintragung zehn Jahre bestanden und er w\u00e4hrend dieser Zeit das Schiff in Eigenbesitz gehabt hat. Die zehnj\u00e4hrige Frist wird in derselben Weise berechnet wie die Frist f\u00fcr die Ersitzung einer beweglichen Sache. Der Lauf der Frist ist gehemmt, solange ein Widerspruch gegen die Richtigkeit der Eintragung im Schiffsregister eingetragen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001501140",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Der Eigent\u00fcmer eines Schiffs kann im Wege des Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn das Schiff seit zehn Jahren im Eigenbesitz eines andern ist. Die Besitzzeit wird in gleicher Weise berechnet wie die Frist f\u00fcr die Ersitzung einer beweglichen Sache. Ist der Eigent\u00fcmer im Schiffsregister eingetragen, so ist das Aufgebotsverfahren nur zul\u00e4ssig, wenn er gestorben oder verschollen ist und eine Eintragung in das Schiffsregister, die der Zustimmung des Eigent\u00fcmers bedurfte, seit zehn Jahren nicht erfolgt ist.</P><P>(2) Wer den Ausschlie\u00dfungsbeschluss erwirkt hat, erlangt das Eigentum dadurch, da\u00df er sich als Eigent\u00fcmer in das Schiffsregister eintragen l\u00e4\u00dft.</P><P>(3) Ist vor dem Erlass des Ausschlie\u00dfungsbeschlusses ein Dritter als Eigent\u00fcmer oder wegen des Eigentums eines Dritten ein Widerspruch gegen die Richtigkeit des Schiffsregisters eingetragen worden, so wirkt der Ausschlie\u00dfungsbeschluss nicht gegen den Dritten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001601140",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Das Eigentum an einem Schiff kann dadurch aufgegeben werden, da\u00df der Eigent\u00fcmer den Verzicht dem Registergericht gegen\u00fcber erkl\u00e4rt und der Verzicht in das Schiffsregister eingetragen wird.</P><P>(2) Das Recht zur Aneignung des herrenlosen Schiffs steht nur dem Bund zu. Der Bund erwirbt das Eigentum dadurch, da\u00df er sich als Eigent\u00fcmer in das Schiffsregister eintragen l\u00e4\u00dft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001700318",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Ein Schiff kann zur Sicherung einer Forderung in der Weise belastet werden, da\u00df der Gl\u00e4ubiger berechtigt ist, wegen einer bestimmten Geldsumme Befriedigung aus dem Schiff zu suchen (Schiffshypothek). Eine Schiffshypothek kann auch f\u00fcr eine zuk\u00fcnftige oder eine bedingte Forderung bestellt werden. Das Recht des Gl\u00e4ubigers aus der Schiffshypothek bestimmt sich nur nach der Forderung.</P><P>(2) F\u00fcr die Bestellung der Schiffshypothek gilt \u00a7 3 sinngem\u00e4\u00df.</P><P>(3) Der Bruchteil eines Schiffs kann mit einer Schiffshypothek nur belastet werden, wenn er in dem Anteil eines Miteigent\u00fcmers besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001800318",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Ein Nie\u00dfbrauch kann an einem Schiff nur bestellt werden, wenn damit eine Verpflichtung zur Bestellung des Nie\u00dfbrauchs am ganzen Verm\u00f6gen des Eigent\u00fcmers oder an einer Erbschaft oder an einem Bruchteil des Verm\u00f6gens oder der Erbschaft erf\u00fcllt werden soll.</P><P>(2) F\u00fcr die Bestellung des Nie\u00dfbrauchs gilt \u00a7 3 sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE001901307",
+        "name": "\u00a7 10",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Zur Sicherung des Anspruchs auf Einr\u00e4umung oder Aufhebung eines Rechts an einem Schiff oder an einer Schiffshypothek oder auf \u00c4nderung des Inhalts oder des Rangs eines solchen Rechts kann eine Vormerkung in das Schiffsregister eingetragen werden. Die Eintragung einer Vormerkung ist auch zur Sicherung eines k\u00fcnftigen oder eines bedingten Anspruchs zul\u00e4ssig.</P><P>(2) Eine Verf\u00fcgung, die nach der Eintragung der Vormerkung \u00fcber das Schiff oder das Recht getroffen wird, ist insoweit unwirksam, als sie den Anspruch vereiteln oder beeintr\u00e4chtigen w\u00fcrde. Dies gilt auch, wenn die Verf\u00fcgung im Wege der Zwangsvollstreckung oder der Arrestvollziehung oder durch den Insolvenzverwalter erfolgt.</P><P>(3) Der Rang des Rechts, auf dessen Einr\u00e4umung der Anspruch gerichtet ist, bestimmt sich nach der Eintragung der Vormerkung.</P><P>(4) Soweit der Anspruch durch die Vormerkung gesichert ist, kann sich der Erbe des Verpflichteten nicht auf die Beschr\u00e4nkung seiner Haftung berufen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002000318",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Die Vormerkung wird auf Grund einer einstweiligen Verf\u00fcgung oder auf Grund der Bewilligung dessen eingetragen, dessen Schiff oder dessen Recht von der Vormerkung betroffen wird. F\u00fcr die einstweilige Verf\u00fcgung braucht eine Gef\u00e4hrdung des zu sichernden Anspruchs nicht glaubhaft gemacht zu werden.</P><P>(2) Bei der Eintragung kann zur n\u00e4heren Bezeichnung des zu sichernden Anspruchs auf die einstweilige Verf\u00fcgung oder die Eintragungsbewilligung Bezug genommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002100318",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>Steht dem, dessen Schiff oder dessen Recht von der Vormerkung betroffen wird, eine Einrede zu, durch welche die Geltendmachung des durch die Vormerkung gesicherten Anspruchs dauernd ausgeschlossen wird, so kann er von dem Gl\u00e4ubiger die Beseitigung der Vormerkung verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002201140",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>Ist der Gl\u00e4ubiger, dessen Anspruch durch die Vormerkung gesichert ist, unbekannt, so kann er im Wege des Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn die in \u00a7 66 f\u00fcr die Ausschlie\u00dfung eines Schiffshypothekengl\u00e4ubigers bestimmten Voraussetzungen vorliegen. Die Wirkung der Vormerkung erlischt, sobald der Ausschlie\u00dfungsbeschluss rechtskr\u00e4ftig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002300318",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Soweit der Erwerb des Eigentums, einer Schiffshypothek oder des Rechts an einer solchen oder eines Nie\u00dfbrauchs dem gegen\u00fcber, zu dessen Gunsten die Vormerkung besteht, unwirksam ist, kann dieser von dem Erwerber die Zustimmung zu der Eintragung oder L\u00f6schung verlangen, die zur Verwirklichung des durch die Vormerkung gesicherten Anspruchs erforderlich ist.</P><P>(2) Das gleiche gilt, wenn der Anspruch durch ein Ver\u00e4u\u00dferungsverbot gesichert ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002400318",
+        "name": "\u00a7 15",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Es wird vermutet, da\u00df Eigent\u00fcmer des Schiffs ist, wer als Eigent\u00fcmer im Schiffsregister eingetragen ist.</P><P>(2) Ist im Schiffsregister f\u00fcr jemanden eine Schiffshypothek oder ein Recht an einer solchen oder ein Nie\u00dfbrauch eingetragen, so wird vermutet, da\u00df ihm das Recht zusteht.</P><P>(3) Ist ein eingetragenes Recht (Absatz 1, 2) gel\u00f6scht, so wird vermutet, da\u00df es nicht mehr besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002500318",
+        "name": "\u00a7 16",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Zugunsten dessen, der das Eigentum an einem Schiff, eine Schiffshypothek oder ein Recht an einer solchen oder einen Nie\u00dfbrauch an einem Schiff durch Rechtsgesch\u00e4ft erwirbt, gilt der Inhalt des Schiffsregisters, soweit er diese Rechte betrifft, als richtig, es sei denn, da\u00df ein Widerspruch gegen die Richtigkeit eingetragen oder die Unrichtigkeit dem Erwerber bekannt ist. Ist der Berechtigte in der Verf\u00fcgung \u00fcber ein im Schiffsregister eingetragenes Recht (Satz 1) zugunsten einer bestimmten Person beschr\u00e4nkt, so ist die Beschr\u00e4nkung dem Erwerber gegen\u00fcber nur wirksam, wenn sie aus dem Schiffsregister ersichtlich oder dem Erwerber bekannt ist.</P><P>(2) Ist zum Erwerb des Rechts die Eintragung erforderlich, so ist f\u00fcr die Kenntnis des Erwerbers die Zeit der Stellung des Antrags auf Eintragung oder, wenn die Einigung erst sp\u00e4ter zustande kommt, die Zeit der Einigung ma\u00dfgebend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002600318",
+        "name": "\u00a7 17",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>\u00a7 16 gilt sinngem\u00e4\u00df, wenn an den, f\u00fcr den ein Recht (\u00a7 16 Abs. 1 Satz 1) im Schiffsregister eingetragen ist, auf Grund dieses Rechts eine Leistung bewirkt oder wenn zwischen ihm und einem Dritten ein anderes, nicht unter \u00a7 16 fallendes Rechtsgesch\u00e4ft vorgenommen wird, das eine Verf\u00fcgung \u00fcber das Recht enth\u00e4lt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002700318",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Steht der Inhalt des Schiffsregisters, soweit er das Eigentum, eine Schiffshypothek, ein Recht an einer solchen, einen Nie\u00dfbrauch oder eine Verf\u00fcgungsbeschr\u00e4nkung der in \u00a7 16 Abs. 1 Satz 2 genannten Art betrifft, mit der wirklichen Rechtslage nicht im Einklang, so kann der, dessen Recht nicht oder nicht richtig eingetragen oder durch die Eintragung einer nicht bestehenden Belastung oder Beschr\u00e4nkung beeintr\u00e4chtigt ist, die Zustimmung zu der Berichtigung des Schiffsregisters von dem verlangen, dessen Recht durch die Berichtigung betroffen wird.</P><P>(2) Kann das Schiffsregister erst berichtigt werden, nachdem das Recht des nach Absatz 1 Verpflichteten eingetragen worden ist, so hat dieser auf Verlangen sein Recht eintragen zu lassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002800318",
+        "name": "\u00a7 19",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>Wer die Berichtigung verlangt, hat die Kosten der Berichtigung des Schiffsregisters und der dazu erforderlichen Erkl\u00e4rungen zu tragen, sofern sich nicht aus einem zwischen ihm und dem Verpflichteten bestehenden Rechtsverh\u00e4ltnis etwas anderes ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE002900318",
+        "name": "\u00a7 20",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>Die in \u00a7 18 bestimmten Anspr\u00fcche unterliegen nicht der Verj\u00e4hrung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003000318",
+        "name": "\u00a7 21",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) In den F\u00e4llen des \u00a7 18 kann ein Widerspruch gegen die Richtigkeit des Schiffsregisters eingetragen werden.</P><P>(2) Der Widerspruch wird auf Grund einer einstweiligen Verf\u00fcgung oder auf Grund einer Bewilligung des durch die Berichtigung des Schiffsregisters Betroffenen eingetragen. Die einstweilige Verf\u00fcgung kann erlassen werden, ohne da\u00df eine Gef\u00e4hrdung des Rechts des Widersprechenden glaubhaft gemacht wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003100318",
+        "name": "\u00a7 22",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>Ist eine Vormerkung oder ein Widerspruch auf Grund einer einstweiligen Verf\u00fcgung eingetragen, so erlischt die Vormerkung oder der Widerspruch, wenn die einstweilige Verf\u00fcgung durch eine vollstreckbare Entscheidung aufgehoben wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003200318",
+        "name": "\u00a7 23",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000100318"
+        },
+        "body": "<P>(1) Die Anspr\u00fcche aus eingetragenen Rechten unterliegen nicht der Verj\u00e4hrung. Dies gilt nicht f\u00fcr Anspr\u00fcche, die auf R\u00fcckst\u00e4nde wiederkehrender Leistungen oder auf Schadenersatz gerichtet sind.</P><P>(2) Ein Recht, wegen dessen ein Widerspruch gegen die Richtigkeit des Schiffsregisters eingetragen ist, steht einem eingetragenen Recht gleich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014990940BJNG000200318",
+        "name": "Zweiter Abschnitt",
+        "title": "Eintragung und Inhalt der\nSchiffshypothek",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003300318",
+        "name": "\u00a7 24",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Bei der Eintragung einer Schiffshypothek m\u00fcssen der Gl\u00e4ubiger, der Geldbetrag der Forderung und, wenn die Forderung verzinslich ist, der Zinssatz, wenn andere Nebenleistungen zu entrichten sind, ihr Geldbetrag in das Schiffsregister eingetragen werden. Zur n\u00e4heren Bezeichnung des Inhalts des Rechts und der Forderung kann auf die Eintragungsbewilligung Bezug genommen werden.</P><P>(2) Wird die Schiffshypothek f\u00fcr das Darlehen einer Kreditanstalt eingetragen, deren Satzung von der zust\u00e4ndigen Beh\u00f6rde \u00f6ffentlich bekanntgemacht worden ist, so gen\u00fcgt zur Bezeichnung der au\u00dfer den Zinsen satzungsm\u00e4\u00dfig zu entrichtenden Nebenleistungen die Bezugnahme auf die Satzung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003400318",
+        "name": "\u00a7 25",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Ist ein Schiff mit mehreren Schiffshypotheken belastet, so bestimmt sich ihr Rangverh\u00e4ltnis nach der Reihenfolge der Eintragungen. Die Eintragung ist f\u00fcr das Rangverh\u00e4ltnis auch dann ma\u00dfgebend, wenn die nach \u00a7 8 Abs. 2, \u00a7 3 zur Bestellung der Schiffshypothek erforderliche Einigung erst nach der Eintragung zustande gekommen ist.</P><P>(2) Eine abweichende Bestimmung des Rangverh\u00e4ltnisses mu\u00df in das Schiffsregister eingetragen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003500318",
+        "name": "\u00a7 26",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Das Rangverh\u00e4ltnis kann nachtr\u00e4glich ge\u00e4ndert werden. Der nachtr\u00e4glichen \u00c4nderung des Rangverh\u00e4ltnisses steht es gleich, wenn der Rang einer bereits eingetragenen Schiffshypothek zugleich mit der Eintragung einer neuen Schiffshypothek zu deren Gunsten ge\u00e4ndert wird.</P><P>(2) Zu der Rang\u00e4nderung ist die Einigung des zur\u00fccktretenden und des vortretenden Berechtigten, die Zustimmung des Eigent\u00fcmers sowie die Eintragung in das Schiffsregister erforderlich. F\u00fcr die Einigung gilt \u00a7 3 Abs. 2, 3 sinngem\u00e4\u00df. Die Zustimmung ist dem Registergericht oder einem der Beteiligten gegen\u00fcber zu erkl\u00e4ren; sie ist unwiderruflich.</P><P>(3) Ist die zur\u00fccktretende Schiffshypothek mit dem Recht eines Dritten belastet, so ist auch seine Zustimmung erforderlich; Absatz 2 Satz 3 gilt sinngem\u00e4\u00df.</P><P>(4) Der einger\u00e4umte Vorrang geht nicht dadurch verloren, da\u00df die zur\u00fccktretende Schiffshypothek durch Rechtsgesch\u00e4ft aufgehoben wird.</P><P>(5) Schiffshypotheken, die den Rang zwischen der zur\u00fccktretenden und der vortretenden Schiffshypothek haben, werden durch die Rang\u00e4nderung nicht ber\u00fchrt.</P><P>(6) Im Fall der Teilung einer Schiffshypothek ist zur \u00c4nderung des Rangverh\u00e4ltnisses der Teilschiffshypotheken untereinander die Zustimmung des Eigent\u00fcmers nicht erforderlich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003600318",
+        "name": "\u00a7 27",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Der Eigent\u00fcmer kann sich bei der Belastung des Schiffs mit einer Schiffshypothek die Befugnis vorbehalten, eine andere dem Umfang nach bestimmte Schiffshypothek mit dem Rang vor jener Schiffshypothek eintragen zu lassen.</P><P>(2) Der Vorbehalt mu\u00df bei der Schiffshypothek eingetragen werden, die zur\u00fccktreten soll.</P><P>(3) Wird das Schiff ver\u00e4u\u00dfert, so geht die vorbehaltene Befugnis auf den Erwerber \u00fcber.</P><P>(4) Ist das Schiff vor der Eintragung der Schiffshypothek welcher der Vorrang beigelegt ist, mit einer Schiffshypothek ohne einen entsprechenden Vorbehalt belastet worden, so hat der Vorrang keine Wirkung, soweit die mit dem Vorbehalt eingetragene Schiffshypothek infolge der Zwischenbelastung eine \u00fcber den Vorbehalt hinausgehende Beeintr\u00e4chtigung erleiden w\u00fcrde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003700318",
+        "name": "\u00a7 28",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Besteht f\u00fcr die Forderung eine Schiffshypothek an mehreren Schiffen oder an mehreren Anteilen eines Schiffs, so haftet jedes Schiff oder jeder Anteil f\u00fcr die ganze Forderung (Gesamtschiffshypothek).</P><P>(2) Der Gl\u00e4ubiger ist berechtigt, den Betrag der Forderung auf die einzelnen Schiffe oder Anteile in der Weise zu verteilen, da\u00df jedes Schiff oder jeder Anteil nur f\u00fcr den zugeteilten Betrag haftet. Zur Verteilung ist die Erkl\u00e4rung des Gl\u00e4ubigers und die Eintragung in das Schiffsregister erforderlich. Die Erkl\u00e4rung ist dem Registergericht oder dem gegen\u00fcber abzugeben, zu dessen Gunsten sie erfolgt; \u00a7 3 Abs. 2, 3 gilt sinngem\u00e4\u00df. Ist die Gesamtschiffshypothek mit dem Recht eines Dritten belastet, so ist seine Zustimmung erforderlich; die Zustimmung ist dem Registergericht oder dem gegen\u00fcber zu erkl\u00e4ren, zu dessen Gunsten sie erfolgt; sie ist unwiderruflich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003800318",
+        "name": "\u00a7 29",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>Kraft der Schiffshypothek haftet das Schiff auch f\u00fcr die gesetzlichen Zinsen der Forderung sowie f\u00fcr die Kosten der K\u00fcndigung und der die Befriedigung aus dem Schiff bezweckenden Rechtsverfolgung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE003900318",
+        "name": "\u00a7 30",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Ist die Forderung unverzinslich oder ist der Zinssatz niedriger als f\u00fcnf vom Hundert, so kann die Schiffshypothek ohne die Zustimmung der im Rang gleich- oder nachstehenden Berechtigten dahin erweitert werden, da\u00df das Schiff f\u00fcr Zinsen bis zu f\u00fcnf vom Hundert haftet.</P><P>(2) Zu einer \u00c4nderung der Zahlungszeit und des Zahlungsorts ist die Zustimmung dieser Berechtigten gleichfalls nicht erforderlich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004000318",
+        "name": "\u00a7 31",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Die Schiffshypothek erstreckt sich auf das Zubeh\u00f6r des Schiffs mit Ausnahme der Zubeh\u00f6rst\u00fccke, die nicht in das Eigentum des Schiffseigent\u00fcmers gelangt sind.</P><P>(2) Zubeh\u00f6rst\u00fccke werden von der Haftung frei, wenn ihre Zubeh\u00f6reigenschaft in den Grenzen einer ordnungsm\u00e4\u00dfigen Wirtschaft aufgehoben wird oder die St\u00fccke ver\u00e4u\u00dfert und von dem Schiff entfernt werden, bevor sie zugunsten des Gl\u00e4ubigers in Beschlag genommen worden sind. \u00a7 1121 Abs. 2 des B\u00fcrgerlichen Gesetzbuchs gilt sinngem\u00e4\u00df.</P><P>(3) Absatz 2 gilt f\u00fcr die Bestandteile sinngem\u00e4\u00df mit der Ma\u00dfgabe, da\u00df an Stelle der Aufhebung der Zubeh\u00f6reigenschaft die Trennung und Entfernung von dem Schiff tritt, sofern nicht die Entfernung nur zu einem vor\u00fcbergehenden Zweck erfolgt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004100318",
+        "name": "\u00a7 32",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Hat der Eigent\u00fcmer oder f\u00fcr seine Rechnung ein anderer f\u00fcr das Schiff eine Versicherung genommen, so erstreckt sich die Schiffshypothek auf die Versicherungsforderung.</P><P>(2) Die f\u00fcr eine verpf\u00e4ndete Forderung geltenden Vorschriften des b\u00fcrgerlichen Rechts sind sinngem\u00e4\u00df anzuwenden; der Versicherer kann sich nicht darauf berufen, da\u00df er eine aus dem Schiffsregister ersichtliche Schiffshypothek nicht gekannt habe. Der Versicherer kann jedoch die Entsch\u00e4digungssumme mit Wirkung gegen den Gl\u00e4ubiger an den Versicherungsnehmer zahlen, wenn er oder der Versicherungsnehmer den Eintritt des Schadens dem Gl\u00e4ubiger angezeigt hat und seit dem Empfang der Anzeige eine Frist von zwei Wochen verstrichen ist. Die Anzeige darf unterbleiben, wenn sie untunlich ist; in diesem Fall wird die Frist von dem Zeitpunkt an gerechnet, in dem die Entsch\u00e4digungssumme f\u00e4llig ist. Der Gl\u00e4ubiger kann bis zum Ablauf der Frist dem Versicherer gegen\u00fcber der Zahlung widersprechen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004200318",
+        "name": "\u00a7 33",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Eine Zahlung des Versicherers auf die Versicherungsforderung ist dem Gl\u00e4ubiger gegen\u00fcber wirksam, soweit sie zum Zweck der Wiederherstellung des Schiffs bewirkt wird und die Wiederherstellung des Schiffs gesichert ist. Das gleiche gilt von Zahlungen des Versicherers zum Zweck der Befriedigung von Schiffsgl\u00e4ubigern, deren Anspr\u00fcche der Schiffshypothek im Rang vorgehen, soweit die Befriedigung dieser Schiffsgl\u00e4ubiger gesichert ist.</P><P>(2) Die Haftung der Forderung gegen den Versicherer erlischt, soweit das Schiff wiederhergestellt oder f\u00fcr Zubeh\u00f6rst\u00fccke Ersatz beschafft worden ist. Das gleiche gilt, soweit Verpflichtungen des Eigent\u00fcmers erf\u00fcllt worden sind, die von der Versicherung umfa\u00dft waren und f\u00fcr die ein der Schiffshypothek im Rang vorgehendes Schiffsgl\u00e4ubigerrecht bestand.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004301307",
+        "name": "\u00a7 34",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Hat der Gl\u00e4ubiger seine Schiffshypothek bei dem Versicherer angemeldet, so hat dieser dem Gl\u00e4ubiger unverz\u00fcglich mitzuteilen, wenn die Pr\u00e4mie nicht rechtzeitig gezahlt ist und aus diesem Grund dem Versicherungsnehmer eine Zahlungsfrist bestimmt wird. Das gleiche gilt, wenn das Versicherungsverh\u00e4ltnis nach dem Ablauf der Frist wegen unterbliebener Pr\u00e4mienzahlung gek\u00fcndigt wird.</P><P>(2) Eine K\u00fcndigung, ein R\u00fccktritt oder eine sonstige Tatsache, welche die vorzeitige Beendigung des Versicherungsverh\u00e4ltnisses zur Folge hat, wird gegen\u00fcber dem Gl\u00e4ubiger, der seine Schiffshypothek dem Versicherer angemeldet hat, erst mit dem Ablauf von zwei Wochen wirksam, nachdem der Versicherer ihm die Beendigung und, wenn diese noch nicht eingetreten war, den Zeitpunkt der Beendigung mitgeteilt oder der Gl\u00e4ubiger dies in anderer Weise erfahren hat. Dies gilt nicht, wenn das Versicherungsverh\u00e4ltnis wegen nicht rechtzeitiger Pr\u00e4mienzahlung gek\u00fcndigt oder durch das Insolvenzverfahren \u00fcber das Verm\u00f6gen des Versicherers beendigt wird.</P><P>(3) Trifft der Versicherer mit dem Versicherungsnehmer eine Vereinbarung, durch welche die Versicherungssumme oder der Umfang der Gefahr, f\u00fcr die der Versicherer haftet, gemindert wird, so gilt Absatz 2 Satz 1 sinngem\u00e4\u00df.</P><P>(4) Ist der Versicherungsvertrag unwirksam, weil der Versicherungsnehmer ihn in der Absicht geschlossen hat, sich aus einer \u00dcberversicherung oder einer Doppelversicherung einen rechtswidrigen Verm\u00f6gensvorteil zu verschaffen, so kann der Versicherer gegen\u00fcber einem Gl\u00e4ubiger, der ihm seine Schiffshypothek angemeldet hat, die Unwirksamkeit nicht geltend machen. Das Versicherungsverh\u00e4ltnis endigt jedoch dem Gl\u00e4ubiger gegen\u00fcber mit dem Ablauf von zwei Wochen, nachdem der Versicherer ihm die Unwirksamkeit mitgeteilt oder der Gl\u00e4ubiger sie in anderer Weise erfahren hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004400318",
+        "name": "\u00a7 35",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Ist das Schiff bei mehreren Versicherern gemeinschaftlich versichert, so gen\u00fcgt die Anmeldung der Schiffshypothek nach \u00a7 34 bei dem Versicherer, den der Eigent\u00fcmer dem Gl\u00e4ubiger als den f\u00fchrenden Versicherer bezeichnet hat. Dieser ist verpflichtet, die Anmeldung den Mitversicherern mitzuteilen.</P><P>(2) F\u00fcr eine Mitteilung nach \u00a7 34 gen\u00fcgt, wenn der Gl\u00e4ubiger seine Wohnung ge\u00e4ndert, die \u00c4nderung aber dem Versicherer nicht angezeigt hat, die Absendung eines eingeschriebenen Briefs nach der letzten, dem Versicherer bekannten Wohnung des Gl\u00e4ubigers. Die Mitteilung wird mit dem Zeitpunkt wirksam, in dem sie ohne die Wohnungs\u00e4nderung bei regelm\u00e4\u00dfiger Bef\u00f6rderung dem Gl\u00e4ubiger zugegangen sein w\u00fcrde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004500318",
+        "name": "\u00a7 36",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Ist der Versicherer wegen des Verhaltens des Versicherungsnehmers oder des Versicherten von der Verpflichtung zur Leistung frei, so bleibt gleichwohl seine Verpflichtung gegen\u00fcber dem Gl\u00e4ubiger bestehen. Das gleiche gilt, wenn der Versicherer nach dem Eintritt des Versicherungsfalls vom Vertrag zur\u00fccktritt.</P><P>(2) Absatz 1 Satz 1 gilt nicht, wenn der Versicherer von der Verpflichtung zur Leistung deshalb frei ist, weil <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Pr\u00e4mie nicht rechtzeitig gezahlt ist oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Schiff in nicht fahrt\u00fcchtigem (seet\u00fcchtigem) Zustand oder nicht geh\u00f6rig ausger\u00fcstet oder bemannt die Reise angetreten hat oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Schiff von dem angegebenen oder \u00fcblichen Reiseweg abgewichen ist.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004600318",
+        "name": "\u00a7 37",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>Soweit der Versicherer auf Grund des \u00a7 34 Abs. 2 bis 4, \u00a7 36 den Gl\u00e4ubiger befriedigt, geht die Schiffshypothek auf ihn \u00fcber. Der \u00dcbergang kann nicht zum Nachteil des Gl\u00e4ubigers oder eines gleich- oder nachstehenden Schiffshypothekengl\u00e4ubigers, demgegen\u00fcber die Verpflichtung des Versicherers zur Leistung bestehen geblieben ist, geltend gemacht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004700318",
+        "name": "\u00a7 38",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Der Versicherer mu\u00df f\u00e4llige Pr\u00e4mien oder sonstige ihm auf Grund des Versicherungsvertrags geb\u00fchrende Zahlungen vom Versicherten und vom Gl\u00e4ubiger auch dann annehmen, wenn er nach den Vorschriften des b\u00fcrgerlichen Rechts die Zahlung zur\u00fcckweisen k\u00f6nnte.</P><P>(2) Das Schiff haftet kraft der Schiffshypothek f\u00fcr den Anspruch des Gl\u00e4ubigers auf Erstattung der Betr\u00e4ge und ihrer Zinsen, die der Gl\u00e4ubiger zur Entrichtung von Pr\u00e4mien oder sonstigen dem Versicherer auf Grund des Versicherungsvertrags geb\u00fchrenden Zahlungen verwendet hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004800318",
+        "name": "\u00a7 39",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Ist infolge einer Verschlechterung des Schiffs oder seiner Einrichtungen die Sicherheit der Schiffshypothek gef\u00e4hrdet, so kann der Gl\u00e4ubiger dem Eigent\u00fcmer eine angemessene Frist zur Beseitigung der Gef\u00e4hrdung bestimmen. Nach fruchtlosem Ablauf der Frist ist der Gl\u00e4ubiger berechtigt, sofort Befriedigung aus dem Schiff zu suchen. Ist die Forderung unverzinslich und noch nicht f\u00e4llig, so geb\u00fchrt dem Gl\u00e4ubiger nur die Summe, die mit Hinzurechnung der gesetzlichen Zinsen f\u00fcr die Zeit von der Zahlung bis zur F\u00e4lligkeit dem Betrag der Forderung gleichkommt.</P><P>(2) Wirkt der Eigent\u00fcmer auf das Schiff in solcher Weise ein, da\u00df eine die Sicherheit der Schiffshypothek gef\u00e4hrdende Verschlechterung des Schiffs oder seiner Einrichtungen zu besorgen ist, oder unterl\u00e4\u00dft er die erforderlichen Vorkehrungen gegen derartige Einwirkungen Dritter oder gegen andere Besch\u00e4digungen, so hat das Gericht auf Antrag des Gl\u00e4ubigers die zur Abwendung der Gef\u00e4hrdung erforderlichen Ma\u00dfregeln anzuordnen; es kann, wenn andere Ma\u00dfnahmen nicht ausreichen, bestimmen, da\u00df der Gl\u00e4ubiger berechtigt ist, sofort Befriedigung aus dem Schiff zu suchen.</P><P>(3) Einer Verschlechterung des Schiffs steht es gleich, wenn Zubeh\u00f6rst\u00fccke, auf welche die Schiffshypothek sich erstreckt, verschlechtert oder den Regeln einer ordnungsm\u00e4\u00dfigen Wirtschaft zuwider von dem Schiff entfernt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE004900318",
+        "name": "\u00a7 40",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>Ist infolge der Einwirkung eines Dritten eine die Sicherheit der Schiffshypothek gef\u00e4hrdende Verschlechterung des Schiffs zu besorgen, so kann der Gl\u00e4ubiger gegen ihn nur auf Unterlassung klagen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005000318",
+        "name": "\u00a7 41",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Der Eigent\u00fcmer kann gegen die Schiffshypothek die dem Schuldner gegen die Forderung zustehenden Einreden geltend machen. Er kann die Befriedigung des Gl\u00e4ubigers verweigern, solange dem Schuldner das Recht zusteht, das seiner Verbindlichkeit zugrunde liegende Rechtsgesch\u00e4ft anzufechten. Die gleiche Befugnis hat der Eigent\u00fcmer, solange sich der Gl\u00e4ubiger durch Aufrechnung gegen eine f\u00e4llige Forderung des Schuldners befriedigen kann. Stirbt der Schuldner, so kann sich der Eigent\u00fcmer nicht darauf berufen, da\u00df der Erbe f\u00fcr die Schuld nur beschr\u00e4nkt haftet.</P><P>(2) Ist der Eigent\u00fcmer nicht der Schuldner, so verliert er eine Einrede nicht dadurch, da\u00df der Schuldner auf sie verzichtet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005100318",
+        "name": "\u00a7 42",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) H\u00e4ngt die F\u00e4lligkeit der Forderung von einer K\u00fcndigung ab, so ist die K\u00fcndigung f\u00fcr die Schiffshypothek nur wirksam, wenn sie von dem Gl\u00e4ubiger dem Eigent\u00fcmer oder von dem Eigent\u00fcmer dem Gl\u00e4ubiger erkl\u00e4rt wird. Zugunsten des Gl\u00e4ubigers gilt als Eigent\u00fcmer, wer im Schiffsregister als Eigent\u00fcmer eingetragen ist.</P><P>(2) Hat der Eigent\u00fcmer weder einen Wohnsitz im Inland noch die Bestellung eines inl\u00e4ndischen Bevollm\u00e4chtigten dem Gl\u00e4ubiger angezeigt, so hat das Registergericht ihm auf Antrag des Gl\u00e4ubigers einen Vertreter zu bestellen, dem gegen\u00fcber der Gl\u00e4ubiger k\u00fcndigen kann; das gleiche gilt, wenn sein Aufenthalt unbekannt ist oder der Gl\u00e4ubiger ohne Fahrl\u00e4ssigkeit nicht wei\u00df, wer der Eigent\u00fcmer ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005200318",
+        "name": "\u00a7 43",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Der Eigent\u00fcmer ist berechtigt, den Gl\u00e4ubiger zu befriedigen, wenn die Forderung ihm gegen\u00fcber f\u00e4llig geworden oder wenn der Schuldner zur Leistung berechtigt ist.</P><P>(2) Der Eigent\u00fcmer kann den Gl\u00e4ubiger auch durch Hinterlegung oder durch Aufrechnung befriedigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005300318",
+        "name": "\u00a7 44",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>(1) Ist der Eigent\u00fcmer nicht der Schuldner, so geht, soweit er den Gl\u00e4ubiger befriedigt, die Forderung auf ihn \u00fcber; der \u00dcbergang kann nicht zum Nachteil des Gl\u00e4ubigers geltend gemacht werden. Einwendungen des Schuldners aus dem zwischen ihm und dem Eigent\u00fcmer bestehenden Rechtsverh\u00e4ltnis bleiben unber\u00fchrt.</P><P>(2) Besteht f\u00fcr die Forderung eine Gesamtschiffshypothek, so gelten f\u00fcr diese die Vorschriften des \u00a7 69.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005400318",
+        "name": "\u00a7 45",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>Der Eigent\u00fcmer kann gegen Befriedigung des Gl\u00e4ubigers die Aush\u00e4ndigung der zur Berichtigung des Schiffsregisters oder zur L\u00f6schung der Schiffshypothek erforderlichen Urkunden verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005500318",
+        "name": "\u00a7 46",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000200318"
+        },
+        "body": "<P>Liegen dem Eigent\u00fcmer gegen\u00fcber die Voraussetzungen vor, unter denen ein Schuldner in Verzug kommt, so geb\u00fchren dem Gl\u00e4ubiger Verzugszinsen aus dem Schiff.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014990940BJNG000300318",
+        "name": "Dritter Abschnitt",
+        "title": "Die Geltendmachung der\nSchiffshypothek",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005600318",
+        "name": "\u00a7 47",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000300318"
+        },
+        "body": "<P>(1) Der Gl\u00e4ubiger kann seine Befriedigung aus dem Schiff und den Gegenst\u00e4nden, auf die sich die Schiffshypothek erstreckt, nur im Wege der Zwangsvollstreckung suchen.</P><P>(2) Bei einer Gesamtschiffshypothek kann der Gl\u00e4ubiger die Befriedigung aus jedem der Schiffe ganz oder zu einem Teil suchen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005700318",
+        "name": "\u00a7 48",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000300318"
+        },
+        "body": "<P>Bei der Verfolgung des Rechts aus der Schiffshypothek gilt zugunsten des Gl\u00e4ubigers als Eigent\u00fcmer, wer im Schiffsregister als Eigent\u00fcmer eingetragen ist. Das Recht des nicht eingetragenen Eigent\u00fcmers, die ihm gegen die Schiffshypothek zustehenden Einwendungen geltend zu machen, bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005800318",
+        "name": "\u00a7 49",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000300318"
+        },
+        "body": "<P>Solange die Forderung dem Eigent\u00fcmer gegen\u00fcber nicht f\u00e4llig geworden ist, kann dieser dem Gl\u00e4ubiger nicht das Recht einr\u00e4umen, zum Zweck der Befriedigung die \u00dcbertragung des Eigentums an dem Schiff zu verlangen oder das Schiff auf andere Weise als im Wege der Zwangsvollstreckung zu ver\u00e4u\u00dfern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE005900318",
+        "name": "\u00a7 50",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000300318"
+        },
+        "body": "<P>(1) Verlangt der Gl\u00e4ubiger Befriedigung aus dem Schiff, so ist jeder, der Gefahr l\u00e4uft, durch die Zwangsvollstreckung ein Recht an dem Schiff oder an den Gegenst\u00e4nden zu verlieren, auf die sich die Schiffshypothek erstreckt, berechtigt, den Gl\u00e4ubiger zu befriedigen, und zwar auch durch Hinterlegung oder Aufrechnung. Das gleiche Recht steht dem Besitzer des Schiffs oder der in \u00a7 31 genannten Sachen zu, wenn er Gefahr l\u00e4uft, durch die Zwangsvollstreckung den Besitz zu verlieren.</P><P>(2) Soweit der Dritte den Gl\u00e4ubiger befriedigt, geht die Forderung auf ihn \u00fcber. Der \u00dcbergang kann nicht zum Nachteil des Gl\u00e4ubigers geltend gemacht werden. Einwendungen des Schuldners aus einem zwischen ihm und dem Dritten bestehenden Rechtsverh\u00e4ltnis bleiben unber\u00fchrt.</P><P>(3) \u00a7 45 gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014990940BJNG000400318",
+        "name": "Vierter Abschnitt",
+        "title": "\u00dcbertragung, \u00c4nderung und\nErl\u00f6schen der Schiffshypothek",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006000318",
+        "name": "\u00a7 51",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Mit der \u00dcbertragung der Forderung geht die Schiffshypothek auf den neuen Gl\u00e4ubiger \u00fcber.</P><P>(2) Die Forderung kann nicht ohne die Schiffshypothek, die Schiffshypothek kann nicht ohne die Forderung \u00fcbertragen werden.</P><P>(3) Zur Abtretung der Forderung ist die Einigung des bisherigen und des neuen Gl\u00e4ubigers hier\u00fcber und die Eintragung in das Schiffsregister erforderlich; \u00a7 3 Abs. 2, 3 gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006100318",
+        "name": "\u00a7 52",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Eine Einrede, die dem Eigent\u00fcmer auf Grund eines zwischen ihm und dem bisherigen Gl\u00e4ubiger bestehenden Rechtsverh\u00e4ltnisses gegen die Schiffshypothek zusteht, kann auch dem neuen Gl\u00e4ubiger entgegengesetzt werden. Die Vorschriften der \u00a7\u00a7 16, 18 bis 21 \u00fcber den \u00f6ffentlichen Glauben des Schiffsregisters gelten auch f\u00fcr diese Einrede.</P><P>(2) Soweit die Forderung auf Zinsen oder andere Nebenleistungen gerichtet ist, die nicht sp\u00e4ter als in dem Kalendervierteljahr, in dem der Eigent\u00fcmer von der \u00dcbertragung Kenntnis erlangt, oder dem folgenden Vierteljahr f\u00e4llig werden, kann sich der Gl\u00e4ubiger gegen\u00fcber den in Abs. 1 bezeichneten Einreden nicht auf \u00a7 16 berufen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006200318",
+        "name": "\u00a7 53",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Soweit die Forderung auf R\u00fcckst\u00e4nde von Zinsen oder andere Nebenleistungen oder auf Erstattung von Kosten der K\u00fcndigung und Rechtsverfolgung (\u00a7 29) oder von den in \u00a7 38 Abs. 2 bezeichneten Betr\u00e4gen gerichtet ist, bestimmt sich die \u00dcbertragung sowie das Rechtsverh\u00e4ltnis zwischen dem Eigent\u00fcmer und dem neuen Gl\u00e4ubiger nach den f\u00fcr die \u00dcbertragung von Forderungen geltenden allgemeinen Vorschriften.</P><P>(2) Die Vorschriften des \u00a7 16 \u00fcber den \u00f6ffentlichen Glauben des Schiffsregisters gelten f\u00fcr die in Absatz 1 bezeichneten Anspr\u00fcche nicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006300318",
+        "name": "\u00a7 54",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Zur \u00c4nderung des Inhalts der Schiffshypothek ist die Einigung des Eigent\u00fcmers und des Gl\u00e4ubigers \u00fcber den Eintritt der Rechts\u00e4nderung und die Eintragung der Rechts\u00e4nderung in das Schiffsregister erforderlich; \u00a7 3 Abs. 2, 3, \u00a7 24 gelten sinngem\u00e4\u00df.</P><P>(2) Ist die Schiffshypothek mit dem Recht eines Dritten belastet, so ist seine Zustimmung erforderlich. Die Zustimmung ist dem Registergericht oder demgegen\u00fcber zu erkl\u00e4ren, zu dessen Gunsten sie erfolgt; sie ist unwiderruflich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006400318",
+        "name": "\u00a7 55",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) An die Stelle der Forderung, f\u00fcr welche die Schiffshypothek besteht, kann eine andere Forderung gesetzt werden. Zu der \u00c4nderung ist die Einigung des Gl\u00e4ubigers und des Eigent\u00fcmers sowie die Eintragung in das Schiffsregister erforderlich; \u00a7 3 Abs. 2, 3, \u00a7 54 Abs. 2 gelten sinngem\u00e4\u00df.</P><P>(2) Steht die Forderung, die an die Stelle der bisherigen Forderung treten soll, nicht dem bisherigen Schiffshypothekengl\u00e4ubiger zu, so ist seine Zustimmung erforderlich; \u00a7 54 Abs. 2, \u00a7 56 Abs. 2, 3 gelten sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006500318",
+        "name": "\u00a7 56",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Zur Aufhebung der Schiffshypothek durch Rechtsgesch\u00e4ft ist die Erkl\u00e4rung des Gl\u00e4ubigers, da\u00df er die Schiffshypothek aufgebe, die Zustimmung des Eigent\u00fcmers und die L\u00f6schung der Schiffshypothek im Schiffsregister erforderlich. Die Erkl\u00e4rung des Gl\u00e4ubigers ist dem Registergericht oder demgegen\u00fcber abzugeben, zu dessen Gunsten sie erfolgt. Die Zustimmung des Eigent\u00fcmers ist dem Registergericht oder dem Gl\u00e4ubiger gegen\u00fcber zu erkl\u00e4ren; sie ist unwiderruflich.</P><P>(2) Vor der L\u00f6schung ist der Gl\u00e4ubiger an seine Erkl\u00e4rung nur gebunden, wenn er sie dem Registergericht gegen\u00fcber abgegeben oder dem, zu dessen Gunsten sie erfolgt, eine den Vorschriften der Schiffsregisterordnung entsprechende L\u00f6schungsbewilligung ausgeh\u00e4ndigt hat.</P><P>(3) Die Erkl\u00e4rung des Gl\u00e4ubigers wird nicht dadurch unwirksam, da\u00df er in der Verf\u00fcgung beschr\u00e4nkt wird, nachdem die Erkl\u00e4rung f\u00fcr ihn bindend geworden und der Antrag auf Eintragung bei dem Registergericht gestellt worden ist.</P><P>(4) \u00a7 54 Abs. 2 gilt auch hier.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006600318",
+        "name": "\u00a7 57",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Die Schiffshypothek erlischt vorbehaltlich der F\u00e4lle des \u00a7 59 mit der Forderung. Die Schiffshypothek erlischt auch, wenn der Gl\u00e4ubiger aus dem Schiff und soweit er aus den sonstigen Gegenst\u00e4nden, auf die sich die Schiffshypothek erstreckt, im Wege der Zwangsvollstreckung befriedigt wird.</P><P>(2) Die Schiffshypothek erlischt ferner, wenn der Gl\u00e4ubiger auf sie verzichtet. Der Verzicht ist dem Registergericht oder dem Eigent\u00fcmer gegen\u00fcber zu erkl\u00e4ren und bedarf der Eintragung in das Schiffsregister; \u00a7 54 Abs. 2, \u00a7 56 Abs. 2, 3 gelten sinngem\u00e4\u00df.</P><P>(3) Solange die Schiffshypothek nicht gel\u00f6scht ist, kann der Eigent\u00fcmer im Rang und bis zur H\u00f6he der bisherigen Belastung eine neue Schiffshypothek bestellen; dies gilt nicht im Fall des Absatzes 1 Satz 2. Die Befugnis steht dem jeweiligen Eigent\u00fcmer des Schiffs zu; sie ist nicht \u00fcbertragbar. Nach der Beschlagnahme des Schiffs im Zwangsversteigerungsverfahren kann die Befugnis nur mit Zustimmung des betreibenden Gl\u00e4ubigers ausge\u00fcbt werden; sie erlischt mit der Erteilung des Zuschlags; bei der Verteilung des Erl\u00f6ses ist auf sie keine R\u00fccksicht zu nehmen.</P><P>(4) Erlischt die Schiffshypothek nur zum Teil, so hat der dem Gl\u00e4ubiger verbleibende Teil der Schiffshypothek den Vorrang vor einer von dem Eigent\u00fcmer auf Grund seiner Befugnis bestellten Schiffshypothek.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006700318",
+        "name": "\u00a7 58",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>Verpflichtet sich der Eigent\u00fcmer einem anderen gegen\u00fcber, die Schiffshypothek l\u00f6schen zu lassen, wenn die Forderung erlischt, so kann zur Sicherung des Anspruchs auf L\u00f6schung eine Vormerkung in das Schiffsregister eingetragen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006800318",
+        "name": "\u00a7 59",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Befriedigt der Schuldner den Gl\u00e4ubiger, so geht die Schiffshypothek auf ihn \u00fcber, soweit er von dem Eigent\u00fcmer oder einem Rechtsvorg\u00e4nger des Eigent\u00fcmers Ersatz verlangen kann; kann er nur zum Teil Ersatz verlangen, so hat die auf ihn \u00fcbergegangene Schiffshypothek den Vorrang vor einer vom Eigent\u00fcmer auf Grund der Befugnis nach \u00a7 57 Abs. 3 bestellten Schiffshypothek.</P><P>(2) Befriedigt der Schuldner den Gl\u00e4ubiger nur zum Teil, so hat der dem Gl\u00e4ubiger verbleibende Teil der Schiffshypothek den Vorrang.</P><P>(3) Der Befriedigung des Gl\u00e4ubigers steht es gleich, wenn sich Forderung und Schuld in einer Person vereinigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE006900318",
+        "name": "\u00a7 60",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>Gibt der Gl\u00e4ubiger die Schiffshypothek auf oder verzichtet er auf sie oder r\u00e4umt er einer anderen Schiffshypothek den Vorrang ein, so wird der Schuldner frei, soweit er ohne diese Verf\u00fcgung nach \u00a7 59 aus der Schiffshypothek h\u00e4tte Ersatz erlangen k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007000318",
+        "name": "\u00a7 61",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>Ist der Schuldner berechtigt, von dem Eigent\u00fcmer Ersatz zu verlangen, falls er den Gl\u00e4ubiger befriedigt, so kann er, wenn der Gl\u00e4ubiger die Zwangsversteigerung des Schiffs betreibt, ohne ihn unverz\u00fcglich zu benachrichtigen, die Befriedigung des Gl\u00e4ubigers wegen eines Ausfalls bei der Zwangsversteigerung verweigern, soweit er infolge der Unterlassung der Benachrichtigung einen Schaden erleidet. Die Benachrichtigung darf unterbleiben, wenn sie untunlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007100318",
+        "name": "\u00a7 62",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>Hat der Schuldner dadurch, da\u00df er den Gl\u00e4ubiger befriedigt hat, die Schiffshypothek erworben oder hat er aus demselben Grund ein sonstiges rechtliches Interesse an der Berichtigung des Schiffsregisters, so kann er verlangen, da\u00df der Gl\u00e4ubiger die zur Berichtigung des Schiffsregisters erforderlichen Urkunden ihm aush\u00e4ndigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007200318",
+        "name": "\u00a7 63",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>Steht dem Eigent\u00fcmer eine Einrede zu, durch welche die Geltendmachung der Schiffshypothek dauernd ausgeschlossen wird, so kann er verlangen, da\u00df der Gl\u00e4ubiger auf die Schiffshypothek verzichtet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007300318",
+        "name": "\u00a7 64",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Die Schiffshypothek erlischt, wenn sie mit dem Eigentum in derselben Person zusammentrifft; \u00a7 57 Abs. 3 gilt sinngem\u00e4\u00df.</P><P>(2) Die Schiffshypothek erlischt nicht, solange die Forderung besteht oder zugunsten eines Dritten als bestehend gilt. Der Eigent\u00fcmer kann als Gl\u00e4ubiger nicht die Zwangsvollstreckung in das Schiff betreiben; Zinsen aus dem Schiff geb\u00fchren ihm nicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007400318",
+        "name": "\u00a7 65",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Ist eine Schiffshypothek im Schiffsregister mit Unrecht gel\u00f6scht, so erlischt sie, wenn der Anspruch des Gl\u00e4ubigers gegen den Eigent\u00fcmer verj\u00e4hrt ist.</P><P>(2) Das gleiche gilt, wenn eine kraft Gesetzes entstandene Schiffshypothek nicht in das Schiffsregister eingetragen worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007502140",
+        "name": "\u00a7 66",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Ist der Gl\u00e4ubiger unbekannt, so kann er im Wege des Aufgebotsverfahrens mit seinem Recht ausgeschlossen werden, wenn seit der letzten sich auf die Schiffshypothek beziehenden Eintragung in das Schiffsregister zehn Jahre verstrichen sind und das Recht des Gl\u00e4ubigers nicht innerhalb dieser Frist von dem Eigent\u00fcmer in einer nach \u00a7 212 Abs. 1 Nr. 1 des B\u00fcrgerlichen Gesetzbuchs f\u00fcr den Neubeginn der Verj\u00e4hrung geeigneten Weise anerkannt worden ist. Besteht f\u00fcr die Forderung eine nach dem Kalender bestimmte Zahlungszeit, so beginnt die Frist nicht vor dem Ablauf des Zahlungstags.</P><P>(2) Mit der Rechtskraft des Ausschlie\u00dfungsbeschlusses erlischt die Schiffshypothek. \u00a7 57 Abs. 3 gilt auch in diesem Falle.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007601140",
+        "name": "\u00a7 67",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Der unbekannte Gl\u00e4ubiger kann im Wege des Aufgebotsverfahrens mit seinem Recht auch dann ausgeschlossen werden, wenn der Eigent\u00fcmer zur Befriedigung des Gl\u00e4ubigers oder zur K\u00fcndigung berechtigt ist und den Betrag der Forderung f\u00fcr den Gl\u00e4ubiger unter Verzicht auf das Recht zur R\u00fccknahme hinterlegt. Die Hinterlegung von Zinsen ist nur erforderlich, wenn der Zinssatz im Schiffsregister eingetragen ist; Zinsen f\u00fcr eine fr\u00fchere Zeit als das vierte Kalenderjahr vor der Rechtskraft des Ausschlie\u00dfungsbeschlusses sind nicht zu hinterlegen.</P><P>(2) Mit der Rechtskraft des Ausschlie\u00dfungsbeschlusses gilt der Gl\u00e4ubiger als befriedigt, sofern nicht nach den Vorschriften des B\u00fcrgerlichen Gesetzbuchs \u00fcber die Hinterlegung die Befriedigung schon vorher eingetreten ist.</P><P>(3) Das Recht des Gl\u00e4ubigers auf den hinterlegten Betrag erlischt mit dem Ablauf von drei\u00dfig Jahren nach der Rechtskraft des Ausschlie\u00dfungsbeschlusses, wenn nicht der Gl\u00e4ubiger sich vorher bei der Hinterlegungsstelle meldet; der Hinterleger ist zur R\u00fccknahme berechtigt, auch wenn er auf das Recht zur R\u00fccknahme verzichtet hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007700318",
+        "name": "\u00a7 68",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Erlischt eine Gesamtschiffshypothek, so steht die Befugnis nach \u00a7 57 Abs. 3 jedem Eigent\u00fcmer an seinem Schiff (Anteil) zu dem Teilbetrag zu, der dem Verh\u00e4ltnis des Wertes seines Schiffs (Anteils) zum Wert der s\u00e4mtlichen Schiffe (Anteile) entspricht, soweit sich nicht aus den zwischen den Eigent\u00fcmern (Miteigent\u00fcmern) bestehenden Rechtsverh\u00e4ltnis etwas anderes ergibt. Der Wert wird unter Abzug der Belastungen berechnet, die der Gesamtschiffshypothek im Rang vorgehen.</P><P>(2) Jeder Eigent\u00fcmer kann von den \u00fcbrigen verlangen, da\u00df sie ihm eine den Vorschriften der Schiffsregisterordnung entsprechende Erkl\u00e4rung \u00fcber die H\u00f6he des ihm zustehenden Teilbetrags aush\u00e4ndigen.</P><P>(3) Erlischt die Gesamtschiffshypothek nur zum Teil, so hat der dem Gl\u00e4ubiger verbleibende Teil der Schiffshypothek den Vorrang vor einer von einem der Eigent\u00fcmer auf Grund seiner Befugnis bestellten Schiffshypothek.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007800318",
+        "name": "\u00a7 69",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Befriedigt der Eigent\u00fcmer eines mit einer Gesamtschiffshypothek belasteten Schiffs den Gl\u00e4ubiger und erlischt hierdurch die Forderung, so steht die Befugnis nach \u00a7 57 Abs. 3 nur diesem Eigent\u00fcmer an seinem Schiff, und zwar in H\u00f6he des Betrages der bisherigen Gesamtschiffshypothek zu. Erwirbt dieser Eigent\u00fcmer nach \u00a7 44 die Forderung, so geht die Schiffshypothek nur an seinem Schiff auf ihn \u00fcber; an den \u00fcbrigen Schiffen erlischt sie; den Eigent\u00fcmern dieser Schiffe steht auch hier die Befugnis nach \u00a7 57 Abs. 3 nicht zu.</P><P>(2) Kann der Eigent\u00fcmer, der den Gl\u00e4ubiger befriedigt, von dem Eigent\u00fcmer eines der anderen Schiffe oder von einem Rechtsvorg\u00e4nger dieses Eigent\u00fcmers Ersatz verlangen, so geht in H\u00f6he des Ersatzanspruchs die Schiffshypothek an dem Schiff dieses Eigent\u00fcmers auf ihn \u00fcber; sie bleibt mit einer nach Absatz 1 Satz 2 \u00fcbergegangenen Schiffshypothek Gesamtschiffshypothek. Ist durch die Befriedigung des Gl\u00e4ubigers die Forderung erloschen, so kann der Eigent\u00fcmer die ihm nach Absatz 1 Satz 1 zustehende Befugnis nur in der Weise aus\u00fcben, da\u00df mit der nach Satz 1 \u00fcbergegangenen Schiffshypothek eine Gesamtschiffshypothek begr\u00fcndet wird.</P><P>(3) Wird der Gl\u00e4ubiger nur zum Teil befriedigt, so hat die dem Gl\u00e4ubiger verbleibende Schiffshypothek den Vorrang vor einer von dem Eigent\u00fcmer auf Grund seiner Befugnis bestellten oder ihm nach Absatz 1 Satz 2, Absatz 2 zufallenden Schiffshypothek.</P><P>(4) Der Befriedigung durch den Eigent\u00fcmer steht es gleich, wenn das Gl\u00e4ubigerrecht auf den Eigent\u00fcmer \u00fcbertragen wird oder wenn sich Forderung und Schuld in der Person des Eigent\u00fcmers vereinigen.</P><P>(5) Wird der Gl\u00e4ubiger im Wege der Zwangsvollstreckung aus einem der mit einer Gesamtschiffshypothek belasteten Schiffe befriedigt, so gilt Absatz 2 Satz 1 sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE007900318",
+        "name": "\u00a7 70",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>(1) Kann bei einer Gesamtschiffshypothek der Schuldner im Fall des \u00a7 59 nur von dem Eigent\u00fcmer eines der belasteten Schiffe oder von einem Rechtsvorg\u00e4nger dieses Eigent\u00fcmers Ersatz verlangen, so geht die Schiffshypothek nur an diesem Schiff auf ihn \u00fcber. An den \u00fcbrigen Schiffen erlischt sie; den Eigent\u00fcmern dieser Schiffe steht die Befugnis nach \u00a7 57 Abs. 3 nicht zu.</P><P>(2) Ist dem Schuldner nur zum Teil Ersatz zu leisten und geht deshalb die Schiffshypothek nur zu einem Teilbetrag auf ihn \u00fcber, so gilt, soweit die Gesamtschiffshypothek an s\u00e4mtlichen Schiffen erlischt, f\u00fcr die den Eigent\u00fcmern nach \u00a7 57 Abs. 3 zustehende Befugnis \u00a7 68 mit der Ma\u00dfgabe, da\u00df der auf den Schuldner \u00fcbergegangene Teilbetrag der Schiffshypothek den nach \u00a7 68 Abs. 1 Satz 2 vorweg in Abzug zu bringenden Belastungen hinzuzurechnen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008000318",
+        "name": "\u00a7 71",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000400318"
+        },
+        "body": "<P>Verzichtet der Gl\u00e4ubiger einer Gesamtschiffshypothek nur an einem der Schiffe auf die Schiffshypothek, so steht dem Eigent\u00fcmer dieses Schiffs die Befugnis nach \u00a7 57 Abs. 3 nicht zu. Gleiches gilt, wenn der Gl\u00e4ubiger nach \u00a7 66 mit seinem Recht an einem der Schiffe ausgeschlossen wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014990940BJNG000500318",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Schiffshypothek f\u00fcr Inhaber-\nund Orderpapiere, H\u00f6chstbetragsschiffshypothek",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008100318",
+        "name": "\u00a7 72",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000500318"
+        },
+        "body": "<P>(1) Zur Bestellung einer Schiffshypothek f\u00fcr die Forderung aus einer Schuldverschreibung auf den Inhaber gen\u00fcgt die Erkl\u00e4rung des Eigent\u00fcmers gegen\u00fcber dem Registergericht, da\u00df er die Schiffshypothek bestelle, und die Eintragung in das Schiffsregister; \u00a7 3 Abs. 3 gilt sinngem\u00e4\u00df.</P><P>(2) Die Ausschlie\u00dfung des Gl\u00e4ubigers mit seinem Recht nach \u00a7 66 ist nur zul\u00e4ssig, wenn die in \u00a7 801 des B\u00fcrgerlichen Gesetzbuchs bezeichnete Vorlegungsfrist verstrichen ist. Ist innerhalb der Frist die Schuldverschreibung vorgelegt oder der Anspruch aus der Urkunde gerichtlich geltend gemacht worden, so kann die Ausschlie\u00dfung erst erfolgen, wenn die Verj\u00e4hrung eingetreten ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008200318",
+        "name": "\u00a7 73",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000500318"
+        },
+        "body": "<P>Ist die Schiffshypothek f\u00fcr eine Forderung aus einer Schuldverschreibung auf den Inhaber, aus einem Wechsel oder aus einem anderen Papier, das durch Indossament \u00fcbertragen werden kann, bestellt, so bestimmt sich die Abtretung der Forderung nach den f\u00fcr die Abtretung dieser Forderungen geltenden allgemeinen Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008300318",
+        "name": "\u00a7 74",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000500318"
+        },
+        "body": "<P>(1) Bei einer Schiffshypothek der in \u00a7 73 bezeichneten Art kann f\u00fcr den jeweiligen Gl\u00e4ubiger ein Vertreter mit der Befugnis bestellt werden, mit Wirkung f\u00fcr und gegen jeden sp\u00e4teren Gl\u00e4ubiger bestimmte Verf\u00fcgungen \u00fcber die Schiffshypothek zu treffen und den Gl\u00e4ubiger bei der Geltendmachung der Schiffshypothek zu vertreten. Die Bestellung des Vertreters bedarf der Eintragung in das Schiffsregister; wegen seiner Befugnisse kann auf die Eintragungsbewilligung Bezug genommen werden.</P><P>(2) Ist der Eigent\u00fcmer berechtigt, von dem Gl\u00e4ubiger eine Verf\u00fcgung zu verlangen, zu welcher der Vertreter befugt ist, so kann er die Vornahme der Verf\u00fcgung von dem Vertreter verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008401140",
+        "name": "\u00a7 75",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000500318"
+        },
+        "body": "<P>(1) Eine Schiffshypothek kann in der Weise bestellt werden, da\u00df nur der H\u00f6chstbetrag, bis zu dem das Schiff haften soll, bestimmt, im \u00fcbrigen die Feststellung der Forderung vorbehalten wird. Der H\u00f6chstbetrag mu\u00df in das Schiffsregister eingetragen werden.</P><P>(2) Ist die Forderung verzinslich, so werden die Zinsen in den H\u00f6chstbetrag eingerechnet.</P><P>(3) Die Forderung kann nach den f\u00fcr die \u00dcbertragung von Forderungen geltenden allgemeinen Vorschriften \u00fcbertragen werden. Wird sie nach diesen Vorschriften \u00fcbertragen, so ist der \u00dcbergang der Schiffshypothek ausgeschlossen.</P><P>(4) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014990940BJNG000600318",
+        "name": "Sechster Abschnitt",
+        "title": "Die Schiffshypothek an\nSchiffsbauwerken und Schwimmdocks",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008500318",
+        "name": "\u00a7 76",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000600318"
+        },
+        "body": "<P>(1) Eine Schiffshypothek kann auch an einem auf einer Schiffswerft im Bau befindlichen Schiff (Schiffsbauwerk) bestellt werden.</P><P>(2) Die Bestellung ist zul\u00e4ssig, sobald der Kiel gelegt und das Schiffsbauwerk durch Namen oder Nummer an einer bis zum Stapellauf des Schiffs sichtbar bleibenden Stelle deutlich und dauernd gekennzeichnet ist. Eine Schiffshypothek kann an einem Schiffsbauwerk nicht bestellt werden, wenn es nach der Fertigstellung als Seeschiff nicht mehr als f\u00fcnfzig Kubikmeter Bruttoraumgehalt haben oder als Binnenschiff zur Eintragung in das Binnenschiffsregister nicht geeignet sein wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008600318",
+        "name": "\u00a7 77",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000600318"
+        },
+        "body": "<P>Zur Bestellung einer Schiffshypothek an einem Schiffsbauwerk ist an Stelle der Eintragung in das Schiffsregister die Eintragung in das Register f\u00fcr Schiffsbauwerke erforderlich. F\u00fcr die Schiffshypothek gelten die \u00a7\u00a7 8, 10 bis 75, soweit sich nicht aus den Vorschriften dieses Abschnitts etwas anderes ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008700318",
+        "name": "\u00a7 78",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000600318"
+        },
+        "body": "<P>Ist die Schiffshypothek in das Register f\u00fcr Schiffsbauwerke eingetragen, so gelten vom Zeitpunkt der Eintragung die \u00a7\u00a7 3 bis 7 auch f\u00fcr das Schiffsbauwerk sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008800318",
+        "name": "\u00a7 79",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000600318"
+        },
+        "body": "<P>Die Schiffshypothek erstreckt sich auf das Schiffsbauwerk in seinem jeweiligen Bauzustand. Sie erstreckt sich ferner neben den im \u00a7 31 bezeichneten Gegenst\u00e4nden auf die auf der Bauwerft befindlichen, zum Einbau bestimmten und als solche gekennzeichneten Bauteile mit Ausnahme der Bauteile, die nicht in das Eigentum des Eigent\u00fcmers des Schiffsbauwerks gelangt sind. \u00a7 31 Abs. 2 gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE008900318",
+        "name": "\u00a7 80",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000600318"
+        },
+        "body": "<P>Auf die Versicherungsforderung erstreckt sich die Schiffshypothek nur, wenn der Eigent\u00fcmer f\u00fcr das Schiffsbauwerk eine besondere Versicherung genommen hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE009000318",
+        "name": "\u00a7 81",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000600318"
+        },
+        "body": "<P>Die an dem Schiffsbauwerk bestellte Schiffshypothek bleibt nach der Fertigstellung des Schiffs mit ihrem bisherigen Rang an dem Schiff bestehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE009100318",
+        "name": "\u00a7 81a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000600318"
+        },
+        "body": "<P>Eine Schiffshypothek kann auch an einem im Bau befindlichen oder fertiggestellten Schwimmdock bestellt werden. \u00a7\u00a7 77, 78, 80 gelten entsprechend. Bei im Bau befindlichen Schwimmdocks sind auch die Vorschriften des \u00a7 76 Abs. 2 Satz 1 und der \u00a7\u00a7 79, 81 sinngem\u00e4\u00df anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014990940BJNG000700318",
+        "name": "Siebenter Abschnitt",
+        "title": "Nie\u00dfbrauch",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE009200318",
+        "name": "\u00a7 82",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000700318"
+        },
+        "body": "<P>(1) Auf den Nie\u00dfbrauch an einem Schiff sind die f\u00fcr den Nie\u00dfbrauch an Grundst\u00fccken geltenden Vorschriften des b\u00fcrgerlichen Rechts sinngem\u00e4\u00df anzuwenden.</P><P>(2) Das Rangverh\u00e4ltnis zwischen einem Nie\u00dfbrauch und den Schiffshypotheken bestimmt sich nach dem Zeitpunkt der Eintragung. Das unter Angabe eines fr\u00fcheren Tages eingetragene Recht hat den Vorrang; Rechte, die unter Angabe desselben Tages eingetragen sind, haben gleichen Rang. \u00a7 25 Abs. 2, \u00a7\u00a7 26, 27, 65 gelten sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014990940BJNG000800318",
+        "name": "Achter Abschnitt",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE009302377",
+        "name": "\u00a7 83",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000800318"
+        },
+        "body": "<P>In dem in Artikel 3 des Einigungsvertrages genannten Gebiet gilt dieses Gesetz mit folgenden Ma\u00dfgaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rechte, mit denen ein Schiff oder ein Schiffsbauwerk am 2. Oktober 1990 belastet war, bleiben mit dem Inhalt und Rang bestehen, der sich aus dem an diesem Tage geltenden Recht ergibt. \u00a7 57 Absatz 3 ist nicht anzuwenden.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zur Aufhebung einer Hypothek, die am 2. Oktober 1990 bestand, ist die Zustimmung des Eigent\u00fcmers nicht erforderlich. Die Bestimmungen dieses Gesetzes \u00fcber den Verzicht auf die Hypothek sind bei solchen Hypotheken nicht anzuwenden.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014990940BJNE009400318",
+        "name": "\u00a7 84",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014990940BJNG000800318"
+        },
+        "body": "<P>Dieses Gesetz tritt am 1. Januar 1941 in Kraft;</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

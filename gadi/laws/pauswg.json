@@ -1,0 +1,690 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR134610009",
+    "firstPublished": "2009-06-18",
+    "sourceTimestamp": "20210930213110",
+    "titleShort": "Personalausweisgesetz",
+    "titleLong": "Gesetz \u00fcber Personalausweise und den elektronischen Identit\u00e4tsnachweis",
+    "abbreviation": "PAuswG",
+    "slug": "pauswg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2009, 1346",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 13 G v. 3.12.2020 I 2744",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 2 G v. 15.1.2021 I 530 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 8 G v. 28.3.2021 I 591 (Nr. 14) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 2 G v. 5.7.2021 I 2281 (Nr. 40) textlich nachgewiesen, dokumentarisch noch nicht abgeschlossen",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "Mittelbare \u00c4nderung durch Art. 154a Nr. 3 Buchst. b G v. 20.11.2019 I 1626 ist nicht ausf\u00fchrbar, da das ge\u00e4nderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren \u00c4nderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.11.2010 +++)<BR /><BR /></pre>Das G wurde als Artikel 1 des G v. 18.6.2009 I 1346 vom Bundestag beschlossen.  Es tritt gem. Art. 7 Satz 1 dieses G am 1.11.2010 in Kraft. \u00a7 21 tritt gem. Art. 7 Satz 3 am 1.5.2010 in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000104116",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<Ident Class=\"S2\">Abschnitt 1</Ident><Title Align=\"auto\" Class=\"S2\">Allgemeine Vorschriften</Title><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"9.00*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\">Ausweispflicht; Ausweisrecht</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\">Begriffsbestimmungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\">Vorl\u00e4ufiger Personalausweis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\">Eigentum am Ausweis; Ausweishersteller; Vergabestelle f\u00fcr Berechtigungszertifikate</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\">Ausweismuster; gespeicherte Daten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\">G\u00fcltigkeitsdauer des Ausweises; vorzeitige Beantragung; r\u00e4umliche Beschr\u00e4nkungen</entry></row><row><entry VJ=\"1\">\u00a7 \u00a06a</entry><entry VJ=\"1\">Versagung und Entziehung; Ersatz-Personalausweis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">Sachliche Zust\u00e4ndigkeit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a08</entry><entry VJ=\"1\" colname=\"col2\">\u00d6rtliche Zust\u00e4ndigkeit; T\u00e4tigwerden bei \u00f6rtlicher Unzust\u00e4ndigkeit</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 2</Ident><Title Align=\"auto\" Class=\"S2\">Ausstellung und<BR /> Sperrung des Ausweises;<BR /> elektronischer Identit\u00e4tsnachweis</Title><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"9.0*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\">Ausstellung des Ausweises</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\">Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identit\u00e4tsnachweises</entry></row><row><entry VJ=\"1\">\u00a7 10a</entry><entry VJ=\"1\">Einrichtung des elektronischen Identit\u00e4tsnachweises mit einem mobilen Endger\u00e4t</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\">Informationspflichten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\">Form und Verfahren der Datenerfassung, -pr\u00fcfung und -\u00fcbermittlung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\">\u00dcbermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 3</Ident><Title Align=\"auto\" Class=\"S2\">Umgang mit personenbezogenen Daten</Title><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"9.0*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\">Erhebung und Verwendung personenbezogener Daten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">Automatisierter Abruf und automatisierte Speicherung durch zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Verwendung von Seriennummern, Sperrkennw\u00f6rtern und Sperrmerkmalen durch zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17</entry><entry VJ=\"1\" colname=\"col2\">Identit\u00e4ts\u00fcberpr\u00fcfung anhand der im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten durch zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 18</entry><entry VJ=\"1\" colname=\"col2\">Elektronischer Identit\u00e4tsnachweis</entry></row><row><entry VJ=\"1\">\u00a7 18a</entry><entry VJ=\"1\" align=\"justify\">Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 19</entry><entry VJ=\"1\" colname=\"col2\">Speicherung im Rahmen des elektronischen Identit\u00e4tsnachweises</entry></row><row><entry VJ=\"1\">\u00a7 19a</entry><entry VJ=\"1\" align=\"justify\">Speicherung durch Identifizierungsdiensteanbieter</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 20</entry><entry VJ=\"1\" colname=\"col2\">Verwendung durch \u00f6ffentliche und nicht\u00f6ffentliche Stellen</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 4</Ident><Title Align=\"auto\" Class=\"S2\">Hoheitliche Berechtigungszertifikate;<BR />Berechtigungen; elektronische Signaturen</Title><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"9.0*\" /><tbody valign=\"top\"><row><entry VJ=\"1\">\u00a7 20a</entry><entry VJ=\"1\">Hoheitliche Berechtigungszertifikate</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 21</entry><entry VJ=\"1\" colname=\"col2\">Berechtigungen f\u00fcr Diensteanbieter</entry></row><row><entry VJ=\"1\">\u00a7 21a</entry><entry VJ=\"1\">Vor-Ort-Berechtigung f\u00fcr Vor-Ort-Diensteanbieter</entry></row><row><entry VJ=\"1\">\u00a7 21b</entry><entry VJ=\"1\">Berechtigung f\u00fcr Identifizierungsdiensteanbieter</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 22</entry><entry VJ=\"1\" colname=\"col2\">Elektronische Signatur</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 5</Ident><Title Align=\"auto\" Class=\"S2\">Personalausweisregister; Speicherungsvorschriften</Title><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"9.0*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23</entry><entry VJ=\"1\" colname=\"col2\">Personalausweisregister</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 24</entry><entry VJ=\"1\" colname=\"col2\">Verwendung im Personalausweisregister gespeicherter Daten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25</entry><entry VJ=\"1\" colname=\"col2\">Daten\u00fcbertragung und automatisierter Abruf von Lichtbildern</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 26</entry><entry VJ=\"1\" colname=\"col2\">Sonstige Speicherung personenbezogener Daten</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 6</Ident><Title Align=\"auto\" Class=\"S2\">Pflichten des Ausweisinhabers;<BR /> Ung\u00fcltigkeit und Entziehung des Ausweises</Title><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"9.0*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 27</entry><entry VJ=\"1\" colname=\"col2\">Pflichten des Ausweisinhabers</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 28</entry><entry VJ=\"1\" colname=\"col2\">Ung\u00fcltigkeit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 29</entry><entry VJ=\"1\" colname=\"col2\">Sicherstellung und Einziehung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 30</entry><entry VJ=\"1\" colname=\"col2\">Sofortige Vollziehung</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 7</Ident><Title Align=\"auto\" Class=\"S2\">Geb\u00fchren und Auslagen; Bu\u00dfgeldvorschriften</Title><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"9.0*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 31</entry><entry VJ=\"1\" colname=\"col2\">Geb\u00fchren und Auslagen; Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 32</entry><entry VJ=\"1\" colname=\"col2\">Bu\u00dfgeldvorschriften</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 33</entry><entry VJ=\"1\" colname=\"col2\">Bu\u00dfgeldbeh\u00f6rden</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 8</Ident><Title Align=\"auto\" Class=\"S2\">Verordnungserm\u00e4chtigung; \u00dcbergangsvorschrift</Title><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"1.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"9.0*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 34</entry><entry VJ=\"1\" colname=\"col2\">Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\">\u00a7 34a</entry><entry VJ=\"1\">Regelungsbefugnisse der L\u00e4nder</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 35</entry><entry VJ=\"1\" colname=\"col2\">\u00dcbergangsvorschrift</entry></row></tbody></tgroup></table>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR134610009BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000205116",
+        "name": "\u00a7 1",
+        "title": "Ausweispflicht; Ausweisrecht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind verpflichtet, einen g\u00fcltigen Ausweis zu besitzen, sobald sie 16 Jahre alt sind und der allgemeinen Meldepflicht unterliegen oder, ohne ihr zu unterliegen, sich \u00fcberwiegend in Deutschland aufhalten. Sie m\u00fcssen ihn auf Verlangen einer zur Feststellung der Identit\u00e4t berechtigten Beh\u00f6rde vorlegen und es ihr erm\u00f6glichen, ihr Gesicht mit dem Lichtbild des Ausweises abzugleichen. Vom Ausweisinhaber darf nicht verlangt werden, den Personalausweis zu hinterlegen oder in sonstiger Weise den Gewahrsam aufzugeben. Dies gilt nicht f\u00fcr zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden sowie in den F\u00e4llen der Einziehung und Sicherstellung.</P><P>(2) Die Ausweispflicht gilt auch f\u00fcr Personen, die als Binnenschiffer oder Seeleute nach dem Bundesmeldegesetz einer besonderen Meldepflicht unterliegen. Sie gilt nicht f\u00fcr Personen, gegen die eine Freiheitsstrafe vollzogen wird, wenn deren Vollzug noch l\u00e4nger als drei Monate andauert. Die Ausweispflicht nach Absatz 1 Satz 1 und 2 erf\u00fcllt auch, wer einen g\u00fcltigen Pass im Sinne des \u00a7 1 Absatz 2 des Passgesetzes besitzt, ihn auf Verlangen vorlegt und den Lichtbildabgleich erm\u00f6glicht.</P><P>(3) Die zust\u00e4ndige Personalausweisbeh\u00f6rde nach \u00a7 7 Abs. 1 und 2 kann Personen von der Ausweispflicht befreien, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die ein Betreuer oder eine Betreuerin nicht nur durch einstweilige Anordnung bestellt ist oder die handlungs- oder einwilligungsunf\u00e4hig sind und von einem oder von einer mit \u00f6ffentlich beglaubigter Vollmacht Bevollm\u00e4chtigten vertreten werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die voraussichtlich dauerhaft in einem Krankenhaus, einem Pflegeheim oder einer \u00e4hnlichen Einrichtung untergebracht sind oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die sich wegen einer dauerhaften Behinderung nicht allein in der \u00d6ffentlichkeit bewegen k\u00f6nnen.</LA></DD></DL></P><P>(4) Auf Antrag ist ein Ausweis auch auszustellen, wenn Personen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">noch nicht 16 Jahre alt sind oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes sind, die der Meldepflicht deswegen nicht unterliegen, weil sie keine Wohnung in Deutschland haben.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000306116",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) Ausweise im Sinne dieses Gesetzes sind der Personalausweis, der vorl\u00e4ufige Personalausweis und der Ersatz-Personalausweis.</P><P>(2) Zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden im Sinne dieses Gesetzes sind \u00f6ffentliche Stellen, die befugt sind, zur Erf\u00fcllung ihrer gesetzlichen Aufgaben als hoheitliche Ma\u00dfnahme die Identit\u00e4t von Personen festzustellen.</P><P>(3) Diensteanbieter sind nat\u00fcrliche und juristische Personen, die zur Wahrnehmung von Aufgaben der \u00f6ffentlichen Verwaltung oder zur Erf\u00fcllung eigener Gesch\u00e4ftszwecke den Nachweis der Identit\u00e4t oder einzelner Identit\u00e4tsmerkmale des Ausweisinhabers ben\u00f6tigen und ihren Wohn-, Gesch\u00e4fts- oder Dienstsitz innerhalb der Europ\u00e4ischen Union sowie in Staaten, in denen ein vergleichbarer Datenschutzstandard besteht, haben.</P><P>(3a) Identifizierungsdiensteanbieter sind Diensteanbieter, deren Dienst darin besteht, f\u00fcr einen Dritten eine einzelfallbezogene Identifizierungsdienstleistung mittels des elektronischen Identit\u00e4tsnachweises nach \u00a7 18 zu erbringen.</P><P>(4) Ein Berechtigungszertifikat ist eine elektronische Bescheinigung, die es einem Diensteanbieter erm\u00f6glicht, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">seine Identit\u00e4t dem Personalausweisinhaber nachzuweisen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcbermittlung personen- und ausweisbezogener Daten aus dem Personalausweis anzufragen.</LA></DD></DL></P><P>(5) Ein dienste- und kartenspezifisches Kennzeichen ist eine Zeichenfolge, die im Speicher- und Verarbeitungsmedium des Personalausweises oder eines mobilen Endger\u00e4ts berechnet wird. Es dient der eindeutigen elektronischen Wiedererkennung eines elektronischen Identit\u00e4tsnachweises mit dem Personalausweis oder mit einem mobilen Endger\u00e4t durch den Diensteanbieter, f\u00fcr den es errechnet wurde, ohne dass weitere personenbezogene Daten \u00fcbermittelt werden m\u00fcssen.</P><P>(6) Das Sperrkennwort ist eine Zeichenfolge, die ausschlie\u00dflich der Sperrung eines elektronischen Identit\u00e4tsnachweises dient.</P><P>(6a) Die Sperrsumme ist ein eindeutiges Merkmal, das aus dem Sperrkennwort, dem Familiennamen, den Vornamen und dem Tag der Geburt eines Ausweisinhabers errechnet wird. Es dient der \u00dcbermittlung einer Sperrung vom Sperrnotruf oder einer Personalausweisbeh\u00f6rde an den Sperrlistenbetreiber. Mithilfe der Sperrsumme ermittelt der Sperrlistenbetreiber anhand der Referenzliste den Sperrschl\u00fcssel eines zu sperrenden elektronischen Identit\u00e4tsnachweises.</P><P>(7) Sperrmerkmale eines elektronischen Identit\u00e4tsnachweises mit dem Personalausweis oder mit einem mobilen Endger\u00e4t sind dienste- und kartenspezifische Zeichenfolgen, die ausschlie\u00dflich der Erkennung abhandengekommener Personalausweise oder mobiler Endger\u00e4te durch den Diensteanbieter dienen, f\u00fcr den sie errechnet wurden.</P><P>(8) Jeder Ausweis erh\u00e4lt eine neue Seriennummer. Die Seriennummer eines Personalausweises setzt sich aus einer vierstelligen Beh\u00f6rdenkennzahl und einer f\u00fcnfstelligen, zuf\u00e4llig vergebenen Nummer zusammen und kann Ziffern und Buchstaben enthalten. Die Seriennummer des vorl\u00e4ufigen Personalausweises und des Ersatz-Personalausweises besteht aus einem Buchstaben und sieben Ziffern.</P><P>(9) Die Pr\u00fcfziffern werden aus den Daten des maschinenlesbaren Bereichs errechnet und dienen zur Feststellung seiner Unversehrtheit.</P><P>(10) Die Geheimnummer besteht aus einer sechsstelligen Ziffernfolge und dient der Freigabe der Daten\u00fcbermittlung aus dem Personalausweis oder aus einem mobilen Endger\u00e4t im Rahmen des elektronischen Identit\u00e4tsnachweises.</P><P>(11) Die Zugangsnummer ist eine zuf\u00e4llig erzeugte, ausschlie\u00dflich auf der Karte sichtbar aufgebrachte sechsstellige Ziffernfolge, die zur Absicherung gegen unberechtigten Zugriff auf die Kommunikation zwischen Personalausweis und Leseger\u00e4ten dient.</P><P>(12) Die Entsperrnummer ist eine zuf\u00e4llig erzeugte Ziffernfolge, die die Freischaltung der Geheimnummer erm\u00f6glicht, wenn diese nach dreimaliger Fehleingabe gesperrt worden ist.</P><P>(13) Im Sinne dieses Gesetzes ist ein mobiles Endger\u00e4t ein solches Ger\u00e4t, das dem Stand der Technik entspricht, um einen elektronischen Identit\u00e4tsnachweis nach \u00a7 18 Absatz 2 Satz 1 Nummer 2 durchf\u00fchren zu k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Vorl\u00e4ufiger Personalausweis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) Macht die antragstellende Person glaubhaft, dass sie sofort einen Ausweis ben\u00f6tigt, ist ihr ein vorl\u00e4ufiger Personalausweis auszustellen.</P><P>(2) Hierf\u00fcr sind ausschlie\u00dflich die in \u00a7 7 Abs. 1 genannten Beh\u00f6rden zust\u00e4ndig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000502116",
+        "name": "\u00a7 4",
+        "title": "Eigentum am Ausweis; Ausweishersteller; Vergabestelle f\u00fcr Berechtigungszertifikate",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) Niemand darf mehr als einen auf seine Person ausgestellten g\u00fcltigen Ausweis der Bundesrepublik Deutschland besitzen.</P><P>(2) Ausweise sind Eigentum der Bundesrepublik Deutschland.</P><P>(3) Das Bundesministerium des Innern, f\u00fcr Bau und Heimat bestimmt <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Ausweishersteller,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den Lieferanten von Ger\u00e4ten zur Aufnahme und elektronischen Erfassung von Lichtbildern, sofern diese durch die Personalausweisbeh\u00f6rde gefertigt werden, und von Fingerabdr\u00fccken,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Vergabestelle f\u00fcr Berechtigungszertifikate sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>den Sperrlistenbetreiber</LA></DD></DL>und macht deren Namen jeweils im Bundesanzeiger bekannt. Dies gilt nicht f\u00fcr Ger\u00e4te zur Aufnahme und elektronischen Erfassung von Lichtbildern nach Satz 1 Nummer 2, die im Rahmen einer Antragstellung beim Ausw\u00e4rtigen Amt gefertigt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000608116",
+        "name": "\u00a7 5",
+        "title": "Ausweismuster; gespeicherte Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) Ausweise sind nach einheitlichen Mustern auszustellen.</P><P>(2) Der Personalausweis enth\u00e4lt neben der Angabe der ausstellenden Beh\u00f6rde, dem Tag der Ausstellung, dem letzten Tag der G\u00fcltigkeitsdauer, der Zugangsnummer und den in Absatz 4 Satz 2 genannten Daten ausschlie\u00dflich folgende sichtbar aufgebrachte Angaben \u00fcber den Ausweisinhaber:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname und Geburtsname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag und Ort der Geburt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Lichtbild,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterschrift,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gr\u00f6\u00dfe,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Farbe der Augen,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift; hat der Ausweisinhaber keine Wohnung in Deutschland, kann die Angabe \u201ekeine Wohnung in Deutschland\u201c eingetragen werden,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Staatsangeh\u00f6rigkeit,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Seriennummer und</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname, K\u00fcnstlername.</LA></DD></DL></P><P>(3) Der vorl\u00e4ufige Personalausweis enth\u00e4lt die in Absatz 2 Nr. 1 bis 12 und die in Absatz 4 Satz 2 genannten Angaben sowie die Angabe der ausstellenden Beh\u00f6rde, den Tag der Ausstellung und den letzten Tag der G\u00fcltigkeitsdauer.</P><P>(3a) Der Ersatz-Personalausweis enth\u00e4lt die in Absatz 2 Nummer 1 bis 12 und die in Absatz 4 Satz 2 genannten Angaben sowie die Angabe der ausstellenden Beh\u00f6rde, den Tag der Ausstellung, den letzten Tag der G\u00fcltigkeitsdauer und den Vermerk, dass der Ersatz-Personalausweis nicht zum Verlassen Deutschlands berechtigt. Abweichend von Absatz 2 Nummer 9 ist die Eintragung \u201ekeine Wohnung in Deutschland\u201c nicht zul\u00e4ssig.</P><P>(4) Ausweise haben einen Bereich f\u00fcr das automatisierte Auslesen. Dieser darf ausschlie\u00dflich die folgenden sichtbar aufgedruckten Angaben enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abk\u00fcrzungen <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u201eIDD\u201c f\u00fcr Personalausweis der Bundesrepublik Deutschland,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u201eITD\u201c f\u00fcr vorl\u00e4ufigen Personalausweis der Bundesrepublik Deutschland oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u201eIXD\u201c f\u00fcr Ersatz-Personalausweis der Bundesrepublik Deutschland,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Seriennummer,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abk\u00fcrzung \u201eD\u201c f\u00fcr deutsche Staatsangeh\u00f6rigkeit,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag der Geburt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">letzter Tag der G\u00fcltigkeitsdauer,</LA></DD><DT>7a.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versionsnummer des Ausweismusters,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pr\u00fcfziffern und</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leerstellen.</LA></DD></DL>Bei einer Identit\u00e4ts\u00fcberpr\u00fcfung nach \u00a7 17 darf auch die aufgedruckte Zugangsnummer automatisiert gelesen werden.</P><P>(5) Der Personalausweis enth\u00e4lt ein elektronisches Speicher- und Verarbeitungsmedium, auf dem folgende Daten gespeichert werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Daten nach Absatz 2 Nummer 1 bis 5, 9, 10 und 12,</LA></DD><DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">der im amtlichen Gemeindeverzeichnis verwendete eindeutige Gemeindeschl\u00fcssel,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Daten des maschinenlesbaren Bereichs nach Absatz 4 Satz 2 und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Fingerabdr\u00fccke nach Absatz 9, die Bezeichnung der erfassten Finger, die Angaben zur Qualit\u00e4t der Abdr\u00fccke.</LA></DD></DL></P><P>(5a) Zur Einrichtung eines elektronischen Identit\u00e4tsnachweises nach \u00a7 10a Absatz 1 Satz 1 d\u00fcrfen auf einem elektronischen Speicher- und Verarbeitungsmedium in einem mobilen Endger\u00e4t folgende Daten gespeichert werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Daten nach Absatz 2 Nummer 1 bis 4, 9, 10 und 12,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Dokumentenart,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der letzte Tag der G\u00fcltigkeitsdauer des elektronischen Identit\u00e4tsnachweises,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abk\u00fcrzung \u201eD\u201c f\u00fcr Bundesrepublik Deutschland und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der im amtlichen Gemeindeverzeichnis verwendete eindeutige Gemeindeschl\u00fcssel.</LA></DD></DL></P><P>(6) Die gespeicherten Daten sind gegen unbefugtes Ver\u00e4ndern, L\u00f6schen und Auslesen zu sichern.</P><P>(7) Abweichend von Absatz 5 erhalten Kinder, solange sie noch nicht sechs Jahre alt sind, einen Personalausweis mit einem elektronischen Speicher- und Verarbeitungsmedium, auf dem nur das Lichtbild und die Daten des maschinenlesbaren Bereichs nach Absatz 4 Satz 2 gespeichert sind.</P><P>(8) Die Seriennummer, die Pr\u00fcfziffern, das Sperrkennwort und Sperrmerkmale d\u00fcrfen keine Daten \u00fcber die Person des Ausweisinhabers oder Hinweise auf solche Daten enthalten.</P><P>(9) Die auf Grund der Verordnung (EU) 2019/1157 des Europ\u00e4ischen Parlaments und des Rates vom 20. Juni 2019 zur Erh\u00f6hung der Sicherheit der Personalausweise von Unionsb\u00fcrgern und der Aufenthaltsdokumente, die Unionsb\u00fcrgern und deren Familienangeh\u00f6rigen ausgestellt werden, die ihr Recht auf Freiz\u00fcgigkeit aus\u00fcben (ABl. L 188 vom 12.7.2019, S. 67), auf dem elektronischen Speichermedium zu speichernden zwei Fingerabdr\u00fccke der antragstellenden Person werden in Form des flachen Abdrucks des linken und rechten Zeigefingers im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeichert. Bei Fehlen eines Zeigefingers, ungen\u00fcgender Qualit\u00e4t des Fingerabdrucks oder Verletzungen der Fingerkuppe wird ersatzweise der flache Abdruck entweder des Daumens, des Mittelfingers oder des Ringfingers gespeichert. Fingerabdr\u00fccke sind nicht zu speichern, wenn die Abnahme der Fingerabdr\u00fccke aus medizinischen Gr\u00fcnden, die nicht nur vor\u00fcbergehender Art sind, unm\u00f6glich ist.</P><P>(10) Die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises oder eines mobilen Endger\u00e4ts gespeicherten Daten erm\u00f6glichen auch die Funktion des elektronischen Identit\u00e4tsnachweises nach \u00a7 18.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Hinweis: Die Einf\u00fcgung des Art. 6 Abs. 3 Nr. 2 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. b G v. 20.11.2019 I 1626 (Neuregelung des Inkrafttretens d. Art. 3 G v. 21.6.2019 I 846 zum 1.11.2019) ist nicht ausf\u00fchrbar, da Art. 3 d. G v. 21.6.2019 I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000702116",
+        "name": "\u00a7 6",
+        "title": "G\u00fcltigkeitsdauer des Ausweises; vorzeitige Beantragung; r\u00e4umliche Beschr\u00e4nkungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) Personalausweise werden f\u00fcr eine G\u00fcltigkeitsdauer von zehn Jahren ausgestellt.</P><P>(2) Vor Ablauf der G\u00fcltigkeit eines Personalausweises kann ein neuer Personalausweis beantragt werden, wenn ein berechtigtes Interesse an der Neuausstellung dargelegt wird.</P><P>(3) Bei Personen, die noch nicht 24 Jahre alt sind, betr\u00e4gt die G\u00fcltigkeitsdauer des Personalausweises sechs Jahre.</P><P>(4) Die G\u00fcltigkeitsdauer eines vorl\u00e4ufigen Personalausweises ist unter Ber\u00fccksichtigung des Nutzungszwecks festzulegen; sie darf einen Zeitraum von drei Monaten nicht \u00fcberschreiten.</P><P>(4a) Die G\u00fcltigkeitsdauer des Ersatz-Personalausweises ist auf den Zeitraum zu beschr\u00e4nken, der f\u00fcr das Erreichen des Zweckes nach \u00a7 6a erforderlich ist; sie darf einen Zeitraum von drei Jahren nicht \u00fcberschreiten.</P><P>(5) Eine Verl\u00e4ngerung der G\u00fcltigkeitsdauer ist nicht zul\u00e4ssig.</P><P>(6) Die G\u00fcltigkeitsdauer eines Ausweises darf in den F\u00e4llen des \u00a7 29 des Staatsangeh\u00f6rigkeitsgesetzes den Zeitpunkt der Vollendung des 23. Lebensjahres des Inhabers so lange nicht \u00fcberschreiten, bis die zust\u00e4ndige Beh\u00f6rde den Fortbestand der deutschen Staatsangeh\u00f6rigkeit festgestellt hat.</P><P>(7) Unter den Voraussetzungen des \u00a7 7 Abs. 1 des Passgesetzes kann die zust\u00e4ndige Beh\u00f6rde im Einzelfall anordnen, dass der Ausweis nicht zum Verlassen Deutschlands berechtigt.</P><P>(8) Anordnungen nach Absatz 7 d\u00fcrfen im polizeilichen Grenzfahndungsbestand gespeichert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003800116",
+        "name": "\u00a7 6a",
+        "title": "Versagung und Entziehung; Ersatz-Personalausweis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) Ein Personalausweis oder ein vorl\u00e4ufiger Personalausweis kann unter den Voraussetzungen des \u00a7 7 Absatz 1 Nummer 1 oder Nummer 10 des Passgesetzes versagt werden. Im Falle des \u00a7 7 Absatz 1 Nummer 1 des Passgesetzes gilt dies nur, wenn die Gef\u00e4hrdung darin besteht, dass bestimmte Tatsachen die Annahme begr\u00fcnden, dass der Ausweisbewerber <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einer terroristischen Vereinigung nach \u00a7 129a des Strafgesetzbuchs oder einer terroristischen Vereinigung nach \u00a7 129a in Verbindung mit \u00a7 129b Absatz 1 Satz 1 des Strafgesetzbuchs mit Bezug zur Bundesrepublik Deutschland angeh\u00f6rt oder diese unterst\u00fctzt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>rechtswidrig Gewalt gegen Leib oder Leben als Mittel zur Durchsetzung international ausgerichteter politischer oder religi\u00f6ser Belange anwendet oder eine solche Gewaltanwendung unterst\u00fctzt oder vors\u00e4tzlich hervorruft.</LA></DD></DL></P><P>(2) Dem Ausweisinhaber kann ein Personalausweis oder ein vorl\u00e4ufiger Personalausweis entzogen werden, wenn gegen ihn eine vollziehbare Anordnung nach \u00a7 6 Absatz 7 in Verbindung mit \u00a7 7 Absatz 1 Nummer 1 oder Nummer 10 des Passgesetzes besteht. Im Falle einer Anordnung nach \u00a7 6 Absatz 7 in Verbindung mit \u00a7 7 Absatz 1 Nummer 1 des Passgesetzes gilt dies nur, wenn die Gef\u00e4hrdung darin besteht, dass bestimmte Tatsachen die Annahme begr\u00fcnden, dass der Ausweisinhaber <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einer terroristischen Vereinigung nach \u00a7 129a des Strafgesetzbuchs oder einer terroristischen Vereinigung nach \u00a7 129a in Verbindung mit \u00a7 129b Absatz 1 Satz 1 des Strafgesetzbuchs mit Bezug zur Bundesrepublik Deutschland angeh\u00f6rt oder diese unterst\u00fctzt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>rechtswidrig Gewalt gegen Leib oder Leben als Mittel zur Durchsetzung international ausgerichteter politischer oder religi\u00f6ser Belange anwendet oder eine solche Gewaltanwendung unterst\u00fctzt oder vors\u00e4tzlich hervorruft.</LA></DD></DL></P><P>(3) Ist ein Personalausweis oder vorl\u00e4ufiger Personalausweis versagt oder entzogen worden, ist ein Ersatz-Personalausweis auszustellen.</P><P>(4) Liegen die Voraussetzungen des Absatzes 1 oder des Absatzes 2 nicht mehr vor, ist dies dem Inhaber eines Ersatz-Personalausweises unverz\u00fcglich mitzuteilen und ihm auf Antrag ein Personalausweis oder ein vorl\u00e4ufiger Personalausweis auszustellen.</P><P>(5) F\u00fcr Ma\u00dfnahmen nach den Abs\u00e4tzen 1 bis 3 sowie Mitteilungen nach Absatz 4 sind ausschlie\u00dflich die in \u00a7 7 Absatz 1 genannten Beh\u00f6rden zust\u00e4ndig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000803116",
+        "name": "\u00a7 7",
+        "title": "Sachliche Zust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) F\u00fcr Ausweisangelegenheiten in Deutschland sind die von den L\u00e4ndern bestimmten Beh\u00f6rden zust\u00e4ndig (Personalausweisbeh\u00f6rden).</P><P>(2) F\u00fcr Personalausweisangelegenheiten im Ausland ist das Ausw\u00e4rtige Amt mit den von ihm bestimmten Auslandsvertretungen zust\u00e4ndig (Personalausweisbeh\u00f6rde).</P><P>(3) F\u00fcr die Einziehung nach \u00a7 29 Abs. 1 und die Sicherstellung nach \u00a7 29 Abs. 2 sind die Personalausweisbeh\u00f6rden, die Auslandsvertretungen und die zur hoheitlichen Identit\u00e4tsfeststellung berechtigten Beh\u00f6rden zust\u00e4ndig.</P><P>(3a) F\u00fcr das elektronisch beantragte Neusetzen der Geheimnummer sowie f\u00fcr die elektronische Beantragung des nachtr\u00e4glichen Einschaltens der Funktion zum elektronischen Identit\u00e4tsnachweis ist der Ausweishersteller zust\u00e4ndig.</P><P>(3b) F\u00fcr die \u00dcbermittlung von Daten nach \u00a7 5 Absatz 5a aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endger\u00e4t nach \u00a7 10a Absatz 1 sowie f\u00fcr die Auskunft nach \u00a7 10a Absatz 5 ist der Ausweishersteller zust\u00e4ndig.</P><P>(4) F\u00fcr die Erteilung und Aufhebung von Berechtigungen nach \u00a7 21 ist die Vergabestelle f\u00fcr Berechtigungszertifikate nach \u00a7 4 Abs. 3 zust\u00e4ndig. F\u00fcr das F\u00fchren einer Sperrliste nach \u00a7 10 Abs. 4 Satz 1 ist der Sperrlistenbetreiber nach \u00a7 4 Abs. 3 zust\u00e4ndig.</P><P>(5) F\u00fcr Diensteanbieter in Deutschland sind die f\u00fcr die Einhaltung der Vorgaben des Datenschutzes zust\u00e4ndigen Stellen zust\u00e4ndig. Haben Diensteanbieter ihren Wohn-, Gesch\u00e4fts- oder Dienstsitz nicht in Deutschland, so ist der Bundesbeauftragte f\u00fcr den Datenschutz und die Informationsfreiheit zust\u00e4ndige Datenschutzaufsichtsbeh\u00f6rde im Sinne des \u00a7 21 Absatz 4 Satz 3.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "\u00d6rtliche Zust\u00e4ndigkeit; T\u00e4tigwerden bei \u00f6rtlicher Unzust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000100000"
+        },
+        "body": "<P>(1) In Deutschland ist die Personalausweisbeh\u00f6rde zust\u00e4ndig, in deren Bezirk die antragstellende Person oder der Ausweisinhaber f\u00fcr seine Wohnung, bei mehreren Wohnungen f\u00fcr seine Hauptwohnung, meldepflichtig ist. Hat die antragstellende Person keine Wohnung, so ist die Personalausweisbeh\u00f6rde zust\u00e4ndig, in deren Bezirk sie sich vor\u00fcbergehend aufh\u00e4lt.</P><P>(2) Im Ausland sind die vom Ausw\u00e4rtigen Amt bestimmten Auslandsvertretungen zust\u00e4ndig, in deren Bezirk sich die antragstellende Person oder der Ausweisinhaber gew\u00f6hnlich aufh\u00e4lt. Der Ausweisinhaber hat den Nachweis \u00fcber den gew\u00f6hnlichen Aufenthaltsort zu erbringen.</P><P>(3) F\u00fcr Binnenschiffer, die keine Wohnung in Deutschland haben, ist die Personalausweisbeh\u00f6rde am Heimatort des Binnenschiffes, f\u00fcr Seeleute, die keine Wohnung in Deutschland haben, die Personalausweisbeh\u00f6rde am Sitz des Reeders zust\u00e4ndig.</P><P>(4) Der Antrag auf Ausstellung eines Ausweises muss auch von einer \u00f6rtlich nicht zust\u00e4ndigen Personalausweisbeh\u00f6rde bearbeitet werden, wenn ein wichtiger Grund dargelegt wird. Ein Ausweis darf nur mit Erm\u00e4chtigung der \u00f6rtlich zust\u00e4ndigen Personalausweisbeh\u00f6rde ausgestellt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR134610009BJNG000201116",
+        "name": "Abschnitt 2",
+        "title": "Ausstellung und Sperrung des Ausweises; elektronischer Identit\u00e4tsnachweis",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001003116",
+        "name": "\u00a7 9",
+        "title": "Ausstellung des Ausweises",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000201116"
+        },
+        "body": "<P>(1) Personalausweise und vorl\u00e4ufige Personalausweise werden auf Antrag f\u00fcr Deutsche im Sinne des Artikels 116 Abs. 1 des Grundgesetzes ausgestellt. \u00a7 3a Abs. 1 des Verwaltungsverfahrensgesetzes ist nicht anzuwenden. Im Antragsverfahren nachzureichende Erkl\u00e4rungen k\u00f6nnen mittels Daten\u00fcbertragung abgegeben werden. Die antragstellende Person und ihr gesetzlicher Vertreter k\u00f6nnen sich bei der Stellung des Antrags nicht durch einen Bevollm\u00e4chtigten vertreten lassen. Dies gilt nicht f\u00fcr eine handlungs- oder einwilligungsunf\u00e4hige antragstellende Person, wenn eine f\u00fcr diesen Fall erteilte, \u00f6ffentlich beglaubigte oder beurkundete Vollmacht vorliegt. Die antragstellende Person und ihr gesetzlicher oder bevollm\u00e4chtigter Vertreter sollen pers\u00f6nlich erscheinen.</P><P>(2) F\u00fcr Minderj\u00e4hrige, die noch nicht 16 Jahre alt sind, und f\u00fcr Personen, die gesch\u00e4ftsunf\u00e4hig sind und sich nicht nach Absatz 1 Satz 5 durch einen Bevollm\u00e4chtigten vertreten lassen, kann nur diejenige Person den Antrag stellen, die sorgeberechtigt ist oder als Betreuer ihren Aufenthalt bestimmen darf. Sie ist verpflichtet, f\u00fcr Jugendliche, die 16, aber noch nicht 18 Jahre alt sind, innerhalb von sechs Wochen, nachdem der Jugendliche 16 Jahre alt geworden ist, den Antrag auf Ausstellung eines Ausweises zu stellen, falls dies der Jugendliche unterl\u00e4sst. Jugendliche, die mindestens 16 Jahre alt sind, d\u00fcrfen Verfahrenshandlungen nach diesem Gesetz vornehmen.</P><P>(3) In dem Antrag sind alle Tatsachen anzugeben, die zur Feststellung der Person des Antragstellers und seiner Eigenschaft als Deutscher notwendig sind. Die Angaben zum Doktorgrad und zu den Ordens- und K\u00fcnstlernamen sind freiwillig. Die antragstellende Person hat die erforderlichen Nachweise zu erbringen. Fingerabdr\u00fccke von Kindern sind nicht abzunehmen, solange die Kinder noch nicht sechs Jahre alt sind.</P><P>(4) Bestehen Zweifel \u00fcber die Person des Antragstellers, sind die zur Feststellung seiner Identit\u00e4t erforderlichen Ma\u00dfnahmen zu treffen. Die Personalausweisbeh\u00f6rde kann die Durchf\u00fchrung erkennungsdienstlicher Ma\u00dfnahmen veranlassen, wenn die Identit\u00e4t der antragstellenden Person auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten festgestellt werden kann. Ist die Identit\u00e4t festgestellt, so sind die im Zusammenhang mit der Feststellung angefallenen Unterlagen zu vernichten. Die Vernichtung ist zu protokollieren.</P><P>(5) Die Unterschrift durch ein Kind ist zu leisten, wenn es zum Zeitpunkt der Beantragung des Ausweises zehn Jahre oder \u00e4lter ist.</P><P>(6) F\u00fcr Deutsche im Sinne des Artikels 116 Absatz 1 des Grundgesetzes werden nach Ma\u00dfgabe des \u00a7 6a Ersatz-Personalausweise von Amts wegen ausgestellt. Absatz 1 Satz 2 bis 6, Absatz 2 Satz 3, Absatz 3 Satz 1 bis 3 sowie die Abs\u00e4tze 4 und 5 gelten entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001104116",
+        "name": "\u00a7 10",
+        "title": "Einschaltung, Sperrung und Entsperrung der Funktion des elektronischen Identit\u00e4tsnachweises mit dem Personalausweis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000201116"
+        },
+        "body": "<P>(1) Der Personalausweis wird mit einer Funktion zum elektronischen Identit\u00e4tsnachweis nach \u00a7 18 ausgegeben.</P><P>(2) Der Ausweishersteller schaltet die Funktion aus, wenn die antragstellende Person zum Zeitpunkt der Antragstellung noch nicht 16 Jahre alt ist.</P><P>(3) Auf Antrag des Ausweisinhabers und unter Vorlage des Personalausweises kann ein ausgeschalteter elektronischer Identit\u00e4tsnachweis w\u00e4hrend der G\u00fcltigkeitsdauer des Personalausweises eingeschaltet werden, wenn der Ausweisinhaber zum Zeitpunkt der Antragstellung bereits 16 Jahre alt ist.</P><P>(4) Der Sperrlistenbetreiber nach \u00a7 7 Abs. 4 Satz 2 stellt jedem Diensteanbieter \u00fcber jederzeit \u00f6ffentlich erreichbare Kommunikationsverbindungen eine f\u00fcr ihn errechnete, aktuelle Liste bereit, die ausschlie\u00dflich die Sperrmerkmale von Personalausweisen mit gesperrtem elektronischen Identit\u00e4tsnachweis enth\u00e4lt (Sperrliste). Die Diensteanbieter rufen die f\u00fcr sie errechnete Sperrliste regelm\u00e4\u00dfig ab und gleichen sie im Rahmen des elektronischen Identit\u00e4tsnachweises lokal mit zu akzeptierenden Personalausweisen ab.</P><P>(5) Die zust\u00e4ndige Personalausweisbeh\u00f6rde hat unverz\u00fcglich zur Aktualisierung der Sperrliste die Sperrsumme des Personalausweises an den Sperrlistenbetreiber nach \u00a7 7 Absatz 4 Satz 2 zu \u00fcbermitteln, wenn sie Kenntnis erlangt von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Abhandenkommen eines Personalausweises mit elektronischem Identit\u00e4tsnachweis,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Versterben eines Ausweisinhabers oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Ung\u00fcltigkeit eines nicht im Besitz der Beh\u00f6rde befindlichen Ausweises nach \u00a7 28 Absatz 1 oder Absatz 2.</LA></DD></DL></P><P>(6) Der Personalausweisinhaber kann durch Mitteilung des Sperrkennworts an den Sperrlistenbetreiber nach \u00a7 7 Abs. 4 Satz 2 eine sofortige Sperrung des elektronischen Identit\u00e4tsnachweises veranlassen. Davon unber\u00fchrt bleibt die Pflicht, den Verlust oder das Abhandenkommen des Personalausweises der Personalausweisbeh\u00f6rde nach \u00a7 27 Abs. 1 Nr. 3 anzuzeigen.</P><P>(7) Der Sperrlistenbetreiber nach \u00a7 7 Abs. 4 Satz 2 stellt den Personalausweisbeh\u00f6rden f\u00fcr die F\u00e4lle nach Absatz 5 und den Personalausweisinhabern f\u00fcr die F\u00e4lle nach Absatz 6 einen Sperrdienst \u00fcber jederzeit \u00f6ffentlich erreichbare Kommunikationsverbindungen zur Verf\u00fcgung.</P><P>(8) Teilt nach erfolgter Sperrung nach Absatz 5 der Personalausweisinhaber das Wiederauffinden seines Personalausweises unter den Voraussetzungen des \u00a7 9 Absatz 1 Satz 6 und unter Vorlage seines Personalausweises mit oder bittet er nach einer Sperrung nach Absatz 6 unter den Voraussetzungen des \u00a7 9 Absatz 1 Satz 6 und unter Vorlage seines Personalausweises um Entsperrung, so ersucht die Personalausweisbeh\u00f6rde den Sperrlistenbetreiber nach \u00a7 7 Absatz 4 Satz 2 um L\u00f6schung des Sperreintrags zu diesem Personalausweis. Die Pflicht des Personalausweisinhabers, den Ausweis bei Wiederauffinden nach \u00a7 27 Abs. 1 Nr. 3 vorzulegen, bleibt hiervon unber\u00fchrt.</P><P>(9) Der Zeitpunkt der Meldung des Abhandenkommens eines Ausweises ist von der Personalausweisbeh\u00f6rde oder Polizeibeh\u00f6rde zu dokumentieren und der ausstellenden Personalausweisbeh\u00f6rde mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE004500116",
+        "name": "\u00a7 10a",
+        "title": "Einrichtung des elektronischen Identit\u00e4tsnachweises mit einem mobilen Endger\u00e4t",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000201116"
+        },
+        "body": "<P>(1) Auf elektronische Veranlassung durch den Ausweisinhaber \u00fcbermittelt der Ausweishersteller die Daten nach \u00a7 5 Absatz 5a aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises in einem sicheren Verfahren auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endger\u00e4t. Der Ausweisinhaber weist seine Identit\u00e4t gegen\u00fcber dem Ausweishersteller mit einem elektronischen Identit\u00e4tsnachweis nach \u00a7\u00a018 nach. Ferner hat der Ausweishersteller Ma\u00dfnahmen gegen eine missbr\u00e4uchliche Verwendung der Daten im Anschluss an die \u00dcbermittlung der Daten auf das elektronische Speicher- und Verarbeitungsmedium in dem mobilen Endger\u00e4t vorzusehen. Der Ausweisinhaber ist auf seine Pflichten nach \u00a7 27 Absatz 2 sowie darauf hinzuweisen, dass das mobile Endger\u00e4t hinsichtlich der in seinem elektronischen Speicher- und Verarbeitungsmedium nach Absatz 1 gespeicherten Daten mit besonderer Sorgfalt zu behandeln ist.</P><P>(2) Die G\u00fcltigkeitsdauer eines elektronischen Identit\u00e4tsnachweises nach \u00a7 18 Absatz 2 Satz 1 Nummer 2 auf Grundlage einer \u00dcbermittlung der Daten nach Absatz 1 betr\u00e4gt f\u00fcnf Jahre. Eine Verl\u00e4ngerung der G\u00fcltigkeitsdauer ist nicht zul\u00e4ssig. Durch Rechtsverordnung nach \u00a7 34 Satz 1 Nummer 8a kann eine k\u00fcrzere G\u00fcltigkeitsdauer festgelegt werden. Eine \u00dcbermittlung nach Absatz 1 Satz 1 kann mehrfach durchgef\u00fchrt werden.</P><P>(3) Im Zuge der \u00dcbermittlung nach Absatz 1 Satz 1 erzeugt der Ausweishersteller einen neuen Sperrschl\u00fcssel sowie eine neue Sperrsumme und \u00fcbermittelt diese Daten sowie den letzten Tag der G\u00fcltigkeit an den Sperrlistenbetreiber. \u00a7\u00a010 Absatz 4 und Absatz 6 Satz 1 gilt entsprechend. Der Ausweisinhaber kann die Daten auf dem mobilen Endger\u00e4t selbst l\u00f6schen.</P><P>(4) Werden die auf das elektronische Speicher- und Verarbeitungsmedium des mobilen Endger\u00e4ts \u00fcbermittelten Daten nach Absatz 1 Satz 1 unrichtig, darf ein elektronischer Identit\u00e4tsnachweis nach \u00a7 18 Absatz 2 Satz 1 Nummer 2 nicht durchgef\u00fchrt werden. Vor einer weiteren Nutzung ist erneut eine \u00dcbermittlung nach Absatz 1 unter Verwendung des elektronischen Speicher- und Verarbeitungsmediums des Personalausweises mit den richtigen Daten durchzuf\u00fchren.</P><P>(5) Auf elektronischen Antrag des Ausweisinhabers hat der Ausweishersteller diesem Auskunft zu erteilen dar\u00fcber, jeweils zu welchem Datum und zu welcher Uhrzeit eine \u00dcbermittlung nach Absatz 1 Satz 1 der Daten des Personalausweises des Ausweisinhabers auf ein elektronisches Speicher- und Verarbeitungsmedium in einem mobilen Endger\u00e4t durchgef\u00fchrt wurde, sowie \u00fcber jeweils den letzten Tag der G\u00fcltigkeitsdauer, das Sperrkennwort und den Hersteller und die Modellbezeichnung des mobilen Endger\u00e4ts. Zur Identifizierung der antragstellenden Person hat der Ausweishersteller zur Person des Ausweisinhabers einen elektronischen Identit\u00e4tsnachweis nach \u00a7 18 durchzuf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001204116",
+        "name": "\u00a7 11",
+        "title": "Informationspflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000201116"
+        },
+        "body": "<P>(1) Auf Verlangen des Personalausweisinhabers hat die Personalausweisbeh\u00f6rde ihm Einsicht in die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeicherten auslesbaren Daten zu gew\u00e4hren.</P><P>(2) (weggefallen)</P><P>(3) Die Personalausweisbeh\u00f6rde hat die antragstellende Person bei Antragstellung \u00fcber den elektronischen Identit\u00e4tsnachweis nach \u00a7 18, einschlie\u00dflich des elektronischen Identit\u00e4tsnachweises mit einem mobilen Endger\u00e4t, und das Vor-Ort-Auslesen nach \u00a7 18a sowie \u00fcber Ma\u00dfnahmen zu unterrichten, die erforderlich sind, um die Sicherheit der Nutzung des elektronischen Identit\u00e4tsnachweises zu gew\u00e4hrleisten. Sie hat der antragstellenden Person die \u00dcbergabe von entsprechendem Informationsmaterial anzubieten, in dem auch auf die M\u00f6glichkeit einer Sperrung nach \u00a7 10 Absatz 6 hingewiesen wird.</P><P>(4) (weggefallen)</P><P>(5) Personalausweisbeh\u00f6rden, die Kenntnis von dem Abhandenkommen eines Ausweises erlangen, haben die zust\u00e4ndige Personalausweisbeh\u00f6rde, die ausstellende Personalausweisbeh\u00f6rde und eine Polizeibeh\u00f6rde unverz\u00fcglich in Kenntnis zu setzen; eine Polizeibeh\u00f6rde, die anderweitig Kenntnis vom Abhandenkommen eines Ausweises erlangt, hat die zust\u00e4ndige und die ausstellende Personalausweisbeh\u00f6rde unverz\u00fcglich zu unterrichten. Dabei sollen Angaben zum Familiennamen, den Vornamen, zur Seriennummer, zur ausstellenden Personalausweisbeh\u00f6rde, zum Ausstellungsdatum und zur G\u00fcltigkeitsdauer des Ausweises \u00fcbermittelt werden. Die Polizeibeh\u00f6rde hat die Einstellung in die polizeiliche Sachfahndung vorzunehmen.</P><P>(6) Stellt eine nicht zust\u00e4ndige Personalausweisbeh\u00f6rde nach \u00a7 8 Abs. 4 einen Ausweis aus, so hat sie der zust\u00e4ndigen Personalausweisbeh\u00f6rde den Familiennamen, die Vornamen, den Tag und Ort der Geburt, die ausstellende Personalausweisbeh\u00f6rde, das Ausstellungsdatum, die G\u00fcltigkeitsdauer und die Seriennummer des Ausweises zu \u00fcbermitteln.</P><P>(7) Schaltet eine Personalausweisbeh\u00f6rde den elektronischen Identit\u00e4tsnachweis eines Personalausweises ein, so hat sie unverz\u00fcglich die ausstellende Personalausweisbeh\u00f6rde davon in Kenntnis zu setzen. Das Gleiche gilt f\u00fcr den Ausweishersteller im Falle der elektronischen Beantragung des nachtr\u00e4glichen Einschaltens der Funktion zum elektronischen Identit\u00e4tsnachweis.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001303116",
+        "name": "\u00a7 12",
+        "title": "Form und Verfahren der Datenerfassung, -pr\u00fcfung und -\u00fcbermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000201116"
+        },
+        "body": "<P>(1) Die Daten\u00fcbermittlung von den Personalausweisbeh\u00f6rden an den Ausweishersteller zum Zweck der Ausweisherstellung, insbesondere die \u00dcbermittlung s\u00e4mtlicher Ausweisantragsdaten, erfolgt durch Daten\u00fcbertragung. Die Daten\u00fcbertragung kann auch \u00fcber Vermittlungsstellen erfolgen. Die beteiligten Stellen haben dem jeweiligen Stand der Technik entsprechende Ma\u00dfnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten sowie die Feststellbarkeit der \u00fcbermittelnden Stelle gew\u00e4hrleisten; im Falle der Nutzung allgemein zug\u00e4nglicher Netze sind Verschl\u00fcsselungsverfahren anzuwenden, die dem jeweiligen Stand der Technik entsprechen.</P><P>(2) Zur elektronischen Erfassung, Echtheitsbewertung und Qualit\u00e4tssicherung des Lichtbildes und der Fingerabdr\u00fccke sowie zur \u00dcbermittlung der Ausweisdaten von der Personalausweisbeh\u00f6rde an den Ausweishersteller d\u00fcrfen ausschlie\u00dflich solche technischen Systeme und Bestandteile eingesetzt werden, die den Anforderungen der Rechtsverordnung nach \u00a7 34 Satz 1 Nummer 3 entsprechen. Die Einhaltung der Anforderungen ist vom Bundesamt f\u00fcr Sicherheit in der Informationstechnik gem\u00e4\u00df der Rechtsverordnung nach \u00a7 34 Satz 1 Nummer 4 festzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001401116",
+        "name": "\u00a7 13",
+        "title": "\u00dcbermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000201116"
+        },
+        "body": "<P>Der Ausweishersteller \u00fcbersendet antragstellenden Personen zum Zweck der Verwendung, Sperrung und Entsperrung des elektronischen Identit\u00e4tsnachweises mit dem Personalausweis die Geheimnummer, die Entsperrnummer und das Sperrkennwort. Die Geheimnummer wird auf einer von den sonstigen Unterlagen gesonderten Seite \u00fcbermittelt. Soweit die antragstellende Person berechtigte Gr\u00fcnde darlegt, werden die Unterlagen nach Satz 1 an die Personalausweisbeh\u00f6rde \u00fcbersandt, die den Personalausweis aush\u00e4ndigt. Diese stellt dem Ausweisinhaber die Unterlagen zur Verf\u00fcgung. Die Personalausweisbeh\u00f6rde hat den Ausweisinhaber bei Antragstellung auf die Risiken dieses Verfahrens hinzuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR134610009BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Umgang mit personenbezogenen Daten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "Erhebung und Verwendung personenbezogener Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": "<P>Die Erhebung und Verwendung personenbezogener Daten aus dem Ausweis oder mithilfe des Ausweises darf ausschlie\u00dflich erfolgen durch <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden nach Ma\u00dfgabe der \u00a7\u00a7 15 bis 17,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u00f6ffentliche Stellen und nicht\u00f6ffentliche Stellen nach Ma\u00dfgabe der \u00a7\u00a7 18 bis 20.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "Automatisierter Abruf und automatisierte Speicherung durch zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": "<P>(1) Zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden d\u00fcrfen den Ausweis nicht zum automatisierten Abruf personenbezogener Daten verwenden. Abweichend von Satz 1 d\u00fcrfen Polizeibeh\u00f6rden und -dienststellen des Bundes und der L\u00e4nder, die Beh\u00f6rden der Zollverwaltung sowie die Steuerfahndungsstellen der L\u00e4nder den Ausweis im Rahmen ihrer Aufgaben und Befugnisse zum automatisierten Abruf personenbezogener Daten verwenden, die zu folgenden Zwecken im polizeilichen Fahndungsbestand gespeichert sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Grenzkontrolle,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Fahndung oder Aufenthaltsfeststellung zum Zweck der Strafverfolgung, Strafvollstreckung oder der Abwehr von Gefahren f\u00fcr die \u00f6ffentliche Sicherheit oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der zollamtlichen \u00dcberwachung im Rahmen der polizeilichen Beobachtung.</LA></DD></DL>\u00dcber Abrufe, die zu keiner Feststellung gef\u00fchrt haben, d\u00fcrfen, vorbehaltlich gesetzlicher Regelungen, die gem\u00e4\u00df Absatz 2 erlassen werden, keine personenbezogenen Aufzeichnungen gefertigt werden.</P><P>(2) In den F\u00e4llen des Absatzes 1 d\u00fcrfen personenbezogene Daten, soweit gesetzlich nichts anderes bestimmt ist, beim automatisierten Lesen des Ausweises nicht in Dateien gespeichert werden; dies gilt auch f\u00fcr Abrufe aus dem polizeilichen Fahndungsbestand, die zu einer Feststellung gef\u00fchrt haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001702116",
+        "name": "\u00a7 16",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001800000",
+        "name": "\u00a7 17",
+        "title": "Identit\u00e4ts\u00fcberpr\u00fcfung anhand der im elektronischen Speicher- und Verarbeitungsmedium gespeicherten Daten durch zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": "<P>Zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden d\u00fcrfen die im elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeicherten Daten nur zum Zweck der \u00dcberpr\u00fcfung der Echtheit des Dokumentes oder der Identit\u00e4t des Ausweisinhabers und nur nach Ma\u00dfgabe der S\u00e4tze 3 und 4 auslesen und verwenden. Echtheits- oder Identit\u00e4tskontrollen \u00fcber \u00f6ffentliche Kommunikationswege sind unzul\u00e4ssig. Soweit die Polizeivollzugsbeh\u00f6rden, die Zollverwaltung, die Steuerfahndungsstellen der L\u00e4nder sowie die Personalausweis-, Pass- und Meldebeh\u00f6rden die Echtheit des Personalausweises oder die Identit\u00e4t des Inhabers \u00fcberpr\u00fcfen d\u00fcrfen, sind sie befugt, die auf dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises gespeicherten biometrischen und sonstigen Daten auszulesen, die ben\u00f6tigten biometrischen Daten beim Personalausweisinhaber zu erheben und die biometrischen Daten miteinander zu vergleichen. Die nach Satz 3 erhobenen Daten sind unverz\u00fcglich zu l\u00f6schen, wenn die Pr\u00fcfung der Echtheit des Personalausweises oder der Identit\u00e4t des Inhabers beendet ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE001905116",
+        "name": "\u00a7 18",
+        "title": "Elektronischer Identit\u00e4tsnachweis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": "<P>(1) Der Personalausweisinhaber, der mindestens 16 Jahre alt ist, kann den elektronischen Identit\u00e4tsnachweis dazu verwenden, seine Identit\u00e4t gegen\u00fcber \u00f6ffentlichen und nicht\u00f6ffentlichen Stellen elektronisch nachzuweisen. Dies gilt auch dann, wenn er f\u00fcr eine andere Person, ein Unternehmen oder eine Beh\u00f6rde handelt. Abweichend von Satz 1 ist der elektronische Identit\u00e4tsnachweis ausgeschlossen, wenn die Voraussetzungen des \u00a7 3a Abs. 1 des Verwaltungsverfahrensgesetzes, des \u00a7 87a Abs. 1 Satz 1 der Abgabenordnung oder des \u00a7 36a Abs. 1 des Ersten Buches Sozialgesetzbuch nicht vorliegen.</P><P>(2) Der elektronische Identit\u00e4tsnachweis erfolgt durch \u00dcbermittlung von Daten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus dem elektronischen Speicher- und Verarbeitungsmedium des Personalausweises oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus einem elektronischen Speicher- und Verarbeitungsmedium in einem mobilen Endger\u00e4t.</LA></DD></DL>Dabei sind dem jeweiligen Stand der Technik entsprechende Ma\u00dfnahmen zur Sicherstellung von Datenschutz und Datensicherheit zu treffen, die insbesondere die Vertraulichkeit und Unversehrtheit der Daten gew\u00e4hrleisten. Im Falle der Nutzung allgemein zug\u00e4nglicher Netze sind Verschl\u00fcsselungsverfahren anzuwenden. Die Nutzung des elektronischen Identit\u00e4tsnachweises durch eine andere Person als den Personalausweisinhaber ist unzul\u00e4ssig.</P><P>(3) Das Sperrmerkmal und die Angabe, ob der elektronische Identit\u00e4tsnachweis g\u00fcltig ist, sind zur \u00dcberpr\u00fcfung, ob ein gesperrter oder abgelaufener elektronischer Identit\u00e4tsnachweis vorliegt, immer zu \u00fcbermitteln. Folgende weitere Daten k\u00f6nnen \u00fcbermittelt werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname,</LA></DD><DT>1a.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geburtsname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag der Geburt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ort der Geburt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift,</LA></DD><DT>6a.</DT><DD Font=\"normal\"><LA Size=\"normal\">im amtlichen Gemeindeverzeichnis verwendeter eindeutiger Gemeindeschl\u00fcssel,</LA></DD><DT>6b.</DT><DD Font=\"normal\"><LA Size=\"normal\">Staatsangeh\u00f6rigkeit,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Dokumentenart,</LA></DD><DT>7a.</DT><DD Font=\"normal\"><LA Size=\"normal\">letzter Tag der G\u00fcltigkeitsdauer,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">dienste- und kartenspezifisches Kennzeichen,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abk\u00fcrzung \u201eD\u201c f\u00fcr Bundesrepublik Deutschland,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angabe, ob ein bestimmtes Alter \u00fcber- oder unterschritten wird,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angabe, ob ein Wohnort dem abgefragten Wohnort entspricht, und</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname, K\u00fcnstlername.</LA></DD></DL></P><P>(4) Die Daten werden nur \u00fcbermittelt, wenn der Diensteanbieter ein g\u00fcltiges Berechtigungszertifikat an den Inhaber des elektronischen Identit\u00e4tsnachweises \u00fcbermittelt und dieser in der Folge seine Geheimnummer eingibt. Der Diensteanbieter muss dem Inhaber des elektronischen Identit\u00e4tsnachweises vor dessen Eingabe der Geheimnummer die Gelegenheit bieten, die folgenden Daten einzusehen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name, Anschrift und E-Mail-Adresse des Diensteanbieters,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kategorien der zu \u00fcbermittelnden Daten nach Absatz 3 Satz 2,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hinweis auf die f\u00fcr den Diensteanbieter zust\u00e4ndigen Stellen, die die Einhaltung der Vorschriften zum Datenschutz kontrollieren,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">letzter Tag der G\u00fcltigkeitsdauer des Berechtigungszertifikats.</LA></DD></DL></P><P>(5) Die \u00dcbermittlung ist auf die im Berechtigungszertifikat genannten Datenkategorien beschr\u00e4nkt.</P><P>(6) Personalausweisbeh\u00f6rden d\u00fcrfen im Rahmen der \u00c4nderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium nach einer elektronischen Anmeldung gem\u00e4\u00df \u00a7\u00a023a des Bundesmeldegesetzes einen elektronischen Identit\u00e4tsnachweis durchf\u00fchren und hierzu ein hoheitliches Berechtigungszertifikat verwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003900116",
+        "name": "\u00a7 18a",
+        "title": "Vor-Ort-Auslesen von Ausweisdaten unter Anwesenden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": "<P>(1) Der Ausweisinhaber kann seinen Personalausweis ferner dazu verwenden, die in \u00a7 18 Absatz 3 Satz 2 genannten Daten zum Zwecke der medienbruchfreien \u00dcbernahme von Formulardaten unter Anwesenden zu \u00fcbermitteln.</P><P>(2) Vor dem Vor-Ort-Auslesen der Daten ist der Vor-Ort-Diensteanbieter verpflichtet, anhand des Personalausweises per Lichtbildabgleich zu pr\u00fcfen, ob die den Personalausweis vorlegende Person der Ausweisinhaber ist. Die Daten werden nur \u00fcbermittelt, wenn der Vor-Ort-Anbieter mit Einverst\u00e4ndnis des Ausweisinhabers die Zugangsnummer ausliest und diese zusammen mit einem g\u00fcltigen Vor-Ort-Zertifikat an das Speicher- und Verarbeitungsmedium des Personalausweises \u00fcbermittelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003704116",
+        "name": "\u00a7 19",
+        "title": "Speicherung im Rahmen des elektronischen Identit\u00e4tsnachweises",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": "<P>(1) Die Speicherung eines Sperrmerkmals ist ausschlie\u00dflich zul\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Sperrliste nach \u00a7 10 Abs. 4 Satz 1 oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">vor\u00fcbergehend beim Diensteanbieter zur Pr\u00fcfung, ob der Personalausweis in den Sperrlisten nach \u00a7 10 Abs. 4 Satz 1 aufgef\u00fchrt ist; die Daten sind nach der Pr\u00fcfung unverz\u00fcglich zu l\u00f6schen. Zur Erm\u00f6glichung auch wiederholter Pr\u00fcfungen, ob der Personalausweis in den Sperrlisten nach \u00a7 10 Absatz 4 Satz 1 aufgef\u00fchrt ist, erfolgt bei einem Diensteanbieter, der eine Identifizierung nach dem Geldw\u00e4schegesetz, der Verordnung (EU) Nr. 910/2014 des Europ\u00e4ischen Parlaments und des Rates vom 23. Juli 2014 \u00fcber elektronische Identifizierung und Vertrauensdienste f\u00fcr elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73), dem Vertrauensdienstegesetz oder dem Telekommunikationsgesetz durchf\u00fchrt, abweichend hiervon die L\u00f6schung eines gespeicherten Sperrmerkmals erst nach Ablauf einer Frist von einer Woche ab dem Speicherbeginn.</LA></DD></DL></P><P>(2) Der Ausweishersteller speichert zur Durchf\u00fchrung des Auskunftsanspruchs nach \u00a7\u00a010a Absatz 5 Satz 1 zu jeder \u00dcbermittlung nach \u00a7 10a Absatz 1 Satz 1 das dienste- und kartenspezifische Kennzeichen jeweils f\u00fcr das elektronische Speicher- und Verarbeitungsmedium des Personalausweises und des mobilen Endger\u00e4ts sowie das Datum und die Uhrzeit der Einrichtung, den letzten Tag der G\u00fcltigkeitsdauer, die Sperrsumme, das Sperrkennwort und den Hersteller und die Modellbezeichnung des mobilen Endger\u00e4ts. Die in Satz 1 genannten Daten sind sp\u00e4testens einen Monat nach Ablauf der G\u00fcltigkeitsdauer des elektronischen Identit\u00e4tsnachweises mit einem mobilen Endger\u00e4t zu l\u00f6schen. Im \u00dcbrigen ist eine Speicherung des Sperrkennworts und der Sperrsumme zum elektronischen Identit\u00e4tsnachweis mit dem Personalausweis ausschlie\u00dflich im Personalausweisregister nach \u00a7 23 Absatz 3 Nummer 12 und im Melderegister zul\u00e4ssig.</P><P>(3) Eine zentrale, alle Sperrkennw\u00f6rter oder alle Sperrmerkmale umfassende Speicherung ist unzul\u00e4ssig.</P><P>(4) Daten, die im Rahmen der Durchf\u00fchrung des elektronischen Identit\u00e4tsnachweises aus technischen Gr\u00fcnden oder zum Abgleich mit der Sperrliste an den Diensteanbieter \u00fcbermittelt werden, d\u00fcrfen nur f\u00fcr den Zeitraum der \u00dcbermittlung gespeichert werden. Die Verarbeitung der Daten nach \u00a7 18 Abs. 3 Satz 2 bleibt hiervon unber\u00fchrt.</P><P>(5) Die Speicherung der nach \u00a7 18 Absatz 3 Satz 2 oder nach \u00a7 18a \u00fcbermittelten Daten ist zul\u00e4ssig zum Zwecke der Anlegung oder \u00c4nderung eines elektronischen Benutzerkontos.</P><P>(6) Die \u00dcbernahme der nach \u00a7 18 Absatz 3 Satz 2 oder nach \u00a7 18a \u00fcbermittelten Daten in ein elektronisches Formular und deren Speicherung sind zul\u00e4ssig, soweit und solange die Speicherung zur Wahrnehmung der Gesch\u00e4ftszwecke des Diensteanbieters erforderlich ist. Zul\u00e4ssig ist auch, das Formular mit einem dauerhaften elektronischen Vermerk des Inhalts zu versehen, dass sich der Ausweisinhaber beim Ausf\u00fcllen des Formulars nach \u00a7 18 oder nach \u00a7 18a identifiziert hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE004000116",
+        "name": "\u00a7 19a",
+        "title": "Speicherung durch Identifizierungsdiensteanbieter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": "<P>(1) Ein Identifizierungsdiensteanbieter darf die personenbezogenen Daten des Ausweisinhabers ausschlie\u00dflich zum Zwecke der bei ihm in Auftrag gegebenen Identifizierung sowie nach \u00a7 19 Absatz 6 zum Ausf\u00fcllen eines elektronischen Formulars verwenden, das ihm hierf\u00fcr von seinem Auftraggeber zur Verf\u00fcgung gestellt wurde. Das Anbringen eines elektronischen Vermerks nach \u00a7 19 Absatz 6 Satz 2 ist zul\u00e4ssig. Gesetzliche Aufzeichnungspflichten bleiben unber\u00fchrt.</P><P>(2) Der Identifizierungsdiensteanbieter hat die personenbezogenen Daten des Ausweisinhabers zu l\u00f6schen, sobald die Identifizierung abgeschlossen und gegebenenfalls das elektronische Formular sowie die auf Grund gesetzlicher Aufzeichnungspflichten aufgezeichneten Daten an den Auftraggeber \u00fcbermittelt wurden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002103116",
+        "name": "\u00a7 20",
+        "title": "Verwendung durch \u00f6ffentliche und nicht\u00f6ffentliche Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000300000"
+        },
+        "body": "<P>(1) Der Inhaber kann den Ausweis bei \u00f6ffentlichen und nicht\u00f6ffentlichen Stellen als Identit\u00e4tsnachweis und Legitimationspapier verwenden.</P><P>(2) Der Ausweis darf nur vom Ausweisinhaber oder von anderen Personen mit Zustimmung des Ausweisinhabers in der Weise abgelichtet werden, dass die Ablichtung eindeutig und dauerhaft als Kopie erkennbar ist. Andere Personen als der Ausweisinhaber d\u00fcrfen die Kopie nicht an Dritte weitergeben. Werden durch Ablichtung personenbezogene Daten aus dem Personalausweis erhoben oder verarbeitet, so darf die datenerhebende oder -verarbeitende Stelle dies nur mit Einwilligung des Ausweisinhabers tun. Die Vorschriften des allgemeinen Datenschutzrechts \u00fcber die Erhebung und Verwendung personenbezogener Daten bleiben unber\u00fchrt.</P><P>(3) Die Seriennummern d\u00fcrfen nicht mit Hilfe automatisierter Verfahren zum Abruf oder zur Verkn\u00fcpfung personenbezogener Daten verwendet werden. Abweichend hiervon d\u00fcrfen die Seriennummern mit Hilfe automatisierter Verfahren zum Abruf verwenden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Personalausweisbeh\u00f6rden zur Erf\u00fcllung ihrer Aufgaben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Polizeibeh\u00f6rden des Bundes und der L\u00e4nder, der Milit\u00e4rische Abschirmdienst, der Bundesnachrichtendienst, die Verfassungsschutzbeh\u00f6rden des Bundes und der L\u00e4nder, die Steuerfahndungsdienststellen der L\u00e4nder, der Zollfahndungsdienst und die Hauptzoll\u00e4mter zur Kl\u00e4rung, <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>wer Inhaber des Personalausweises ist f\u00fcr den Fall, dass eine ausl\u00e4ndische \u00f6ffentliche Stelle die Seriennummer des Personalausweises \u00fcbermittelt hat und anhand der \u00fcbrigen von der ausl\u00e4ndischen Stelle \u00fcbermittelten Daten eine Feststellung des Ausweisinhabers nicht m\u00f6glich ist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>ob der Personalausweis durch einen Nichtberechtigten genutzt wird oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>ob der Personalausweis f\u00fcr ung\u00fcltig erkl\u00e4rt oder abhandengekommen ist.</LA></DD></DL></LA></DD></DL>Der Ausweishersteller hat \u00f6ffentlichen Stellen auf deren Verlangen die ausstellende Beh\u00f6rde mitzuteilen. Nicht\u00f6ffentliche Stellen d\u00fcrfen die Seriennummern, die Sperrkennw\u00f6rter und die Sperrmerkmale nicht so verwenden, dass mit ihrer Hilfe ein automatisierter Abruf personenbezogener Daten oder eine Verkn\u00fcpfung von Dateien m\u00f6glich ist. Dies gilt nicht f\u00fcr den Abgleich von Sperrmerkmalen durch Diensteanbieter zum Zweck der \u00dcberpr\u00fcfung, ob ein elektronischer Identit\u00e4tsnachweis gesperrt ist.</P><P>(4) Bef\u00f6rderungsunternehmen d\u00fcrfen personenbezogene Daten aus der maschinenlesbaren Zone des Personalausweises elektronisch nur auslesen und verarbeiten, soweit sie auf Grund internationaler Abkommen oder Einreisebestimmungen zur Mitwirkung an Kontrollt\u00e4tigkeiten im internationalen Reiseverkehr und zur \u00dcbermittlung personenbezogener Daten verpflichtet sind. Biometrische Daten d\u00fcrfen nicht ausgelesen werden. Die Daten sind unverz\u00fcglich zu l\u00f6schen, wenn sie f\u00fcr die Erf\u00fcllung dieser Pflichten nicht mehr erforderlich sind.</P><P>(5) Zum Zwecke des Jugendschutzes und mit Einwilligung des Ausweisinhabers d\u00fcrfen die in \u00a7 5 Absatz 4 Satz 2 Nummer 6 und 7 genannten Daten aus der maschinenlesbaren Zone des Personalausweises erhoben werden, um das Alter des Ausweisinhabers und die G\u00fcltigkeit des Ausweises zu \u00fcberpr\u00fcfen. Eine Speicherung der Daten ist unzul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR134610009BJNG000401360",
+        "name": "Abschnitt 4",
+        "title": "Hoheitliche Berechtigungszertifikate; Berechtigungen; elektronische Signaturen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE004400360",
+        "name": "\u00a7 20a",
+        "title": "Hoheitliche Berechtigungszertifikate",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000401360"
+        },
+        "body": "<P>(1) Zur Identit\u00e4tsfeststellung berechtigte Beh\u00f6rden erhalten hoheitliche Berechtigungszertifikate, die ausschlie\u00dflich f\u00fcr die hoheitliche T\u00e4tigkeit der Identit\u00e4tsfeststellung zu verwenden sind.</P><P>(2) Personalausweisbeh\u00f6rden und der Ausweishersteller erhalten hoheitliche Berechtigungszertifikate. Umfang und Inhalt der in Satz 1 genannten hoheitlichen Berechtigungszertifikate bestimmen sich durch die auf Grund dieses Gesetzes den Personalausweisbeh\u00f6rden und dem Ausweishersteller jeweils zugewiesenen Zust\u00e4ndigkeiten.</P><P>(3) Das Bundesamt f\u00fcr Sicherheit in der Informationstechnik erh\u00e4lt hoheitliche Berechtigungszertifikate zur Qualit\u00e4tssicherung anhand von Testausweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002202116",
+        "name": "\u00a7 21",
+        "title": "Berechtigungen f\u00fcr Diensteanbieter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000401360"
+        },
+        "body": "<P>(1) Um Daten im Wege des elektronischen Identit\u00e4tsnachweises anzufragen, ben\u00f6tigen Diensteanbieter eine Berechtigung. Die Berechtigung l\u00e4sst datenschutzrechtliche Vorschriften unber\u00fchrt. Das Vorliegen einer Berechtigung ist durch die Vergabe von Berechtigungszertifikaten technisch abzusichern.</P><P>(2) Die Berechtigung wird auf Antrag erteilt. Die antragstellende Person muss die Daten nach \u00a7 18 Absatz 4 Satz 2 Nummer 1, 2 und 4 angeben. Die Berechtigung ist zu erteilen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Diensteanbieter seine Identit\u00e4t gegen\u00fcber der Vergabestelle f\u00fcr Berechtigungszertifikate nachweist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Diensteanbieter das dem Antrag zu Grunde liegende Interesse an einer Berechtigung, insbesondere zur geplanten organisationsbezogenen Nutzung, darlegt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Diensteanbieter die Einhaltung des betrieblichen Datenschutzes versichert und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vergabestelle f\u00fcr Berechtigungszertifikate keine Anhaltspunkte f\u00fcr eine missbr\u00e4uchliche Verwendung der Daten vorliegen.</LA></DD></DL></P><P>(3) Die Berechtigung ist zu befristen. Die G\u00fcltigkeitsdauer darf einen Zeitraum von drei Jahren nicht \u00fcberschreiten. Die Berechtigung darf nur von dem im Berechtigungszertifikat angegebenen Diensteanbieter verwendet werden. Sie wird auf Antrag wiederholt erteilt.</P><P>(4) Die Berechtigung ist zur\u00fcckzunehmen, wenn der Diensteanbieter diese durch Angaben erwirkt hat, die in wesentlicher Beziehung unrichtig oder unvollst\u00e4ndig waren. Sie ist zu widerrufen, wenn sie nicht oder nicht im gleichen Umfang h\u00e4tte erteilt werden d\u00fcrfen. Die Berechtigung soll zur\u00fcckgenommen oder widerrufen werden, wenn die f\u00fcr den Diensteanbieter zust\u00e4ndige Datenschutzaufsichtsbeh\u00f6rde die R\u00fccknahme oder den Widerruf verlangt, weil Tatsachen die Annahme rechtfertigen, dass der Diensteanbieter die auf Grund der Nutzung des Berechtigungszertifikates erhaltenen personenbezogenen Daten in unzul\u00e4ssiger Weise verarbeitet oder nutzt.</P><P>(5) Mit Bekanntgabe der R\u00fccknahme oder des Widerrufs der Berechtigung darf der Diensteanbieter vorhandene Berechtigungszertifikate nicht mehr verwenden. Dies gilt nicht, solange und soweit die sofortige Vollziehung (\u00a7 30) ausgesetzt worden ist.</P><P>(6) Der Diensteanbieter hat \u00c4nderungen der Angaben nach \u00a7 18 Absatz 4 Satz 2 Nummer 1 und 4 der Vergabestelle f\u00fcr Berechtigungszertifikate unverz\u00fcglich mitzuteilen.</P><P>(7) \u00d6ffentliche Stellen anderer Mitgliedstaaten der Europ\u00e4ischen Union sind berechtigt, Daten im Wege des elektronischen Identit\u00e4tsnachweises anzufragen.</P><P>(8) Die Vergabestelle f\u00fcr Berechtigungszertifikate f\u00fchrt ein Register \u00fcber die erteilten Berechtigungen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE004100116",
+        "name": "\u00a7 21a",
+        "title": "Vor-Ort-Berechtigung f\u00fcr Vor-Ort-Diensteanbieter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000401360"
+        },
+        "body": "<P>Um Ausweisdaten nach \u00a7 18a unter Anwesenden vor Ort auslesen zu d\u00fcrfen, ben\u00f6tigen Vor-Ort-Diensteanbieter eine Vor-Ort-Berechtigung einschlie\u00dflich eines Vor-Ort-Zertifikats. \u00a7 21 gilt hierf\u00fcr entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE004201116",
+        "name": "\u00a7 21b",
+        "title": "Berechtigung f\u00fcr Identifizierungsdiensteanbieter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000401360"
+        },
+        "body": "<P>(1) Wer als Identifizierungsdiensteanbieter die Funktion des elektronischen Identit\u00e4tsnachweises nach \u00a7 18 Absatz 2 Satz 1 in Verbindung mit \u00a7 19 Absatz 6 nutzen m\u00f6chte, um Identifizierungsdienstleistungen f\u00fcr Dritte zu erbringen, bedarf einer Berechtigung.</P><P>(2) Die Berechtigung ist zu erteilen, wenn der Identifizierungsdiensteanbieter <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch technisch-organisatorische Ma\u00dfnahmen die Einhaltung der in \u00a7 19a enthaltenen Vorgaben gew\u00e4hrleistet und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die weiteren Anforderungen an Datenschutz und Datensicherheit nach der Rechtsverordnung nach \u00a7 34 Satz 1 Nummer 7 erf\u00fcllt.</LA></DD></DL>Im \u00dcbrigen gilt \u00a7 21 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002301116",
+        "name": "\u00a7 22",
+        "title": "Elektronische Signatur",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000401360"
+        },
+        "body": "<P>Der Personalausweis kann als qualifizierte elektronische Signaturerstellungseinheit im Sinne des Artikels 3 Nummer 23 der Verordnung (EU) Nr. 910/2014 ausgestaltet werden. Die Zertifizierung nach Artikel 30 der Verordnung (EU) Nr. 910/2014 erfolgt durch das Bundesamt f\u00fcr Sicherheit in der Informationstechnik. Die Vorschriften des Vertrauensdienstegesetzes bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR134610009BJNG000500000",
+        "name": "Abschnitt 5",
+        "title": "Personalausweisregister; Speicherungsvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002406116",
+        "name": "\u00a7 23",
+        "title": "Personalausweisregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000500000"
+        },
+        "body": "<P>(1) Die Personalausweisbeh\u00f6rden f\u00fchren Personalausweisregister.</P><P>(2) Das Personalausweisregister dient der Durchf\u00fchrung dieses Gesetzes, insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Ausstellung der Ausweise und der Feststellung ihrer Echtheit und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Identit\u00e4tsfeststellung der Person, die den Ausweis besitzt oder f\u00fcr die er ausgestellt ist.</LA></DD></DL></P><P>(3) Das Personalausweisregister darf neben dem Lichtbild, der Unterschrift des Ausweisinhabers und verfahrensbedingten Bearbeitungsvermerken ausschlie\u00dflich folgende Daten enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname und Geburtsname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vornamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Doktorgrad,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag der Geburt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ort der Geburt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gr\u00f6\u00dfe,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Farbe der Augen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Staatsangeh\u00f6rigkeit,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname, Vornamen, Tag der Geburt und Unterschrift des gesetzlichen Vertreters,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Seriennummer,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sperrkennwort und Sperrsumme,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">letzter Tag der G\u00fcltigkeitsdauer,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">ausstellende Beh\u00f6rde,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vermerke \u00fcber Anordnungen nach \u00a7 6 Absatz 7 und Ma\u00dfnahmen nach \u00a7 6a Absatz 1 bis 3,</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zur Erkl\u00e4rungspflicht des Ausweisinhabers nach \u00a7 29 des Staatsangeh\u00f6rigkeitsgesetzes,</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Tatsache, dass die Funktion zum elektronischen Identit\u00e4tsnachweis mit Personalausweis ausgeschaltet wurde oder in die Sperrliste eingetragen ist,</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ordensname, K\u00fcnstlername und</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Nachweis \u00fcber eine erteilte Erm\u00e4chtigung nach \u00a7 8 Abs. 4 Satz 2.</LA></DD></DL></P><P>(4) Personenbezogene Daten im Personalausweisregister sind mindestens bis zur Ausstellung eines neuen Ausweises, h\u00f6chstens jedoch bis zu f\u00fcnf Jahre nach dem Ablauf der G\u00fcltigkeit des Ausweises, auf den sie sich beziehen, zu speichern und dann zu l\u00f6schen. F\u00fcr die Personalausweisbeh\u00f6rde nach \u00a7 7 Abs. 2 bei der Wahrnehmung konsularischer Aufgaben betr\u00e4gt die Frist 30 Jahre.</P><P>(5) Die zust\u00e4ndige Personalausweisbeh\u00f6rde f\u00fchrt den Nachweis \u00fcber Personalausweise, f\u00fcr die sie eine Erm\u00e4chtigung nach \u00a7 8 Abs. 4 Satz 2 erteilt hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002502116",
+        "name": "\u00a7 24",
+        "title": "Verwendung im Personalausweisregister gespeicherter Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000500000"
+        },
+        "body": "<P>(1) Die Personalausweisbeh\u00f6rden d\u00fcrfen personenbezogene Daten nur nach Ma\u00dfgabe dieses Gesetzes, anderer Gesetze oder Rechtsverordnungen erheben oder verwenden.</P><P>(2) Die Personalausweisbeh\u00f6rden d\u00fcrfen anderen Beh\u00f6rden auf deren Ersuchen Daten aus dem Personalausweisregister \u00fcbermitteln, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ersuchende Beh\u00f6rde auf Grund von Gesetzen oder Rechtsverordnungen berechtigt ist, solche Daten zu erhalten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ersuchende Beh\u00f6rde ohne Kenntnis der Daten nicht in der Lage w\u00e4re, eine ihr obliegende Aufgabe zu erf\u00fcllen, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ersuchende Beh\u00f6rde die Daten bei dem Betroffenen nicht oder nur mit unverh\u00e4ltnism\u00e4\u00dfig hohem Aufwand erheben kann oder wenn nach der Art der Aufgabe, zu deren Erf\u00fcllung die Daten erforderlich sind, von einer solchen Datenerhebung abgesehen werden muss.</LA></DD></DL>Hinsichtlich der Daten, die auch im Melderegister gespeichert sind, m\u00fcssen die im Bundesmeldegesetz enthaltenen Beschr\u00e4nkungen beachtet werden.</P><P>(3) Die ersuchende Beh\u00f6rde tr\u00e4gt die Verantwortung daf\u00fcr, dass die Voraussetzungen des Absatzes 2 vorliegen. Ein Ersuchen nach Absatz 2 darf nur von Bediensteten gestellt werden, die vom Beh\u00f6rdenleiter dazu besonders erm\u00e4chtigt sind. Die ersuchende Beh\u00f6rde hat den Anlass des Ersuchens und die Herkunft der \u00fcbermittelten Daten und Unterlagen zu dokumentieren. Wird die Personalausweisbeh\u00f6rde vom Bundesamt f\u00fcr Verfassungsschutz, den Landesbeh\u00f6rden f\u00fcr Verfassungsschutz, dem Milit\u00e4rischen Abschirmdienst, dem Bundesnachrichtendienst, dem Bundeskriminalamt oder dem Generalbundesanwalt oder der Generalbundesanw\u00e4ltin um die \u00dcbermittlung von Daten ersucht, so hat die ersuchende Beh\u00f6rde den Familiennamen, die Vornamen und die Anschrift des Betroffenen unter Hinweis auf den Anlass der \u00dcbermittlung aufzuzeichnen. Die Aufzeichnungen sind gesondert aufzubewahren, durch technische und organisatorische Ma\u00dfnahmen zu sichern und am Ende des Kalenderjahres, das dem Jahr der \u00dcbermittlung folgt, zu vernichten.</P><P>(4) Die Daten des Personalausweisregisters und des Melderegisters d\u00fcrfen zur Berichtigung des jeweils anderen Registers verwendet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002602360",
+        "name": "\u00a7 25",
+        "title": "Daten\u00fcbertragung und automatisierter Abruf von Lichtbildern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000500000"
+        },
+        "body": "<P>(1) In den F\u00e4llen des \u00a7 24 Abs. 2 d\u00fcrfen personenbezogene Daten auch durch Daten\u00fcbertragung \u00fcbermittelt werden. \u00a7 12 Abs. 1 Satz 3 gilt entsprechend.</P><P>(2) Die Ordnungsbeh\u00f6rden d\u00fcrfen das Lichtbild zum Zweck der Verfolgung von Verkehrsordnungswidrigkeiten im automatisierten Verfahren abrufen, wenn die Personalausweisbeh\u00f6rde auf andere Weise nicht erreichbar ist und ein weiteres Abwarten den Ermittlungszweck gef\u00e4hrden w\u00fcrde. Zust\u00e4ndig f\u00fcr den Abruf sind die Polizeivollzugsbeh\u00f6rden auf Ebene der Landkreise und kreisfreien St\u00e4dte, die durch Landesrecht bestimmt werden. Die abrufende Beh\u00f6rde tr\u00e4gt die Verantwortung daf\u00fcr, dass die Voraussetzungen der Abs\u00e4tze 1 und 2 Satz 1 vorliegen. Die Polizeibeh\u00f6rden des Bundes und der L\u00e4nder, der Milit\u00e4rische Abschirmdienst, der Bundesnachrichtendienst, die Verfassungsschutzbeh\u00f6rden des Bundes und der L\u00e4nder, Steuerfahndungsdienststellen der L\u00e4nder, der Zollfahndungsdienst und die Hauptzoll\u00e4mter d\u00fcrfen das Lichtbild zur Erf\u00fcllung ihrer Aufgaben im automatisierten Verfahren abrufen. Ferner d\u00fcrfen die zur Ausstellung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">des F\u00fchrerscheins,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">des Fahrerqualifizierungsnachweises oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Fahrerkarte</LA></DD></DL>zust\u00e4ndigen Beh\u00f6rden das Lichtbild sowie die Unterschrift der antragstellenden Person im automatisierten Verfahren abrufen, wenn die antragstellende Person zuvor im Rahmen der Online-Beantragung in die elektronische \u00dcbermittlung eingewilligt hat. Die abrufende Beh\u00f6rde tr\u00e4gt die Verantwortung daf\u00fcr, dass die Voraussetzungen des Absatzes 1 vorliegen. Alle Abrufe sind von den beteiligten Beh\u00f6rden so zu protokollieren, dass eine Kontrolle der Zul\u00e4ssigkeit der Abrufe m\u00f6glich ist. Abrufe nach den S\u00e4tzen 4 und 5 werden nur von der abrufenden Beh\u00f6rde protokolliert. Die Protokolle enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname, Vornamen sowie Tag und Ort der Geburt der Person, deren Lichtbild abgerufen wurde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag und Uhrzeit des Abrufs,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung der am Abruf beteiligten Stellen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der abrufenden und der den Abruf anordnenden Person sowie</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Aktenzeichen.</LA></DD></DL>\u00a7 24 Abs. 3 Satz 5 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002701116",
+        "name": "\u00a7 26",
+        "title": "Sonstige Speicherung personenbezogener Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000500000"
+        },
+        "body": "<P>(1) Beantragung, Ausstellung und Aush\u00e4ndigung von Ausweisen d\u00fcrfen nicht zum Anlass genommen werden, die daf\u00fcr erforderlichen Angaben und biometrischen Merkmale au\u00dfer bei den ausstellenden Personalausweisbeh\u00f6rden nach \u00a7 7 Abs. 1 und 2 nach den Vorgaben der \u00a7\u00a7 23 bis 25 zu speichern. Entsprechendes gilt f\u00fcr die zur Ausstellung des Ausweises erforderlichen Antragsunterlagen sowie f\u00fcr personenbezogene Datentr\u00e4ger.</P><P>(2) Die bei der Personalausweisbeh\u00f6rde gespeicherten Fingerabdr\u00fccke sind sp\u00e4testens nach Aush\u00e4ndigung des Personalausweises an die antragstellende Person zu l\u00f6schen.</P><P>(3) Eine zentrale, alle Seriennummern umfassende Speicherung darf nur bei dem Ausweishersteller und ausschlie\u00dflich zum Nachweis des Verbleibs der Ausweise erfolgen. Abgesehen von der Sperrsumme und dem letzten Tag der G\u00fcltigkeit der jeweiligen elektronischen Identit\u00e4tsnachweise sowie den weiteren in \u00a7 19 Absatz 2 genannten Daten ist die Speicherung sonstiger personenbezogener Daten der antragstellenden Person bei dem Ausweishersteller unzul\u00e4ssig, soweit sie nicht ausschlie\u00dflich und vor\u00fcbergehend der Herstellung des Ausweises dient; die Angaben sind anschlie\u00dfend zu l\u00f6schen.</P><P>(4) Eine bundesweite Datenbank der biometrischen Merkmale wird nicht errichtet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR134610009BJNG000600000",
+        "name": "Abschnitt 6",
+        "title": "Pflichten des Ausweisinhabers; Ung\u00fcltigkeit und Entziehung des Ausweises",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002802116",
+        "name": "\u00a7 27",
+        "title": "Pflichten des Ausweisinhabers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000600000"
+        },
+        "body": "<P>(1) Der Ausweisinhaber ist verpflichtet, der Personalausweisbeh\u00f6rde unverz\u00fcglich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Ausweis vorzulegen, wenn eine Eintragung unrichtig ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Verlangen den alten Ausweis beim Empfang eines neuen Ausweises abzugeben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Verlust des Ausweises und sein Wiederauffinden anzuzeigen und im Falle des Wiederauffindens diesen vorzulegen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Erwerb einer ausl\u00e4ndischen Staatsangeh\u00f6rigkeit anzuzeigen und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">anzuzeigen, wenn er auf Grund freiwilliger Verpflichtung in die Streitkr\u00e4fte oder einen vergleichbaren bewaffneten Verband eines ausl\u00e4ndischen Staates, dessen Staatsangeh\u00f6rigkeit er besitzt, eingetreten ist.</LA></DD></DL></P><P>(2) Der Personalausweisinhaber hat zumutbare Ma\u00dfnahmen zu treffen, damit keine andere Person Kenntnis von der Geheimnummer erlangt. Die Geheimnummer darf insbesondere nicht auf dem Personalausweis vermerkt oder in anderer Weise zusammen mit diesem aufbewahrt sowie im Fall des elektronischen Identit\u00e4tsnachweises mit einem mobilen Endger\u00e4t nicht auf diesem gespeichert werden. Ist dem Personalausweisinhaber bekannt, dass die Geheimnummer Dritten zur Kenntnis gelangt ist, soll er diese unverz\u00fcglich \u00e4ndern oder die Funktion des elektronischen Identit\u00e4tsnachweises sperren lassen. Satz 3 gilt entsprechend f\u00fcr den Fall, dass dem Personalausweisinhaber bekannt wird, dass die Geheimnummer eines elektronischen Identit\u00e4tsnachweises mit einem mobilen Endger\u00e4t Dritten zur Kenntnis gelangt ist.</P><P>(3) Der Personalausweisinhaber soll durch technische und organisatorische Ma\u00dfnahmen gew\u00e4hrleisten, dass der elektronische Identit\u00e4tsnachweis gem\u00e4\u00df \u00a7 18 nur in einer Umgebung eingesetzt wird, die nach dem jeweiligen Stand der Technik als sicher anzusehen ist. Dabei soll er insbesondere solche technischen Systeme und Bestandteile einsetzen, die vom Bundesamt f\u00fcr Sicherheit in der Informationstechnik als f\u00fcr diesen Einsatzzweck sicher bewertet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE002901116",
+        "name": "\u00a7 28",
+        "title": "Ung\u00fcltigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000600000"
+        },
+        "body": "<P>(1) Ein Ausweis ist ung\u00fcltig, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>er eine einwandfreie Feststellung der Identit\u00e4t des Ausweisinhabers nicht zul\u00e4sst oder ver\u00e4ndert worden ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Eintragungen nach diesem Gesetz fehlen oder \u2013 mit Ausnahme der Angaben \u00fcber die Anschrift oder Gr\u00f6\u00dfe \u2013 unzutreffend sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die G\u00fcltigkeitsdauer abgelaufen ist oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>gegen den Ausweisinhaber eine Anordnung im Sinne des \u00a7 6a Absatz 2 ergangen ist und er den Geltungsbereich dieses Gesetzes verlassen hat.</LA></DD></DL></P><P>(2) Eine Personalausweisbeh\u00f6rde hat einen Ausweis f\u00fcr ung\u00fcltig zu erkl\u00e4ren, wenn die Voraussetzungen f\u00fcr seine Erteilung nicht vorgelegen haben oder nachtr\u00e4glich weggefallen sind.</P><P>(3) St\u00f6rungen der Funktionsf\u00e4higkeit des elektronischen Speicher- und Verarbeitungsmediums ber\u00fchren nicht die G\u00fcltigkeit des Personalausweises.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003001116",
+        "name": "\u00a7 29",
+        "title": "Sicherstellung und Einziehung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000600000"
+        },
+        "body": "<P>(1) Ein nach \u00a7 28 Abs. 1 oder Abs. 2 ung\u00fcltiger Ausweis kann eingezogen werden.</P><P>(2) Ein Ausweis kann sichergestellt werden, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine Person ihn unberechtigt besitzt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Tatsachen die Annahme rechtfertigen, dass die Voraussetzungen f\u00fcr eine Einziehung nach Absatz 1 vorliegen, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Entziehung im Sinne des \u00a7 6a Absatz 2 ergangen ist oder Tatsachen die Annahme rechtfertigen, dass ein Entziehungsgrund im Sinne des \u00a7 6a Absatz 2 vorliegt.</LA></DD></DL></P><P>(3) Eine Sicherstellung oder Einziehung ist schriftlich zu best\u00e4tigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003101116",
+        "name": "\u00a7 30",
+        "title": "Sofortige Vollziehung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000600000"
+        },
+        "body": "<P>Widerspruch und Anfechtungsklage gegen die Anordnung, dass der Ausweis nicht zum Verlassen Deutschlands berechtigt (\u00a7 6 Abs. 7), gegen die Entziehung des Ausweises und die Ausstellung eines Ersatz-Personalausweises (\u00a7 6a), gegen die Aufhebung der Berechtigung (\u00a7 21 Abs. 5), gegen die Einziehung (\u00a7 29 Abs. 1) und gegen die Sicherstellung des Ausweises (\u00a7 29 Abs. 2) haben keine aufschiebende Wirkung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR134610009BJNG000700000",
+        "name": "Abschnitt 7",
+        "title": "Geb\u00fchren und Auslagen; Bu\u00dfgeldvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003202116",
+        "name": "\u00a7 31",
+        "title": "Geb\u00fchren und Auslagen; Verordnungserm\u00e4chtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000700000"
+        },
+        "body": "<P>(1) F\u00fcr individuell zurechenbare \u00f6ffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen erheben die Personalausweisbeh\u00f6rden Geb\u00fchren und Auslagen nach den Abs\u00e4tzen 2 und 3.</P><P>(2) Die Geb\u00fchr soll die mit der individuell zurechenbaren \u00f6ffentlichen Leistung verbundenen Kosten aller an der Leistung Beteiligten decken. In die Geb\u00fchr sind die mit der Leistung regelm\u00e4\u00dfig verbundenen Auslagen einzubeziehen. Zur Ermittlung der Geb\u00fchr sind die Kosten, die nach betriebswirtschaftlichen Grunds\u00e4tzen als Einzel- und Gemeinkosten zurechenbar und ansatzf\u00e4hig sind, insbesondere Personal- und Sachkosten sowie kalkulatorische Kosten, zu Grunde zu legen. Zu den Gemeinkosten z\u00e4hlen auch die Kosten der Rechts- und Fachaufsicht. Grundlage der Geb\u00fchrenermittlung nach den S\u00e4tzen 1 bis 4 sind Kosten, die in der Gesamtheit der L\u00e4nder mit der jeweiligen Leistung verbundenen sind. \u00a7 3 Absatz 1 und 2, die \u00a7\u00a7 5 bis 7, 9 Absatz 3 bis 6 und die \u00a7\u00a7 10 bis 12 des Bundesgeb\u00fchrengesetzes gelten entsprechend.</P><P>(3) Das Bundesministerium des Innern, f\u00fcr Bau und Heimat wird erm\u00e4chtigt, f\u00fcr den Bereich der Landesverwaltung durch Rechtsverordnung mit Zustimmung des Bundesrates die geb\u00fchrenpflichtigen Tatbest\u00e4nde, die Geb\u00fchrenh\u00f6he und die Auslagenerstattung n\u00e4her zu bestimmen.</P><P>(4) Durch Besondere Geb\u00fchrenverordnung des Ausw\u00e4rtigen Amts nach \u00a7 22 Absatz 4 des Bundesgeb\u00fchrengesetzes kann bestimmt werden, dass von den Auslandsvertretungen der Bundesrepublik Deutschland f\u00fcr individuell zurechenbare \u00f6ffentliche Leistungen nach diesem Gesetz und den auf diesem Gesetz beruhenden Rechtsverordnungen zum Ausgleich von Kaufkraftunterschieden ein Zuschlag erhoben wird. Der Zuschlag kann bis zu 300 Prozent der Geb\u00fchren betragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003305116",
+        "name": "\u00a7 32",
+        "title": "Bu\u00dfgeldvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000700000"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 1 Abs. 1 Satz 1, auch in Verbindung mit Abs. 2 Satz 1, einen Ausweis nicht besitzt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 1 Abs. 1 Satz 2, auch in Verbindung mit Abs. 2 Satz 1, einen Ausweis nicht oder nicht rechtzeitig vorlegt oder einen Abgleich mit dem Lichtbild nicht oder nicht rechtzeitig erm\u00f6glicht,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 9 Abs. 2 Satz 2 einen dort genannten Antrag nicht oder nicht rechtzeitig stellt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 9 Abs. 3 Satz 1, auch in Verbindung mit Absatz 6 Satz 2, eine Angabe nicht richtig macht,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 18 Abs. 2 Satz 4 einen elektronischen Identit\u00e4tsnachweis nutzt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 20 Absatz 2 Satz 2 eine Kopie weitergibt oder</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 27 Abs. 1 Nr. 3, 4 oder Nr. 5 eine Anzeige nicht oder nicht rechtzeitig erstattet.</LA></DD></DL></P><P>(2) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ohne Berechtigung nach \u00a7 21 Absatz 1 Satz 1 Daten anfragt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 21 Absatz 2 Satz 2, auch in Verbindung mit \u00a7 21a Satz 2 oder \u00a7 21b Absatz 2 Satz 2, eine Angabe nicht richtig macht,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 21 Absatz 3 Satz 3 oder Absatz 5 Satz 1, jeweils auch in Verbindung mit \u00a7 21a Satz 2 oder \u00a7 21b Absatz 2 Satz 2, eine Berechtigung oder ein Berechtigungszertifikat verwendet,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 21 Absatz 6, auch in Verbindung mit \u00a7 21a Satz 2 oder \u00a7 21b Absatz 2 Satz 2, eine Mitteilung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">ohne Berechtigung nach \u00a7 21b Absatz 1 eine dort genannte Funktion nutzt.</LA></DD></DL></P><P>(3) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nummer 5 sowie des Absatzes 2 Nummer 1, 2, 3 und 5 mit einer Geldbu\u00dfe bis zu drei\u00dfigtausend Euro und in den \u00fcbrigen F\u00e4llen mit einer Geldbu\u00dfe bis zu dreitausend Euro geahndet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003401116",
+        "name": "\u00a7 33",
+        "title": "Bu\u00dfgeldbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000700000"
+        },
+        "body": "<P>Verwaltungsbeh\u00f6rden im Sinne des \u00a7 36 Abs. 1 Nr. 1 des Gesetzes \u00fcber Ordnungswidrigkeiten sind, soweit dieses Gesetz von Bundesbeh\u00f6rden ausgef\u00fchrt wird, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 32 Absatz 1 Nummer 2 und 5 die Bundespolizeibeh\u00f6rden jeweils f\u00fcr ihren Gesch\u00e4ftsbereich,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 32 Abs. 1 Nr. 4 das Ausw\u00e4rtige Amt f\u00fcr Ausweisangelegenheiten im Ausland,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 32 Abs. 2 Nr. 1 bis 4 die Vergabestelle f\u00fcr Berechtigungszertifikate nach \u00a7 7 Abs. 4 Satz 1.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR134610009BJNG000800000",
+        "name": "Abschnitt 8",
+        "title": "Verordnungserm\u00e4chtigung; \u00dcbergangsvorschrift",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003515116",
+        "name": "\u00a7 34",
+        "title": "Verordnungserm\u00e4chtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000800000"
+        },
+        "body": "<P>Das Bundesministerium des Innern, f\u00fcr Bau und Heimat wird erm\u00e4chtigt, mit Zustimmung des Bundesrates durch Rechtsverordnung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Muster der Ausweise zu bestimmen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten der technischen Anforderungen an die Speicherung des Lichtbildes und der Fingerabdr\u00fccke sowie den Zugriffsschutz auf die im elektronischen Speicher- und Verarbeitungsmedium abgelegten Daten zu regeln,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten zu regeln <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber das Verfahren und die technischen Anforderungen f\u00fcr die Aufnahme, die elektronische Erfassung, die Echtheitsbewertung und die Qualit\u00e4tssicherung des Lichtbilds,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">zur sicheren \u00dcbermittlung des Lichtbilds an die Personalausweisbeh\u00f6rde sowie zu einer Registrierung und Zertifizierung von Dienstleistern, welche Lichtbilder f\u00fcr die Personalausweisproduktion an die Personalausweisbeh\u00f6rde \u00fcbermitteln,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber das Verfahren und die technischen Anforderungen f\u00fcr die Aufnahme, die elektronische Erfassung, die Echtheitsbewertung und Qualit\u00e4tssicherung der Fingerabdr\u00fccke, die Reihenfolge der zu speichernden Fingerabdr\u00fccke bei Fehlen eines Zeigefingers, ungen\u00fcgender Qualit\u00e4t des Fingerabdrucks oder Verletzungen der Fingerkuppe und</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber die Form und die Einzelheiten f\u00fcr das Verfahren der \u00dcbermittlung s\u00e4mtlicher Ausweisantragsdaten von den Personalausweisbeh\u00f6rden an den Ausweishersteller,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten des Pr\u00fcfverfahrens nach \u00a7 12 Absatz 2 Satz 2 zu regeln,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Herstellung des Personalausweises und die \u00dcbermittlung von Geheimnummer, Entsperrnummer und Sperrkennwort zu regeln,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten der Aush\u00e4ndigung und den Versand des Personalausweises zu regeln,</LA></DD><DT>6a.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten zum Einschalten der Funktion zum elektronischen Identit\u00e4tsnachweis, einschlie\u00dflich des Verfahrens des nachtr\u00e4glichen Einschaltens der Funktion zum elektronischen Identit\u00e4tsnachweis durch den Ausweishersteller nach elektronisch gestellter Beantragung, zu regeln,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00c4nderung von Daten des Personalausweises wie den Namen oder die Anschrift, einschlie\u00dflich des Verfahrens der \u00c4nderung der Anschrift auf dem elektronischen Speicher- und Verarbeitungsmedium nach einer elektronischen Anmeldung gem\u00e4\u00df \u00a7 23a des Bundesmeldegesetzes, zu regeln,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten zur Nutzung des elektronischen Identit\u00e4tsnachweises und des Vor-Ort-Auslesens zu regeln,</LA></DD><DT>8a.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten zur Einrichtung und zur Nutzung des elektronischen Identit\u00e4tsnachweises mit einem mobilen Endger\u00e4t, sowie zu den technischen Anforderungen an mobile Endger\u00e4te nach \u00a7 2 Absatz 13 zu regeln,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Geheimnummer, einschlie\u00dflich des Verfahrens des Neusetzens der Geheimnummer durch den Ausweishersteller nach elektronisch gestelltem Antrag,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Sperrung und Entsperrung des elektronischen Identit\u00e4tsnachweises durch den Ausweisinhaber sowie</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Speicherung und L\u00f6schung der Sperrmerkmale und des Sperrkennworts</LA></DD></DL>festzulegen,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">die sicherheitstechnischen Rahmenbedingungen festzulegen, die vorliegen m\u00fcssen, damit \u00f6ffentliche und private Stellen ein Benutzerkonto nach \u00a7 19 Absatz 5 anlegen und betreiben d\u00fcrfen,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten der Vergabe der Berechtigungen und Berechtigungszertifikate festzulegen und</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzelheiten zur Durchf\u00fchrung von automatisierten Abrufen nach \u00a7 25 sowie zur Form und zum Inhalt der zu \u00fcbermittelnden Daten zu regeln.</LA></DD></DL>Rechtsverordnungen nach Satz 1 ergehen im Benehmen mit dem Ausw\u00e4rtigen Amt, Rechtsverordnungen nach Satz 1 Nummer 3 Buchstabe b zus\u00e4tzlich im Benehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie. In einer Rechtsverordnung nach Satz 1 Nummer 8a sind Regelungen zu Ma\u00dfnahmen gegen eine missbr\u00e4uchliche Verwendung bei der Einrichtung eines elektronischen Identit\u00e4tsnachweises mit einem mobilen Endger\u00e4t vorzusehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE004600116",
+        "name": "\u00a7 34a",
+        "title": "Regelungsbefugnisse der L\u00e4nder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000800000"
+        },
+        "body": "<P>Durch Landesrecht k\u00f6nnen zentrale Personalausweisregisterdatenbest\u00e4nde zur Speicherung des Lichtbilds und der Unterschrift f\u00fcr die Durchf\u00fchrung eines automatisierten Abrufs des Lichtbilds nach \u00a7 25 Absatz 2 Satz 1 und 4 sowie eines automatisierten Abrufs des Lichtbilds und der Unterschrift nach \u00a7 25 Absatz 2 Satz 5 eingerichtet werden. In diesem Fall gelten \u00a7 23 Absatz 4, \u00a7 25 Absatz 2 Satz 5 bis 8 und \u00a7 26 Absatz 4 entsprechend. Macht ein Land von der Regelungsbefugnis Gebrauch, hat es technisch sicherzustellen, dass die Lichtbilder und Unterschriften vor unbefugtem Zugriff gesch\u00fctzt sind. Die Lichtbilder und Unterschriften d\u00fcrfen nur so gespeichert werden, dass keine Verkn\u00fcpfung mit anderen als f\u00fcr den automatisierten Abruf ben\u00f6tigten Daten erm\u00f6glicht wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR134610009BJNE003600000",
+        "name": "\u00a7 35",
+        "title": "\u00dcbergangsvorschrift",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR134610009BJNG000800000"
+        },
+        "body": "<P>Abweichend von \u00a7 7 Abs. 2, \u00a7 8 Abs. 2, \u00a7 10 Abs. 1 Satz 4 und Abs. 2 Satz 2, \u00a7 23 Abs. 4 Satz 2 sowie \u00a7 31 Abs. 2 ist bis zum 31. Dezember 2012 f\u00fcr Deutsche mit Hauptwohnung im Ausland die Personalausweisbeh\u00f6rde nach \u00a7 7 Abs. 1 zust\u00e4ndig, in deren Bezirk er oder sie sich vor\u00fcbergehend aufh\u00e4lt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR149900002",
+    "firstPublished": "2002-04-29",
+    "sourceTimestamp": "20210702213112",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber die Satzung der Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht",
+    "abbreviation": "FinDASaV",
+    "slug": "findasav",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2002, 1499",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 1 V v. 15.5.2017 I 1194",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 1 V v. 30.6.2021 BAnz AT 30.06.2021 V1 mWv 1.7.2021 textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.5.2002 +++)<BR />(+++ Text der Satzung s. FinDASa +++)</pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR149900002BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 5 Abs. 2 und 3 des Finanzdienstleistungsaufsichtsgesetzes vom 22. April 2002 (BGBl. I S. 1310) verordnet das Bundesministerium der Finanzen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR149900002BJNE000200000",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": null,
+        "body": "<P>Die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht erh\u00e4lt die anliegende Satzung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR149900002BJNE000300000",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am 1. Mai 2002 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR149900002BJNE000500124",
+        "name": "Anlage",
+        "title": "(zu \u00a7 1)<BR />Satzung der Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht",
+        "parent": null,
+        "body": "<P><noindex>(Text der Satzung siehe: FinDASa)</noindex></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

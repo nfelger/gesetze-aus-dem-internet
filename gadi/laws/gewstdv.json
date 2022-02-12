@@ -1,0 +1,524 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR001520956",
+    "firstPublished": "1956-03-24",
+    "sourceTimestamp": "20210625213002",
+    "titleShort": null,
+    "titleLong": "Gewerbesteuer-Durchf\u00fchrungsverordnung",
+    "abbreviation": "GewStDV",
+    "slug": "gewstdv",
+    "extraAbbreviations": [
+      "GewStDV 1955"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1956, 152",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 15.10.2002 I 4180;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 7 Abs. 8 G v. 12.5.2021 I 990",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1981 +++)<BR />(+++ Zur Anwendung vgl. \u00a7 36 +++)<BR /><BR /></pre> <BR />\u00dcberschrift: IdF d. Art. 5 Nr. 1 G v. 16.5.2003 I 660 mWv 21.5.2003</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG000103301",
+        "name": "-",
+        "title": "Zu \u00a7 2 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE001704301",
+        "name": "\u00a7 1",
+        "title": "Stehender Gewerbebetrieb",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>Stehender Gewerbebetrieb ist jeder Gewerbebetrieb, der kein Reisegewerbebetrieb im Sinne des \u00a7 35a Abs. 2 des Gesetzes ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE001804140",
+        "name": "\u00a7 2",
+        "title": "Betriebe der \u00f6ffentlichen Hand",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Unternehmen von juristischen Personen des \u00f6ffentlichen Rechts sind gewerbesteuerpflichtig, wenn sie als stehende Gewerbebetriebe anzusehen sind; f\u00fcr den Umfang des Unternehmens ist \u00a7 4 Abs. 6 Satz 1 des K\u00f6rperschaftsteuergesetzes entsprechend anzuwenden. <SUP class=\"Rec\">2</SUP>Das gilt auch f\u00fcr Unternehmen, die der Versorgung der Bev\u00f6lkerung mit Wasser, Gas, Elektrizit\u00e4t oder W\u00e4rme, dem \u00f6ffentlichen Verkehr oder dem Hafenbetrieb dienen.</P><P>(2) <SUP class=\"Rec\">1</SUP>Unternehmen von juristischen Personen des \u00f6ffentlichen Rechts, die \u00fcberwiegend der Aus\u00fcbung der \u00f6ffentlichen Gewalt dienen (Hoheitsbetriebe), geh\u00f6ren unbeschadet der Vorschrift des Absatzes 1 Satz 2 nicht zu den Gewerbebetrieben. <SUP class=\"Rec\">2</SUP>F\u00fcr die Annahme eines Hoheitsbetriebs reichen Zwangs- oder Monopolrechte nicht aus.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 2 Abs. 1: Zur Anwendung vgl. \u00a7 36 Abs. 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE001903301",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002004301",
+        "name": "\u00a7 4",
+        "title": "Aufgabe, Aufl\u00f6sung und Insolvenz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>(1) Ein Gewerbebetrieb, der aufgegeben oder aufgel\u00f6st wird, bleibt Steuergegenstand bis zur Beendigung der Aufgabe oder Abwicklung.</P><P>(2) Die Gewerbesteuerpflicht wird durch die Er\u00f6ffnung des Insolvenzverfahrens \u00fcber das Verm\u00f6gen des Unternehmers nicht ber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002103301",
+        "name": "\u00a7 5",
+        "title": "Betriebsst\u00e4tten auf Schiffen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>Ein Gewerbebetrieb wird gewerbesteuerlich insoweit nicht im Inland betrieben, als f\u00fcr ihn eine Betriebsst\u00e4tte auf einem Kauffahrteischiff unterhalten wird, das im sogenannten regelm\u00e4\u00dfigen Liniendienst ausschlie\u00dflich zwischen ausl\u00e4ndischen H\u00e4fen verkehrt, auch wenn es in einem inl\u00e4ndischen Schiffsregister eingetragen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002203301",
+        "name": "\u00a7 6",
+        "title": "Binnen- und K\u00fcstenschifffahrtsbetriebe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>Bei Binnen- und K\u00fcstenschifffahrtsbetrieben, die feste \u00f6rtliche Anlagen oder Einrichtungen zur Aus\u00fcbung des Gewerbes nicht unterhalten, gilt eine Betriebsst\u00e4tte in dem Ort als vorhanden, der als Heimathafen (Heimatort) im Schiffsregister eingetragen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002304301",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002403301",
+        "name": "\u00a7 8",
+        "title": "Zusammenfassung mehrerer wirtschaftlicher Gesch\u00e4ftsbetriebe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>Werden von einer sonstigen juristischen Person des privaten Rechts oder einem nichtrechtsf\u00e4higen Verein (\u00a7 2 Abs. 3 des Gesetzes) mehrere wirtschaftliche Gesch\u00e4ftsbetriebe unterhalten, so gelten sie als ein einheitlicher Gewerbebetrieb.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002503301",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000103301"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG000203301",
+        "name": "-",
+        "title": "Zu \u00a7 3 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002603301",
+        "name": "(XXXX) \u00a7\u00a7 10 bis 12",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000203301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002704377",
+        "name": "\u00a7 12a",
+        "title": "Kleinere Versicherungsvereine",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000203301"
+        },
+        "body": "<P>Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des \u00a7 210 des Versicherungsaufsichtsgesetzes sind von der Gewerbesteuer befreit, wenn sie nach \u00a7 5 Abs. 1 Nr. 4 des K\u00f6rperschaftsteuergesetzes von der K\u00f6rperschaftsteuer befreit sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 12a: Zur Anwendung vgl. \u00a7 36 Abs. 2a (F 2015-04-01 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002803301",
+        "name": "\u00a7 13",
+        "title": "Einnehmer einer staatlichen Lotterie",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000203301"
+        },
+        "body": "<P>Die T\u00e4tigkeit der Einnehmer einer staatlichen Lotterie unterliegt auch dann nicht der Gewerbesteuer, wenn sie im Rahmen eines Gewerbebetriebs ausge\u00fcbt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG000303301",
+        "name": "-",
+        "title": "Zu \u00a7 4 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE002903301",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000303301"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE003003301",
+        "name": "\u00a7 15",
+        "title": "Hebeberechtigte Gemeinde bei Gewerbebetrieben auf Schiffen\nund bei Binnen- und K\u00fcstenschifffahrtsbetrieben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000303301"
+        },
+        "body": "<P>Hebeberechtigte Gemeinde f\u00fcr die Betriebsst\u00e4tten auf Kauffahrteischiffen, die in einem inl\u00e4ndischen Schiffsregister eingetragen sind und nicht im sogenannten regelm\u00e4\u00dfigen Liniendienst ausschlie\u00dflich zwischen ausl\u00e4ndischen H\u00e4fen verkehren, und f\u00fcr die in \u00a7 6 bezeichneten Binnen- und K\u00fcstenschifffahrtsbetriebe ist die Gemeinde, in der der inl\u00e4ndische Heimathafen (Heimatort) des Schiffes liegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG000403301",
+        "name": "-",
+        "title": "Zu den \u00a7\u00a7 7, 8 und 9 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE003105301",
+        "name": "\u00a7 16",
+        "title": "Gewerbeertrag bei Abwicklung und Insolvenz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000403301"
+        },
+        "body": "<P>(1) Der Gewerbeertrag, der bei einem in der Abwicklung befindlichen Gewerbebetrieb im Sinne des \u00a7 2 Abs. 2 des Gesetzes im Zeitraum der Abwicklung entstanden ist, ist auf die Jahre des Abwicklungszeitraums zu verteilen.</P><P>(2) Das gilt entsprechend f\u00fcr Gewerbebetriebe, wenn \u00fcber das Verm\u00f6gen des Unternehmens ein Insolvenzverfahren er\u00f6ffnet worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE003204301",
+        "name": "(XXXX) \u00a7\u00a7 17 und 18",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000403301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG000604301",
+        "name": "-",
+        "title": "Zu \u00a7 8 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE003416123",
+        "name": "\u00a7 19",
+        "title": "Schulden bestimmter Unternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000604301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Bei Kreditinstituten im Sinne des \u00a7 1 Absatz 1 in Verbindung mit \u00a7 2 Absatz 1 des Kreditwesengesetzes sind nur Entgelte f\u00fcr Schulden und den Entgelten gleichgestellte Betr\u00e4ge anzusetzen, die dem Betrag der Schulden entsprechen, um den der Ansatz der zum Anlageverm\u00f6gen geh\u00f6renden Grundst\u00fccke, Geb\u00e4ude, Betriebs- und Gesch\u00e4ftsausstattung, Schiffe, Anteile an Kreditinstituten und sonstigen Unternehmen sowie der Forderungen aus Verm\u00f6genseinlagen als stiller Gesellschafter und aus Genussrechten das Eigenkapital \u00fcberschreitet; hierunter fallen nicht Gegenst\u00e4nde, \u00fcber die Leasingvertr\u00e4ge abgeschlossen worden sind. <SUP class=\"Rec\">2</SUP>Dem Anlageverm\u00f6gen nach Satz 1 sind Forderungen gegen ein Unternehmen hinzuzurechnen, mit dem eine organschaftliche Verbindung nach \u00a7 2 Abs. 2 Satz 2 des Gesetzes besteht und das nicht zu den Kreditinstituten oder Unternehmen geh\u00f6rt, auf die Satz 1 und die Abs\u00e4tze 2 bis 4 anzuwenden sind.</P><P>(2) <SUP class=\"Rec\">1</SUP>Voraussetzung f\u00fcr die Anwendung des Absatzes 1 ist, dass im Durchschnitt aller Monatsausweise des Wirtschaftsjahrs des Kreditinstituts nach \u00a7 25 des Kreditwesengesetzes oder entsprechender Statistiken die Aktivposten aus Bankgesch\u00e4ften und dem Erwerb von Geldforderungen die Aktivposten aus anderen Gesch\u00e4ften \u00fcberwiegen. <SUP class=\"Rec\">2</SUP>In den Vergleich sind Aktivposten aus Anlagen nach Absatz 1 nicht einzubeziehen.</P><P>(3) Die vorstehenden Bestimmungen gelten entsprechend <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Pfandleiher im Sinne der Pfandleiherverordnung in der Fassung der Bekanntmachung vom 1. Juni 1976 (BGBl. I S. 1334) in der jeweils geltenden Fassung;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Gewerbebetriebe, die nachweislich ausschlie\u00dflich unmittelbar oder mittelbar Kredite oder Kreditrisiken aus Bankgesch\u00e4ften im Sinne des \u00a7 1 Abs. 1 Satz 2 Nr. 2, 3 und 8 des Kreditwesengesetzes in der Fassung des Artikels 27 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) von Kreditinstituten im Sinne des \u00a7 1 des Kreditwesengesetzes oder von in \u00a7 3 Nr. 2 des Gesetzes genannten Gewerbebetrieben erwerben und Schuldtitel zur Refinanzierung des Kaufpreises f\u00fcr den Erwerb solcher Kredite oder zur Refinanzierung von f\u00fcr die Risiko\u00fcbernahmen zu stellenden Sicherheiten ausgeben; die Refinanzierung durch Aufnahme von Darlehen von Gewerbebetrieben im Sinne der Nummer 3 an der Stelle der Ausgabe von Schuldtiteln ist unsch\u00e4dlich, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Gewerbebetriebe, die nachweislich ausschlie\u00dflich Schuldtitel bezogen auf die in Nummer 2 bezeichneten Kredite oder Kreditrisiken ausgeben und an Gewerbebetriebe im Sinne der Nummer 2 Darlehen gew\u00e4hren.</LA></DD></DL></P><P>(4) <SUP class=\"Rec\">1</SUP>Bei Finanzdienstleistungsinstituten im Sinne des \u00a7 1 Absatz 1a des Kreditwesengesetzes, die mit Ausnahme der Unternehmen im Sinne des \u00a7 2 Absatz 6 Nummer 17 des Kreditwesengesetzes nicht der Ausnahmeregelung des \u00a7 2 Absatz 6 des Kreditwesengesetzes unterliegen, bei Wertpapierinstituten im Sinne des \u00a7 2 Absatz 1 des Wertpapierinstitutsgesetzes sowie bei Zahlungsinstituten im Sinne des \u00a7 1 Absatz 1 Satz 1 Nummer 1 des Zahlungsdiensteaufsichtsgesetzes unterbleibt eine Hinzurechnung von Entgelten f\u00fcr Schulden und ihnen gleichgestellten Betr\u00e4gen nach \u00a7 8 Nummer 1 Buchstabe a des Gesetzes, soweit die Entgelte und ihnen gleichgestellten Betr\u00e4ge unmittelbar auf Finanzdienstleistungen im Sinne des \u00a7 1 Absatz 1a Satz 2 des Kreditwesengesetzes, Wertpapierdienstleistungen im Sinne des \u00a7 2 Absatz 2 des Wertpapierinstitutsgesetzes oder Zahlungsdienste im Sinne des \u00a7 1 Absatz 1 Satz 2 Nummer 3 Buchstabe b und Nummer 6 des Zahlungsdiensteaufsichtsgesetzes entfallen. <SUP class=\"Rec\">2</SUP>Satz 1 ist nur anzuwenden, wenn die Ums\u00e4tze des Finanzdienstleistungsinstituts zu mindestens 50 Prozent auf Finanzdienstleistungen, des Wertpapierinstituts zu mindestens 50 Prozent auf Wertpapierdienstleistungen, Wertpapiernebendienstleistungen und Nebengesch\u00e4fte im Sinne des \u00a7 2 Absatz 2 bis 4 des Wertpapierinstitutsgesetzes und die Ums\u00e4tze des Zahlungsinstituts zu mindestens 50 Prozent auf Zahlungsdienste entfallen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 19: Zur Anwendung vgl. \u00a7 36 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG000703301",
+        "name": "-",
+        "title": "Zu \u00a7 9 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE003504301",
+        "name": "\u00a7 20",
+        "title": "Grundbesitz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000703301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Die Frage, ob und inwieweit im Sinne des \u00a7 9 Nr. 1 des Gesetzes Grundbesitz zum Betriebsverm\u00f6gen des Unternehmers geh\u00f6rt, ist nach den Vorschriften des Einkommensteuergesetzes oder des K\u00f6rperschaftsteuergesetzes zu entscheiden. <SUP class=\"Rec\">2</SUP>Ma\u00dfgebend ist dabei der Stand zu Beginn des Kalenderjahrs.</P><P>(2) Geh\u00f6rt der Grundbesitz nur zum Teil zum Betriebsverm\u00f6gen im Sinne des Absatzes 1, so ist der K\u00fcrzung nach \u00a7 9 Nr. 1 des Gesetzes nur der entsprechende Teil des Einheitswerts zugrunde zu legen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE003605301",
+        "name": "\u00a7 21",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000703301"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG000903301",
+        "name": "-",
+        "title": "Zu \u00a7 11 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE003704301",
+        "name": "\u00a7 22",
+        "title": "Hausgewerbetreibende und ihnen gleichgestellte Personen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000903301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Betreibt ein Hausgewerbetreibender oder eine ihm gleichgestellte Person noch eine andere gewerbliche T\u00e4tigkeit und sind beide T\u00e4tigkeiten als eine Einheit anzusehen, so ist \u00a7 11 Abs. 3 des Gesetzes nur anzuwenden, wenn die andere T\u00e4tigkeit nicht \u00fcberwiegt. <SUP class=\"Rec\">2</SUP>Die Verg\u00fcnstigung gilt in diesem Fall f\u00fcr den gesamten Gewerbeertrag.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE003903301",
+        "name": "(XXXX) \u00a7\u00a7 23 und 24",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG000903301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG001104301",
+        "name": "-",
+        "title": "Zu \u00a7 14a des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE004014123",
+        "name": "\u00a7 25",
+        "title": "Gewerbesteuererkl\u00e4rung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG001104301"
+        },
+        "body": "<P>(1) Eine Gewerbesteuererkl\u00e4rung ist abzugeben <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr alle gewerbesteuerpflichtigen Unternehmen, deren Gewerbeertrag im Erhebungszeitraum den Betrag von 24\u00a0500 Euro \u00fcberstiegen hat;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Kapitalgesellschaften (Aktiengesellschaften, Kommanditgesellschaften auf Aktien, Gesellschaften mit beschr\u00e4nkter Haftung), wenn sie nicht von der Gewerbesteuer befreit sind;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Genossenschaften einschlie\u00dflich Europ\u00e4ischer Genossenschaften und f\u00fcr Versicherungsvereine auf Gegenseitigkeit, wenn sie nicht von der Gewerbesteuer befreit sind. F\u00fcr sonstige juristische Personen des privaten Rechts und f\u00fcr nichtrechtsf\u00e4hige Vereine ist eine Gewerbesteuererkl\u00e4rung nur abzugeben, soweit diese Unternehmen einen wirtschaftlichen Gesch\u00e4ftsbetrieb - ausgenommen Land- und Forstwirtschaft - unterhalten, dessen Gewerbeertrag im Erhebungszeitraum den Betrag von 5\u00a0000 Euro \u00fcberstiegen hat;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Unternehmen von juristischen Personen des \u00f6ffentlichen Rechts, wenn sie als stehende Gewerbebetriebe anzusehen sind und ihr Gewerbeertrag im Erhebungszeitraum den Betrag von 5\u00a0000 Euro \u00fcberstiegen hat;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Unternehmen im Sinne des \u00a7 3 Nr. 5, 6, 8, 9, 15, 17, 21, 26, 27, 28, und 29 des Gesetzes nur, wenn sie neben der von der Gewerbesteuer befreiten T\u00e4tigkeit auch eine der Gewerbesteuer unterliegende T\u00e4tigkeit ausge\u00fcbt haben und ihr steuerpflichtiger Gewerbeertrag im Erhebungszeitraum den Betrag von 5\u00a0000 Euro \u00fcberstiegen hat;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Unternehmen, f\u00fcr die zum Schluss des vorangegangenen Erhebungszeitraums vortragsf\u00e4hige Fehlbetr\u00e4ge gesondert festgestellt worden sind;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr alle gewerbesteuerpflichtigen Unternehmen, f\u00fcr die vom Finanzamt eine Gewerbesteuererkl\u00e4rung besonders verlangt wird.</LA></DD></DL></P><P>(2) <SUP class=\"Rec\">1</SUP>Die Steuererkl\u00e4rung ist sp\u00e4testens an dem von den obersten Finanzbeh\u00f6rden der L\u00e4nder bestimmten Zeitpunkt abzugeben. <SUP class=\"Rec\">2</SUP>Das Recht des Finanzamts, schon vor diesem Zeitpunkt Angaben zu verlangen, die f\u00fcr die Besteuerung von Bedeutung sind, bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE004203301",
+        "name": "(XXXX) \u00a7\u00a7 26 bis 28",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG001104301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG001203301",
+        "name": "-",
+        "title": "Zu \u00a7 19 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE004306301",
+        "name": "\u00a7 29",
+        "title": "Anpassung und erstmalige Festsetzung der Vorauszahlungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG001203301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Setzt das Finanzamt nach \u00a7 19 Abs. 3 Satz 3 des Gesetzes einen Steuermessbetrag f\u00fcr Zwecke der Gewerbesteuer-Vorauszahlungen fest, so braucht ein Zerlegungsbescheid nicht erteilt zu werden. <SUP class=\"Rec\">2</SUP>Die hebeberechtigten Gemeinden k\u00f6nnen an dem Steuermessbetrag in demselben Verh\u00e4ltnis beteiligt werden, nach dem die Zerlegungsanteile in dem unmittelbar vorangegangenen Zerlegungsbescheid festgesetzt sind. <SUP class=\"Rec\">3</SUP>Das Finanzamt hat in diesem Fall gleichzeitig mit der Festsetzung des Steuermessbetrags den hebeberechtigten Gemeinden mitzuteilen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Prozentsatz, um den sich der Steuermessbetrag gegen\u00fcber dem in der Mitteilung \u00fcber die Zerlegung (\u00a7 188 Abs. 1 der Abgabenordnung) angegebenen Steuermessbetrag erh\u00f6ht oder erm\u00e4\u00dfigt, oder den Zerlegungsanteil,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Erhebungszeitraum, f\u00fcr den die \u00c4nderung erstmals gilt.</LA></DD> </DL> </P><P>(2) <SUP class=\"Rec\">1</SUP>In den F\u00e4llen des \u00a7 19 Abs. 4 des Gesetzes hat das Finanzamt erforderlichenfalls den Steuermessbetrag f\u00fcr Zwecke der Gewerbesteuer-Vorauszahlungen zu zerlegen. <SUP class=\"Rec\">2</SUP>Das Gleiche gilt in den F\u00e4llen des \u00a7 19 Abs. 3 des Gesetzes, wenn an den Vorauszahlungen nicht dieselben Gemeinden beteiligt sind, die nach dem unmittelbar vorangegangenen Zerlegungsbescheid beteiligt waren. <SUP class=\"Rec\">3</SUP>Bei der Zerlegung sind die mutma\u00dflichen Arbeitsl\u00f6hne des Erhebungszeitraums anzusetzen, f\u00fcr den die Festsetzung der Vorauszahlungen erstmals gilt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE004403301",
+        "name": "\u00a7 30",
+        "title": "Verlegung von Betriebsst\u00e4tten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG001203301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Wird eine Betriebsst\u00e4tte in eine andere Gemeinde verlegt, so sind die Vorauszahlungen in dieser Gemeinde von dem auf die Verlegung folgenden F\u00e4lligkeitstag ab zu entrichten. <SUP class=\"Rec\">2</SUP>Das gilt nicht, wenn in der Gemeinde, aus der die Betriebsst\u00e4tte verlegt wird, mindestens eine Betriebsst\u00e4tte des Unternehmens bestehen bleibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE004503301",
+        "name": "(XXXX) \u00a7\u00a7 31 bis 33",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG001203301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG001403301",
+        "name": "-",
+        "title": "Zu \u00a7 34 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE004804301",
+        "name": "\u00a7 34",
+        "title": "Kleinbetr\u00e4ge bei Verlegung der Gesch\u00e4ftsleitung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG001403301"
+        },
+        "body": "<P>Hat das Unternehmen die Gesch\u00e4ftsleitung im Laufe des Erhebungszeitraums in eine andere Gemeinde verlegt, so ist der Kleinbetrag der Gemeinde zuzuweisen, in der sich die Gesch\u00e4ftsleitung am Ende des Erhebungszeitraums befindet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG001503301",
+        "name": "-",
+        "title": "Zu \u00a7 35a des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE004904301",
+        "name": "\u00a7 35",
+        "title": "Reisegewerbebetriebe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG001503301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Der Mittelpunkt der gewerblichen T\u00e4tigkeit befindet sich in der Gemeinde, von der aus die gewerbliche T\u00e4tigkeit vorwiegend ausge\u00fcbt wird. <SUP class=\"Rec\">2</SUP>Das ist in der Regel die Gemeinde, in der sich der Wohnsitz des Reisegewerbetreibenden befindet. <SUP class=\"Rec\">3</SUP>In Ausnahmef\u00e4llen ist Mittelpunkt eine ausw\u00e4rtige Gemeinde, wenn die gewerbliche T\u00e4tigkeit von dieser Gemeinde (z. B. von einem B\u00fcro oder Warenlager) aus vorwiegend ausge\u00fcbt wird. <SUP class=\"Rec\">4</SUP>Ist der Mittelpunkt der gewerblichen T\u00e4tigkeit nicht feststellbar, so ist die Gemeinde hebeberechtigt, in der der Unternehmer polizeilich gemeldet oder meldepflichtig ist.</P><P>(2) Eine Zerlegung des Steuermessbetrags auf die Gemeinden, in denen das Gewerbe ausge\u00fcbt worden ist, unterbleibt.</P><P>(3) <SUP class=\"Rec\">1</SUP>Der Steuermessbetrag ist im Fall des \u00a7 35a Abs. 4 des Gesetzes nach dem Anteil der Kalendermonate auf die hebeberechtigten Gemeinden zu zerlegen. <SUP class=\"Rec\">2</SUP>Kalendermonate, in denen die Steuerpflicht nur w\u00e4hrend eines Teils bestanden hat, sind voll zu rechnen. <SUP class=\"Rec\">3</SUP>Der Anteil f\u00fcr den Kalendermonat, in dem der Mittelpunkt der gewerblichen T\u00e4tigkeit verlegt worden ist, ist der Gemeinde zuzuteilen, in der sich der Mittelpunkt in diesem Kalendermonat die l\u00e4ngste Zeit befunden hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001520956BJNG001603301",
+        "name": "-",
+        "title": "Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001520956BJNE005024123",
+        "name": "\u00a7 36",
+        "title": "Zeitlicher Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001520956BJNG001603301"
+        },
+        "body": "<P>Die vorstehende Fassung dieser Verordnung ist erstmals f\u00fcr den Erhebungszeitraum 2021 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

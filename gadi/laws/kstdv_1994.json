@@ -1,0 +1,179 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR008480977",
+    "firstPublished": "1977-06-14",
+    "sourceTimestamp": "20160101220151",
+    "titleShort": null,
+    "titleLong": "K\u00f6rperschaftsteuer-Durchf\u00fchrungsverordnung 1994",
+    "abbreviation": "KStDV 1994",
+    "slug": "kstdv_1994",
+    "extraAbbreviations": [
+      "KStDV 1977"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1977, 848",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 22.2.1996 I 365;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 2 Abs. 11 G v. 1.4.2015 I 434",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 24.6.1977 +++)<BR />(+++ Zur Anwendung vgl. \u00a7 6 +++)<BR /><BR /></pre> <BR />\u00dcberschrift: IdF d. Bek. v. 22.2.1996 I 365 mWv 18.12.1993</P><P><BR /> Die V wurde aufgrund des \u00a7 53 Abs. 1 des K\u00f6rperschaftsteuergesetzes vom 31.8.1976 (BGBl. I S. 2597, 2599) von der Bundesregierung erlassen.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR008480977BJNG000102301",
+        "name": "-",
+        "title": "Zu \u00a7 5 Abs. 1 Nr. 3 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008480977BJNE000502301",
+        "name": "\u00a7 1",
+        "title": "Allgemeines",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008480977BJNG000102301"
+        },
+        "body": "<P>Rechtsf\u00e4hige Pensions-, Sterbe-, Kranken- und Unterst\u00fctzungskassen sind nur dann eine soziale Einrichtung im Sinne des \u00a7 5 Abs. 1 Nr. 3 Buchstabe b des Gesetzes, wenn sie die folgenden Voraussetzungen erf\u00fcllen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Leistungsempf\u00e4nger d\u00fcrfen sich in der Mehrzahl nicht aus dem Unternehmer oder dessen Angeh\u00f6rigen und bei Gesellschaften in der Mehrzahl nicht aus den Gesellschaftern oder deren Angeh\u00f6rigen zusammensetzen.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bei Aufl\u00f6sung der Kasse darf ihr Verm\u00f6gen vorbehaltlich der Regelung in \u00a7 6 des Gesetzes satzungsm\u00e4\u00dfig nur den Leistungsempf\u00e4ngern oder deren Angeh\u00f6rigen zugute kommen oder f\u00fcr ausschlie\u00dflich gemeinn\u00fctzige oder mildt\u00e4tige Zwecke verwendet werden.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Au\u00dferdem m\u00fcssen bei Kassen mit Rechtsanspruch der Leistungsempf\u00e4nger die Voraussetzungen des \u00a7 2, bei Kassen ohne Rechtsanspruch der Leistungsempf\u00e4nger die Voraussetzungen des \u00a7 3 erf\u00fcllt sein.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008480977BJNE000605301",
+        "name": "\u00a7 2",
+        "title": "Kassen mit Rechtsanspruch der Leistungsempf\u00e4nger",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008480977BJNG000102301"
+        },
+        "body": "<P>(1) Bei rechtsf\u00e4higen Pensions- oder Sterbekassen, die den Leistungsempf\u00e4ngern einen Rechtsanspruch gew\u00e4hren, d\u00fcrfen die jeweils erreichten Rechtsanspr\u00fcche der Leistungsempf\u00e4nger vorbehaltlich des Absatzes 2 die folgenden Betr\u00e4ge nicht \u00fcbersteigen: <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"25*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"20*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"40*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">als Pension</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">25.769 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">j\u00e4hrlich,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">als Witwengeld</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">17.179 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">j\u00e4hrlich,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">als Waisengeld</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">5.154 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">j\u00e4hrlich f\u00fcr jede Halbwaise,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">10.308 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">j\u00e4hrlich f\u00fcr jede Vollwaise,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">als Sterbegeld</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">7.669 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">als Gesamtleistung.</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P><P>(2) Die jeweils erreichten Rechtsanspr\u00fcche, mit Ausnahme des Anspruchs auf Sterbegeld, d\u00fcrfen in nicht mehr als 12 vom Hundert aller F\u00e4lle auf h\u00f6here als die in Absatz 1 bezeichneten Betr\u00e4ge gerichtet sein. Dies gilt in nicht mehr als 4 vom Hundert aller F\u00e4lle uneingeschr\u00e4nkt. Im \u00dcbrigen d\u00fcrfen die jeweils erreichten Rechtsanspr\u00fcche die folgenden Betr\u00e4ge nicht \u00fcbersteigen: <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"25*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"20*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"40*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">als Pension</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">38.654 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">j\u00e4hrlich,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">als Witwengeld</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">25.769 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">j\u00e4hrlich,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">als Waisengeld</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">7.731 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">j\u00e4hrlich f\u00fcr jede Halbwaise,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">15.461 Euro</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">j\u00e4hrlich f\u00fcr jede Vollwaise.</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008480977BJNE000702301",
+        "name": "\u00a7 3",
+        "title": "Kassen ohne Rechtsanspruch der Leistungsempf\u00e4nger",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008480977BJNG000102301"
+        },
+        "body": "<P>Rechtsf\u00e4hige Unterst\u00fctzungskassen, die den Leistungsempf\u00e4ngern keinen Rechtsanspruch gew\u00e4hren, m\u00fcssen die folgenden Voraussetzungen erf\u00fcllen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Leistungsempf\u00e4nger d\u00fcrfen zu laufenden Beitr\u00e4gen oder zu sonstigen Zusch\u00fcssen nicht verpflichtet sein.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Den Leistungsempf\u00e4ngern oder den Arbeitnehmervertretungen des Betriebs oder der Dienststelle mu\u00df satzungsgem\u00e4\u00df und tats\u00e4chlich das Recht zustehen, an der Verwaltung s\u00e4mtlicher Betr\u00e4ge, die der Kasse zuflie\u00dfen, beratend mitzuwirken.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die laufenden Leistungen und das Sterbegeld d\u00fcrfen die in \u00a7 2 bezeichneten Betr\u00e4ge nicht \u00fcbersteigen.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008480977BJNG000202301",
+        "name": "-",
+        "title": "Zu \u00a7 5 Abs. 1 Nr. 4 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008480977BJNE000806377",
+        "name": "\u00a7 4",
+        "title": "Kleinere Versicherungsvereine",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008480977BJNG000202301"
+        },
+        "body": "<P>Kleinere Versicherungsvereine auf Gegenseitigkeit im Sinne des \u00a7 210 des Versicherungsaufsichtsgesetzes sind von der K\u00f6rperschaftsteuer befreit, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Beitragseinnahmen im Durchschnitt der letzten drei Wirtschaftsjahre einschlie\u00dflich des im Veranlagungszeitraum endenden Wirtschaftsjahrs die folgenden Jahresbetr\u00e4ge nicht \u00fcberstiegen haben:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">797.615 Euro bei Versicherungsvereinen, die die Lebensversicherung oder die Krankenversicherung betreiben,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">306.775 Euro bei allen \u00fcbrigen Versicherungsvereinen, oder</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich ihr Gesch\u00e4ftsbetrieb auf die Sterbegeldversicherung beschr\u00e4nkt und sie im \u00fcbrigen die Voraussetzungen des \u00a7 1 erf\u00fcllen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008480977BJNG000401301",
+        "name": "-",
+        "title": "Zu \u00a7 26 Abs. 3 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008480977BJNE001202140",
+        "name": "\u00a7 5",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008480977BJNG000401301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008480977BJNG000303301",
+        "name": "-",
+        "title": "Schlu\u00dfvorschrift",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008480977BJNE000907377",
+        "name": "\u00a7 6",
+        "title": "Anwendungszeitraum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008480977BJNG000303301"
+        },
+        "body": "<P>Die K\u00f6rperschaftsteuer-Durchf\u00fchrungsverordnung in der am 1. Januar 2016 geltenden Fassung ist erstmals f\u00fcr den Veranlagungszeitraum 2016 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008480977BJNE001102301",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008480977BJNG000303301"
+        },
+        "body": "<P>(Inkrafttreten)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008480977BJNE001302140",
+        "name": "Anlage",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008480977BJNG000303301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

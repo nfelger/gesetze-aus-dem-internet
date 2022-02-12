@@ -1,0 +1,307 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR225410002",
+    "firstPublished": "2002-06-26",
+    "sourceTimestamp": "20170307213023",
+    "titleShort": null,
+    "titleLong": "V\u00f6lkerstrafgesetzbuch",
+    "abbreviation": "VStGB",
+    "slug": "vstgb",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2002, 2254",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 1 G v. 22.12.2016 I 3150",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 30. 6.2002 +++)<BR /><BR /></pre>Das G wurde als Artikel 1 des G v. 26.6.2002 I 2254 vom Bundestag beschlossen. Es ist gem. Art. 8 dieses G am 30.6.2002 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR225410002BJNG000200000",
+        "name": "Teil 1",
+        "title": "Allgemeine Regelungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000101123",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000200000"
+        },
+        "body": "<P>Dieses Gesetz gilt f\u00fcr alle in ihm bezeichneten Straftaten gegen das V\u00f6lkerrecht, f\u00fcr Taten nach den \u00a7\u00a7 6 bis 12 auch dann, wenn die Tat im Ausland begangen wurde und keinen Bezug zum Inland aufweist. F\u00fcr Taten nach \u00a7 13, die im Ausland begangen wurden, gilt dieses Gesetz unabh\u00e4ngig vom Recht des Tatorts, wenn der T\u00e4ter Deutscher ist oder die Tat sich gegen die Bundesrepublik Deutschland richtet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000201123",
+        "name": "\u00a7 2",
+        "title": "Anwendung des allgemeinen Rechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000200000"
+        },
+        "body": "<P>Auf Taten nach diesem Gesetz findet das allgemeine Strafrecht Anwendung, soweit dieses Gesetz nicht in den \u00a7\u00a7 1, 3 bis 5 und 13 Absatz 4 besondere Bestimmungen trifft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000301123",
+        "name": "\u00a7 3",
+        "title": "Handeln auf Befehl oder Anordnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000200000"
+        },
+        "body": "<P>Ohne Schuld handelt, wer eine Tat nach den \u00a7\u00a7 8 bis 15 in Ausf\u00fchrung eines milit\u00e4rischen Befehls oder einer Anordnung von vergleichbarer tats\u00e4chlicher Bindungswirkung begeht, sofern der T\u00e4ter nicht erkennt, dass der Befehl oder die Anordnung rechtswidrig ist und deren Rechtswidrigkeit auch nicht offensichtlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Verantwortlichkeit milit\u00e4rischer Befehlshaber und anderer Vorgesetzter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000200000"
+        },
+        "body": "<P>(1) Ein milit\u00e4rischer Befehlshaber oder ziviler Vorgesetzter, der es unterl\u00e4sst, seinen Untergebenen daran zu hindern, eine Tat nach diesem Gesetz zu begehen, wird wie ein T\u00e4ter der von dem Untergebenen begangenen Tat bestraft. \u00a7 13 Abs. 2 des Strafgesetzbuches findet in diesem Fall keine Anwendung.</P><P>(2) Einem milit\u00e4rischen Befehlshaber steht eine Person gleich, die in einer Truppe tats\u00e4chliche Befehls- oder F\u00fchrungsgewalt und Kontrolle aus\u00fcbt. Einem zivilen Vorgesetzten steht eine Person gleich, die in einer zivilen Organisation oder einem Unternehmen tats\u00e4chliche F\u00fchrungsgewalt und Kontrolle aus\u00fcbt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Unverj\u00e4hrbarkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000200000"
+        },
+        "body": "<P>Die Verfolgung von Verbrechen nach diesem Gesetz und die Vollstreckung der wegen ihnen verh\u00e4ngten Strafen verj\u00e4hren nicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR225410002BJNG000300000",
+        "name": "Teil 2",
+        "title": "Straftaten gegen das V\u00f6lkerrecht",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR225410002BJNG000400000",
+        "name": "Abschnitt 1",
+        "title": "V\u00f6lkermord und Verbrechen gegen die\nMenschlichkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000300000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "V\u00f6lkermord",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000400000"
+        },
+        "body": "<P>(1) Wer in der Absicht, eine nationale, rassische, religi\u00f6se oder ethnische Gruppe als solche ganz oder teilweise zu zerst\u00f6ren, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Mitglied der Gruppe t\u00f6tet,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Mitglied der Gruppe schwere k\u00f6rperliche oder seelische Sch\u00e4den, insbesondere der in \u00a7 226 des Strafgesetzbuches bezeichneten Art, zuf\u00fcgt,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gruppe unter Lebensbedingungen stellt, die geeignet sind, ihre k\u00f6rperliche Zerst\u00f6rung ganz oder teilweise herbeizuf\u00fchren,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ma\u00dfregeln verh\u00e4ngt, die Geburten innerhalb der Gruppe verhindern sollen,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Kind der Gruppe gewaltsam in eine andere Gruppe \u00fcberf\u00fchrt,</LA></DD> </DL>wird mit lebenslanger Freiheitsstrafe bestraft.</P><P>(2) In minder schweren F\u00e4llen des Absatzes 1 Nr. 2 bis 5 ist die Strafe Freiheitsstrafe nicht unter f\u00fcnf Jahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Verbrechen gegen die Menschlichkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000400000"
+        },
+        "body": "<P>(1) Wer im Rahmen eines ausgedehnten oder systematischen Angriffs gegen eine Zivilbev\u00f6lkerung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Menschen t\u00f6tet,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Absicht, eine Bev\u00f6lkerung ganz oder teilweise zu zerst\u00f6ren, diese oder Teile hiervon unter Lebensbedingungen stellt, die geeignet sind, deren Zerst\u00f6rung ganz oder teilweise herbeizuf\u00fchren,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Menschenhandel betreibt, insbesondere mit einer Frau oder einem Kind, oder wer auf andere Weise einen Menschen versklavt und sich dabei ein Eigentumsrecht an ihm anma\u00dft,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Menschen, der sich rechtm\u00e4\u00dfig in einem Gebiet aufh\u00e4lt, vertreibt oder zwangsweise \u00fcberf\u00fchrt, indem er ihn unter Versto\u00df gegen eine allgemeine Regel des V\u00f6lkerrechts durch Ausweisung oder andere Zwangsma\u00dfnahmen in einen anderen Staat oder in ein anderes Gebiet verbringt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Menschen, der sich in seinem Gewahrsam oder in sonstiger Weise unter seiner Kontrolle befindet, foltert, indem er ihm erhebliche k\u00f6rperliche oder seelische Sch\u00e4den oder Leiden zuf\u00fcgt, die nicht lediglich Folge v\u00f6lkerrechtlich zul\u00e4ssiger Sanktionen sind,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen anderen Menschen sexuell n\u00f6tigt oder vergewaltigt, ihn zur Prostitution n\u00f6tigt, der Fortpflanzungsf\u00e4higkeit beraubt oder in der Absicht, die ethnische Zusammensetzung einer Bev\u00f6lkerung zu beeinflussen, eine unter Anwendung von Zwang geschw\u00e4ngerte Frau gefangen h\u00e4lt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Menschen dadurch zwangsweise verschwinden l\u00e4sst, dass er in der Absicht, ihn f\u00fcr l\u00e4ngere Zeit dem Schutz des Gesetzes zu entziehen,<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">ihn im Auftrag oder mit Billigung eines Staates oder einer politischen Organisation entf\u00fchrt oder sonst in schwerwiegender Weise der k\u00f6rperlichen Freiheit beraubt, ohne dass im Weiteren auf Nachfrage unverz\u00fcglich wahrheitsgem\u00e4\u00df Auskunft \u00fcber sein Schicksal und seinen Verbleib erteilt wird, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">sich im Auftrag des Staates oder der politischen Organisation oder entgegen einer Rechtspflicht weigert, unverz\u00fcglich Auskunft \u00fcber das Schicksal und den Verbleib des Menschen zu erteilen, der unter den Voraussetzungen des Buchstaben a seiner k\u00f6rperlichen Freiheit beraubt wurde, oder eine falsche Auskunft dazu erteilt,</LA></DD></DL></LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem anderen Menschen schwere k\u00f6rperliche oder seelische Sch\u00e4den, insbesondere der in \u00a7 226 des Strafgesetzbuches bezeichneten Art, zuf\u00fcgt,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Menschen unter Versto\u00df gegen eine allgemeine Regel des V\u00f6lkerrechts in schwerwiegender Weise der k\u00f6rperlichen Freiheit beraubt oder</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine identifizierbare Gruppe oder Gemeinschaft verfolgt, indem er ihr aus politischen, rassischen, nationalen, ethnischen, kulturellen oder religi\u00f6sen Gr\u00fcnden, aus Gr\u00fcnden des Geschlechts oder aus anderen nach den allgemeinen Regeln des V\u00f6lkerrechts als unzul\u00e4ssig anerkannten Gr\u00fcnden grundlegende Menschenrechte entzieht oder diese wesentlich einschr\u00e4nkt,</LA></DD></DL>wird in den F\u00e4llen der Nummern 1 und 2 mit lebenslanger Freiheitsstrafe, in den F\u00e4llen der Nummern 3 bis 7 mit Freiheitsstrafe nicht unter f\u00fcnf Jahren und in den F\u00e4llen der Nummern 8 bis 10 mit Freiheitsstrafe nicht unter drei Jahren bestraft.</P><P>(2) In minder schweren F\u00e4llen des Absatzes 1 Nr. 2 ist die Strafe Freiheitsstrafe nicht unter f\u00fcnf Jahren, in minder schweren F\u00e4llen des Absatzes 1 Nr. 3 bis 7 Freiheitsstrafe nicht unter zwei Jahren und in minder schweren F\u00e4llen des Absatzes 1 Nr. 8 und 9 Freiheitsstrafe nicht unter einem Jahr.</P><P>(3) Verursacht der T\u00e4ter durch eine Tat nach Absatz 1 Nr. 3 bis 10 den Tod eines Menschen, so ist die Strafe in den F\u00e4llen des Absatzes 1 Nr. 3 bis 7 lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren und in den F\u00e4llen des Absatzes 1 Nr. 8 bis 10 Freiheitsstrafe nicht unter f\u00fcnf Jahren.</P><P>(4) In minder schweren F\u00e4llen des Absatzes 3 ist die Strafe bei einer Tat nach Absatz 1 Nr. 3 bis 7 Freiheitsstrafe nicht unter f\u00fcnf Jahren und bei einer Tat nach Absatz 1 Nr. 8 bis 10 Freiheitsstrafe nicht unter drei Jahren.</P><P>(5) Wer ein Verbrechen nach Absatz 1 in der Absicht begeht, ein institutionalisiertes Regime der systematischen Unterdr\u00fcckung und Beherrschung einer rassischen Gruppe durch eine andere aufrechtzuerhalten, wird mit Freiheitsstrafe nicht unter f\u00fcnf Jahren bestraft, soweit nicht die Tat nach Absatz 1 oder Absatz 3 mit schwererer Strafe bedroht ist. In minder schweren F\u00e4llen ist die Strafe Freiheitsstrafe nicht unter drei Jahren, soweit nicht die Tat nach Absatz 2 oder Absatz 4 mit schwererer Strafe bedroht ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR225410002BJNG000500000",
+        "name": "Abschnitt 2",
+        "title": "Kriegsverbrechen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000300000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Kriegsverbrechen gegen Personen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000500000"
+        },
+        "body": "<P>(1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person t\u00f6tet,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person als Geisel nimmt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person grausam oder unmenschlich behandelt, indem er ihr erhebliche k\u00f6rperliche oder seelische Sch\u00e4den oder Leiden zuf\u00fcgt, insbesondere sie foltert oder verst\u00fcmmelt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person sexuell n\u00f6tigt oder vergewaltigt, sie zur Prostitution n\u00f6tigt, der Fortpflanzungsf\u00e4higkeit beraubt oder in der Absicht, die ethnische Zusammensetzung einer Bev\u00f6lkerung zu beeinflussen, eine unter Anwendung von Zwang geschw\u00e4ngerte Frau gefangen h\u00e4lt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kinder unter 15 Jahren f\u00fcr Streitkr\u00e4fte zwangsverpflichtet oder in Streitkr\u00e4fte oder bewaffnete Gruppen eingliedert oder sie zur aktiven Teilnahme an Feindseligkeiten verwendet,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person, die sich rechtm\u00e4\u00dfig in einem Gebiet aufh\u00e4lt, vertreibt oder zwangsweise \u00fcberf\u00fchrt, indem er sie unter Versto\u00df gegen eine allgemeine Regel des V\u00f6lkerrechts durch Ausweisung oder andere Zwangsma\u00dfnahmen in einen anderen Staat oder in ein anderes Gebiet verbringt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">gegen eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person eine erhebliche Strafe, insbesondere die Todesstrafe oder eine Freiheitsstrafe verh\u00e4ngt oder vollstreckt, ohne dass diese Person in einem unparteiischen ordentlichen Gerichtsverfahren, das die v\u00f6lkerrechtlich erforderlichen Rechtsgarantien bietet, abgeurteilt worden ist,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person in die Gefahr des Todes oder einer schweren Gesundheitssch\u00e4digung bringt, indem er<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">an einer solchen Person Versuche vornimmt, in die sie nicht zuvor freiwillig und ausdr\u00fccklich eingewilligt hat oder die weder medizinisch notwendig sind noch in ihrem Interesse durchgef\u00fchrt werden,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">einer solchen Person Gewebe oder Organe f\u00fcr \u00dcbertragungszwecke entnimmt, sofern es sich nicht um die Entnahme von Blut oder Haut zu therapeutischen Zwecken im Einklang mit den allgemein anerkannten medizinischen Grunds\u00e4tzen handelt und die Person zuvor nicht freiwillig und ausdr\u00fccklich eingewilligt hat, oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer solchen Person medizinisch nicht anerkannte Behandlungsmethoden anwendet, ohne dass dies medizinisch notwendig ist und die Person zuvor freiwillig und ausdr\u00fccklich eingewilligt hat, oder</LA></DD></DL></LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person in schwerwiegender Weise entw\u00fcrdigend oder erniedrigend behandelt,</LA></DD></DL>wird in den F\u00e4llen der Nummer 1 mit lebenslanger Freiheitsstrafe, in den F\u00e4llen der Nummer 2 mit Freiheitsstrafe nicht unter f\u00fcnf Jahren, in den F\u00e4llen der Nummern 3 bis 5 mit Freiheitsstrafe nicht unter drei Jahren, in den F\u00e4llen der Nummern 6 bis 8 mit Freiheitsstrafe nicht unter zwei Jahren und in den F\u00e4llen der Nummer 9 mit Freiheitsstrafe nicht unter einem Jahr bestraft.</P><P>(2) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt einen Angeh\u00f6rigen der gegnerischen Streitkr\u00e4fte oder einen K\u00e4mpfer der gegnerischen Partei verwundet, nachdem dieser sich bedingungslos ergeben hat oder sonst au\u00dfer Gefecht ist, wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.</P><P>(3) Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine gesch\u00fctzte Person im Sinne des Absatzes 6 Nr. 1 rechtswidrig gefangen h\u00e4lt oder ihre Heimschaffung ungerechtfertigt verz\u00f6gert,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Angeh\u00f6riger einer Besatzungsmacht einen Teil der eigenen Zivilbev\u00f6lkerung in das besetzte Gebiet \u00fcberf\u00fchrt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine gesch\u00fctzte Person im Sinne des Absatzes 6 Nr. 1 mit Gewalt oder durch Drohung mit einem empfindlichen \u00dcbel zum Dienst in den Streitkr\u00e4ften einer feindlichen Macht n\u00f6tigt oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Angeh\u00f6rigen der gegnerischen Partei mit Gewalt oder durch Drohung mit einem empfindlichen \u00dcbel n\u00f6tigt, an Kriegshandlungen gegen sein eigenes Land teilzunehmen,</LA></DD></DL>wird mit Freiheitsstrafe nicht unter zwei Jahren bestraft.</P><P>(4) Verursacht der T\u00e4ter durch eine Tat nach Absatz 1 Nr. 2 bis 6 den Tod des Opfers, so ist in den F\u00e4llen des Absatzes 1 Nr. 2 die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren, in den F\u00e4llen des Absatzes 1 Nr. 3 bis 5 Freiheitsstrafe nicht unter f\u00fcnf Jahren, in den F\u00e4llen des Absatzes 1 Nr. 6 Freiheitsstrafe nicht unter drei Jahren. F\u00fchrt eine Handlung nach Absatz 1 Nr. 8 zum Tod oder zu einer schweren Gesundheitssch\u00e4digung, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.</P><P>(5) In minder schweren F\u00e4llen des Absatzes 1 Nr. 2 ist die Strafe Freiheitsstrafe nicht unter zwei Jahren, in minder schweren F\u00e4llen des Absatzes 1 Nr. 3 und 4 und des Absatzes 2 Freiheitsstrafe nicht unter einem Jahr, in minder schweren F\u00e4llen des Absatzes 1 Nr. 6 und des Absatzes 3 Nr. 1 Freiheitsstrafe von sechs Monaten bis zu f\u00fcnf Jahren.</P><P>(6) Nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Personen sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">im internationalen bewaffneten Konflikt: gesch\u00fctzte Personen im Sinne der Genfer Abkommen und des Zusatzprotokolls I (Anlage zu diesem Gesetz), namentlich Verwundete, Kranke, Schiffbr\u00fcchige, Kriegsgefangene und Zivilpersonen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im nichtinternationalen bewaffneten Konflikt: Verwundete, Kranke, Schiffbr\u00fcchige sowie Personen, die nicht unmittelbar an den Feindseligkeiten teilnehmen und sich in der Gewalt der gegnerischen Partei befinden;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im internationalen und im nichtinternationalen bewaffneten Konflikt: Angeh\u00f6rige der Streitkr\u00e4fte und K\u00e4mpfer der gegnerischen Partei, welche die Waffen gestreckt haben oder in sonstiger Weise wehrlos sind.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE000900000",
+        "name": "\u00a7 9",
+        "title": "Kriegsverbrechen gegen Eigentum und sonstige Rechte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000500000"
+        },
+        "body": "<P>(1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt pl\u00fcndert oder, ohne dass dies durch die Erfordernisse des bewaffneten Konflikts geboten ist, sonst in erheblichem Umfang v\u00f6lkerrechtswidrig Sachen der gegnerischen Partei, die der Gewalt der eigenen Partei unterliegen, zerst\u00f6rt, sich aneignet oder beschlagnahmt, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.</P><P>(2) Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt v\u00f6lkerrechtswidrig anordnet, dass Rechte und Forderungen aller oder eines wesentlichen Teils der Angeh\u00f6rigen der gegnerischen Partei aufgehoben oder ausgesetzt werden oder vor Gericht nicht einklagbar sind, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE001000000",
+        "name": "\u00a7 10",
+        "title": "Kriegsverbrechen gegen humanit\u00e4re Operationen und Embleme",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000500000"
+        },
+        "body": "<P>(1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Angriff gegen Personen, Einrichtungen, Material, Einheiten oder Fahrzeuge richtet, die an einer humanit\u00e4ren Hilfsmission oder an einer friedenserhaltenden Mission in \u00dcbereinstimmung mit der Charta der Vereinten Nationen beteiligt sind, solange sie Anspruch auf den Schutz haben, der Zivilpersonen oder zivilen Objekten nach dem humanit\u00e4ren V\u00f6lkerrecht gew\u00e4hrt wird, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Angriff gegen Personen, Geb\u00e4ude, Material, Sanit\u00e4tseinheiten oder Sanit\u00e4tstransportmittel richtet, die in \u00dcbereinstimmung mit dem humanit\u00e4ren V\u00f6lkerrecht mit den Schutzzeichen der Genfer Abkommen gekennzeichnet sind,</LA></DD> </DL>wird mit Freiheitsstrafe nicht unter drei Jahren bestraft. In minder schweren F\u00e4llen, insbesondere wenn der Angriff nicht mit milit\u00e4rischen Mitteln erfolgt, ist die Strafe Freiheitsstrafe nicht unter einem Jahr.</P><P>(2) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt die Schutzzeichen der Genfer Abkommen, die Parlament\u00e4rflagge oder die Flagge, die milit\u00e4rischen Abzeichen oder die Uniform des Feindes oder der Vereinten Nationen missbraucht und dadurch den Tod oder die schwere Verletzung eines Menschen (\u00a7 226 des Strafgesetzbuches) verursacht, wird mit Freiheitsstrafe nicht unter f\u00fcnf Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE001100000",
+        "name": "\u00a7 11",
+        "title": "Kriegsverbrechen des Einsatzes verbotener Methoden der Kriegsf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000500000"
+        },
+        "body": "<P>(1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit milit\u00e4rischen Mitteln einen Angriff gegen die Zivilbev\u00f6lkerung als solche oder gegen einzelne Zivilpersonen richtet, die an den Feindseligkeiten nicht unmittelbar teilnehmen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit milit\u00e4rischen Mitteln einen Angriff gegen zivile Objekte richtet, solange sie durch das humanit\u00e4re V\u00f6lkerrecht als solche gesch\u00fctzt sind, namentlich Geb\u00e4ude, die dem Gottesdienst, der Erziehung, der Kunst, der Wissenschaft oder der Wohlt\u00e4tigkeit gewidmet sind, geschichtliche Denkm\u00e4ler, Krankenh\u00e4user und Sammelpl\u00e4tze f\u00fcr Kranke und Verwundete, unverteidigte St\u00e4dte, D\u00f6rfer, Wohnst\u00e4tten oder Geb\u00e4ude oder entmilitarisierte Zonen sowie Anlagen und Einrichtungen, die gef\u00e4hrliche Kr\u00e4fte enthalten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit milit\u00e4rischen Mitteln einen Angriff durchf\u00fchrt und dabei als sicher erwartet, dass der Angriff die T\u00f6tung oder Verletzung von Zivilpersonen oder die Besch\u00e4digung ziviler Objekte in einem Ausma\u00df verursachen wird, das au\u00dfer Verh\u00e4ltnis zu dem insgesamt erwarteten konkreten und unmittelbaren milit\u00e4rischen Vorteil steht,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzende Person als Schutzschild einsetzt, um den Gegner von Kriegshandlungen gegen bestimmte Ziele abzuhalten,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Aushungern von Zivilpersonen als Methode der Kriegsf\u00fchrung einsetzt, indem er ihnen die f\u00fcr sie lebensnotwendigen Gegenst\u00e4nde vorenth\u00e4lt oder Hilfslieferungen unter Versto\u00df gegen das humanit\u00e4re V\u00f6lkerrecht behindert,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Befehlshaber anordnet oder androht, dass kein Pardon gegeben wird, oder</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Angeh\u00f6rigen der gegnerischen Streitkr\u00e4fte oder einen K\u00e4mpfer der gegnerischen Partei meuchlerisch t\u00f6tet oder verwundet,</LA></DD> </DL>wird mit Freiheitsstrafe nicht unter drei Jahren bestraft. In minder schweren F\u00e4llen der Nummer 2 ist die Strafe Freiheitsstrafe nicht unter einem Jahr.</P><P>(2) Verursacht der T\u00e4ter durch eine Tat nach Absatz 1 Nr. 1 bis 6 den Tod oder die schwere Verletzung einer Zivilperson (\u00a7 226 des Strafgesetzbuches) oder einer nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzenden Person, wird er mit Freiheitsstrafe nicht unter f\u00fcnf Jahren bestraft. F\u00fchrt der T\u00e4ter den Tod vors\u00e4tzlich herbei, ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.</P><P>(3) Wer im Zusammenhang mit einem internationalen bewaffneten Konflikt mit milit\u00e4rischen Mitteln einen Angriff durchf\u00fchrt und dabei als sicher erwartet, dass der Angriff weit reichende, langfristige und schwere Sch\u00e4den an der nat\u00fcrlichen Umwelt verursachen wird, die au\u00dfer Verh\u00e4ltnis zu dem insgesamt erwarteten konkreten und unmittelbaren milit\u00e4rischen Vorteil stehen, wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE001200000",
+        "name": "\u00a7 12",
+        "title": "Kriegsverbrechen des Einsatzes verbotener Mittel der Kriegsf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000500000"
+        },
+        "body": "<P>(1) Wer im Zusammenhang mit einem internationalen oder nichtinternationalen bewaffneten Konflikt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gift oder vergiftete Waffen verwendet,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">biologische oder chemische Waffen verwendet oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geschosse verwendet, die sich leicht im K\u00f6rper des Menschen ausdehnen oder flachdr\u00fccken, insbesondere Geschosse mit einem harten Mantel, der den Kern nicht ganz umschlie\u00dft oder mit Einschnitten versehen ist,</LA></DD> </DL>wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.</P><P>(2) Verursacht der T\u00e4ter durch eine Tat nach Absatz 1 den Tod oder die schwere Verletzung einer Zivilperson (\u00a7 226 des Strafgesetzbuches) oder einer nach dem humanit\u00e4ren V\u00f6lkerrecht zu sch\u00fctzenden Person, wird er mit Freiheitsstrafe nicht unter f\u00fcnf Jahren bestraft. F\u00fchrt der T\u00e4ter den Tod vors\u00e4tzlich herbei, ist die Strafe lebenslange Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR225410002BJNG000700123",
+        "name": "Abschnitt 3",
+        "title": "Verbrechen der Aggression",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000300000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE001600123",
+        "name": "\u00a7 13",
+        "title": "Verbrechen der Aggression",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000700123"
+        },
+        "body": "<P>(1) Wer einen Angriffskrieg f\u00fchrt oder eine sonstige Angriffshandlung begeht, die ihrer Art, ihrer Schwere und ihrem Umfang nach eine offenkundige Verletzung der Charta der Vereinten Nationen darstellt, wird mit lebenslanger Freiheitsstrafe bestraft.</P><P>(2) Wer einen Angriffskrieg oder eine sonstige Angriffshandlung im Sinne des Absatzes 1 plant, vorbereitet oder einleitet, wird mit lebenslanger Freiheitsstrafe oder mit Freiheitsstrafe nicht unter zehn Jahren bestraft. Die Tat nach Satz 1 ist nur dann strafbar, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Angriffskrieg gef\u00fchrt oder die sonstige Angriffshandlung begangen worden ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch sie die Gefahr eines Angriffskrieges oder einer sonstigen Angriffshandlung f\u00fcr die Bundesrepublik Deutschland herbeigef\u00fchrt wird.</LA></DD></DL></P><P>(3) Eine Angriffshandlung ist die gegen die Souver\u00e4nit\u00e4t, die territoriale Unversehrtheit oder die politische Unabh\u00e4ngigkeit eines Staates gerichtete oder sonst mit der Charta der Vereinten Nationen unvereinbare Anwendung von Waffengewalt durch einen Staat.</P><P>(4) Beteiligter einer Tat nach den Abs\u00e4tzen 1 und 2 kann nur sein, wer tats\u00e4chlich in der Lage ist, das politische oder milit\u00e4rische Handeln eines Staates zu kontrollieren oder zu lenken.</P><P>(5) In minder schweren F\u00e4llen des Absatzes 2 ist die Strafe Freiheitsstrafe nicht unter f\u00fcnf Jahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR225410002BJNG000601123",
+        "name": "Abschnitt 4",
+        "title": "Sonstige Straftaten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000300000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE001301123",
+        "name": "\u00a7 14",
+        "title": "Verletzung der Aufsichtspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000601123"
+        },
+        "body": "<P>(1) Ein milit\u00e4rischer Befehlshaber, der es vors\u00e4tzlich oder fahrl\u00e4ssig unterl\u00e4sst, einen Untergebenen, der seiner Befehlsgewalt oder seiner tats\u00e4chlichen Kontrolle untersteht, geh\u00f6rig zu beaufsichtigen, wird wegen Verletzung der Aufsichtspflicht bestraft, wenn der Untergebene eine Tat nach diesem Gesetz begeht, deren Bevorstehen dem Befehlshaber erkennbar war und die er h\u00e4tte verhindern k\u00f6nnen.</P><P>(2) Ein ziviler Vorgesetzter, der es vors\u00e4tzlich oder fahrl\u00e4ssig unterl\u00e4sst, einen Untergebenen, der seiner Anordnungsgewalt oder seiner tats\u00e4chlichen Kontrolle untersteht, geh\u00f6rig zu beaufsichtigen, wird wegen Verletzung der Aufsichtspflicht bestraft, wenn der Untergebene eine Tat nach diesem Gesetz begeht, deren Bevorstehen dem Vorgesetzten ohne weiteres erkennbar war und die er h\u00e4tte verhindern k\u00f6nnen.</P><P>(3) \u00a7 4 Abs. 2 gilt entsprechend.</P><P>(4) Die vors\u00e4tzliche Verletzung der Aufsichtspflicht wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren, die fahrl\u00e4ssige Verletzung der Aufsichtspflicht wird mit Freiheitsstrafe bis zu drei Jahren bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE001401123",
+        "name": "\u00a7 15",
+        "title": "Unterlassen der Meldung einer Straftat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000601123"
+        },
+        "body": "<P>(1) Ein milit\u00e4rischer Befehlshaber oder ein ziviler Vorgesetzter, der es unterl\u00e4sst, eine Tat nach diesem Gesetz, die ein Untergebener begangen hat, unverz\u00fcglich der f\u00fcr die Untersuchung oder Verfolgung solcher Taten zust\u00e4ndigen Stelle zur Kenntnis zu bringen, wird mit Freiheitsstrafe bis zu f\u00fcnf Jahren bestraft.</P><P>(2) \u00a7 4 Abs. 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR225410002BJNE001500000",
+        "name": "Anlage",
+        "title": "(zu \u00a7 8 Abs. 6 Nr. 1)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR225410002BJNG000601123"
+        },
+        "body": "<P> <table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"40*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"65*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Die Genfer Abkommen im Sinne des Gesetzes sind:</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">- I.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Genfer Abkommen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">vom 12. August 1949 zur Verbesserung des Loses der Verwundeten und Kranken der Streitkr\u00e4fte im Felde (BGBl. 1954 II S. 781, 783),</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">- II.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Genfer Abkommen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">vom 12. August 1949 zur Verbesserung des Loses der Verwundeten, Kranken und Schiffbr\u00fcchigen der Streitkr\u00e4fte zur See (BGBl. 1954 II S. 781, 813),</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">-III.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Genfer Abkommen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">vom 12. August 1949 \u00fcber die Behandlung der Kriegsgefangenen (BGBl. 1954 II S. 781, 838) und</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">- IV.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Genfer Abkommen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">vom 12. August 1949 zum Schutze von Zivilpersonen in Kriegszeiten (BGBl. 1954 II S. 781, 917).</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Das Zusatzprotokoll I im Sinne des Gesetzes ist:</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Zusatzprotokoll zu den Genfer Abkommen vom 12. August 1949 \u00fcber den Schutz der Opfer internationaler bewaffneter Konflikte (Protokoll I) vom  8. Juni 1977 (BGBl. 1990 II S. 1550, 1551).  </entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

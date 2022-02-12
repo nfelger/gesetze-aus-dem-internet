@@ -1,0 +1,296 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR029310013",
+    "firstPublished": "2013-02-15",
+    "sourceTimestamp": "20220124212506",
+    "titleShort": null,
+    "titleLong": "Verordnung zur Pr\u00fcfung von Luftfahrtger\u00e4t",
+    "abbreviation": "LuftGerPV",
+    "slug": "luftgerpv",
+    "extraAbbreviations": [
+      "LuftGerPV 2013"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2013, 293",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 4 V v. 12.12.2016 I 2864",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 1 V v. 7.12.2021 I 5190 (Nr. 84) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.3.2013 +++)<BR /><BR /></pre>Die V wurde als Artikel 1 der V v. 15.2.2013 I 293 vom Bundesministerium f\u00fcr Verkehr, Bau und Stadtentwicklung im Einvernehmen mit dem Bundesministerium der  Finanzen und dem Bundesministerium f\u00fcr Wirtschaft und Technologie mit Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 6 Satz 1 dieser V am 1.3.2013 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR029310013BJNG000100000",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000101311",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000100000"
+        },
+        "body": "<P>(1) Diese Verordnung regelt die Anforderungen an die Pr\u00fcfung von Luftfahrtger\u00e4t auf seine Luftt\u00fcchtigkeit im Rahmen der Entwicklung, der Herstellung und der Aufrechterhaltung der Luftt\u00fcchtigkeit, soweit die folgenden Verordnungen nicht anwendbar sind oder keine Regelungen enthalten:<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Verordnung (EU) 2018/1139 des Europ\u00e4ischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften f\u00fcr die Zivilluftfahrt und zur Errichtung einer Agentur der Europ\u00e4ischen Union f\u00fcr Flugsicherheit sowie zur \u00c4nderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europ\u00e4ischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europ\u00e4ischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates (ABl. L 212 vom 22.8.2018, S. 1; L 296 vom 22.11.2018, S. 41) in ihrer jeweils geltenden Fassung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012 zur Festlegung der Durchf\u00fchrungsbestimmungen f\u00fcr die Erteilung von Luftt\u00fcchtigkeits- und Umweltzeugnissen f\u00fcr Luftfahrzeuge und zugeh\u00f6rige Produkte, Bau- und Ausr\u00fcstungsteile sowie f\u00fcr die Zulassung von Entwicklungs- und Herstellungsbetrieben (ABl. L 224 vom 21.8.2012, S. 1) in ihrer jeweils geltenden Fassung und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Verordnung (EU) Nr. 1321/2014 der Kommission vom 26. November 2014 \u00fcber die Aufrechterhaltung der Luftt\u00fcchtigkeit von Luftfahrzeugen und luftfahrttechnischen Erzeugnissen, Teilen und Ausr\u00fcstungen und die Erteilung von Genehmigungen f\u00fcr Organisationen und Personen, die diese T\u00e4tigkeiten ausf\u00fchren (ABl. L\u00a0362 vom 17.12.2014, S. 1), die zuletzt durch die Durchf\u00fchrungsverordnung (EU) 2021/700 (ABl. L\u00a0145 vom 28.4.2021, S. 20) ge\u00e4ndert worden ist, in ihrer jeweils geltenden Fassung.</LA></DD></DL></P><P>(2) Die Luftt\u00fcchtigkeit wird sichergestellt <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>im Rahmen der Entwicklung des Luftfahrtger\u00e4ts durch eine Muster- oder Einzelst\u00fcckpr\u00fcfung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>im Rahmen der Herstellung durch eine Pr\u00fcfung der Konformit\u00e4t des Luftfahrtger\u00e4ts mit den einschl\u00e4gigen Konstruktionsdaten oder durch eine St\u00fcckpr\u00fcfung und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>im Rahmen der Aufrechterhaltung der Luftt\u00fcchtigkeit:<DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>durch die Wahrnehmung der Halterverantwortung einschlie\u00dflich der fristgerechten Veranlassung der erforderlichen Ma\u00dfnahmen zur Aufrechterhaltung der Luftt\u00fcchtigkeit,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>durch die ordnungsgem\u00e4\u00dfe Durchf\u00fchrung und Pr\u00fcfung der Instandhaltung und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>durch eine Pr\u00fcfung der Luftt\u00fcchtigkeit oder durch eine Nachpr\u00fcfung.</LA></DD></DL></LA></DD></DL></P><P>(3) Die Luftt\u00fcchtigkeit wird bescheinigt <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>im Rahmen der Entwicklung des Luftfahrtger\u00e4ts in Form einer Muster- oder Einzelst\u00fcckzulassung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>im Rahmen der Herstellung in Form einer Konformit\u00e4tserkl\u00e4rung oder eines St\u00fcckpr\u00fcfscheins und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>im Rahmen der Aufrechterhaltung der Luftt\u00fcchtigkeit in Form einer Bescheinigung der ordnungsgem\u00e4\u00dfen Instandhaltung (Freigabebescheinigung), einer Bescheinigung \u00fcber die Pr\u00fcfung der Luftt\u00fcchtigkeit oder eines Nachpr\u00fcfscheins.</LA></DD></DL></P><P>(4) Die Bestimmungen internationaler Abkommen \u00fcber die Anerkennung von Luftt\u00fcchtigkeitszeugnissen bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000201311",
+        "name": "\u00a7 2",
+        "title": "Zust\u00e4ndige Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000100000"
+        },
+        "body": "<P>(1) F\u00fcr die Sicherstellung und Bescheinigung der Luftt\u00fcchtigkeit nach \u00a7 1 sind folgende Stellen zust\u00e4ndig: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Luftsportger\u00e4t einschlie\u00dflich Rettungs- und Schleppger\u00e4t nach \u00a7 1 Absatz 1 Nummer 7 der Luftverkehrs-Zulassungs-Ordnung mit einer h\u00f6chstzul\u00e4ssigen Leermasse \u00fcber 120 Kilogramm sowie bei Flugmodellen mit einer h\u00f6chstzul\u00e4ssigen Startmasse \u00fcber 25 Kilogramm der Beauftragte nach \u00a7 31c des Luftverkehrsgesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Luftsportger\u00e4t nach \u00a7 1 Absatz 4 der Luftverkehrs-Zulassungs-Ordnung der Hersteller und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim \u00fcbrigen Luftfahrtger\u00e4t das Luftfahrt-Bundesamt, soweit nicht nach einer der in \u00a7 1 Absatz 1 genannten europ\u00e4ischen Verordnungen die Agentur der Europ\u00e4ischen Union f\u00fcr Flugsicherheit zust\u00e4ndig ist.</LA></DD></DL></P><P>(2) Die zust\u00e4ndigen Stellen nach Absatz 1 Nummer 1 und 3 k\u00f6nnen f\u00fcr die Aufgaben der Sicherstellung, der Pr\u00fcfung und der Bescheinigung der Luftt\u00fcchtigkeit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Entwicklungsbetrieben, Herstellungsbetrieben und Instandhaltungsbetrieben, Unternehmen zur F\u00fchrung der Aufrechterhaltung der Luftt\u00fcchtigkeit und kombinierten Luftt\u00fcchtigkeitsorganisationen eine Genehmigung erteilen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">unabh\u00e4ngigem Luftt\u00fcchtigkeitspr\u00fcfpersonal eine Erlaubnis erteilen.</LA></DD></DL>Die Organisation, der die Genehmigung nach Satz 1 erteilt worden ist, oder die Person, der die Erlaubnis nach Satz 1 erteilt worden ist, hat die ihr \u00fcbertragenen Aufgaben der Sicherstellung, Pr\u00fcfung und Bescheinigung der Luftt\u00fcchtigkeit gem\u00e4\u00df dem in der Genehmigung oder Erlaubnis festgelegten Umfang durchzuf\u00fchren.</P><P>(3) Genehmigungen nach Absatz 2 Nummer 1, die durch die Agentur der Europ\u00e4ischen Union f\u00fcr Flugsicherheit, durch einen Mitgliedstaat der Europ\u00e4ischen Union oder einen Vertragsstaat des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum auf Grund der Verordnung (EU) 2018/1139 erteilt wurden, sind in der Bundesrepublik Deutschland allgemein anerkannt. Ist f\u00fcr die Durchf\u00fchrung der Aufgaben nach \u00a7 1 die Erweiterung des Genehmigungsumfangs erforderlich, so stellt die zust\u00e4ndige Stelle nach Pr\u00fcfung der Voraussetzungen eine Erg\u00e4nzungsgenehmigung aus.</P><P>(4) Die Genehmigungen k\u00f6nnen eingeschr\u00e4nkt, mit Auflagen verbunden oder befristet werden. Sie sind ganz oder teilweise zu widerrufen, wenn die Voraussetzungen f\u00fcr ihre Erteilung nachtr\u00e4glich entfallen sind oder die erteilten Auflagen nicht eingehalten werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Einzelst\u00fcckpr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000100000"
+        },
+        "body": "<P>(1) Der Nachweis der Luftt\u00fcchtigkeit eines Luftfahrtger\u00e4ts nach \u00a7 1 Absatz 3 der Luftverkehrs-Zulassungs-Ordnung wird in einer Einzelst\u00fcckpr\u00fcfung erbracht, deren Art und Umfang von der nach \u00a7 2 zust\u00e4ndigen Stelle festgelegt wird. Das Gleiche gilt f\u00fcr \u00c4nderungen, die sich auf die Luftt\u00fcchtigkeit des Luftfahrtger\u00e4ts auswirken. Die zust\u00e4ndige Stelle kann Dritte mit der \u00dcberwachung der Pr\u00fcfung beauftragen.</P><P>(2) Wird die Luftt\u00fcchtigkeit nach Absatz 1 nicht nach den Bauvorschriften f\u00fcr Luftfahrtger\u00e4t, sondern nach besonderen, von der zust\u00e4ndigen Stelle anerkannten Luftt\u00fcchtigkeitsanforderungen nachgewiesen, die ein gleiches Ma\u00df an Luftt\u00fcchtigkeit sicherstellen, wie die Bauvorschriften f\u00fcr Luftfahrtger\u00e4t, so wird die Verkehrszulassung in der Kategorie \u201eSonderklasse\u201c erteilt. Werden weitere Erleichterungen gew\u00e4hrt und ist ein sicherer Betrieb des Luftfahrtger\u00e4ts gew\u00e4hrleistet, wird die Verkehrszulassung in der Kategorie \u201eBeschr\u00e4nkte Sonderklasse\u201c erteilt.</P><P>(3) Absatz 2 gilt nicht f\u00fcr Luftsportger\u00e4t. Die Verkehrszulassung von Einzelst\u00fccken eines Luftsportger\u00e4ts wird in der Kategorie \u201eLuftsportger\u00e4t\u201c erteilt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Anerkennung der Musterpr\u00fcfung anderer Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000100000"
+        },
+        "body": "<P>(1) Ist das Muster eines Luftfahrtger\u00e4ts bereits nach ausl\u00e4ndischen Luftt\u00fcchtigkeitsvorschriften oder Luftt\u00fcchtigkeitsvorschriften der Bundeswehr gepr\u00fcft worden, die ein gleiches Ma\u00df an Luftt\u00fcchtigkeit sicherstellen wie die Bauvorschriften f\u00fcr Luftfahrtger\u00e4t, so wird eine vereinfachte Musterpr\u00fcfung durchgef\u00fchrt. In der vereinfachten Musterpr\u00fcfung ist festzustellen, ob die f\u00fcr die Erteilung der Musterzulassung ben\u00f6tigten Unterlagen sowie die f\u00fcr die Instandhaltung und den Betrieb erforderlichen Betriebsanweisungen ordnungsgem\u00e4\u00df sind. Die nach \u00a7 2 zust\u00e4ndige Stelle kann weitere, zur Feststellung der Luftt\u00fcchtigkeit erforderliche Nachweise verlangen, insbesondere den Nachweis, dass das Muster keine Merkmale oder Eigenschaften aufweist, die einen sicheren Betrieb beeintr\u00e4chtigen.</P><P>(2) Einer vereinfachten Musterpr\u00fcfung bedarf es nicht, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Musterpr\u00fcfung von einer zust\u00e4ndigen Beh\u00f6rde eines anderen Mitgliedstaates der Europ\u00e4ischen Union oder eines Vertragsstaates des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum oder von einer von ihr daf\u00fcr zugelassenen Pr\u00fcfstelle vorgenommen wurde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Ergebnisse der Musterpr\u00fcfung nach Nummer 1 der f\u00fcr die Musterzulassung zust\u00e4ndigen deutschen Stelle zur Verf\u00fcgung stehen oder auf Anfrage zur Verf\u00fcgung gestellt werden und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Ergebnisse der Musterpr\u00fcfung nach Nummer 1 dem deutschen Schutz- und Sicherheitsniveau gleichwertig sind. In diesem Fall wird das Muster eines Luftfahrtger\u00e4ts ohne weitere Pr\u00fcfung zugelassen.</LA></DD></DL></P><P>(3) Die Abs\u00e4tze 1 und 2 gelten entsprechend f\u00fcr im Ausland gepr\u00fcfte und zugelassene \u00c4nderungen des Musters.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Anerkennung der Herstellungsnachweise anderer Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000100000"
+        },
+        "body": "<P>Ist Luftfahrtger\u00e4t, dessen Muster nach der Luftverkehrs-Zulassungs-Ordnung zugelassen ist, nach ausl\u00e4ndischen Luftt\u00fcchtigkeitsvorschriften oder Luftt\u00fcchtigkeitsvorschriften der Bundeswehr hergestellt und gepr\u00fcft worden, die ein gleiches Ma\u00df an Luftt\u00fcchtigkeit sicherstellen wie die Vorschriften dieser Verordnung, kann der Nachweis der ordnungsgem\u00e4\u00dfen Herstellung auf Antrag im Einzelfall oder allgemein von der nach \u00a7 2 Absatz 1 zust\u00e4ndigen Stelle anerkannt werden. Luftt\u00fcchtigkeitsbescheinigungen, die von der zust\u00e4ndigen Beh\u00f6rde eines Mitgliedstaates der Europ\u00e4ischen Union oder eines Vertragsstaates des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum oder von einer von ihr beauftragten Pr\u00fcfstelle ausgestellt wurden, gelten in der Bundesrepublik Deutschland als allgemein anerkannt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000601311",
+        "name": "\u00a7 6",
+        "title": "Anerkennung der Nachweise anderer Stellen \u00fcber die Aufrechterhaltung der Luftt\u00fcchtigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000100000"
+        },
+        "body": "<P>(1) Sind die Ma\u00dfnahmen zur Aufrechterhaltung der Luftt\u00fcchtigkeit von Luftfahrtger\u00e4t mit deutscher Verkehrszulassung im Ausland nach ausl\u00e4ndischen Pr\u00fcfvorschriften durchgef\u00fchrt worden, die ein gleiches Ma\u00df an Luftt\u00fcchtigkeit sicherstellen wie die Vorschriften dieser Verordnung, so kann der ausl\u00e4ndische Nachweis der Luftt\u00fcchtigkeit oder der ordnungsgem\u00e4\u00dfen Instandhaltung auf Antrag im Einzelfall oder allgemein von der nach \u00a7\u00a02 Absatz 1 zust\u00e4ndigen Stelle als eine Bescheinigung \u00fcber die Pr\u00fcfung der Luftt\u00fcchtigkeit, als eine Freigabebescheinigung oder als eine Bescheinigung \u00fcber die Nachpr\u00fcfung anerkannt werden.</P><P>(2) F\u00fcr die Aufrechterhaltung der Luftt\u00fcchtigkeit von Luftfahrtger\u00e4t, dessen Muster nach der Luftverkehrs-Zulassungs-Ordnung zugelassen ist und das nicht der Verkehrszulassung bedarf, gilt Absatz 1 entsprechend.</P><P>(3) Mit den Ma\u00dfnahmen zur Aufrechterhaltung der Luftt\u00fcchtigkeit darf erst begonnen werden, wenn eine Anerkennung der betreffenden ausl\u00e4ndischen Nachweise nach den Abs\u00e4tzen 1 und 2 beantragt worden ist. Die Anerkennung kann eingeschr\u00e4nkt, mit Auflagen verbunden oder befristet werden. Sie kann widerrufen werden, wenn die Voraussetzungen f\u00fcr ihre Erteilung nicht nur vor\u00fcbergehend weggefallen sind oder die erteilten Auflagen nicht eingehalten werden.</P><P>(4) Auf Luftfahrtger\u00e4t, das durch die zust\u00e4ndige Stelle der Bundeswehr gepr\u00fcft wurde, sind die Abs\u00e4tze 1 bis 3 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000701311",
+        "name": "\u00a7 7",
+        "title": "Genehmigung von Kleinbetrieben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000100000"
+        },
+        "body": "<P>Die nach \u00a7\u00a02 Absatz 1 zust\u00e4ndige Stelle kann Kleinbetrieben, die nur teilweise die Voraussetzungen f\u00fcr die Durchf\u00fchrung der Pr\u00fcfungen nach \u00a7\u00a01 Absatz 2 erf\u00fcllen, zur Vermeidung unbilliger H\u00e4rten eine Genehmigung nach \u00a7\u00a02 Absatz 2 Nummer 1 erteilen, wenn der Kleinbetrieb nachweist, dass die ordnungsgem\u00e4\u00dfe Durchf\u00fchrung der Pr\u00fcfungen des Luftfahrtger\u00e4ts sichergestellt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000801311",
+        "name": "\u00a7 8",
+        "title": "Behebung von M\u00e4ngeln des Musters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000100000"
+        },
+        "body": "<P>(1) Werden beim Betrieb des zugelassenen Luftfahrtger\u00e4ts M\u00e4ngel des Musters festgestellt, welche die Luftt\u00fcchtigkeit beeintr\u00e4chtigen, ordnet die nach \u00a7 2 Absatz 1 zust\u00e4ndige Stelle die zur Aufrechterhaltung der Luftt\u00fcchtigkeit notwendigen Ma\u00dfnahmen an.</P><P>(2) Zur Behebung von M\u00e4ngeln des dem Muster nachgebauten und bereits zum Verkehr zugelassenen Luftfahrtger\u00e4ts hat der Betrieb, welcher zur Durchf\u00fchrung der Musterpr\u00fcfung genehmigt ist, technische Unterlagen zu erstellen und den Haltern des Luftfahrtger\u00e4ts und den Organisationen, denen nach \u00a7\u00a02 Absatz 2 eine Genehmigung erteilt worden ist, und den Personen, denen nach \u00a7 2 Absatz 2 eine Erlaubnis erteilt worden ist, auf Verlangen zu \u00fcbersenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR029310013BJNG000200000",
+        "name": "Zweiter Abschnitt",
+        "title": "Entwicklung und Herstellung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE000900000",
+        "name": "\u00a7 9",
+        "title": "Musterpr\u00fcfung und St\u00fcckpr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000200000"
+        },
+        "body": "<P>(1) F\u00fcr Luftfahrtger\u00e4t nach \u00a7 1 Absatz 1 Nummer 1 bis 6 und 9 bis 11 der Luftverkehrs-Zulassungs-Ordnung erfolgen die Musterpr\u00fcfung und die Pr\u00fcfung der Konformit\u00e4t entsprechend den Bestimmungen des Anhangs I (Teil 21) der Verordnung (EU) Nr. 748/2012.</P><P>(2) F\u00fcr Luftfahrtger\u00e4t nach \u00a7 1 Absatz 1 Nummer 7 der Luftverkehrs-Zulassungs-Ordnung erfolgen die Musterpr\u00fcfung und die St\u00fcckpr\u00fcfung nach \u00a7 10; f\u00fcr Luftfahrtger\u00e4t nach \u00a7 1 Absatz 4 der Luftverkehrs-Zulassungs-Ordnung erfolgen die Musterpr\u00fcfung und die St\u00fcckpr\u00fcfung nach \u00a7 11.</P><P>(3) F\u00fcr Luftfahrtger\u00e4t nach \u00a7 1 Absatz 1 Nummer 8 der Luftverkehrs-Zulassungs-Ordnung erfolgen die Musterpr\u00fcfung und die St\u00fcckpr\u00fcfung durch eine Pr\u00fcfung der \u00dcbereinstimmung des Luftfahrtger\u00e4ts mit den anwendbaren Luftt\u00fcchtigkeitsforderungen. Hierzu hat der Halter vor dem ersten Flug das Luftfahrtger\u00e4t der zust\u00e4ndigen Stelle vorzustellen und die Pr\u00fcfung bescheinigen zu lassen.</P><P>(4) Das Luftfahrt-Bundesamt kann f\u00fcr die Herstellung im Amateurbau und in begr\u00fcndeten Einzelf\u00e4llen Ausnahmen erteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE001001116",
+        "name": "\u00a7 10",
+        "title": "Luftsportger\u00e4t",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000200000"
+        },
+        "body": "<P>(1) In der Musterpr\u00fcfung eines Luftsportger\u00e4ts wird gepr\u00fcft, ob das Muster den Bauvorschriften f\u00fcr Luftfahrtger\u00e4t entspricht und keine Merkmale oder keine Eigenschaften aufweist, die einen sicheren Betrieb beeintr\u00e4chtigen. Ferner wird gepr\u00fcft, ob die Musterunterlagen sowie die Betriebsanweisungen, die f\u00fcr die Instandhaltung und den Betrieb des Luftfahrtger\u00e4ts erforderlich sind, vollst\u00e4ndig sind und die notwendigen Angaben enthalten, um f\u00fcr das Muster und das dem Muster nachgebaute Luftfahrtger\u00e4t einen sicheren Betrieb gew\u00e4hrleisten zu k\u00f6nnen.</P><P>(2) Der Beauftragte nach \u00a7 31c des Luftverkehrsgesetzes legt fest, welche Teile der Betriebsanweisungen einer Anerkennung bed\u00fcrfen.</P><P>(3) In der St\u00fcckpr\u00fcfung eines Luftsportger\u00e4ts wird gepr\u00fcft, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob das Luftfahrtger\u00e4t mit dem Muster \u00fcbereinstimmt und luftt\u00fcchtig ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob die nach dem Ger\u00e4tekennblatt zu dem Ger\u00e4t geh\u00f6renden Betriebsanweisungen vorhanden sind und den anerkannten Betriebsanweisungen entsprechen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob die Kennzeichnung zum Nachweis des Ursprungs, soweit sie gefordert ist, ordnungsgem\u00e4\u00df angebracht ist.</LA></DD></DL>Der Beauftragte nach \u00a7 31c des Luftverkehrsgesetzes bestimmt, ob er die St\u00fcckpr\u00fcfung selbst durchf\u00fchrt oder sie in einem nach Absatz 7 genehmigten Herstellungsbetrieb durchf\u00fchren l\u00e4sst.</P><P>(4) Die ordnungsgem\u00e4\u00dfe Durchf\u00fchrung der St\u00fcckpr\u00fcfung eines Luftsportger\u00e4ts ist f\u00fcr Ultraleichtflugzeuge und Ultraleichthubschrauber durch einen Pr\u00fcfschein zu bescheinigen. Darin sind die Luftt\u00fcchtigkeit und die \u00dcbereinstimmung mit den im zugeh\u00f6rigen Ger\u00e4tekennblatt enthaltenen Angaben festzustellen.</P><P>(5) F\u00fcr die Herstellung im Amateurbau kann der Beauftragte nach \u00a7 31c des Luftverkehrsgesetzes Art und Umfang der Pr\u00fcfung im Einzelfall festlegen.</P><P>(6) Wird eine \u00c4nderung eines zugelassenen Musters nicht von dem nach Absatz 3 bestimmten Herstellungsbetrieb vorgenommen, hat der Herstellungsbetrieb nach Absatz 3 eine Stellungnahme zu der \u00c4nderung abzugeben, wenn der Beauftragte nach \u00a7 31c des Luftverkehrsgesetztes dies verlangt.</P><P>(7) Einem Herstellungsbetrieb kann von dem Beauftragten nach \u00a7 31c des Luftverkehrsgesetzes eine Genehmigung zur Durchf\u00fchrung der St\u00fcckpr\u00fcfung erteilt werden, wenn dieser \u00fcber die zur Durchf\u00fchrung der St\u00fcckpr\u00fcfung erforderlichen technischen, personellen und organisatorischen Voraussetzungen verf\u00fcgt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE001100000",
+        "name": "\u00a7 11",
+        "title": "Nicht musterzulassungspflichtiges Luftsportger\u00e4t",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000200000"
+        },
+        "body": "<P>(1) Bei Luftsportger\u00e4t nach \u00a7 1 Absatz 4 Nummer 1 der Luftverkehrs-Zulassungs-Ordnung hat der Hersteller vor der Auslieferung an den Kunden eine Pr\u00fcfung, ob das Muster mit den anwendbaren Luftt\u00fcchtigkeitsforderungen \u00fcbereinstimmt, in einer Inspektionsstelle oder einer Pr\u00fcfstelle durchf\u00fchren und die \u00dcbereinstimmung bescheinigen zu lassen, die akkreditiert ist nach der Verordnung (EG) Nr. 765/2008 des Europ\u00e4ischen Parlaments und des Rates vom 9. Juli 2008 \u00fcber die Vorschriften f\u00fcr die Akkreditierung und Markt\u00fcberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008,<NB>S. 30)</NB> gem\u00e4\u00df ISO/IEC 17020 oder ISO/IEC 17025 Standard. Bei Luftfahrtger\u00e4t mit einem Motor ist hierbei auch die Einhaltung der L\u00e4rmemissionsgrenzwerte zu pr\u00fcfen.</P><P>(2) Die St\u00fcckpr\u00fcfung hat der Hersteller vor Auslieferung des Luftfahrtger\u00e4ts an den Kunden entsprechend \u00a7 10 Absatz 3 Satz 1 durchzuf\u00fchren. Er hat dem Halter die Betriebsanweisungen bei Auslieferung des Luftfahrtger\u00e4ts sowie die zur M\u00e4ngelbehebung erforderlichen Anweisungen sp\u00e4testens f\u00fcnf Tage nach Feststellung des Mangels zur Verf\u00fcgung zu stellen.</P><P>(3) Als Hersteller gilt auch, wer Luftfahrtger\u00e4t nach Absatz 1 in die Bundesrepublik Deutschland einf\u00fchrt.</P><P>(4) Muster- oder Ger\u00e4tezulassungen eines Mitgliedstaates der Europ\u00e4ischen Union oder eines Vertragsstaates des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum sind unmittelbar g\u00fcltig und ersetzen die Pr\u00fcfungen nach den Abs\u00e4tzen 1 und 2.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR029310013BJNG000300000",
+        "name": "Dritter Abschnitt",
+        "title": "Instandhaltung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE001201311",
+        "name": "\u00a7 12",
+        "title": "Ma\u00dfnahmen zur Aufrechterhaltung der Luftt\u00fcchtigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000300000"
+        },
+        "body": "<P>(1) Ma\u00dfnahmen zur Aufrechterhaltung der Luftt\u00fcchtigkeit des Luftfahrtger\u00e4ts nach \u00a7\u00a01 Absatz 1 Nummer 1 bis 6 und 9 bis 11 der Luftverkehrs-Zulassungs-Ordnung werden entsprechend den Bestimmungen der Verordnung (EU) Nr. 1321/2014 durchgef\u00fchrt. Der Halter des Luftfahrtger\u00e4ts ist f\u00fcr die rechtzeitige und vollst\u00e4ndige Durchf\u00fchrung aller erforderlichen Ma\u00dfnahmen nach Anhang I, M.A.201(a) oder Anhang Vb, ML.A.201(a) verantwortlich.</P><P>(2) Instandhaltungsma\u00dfnahmen zur Aufrechterhaltung der Luftt\u00fcchtigkeit des Luftfahrtger\u00e4ts nach \u00a7 1 Absatz 1 Nummer 7 und 8 der Luftverkehrs-Zulassungs-Ordnung richten sich nach \u00a7 13.</P><P>(3) F\u00fcr Luftfahrtger\u00e4t nach Absatz 1 gelten die vom Inhaber der Musterzulassung oder die im Rahmen einer Einzelst\u00fcckpr\u00fcfung herausgegebenen Instandhaltungsunterlagen als Instandhaltungsprogramm im Sinne der Verordnung (EU) Nr. 1321/2014. Satz 1 ist nicht anzuwenden auf gewerblich betriebene Luftfahrzeuge. Bei geringf\u00fcgigen \u00c4nderungen und Reparaturen im Sinne der Verordnung (EU) Nr. 748/2012 ist keine Genehmigung der Unterlagen erforderlich; es reicht der Nachweis der Akzeptanz durch den Inhaber der Musterzulassung oder die zust\u00e4ndige Stelle. An die Stelle der Europ\u00e4ischen Agentur f\u00fcr Flugsicherheit tritt die zust\u00e4ndige Stelle gem\u00e4\u00df \u00a7 2.</P><P>(4) Die zust\u00e4ndige Stelle kann in begr\u00fcndeten F\u00e4llen Ausnahmen von Absatz 1 zulassen, Zeitabst\u00e4nde f\u00fcr Instandhaltungsma\u00dfnahmen verl\u00e4ngern und Entwicklungs- oder Herstellungsbetriebe zur Durchf\u00fchrung bestimmter Instandhaltungsma\u00dfnahmen erm\u00e4chtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE001301311",
+        "name": "\u00a7 13",
+        "title": "Nachpr\u00fcfungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000300000"
+        },
+        "body": "<P>(1) Bei Luftsportger\u00e4t nach \u00a7\u00a01 Absatz 1 Nummer 7 der Luftverkehrs-Zulassungs-Ordnung mit einer h\u00f6chstzul\u00e4ssigen Leermasse \u00fcber 120 Kilogramm hat der Halter das von der zust\u00e4ndigen Stelle festgelegte Instandhaltungsprogramm innerhalb der darin festgesetzten Fristen vollst\u00e4ndig durchzuf\u00fchren. Zus\u00e4tzlich wird das Luftsportger\u00e4t alle zw\u00f6lf Monate einer Nachpr\u00fcfung (Jahresnachpr\u00fcfung) unterzogen. Diese dient der Feststellung der Luftt\u00fcchtigkeit und der \u00dcberpr\u00fcfung der \u00dcbereinstimmung mit den im zugeh\u00f6rigen Ger\u00e4tekennblatt enthaltenen Angaben. Die Nachpr\u00fcfung ist in einem Nachpr\u00fcfschein zu bescheinigen. Eine Ausfertigung des Nachpr\u00fcfscheins ist zu den Betriebsaufzeichnungen des Luftfahrtger\u00e4ts zu nehmen; eine Ausfertigung des jeweils letzten Nachpr\u00fcfscheins ist im Luftfahrzeug mitzuf\u00fchren.</P><P>(2) Bei Luftsportger\u00e4t nach \u00a7\u00a01 Absatz 4 der Luftverkehrs-Zulassungs-Ordnung ist die Luftt\u00fcchtigkeit nach den vom Hersteller vorgegebenen Anweisungen durch den Halter oder in dessen Auftrag nachzupr\u00fcfen oder nachpr\u00fcfen zu lassen. Der Halter ist f\u00fcr die rechtzeitige und vollst\u00e4ndige Durchf\u00fchrung der Pr\u00fcfungen verantwortlich. Er hat dem Hersteller M\u00e4ngel an dem Luftfahrtger\u00e4t oder an den Pr\u00fcfanweisungen unverz\u00fcglich zu melden.</P><P>(3) Bei Flugmodellen mit einer h\u00f6chstzul\u00e4ssigen Startmasse \u00fcber 25 Kilogramm wird die Luftt\u00fcchtigkeit alle zw\u00f6lf Monate nachgepr\u00fcft; wurden \u00c4nderungen an diesen Flugmodellen vorgenommen, erfolgt eine Nachpr\u00fcfung vor dem ersten Flug. Hierzu hat der Halter dem Beauftragten nach \u00a7 31c des Luftverkehrsgesetzes das Flugmodell zur Nachpr\u00fcfung vorzustellen und die durchgef\u00fchrten Pr\u00fcfungen von diesem Beauftragten bescheinigen zu lassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE001400000",
+        "name": "\u00a7 14",
+        "title": "Angeordnete Ma\u00dfnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000300000"
+        },
+        "body": "<P>Die zust\u00e4ndige Stelle kann jederzeit die \u00dcberpr\u00fcfung der Luftt\u00fcchtigkeit eines Luftfahrzeugs sowie Instandhaltungsma\u00dfnahmen anordnen, wenn beim Betrieb des zugelassenen Luftfahrzeugs M\u00e4ngel festgestellt werden, die seine Luftt\u00fcchtigkeit beeintr\u00e4chtigen oder beeintr\u00e4chtigen k\u00f6nnen, oder wenn begr\u00fcndete Zweifel an der Luftt\u00fcchtigkeit des Luftfahrzeugs bestehen. Das Gleiche gilt f\u00fcr Luftfahrzeuge, die nach einem Muster gebaut wurden, wenn zu vermuten ist, dass das Muster M\u00e4ngel aufweist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR029310013BJNG000400000",
+        "name": "Vierter Abschnitt",
+        "title": "Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE001500000",
+        "name": "\u00a7 15",
+        "title": "Durchf\u00fchrungsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000400000"
+        },
+        "body": "<P>Das Luftfahrt-Bundesamt wird erm\u00e4chtigt, zur Durchf\u00fchrung dieser Verordnung weitere Einzelheiten, die zur Feststellung der Luftt\u00fcchtigkeit des Luftfahrtger\u00e4ts notwendig sind, durch Rechtsverordnung zu regeln. Soweit davon die Flugsicherungsausr\u00fcstung betroffen ist, ist das Einvernehmen mit dem Bundesaufsichtsamt f\u00fcr Flugsicherung herbeizuf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE001600000",
+        "name": "\u00a7 16",
+        "title": "Ordnungswidrigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000400000"
+        },
+        "body": "<P>(1) Ordnungswidrig im Sinne des \u00a7 58 Absatz 1 Nummer 10 des Luftverkehrsgesetzes handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>ohne Genehmigung nach \u00a7 2 Absatz 2 Satz 1 eine dort genannte Aufgabe durchf\u00fchrt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 8 Absatz 2 eine Unterlage nicht oder nicht rechtzeitig \u00fcbersendet,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 9 Absatz 3 Satz 2 das Luftfahrtger\u00e4t nicht oder nicht rechtzeitig vorstellt oder eine Pr\u00fcfung nicht oder nicht rechtzeitig bescheinigen l\u00e4sst,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 10 Absatz 6 eine Stellungnahme nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig abgibt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 11 Absatz 2 Satz 1 die St\u00fcckpr\u00fcfung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig durchf\u00fchrt oder</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 11 Absatz 2 Satz 2 eine Betriebsanweisung oder eine Anweisung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig zur Verf\u00fcgung stellt.</LA></DD></DL></P><P>(2) Ordnungswidrig im Sinne des \u00a7 58 Absatz 1 Nummer 13 des Luftverkehrsgesetzes handelt, wer gegen Teil 21 des Anhangs der Verordnung (EU) Nr. 748/2012 der Kommission vom 3. August 2012 zur Festlegung der Durchf\u00fchrungsbestimmungen f\u00fcr die Erteilung von Luftt\u00fcchtigkeits- und Umweltzeugnissen f\u00fcr Luftfahrzeuge und zugeh\u00f6rige Produkte, Bau- und Ausr\u00fcstungsteile sowie f\u00fcr die Zulassung von Entwicklungs- und Herstellungsbetrieben (ABl. L 224 vom 21.8.2012, S. 1) verst\u00f6\u00dft, indem er vors\u00e4tzlich oder fahrl\u00e4ssig <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.3A Buchstabe b eine dort genannte Meldung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.129 Buchstabe c ein dort genanntes Produktionsinspektionssystem nicht unterh\u00e4lt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.129 Buchstabe d einen Inhaber der Muster-oder Ger\u00e4tezulassung bei der Durchf\u00fchrung einer dort genannten Ma\u00dfnahme nicht unterst\u00fctzt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.130 Buchstabe c der zust\u00e4ndigen Beh\u00f6rde eine Konformit\u00e4tserkl\u00e4rung nicht oder nicht rechtzeitig zur Validierung vorlegt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.157 es der zust\u00e4ndigen Beh\u00f6rde nicht erm\u00f6glicht, eine dort genannte Untersuchung durchzuf\u00fchren,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.165 Buchstabe b einen Herstellungsbetrieb nicht in dem dort genannten Zustand h\u00e4lt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.165 Buchstabe g einen Inhaber der Muster- und Ger\u00e4tezulassung in der Durchf\u00fchrung einer dort genannten Ma\u00dfnahme nicht unterst\u00fctzt,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.609 Buchstabe a einen Artikel nicht richtig herstellt oder</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>entgegen Absatz 21.A.803 Buchstabe a, b oder d Kenndaten anbringt, \u00e4ndert oder entfernt.</LA></DD></DL></P><P>(3) Ordnungswidrig im Sinne des \u00a7 58 Absatz 1 Nummer 13 des Luftverkehrsgesetzes handelt, wer gegen die Verordnung (EG) Nr. 2042/2003 der Kommission vom 20. November 2003 \u00fcber die Aufrechterhaltung der Luftt\u00fcchtigkeit von Luftfahrzeugen und luftfahrttechnischen Erzeugnissen, Teilen und Ausr\u00fcstungen und die Erteilung von Genehmigungen f\u00fcr Organisationen und Personen, die diese T\u00e4tigkeiten ausf\u00fchren (ABl. L 315 vom 28.11.2003, S. 1), die zuletzt durch die Verordnung (EU) Nr. 962/2010 (ABl. L 281 vom 27.10.2010, S. 78) ge\u00e4ndert worden ist, verst\u00f6\u00dft, indem er vors\u00e4tzlich oder fahrl\u00e4ssig <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>entgegen Anhang I (Teil-M) <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Absatz M.A.201 Buchstabe a nicht sicherstellt, dass ein Flug nur unter den dort genannten Voraussetzungen stattfindet,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Absatz M.A.201 Buchstabe g die Instandhaltung von gro\u00dfen Luftfahrzeugen, von Luftfahrzeugen f\u00fcr die gewerbsm\u00e4\u00dfige Bef\u00f6rderung oder von Komponenten ohne Genehmigung durchf\u00fchrt,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Absatz M.A.202 eine dort genannte Meldung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Absatz M.A.306 Buchstabe a ein technisches Bordbuch nicht, nicht richtig oder nicht vollst\u00e4ndig f\u00fchrt,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>Absatz M.A.306 Buchstabe c nicht sicherstellt, dass das technische Bordbuch mindestens f\u00fcr die dort genannte Dauer aufbewahrt wird,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>Absatz M.A.401 Buchstabe a andere als die dort genannten Instandhaltungsunterlagen verwendet,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA>Absatz M.A.713 die zust\u00e4ndige Beh\u00f6rde nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig unterrichtet,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>entgegen Anhang II (Teil-145) <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Absatz 145.A.45 Buchstabe a Satz 1 andere als die dort genannten Instandhaltungsunterlagen anwendet,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Absatz 145.A.50 Buchstabe a eine Freigabebescheinigung ausstellt,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Absatz 145.A.60 Buchstabe a die zust\u00e4ndige Beh\u00f6rde, den Eintragungsstaat oder den f\u00fcr die Entwicklung des Luftfahrzeugs oder der Komponente verantwortlichen Betrieb nicht oder nicht rechtzeitig in Kenntnis setzt,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Absatz 145.A.80 ein Luftfahrzeug oder ein Luftfahrzeugbauteil instand h\u00e4lt,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>Absatz 145.A.85 eine dort genannte Mitteilung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>entgegen Anhang III (Teil-66) <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Absatz 66.A.20 Buchstabe b Freigabebescheinigungen ausstellt,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Absatz 66.A.55 eine dort genannte Lizenz als Qualifizierungsnachweis nicht, nicht richtig oder nicht rechtzeitig beibringt oder</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>entgegen Anhang IV (Teil-147) Absatz 147.A.150 Buchstabe a die zust\u00e4ndige Beh\u00f6rde nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig unterrichtet.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR029310013BJNE001701311",
+        "name": "\u00a7 17",
+        "title": "\u00dcbergangsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR029310013BJNG000400000"
+        },
+        "body": "<P>Bisherige Zulassungen, Genehmigungen und Anerkennungen, die nach der Verordnung zur Pr\u00fcfung von Luftfahrtger\u00e4t vom 3. August 1998 (BGBl. I S. 2010, 2011) in der am 1. September 2012 geltenden Fassung erteilt worden sind, bleiben weiterhin g\u00fcltig. Bestehende Zulassungen, Genehmigungen und Anerkennungen mit zeitlichen Befristungen bleiben bis zum Ablauf der Befristung g\u00fcltig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

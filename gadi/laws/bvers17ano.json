@@ -1,0 +1,48 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR227100020",
+    "firstPublished": "2020-11-02",
+    "sourceTimestamp": "20201209213554",
+    "titleShort": null,
+    "titleLong": "Anordnung \u00fcber Ort und Zeit der 17. Bundesversammlung",
+    "abbreviation": "BVers17AnO",
+    "slug": "bvers17ano",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2020, 2271",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 5.11.2020 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR227100020BJNE000100000",
+        "name": "(XXXX)",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 1 des Gesetzes \u00fcber die Wahl des Bundespr\u00e4sidenten durch die Bundesversammlung in der im Bundesgesetzblatt Teil III, Gliederungsnummer 1100-1, ver\u00f6ffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 12. Juli 2007 (BGBl. I S. 1326) ge\u00e4ndert worden ist, bestimme ich:</P><P><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"1\"><colspec colname=\"col1\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"center\" colname=\"col1\">Die 17. Bundesversammlung findet am<BR /> 13. Februar 2022 in Berlin statt.</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR227100020BJNE000200000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P><SP>Der Pr\u00e4sident des Deutschen Bundestages</SP></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

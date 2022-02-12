@@ -1,0 +1,1033 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR705150937",
+    "firstPublished": "1937-08-12",
+    "sourceTimestamp": "20220203213009",
+    "titleShort": "Handelsregisterverordnung",
+    "titleLong": "Verordnung \u00fcber die Einrichtung und F\u00fchrung des Handelsregisters",
+    "abbreviation": "HRV",
+    "slug": "hrv",
+    "extraAbbreviations": [
+      "HdlRegVfg"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1937, 515",
+        "periodical": "RMBl"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 44 G v. 10.8.2021 I 3436",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 30.6.1983 +++)<BR /><BR /></pre>\u00dcberschrift: IdF d. Art. 1 Nr. 1 V v. 11.12.2001 I 3688 mWv 20.12.2001</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE000800319",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 125 Abs. 3 des Gesetzes \u00fcber die Angelegenheiten der freiwilligen Gerichtsbarkeit in der Fassung der Verordnung vom 10. August 1937 (Reichsgesetzbl. I S. 900) bestimme ich folgendes:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG000100319",
+        "name": "I.",
+        "title": "Einrichtung des Handelsregisters,\n<BR />\n\u00d6rtliche und sachliche Zust\u00e4ndigkeit",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE000903160",
+        "name": "\u00a7 1",
+        "title": "Zust\u00e4ndigkeit des Amtsgerichts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>Soweit nicht nach \u00a7 376 Abs. 2 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit etwas Abweichendes geregelt ist, f\u00fchrt jedes Amtsgericht, in dessen Bezirk ein Landgericht seinen Sitz hat, f\u00fcr den Bezirk dieses Landgerichts ein Handelsregister.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001001310",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001103308",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>(1) Das Handelsregister besteht aus zwei Abteilungen.</P><P>(2) In die Abteilung A werden eingetragen die Einzelkaufleute, die in den \u00a7 33 des Handelsgesetzbuchs bezeichneten juristischen Personen sowie die offenen Handelsgesellschaften, die Kommanditgesellschaften und die Europ\u00e4ischen wirtschaftlichen Interessenvereinigungen.</P><P>(3) In die Abteilung B werden eingetragen die Aktiengesellschaften, die SE, die Kommanditgesellschaften auf Aktien, die Gesellschaften mit beschr\u00e4nkter Haftung und die Versicherungsvereine auf Gegenseitigkeit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001203160",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>F\u00fcr die Erledigung der Gesch\u00e4fte des Registergerichts ist der Richter zust\u00e4ndig. Soweit die Erledigung der Gesch\u00e4fte nach dieser Verordnung dem Urkundsbeamten der Gesch\u00e4ftsstelle \u00fcbertragen ist, gelten die \u00a7\u00a7 5 bis 8 des Rechtspflegergesetzes in Bezug auf den Urkundsbeamten der Gesch\u00e4ftsstelle entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001300319",
+        "name": "(XXXX) \u00a7\u00a7 5 und 6",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001402310",
+        "name": "\u00a7 7",
+        "title": "Elektronische F\u00fchrung des Handelsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>Die Register einschlie\u00dflich der Registerordner werden elektronisch gef\u00fchrt. \u00a7 8a Abs. 2 des Handelsgesetzbuchs bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001504311",
+        "name": "\u00a7 8",
+        "title": "Registerakten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>(1) F\u00fcr jedes Registerblatt (\u00a7 13) werden Akten gebildet. Zu den Registerakten geh\u00f6ren auch die Schriften oder Dokumente \u00fcber solche gerichtlichen Handlungen, die, ohne auf eine Registereintragung abzuzielen, mit den in dem Register vermerkten rechtlichen Verh\u00e4ltnissen in Zusammenhang stehen.</P><P>(2) Wird ein Schriftst\u00fcck, das in Papierform zur Registerakte einzureichen war, zur\u00fcckgegeben, so wird eine beglaubigte Abschrift zur\u00fcckbehalten. Ist das Schriftst\u00fcck in anderen Akten des Amtsgerichts enthalten, so ist eine beglaubigte Abschrift zu den Registerakten zu nehmen. In den Abschriften und \u00dcbertragungen k\u00f6nnen die Teile des Schriftst\u00fcckes, die f\u00fcr die F\u00fchrung des Handelsregisters ohne Bedeutung sind, weggelassen werden, wenn hiervon Verwirrung nicht zu besorgen ist. In Zweifelsf\u00e4llen bestimmt der Richter den Umfang der Abschrift, sonst der Urkundsbeamte der Gesch\u00e4ftsstelle.</P><P>(3) Die Landesjustizverwaltung kann bestimmen, dass die Registerakten ab einem bestimmten Zeitpunkt elektronisch gef\u00fchrt werden. Nach diesem Zeitpunkt eingereichte Schriftst\u00fccke sind zur Ersetzung der Urschrift in ein elektronisches Dokument zu \u00fcbertragen und in dieser Form zur elektronisch gef\u00fchrten Registerakte zu nehmen, soweit die Anordnung der Landesjustizverwaltung nichts anderes bestimmt; \u00a7 9 Abs. 3 und 4 gilt entsprechend. Im Fall einer Beschwerde sind in Papierform eingereichte Schriftst\u00fccke mindestens bis zum rechtskr\u00e4ftigen Abschluss des Beschwerdeverfahrens aufzubewahren, wenn sie f\u00fcr die Durchf\u00fchrung des Beschwerdeverfahrens notwendig sind und das Beschwerdegericht keinen Zugriff auf die elektronisch gef\u00fchrte Registerakte hat. Das Registergericht hat in diesem Fall von ausschlie\u00dflich elektronisch vorliegenden Dokumenten Ausdrucke f\u00fcr das Beschwerdegericht zu fertigen, soweit dies zur Durchf\u00fchrung des Beschwerdeverfahrens notwendig ist; \u00a7 298 Absatz 3 der Zivilprozessordnung gilt entsprechend. Die Ausdrucke sind mindestens bis zum rechtskr\u00e4ftigen Abschluss des Beschwerdeverfahrens aufzubewahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001608311",
+        "name": "\u00a7 9",
+        "title": "Registerordner",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>(1) Die zum Handelsregister einzureichenden und nach \u00a7 9 Abs. 1 des Handelsgesetzbuchs der unbeschr\u00e4nkten Einsicht unterliegenden Dokumente werden f\u00fcr jedes Registerblatt (\u00a7 13) in einen daf\u00fcr bestimmten Registerordner aufgenommen. Sie sind in der zeitlichen Folge ihres Eingangs und nach der Art des jeweiligen Dokuments abrufbar zu halten. Ein Widerspruch gegen eine Eintragung in der Gesellschafterliste (\u00a7 16 Abs. 3 Satz 3 des Gesetzes betreffend die Gesellschaften mit beschr\u00e4nkter Haftung) ist der Gesellschafterliste zuzuordnen und zudem besonders hervorzuheben. Die in einer Amtssprache der Europ\u00e4ischen Union \u00fcbermittelten \u00dcbersetzungen (\u00a7 11 des Handelsgesetzbuchs) sind den jeweiligen Ursprungsdokumenten zuzuordnen. Wird ein aktualisiertes Dokument eingereicht, ist kenntlich zu machen, dass die f\u00fcr eine fr\u00fchere Fassung eingereichte \u00dcbersetzung nicht dem aktualisierten Stand des Dokuments entspricht.</P><P>(2) Schriftst\u00fccke, die vor dem 1. Januar 2007 eingereicht worden sind, k\u00f6nnen zur Ersetzung der Urschrift in ein elektronisches Dokument \u00fcbertragen und in dieser Form in den Registerordner \u00fcbernommen werden. Sie sind in den Registerordner zu \u00fcbernehmen, sobald ein Antrag auf elektronische \u00dcbermittlung (\u00a7 9 Abs. 2 des Handelsgesetzbuchs) vorliegt.</P><P>(3) Wird ein Schriftst\u00fcck, das in Papierform zum Registerordner einzureichen war, zur\u00fcckgegeben, so wird es zuvor in ein elektronisches Dokument \u00fcbertragen und in dieser Form in den Registerordner \u00fcbernommen. Die R\u00fcckgabe wird im Registerordner vermerkt. Ist das Schriftst\u00fcck in anderen Akten des Amtsgerichts enthalten, so wird eine elektronische Aufzeichnung hiervon in dem Registerordner gespeichert. Bei der Speicherung k\u00f6nnen die Teile des Schriftst\u00fcckes, die f\u00fcr die F\u00fchrung des Handelsregisters ohne Bedeutung sind, weggelassen werden, sofern hiervon Verwirrung nicht zu besorgen ist. Den Umfang der Speicherung bestimmt der Urkundsbeamte der Gesch\u00e4ftsstelle, in Zweifelsf\u00e4llen der Richter.</P><P>(4) Wird ein Schriftst\u00fcck in ein elektronisches Dokument \u00fcbertragen und in dieser Form in den Registerordner \u00fcbernommen, ist zu vermerken, ob das Schriftst\u00fcck eine Urschrift, eine einfache oder beglaubigte Abschrift, eine Ablichtung oder eine Ausfertigung ist; Durchstreichungen, \u00c4nderungen, Einschaltungen, Radierungen oder andere M\u00e4ngel des Schriftst\u00fcckes sollen in dem Vermerk angegeben werden. Ein Vermerk kann unterbleiben, soweit die in Satz 1 genannten Tatsachen aus dem elektronischen Dokument eindeutig ersichtlich sind.</P><P>(5) Wiedergaben von Schriftst\u00fccken, die nach \u00a7 8a Abs. 3 oder Abs. 4 des Handelsgesetzbuchs in der bis zum Inkrafttreten des Gesetzes \u00fcber elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister vom 10. November 2006 (BGBl. I S. 2553) am 1. Januar 2007 geltenden Fassung auf einem Bildtr\u00e4ger oder einem anderen Datentr\u00e4ger gespeichert wurden, k\u00f6nnen in den Registerordner \u00fcbernommen werden. Dabei sind im Fall der Speicherung nach \u00a7 8a Abs. 3 des Handelsgesetzbuchs in der in Satz 1 genannten Fassung auch die Angaben aus dem nach \u00a7 8a Abs. 3 Satz 2 des Handelsgesetzbuchs in der in Satz 1 genannten Fassung gefertigten Nachweis in den Registerordner zu \u00fcbernehmen. Im Fall der Einreichung nach \u00a7 8a Abs. 4 des Handelsgesetzbuchs in der in Satz 1 genannten Fassung ist zu vermerken, dass das Dokument aufgrund des \u00a7 8a Abs. 4 des Handelsgesetzbuchs in der in Satz 1 genannten Fassung als einfache Wiedergabe auf einem Datentr\u00e4ger eingereicht wurde.</P><P>(6) Im Fall einer Beschwerde hat das Registergericht von den im Registerordner gespeicherten Dokumenten Ausdrucke f\u00fcr das Beschwerdegericht zu fertigen, soweit dies zur Durchf\u00fchrung des Beschwerdeverfahrens notwendig ist; \u00a7 298 Absatz 3 der Zivilprozessordnung gilt entsprechend. Die Ausdrucke sind mindestens bis zum rechtskr\u00e4ftigen Abschluss des Beschwerdeverfahrens aufzubewahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001701310",
+        "name": "\u00a7 10",
+        "title": "Einsichtnahme",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>(1) Die Einsicht in das Register und in die zum Register eingereichten Dokumente ist auf der Gesch\u00e4ftsstelle des Registergerichts w\u00e4hrend der Dienststunden zu erm\u00f6glichen.</P><P>(2) Die Einsicht in das elektronische Registerblatt erfolgt \u00fcber ein Datensichtger\u00e4t oder durch Einsicht in einen aktuellen oder chronologischen Ausdruck. Dem Einsichtnehmenden kann gestattet werden, das Registerblatt selbst auf dem Bildschirm des Datensichtger\u00e4tes aufzurufen, wenn technisch sichergestellt ist, dass der Abruf von Daten die nach \u00a7 9 Abs. 1 des Handelsgesetzbuchs zul\u00e4ssige Einsicht nicht \u00fcberschreitet und Ver\u00e4nderungen an dem Inhalt des Handelsregisters nicht vorgenommen werden k\u00f6nnen.</P><P>(3) \u00dcber das Datensichtger\u00e4t ist auch der Inhalt des Registerordners einschlie\u00dflich der nach \u00a7 9 Abs. 4 oder Abs. 5 Satz 2 aufgenommenen Angaben und der eingereichten \u00dcbersetzungen zug\u00e4nglich zu machen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001801310",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000100319"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG000200319",
+        "name": "II.",
+        "title": "F\u00fchrung des Handelsregisters",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE001901310",
+        "name": "\u00a7 12",
+        "title": "Form der Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>Die Eintragungen sind deutlich, klar verst\u00e4ndlich sowie in der Regel ohne Verweis auf gesetzliche Vorschriften und ohne Abk\u00fcrzung herzustellen. Aus dem Register darf nichts durch technische Eingriffe oder sonstige Ma\u00dfnahmen entfernt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002002310",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>(1) Jeder Einzelkaufmann, jede juristische Person sowie jede Handelsgesellschaft ist unter einer in derselben Abteilung fortlaufenden Nummer (Registerblatt) in das Register einzutragen.</P><P>(2) Wenn ein Amtsgericht das Register f\u00fcr mehrere Amtsgerichtsbezirke f\u00fchrt, k\u00f6nnen auf Anordnung der Landesjustizverwaltung die fortlaufenden Nummern f\u00fcr einzelne Amtsgerichtsbezirke je gesondert gef\u00fchrt werden. In diesem Fall sind die fortlaufenden Nummern der jeweiligen Amtsgerichtsbezirke durch den Zusatz eines Ortskennzeichens unterscheidbar zu halten. N\u00e4here Anordnungen hier\u00fcber trifft die Landesjustizverwaltung.</P><P>(3) Wird die Firma ge\u00e4ndert, so ist dies auf demselben Registerblatt einzutragen. Bei einer Umwandlung ist der \u00fcbernehmende, neu gegr\u00fcndete Rechtstr\u00e4ger oder Rechtstr\u00e4ger neuer Rechtsform stets auf ein neues Registerblatt einzutragen.</P><P>(4) Die zur Offenlegung in einer Amtssprache der Europ\u00e4ischen Union \u00fcbermittelten \u00dcbersetzungen von Eintragungen (\u00a7 11 des Handelsgesetzbuchs) sind dem Registerblatt und der jeweiligen Eintragung zuzuordnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002100319",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>(1) Jede Eintragung ist mit einer laufenden Nummer zu versehen und mittels eines alle Spalten des Registers durchschneidenden Querstrichs von der folgenden Eintragung zu trennen.</P><P>(2) Werden mehrere Eintragungen gleichzeitig vorgenommen, so erhalten sie nur eine laufende Nummer.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002201310",
+        "name": "\u00a7 15",
+        "title": "\u00dcbersetzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>War eine fr\u00fchere Eintragung in einer Amtssprache der Europ\u00e4ischen Union zug\u00e4nglich gemacht worden (\u00a7 11 des Handelsgesetzbuchs), so ist mit der Eintragung kenntlich zu machen, dass die \u00dcbersetzung nicht mehr dem aktuellen Stand der Registereintragung entspricht. Die Kenntlichmachung ist zu entfernen, sobald eine aktualisierte \u00dcbersetzung eingereicht wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002301310",
+        "name": "\u00a7 16",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>(1) \u00c4nderungen des Inhalts einer Eintragung sowie L\u00f6schungen sind unter einer neuen laufenden Nummer einzutragen. Eine Eintragung, die durch eine sp\u00e4tere Eintragung ihre Bedeutung verloren hat, ist nach Anordnung des Richters rot zu unterstreichen. Mit der Eintragung selbst ist auch der Vermerk \u00fcber ihre L\u00f6schung rot zu unterstreichen.</P><P>(2) Eintragungen oder Vermerke, die rot zu unterstreichen oder rot zu durchkreuzen sind, k\u00f6nnen anstelle durch R\u00f6tung auch auf andere eindeutige Weise als gegenstandslos kenntlich gemacht werden.</P><P>(3) Ein Teil einer Eintragung darf nur ger\u00f6tet oder auf andere eindeutige Weise als gegenstandslos kenntlich gemacht werden, wenn die Verst\u00e4ndlichkeit der Eintragung und des aktuellen Ausdrucks nicht beeintr\u00e4chtigt wird. Andernfalls ist die betroffene Eintragung insgesamt zu r\u00f6ten und ihr noch g\u00fcltiger Teil in verst\u00e4ndlicher Form zu wiederholen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE009500310",
+        "name": "\u00a7 16a",
+        "title": "Kennzeichnung bestimmter Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>Diejenigen Eintragungen, die lediglich andere Eintragungen wiederholen, erl\u00e4utern oder begr\u00fcnden und daher nach \u00a7 30a Abs. 4 Satz 4 nicht in den aktuellen Ausdruck einflie\u00dfen, sind grau zu hinterlegen oder es ist auf andere Weise sicherzustellen, dass diese Eintragungen nicht in den aktuellen Ausdruck \u00fcbernommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002401310",
+        "name": "\u00a7 17",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>(1) Schreibversehen und \u00e4hnliche offenbare Unrichtigkeiten in einer Eintragung k\u00f6nnen durch den Richter oder nach Anordnung des Richters in Form einer neuen Eintragung oder auf andere eindeutige Weise berichtigt werden. Die Berichtigung ist als solche kenntlich zu machen.</P><P>(2) Die Berichtigung nach Absatz 1 ist den Beteiligten bekanntzugeben. Die \u00f6ffentliche Bekanntmachung kann unterbleiben, wenn die Berichtigung einen offensichtlich unwesentlichen Punkt der Eintragung betrifft.</P><P>(3) Eine versehentlich vorgenommene R\u00f6tung oder Kenntlichmachung nach \u00a7 16 oder \u00a7 16a ist zu l\u00f6schen oder auf andere eindeutige Weise zu beseitigen. Die L\u00f6schung oder sonstige Beseitigung ist zu vermerken.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002501310",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>Erfolgt eine Eintragung auf Grund einer rechtskr\u00e4ftigen oder vollstreckbaren Entscheidung des Proze\u00dfgerichts, so ist dies bei der Eintragung im Register unter Angabe des Prozessgerichts, des Datums und des Aktenzeichens der Entscheidung zu vermerken. Eine Aufhebung der Entscheidung ist in dieselbe Spalte des Registers einzutragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002602160",
+        "name": "\u00a7 19",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>(1) Soll eine Eintragung von Amts wegen gel\u00f6scht werden, weil Sie mangels einer wesentlichen Voraussetzung unzul\u00e4ssig ist, so erfolgt die L\u00f6schung durch Eintragung des Vermerks \"Von Amts wegen gel\u00f6scht\".</P><P>(2) Hat in sonstigen F\u00e4llen eine Eintragung von Amts wegen zu erfolgen, so hat sie den Hinweis auf die gesetzliche Grundlage und einen Vermerk \"Von Amts wegen eingetragen\" zu enthalten. Dies gilt nicht f\u00fcr die Eintragung der Vermerke \u00fcber die Er\u00f6ffnung, die Einstellung oder Aufhebung des Insolvenzverfahrens, die Aufhebung des Er\u00f6ffnungsbeschlusses, die Anordnung der Eigenverwaltung durch den Schuldner und deren Aufhebung, die Anordnung der Zustimmungsbed\u00fcrftigkeit bestimmter Rechtsgesch\u00e4fte des Schuldners nach \u00a7 277 der Insolvenzordnung sowie die sonstigen in \u00a7 32 des Handelsgesetzbuchs vorgesehenen Vermerke.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE006101310",
+        "name": "\u00a7 19a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002704310",
+        "name": "\u00a7 20",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>Wird die Hauptniederlassung eines Einzelkaufmanns, einer juristischen Person oder der Sitz einer Handelsgesellschaft oder die Zweigniederlassung eines Unternehmens mit Sitz oder Hauptniederlassung im Ausland aus dem Bezirk des Registergerichts verlegt, so ist erst bei Eingang der Nachricht von der Eintragung in das Register des neuen Registergerichts (\u00a7 13h Abs. 2 Satz 5 des Handelsgesetzbuchs; \u00a7 45 Abs. 2 Satz 6 des Aktiengesetzes) die Verlegung auf dem bisherigen Registerblatt in der Spalte 2 und in der Spalte \"Rechtsverh\u00e4ltnisse\" zu vermerken; \u00a7 22 ist entsprechend anzuwenden. Auf dem bisherigen Registerblatt ist bei der jeweiligen Eintragung auf das Registerblatt des neuen Registergerichts zu verweisen und umgekehrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002802310",
+        "name": "\u00a7 21",
+        "title": "Umschreibung eines Registerblatts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>(1) Ist das Registerblatt un\u00fcbersichtlich geworden, so sind die noch g\u00fcltigen Eintragungen unter einer neuen oder unter derselben Nummer auf ein neues Registerblatt umzuschreiben. Dabei kann auch von dem urspr\u00fcnglichen Text der Eintragung abgewichen werden, soweit der Inhalt der Eintragung dadurch nicht ver\u00e4ndert wird. Auf jedem Registerblatt ist auf das andere zu verweisen, auch wenn es bei derselben Nummer verbleibt.</P><P>(2) Die Zusammenfassung und \u00dcbertragung ist den Beteiligten unter Mitteilung von dem Inhalt der neuen Eintragung und gegebenenfalls der neuen Nummer bekannt zu machen.</P><P>(3) Bestehen Zweifel \u00fcber die Art oder den Umfang der \u00dcbertragung, so sind die Beteiligten vorher zu h\u00f6ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE002901310",
+        "name": "\u00a7 22",
+        "title": "Gegenstandslosigkeit aller Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000200319"
+        },
+        "body": "<P>(1) S\u00e4mtliche Seiten des Registerblatts sind zu r\u00f6ten oder rot zu durchkreuzen, wenn alle Eintragungen gegenstandslos geworden sind. Das Registerblatt erh\u00e4lt einen Vermerk, der es als \"geschlossen\" kennzeichnet.</P><P>(2) Geschlossene Registerbl\u00e4tter sollen weiterhin, auch in der Form von Ausdrucken, wiedergabef\u00e4hig oder lesbar bleiben. Die Datentr\u00e4ger f\u00fcr geschlossene Registerbl\u00e4tter k\u00f6nnen auch bei der f\u00fcr die Archivierung von Handelsregisterbl\u00e4ttern zust\u00e4ndigen Stelle verf\u00fcgbar gehalten werden, soweit landesrechtliche Vorschriften nicht entgegenstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG000300319",
+        "name": "III.",
+        "title": "Verfahren bei Anmeldung,\n<BR />\nEintragung und Bekanntmachung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003004160",
+        "name": "\u00a7 23",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Das Gericht hat daf\u00fcr Sorge zu tragen, dass die gesetzlich vorgeschriebenen Eintragungen in das Register erfolgen. Die Stellungnahme der Organe des Handelsstandes gem\u00e4\u00df \u00a7 380 Abs. 2 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit soll elektronisch eingeholt und \u00fcbermittelt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003104160",
+        "name": "\u00a7 24",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Werden nat\u00fcrliche Personen zur Eintragung in das Handelsregister angemeldet (insbesondere als Kaufleute, Gesellschafter, Prokuristen, Vorstandsmitglieder, Mitglieder des Leitungsorgans, gesch\u00e4ftsf\u00fchrende Direktoren, Gesch\u00e4ftsf\u00fchrer, Abwickler), so ist in der Anmeldung deren Geburtsdatum anzugeben.</P><P>(2) Bei der Anmeldung ist die Lage der Gesch\u00e4ftsr\u00e4ume anzugeben. Dies gilt nicht, wenn die Lage der Gesch\u00e4ftsr\u00e4ume als inl\u00e4ndische Gesch\u00e4ftsanschrift zur Eintragung in das Handelsregister angemeldet wird oder bereits in das Handelsregister eingetragen worden ist. Eine \u00c4nderung der Lage der Gesch\u00e4ftsr\u00e4ume ist dem Registergericht unverz\u00fcglich mitzuteilen; Satz 2 gilt entsprechend.</P><P>(3) Absatz 2 gilt f\u00fcr die Anmeldung einer Zweigniederlassung und die \u00c4nderung der Lage ihrer Gesch\u00e4ftsr\u00e4ume entsprechend.</P><P>(4) Es ist darauf hinzuwirken, da\u00df bei den Anmeldungen auch der Unternehmensgegenstand, soweit er sich nicht aus der Firma ergibt, angegeben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003204160",
+        "name": "\u00a7 25",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Auf die Anmeldung zur Eintragung, auf Gesuche und Antr\u00e4ge entscheidet der Richter. \u00dcber die Eintragung ist unverz\u00fcglich nach Eingang der Anmeldung bei Gericht zu entscheiden. Ist eine Anmeldung zur Eintragung in das Handelsregister unvollst\u00e4ndig oder steht der Eintragung ein durch den Antragsteller behebbares Hindernis entgegen, so hat der Richter unverz\u00fcglich zu verf\u00fcgen; liegt ein nach \u00a7 23 einzuholendes Gutachten bis dahin nicht vor, so ist dies dem Antragsteller unverz\u00fcglich mitzuteilen. Der Richter entscheidet auch \u00fcber die erforderlichen Bekanntmachungen.</P><P>(2) Der Richter ist f\u00fcr die Eintragung auch dann zust\u00e4ndig, wenn sie vom Beschwerdegericht oder nach \u00a7 395 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit verf\u00fcgt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003303311",
+        "name": "\u00a7 26",
+        "title": "\u00c4nderung eingetragener Angaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Die \u00c4nderung eingetragener Angaben ist, unbeschadet des \u00a7 25 Absatz 1 Satz 2, in der Regel innerhalb von 21 Tagen nach Eingang der vollst\u00e4ndigen Anmeldung oder im Fall eines durch den Antragsteller behebbaren Eintragungshindernisses innerhalb von 21 Tagen nach dessen Behebung einzutragen und bekannt zu machen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003401310",
+        "name": "\u00a7 27",
+        "title": "Vornahme der Eintragung, Wortlaut der Bekanntmachung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Der Richter nimmt die Eintragung und Bekanntmachung entweder selbst vor oder er verf\u00fcgt die Eintragung und die Bekanntmachung durch den Urkundsbeamten der Gesch\u00e4ftsstelle.</P><P>(2) Nimmt der Richter die Eintragung nicht selbst vor, so hat er in der Eintragungsverf\u00fcgung den genauen Wortlaut der Eintragung sowie die Eintragungsstelle im Register samt aller zur Eintragung erforderlichen Merkmale festzustellen. Der Wortlaut der \u00f6ffentlichen Bekanntmachung ist besonders zu verf\u00fcgen, wenn er von dem der Eintragung abweicht. Der Urkundsbeamte der Gesch\u00e4ftsstelle hat die Ausf\u00fchrung der Eintragungsverf\u00fcgung zu veranlassen, die Eintragung zu signieren und die verf\u00fcgten Bekanntmachungen herbeizuf\u00fchren.</P><P>(3) Die Wirksamkeit der Eintragung (\u00a7 8a Abs. 1 des Handelsgesetzbuchs) ist in geeigneter Weise zu \u00fcberpr\u00fcfen. Die eintragende Person soll die Eintragung auf ihre Richtigkeit und Vollst\u00e4ndigkeit sowie ihre Abrufbarkeit aus dem Datenspeicher (\u00a7 48) pr\u00fcfen.</P><P>(4) Bei jeder Eintragung ist der Tag der Eintragung anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003501310",
+        "name": "\u00a7 28",
+        "title": "Elektronische Signatur",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Der Richter oder im Fall des \u00a7 27 Abs. 2 der Urkundsbeamte der Gesch\u00e4ftsstelle setzt der Eintragung seinen Nachnamen hinzu und signiert beides elektronisch. Im \u00dcbrigen gilt \u00a7 75 der Grundbuchverf\u00fcgung entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003606160",
+        "name": "\u00a7 29",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Der Urkundsbeamte der Gesch\u00e4ftsstelle ist zust\u00e4ndig: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erteilung von Abschriften oder Ausdrucken oder die elektronische \u00dcbermittlung der Eintragungen und der zum Register eingereichten Schriftst\u00fccke und Dokumente; wird eine auszugsweise Abschrift, ein auszugsweiser Ausdruck oder eine auszugsweise elektronische \u00dcbermittlung beantragt, so entscheidet bei Zweifeln \u00fcber den Umfang des Auszugs der Richter;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Beglaubigung und die Erteilung oder elektronische \u00dcbermittlung von Bescheinigungen nach \u00a7 9 Abs. 5 des Handelsgesetzbuchs;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Eintragung der in \u00a7 32 des Handelsgesetzbuchs vorgesehenen Vermerke im Zusammenhang mit einem Insolvenzverfahren;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Eintragung der inl\u00e4ndischen Gesch\u00e4ftsanschrift.</LA></DD></DL></P><P>(2) Wird die \u00c4nderung einer Entscheidung des Urkundsbeamten der Gesch\u00e4ftsstelle verlangt, so entscheidet, wenn dieser dem Verlangen nicht entspricht, der Richter. Die Beschwerde ist erst gegen seine Entscheidung gegeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003703310",
+        "name": "\u00a7 30",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Einfache Abschriften der in Papierform vorhandenen Registerbl\u00e4tter und Schriftst\u00fccke sind mit dem Vermerk: \"Gefertigt am ...\" abzuschlie\u00dfen. Der Vermerk ist nicht zu unterzeichnen.</P><P>(2) Die Beglaubigung einer Abschrift geschieht durch einen unter die Abschrift zu setzenden Vermerk, der die \u00dcbereinstimmung mit der Hauptschrift bezeugt. Der Beglaubigungsvermerk mu\u00df Ort und Tag der Ausstellung enthalten, von dem Urkundsbeamten der Gesch\u00e4ftsstelle unterschrieben und mit Siegel oder Stempel versehen sein.</P><P>(3) Soll aus dem Handelsregister eine auszugsweise Abschrift erteilt werden, so sind in die Abschrift die Eintragungen aufzunehmen, die den Gegenstand betreffen, auf den sich der Auszug beziehen soll. In dem Beglaubigungsvermerk ist der Gegenstand anzugeben und zu bezeugen, da\u00df weitere ihn betreffende Eintragungen in dem Register nicht enthalten sind.</P><P>(4) Werden beglaubigte Abschriften der zum Register eingereichten Schriftst\u00fccke oder der eingereichten Wiedergaben von Schriftst\u00fccken (\u00a7 8a Abs. 4 des Handelsgesetzbuchs in der bis zum Inkrafttreten des Gesetzes \u00fcber elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister am 1. Januar 2007 geltenden Fassung) beantragt, so ist in dem Beglaubigungsvermerk ersichtlich zu machen, ob die Hauptschrift eine Urschrift, eine Wiedergabe auf einem Bildtr\u00e4ger oder auf anderen Datentr\u00e4gern, eine einfache oder beglaubigte Abschrift, eine Ablichtung oder eine Ausfertigung ist; ist die Hauptschrift eine Wiedergabe auf einem Bildtr\u00e4ger oder auf anderen Datentr\u00e4gern, eine beglaubigte Abschrift, eine beglaubigte Ablichtung oder eine Ausfertigung, so ist der nach \u00a7 8a Abs. 3 Satz 2 des Handelsgesetzbuchs in der bis zum Inkrafttreten des Gesetzes \u00fcber elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister am 1. Januar 2007 geltenden Fassung angefertigte schriftliche Nachweis \u00fcber die inhaltliche \u00dcbereinstimmung der Wiedergabe mit der Urschrift, der Beglaubigungsvermerk oder der Ausfertigungsvermerk in die beglaubigte Abschrift aufzunehmen. Durchstreichungen, \u00c4nderungen, Einschaltungen, Radierungen oder andere M\u00e4ngel einer von den Beteiligten eingereichten Schrift sollen in dem Vermerk angegeben werden.</P><P>(5) Die Best\u00e4tigung oder Erg\u00e4nzung fr\u00fcher gefertigter Abschriften ist zul\u00e4ssig. Eine Erg\u00e4nzung einer fr\u00fcher erteilten Abschrift soll unterbleiben, wenn die Erg\u00e4nzung gegen\u00fcber der Erteilung einer Abschrift durch Ablichtung einen unverh\u00e4ltnism\u00e4\u00dfigen Arbeitsaufwand, insbesondere erhebliche oder zeitraubende Schreibarbeiten erfordern w\u00fcrde; andere Versagungsgr\u00fcnde bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE009601311",
+        "name": "\u00a7 30a",
+        "title": "Ausdrucke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Ausdrucke aus dem Registerblatt (\u00a7 9 Abs. 4 des Handelsgesetzbuchs) sind mit der Aufschrift \"Ausdruck\" oder \"Amtlicher Ausdruck\", dem Datum der letzten Eintragung und dem Datum des Abrufs der Daten aus dem Handelsregister zu versehen. Sie sind nicht zu unterschreiben.</P><P>(2) Ausdrucke aus dem Registerordner sind mit der Aufschrift \"Ausdruck\" oder \"Amtlicher Ausdruck\", dem Datum der Einstellung des Dokuments in den Registerordner, dem Datum des Abrufs aus dem Registerordner und den nach \u00a7 9 Abs. 4 oder Abs. 5 Satz 2 aufgenommenen Angaben zu versehen. Sie sind nicht zu unterschreiben.</P><P>(3) Der amtliche Ausdruck ist dar\u00fcber hinaus mit Ort und Tag der Ausstellung, dem Vermerk, dass der Ausdruck den Inhalt des Handelsregisters oder einen Inhalt des Registerordners bezeugt, sowie dem Namen des erstellenden Urkundsbeamten der Gesch\u00e4ftsstelle und mit einem Dienstsiegel zu versehen. Anstelle der Siegelung kann maschinell ein Abdruck des Dienstsiegels eingedruckt sein oder aufgedruckt werden; in beiden F\u00e4llen muss unter der Aufschrift \"Amtlicher Ausdruck\" der Vermerk \"Dieser Ausdruck wird nicht unterschrieben und gilt als beglaubigte Abschrift. aufgedruckt sein oder werden.</P><P>(4) Ausdrucke aus dem Registerblatt werden als chronologischer oder aktueller Ausdruck erteilt. Der chronologische Ausdruck gibt alle Eintragungen des Registerblatts wieder. Der aktuelle Ausdruck enth\u00e4lt den letzten Stand der Eintragungen. Nicht in den aktuellen Ausdruck aufgenommen werden diejenigen Eintragungen, die ger\u00f6tet oder auf andere Weise nach \u00a7 16 als gegenstandslos kenntlich gemacht sind, die nach \u00a7 16a gekennzeichneten Eintragungen sowie die Angaben in den Spalten \u00a7 40 (HR A) Nr. 6 Buchstabe b und \u00a7 43 (HR B) Nr. 7 Buchstabe b. Die Art des Ausdrucks bestimmt der Antragsteller. Soweit nicht ausdr\u00fccklich etwas anderes beantragt ist, wird ein aktueller Ausdruck erteilt. Aktuelle Ausdrucke k\u00f6nnen statt in spaltenweiser Wiedergabe auch als fortlaufender Text erstellt werden.</P><P>(5) Ausdrucke k\u00f6nnen dem Antragsteller auch elektronisch \u00fcbermittelt werden. Die elektronische \u00dcbermittlung amtlicher Ausdrucke erfolgt unter Verwendung einer qualifizierten elektronischen Signatur.</P><P>(6) \u00a7 30 Abs. 3 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003801310",
+        "name": "\u00a7 31",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Ausfertigungen der Bescheinigungen und Zeugnisse sind von dem Urkundsbeamten der Gesch\u00e4ftsstelle unter Angabe des Ortes und Tages zu unterschreiben und mit dem Gerichtssiegel oder Stempel zu versehen. Bescheinigungen und Zeugnisse k\u00f6nnen auch in elektronischer Form (\u00a7 126a des B\u00fcrgerlichen Gesetzbuchs) \u00fcbermittelt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE003900319",
+        "name": "\u00a7 32",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Die Ver\u00f6ffentlichung der Eintragung ist unverz\u00fcglich zu veranlassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004001310",
+        "name": "\u00a7 33",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Die \u00f6ffentlichen Bekanntmachungen sollen knapp gefa\u00dft und leicht verst\u00e4ndlich sein.</P><P>(2) In den Bekanntmachungen ist das Gericht und der Tag der Eintragung zu bezeichnen, einer Unterschrift bedarf es nicht.</P><P>(3) Die Bekanntmachungen sind tunlichst nach dem anliegenden Muster abzufassen. Der Tag der Bekanntmachung ist durch die bekannt machende Stelle beizuf\u00fcgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004102160",
+        "name": "\u00a7 34",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>In den Bekanntmachungen sind, falls entsprechende Mitteilungen vorliegen, auch der Unternehmensgegenstand, soweit er sich nicht aus der Firma ergibt, und die Lage der Gesch\u00e4ftsr\u00e4ume anzugeben. Ist eine inl\u00e4ndische Gesch\u00e4ftsanschrift eingetragen, so ist diese anstelle der Lage der Gesch\u00e4ftsr\u00e4ume anzugeben. Es ist in den Bekanntmachungen darauf hinzuweisen, da\u00df die in Satz 1 genannten Angaben ohne Gew\u00e4hr f\u00fcr die Richtigkeit erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE009400310",
+        "name": "\u00a7 34a",
+        "title": "Ver\u00f6ffentlichungen im Amtsblatt der Europ\u00e4ischen Union",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Die Pflichten zur Ver\u00f6ffentlichung im Amtsblatt der Europ\u00e4ischen Union und die Mitteilungspflichten gegen\u00fcber dem Amt f\u00fcr amtliche Ver\u00f6ffentlichungen der Europ\u00e4ischen Union nach der Verordnung (EWG) Nr. 2137/85 des Rates vom 25. Juli 1985 \u00fcber die Schaffung einer Europ\u00e4ischen wirtschaftlichen Interessenvereinigung (EWIV) (ABl. EG Nr. L 199 S. 1) sowie der Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 \u00fcber das Statut der Europ\u00e4ischen Gesellschaft (SE) (ABl. EG Nr. L 294 S. 1) bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004201310",
+        "name": "\u00a7 35",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Wird eine Firma im Handelsregister gel\u00f6scht, weil das Unternehmen nach Art oder Umfang einen in kaufm\u00e4nnischer Weise eingerichteten Gesch\u00e4ftsbetrieb nicht erfordert, so kann auf Antrag des Inhabers in der Bekanntmachung der Grund der L\u00f6schung erw\u00e4hnt werden. Handelt es sich um einen Handwerker, der bereits in die Handwerksrolle eingetragen ist, so kann neben der Angabe des Grundes der L\u00f6schung in der Bekanntmachung auch auf diese Eintragung hingewiesen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004302160",
+        "name": "\u00a7 36",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Der Urkundsbeamte der Gesch\u00e4ftsstelle unterschreibt die Mitteilungen. In geeigneten F\u00e4llen ist darauf hinzuweisen, da\u00df auf die Bekanntgabe verzichtet werden kann (\u00a7 383 Abs. 1 Satz 1 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004406310",
+        "name": "\u00a7 37",
+        "title": "Mitteilungen an andere Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Das Gericht hat jede Neuanlegung und jede \u00c4nderung eines Registerblatts <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Industrie- und Handelskammer,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Handwerkskammer, wenn es sich um ein handwerkliches Unternehmen handelt oder handeln kann, und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Landwirtschaftskammer, wenn es sich um ein land- oder forstwirtschaftliches Unternehmen handelt oder handeln kann, oder, wenn eine Landwirtschaftskammer nicht besteht, der nach Landesrecht zust\u00e4ndigen Stelle</LA></DD> </DL>mitzuteilen. Die \u00fcber Gesch\u00e4ftsr\u00e4ume und Unternehmensgegenstand gemachten Angaben sind ebenfalls mitzuteilen.</P><P>(2) Soweit in anderen Rechtsvorschriften oder durch besondere Anordnung der Landesjustizverwaltung eine Benachrichtigung weiterer Stellen vorgesehen ist, bleiben diese Vorschriften unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004500319",
+        "name": "\u00a7 38",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>Geh\u00f6rt ein Ort oder eine Gemeinde zu den Bezirken verschiedener Registergerichte, so hat jedes Registergericht vor der Eintragung einer neuen Firma oder vor der Eintragung von \u00c4nderungen einer Firma bei den anderen beteiligten Registergerichten anzufragen, ob gegen die Eintragung im Hinblick auf \u00a7 30 des Handelsgesetzbuchs Bedenken bestehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE006201160",
+        "name": "\u00a7 38a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000300319"
+        },
+        "body": "<P>(1) Gerichtliche Verf\u00fcgungen und Benachrichtigungen an Beteiligte, die maschinell erstellt werden, brauchen nicht unterschrieben zu werden. In diesem Fall mu\u00df anstelle der Unterschrift auf dem Schreiben der Vermerk \"Dieses Schreiben ist maschinell erstellt und auch ohne Unterschrift wirksam.\" angebracht sein. Die Verf\u00fcgung mu\u00df den Verfasser mit Funktionsbezeichnung erkennen lassen.</P><P>(2) Die in Absatz 1 bezeichneten maschinell zu erstellenden Schreiben k\u00f6nnen, wenn die Kenntnisnahme durch den Empf\u00e4nger allgemein sichergestellt ist, auch durch Bildschirmmitteilung oder in anderer Weise elektronisch \u00fcbermittelt werden. \u00a7 15 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit bleibt unber\u00fchrt.</P><P>(3) F\u00fcr die Texte f\u00fcr die \u00f6ffentliche Bekanntmachung der Eintragungen sowie f\u00fcr Mitteilungen nach \u00a7 37 und Anfragen nach \u00a7 38 gelten die Abs\u00e4tze 1 und 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG000400319",
+        "name": "IV.",
+        "title": "Sondervorschriften f\u00fcr die Abteilungen A und B",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004601310",
+        "name": "\u00a7 39",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000400319"
+        },
+        "body": "<P>Die Abteilungen A und B werden in getrennten Registern nach den beigegebenen Mustern gef\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG000500319",
+        "name": "Abteilung A",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004710311",
+        "name": "\u00a7 40",
+        "title": "Inhalt der Eintragungen in Abteilung A",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000500319"
+        },
+        "body": "<P>In Abteilung A des Handelsregisters sind die nachfolgenden Angaben einzutragen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 1 ist die laufende Nummer der die Firma betreffenden Eintragungen einzutragen.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 2 sind<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe a die Firma;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe b der Ort der Niederlassung oder der Sitz, bei Einzelkaufleuten und Personenhandelsgesellschaften die inl\u00e4ndische Gesch\u00e4ftsanschrift sowie die Errichtung oder Aufhebung von Zweigniederlassungen, und zwar unter Angabe des Ortes einschlie\u00dflich der Postleitzahl, der inl\u00e4ndischen Gesch\u00e4ftsanschrift und, falls der Firma f\u00fcr eine Zweigniederlassung ein Zusatz beigef\u00fcgt ist, unter Angabe dieses Zusatzes;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe c bei Europ\u00e4ischen wirtschaftlichen Interessenvereinigungen und bei juristischen Personen der Gegenstand des Unternehmens</LA></DD></DL></LA><LA Size=\"normal\">und die sich jeweils darauf beziehenden \u00c4nderungen anzugeben.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 3 sind<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe a die allgemeine Regelung zur Vertretung des Rechtstr\u00e4gers durch die pers\u00f6nlich haftenden Gesellschafter, die Gesch\u00e4ftsf\u00fchrer, die Mitglieder des Vorstandes, bei Kreditinstituten die gerichtlich bestellten vertretungsbefugten Personen sowie die Abwickler oder Liquidatoren, und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe b der Einzelkaufmann, bei Handelsgesellschaften die pers\u00f6nlich haftenden Gesellschafter, bei Europ\u00e4ischen wirtschaftlichen Interessenvereinigungen die Gesch\u00e4ftsf\u00fchrer, bei juristischen Personen die Mitglieder des Vorstandes und deren Stellvertreter, bei Kreditinstituten die gerichtlich bestellten vertretungsberechtigten Personen, die Abwickler oder Liquidatoren unter der Bezeichnung als solche, bei ausl\u00e4ndischen Versicherungsunternehmen die nach \u00a7\u00a068 Absatz\u00a02 des Versicherungsaufsichtsgesetzes bestellten Hauptbevollm\u00e4chtigten sowie bei einer Zweigstelle eines Unternehmens mit Sitz in einem anderen Staat, die Bankgesch\u00e4fte in dem in \u00a7 1 Abs. 1 des Gesetzes \u00fcber das Kreditwesen bezeichneten Umfang betreibt, die nach \u00a7 53 Abs. 2 Nr. 1 des Gesetzes \u00fcber das Kreditwesen bestellten Gesch\u00e4ftsleiter jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung</LA></DD></DL></LA><LA Size=\"normal\">und die jeweils sich darauf beziehenden \u00c4nderungen anzugeben. Weicht die Vertretungsbefugnis der in Spalte 3 unter Buchstabe b einzutragenden Personen im Einzelfall von den Angaben in Spalte 3 unter Buchstabe a ab, so ist diese besondere Vertretungsbefugnis bei den jeweiligen Personen zu vermerken.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 4 sind die die Prokura betreffenden Angaben einschlie\u00dflich Familienname, Vorname, Geburtsdatum und Wohnort der Prokuristen und die sich jeweils darauf beziehenden \u00c4nderungen einzutragen.</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 5 sind anzugeben<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe a die Rechtsform sowie bei juristischen Personen das Datum der Erstellung und jede \u00c4nderung der Satzung; bei der Eintragung gen\u00fcgt, soweit sie nicht die \u00c4nderung der einzutragenden Angaben betrifft, eine allgemeine Bezeichnung des Gegenstands der \u00c4nderung; dabei ist in der Spalte 6 unter Buchstabe b auf die beim Gericht eingereichten Urkunden sowie auf die Stelle der Akten, bei der die Urkunden sich befinden, zu verweisen;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe b<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">die besonderen Bestimmungen des Gr\u00fcndungsvertrages oder der Satzung \u00fcber die Zeitdauer der Europ\u00e4ischen wirtschaftlichen Interessenvereinigung oder juristischen Person sowie alle sich hierauf beziehenden \u00c4nderungen;</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Er\u00f6ffnung, Einstellung und Aufhebung des Insolvenzverfahrens sowie die Aufhebung des Er\u00f6ffnungsbeschlusses; die Bestellung eines vorl\u00e4ufigen Insolvenzverwalters unter den Voraussetzungen des \u00a7 32 Abs. 1 Satz 2 Nr. 2 des Handelsgesetzbuchs sowie die Aufhebung einer derartigen Sicherungsma\u00dfnahme; die Anordnung der Eigenverwaltung durch den Schuldner und deren Aufhebung sowie die Anordnung der Zustimmungsbed\u00fcrftigkeit bestimmter Rechtsgesch\u00e4fte des Schuldners nach \u00a7 277 der Insolvenzordnung; die \u00dcberwachung der Erf\u00fcllung eines Insolvenzplans und die Aufhebung der \u00dcberwachung;</LA></DD><DT>cc)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Klausel \u00fcber die Haftungsbefreiung eines Mitglieds der Europ\u00e4ischen wirtschaftlichen Interessenvereinigung f\u00fcr die vor seinem Beitritt entstandenen Verbindlichkeiten;</LA></DD><DT>dd)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufl\u00f6sung, Fortsetzung und die Nichtigkeit der Gesellschaft, Europ\u00e4ischen wirtschaftlichen Interessenvereinigung oder juristischen Person; der Schluss der Abwicklung der Europ\u00e4ischen wirtschaftlichen Interessenvereinigung; das Erl\u00f6schen der Firma, die L\u00f6schung einer Gesellschaft, Europ\u00e4ischen wirtschaftlichen Interessenvereinigung oder juristischen Person sowie L\u00f6schungen von Amts wegen;</LA></DD><DT>ee)</DT><DD Font=\"normal\"><LA Size=\"normal\">Eintragungen nach dem Umwandlungsgesetz;</LA></DD><DT>ff)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Fall des Erwerbs eines Handelsgesch\u00e4fts bei Fortf\u00fchrung unter der bisherigen Firma eine von \u00a7 25 Abs. 1 des Handelsgesetzbuchs abweichende Vereinbarung;</LA></DD><DT>gg)</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Eintritt eines pers\u00f6nlich haftenden Gesellschafters oder eines Kommanditisten in das Gesch\u00e4ft eines Einzelkaufmanns eine von \u00a7 28 Abs. 1 des Handelsgesetzbuchs abweichende Vereinbarung;</LA></DD></DL></LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe c Familienname, Vorname, Geburtsdatum und Wohnort oder gegebenenfalls Firma, Rechtsform, Sitz oder Niederlassung und der Betrag der Einlage jedes Kommanditisten einer Kommanditgesellschaft sowie bei der Europ\u00e4ischen wirtschaftlichen Interessenvereinigung die Mitglieder mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung</LA></DD></DL></LA><LA Size=\"normal\">und die sich jeweils darauf beziehenden \u00c4nderungen.</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 6 sind unter Buchstabe a der Tag der Eintragung, unter Buchstabe b sonstige Bemerkungen einzutragen.</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Enth\u00e4lt eine Eintragung die Nennung eines in ein \u00f6ffentliches Register eingetragenen Rechtstr\u00e4gers, so sind Art und Ort des Registers sowie die Registernummer dieses Rechtstr\u00e4gers mit zu vermerken.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004800319",
+        "name": "\u00a7 41",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000500319"
+        },
+        "body": "<P>(1) Wird bei dem Eintritt eines pers\u00f6nlich haftenden Gesellschafters oder eines Kommanditisten in das Gesch\u00e4ft eines Einzelkaufmanns oder bei dem Eintritt eines Gesellschafters in eine bestehende Gesellschaft die bisherige Firma nicht fortgef\u00fchrt und die neue Firma unter einer neuen Nummer auf einem anderen Registerblatt eingetragen, so ist der Eintritt in Spalte 5 des Registers bei der bisherigen und bei der neuen Firma zu vermerken. Dasselbe gilt von einer von \u00a7 28 Abs. 1 des Handelsgesetzbuchs abweichenden Vereinbarung.</P><P>(2) Auf jedem Registerblatt ist auf das andere in Spalte \"Bemerkungen\" zu verweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE004900319",
+        "name": "\u00a7 42",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000500319"
+        },
+        "body": "<P>Wird zum Handelsregister angemeldet, da\u00df das Handelsgesch\u00e4ft eines Einzelkaufmanns, einer juristischen Person, einer offenen Handelsgesellschaft oder einer Kommanditgesellschaft auf eine in Abteilung B eingetragene Handelsgesellschaft mit dem Recht zur Fortf\u00fchrung der Firma \u00fcbergegangen ist, so sind die das Handelsgesch\u00e4ft betreffenden Eintragungen in Abteilung A des Registers rot zu unterstreichen. Wird von dem Erwerber die Fortf\u00fchrung der Firma angemeldet, so ist bei der Eintragung in Abteilung B auf das bisherige Registerblatt in der Spalte \"Bemerkungen\" zu verweisen und umgekehrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG000600319",
+        "name": "Abteilung B",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE005015311",
+        "name": "\u00a7 43",
+        "title": "Inhalt der Eintragungen in Abteilung B",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000600319"
+        },
+        "body": "<P>In Abteilung B des Handelsregisters sind die nachfolgenden Angaben einzutragen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 1 ist die laufende Nummer der die Gesellschaft betreffenden Eintragung einzutragen.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 2 sind<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe a die Firma;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe b der Ort der Niederlassung oder der Sitz, bei Aktiengesellschaften, bei einer SE, bei Kommanditgesellschaften auf Aktien und Gesellschaften mit beschr\u00e4nkter Haftung die inl\u00e4ndische Gesch\u00e4ftsanschrift sowie gegebenenfalls Familienname und Vorname oder Firma und Rechtsform sowie inl\u00e4ndische Anschrift einer f\u00fcr Willenserkl\u00e4rungen und Zustellungen empfangsberechtigten Person, sowie die Errichtung oder Aufhebung von Zweigniederlassungen, und zwar unter Angabe des Ortes einschlie\u00dflich der Postleitzahl, der inl\u00e4ndischen Gesch\u00e4ftsanschrift und, falls der Firma f\u00fcr eine Zweigniederlassung ein Zusatz beigef\u00fcgt ist, unter Angabe dieses Zusatzes;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe c der Gegenstand des Unternehmens</LA></DD></DL></LA><LA Size=\"normal\">und die sich jeweils darauf beziehenden \u00c4nderungen anzugeben.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 3 sind bei Aktiengesellschaften, bei einer SE und bei Kommanditgesellschaften auf Aktien die jeweils aktuellen Betr\u00e4ge der H\u00f6he des Grundkapitals, bei Gesellschaften mit beschr\u00e4nkter Haftung die H\u00f6he des Stammkapitals und bei Versicherungsvereinen auf Gegenseitigkeit die H\u00f6he des Gr\u00fcndungsfonds anzugeben.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 4 sind<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe a die allgemeine Regelung zur Vertretung des Rechtstr\u00e4gers durch die Mitglieder des Vorstandes, des Leitungsorgans, die gesch\u00e4ftsf\u00fchrenden Direktoren, die pers\u00f6nlich haftenden Gesellschafter sowie bei Kreditinstituten die gerichtlich bestellten vertretungsbefugten Personen, die Gesch\u00e4ftsf\u00fchrer, die Abwickler oder Liquidatoren und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe b bei Aktiengesellschaften und Versicherungsvereinen auf Gegenseitigkeit die Mitglieder des Vorstandes und ihre Stellvertreter (bei Aktiengesellschaften unter besonderer Bezeichnung des Vorsitzenden), bei einer SE die Mitglieder des Leitungsorgans und ihre Stellvertreter (unter besonderer Bezeichnung ihres Vorsitzenden) oder die gesch\u00e4ftsf\u00fchrenden Direktoren, bei Kommanditgesellschaften auf Aktien die pers\u00f6nlich haftenden Gesellschafter, bei Kreditinstituten die gerichtlich bestellten vertretungsbefugten Personen, bei Gesellschaften mit beschr\u00e4nkter Haftung die Gesch\u00e4ftsf\u00fchrer und ihre Stellvertreter, ferner die Abwickler oder Liquidatoren unter der Bezeichnung als solcher, jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort oder gegebenenfalls mit Firma, Rechtsform, Sitz oder Niederlassung</LA></DD></DL>und die jeweils sich darauf beziehenden \u00c4nderungen anzugeben. Weicht die Vertretungsbefugnis der in Spalte 4 unter Buchstabe b einzutragenden Personen im Einzelfall von den Angaben in Spalte 4 unter Buchstabe a ab, so ist diese besondere Vertretungsbefugnis bei den jeweiligen Personen zu vermerken. Ebenfalls in Spalte 4 unter Buchstabe b sind bei ausl\u00e4ndischen Versicherungsunternehmen die nach \u00a7\u00a068 Absatz\u00a02 des Versicherungsaufsichtsgesetzes bestellten Hauptbevollm\u00e4chtigten, bei einer Zweigstelle eines Unternehmens mit Sitz in einem anderen Staat, die Bankgesch\u00e4fte in dem in \u00a7 1 Abs. 1 des Gesetzes \u00fcber das Kreditwesen bezeichneten Umfang betreibt, die nach \u00a7 53 Abs. 2 Nr. 1 des Gesetzes \u00fcber das Kreditwesen bestellten Gesch\u00e4ftsleiter sowie bei einer Zweigniederlassung einer Aktiengesellschaft, SE oder Gesellschaft mit beschr\u00e4nkter Haftung mit Sitz im Ausland die st\u00e4ndigen Vertreter nach \u00a7 13e Abs. 2 Satz 5 Nr. 3 des Handelsgesetzbuchs jeweils mit Familiennamen, Vornamen, Geburtsdatum und Wohnort unter Angabe ihrer Befugnisse zu vermerken.</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 5 sind die die Prokura betreffenden Eintragungen einschlie\u00dflich Familienname, Vorname, Geburtsdatum und Wohnort der Prokuristen sowie die jeweils sich darauf beziehenden \u00c4nderungen anzugeben.</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Spalte 6 sind anzugeben<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe a die Rechtsform und der Tag der Feststellung der Satzung oder des Abschlusses des Gesellschaftsvertrages; jede \u00c4nderung der Satzung oder des Gesellschaftsvertrages; bei der Eintragung gen\u00fcgt, soweit nicht die \u00c4nderung die einzutragenden Angaben betrifft, eine allgemeine Bezeichnung des Gegenstands der \u00c4nderung;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Buchstabe b neben den entsprechend f\u00fcr die Abteilung A in \u00a7 40 Nr. 5 Buchstabe b Doppelbuchstabe bb einzutragenden Angaben:<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">die besonderen Bestimmungen der Satzung oder des Gesellschaftsvertrages \u00fcber die Zeitdauer der Gesellschaft oder des Versicherungsvereins auf Gegenseitigkeit;</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Eingliederung einschlie\u00dflich der Firma der Hauptgesellschaft sowie das Ende der Eingliederung, sein Grund und sein Zeitpunkt;</LA></DD><DT>cc)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bestehen und die Art von Unternehmensvertr\u00e4gen einschlie\u00dflich des Namens des anderen Vertragsteils, beim Bestehen einer Vielzahl von Teilgewinnabf\u00fchrungsvertr\u00e4gen alternativ anstelle des Namens des anderen Vertragsteils eine Bezeichnung, die den jeweiligen Teilgewinnabf\u00fchrungsvertrag konkret bestimmt, au\u00dferdem die \u00c4nderung des Unternehmensvertrages sowie seine Beendigung unter Angabe des Grundes und des Zeitpunktes;</LA></DD><DT>dd)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufl\u00f6sung, die Fortsetzung und die Nichtigkeit der Gesellschaft oder des Versicherungsvereins auf Gegenseitigkeit;</LA></DD><DT>ee)</DT><DD Font=\"normal\"><LA Size=\"normal\">Eintragungen nach dem Umwandlungsgesetz und nach dem Sanierungs- und Abwicklungsgesetz;</LA></DD><DT>ff)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Erl\u00f6schen der Firma, die L\u00f6schung einer Aktiengesellschaft, SE, Kommanditgesellschaft auf Aktien, Gesellschaft mit beschr\u00e4nkter Haftung oder eines Versicherungsvereins auf Gegenseitigkeit sowie L\u00f6schungen von Amts wegen;</LA></DD><DT>gg)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bestehen eines bedingten Kapitals unter Angabe des Beschlusses der Hauptversammlung und der H\u00f6he des bedingten Kapitals;</LA></DD><DT>hh)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bestehen eines genehmigten Kapitals unter Angabe des Beschlusses der Hauptversammlung oder Gesellschafterversammlung, der H\u00f6he des genehmigten Kapitals und des Zeitpunktes, bis zu dem die Erm\u00e4chtigung besteht;</LA></DD><DT>ii)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Investmentaktiengesellschaften mit variablem Kapital das in der Satzung festgelegte Mindestkapital und H\u00f6chstkapital;</LA></DD><DT>jj)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Beschluss einer \u00dcbertragung von Aktien gegen Barabfindung (\u00a7 327a des Aktiengesetzes) unter Angabe des Tages des Beschlusses;</LA></DD><DT>kk)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Abschluss eines Nachgr\u00fcndungsvertrages unter Angabe des Zeitpunktes des Vertragsschlusses und des Zustimmungsbeschlusses der Hauptversammlung sowie der oder die Vertragspartner der Gesellschaft;</LA></DD><DT>ll)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Versicherungsvereinen auf Gegenseitigkeit der Tag, an dem der Gesch\u00e4ftsbetrieb erlaubt worden ist</LA></DD></DL></LA><LA Size=\"normal\">und die sich jeweils darauf beziehenden \u00c4nderungen.</LA></DD></DL></LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Verwendung der Spalte 7 richtet sich nach den Vorschriften \u00fcber die Benutzung der Spalte 6 der Abteilung A.</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 40 Nr. 7 gilt entsprechend.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE005103160",
+        "name": "\u00a7 44",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000600319"
+        },
+        "body": "<P>Urteile, durch die ein in das Register eingetragener Beschlu\u00df der Hauptversammlung einer Aktiengesellschaft, SE, Kommanditgesellschaft auf Aktien oder der Gesellschafterversammlung einer Gesellschaft mit beschr\u00e4nkter Haftung rechtskr\u00e4ftig f\u00fcr nichtig erkl\u00e4rt ist sowie die nach \u00a7 398 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit verf\u00fcgte L\u00f6schung eines Beschlusses sind in einem Vermerk, der den Beschlu\u00df als nichtig bezeichnet, in diejenigen Spalten des Registerblatts einzutragen, in die der Beschlu\u00df eingetragen war.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE005203160",
+        "name": "\u00a7 45",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000600319"
+        },
+        "body": "<P>(1) Soll eine Aktiengesellschaft, eine SE, eine Kommanditgesellschaft auf Aktien oder eine Gesellschaft mit beschr\u00e4nkter Haftung als nichtig gel\u00f6scht werden, so ist, wenn der Mangel geheilt werden kann, in der nach \u00a7 395 Abs. 2, \u00a7 397 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit ergehenden Benachrichtigung auf diese M\u00f6glichkeit ausdr\u00fccklich hinzuweisen.</P><P>(2) Die L\u00f6schung erfolgt durch Eintragung eines Vermerks, der die Gesellschaft als nichtig bezeichnet. Gleiches gilt, wenn die Gesellschaft durch rechtskr\u00e4ftiges Urteil f\u00fcr nichtig erkl\u00e4rt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE005300319",
+        "name": "\u00a7 46",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000600319"
+        },
+        "body": "<P>Wird bei einer in Abteilung B eingetragenen Handelsgesellschaft die \u00c4nderung der Firma zum Handelsregister angemeldet, weil das Gesch\u00e4ft mit dem Recht zur Fortf\u00fchrung der Firma auf einen Einzelkaufmann, eine juristische Person oder eine Handelsgesellschaft \u00fcbertragen worden ist, und wird von dem Erwerber die Fortf\u00fchrung der Firma angemeldet, so ist bei der Eintragung in der Spalte \"Bemerkungen\" auf das bisherige Registerblatt zu verweisen und umgekehrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG000803310",
+        "name": "IVa.",
+        "title": "Vorschriften f\u00fcr das\nelektronisch gef\u00fchrte Handelsregister",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG000903310",
+        "name": "1.",
+        "title": "Einrichtung des elektronisch gef\u00fchrten Handelsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000803310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE006305125",
+        "name": "\u00a7 47",
+        "title": "Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000903310"
+        },
+        "body": "<P>(1) Bei der elektronischen F\u00fchrung des Handelsregisters muss gew\u00e4hrleistet sein, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Grunds\u00e4tze einer ordnungsgem\u00e4\u00dfen Datenverarbeitung eingehalten, insbesondere Vorkehrungen gegen einen Datenverlust getroffen sowie die erforderlichen Kopien der Datenbest\u00e4nde mindestens tagesaktuell gehalten und die origin\u00e4ren Datenbest\u00e4nde sowie deren Kopien sicher aufbewahrt werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die vorzunehmenden Eintragungen alsbald in einen Datenspeicher aufgenommen und auf Dauer inhaltlich unver\u00e4ndert in lesbarer Form wiedergegeben werden k\u00f6nnen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 erforderlichen Anforderungen erf\u00fcllt sind, soweit es um personenbezogene Daten geht.</LA></DD></DL>Die Dokumente sind in inhaltlich unver\u00e4nderbarer Form zu speichern.</P><P>(2) Wird die Datenverarbeitung im Auftrag des zust\u00e4ndigen Amtsgerichts auf den Anlagen einer anderen staatlichen Stelle oder eines Dritten vorgenommen (\u00a7 387 Abs. 5 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit), so muss sichergestellt sein, dass Eintragungen in das Handelsregister und der Abruf von Daten hieraus nur erfolgen, wenn dies von dem zust\u00e4ndigen Gericht verf\u00fcgt worden oder sonst zul\u00e4ssig ist.</P><P>(3) Die Verarbeitung der Registerdaten auf Anlagen, die nicht im Eigentum der anderen staatlichen Stelle oder des Dritten stehen, ist nur zul\u00e4ssig, wenn gew\u00e4hrleistet ist, dass die Daten dem uneingeschr\u00e4nkten Zugriff des zust\u00e4ndigen Gerichts unterliegen und der Eigent\u00fcmer der Anlage keinen Zugang zu den Daten hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE006403310",
+        "name": "\u00a7 48",
+        "title": "Begriff des elektronisch gef\u00fchrten Handelsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000903310"
+        },
+        "body": "<P>Bei dem elektronisch gef\u00fchrten Handelsregister ist der in den daf\u00fcr bestimmten Datenspeicher aufgenommene und auf Dauer unver\u00e4ndert in lesbarer Form wiedergabef\u00e4hige Inhalt des Registerblattes (\u00a7 13 Abs. 1) das Handelsregister. Die Bestimmung des Datenspeichers nach Satz 1 kann durch Verf\u00fcgung der nach Landesrecht zust\u00e4ndigen Stelle ge\u00e4ndert werden, wenn dies dazu dient, die Erhaltung und die Abrufbarkeit der Daten sicherzustellen oder zu verbessern, und die Daten dabei nicht ver\u00e4ndert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE006503310",
+        "name": "\u00a7 49",
+        "title": "Anforderungen an Anlagen und Programme,\n<BR />\nSicherung der Anlagen, Programme und Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000903310"
+        },
+        "body": "<P>(1) Hinsichtlich der Anforderungen an die f\u00fcr das elektronisch gef\u00fchrte Handelsregister verwendeten Anlagen und Programme, deren Sicherung sowie der Sicherung der Daten gelten die \u00a7\u00a7 64 bis 66 der Grundbuchverf\u00fcgung entsprechend.</P><P>(2) Das eingesetzte Datenverarbeitungssystem soll innerhalb eines jeden Landes einheitlich sein und mit den in den anderen L\u00e4ndern eingesetzten Systemen verbunden werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE006603310",
+        "name": "\u00a7 50",
+        "title": "Gestaltung des elektronisch gef\u00fchrten Handelsregisters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000903310"
+        },
+        "body": "<P>(1) Der Inhalt des elektronisch gef\u00fchrten Handelsregisters mu\u00df auf dem Bildschirm und in Ausdrucken entsprechend den beigegebenen Mustern (Anlagen 4 und 5) sichtbar gemacht werden k\u00f6nnen. Der letzte Stand aller noch nicht gegenstandslos gewordenen Eintragungen (aktueller Registerinhalt) kann statt in spaltenweiser Wiedergabe auch als fortlaufender Text nach den Mustern in Anlage 6 und 7 sichtbar gemacht werden.</P><P>(2) Der Inhalt geschlossener Registerbl\u00e4tter, die nicht f\u00fcr die elektronische Registerf\u00fchrung umgeschrieben wurden, muss entsprechend den beigegebenen Mustern (Anlagen 1 und 2 in der bis zum Inkrafttreten des Gesetzes \u00fcber elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister am 1. Januar 2007 geltenden Fassung dieser Verordnung) auf dem Bildschirm und in Ausdrucken sichtbar gemacht werden k\u00f6nnen, wenn nicht die letzte Eintragung in das Registerblatt vor dem 1. Januar 1997 erfolgte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG001001310",
+        "name": "2.",
+        "title": "Anlegung des elektronisch gef\u00fchrten Registerblatts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000803310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE006702310",
+        "name": "\u00a7 51",
+        "title": "Anlegung des elektronisch gef\u00fchrten\nRegisterblatts durch Umschreibung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001001310"
+        },
+        "body": "<P>Ein bisher in Papierform gef\u00fchrtes Registerblatt kann f\u00fcr die elektronische F\u00fchrung nach den \u00a7\u00a7 51, 52 und 54 in der bis zum Inkrafttreten des Gesetzes \u00fcber elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister am 1. Januar 2007 geltenden Fassung dieser Verordnung umgeschrieben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG001101310",
+        "name": "3.",
+        "title": "Automatisierter Abruf von Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000803310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE006802310",
+        "name": "\u00a7 52",
+        "title": "Umfang des automatisierten Datenabrufs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001101310"
+        },
+        "body": "<P>Umfang und Voraussetzungen des Abrufs im automatisierten Verfahren einschlie\u00dflich des Rechts, von den abgerufenen Daten Abdrucke zu fertigen, bestimmen sich nach \u00a7 9 Abs. 1 des Handelsgesetzbuchs. Abdrucke stehen den Ausdrucken (\u00a7 30a) nicht gleich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE009700310",
+        "name": "\u00a7 53",
+        "title": "Protokollierung der Abrufe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001101310"
+        },
+        "body": "<P>(1) F\u00fcr die Sicherung der ordnungsgem\u00e4\u00dfen Datenverarbeitung und f\u00fcr die Abrechnung der Kosten des Abrufs werden alle Abrufe durch die zust\u00e4ndige Stelle protokolliert. Im Protokoll d\u00fcrfen nur das Gericht, die Nummer des Registerblatts, die abrufende Person oder Stelle, ein Gesch\u00e4fts-, Aktenzeichen oder eine sonstige Kennung des Abrufs, der Zeitpunkt des Abrufs sowie die f\u00fcr die Durchf\u00fchrung des Abrufs verwendeten Daten gespeichert werden.</P><P>(2) Die protokollierten Daten d\u00fcrfen nur f\u00fcr die in Absatz 1 Satz 1 genannten Zwecke verwendet werden. Sie sind durch geeignete Vorkehrungen gegen zweckfremde Nutzung und gegen sonstigen Missbrauch zu sch\u00fctzen.</P><P>(3) Die nach Absatz 1 gefertigten Protokolle werden vier Jahre nach Ablauf des Kalenderjahres, in dem die Zahlung der Kosten erfolgt ist, vernichtet. Im Fall der Einlegung eines Rechtsbehelfs mit dem Ziel der R\u00fcckerstattung verl\u00e4ngert sich die Aufbewahrungsfrist jeweils um den Zeitraum von der Einlegung bis zur abschlie\u00dfenden Entscheidung \u00fcber den Rechtsbehelf.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR705150937BJNG001201310",
+        "name": "4.",
+        "title": "Ersatzregister und Ersatzma\u00dfnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG000803310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE007002310",
+        "name": "\u00a7 54",
+        "title": "Ersatzregister und Ersatzma\u00dfnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": "<P>(1) Ist die Vornahme von Eintragungen in das elektronisch gef\u00fchrte Handelsregister vor\u00fcbergehend nicht m\u00f6glich, so k\u00f6nnen auf Anordnung der nach Landesrecht zust\u00e4ndigen Stelle Eintragungen ohne Vergabe einer neuen Nummer in einem Ersatzregister in Papierform vorgenommen werden, wenn hiervon Verwirrung nicht zu besorgen ist. Sie sollen in das elektronisch gef\u00fchrte Handelsregister \u00fcbernommen werden, sobald dies wieder m\u00f6glich ist. Auf die erneute \u00dcbernahme sind die Vorschriften \u00fcber die Anlegung des maschinell gef\u00fchrten Registerblatts in der bis zum Inkrafttreten des Gesetzes \u00fcber elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister am 1. Januar 2007 geltenden Fassung dieser Verordnung entsprechend anzuwenden.</P><P>(2) F\u00fcr die Einrichtung und F\u00fchrung der Ersatzregister nach Absatz 1 gelten \u00a7 17 Abs. 2 und die Bestimmungen des Abschnitts IV dieser Verordnung sowie die Bestimmungen der Abschnitte I bis III in der bis zum Inkrafttreten des Gesetzes \u00fcber elektronische Handelsregister und Genossenschaftsregister sowie das Unternehmensregister am 1. Januar 2007 geltenden Fassung dieser Verordnung.</P><P>(3) K\u00f6nnen elektronische Anmeldungen und Dokumente vor\u00fcbergehend nicht entgegengenommen werden, so kann die nach Landesrecht zust\u00e4ndige Stelle anordnen, dass Anmeldungen und Dokumente auch in Papierform zum Handelsregister eingereicht werden k\u00f6nnen. Die aufgrund einer Anordnung nach Satz 1 eingereichten Schriftst\u00fccke sind unverz\u00fcglich in elektronische Dokumente zu \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE005600319",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": "<P><SP>Der Reichsminister der Justiz</SP></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE005701310",
+        "name": "Anlage 1",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE005801310",
+        "name": "Anlage 2",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE005903160",
+        "name": "Anlage 3",
+        "title": "(zu \u00a7 33 Abs. 3)<BR />Muster f\u00fcr Bekanntmachungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": "<P><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2008, 2040)</kommentar><BR />Amtsgericht Charlottenburg \u2013 Registergericht \u2013,<BR />Aktenzeichen: HRB 8297</P><P>In ( ) gesetzte Angaben der Anschrift und des Gesch\u00e4ftszweiges erfolgen ohne Gew\u00e4hr:</P><P>Neueintragungen<BR />27.06.2009<BR />HRB 8297 Jahn &amp; Schubert GmbH, Berlin, Behrenstr. 9, 10117 Berlin. Gesellschaft mit beschr\u00e4nkter Haftung. Gegenstand: der Betrieb einer Buchdruckerei. Stammkapital: 30\u00a0000 EUR. Allgemeine Vertretungsregelung: Ist nur ein Gesch\u00e4ftsf\u00fchrer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Gesch\u00e4ftsf\u00fchrer bestellt, so wird die Gesellschaft durch zwei Gesch\u00e4ftsf\u00fchrer oder durch einen Gesch\u00e4ftsf\u00fchrer gemeinsam mit einem Prokuristen vertreten. Gesch\u00e4ftsf\u00fchrerin: Wedemann, Frauke, Berlin *18.05.1986, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgesch\u00e4fte abzuschlie\u00dfen. Gesellschaftsvertrag vom 13. 01. 2009 mit \u00c4nderung vom 17.01.2009.</P><P>Bekannt gemacht am: 30.06.2009.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE008802160",
+        "name": "Anlage 4",
+        "title": "(zu \u00a7 50 Abs. 1)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2001, 3693;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)</kommentar><BR /><pre xml:space=\"preserve\"> <BR />Handelsregister des Amtsgerichts       Abteilung A       Nummer der Firma: HR A<BR /><BR />-------------------------------------------------------------------------------<BR />           I a) Firma     I a) Allgemeine  I         I a) Rechtsform, I a) Tag<BR />           I b) Sitz,     I    Vertretungs-          I    Beginn und  I    der<BR />           I    Nieder-   I    regelung    I         I    Satzung     I    Ein-<BR />           I    lassung,  I b) Inhaber,    I         I b) Sonstige    I    tra-<BR />           I    inl\u00e4ndische    pers\u00f6nlich  I         I    Rechts-     I    gung   <BR />           I    Gesch\u00e4fts-     haftende    I Prokura I    verh\u00e4ltnisse  b) Be-<BR />           I    anschrift I    Gesell-     I         I c) Komman-     I    mer-<BR />           I    Zweig-    I    schafter,   I         I    ditisten,   I    kun-<BR />Nummer der I    nieder-   I    Gesch\u00e4ftts- I         I    Mitglieder  I    gen<BR />Eintragung I    lassungen I    f\u00fchrer,     I         I    2)          I<BR />           I c) Gegenstand     Vorstand,   I         I                I<BR />           I    des Unter-     Vertretungs-          I                I<BR />           I    nehmens 1)     berechtigte I         I                I<BR />           I              I    und besondere         I                I<BR />           I              I    Vertretungs-          I                I<BR />           I              I    befugnis    I         I                I<BR />           I              I    befugnis    I         I                I<BR />-------------------------------------------------------------------------------<BR />     1     I      2       I        3       I    4    I        5       I    6<BR />-------------------------------------------------------------------------------<BR />           I              I                I         I                I<BR />           I              I                I         I                I<BR />           I              I                I         I                I<BR />           I              I                I         I                I<BR />           I              I                I         I                I<BR />           I              I                I         I                I<BR />           I              I                I         I                I<BR />           I              I                I         I                I<BR />           I              I                I         I                I </pre>----- <DL Font=\"normal\" Type=\"arabic\"><DT>1)</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Anmeldung des Unternehmensgegenstandes ist nur bei der Europ\u00e4ischen wirtschaftlichen Interessenvereinigung und Juristischen Personen zwingend.</LA></DD><DT>2)</DT><DD Font=\"normal\"><LA Size=\"normal\">Mitglieder sind hier solche der Europ\u00e4ischen wirtschaftlichen Interessenvereinigung.</LA></DD></DL>Anmerkung: Die Kopfzeile und die Spalten\u00fcberschriften m\u00fcssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE008904160",
+        "name": "Anlage 5",
+        "title": "(zu \u00a7 50 Abs. 1)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2001, 3693;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)</kommentar><BR /><pre xml:space=\"preserve\"> <BR />Handelsregister des Amtsgerichts       Abteilung B       Nummer der Firma: HR B<BR /><BR />-------------------------------------------------------------------------------<BR />       I a) Firma     I       I a) Allgemeine I      I a) Rechtsform, I a) Tag<BR />       I b) Sitz,     I       I    Vertretungs-      I    Beginn,     I    der<BR />       I    Nieder-   I       I    regelung   I      I    Satzung     I    Ein-<BR />       I    lassung,          I b) Vorstand,  I      I    oder Gesell-     tra-   <BR />       I    inl\u00e4ndische       I    Leitungs-  I      I    schafts-    I    gung<BR />       I    Gesch\u00e4fts-  Grund I    organ,     I      I    vertrag     I b) Bem-<BR />       I    anschrift,  oder  I    gesch\u00e4fts- I Pro- I b) Sonstige    I    er-      I    <BR />       I    empfangs- I Stamm-     f\u00fchrende   I kura I    Rechts-     I    kun-<BR />       I    berechtigte kapital    Direktoren,I      I    verh\u00e4ltnisse     gen<BR />       I    Person    I       I    pers\u00f6nlich I      I                I          <BR />Nummer I    Zweig-    I       I    haftende   I      I                I<BR />der    I    nieder-   I       I    Gesell-    I      I                I<BR />Ein-   I    lassungen I       I    schafter,  I      I                I<BR />tragung  c) Gegenstand        I    Gesch\u00e4fts- I      I                I<BR />       I    des Unter-        I    f\u00fchrer,    I      I                I<BR />       I    nehmens   I       I    Vertretungs-      I                I<BR />       I              I       I    berechtigte       I                I<BR />       I              I       I    und besondere     I                I<BR />       I              I       I    Vertretungs-      I                I<BR />       I              I       I    befugnis          I                I<BR /><BR />-------------------------------------------------------------------------------<BR />  1    I      2       I   3   I       4       I  5   I       6        I    7<BR />-------------------------------------------------------------------------------<BR />       I              I       I               I      I                I<BR />       I              I       I               I      I                I<BR />       I              I       I               I      I                I<BR />       I              I       I               I      I                I<BR />       I              I       I               I      I                I<BR />       I              I       I               I      I                I<BR />       I              I       I               I      I                I<BR />       I              I       I               I      I                I<BR />       I              I       I               I      I                I </pre>----- <BR />Anmerkung: Die Kopfzeile und die Spalten\u00fcberschriften m\u00fcssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE009002160",
+        "name": "Anlage 6",
+        "title": "(zu \u00a7 50 Abs. 1)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2001, 3694;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)</kommentar><BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"5\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"35*\" /><colspec colname=\"col4\" colnum=\"4\" colwidth=\"30*\" /><colspec colname=\"col5\" colnum=\"5\" colwidth=\"35*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Handelsregister des Amtsgerichts</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Abteilung A</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">Nummer der Firma: HR A</entry></row><row rowsep=\"1\"><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Wiedergabe des aktuellen Registerinhalts</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Anzahl der bisherigen Eintragungen:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Firma:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" morerows=\"1\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Sitz, Niederlassung, inl\u00e4ndische Gesch\u00e4ftsanschrift Zweigniederlassungen:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">c)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Gegenstand des Unternehmens: 1)</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Allgemeine Vertretungsregelung:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Inhaber, pers\u00f6nlich haftende Gesellschafter, Gesch\u00e4ftsf\u00fchrer, Vorstand, Vertretungsberechtigte und besondere Vertretungsbefugnis:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Prokura:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Rechtsform, Beginn und Satzung:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" morerows=\"1\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Sonstige Rechtsverh\u00e4ltnisse:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">c)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Kommanditisten, Mitglieder 2):</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">6.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Tag der letzten Eintragung:</entry></row></tbody></tgroup></table><BR />----- <DL Font=\"normal\" Type=\"arabic\"><DT>1)</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Anmeldung des Unternehmensgegenstandes ist nur bei der Europ\u00e4ischen wirtschaftlichen Interessenvereinigung und juristischen Personen zwingend.</LA></DD><DT>2)</DT><DD Font=\"normal\"><LA Size=\"normal\">Mitglieder sind hier solche der Europ\u00e4ischen wirtschaftlichen Interessenvereinigung.</LA></DD></DL>Anmerkung: Die beiden Kopfzeilen m\u00fcssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE009103160",
+        "name": "Anlage 7",
+        "title": "(zu \u00a7 50 Abs. 1)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2001, 3694;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)</kommentar><BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"5\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"40*\" /><colspec colname=\"col4\" colnum=\"4\" colwidth=\"25\" /><colspec colname=\"col5\" colnum=\"5\" colwidth=\"35*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Handelsregister des Amtsgerichts</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Abteilung B</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">Nummer der Firma: HR B</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Wiedergabe des aktuellen Registerinhalts</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Anzahl der bisherigen Eintragungen:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Firma:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" morerows=\"1\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Sitz, Niederlassung, inl\u00e4ndische Gesch\u00e4ftsanschrift, empfangsberechtigte Person Zweigniederlassungen:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">c)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Gegenstand des Unternehmens:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Grund- oder Stammkapital:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Allgemeine Vertretungsregelung:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Vorstand, Leitungsorgan, gesch\u00e4ftsf\u00fchrende Direktoren, pers\u00f6nlich haftende Gesellschafter, Gesch\u00e4ftsf\u00fchrer, Vertretungsberechtigte und besondere Vertretungsbefugnis:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Prokura:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">6.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Rechtsform, Beginn, Satzung oder Gesellschaftsvertrag:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Sonstige Rechtsverh\u00e4ltnisse:</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">7.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Tag der letzten Eintragung:</entry></row></tbody></tgroup></table><BR />----- <BR />Anmerkung: Die beiden Kopfzeilen m\u00fcssen beim Abruf der Registerdaten auf dem Bildschirm stets sichtbar sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR705150937BJNE009201310",
+        "name": "Anlage 8",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR705150937BJNG001201310"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

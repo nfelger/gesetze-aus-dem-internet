@@ -1,0 +1,1218 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR007560955",
+    "firstPublished": "1955-12-21",
+    "sourceTimestamp": "20210615213040",
+    "titleShort": null,
+    "titleLong": "Einkommensteuer-Durchf\u00fchrungsverordnung",
+    "abbreviation": "EStDV 1955",
+    "slug": "estdv_1955",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1955, 756",
+        "periodical": "BGBl I"
+      },
+      {
+        "reference": "1955, 710",
+        "periodical": "BStBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 10.5.2000 I 717;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 10 G v. 2.6.2021 I 1259",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 25.6.1981 +++)<BR />(+++ Zur Anwendung vgl. \u00a7\u00a7 1, 64 u. 84 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE002527123",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"60*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"15*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung auf Ehegatten und Lebenspartner</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 1</entry></row><row><entry VJ=\"1\" /><entry VJ=\"1\">(weggefallen)</entry><entry VJ=\"1\" valign=\"bottom\">\u00a7\u00a7 2 und 3</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 3 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Steuerfreie Einnahmen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 4</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 5</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu den \u00a7\u00a7 4 bis 7 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Er\u00f6ffnung, Erwerb, Aufgabe und Ver\u00e4u\u00dferung eines Betriebs</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 6</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 7</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Eigenbetrieblich genutzte Grundst\u00fccke von untergeordnetem Wert</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 8</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 8a</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wirtschaftsjahr</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 8b</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wirtschaftsjahr bei Land- und Forstwirten</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 8c</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 9</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anschaffung, Herstellung</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 9a</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Absetzung f\u00fcr Abnutzung im Fall des \u00a7 4 Abs. 3 des Gesetzes</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 10</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 10a</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 11 bis 11b</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Absetzung f\u00fcr Abnutzung bei Geb\u00e4uden</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 11c</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Absetzung f\u00fcr Abnutzung oder Substanzverringerung bei nicht zu einem Betriebsverm\u00f6gen geh\u00f6renden Wirtschaftsg\u00fctern, die der Steuerpflichtige unentgeltlich erworben hat</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 11d</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 12</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu den \u00a7\u00a7 7e und 10a des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 13 und 14</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 7b des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erh\u00f6hte Absetzungen f\u00fcr Einfamilienh\u00e4user, Zweifamilienh\u00e4user und Eigentumswohnungen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 15</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 16 bis 21</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 7e des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 22 bis 28</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 10 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anzeigepflichten bei Versicherungsvertr\u00e4gen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 29</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Nachversteuerung bei Versicherungsvertr\u00e4gen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 30</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 31 bis 44</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 10a des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 45 bis 47</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 10b des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 48 u. 49</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zuwendungsbest\u00e4tigung</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 50</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 13 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pauschale Ermittlung der Gewinne aus Holznutzungen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 51</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Mitteilungspflichten bei Beihilfen aus \u00f6ffentlichen Mitteln</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 52</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 17 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anschaffungskosten bestimmter Anteile an Kapitalgesellschaften</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 53</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbersendung von Urkunden durch die Notare</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 54</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 22 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ermittlung des Ertrags aus Leibrenten in besonderen F\u00e4llen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 55</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 25 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Steuererkl\u00e4rungspflicht</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 56</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 57 bis 59</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unterlagen zur Steuererkl\u00e4rung</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 60</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu den \u00a7\u00a7 26a und 26b des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Antrag auf h\u00e4lftige Verteilung von Abzugsbetr\u00e4gen im Fall des \u00a7 26a des Gesetzes</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 61</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 62 bis 62c</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung des \u00a7 10d des Gesetzes bei der Veranlagung von Ehegatten</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 62d</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 63</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 33 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 64</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 33b des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Nachweis der Behinderung und des Pflegegrads</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 65</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 66 und 67</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 34b des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Nutzungssatz, Betriebsgutachten, Betriebswerk</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 68</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 34c des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Eink\u00fcnfte aus mehreren ausl\u00e4ndischen Staaten</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 68a</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Nachweis \u00fcber die H\u00f6he der ausl\u00e4ndischen Eink\u00fcnfte und Steuern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 68b</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 69</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 46 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausgleich von H\u00e4rten in bestimmten F\u00e4llen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 70</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 71 und 72</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 50 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 73</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 50a des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Begriffsbestimmungen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 73a</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 73b</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zeitpunkt des Zuflie\u00dfens im Sinne des \u00a7 50a Abs. 5 Satz 1 des Gesetzes</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 73c</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufzeichnungen, Aufbewahrungspflichten, Steueraufsicht</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 73d</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einbehaltung, Abf\u00fchrung und Anmeldung der Steuer von Verg\u00fctungen im Sinne des \u00a7 50a Abs. 1 und 7 des Gesetzes (\u00a7 50a Abs. 5 des Gesetzes)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 73e</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Steuerabzug in den F\u00e4llen des \u00a7 50a Abs. 6 des Gesetzes</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 73f</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Haftungsbescheid</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 73g</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Zu \u00a7 51 des Gesetzes</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 74 bis 80</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bewertungsfreiheit f\u00fcr bestimmte Wirtschaftsg\u00fcter des Anlageverm\u00f6gens im Kohlen- und Erzbergbau</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 81</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 82</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erh\u00f6hte Absetzungen von Herstellungskosten und Sonderbehandlung von Erhaltungsaufwand f\u00fcr bestimmte Anlagen und Einrichtungen bei Geb\u00e4uden</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 82a</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Behandlung gr\u00f6\u00dferen Erhaltungsaufwands bei Wohngeb\u00e4uden</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 82b</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 82c bis 82e</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bewertungsfreiheit f\u00fcr Handelsschiffe, f\u00fcr Schiffe, die der Seefischerei dienen, und f\u00fcr Luftfahrzeuge</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 82f</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erh\u00f6hte Absetzungen von Herstellungskosten f\u00fcr bestimmte Bauma\u00dfnahmen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 82g</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 82h</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erh\u00f6hte Absetzungen von Herstellungskosten bei Baudenkm\u00e4lern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 82i</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 83</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\"><B>Schlussvorschriften</B></entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendungsvorschriften</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 84</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(gegenstandslos)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 85</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\"><BR /><B>Anlage 1</B></entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">(weggefallen)</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\"><B>Anlagen 2 bis 4</B></entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">(weggefallen)</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\"><B>Anlage 5</B></entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Verzeichnis der Wirtschaftsg\u00fcter des Anlageverm\u00f6gens \u00fcber Tage im Sinne des \u00a7 81 Abs. 3 Nr. 1</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\"><B>Anlage 6</B></entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Verzeichnis der Wirtschaftsg\u00fcter des beweglichen Anlageverm\u00f6gens im Sinne des \u00a7 81 Abs. 3 Nr. 2</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE002606119",
+        "name": "\u00a7 1",
+        "title": "Anwendung auf Ehegatten und Lebenspartner",
+        "parent": null,
+        "body": "<P>Die Regelungen dieser Verordnung zu Ehegatten und Ehen sind auch auf Lebenspartner und Lebenspartnerschaften anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE014300119",
+        "name": "(XXXX) \u00a7\u00a7 2 und 3",
+        "title": "(weggefallen)",
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG000105301",
+        "name": "-",
+        "title": "Zu \u00a7 3 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE002705301",
+        "name": "\u00a7 4",
+        "title": "Steuerfreie Einnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000105301"
+        },
+        "body": "<P>Die Vorschriften der Lohnsteuer-Durchf\u00fchrungsverordnung \u00fcber die Steuerpflicht oder die Steuerfreiheit von Einnahmen aus nichtselbst\u00e4ndiger Arbeit sind bei der Veranlagung anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE002805301",
+        "name": "\u00a7 5",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000105301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG000205301",
+        "name": "-",
+        "title": "Zu den \u00a7\u00a7 4 bis 7 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE002905301",
+        "name": "\u00a7 6",
+        "title": "Er\u00f6ffnung, Erwerb, Aufgabe und Ver\u00e4u\u00dferung eines Betriebs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": "<P>(1) Wird ein Betrieb er\u00f6ffnet oder erworben, so tritt bei der Ermittlung des Gewinns an die Stelle des Betriebsverm\u00f6gens am Schluss des vorangegangenen Wirtschaftsjahrs das Betriebsverm\u00f6gen im Zeitpunkt der Er\u00f6ffnung oder des Erwerbs des Betriebs.</P><P>(2) Wird ein Betrieb aufgegeben oder ver\u00e4u\u00dfert, so tritt bei der Ermittlung des Gewinns an die Stelle des Betriebsverm\u00f6gens am Schluss des Wirtschaftsjahrs das Betriebsverm\u00f6gen im Zeitpunkt der Aufgabe oder der Ver\u00e4u\u00dferung des Betriebs.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE003006301",
+        "name": "\u00a7 7",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE014003301",
+        "name": "\u00a7 8",
+        "title": "Eigenbetrieblich genutzte Grundst\u00fccke von untergeordnetem Wert",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": "<P>Eigenbetrieblich genutzte Grundst\u00fccksteile brauchen nicht als Betriebsverm\u00f6gen behandelt zu werden, wenn ihr Wert nicht mehr als ein F\u00fcnftel des gemeinen Werts des gesamten Grundst\u00fccks und nicht mehr als 20.500 Euro betr\u00e4gt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE003108301",
+        "name": "\u00a7 8a",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE003305301",
+        "name": "\u00a7 8b",
+        "title": "Wirtschaftsjahr",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Das Wirtschaftsjahr umfasst einen Zeitraum von zw\u00f6lf Monaten. <SUP class=\"Rec\">2</SUP>Es darf einen Zeitraum von weniger als zw\u00f6lf Monaten umfassen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Betrieb er\u00f6ffnet, erworben, aufgegeben oder ver\u00e4u\u00dfert wird oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Steuerpflichtiger von regelm\u00e4\u00dfigen Abschl\u00fcssen auf einen bestimmten Tag zu regelm\u00e4\u00dfigen Abschl\u00fcssen auf einen anderen bestimmten Tag \u00fcbergeht. <SUP class=\"Rec\">2</SUP>Bei Umstellung eines Wirtschaftsjahrs, das mit dem Kalenderjahr \u00fcbereinstimmt, auf ein vom Kalenderjahr abweichendes Wirtschaftsjahr und bei Umstellung eines vom Kalenderjahr abweichenden Wirtschaftsjahrs auf ein anderes vom Kalenderjahr abweichendes Wirtschaftsjahr gilt dies nur, wenn die Umstellung im Einvernehmen mit dem Finanzamt vorgenommen wird.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE003412123",
+        "name": "\u00a7 8c",
+        "title": "Wirtschaftsjahr bei Land- und Forstwirten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Als Wirtschaftsjahr im Sinne des \u00a7 4a Abs. 1 Nr. 1 des Gesetzes k\u00f6nnen Betriebe mit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Futterbauanteil von 80 Prozent und mehr der Fl\u00e4che der landwirtschaftlichen Nutzung den Zeitraum vom 1. Mai bis 30. April,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">reiner Forstwirtschaft den Zeitraum vom 1. Oktober bis 30. September,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">reinem Weinbau den Zeitraum vom 1. September bis 31. August</LA></DD></DL>bestimmen. <SUP class=\"Rec\">2</SUP>Ein Betrieb der in Satz 1 bezeichneten Art liegt auch dann vor, wenn daneben in geringem Umfang noch eine andere land- und forstwirtschaftliche Nutzung vorhanden ist. <SUP class=\"Rec\">3</SUP>Soweit die Oberfinanzdirektionen vor dem 1. Januar 1955 ein anderes als die in \u00a7 4a Abs. 1 Nr. 1 des Gesetzes oder in Satz 1 bezeichneten Wirtschaftsjahre festgesetzt haben, kann dieser andere Zeitraum als Wirtschaftsjahr bestimmt werden; dies gilt nicht f\u00fcr den Weinbau.</P><P>(2) <SUP class=\"Rec\">1</SUP>Land- und forstwirtschaftliche Betriebe k\u00f6nnen auch das Kalenderjahr als Wirtschaftsjahr bestimmen. <SUP class=\"Rec\">2</SUP>Stellt ein Land- und Forstwirt von einem vom Kalenderjahr abweichenden Wirtschaftsjahr auf ein mit dem Kalenderjahr \u00fcbereinstimmendes Wirtschaftsjahr um, verl\u00e4ngert sich das letzte vom Kalenderjahr abweichende Wirtschaftsjahr um den Zeitraum bis zum Beginn des ersten mit dem Kalenderjahr \u00fcbereinstimmenden Wirtschaftsjahr; ein Rumpfwirtschaftsjahr ist nicht zu bilden. <SUP class=\"Rec\">3</SUP>Stellt ein Land- und Forstwirt das Wirtschaftsjahr f\u00fcr einen Betrieb mit reinem Weinbau auf ein Wirtschaftsjahr im Sinne des Absatzes 1 Satz 1 Nr. 3 um, gilt Satz 2 entsprechend.</P><P>(3) Buchf\u00fchrende Land- und Forstwirte im Sinne des \u00a7 4a Absatz 1 Satz 2 Nummer 3 Satz 2 des Gesetzes sind Land- und Forstwirte, die auf Grund einer gesetzlichen Verpflichtung oder ohne eine solche Verpflichtung B\u00fccher f\u00fchren und regelm\u00e4\u00dfig Abschl\u00fcsse machen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 8c Abs. 2 Satz 1: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE003505301",
+        "name": "\u00a7 9",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE003605301",
+        "name": "\u00a7 9a",
+        "title": "Anschaffung, Herstellung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": "<P>Jahr der Anschaffung ist das Jahr der Lieferung, Jahr der Herstellung ist das Jahr der Fertigstellung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE003706301",
+        "name": "\u00a7 10",
+        "title": "Absetzung f\u00fcr Abnutzung im Fall des \u00a7 4 Abs. 3 des Gesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Bei nicht in dem in Artikel 3 des Einigungsvertrages genannten Gebiet belegenen Geb\u00e4uden, die bereits am 21. Juni 1948 zum Betriebsverm\u00f6gen geh\u00f6rt haben, sind im Fall des \u00a7 4 Abs. 3 des Gesetzes f\u00fcr die Bemessung der Absetzung f\u00fcr Abnutzung als Anschaffungs- oder Herstellungskosten h\u00f6chstens die Werte zugrunde zu legen, die sich bei sinngem\u00e4\u00dfer Anwendung des \u00a7 16 Abs. 1 des D-Markbilanzgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4140-1, ver\u00f6ffentlichten bereinigten Fassung ergeben w\u00fcrden. <SUP class=\"Rec\">2</SUP>In dem Teil des Landes Berlin, in dem das Grundgesetz bereits vor dem 3. Oktober 1990 galt, tritt an die Stelle des 21. Juni 1948 der 1. April 1949.</P><P>(2) F\u00fcr Geb\u00e4ude, die zum Betriebsverm\u00f6gen eines Betriebs oder einer Betriebsst\u00e4tte im Saarland geh\u00f6ren, gilt Absatz 1 mit der Ma\u00dfgabe, dass an die Stelle des 21. Juni 1948 der 6. Juli 1959 sowie an die Stelle des \u00a7 16 Abs. 1 des D-Markbilanzgesetzes der \u00a7 8 Abs. 1 und der \u00a7 11 des D-Markbilanzgesetzes f\u00fcr das Saarland in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4140-2, ver\u00f6ffentlichten bereinigten Fassung treten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE003807140",
+        "name": "\u00a7 10a",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE004006301",
+        "name": "(XXXX) \u00a7\u00a7 11 bis 11b",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE004206301",
+        "name": "\u00a7 11c",
+        "title": "Absetzung f\u00fcr Abnutzung bei Geb\u00e4uden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Nutzungsdauer eines Geb\u00e4udes im Sinne des \u00a7 7 Abs. 4 Satz 2 des Gesetzes ist der Zeitraum, in dem ein Geb\u00e4ude voraussichtlich seiner Zweckbestimmung entsprechend genutzt werden kann. <SUP class=\"Rec\">2</SUP>Der Zeitraum der Nutzungsdauer beginnt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Geb\u00e4uden, die der Steuerpflichtige vor dem 21. Juni 1948 angeschafft oder hergestellt hat, mit dem 21. Juni 1948;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Geb\u00e4uden, die der Steuerpflichtige nach dem 20. Juni 1948 hergestellt hat, mit dem Zeitpunkt der Fertigstellung;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Geb\u00e4uden, die der Steuerpflichtige nach dem 20. Juni 1948 angeschafft hat, mit dem Zeitpunkt der Anschaffung.</LA></DD> </DL><SUP class=\"Rec\">3</SUP>F\u00fcr im Land Berlin belegene Geb\u00e4ude treten an die Stelle des 20. Juni 1948 jeweils der 31. M\u00e4rz 1949 und an die Stelle des 21. Juni 1948 jeweils der 1. April 1949. <SUP class=\"Rec\">4</SUP>F\u00fcr im Saarland belegene Geb\u00e4ude treten an die Stelle des 20. Juni 1948 jeweils der 19. November 1947 und an die Stelle des 21. Juni 1948 jeweils der 20. November 1947; soweit im Saarland belegene Geb\u00e4ude zu einem Betriebsverm\u00f6gen geh\u00f6ren, treten an die Stelle des 20. Juni 1948 jeweils der 5. Juli 1959 und an die Stelle des 21. Juni 1948 jeweils der 6. Juli 1959.</P><P>(2) <SUP class=\"Rec\">1</SUP>Hat der Steuerpflichtige nach \u00a7 7 Abs. 4 Satz 3 des Gesetzes bei einem Geb\u00e4ude eine Absetzung f\u00fcr au\u00dfergew\u00f6hnliche technische oder wirtschaftliche Abnutzung vorgenommen, so bemessen sich die Absetzungen f\u00fcr Abnutzung von dem folgenden Wirtschaftsjahr oder Kalenderjahr an nach den Anschaffungs- oder Herstellungskosten des Geb\u00e4udes abz\u00fcglich des Betrags der Absetzung f\u00fcr au\u00dfergew\u00f6hnliche technische oder wirtschaftliche Abnutzung. <SUP class=\"Rec\">2</SUP>Entsprechendes gilt, wenn der Steuerpflichtige ein zu einem Betriebsverm\u00f6gen geh\u00f6rendes Geb\u00e4ude nach \u00a7 6 Abs. 1 Nr. 1 Satz 2 des Gesetzes mit dem niedrigeren Teilwert angesetzt hat. <SUP class=\"Rec\">3</SUP>Im Fall der Zuschreibung nach \u00a7 7 Abs. 4 Satz 3 des Gesetzes oder der Wertaufholung nach \u00a7 6 Abs. 1 Nr. 1 Satz 4 des Gesetzes erh\u00f6ht sich die Bemessungsgrundlage f\u00fcr die Absetzungen f\u00fcr Abnutzung von dem folgenden Wirtschaftsjahr oder Kalenderjahr an um den Betrag der Zuschreibung oder Wertaufholung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE004306140",
+        "name": "\u00a7 11d",
+        "title": "Absetzung f\u00fcr Abnutzung oder Substanzverringerung bei nicht zu einem Betriebsverm\u00f6gen geh\u00f6renden Wirtschaftsg\u00fctern, die der Steuerpflichtige unentgeltlich erworben hat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Bei den nicht zu einem Betriebsverm\u00f6gen geh\u00f6renden Wirtschaftsg\u00fctern, die der Steuerpflichtige unentgeltlich erworben hat, bemessen sich die Absetzungen f\u00fcr Abnutzung nach den Anschaffungs- oder Herstellungskosten des Rechtsvorg\u00e4ngers oder dem Wert, der beim Rechtsvorg\u00e4nger an deren Stelle getreten ist oder treten w\u00fcrde, wenn dieser noch Eigent\u00fcmer w\u00e4re, zuz\u00fcglich der vom Rechtsnachfolger aufgewendeten Herstellungskosten und nach dem Prozentsatz, der f\u00fcr den Rechtsvorg\u00e4nger ma\u00dfgebend sein w\u00fcrde, wenn er noch Eigent\u00fcmer des Wirtschaftsguts w\u00e4re. <SUP class=\"Rec\">2</SUP>Absetzungen f\u00fcr Abnutzung durch den Rechtsnachfolger sind nur zul\u00e4ssig, soweit die vom Rechtsvorg\u00e4nger und vom Rechtsnachfolger zusammen vorgenommenen Absetzungen f\u00fcr Abnutzung, erh\u00f6hten Absetzungen und Abschreibungen bei dem Wirtschaftsgut noch nicht zur vollen Absetzung gef\u00fchrt haben. <SUP class=\"Rec\">3</SUP>Die S\u00e4tze 1 und 2 gelten f\u00fcr die Absetzung f\u00fcr Substanzverringerung und f\u00fcr erh\u00f6hte Absetzungen entsprechend.</P><P>(2) Bei Bodensch\u00e4tzen, die der Steuerpflichtige auf einem ihm geh\u00f6renden Grundst\u00fcck entdeckt hat, sind Absetzungen f\u00fcr Substanzverringerung nicht zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE004405301",
+        "name": "\u00a7 12",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000205301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG000305301",
+        "name": "-",
+        "title": "Zu den \u00a7\u00a7 7e und 10a des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE004506301",
+        "name": "(XXXX) \u00a7\u00a7 13 und 14",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000305301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG000405301",
+        "name": "-",
+        "title": "Zu \u00a7 7b des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE004707301",
+        "name": "\u00a7 15",
+        "title": "Erh\u00f6hte Absetzungen f\u00fcr Einfamilienh\u00e4user, Zweifamilienh\u00e4user\nund Eigentumswohnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000405301"
+        },
+        "body": "<P>(1) Bauherr ist, wer auf eigene Rechnung und Gefahr ein Geb\u00e4ude baut oder bauen l\u00e4sst.</P><P>(2) In den F\u00e4llen des \u00a7 7b des Gesetzes in den vor Inkrafttreten des Gesetzes vom 22. Dezember 1981 (BGBl. I S. 1523) geltenden Fassungen und des \u00a7 54 des Gesetzes in der Fassung der Bekanntmachung vom 24. Januar 1984 (BGBl. I S. 113) ist \u00a7 15 der Einkommensteuer-Durchf\u00fchrungsverordnung 1979 (BGBl. 1980 I S. 1801), ge\u00e4ndert durch die Verordnung vom 11. Juni 1981 (BGBl. I S. 526), weiter anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE004906301",
+        "name": "(XXXX) \u00a7\u00a7 16 bis 21",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000405301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG000505301",
+        "name": "-",
+        "title": "Zu \u00a7 7e des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE005205301",
+        "name": "(XXXX) \u00a7\u00a7 22 bis 28",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000505301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG000805301",
+        "name": "-",
+        "title": "Zu \u00a7 10 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE005312301",
+        "name": "\u00a7 29",
+        "title": "Anzeigepflichten bei Versicherungsvertr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000805301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Bei Versicherungen, deren Laufzeit vor dem 1. Januar 2005 begonnen hat, hat der Sicherungsnehmer nach amtlich vorgeschriebenem Muster dem f\u00fcr die Veranlagung des Versicherungsnehmers nach dem Einkommen zust\u00e4ndigen Finanzamt, bei einem Versicherungsnehmer, der im Inland weder einen Wohnsitz noch seinen gew\u00f6hnlichen Aufenthalt hat, dem f\u00fcr die Veranlagung des Sicherungsnehmers zust\u00e4ndigen Finanzamt (\u00a7\u00a7 19, 20 der Abgabenordnung) unverz\u00fcglich die F\u00e4lle anzuzeigen, in denen Anspr\u00fcche aus Versicherungsvertr\u00e4gen zur Tilgung oder Sicherung von Darlehen eingesetzt werden. <SUP class=\"Rec\">2</SUP>Satz 1 gilt entsprechend f\u00fcr das Versicherungsunternehmen, wenn der Sicherungsnehmer Wohnsitz, Sitz oder Gesch\u00e4ftsleitung im Ausland hat. <SUP class=\"Rec\">3</SUP>Werden Anspr\u00fcche aus Versicherungsvertr\u00e4gen von Personen, die im Inland einen Wohnsitz oder ihren gew\u00f6hnlichen Aufenthalt haben (\u00a7 1 Abs. 1 des Gesetzes), zur Tilgung oder Sicherung von Darlehen eingesetzt, sind die S\u00e4tze 1 und 2 nur anzuwenden, wenn die Darlehen den Betrag von 25.565 Euro \u00fcbersteigen. <SUP class=\"Rec\">4</SUP>Der Steuerpflichtige hat dem f\u00fcr seine Veranlagung zust\u00e4ndigen Finanzamt (\u00a7 19 der Abgabenordnung) die Abtretung und die Beleihung unverz\u00fcglich anzuzeigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE005409377",
+        "name": "\u00a7 30",
+        "title": "Nachversteuerung bei Versicherungsvertr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000805301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Eine Nachversteuerung ist durchzuf\u00fchren, wenn die Voraussetzungen f\u00fcr den Sonderausgabenabzug von Vorsorgeaufwendungen nach \u00a7 10 Absatz 2 Satz 2 des Gesetzes in der am 31. Dezember 2004 geltenden Fassung nicht erf\u00fcllt sind. <SUP class=\"Rec\">2</SUP>Zu diesem Zweck ist die Steuer zu berechnen, die festzusetzen gewesen w\u00e4re, wenn der Steuerpflichtige die Beitr\u00e4ge nicht geleistet h\u00e4tte. <SUP class=\"Rec\">3</SUP>Der Unterschied zwischen dieser und der festgesetzten Steuer ist als Nachsteuer zu erheben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE005706301",
+        "name": "(XXXX) \u00a7\u00a7 31 bis 44",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000805301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG000905301",
+        "name": "-",
+        "title": "Zu \u00a7 10a des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE005806301",
+        "name": "(XXXX) \u00a7\u00a7 45 bis 47",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG000905301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001005301",
+        "name": "-",
+        "title": "Zu \u00a7 10b des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006108301",
+        "name": "\u00a7 48",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001005301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006208301",
+        "name": "\u00a7 49",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001005301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006316123",
+        "name": "\u00a7 50",
+        "title": "Zuwendungsbest\u00e4tigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001005301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Zuwendungen im Sinne der \u00a7\u00a7 10b und 34g des Gesetzes d\u00fcrfen vorbehaltlich des Absatzes 2 nur abgezogen werden, wenn der Zuwendende eine Zuwendungsbest\u00e4tigung, die der Zuwendungsempf\u00e4nger unter Ber\u00fccksichtigung des \u00a7 63 Absatz 5 der Abgabenordnung nach amtlich vorgeschriebenem Vordruck ausgestellt hat, oder die in den Abs\u00e4tzen 4 bis 6 bezeichneten Unterlagen erhalten hat. <SUP class=\"Rec\">2</SUP>Dies gilt nicht f\u00fcr Zuwendungen an nicht im Inland ans\u00e4ssige Zuwendungsempf\u00e4nger nach \u00a7 10b Absatz 1 Satz 2 Nummer 1 und 3 des Gesetzes.</P><P>(2) <SUP class=\"Rec\">1</SUP>Der Zuwendende kann den Zuwendungsempf\u00e4nger bevollm\u00e4chtigen, die Zuwendungsbest\u00e4tigung der f\u00fcr seine Besteuerung nach dem Einkommen zust\u00e4ndigen Finanzbeh\u00f6rde nach amtlich vorgeschriebenem Datensatz durch Datenfern\u00fcbertragung nach Ma\u00dfgabe des \u00a7 93c der Abgabenordnung zu \u00fcbermitteln. <SUP class=\"Rec\">2</SUP>Der Zuwendende hat dem Zuwendungsempf\u00e4nger zu diesem Zweck seine Identifikationsnummer (\u00a7 139b der Abgabenordnung) mitzuteilen. <SUP class=\"Rec\">3</SUP>Die Vollmacht kann nur mit Wirkung f\u00fcr die Zukunft widerrufen werden. <SUP class=\"Rec\">4</SUP>Der Zuwendungsempf\u00e4nger hat dem Zuwendenden die nach Satz 1 \u00fcbermittelten Daten elektronisch oder auf dessen Wunsch als Ausdruck zur Verf\u00fcgung zu stellen; in beiden F\u00e4llen ist darauf hinzuweisen, dass die Daten der Finanzbeh\u00f6rde \u00fcbermittelt worden sind. <SUP class=\"Rec\">5</SUP>\u00a7 72a Absatz 4 der Abgabenordnung findet keine Anwendung.</P><P>(3) <SUP class=\"Rec\">1</SUP>In den F\u00e4llen des Absatzes 2 ist f\u00fcr die Anwendung des \u00a7 93c Absatz 4 Satz 1 der Abgabenordnung das Finanzamt zust\u00e4ndig, in dessen Bezirk sich die Gesch\u00e4ftsleitung (\u00a7 10 der Abgabenordnung) des Zuwendungsempf\u00e4ngers im Inland befindet. <SUP class=\"Rec\">2</SUP>Die nach Absatz 2 \u00fcbermittelten Daten k\u00f6nnen durch dieses Finanzamt zum Zweck der Anwendung des \u00a7 93c Absatz 4 Satz 1 der Abgabenordnung bei den f\u00fcr die Besteuerung der Zuwendenden nach dem Einkommen zust\u00e4ndigen Finanzbeh\u00f6rden abgerufen und verwendet werden.</P><P>(4) <SUP class=\"Rec\">1</SUP>Statt einer Zuwendungsbest\u00e4tigung gen\u00fcgt der Bareinzahlungsbeleg oder die Buchungsbest\u00e4tigung eines Kreditinstituts, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zuwendung zur Hilfe in Katastrophenf\u00e4llen: <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">innerhalb eines Zeitraums, den die obersten Finanzbeh\u00f6rden der L\u00e4nder im Benehmen mit dem Bundesministerium der Finanzen bestimmen, auf ein f\u00fcr den Katastrophenfall eingerichtetes Sonderkonto einer inl\u00e4ndischen juristischen Person des \u00f6ffentlichen Rechts, einer inl\u00e4ndischen \u00f6ffentlichen Dienststelle oder eines inl\u00e4ndischen amtlich anerkannten Verbandes der freien Wohlfahrtspflege einschlie\u00dflich seiner Mitgliedsorganisationen eingezahlt worden ist oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zur Einrichtung des Sonderkontos auf ein anderes Konto der genannten Zuwendungsempf\u00e4nger eingezahlt wird; wird die Zuwendung \u00fcber ein als Treuhandkonto gef\u00fchrtes Konto eines Dritten auf eines der genannten Sonderkonten eingezahlt, gen\u00fcgt der Bareinzahlungsbeleg oder die Buchungsbest\u00e4tigung des Kreditinstituts des Zuwendenden zusammen mit einer Kopie des Barzahlungsbelegs oder der Buchungsbest\u00e4tigung des Kreditinstituts des Dritten, oder</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zuwendung 300 Euro nicht \u00fcbersteigt und <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Empf\u00e4nger eine inl\u00e4ndische juristische Person des \u00f6ffentlichen Rechts oder eine inl\u00e4ndische \u00f6ffentliche Dienststelle ist oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Empf\u00e4nger eine K\u00f6rperschaft, Personenvereinigung oder Verm\u00f6gensmasse im Sinne des \u00a7 5 Absatz 1 Nummer 9 des K\u00f6rperschaftsteuergesetzes ist, wenn der steuerbeg\u00fcnstigte Zweck, f\u00fcr den die Zuwendung verwendet wird, und die Angaben \u00fcber die Freistellung des Empf\u00e4ngers von der K\u00f6rperschaftsteuer auf einem von ihm hergestellten Beleg aufgedruckt sind und darauf angegeben ist, ob es sich bei der Zuwendung um eine Spende oder einen Mitgliedsbeitrag handelt, oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Empf\u00e4nger eine politische Partei im Sinne des \u00a7 2 des Parteiengesetzes ist, die nicht gem\u00e4\u00df \u00a7 18 Absatz 7 des Parteiengesetzes von der staatlichen Teilfinanzierung ausgeschlossen ist, und bei Spenden der Verwendungszweck auf dem vom Empf\u00e4nger hergestellten Beleg aufgedruckt ist.</LA></DD></DL></LA></DD></DL><SUP class=\"Rec\">2</SUP>Aus der Buchungsbest\u00e4tigung m\u00fcssen der Name und die Kontonummer oder ein sonstiges Identifizierungsmerkmal des Auftraggebers und des Empf\u00e4ngers, der Betrag, der Buchungstag sowie die tats\u00e4chliche Durchf\u00fchrung der Zahlung ersichtlich sein. <SUP class=\"Rec\">3</SUP>In den F\u00e4llen des Satzes 1 Nummer 2 Buchstabe b hat der Zuwendende zus\u00e4tzlich den vom Zuwendungsempf\u00e4nger hergestellten Beleg aufzubewahren.</P><P>(5) Bei Zuwendungen zur Hilfe in Katastrophenf\u00e4llen innerhalb eines Zeitraums, den die obersten Finanzbeh\u00f6rden der L\u00e4nder im Benehmen mit dem Bundesministerium der Finanzen bestimmen, die \u00fcber ein Konto eines Dritten an eine inl\u00e4ndische juristische Person des \u00f6ffentlichen Rechts, an eine inl\u00e4ndische \u00f6ffentliche Dienststelle oder an eine nach \u00a7 5 Absatz 1 Nummer 9 des K\u00f6rperschaftsteuergesetzes steuerbefreite K\u00f6rperschaft, Personenvereinigung oder Verm\u00f6gensmasse geleistet werden, gen\u00fcgt das Erhalten einer auf den jeweiligen Zuwendenden ausgestellten Zuwendungsbest\u00e4tigung des Zuwendungsempf\u00e4ngers, wenn das Konto des Dritten als Treuhandkonto gef\u00fchrt wurde, die Zuwendung von dort an den Zuwendungsempf\u00e4nger weitergeleitet wurde und diesem eine Liste mit den einzelnen Zuwendenden und ihrem jeweiligen Anteil an der Zuwendungssumme \u00fcbergeben wurde.</P><P>(6) Bei Zahlungen von Mitgliedsbeitr\u00e4gen an politische Parteien im Sinne des \u00a7 2 des Parteiengesetzes gen\u00fcgen statt Zuwendungsbest\u00e4tigungen Bareinzahlungsbelege, Buchungsbest\u00e4tigungen oder Beitragsquittungen.</P><P>(7) <SUP class=\"Rec\">1</SUP>Eine in \u00a7 5 Absatz 1 Nummer 9 des K\u00f6rperschaftsteuergesetzes bezeichnete K\u00f6rperschaft, Personenvereinigung oder Verm\u00f6gensmasse hat die Vereinnahmung der Zuwendung und ihre zweckentsprechende Verwendung ordnungsgem\u00e4\u00df aufzuzeichnen und ein Doppel der Zuwendungsbest\u00e4tigung aufzubewahren. <SUP class=\"Rec\">2</SUP>Diese Aufbewahrungspflicht entf\u00e4llt in den F\u00e4llen des Absatzes 2. <SUP class=\"Rec\">3</SUP>Bei Sachzuwendungen und beim Verzicht auf die Erstattung von Aufwand m\u00fcssen sich aus den Aufzeichnungen auch die Grundlagen f\u00fcr den vom Empf\u00e4nger best\u00e4tigten Wert der Zuwendung ergeben.</P><P>(8) <SUP class=\"Rec\">1</SUP>Die in den Abs\u00e4tzen 1, 4, 5 und 6 bezeichneten Unterlagen sind vom Zuwendenden auf Verlangen der Finanzbeh\u00f6rde vorzulegen. <SUP class=\"Rec\">2</SUP>Soweit der Zuwendende sie nicht bereits auf Verlangen der Finanzbeh\u00f6rde vorgelegt hat, sind sie vom Zuwendenden bis zum Ablauf eines Jahres nach Bekanntgabe der Steuerfestsetzung aufzubewahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 50: Zur erstmaligen Anwendung vgl. \u00a7 84 Abs. 2c +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001105301",
+        "name": "-",
+        "title": "Zu \u00a7 13 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006407140",
+        "name": "\u00a7 51",
+        "title": "Pauschale Ermittlung der Gewinne aus Holznutzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001105301"
+        },
+        "body": "<P>(1) Steuerpflichtige, die f\u00fcr ihren Betrieb nicht zur Buchf\u00fchrung verpflichtet sind, den Gewinn nicht nach \u00a7 4 Absatz 1 des Einkommensteuergesetzes ermitteln und deren forstwirtschaftlich genutzte Fl\u00e4che 50 Hektar nicht \u00fcbersteigt, k\u00f6nnen auf Antrag f\u00fcr ein Wirtschaftsjahr bei der Ermittlung der Gewinne aus Holznutzungen pauschale Betriebsausgaben abziehen.</P><P>(2) Die pauschalen Betriebsausgaben betragen 55 Prozent der Einnahmen aus der Verwertung des eingeschlagenen Holzes.</P><P>(3) Soweit Holz auf dem Stamm verkauft wird, betragen die pauschalen Betriebsausgaben 20 Prozent der Einnahmen aus der Verwertung des stehenden Holzes.</P><P>(4) Mit den pauschalen Betriebsausgaben nach den Abs\u00e4tzen 2 und 3 sind s\u00e4mtliche Betriebsausgaben mit Ausnahme der Wiederaufforstungskosten und der Minderung des Buchwerts f\u00fcr ein Wirtschaftsgut Baumbestand abgegolten.</P><P>(5) Diese Regelung gilt nicht f\u00fcr die Ermittlung des Gewinns aus Waldverk\u00e4ufen sowie f\u00fcr die \u00fcbrigen Einnahmen und die damit in unmittelbarem Zusammenhang stehenden Betriebsausgaben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 51: Zur Anwendung vgl. \u00a7 84 Abs. 3a +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006508123",
+        "name": "\u00a7 52",
+        "title": "Mitteilungspflichten bei Beihilfen aus \u00f6ffentlichen Mitteln",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001105301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Beh\u00f6rden und andere \u00f6ffentliche Stellen im Sinne von \u00a7 6 Absatz 1 bis 1e der Abgabenordnung sind als mitteilungspflichtige Stellen verpflichtet, der f\u00fcr die Besteuerung des Zahlungsempf\u00e4ngers nach dem Einkommen zust\u00e4ndigen Finanzbeh\u00f6rde eine Mitteilung zu \u00fcbermitteln, wenn von dieser einer als Land- und Forstwirt t\u00e4tigen nat\u00fcrlichen Person, Personenvereinigung oder juristischen Person Beihilfen aus \u00f6ffentlichen Mitteln der Europ\u00e4ischen Union, des Bundes oder eines Landes gew\u00e4hrt werden. <SUP class=\"Rec\">2</SUP>Von der Mitteilungspflicht ausgenommen sind F\u00f6rderkredite, Gew\u00e4hrleistungen, B\u00fcrgschaften, Garantien und Beteiligungen.</P><P>(2) <SUP class=\"Rec\">1</SUP>Zur Sicherstellung der gesetzm\u00e4\u00dfigen und gleichm\u00e4\u00dfigen Besteuerung der Beihilfen sind neben den nach \u00a7 93c Absatz 1 der Abgabenordnung erforderlichen Angaben folgende Angaben mitzuteilen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Tag der Antragstellung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art und die H\u00f6he der jeweils gew\u00e4hrten Beihilfe,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Zeitraum oder der Zeitpunkt, f\u00fcr den die Beihilfe gew\u00e4hrt wird,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Tag der Zahlung oder der Zahlungsanordnung.</LA></DD></DL><SUP class=\"Rec\">2</SUP>Die in \u00a7 93c Absatz 1 Nummer 2 Buchstabe c und d der Abgabenordnung genannten Daten sind mit der Ma\u00dfgabe zu \u00fcbermitteln, dass der Zahlungsempf\u00e4nger als Steuerpflichtiger gilt. <SUP class=\"Rec\">3</SUP>Als Zahlungsempf\u00e4nger ist stets der urspr\u00fcngliche Gl\u00e4ubiger der Forderung mitzuteilen, auch wenn die Forderung abgetreten, verpf\u00e4ndet oder gepf\u00e4ndet ist.</P><P>(3) <SUP class=\"Rec\">1</SUP>Die Mitteilungen sind bis zum letzten Tag des Monats Februar des auf die Gew\u00e4hrung der Beihilfe folgenden Kalenderjahres nach amtlich vorgeschriebenem Datensatz \u00fcber die amtlich bestimmte Schnittstelle (\u00a7 87b Absatz 1 und 2 der Abgabenordnung) zu \u00fcbermitteln. <SUP class=\"Rec\">2</SUP>F\u00fcr den Tag der Gew\u00e4hrung der Beihilfe ist der Tag der Zahlung oder der Zahlungsanordnung gem\u00e4\u00df Absatz 2 Satz 1 Nummer 4 ma\u00dfgeblich. <SUP class=\"Rec\">3</SUP>Der Zahlungsempf\u00e4nger im Sinne des Absatzes 2 hat der mitteilungspflichtigen Stelle zu diesem Zweck sein Identifikationsmerkmal (\u00a7\u00a7 139a bis 139c der Abgabenordnung) mitzuteilen. <SUP class=\"Rec\">4</SUP>Die Mitteilung kann im Rahmen der Antragsverfahren der gew\u00e4hrten Beihilfen erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 52: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001305301",
+        "name": "-",
+        "title": "Zu \u00a7 17 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006605301",
+        "name": "\u00a7 53",
+        "title": "Anschaffungskosten bestimmter Anteile an Kapitalgesellschaften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001305301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Bei Anteilen an einer Kapitalgesellschaft, die vor dem 21. Juni 1948 erworben worden sind, sind als Anschaffungskosten im Sinne des \u00a7 17 Abs. 2 des Gesetzes die endg\u00fcltigen H\u00f6chstwerte zugrunde zu legen, mit denen die Anteile in eine steuerliche Er\u00f6ffnungsbilanz in Deutscher Mark auf den 21. Juni 1948 h\u00e4tten eingestellt werden k\u00f6nnen; bei Anteilen, die am 21. Juni 1948 als Auslandsverm\u00f6gen beschlagnahmt waren, ist bei Ver\u00e4u\u00dferung vor der R\u00fcckgabe der Ver\u00e4u\u00dferungserl\u00f6s und bei Ver\u00e4u\u00dferung nach der R\u00fcckgabe der Wert im Zeitpunkt der R\u00fcckgabe als Anschaffungskosten ma\u00dfgebend. <SUP class=\"Rec\">2</SUP>Im Land Berlin tritt an die Stelle des 21. Juni 1948 jeweils der 1. April 1949; im Saarland tritt an die Stelle des 21. Juni 1948 f\u00fcr die in \u00a7 43 Abs. 1 Ziff 1 des Gesetzes \u00fcber die Einf\u00fchrung des deutschen Rechts auf dem Gebiete der Steuern, Z\u00f6lle und Finanzmonopole im Saarland vom 30. Juni 1959 (BGBl. I S. 339) bezeichneten Personen jeweils der 6. Juli 1959.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006708301",
+        "name": "\u00a7 54",
+        "title": "\u00dcbersendung von Urkunden durch die Notare",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001305301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Die Notare \u00fcbersenden dem in \u00a7 20 der Abgabenordnung bezeichneten Finanzamt eine beglaubigte Abschrift aller auf Grund gesetzlicher Vorschrift aufgenommenen oder beglaubigten Urkunden, die die Gr\u00fcndung, Kapitalerh\u00f6hung oder -herabsetzung, Umwandlung oder Aufl\u00f6sung von Kapitalgesellschaften oder die Verf\u00fcgung \u00fcber Anteile an Kapitalgesellschaften zum Gegenstand haben. <SUP class=\"Rec\">2</SUP>Gleiches gilt f\u00fcr Dokumente, die im Rahmen einer Anmeldung einer inl\u00e4ndischen Zweigniederlassung einer Kapitalgesellschaft mit Sitz im Ausland zur Eintragung in das Handelsregister diesem zu \u00fcbersenden sind.</P><P>(2) <SUP class=\"Rec\">1</SUP>Die Abschrift ist binnen zwei Wochen, von der Aufnahme oder Beglaubigung der Urkunde ab gerechnet, einzureichen. <SUP class=\"Rec\">2</SUP>Sie soll mit der Steuernummer gekennzeichnet sein, mit der die Kapitalgesellschaft bei dem Finanzamt gef\u00fchrt wird. <SUP class=\"Rec\">3</SUP>Die Absendung der Urkunde ist auf der zur\u00fcckbehaltenen Urschrift der Urkunde beziehungsweise auf einer zur\u00fcckbehaltenen Abschrift zu vermerken.</P><P>(3) Den Beteiligten d\u00fcrfen die Urschrift, eine Ausfertigung oder beglaubigte Abschrift der Urkunde erst ausgeh\u00e4ndigt werden, wenn die Abschrift der Urkunde an das Finanzamt abgesandt ist.</P><P>(4) Im Fall der Verf\u00fcgung \u00fcber Anteile an Kapitalgesellschaften durch einen Anteilseigner, der nicht nach \u00a7 1 Abs. 1 des Gesetzes unbeschr\u00e4nkt steuerpflichtig ist, ist zus\u00e4tzlich bei dem Finanzamt Anzeige zu erstatten, das bei Beendigung einer zuvor bestehenden unbeschr\u00e4nkten Steuerpflicht des Anteilseigners oder bei unentgeltlichem Erwerb dessen Rechtsvorg\u00e4ngers nach \u00a7 19 der Abgabenordnung f\u00fcr die Besteuerung des Anteilseigners zust\u00e4ndig war.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 54 Abs. 1 Satz 2: Zur erstmaligen Anwendung vgl. \u00a7 84 +++) <BR />(+++ \u00a7 54 Abs. 4: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001405301",
+        "name": "-",
+        "title": "Zu \u00a7 22 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006808140",
+        "name": "\u00a7 55",
+        "title": "Ermittlung des Ertrags aus Leibrenten in besonderen F\u00e4llen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001405301"
+        },
+        "body": "<P>(1) Der Ertrag des Rentenrechts ist in den folgenden F\u00e4llen auf Grund der in \u00a7 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe bb des Gesetzes aufgef\u00fchrten Tabelle zu ermitteln: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Leibrenten, die vor dem 1. Januar 1955 zu laufen begonnen haben. <SUP class=\"Rec\">2</SUP>Dabei ist das vor dem 1. Januar 1955 vollendete Lebensjahr des Rentenberechtigten ma\u00dfgebend;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Leibrenten, deren Dauer von der Lebenszeit einer anderen Person als des Rentenberechtigten abh\u00e4ngt. <SUP class=\"Rec\">2</SUP>Dabei ist das bei Beginn der Rente, im Fall der Nummer 1 das vor dem 1. Januar 1955 vollendete Lebensjahr dieser Person ma\u00dfgebend;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Leibrenten, deren Dauer von der Lebenszeit mehrerer Personen abh\u00e4ngt. <SUP class=\"Rec\">2</SUP>Dabei ist das bei Beginn der Rente, im Fall der Nummer 1 das vor dem 1. Januar 1955 vollendete Lebensjahr der \u00e4ltesten Person ma\u00dfgebend, wenn das Rentenrecht mit dem Tod des zuerst Sterbenden erlischt, und das Lebensjahr der j\u00fcngsten Person, wenn das Rentenrecht mit dem Tod des zuletzt Sterbenden erlischt.</LA></DD></DL></P><P>(2) <SUP class=\"Rec\">1</SUP>Der Ertrag der Leibrenten, die auf eine bestimmte Zeit beschr\u00e4nkt sind (abgek\u00fcrzte Leibrenten), ist nach der Lebenserwartung unter Ber\u00fccksichtigung der zeitlichen Begrenzung zu ermitteln. <SUP class=\"Rec\">2</SUP>Der Ertragsanteil ist aus der nachstehenden Tabelle zu entnehmen. <SUP class=\"Rec\">3</SUP>Absatz 1 ist entsprechend anzuwenden.<BR /><BR /><table frame=\"top\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"30.00*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"30.00*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"30.00*\" /><thead valign=\"bottom\"><row rowsep=\"1\"><entry VJ=\"1\" align=\"left\" colsep=\"1\" rowsep=\"1\" valign=\"top\">Beschr\u00e4nkung der Laufzeit der Rente auf ... Jahre ab Beginn des Rentenbezugs (ab 1. Januar 1955, falls die Rente vor diesem Zeitpunkt zu laufen begonnen hat)</entry><entry VJ=\"1\" align=\"left\" colsep=\"1\" rowsep=\"1\" valign=\"top\">Der Ertragsanteil betr\u00e4gt vorbehaltlich der Spalte 3 ... Prozent</entry><entry VJ=\"1\" align=\"left\" colsep=\"1\" rowsep=\"1\" valign=\"top\">Der Ertragsanteil ist der Tabelle in \u00a7 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe bb des Gesetzes zu entnehmen, wenn der Rentenberechtigte zu Beginn des Rentenbezugs (vor dem 1. Januar 1955, falls die Rente vor diesem Zeitpunkt zu laufen begonnen hat) das ...te Lebensjahr vollendet hatte</entry></row><row rowsep=\"1\"><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"1\" valign=\"top\">1</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"1\" valign=\"top\">2</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"1\" valign=\"top\">3</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">1</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">0</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">entf\u00e4llt</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">2</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">1</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">entf\u00e4llt</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">3</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">2</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">97</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">4</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">4</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">92</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">5</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">5</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">88</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">6</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">7</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">83</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">7</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">8</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">81</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">8</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">9</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">80</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">9</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">10</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">78</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">10</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">12</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">75</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">11</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">13</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">74</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">12</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">14</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">72</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">13</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">15</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">71</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">14-15</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">16</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">69</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">16-17</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">18</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">67</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">18</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">19</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">65</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">19</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">20</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">64</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">20</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">21</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">63</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">21</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">22</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">62</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">22</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">23</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">60</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">23</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">24</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">59</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">24</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">25</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">58</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">25</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">26</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">57</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">26</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">27</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">55</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">27</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">28</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">54</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">28</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">29</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">53</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">29-30</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">30</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">51</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">31</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">31</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">50</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">32</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">32</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">49</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">33</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">33</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">48</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">34</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">34</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">46</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">35-36</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">35</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">45</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">37</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">36</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">43</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">38</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">37</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">42</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">39</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">38</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">41</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">40-41</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">39</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">39</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">42</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">40</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">38</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">43-44</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">41</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">36</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">45</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">42</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">35</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">46-47</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">43</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">33</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">48</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">44</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">32</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">49-50</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">45</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">30</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">51-52</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">46</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">28</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">53</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">47</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">27</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">54-55</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">48</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">25</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">56-57</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">49</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">23</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">58-59</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">50</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">21</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">60-61</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">51</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">19</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">62-63</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">52</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">17</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">64-65</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">53</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">15</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">66-67</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">54</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">13</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">68-69</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">55</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">11</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">70-71</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">56</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">9</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">72-74</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">57</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">6</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">75-76</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">58</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">4</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">77-79</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">59</entry><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">2</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" rowsep=\"0\" valign=\"top\">ab 80</entry><entry VJ=\"1\" align=\"left\" colsep=\"1\" nameend=\"col3\" namest=\"col2\" rowsep=\"1\" valign=\"top\">Der Ertragsanteil ist immer der Tabelle in \u00a7 22 Nr. 1 Satz 3 Buchstabe a Doppelbuchstabe bb des Gesetzes zu entnehmen.</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001505301",
+        "name": "-",
+        "title": "Zu \u00a7 25 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE006919140",
+        "name": "\u00a7 56",
+        "title": "Steuererkl\u00e4rungspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001505301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Unbeschr\u00e4nkt Steuerpflichtige haben eine j\u00e4hrliche Einkommensteuererkl\u00e4rung f\u00fcr das abgelaufene Kalenderjahr (Veranlagungszeitraum) in den folgenden F\u00e4llen abzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ehegatten, bei denen im Veranlagungszeitraum die Voraussetzungen des \u00a7 26 Abs. 1 des Gesetzes vorgelegen haben und von denen keiner die Einzelveranlagung nach \u00a7 26a des Gesetzes w\u00e4hlt,<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn keiner der Ehegatten Eink\u00fcnfte aus nichtselbst\u00e4ndiger Arbeit, von denen ein Steuerabzug vorgenommen worden ist, bezogen und der Gesamtbetrag der Eink\u00fcnfte mehr als das Zweifache des Grundfreibetrages nach \u00a7 32a Absatz 1 Satz 2 Nummer 1 des Gesetzes in der jeweils geltenden Fassung betragen hat,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn mindestens einer der Ehegatten Eink\u00fcnfte aus nichtselbst\u00e4ndiger Arbeit, von denen ein Steuerabzug vorgenommen worden ist, bezogen hat und eine Veranlagung nach \u00a7 46 Abs. 2 Nr. 1 bis 7 des Gesetzes in Betracht kommt;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, bei denen im Veranlagungszeitraum die Voraussetzungen des \u00a7 26 Abs. 1 des Gesetzes nicht vorgelegen haben,<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Gesamtbetrag der Eink\u00fcnfte den Grundfreibetrag nach \u00a7 32a Absatz 1 Satz 2 Nummer 1 des Gesetzes in der jeweils geltenden Fassung \u00fcberstiegen hat und darin keine Eink\u00fcnfte aus nichtselbst\u00e4ndiger Arbeit, von denen ein Steuerabzug vorgenommen worden ist, enthalten sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn in dem Gesamtbetrag der Eink\u00fcnfte Eink\u00fcnfte aus nichtselbst\u00e4ndiger Arbeit, von denen ein Steuerabzug vorgenommen worden ist, enthalten sind und eine Veranlagung nach \u00a7 46 Abs. 2 Nr. 1 bis 6 und 7 Buchstabe b des Gesetzes in Betracht kommt.</LA></DD></DL></LA></DD></DL><SUP class=\"Rec\">2</SUP>Eine Steuererkl\u00e4rung ist au\u00dferdem abzugeben, wenn zum Schluss des vorangegangenen Veranlagungszeitraums ein verbleibender Verlustabzug festgestellt worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 56: Zur Anwendung vgl. \u00a7 84 Abs. 11 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE007306301",
+        "name": "(XXXX) \u00a7\u00a7 57 bis 59",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001505301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE007511377",
+        "name": "\u00a7 60",
+        "title": "Unterlagen zur Steuererkl\u00e4rung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001505301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Der Steuererkl\u00e4rung ist eine Abschrift der Bilanz, die auf dem Zahlenwerk der Buchf\u00fchrung beruht, im Fall der Er\u00f6ffnung des Betriebs auch eine Abschrift der Er\u00f6ffnungsbilanz beizuf\u00fcgen, wenn der Gewinn nach \u00a7 4 Abs. 1, \u00a7 5 oder \u00a7 5a des Gesetzes ermittelt und auf eine elektronische \u00dcbermittlung nach \u00a7 5b Abs. 2 des Gesetzes verzichtet wird. <SUP class=\"Rec\">2</SUP>Werden B\u00fccher gef\u00fchrt, die den Grunds\u00e4tzen der doppelten Buchf\u00fchrung entsprechen, ist eine Gewinn- und Verlustrechnung beizuf\u00fcgen.</P><P>(2) <SUP class=\"Rec\">1</SUP>Enth\u00e4lt die Bilanz Ans\u00e4tze oder Betr\u00e4ge, die den steuerlichen Vorschriften nicht entsprechen, so sind diese Ans\u00e4tze oder Betr\u00e4ge durch Zus\u00e4tze oder Anmerkungen den steuerlichen Vorschriften anzupassen. <SUP class=\"Rec\">2</SUP>Der Steuerpflichtige kann auch eine den steuerlichen Vorschriften entsprechende Bilanz (Steuerbilanz) beif\u00fcgen.</P><P>(3) <SUP class=\"Rec\">1</SUP>Liegt ein Anhang, ein Lagebericht oder ein Pr\u00fcfungsbericht vor, so ist eine Abschrift der Steuererkl\u00e4rung beizuf\u00fcgen. <SUP class=\"Rec\">2</SUP>Bei der Gewinnermittlung nach \u00a7 5a des Gesetzes ist das besondere Verzeichnis nach \u00a7 5a Abs. 4 des Gesetzes der Steuererkl\u00e4rung beizuf\u00fcgen.</P><P>(4) <SUP class=\"Rec\">1</SUP>Wird der Gewinn nach \u00a7 4 Abs. 3 des Gesetzes durch den \u00dcberschuss der Betriebseinnahmen \u00fcber die Betriebsausgaben ermittelt, ist die Einnahmen\u00fcberschussrechnung nach amtlich vorgeschriebenem Datensatz durch Datenfern\u00fcbertragung zu \u00fcbermitteln. <SUP class=\"Rec\">2</SUP>Auf Antrag kann die Finanzbeh\u00f6rde zur Vermeidung unbilliger H\u00e4rten auf eine elektronische \u00dcbermittlung verzichten; in diesem Fall ist der Steuererkl\u00e4rung eine Gewinnermittlung nach amtlich vorgeschriebenem Vordruck beizuf\u00fcgen. <SUP class=\"Rec\">3</SUP>\u00a7 150 Absatz 8 der Abgabenordnung gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 60 Abs. 1 u. 4: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001606140",
+        "name": "-",
+        "title": "Zu den \u00a7\u00a7 26a und 26b des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE007607140",
+        "name": "\u00a7 61",
+        "title": "Antrag auf h\u00e4lftige Verteilung von Abzugsbetr\u00e4gen im Fall des \u00a7 26a des Gesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001606140"
+        },
+        "body": "<P>K\u00f6nnen die Ehegatten den Antrag nach \u00a7 26a Absatz 2 des Gesetzes nicht gemeinsam stellen, weil einer der Ehegatten dazu aus zwingenden Gr\u00fcnden nicht in der Lage ist, kann das Finanzamt den Antrag des anderen Ehegatten als gen\u00fcgend ansehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 61: Zur Anwendung vgl. \u00a7 84 Abs. 11 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE007706301",
+        "name": "(XXXX) \u00a7\u00a7 62 bis 62c",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001606140"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE007910140",
+        "name": "\u00a7 62d",
+        "title": "Anwendung des \u00a7 10d des Gesetzes bei der Veranlagung von Ehegatten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001606140"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Im Fall der Einzelveranlagung von Ehegatten (\u00a7 26a des Gesetzes) kann der Steuerpflichtige den Verlustabzug nach \u00a7 10d des Gesetzes auch f\u00fcr Verluste derjenigen Veranlagungszeitr\u00e4ume geltend machen, in denen die Ehegatten nach \u00a7 26b des Gesetzes zusammen veranlagt worden sind. <SUP class=\"Rec\">2</SUP>Der Verlustabzug kann in diesem Fall nur f\u00fcr Verluste geltend gemacht werden, die der einzeln veranlagte Ehegatte erlitten hat.</P><P>(2) <SUP class=\"Rec\">1</SUP>Im Fall der Zusammenveranlagung von Ehegatten (\u00a7 26b des Gesetzes) kann der Steuerpflichtige den Verlustabzug nach \u00a7 10d des Gesetzes auch f\u00fcr Verluste derjenigen Veranlagungszeitr\u00e4ume geltend machen, in denen die Ehegatten nach \u00a7 26a des Gesetzes einzeln veranlagt worden sind. <SUP class=\"Rec\">2</SUP>Im Fall der Zusammenveranlagung von Ehegatten (\u00a7 26b des Gesetzes) in einem Veranlagungszeitraum, in den negative Eink\u00fcnfte nach \u00a7 10d Abs. 1 des Gesetzes zur\u00fcckgetragen werden, sind nach Anwendung des \u00a7 10d Abs. 1 des Gesetzes verbleibende negative Eink\u00fcnfte f\u00fcr den Verlustvortrag nach \u00a7 10d Abs. 2 des Gesetzes in Veranlagungszeitr\u00e4ume, in denen eine Zusammenveranlagung nicht stattfindet, auf die Ehegatten nach dem Verh\u00e4ltnis aufzuteilen, in dem die auf den einzelnen Ehegatten entfallenden Verluste im Veranlagungszeitraum der Verlustentstehung zueinander stehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 62d: Zur Anwendung vgl. \u00a7 84 Abs. 11 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008006301",
+        "name": "\u00a7 63",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001606140"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG002701301",
+        "name": "-",
+        "title": "Zu \u00a7 33 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE014104123",
+        "name": "\u00a7 64",
+        "title": "Nachweis von Krankheitskosten und der Voraussetzungen der behinderungsbedingten Fahrtkostenpauschale",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002701301"
+        },
+        "body": "<P>(1) Den Nachweis der Zwangsl\u00e4ufigkeit von Aufwendungen im Krankheitsfall hat der Steuerpflichtige zu erbringen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>durch eine Verordnung eines Arztes oder Heilpraktikers f\u00fcr Arznei-, Heil- und Hilfsmittel (\u00a7\u00a7 2, 23, 31 bis 33 des F\u00fcnften Buches Sozialgesetzbuch);</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>durch ein amts\u00e4rztliches Gutachten oder eine \u00e4rztliche Bescheinigung eines Medizinischen Dienstes der Krankenversicherung (\u00a7 275 des F\u00fcnften Buches Sozialgesetzbuch) f\u00fcr <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>eine Bade- oder Heilkur; bei einer Vorsorgekur ist auch die Gefahr einer durch die Kur abzuwendenden Krankheit, bei einer Klimakur der medizinisch angezeigte Kurort und die voraussichtliche Kurdauer zu bescheinigen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>eine psychotherapeutische Behandlung; die Fortf\u00fchrung einer Behandlung nach Ablauf der Bezuschussung durch die Krankenversicherung steht einem Behandlungsbeginn gleich,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>eine medizinisch erforderliche ausw\u00e4rtige Unterbringung eines an Legasthenie oder einer anderen Behinderung leidenden Kindes des Steuerpflichtigen,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>die Notwendigkeit der Betreuung des Steuerpflichtigen durch eine Begleitperson, sofern sich diese nicht bereits aus dem Nachweis der Behinderung nach \u00a7 65 Absatz 1 Nummer 1 ergibt,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>medizinische Hilfsmittel, die als allgemeine Gebrauchsgegenst\u00e4nde des t\u00e4glichen Lebens im Sinne von \u00a7 33 Absatz 1 des F\u00fcnften Buches Sozialgesetzbuch anzusehen sind,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>wissenschaftlich nicht anerkannte Behandlungsmethoden, wie z. B. Frisch- und Trockenzellenbehandlungen, Sauerstoff-, Chelat- und Eigenbluttherapie.</LA></DD></DL> <SUP class=\"Rec\">2</SUP>Der nach Satz 1 zu erbringende Nachweis muss vor Beginn der Heilma\u00dfnahme oder dem Erwerb des medizinischen Hilfsmittels ausgestellt worden sein;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>durch eine Bescheinigung des behandelnden Krankenhausarztes f\u00fcr Besuchsfahrten zu einem f\u00fcr l\u00e4ngere Zeit in einem Krankenhaus liegenden Ehegatten oder Kind des Steuerpflichtigen, in dem best\u00e4tigt wird, dass der Besuch des Steuerpflichtigen zur Heilung oder Linderung einer Krankheit entscheidend beitragen kann.</LA></DD></DL></P><P>(2) Die zust\u00e4ndigen Gesundheitsbeh\u00f6rden haben auf Verlangen des Steuerpflichtigen die f\u00fcr steuerliche Zwecke erforderlichen Gesundheitszeugnisse, Gutachten oder Bescheinigungen auszustellen.</P><P>(3) F\u00fcr den Nachweis der Anspruchsvoraussetzungen zur behinderungsbedingten Fahrtkostenpauschale sind die Vorschriften des \u00a7 65 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 64: Zur Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001705301",
+        "name": "-",
+        "title": "Zu \u00a7 33b des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008115123",
+        "name": "\u00a7 65",
+        "title": "Nachweis der Behinderung und des Pflegegrads",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001705301"
+        },
+        "body": "<P>(1) Den Nachweis einer Behinderung hat der Steuerpflichtige zu erbringen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Behinderung, deren Grad auf mindestens 50 festgestellt ist, durch Vorlage eines Ausweises nach dem Neunten Buch Sozialgesetzbuch oder eines Bescheides der nach \u00a7 152 Absatz 1 des Neunten Buches Sozialgesetzbuch zust\u00e4ndigen Beh\u00f6rde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Behinderung, deren Grad auf weniger als 50, aber mindestens 20 festgestellt ist, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">durch eine Bescheinigung oder einen Bescheid der nach \u00a7 152 Absatz 1 des Neunten Buches Sozialgesetzbuch zust\u00e4ndigen Beh\u00f6rde oder,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn ihm wegen seiner Behinderung nach den gesetzlichen Vorschriften Renten oder andere laufende Bez\u00fcge zustehen, durch den Rentenbescheid oder den die anderen laufenden Bez\u00fcge nachweisenden Bescheid.</LA></DD></DL></LA></DD></DL></P><P>(2) <SUP class=\"Rec\">1</SUP>Die gesundheitlichen Merkmale \u201eblind\u201c und \u201ehilflos\u201c hat der Steuerpflichtige durch einen Ausweis nach dem Neunten Buch Sozialgesetzbuch, der mit den Merkzeichen \u201eBI\u201c oder \u201eH\u201c gekennzeichnet ist, oder durch einen Bescheid der nach \u00a7 152 Absatz 1 des Neunten Buches Sozialgesetzbuch zust\u00e4ndigen Beh\u00f6rde, der die entsprechenden Feststellungen enth\u00e4lt, nachzuweisen. <SUP class=\"Rec\">2</SUP>Dem Merkzeichen \u201eH\u201c steht die Einstufung als pflegebed\u00fcrftige Person mit schwersten Beeintr\u00e4chtigungen der Selbst\u00e4ndigkeit oder der F\u00e4higkeiten in die Pflegegrade 4 oder 5 nach dem Elften Buch Sozialgesetzbuch, dem Zw\u00f6lften Buch Sozialgesetzbuch oder diesen entsprechenden gesetzlichen Bestimmungen gleich.</P><P>(2a) Den Nachweis der Einstufung in einen Pflegegrad nach dem Elften Buch Sozialgesetzbuch, dem Zw\u00f6lften Buch Sozialgesetzbuch oder diesen entsprechenden gesetzlichen Bestimmungen hat der Steuerpflichtige durch Vorlage des entsprechenden Bescheides nachzuweisen.</P><P>(3) <SUP class=\"Rec\">1</SUP>Die Gew\u00e4hrung des Behinderten-Pauschbetrags setzt voraus, dass der Antragsteller Inhaber g\u00fcltiger Unterlagen nach den Abs\u00e4tzen 1 und 2 ist. <SUP class=\"Rec\">2</SUP>Bei erstmaliger Geltendmachung des Pauschbetrags oder bei \u00c4nderung der Verh\u00e4ltnisse hat der Steuerpflichtige die Unterlagen nach den Abs\u00e4tzen 1 und 2 zusammen mit seiner Steuererkl\u00e4rung oder seinem Antrag auf Lohnsteuererm\u00e4\u00dfigung, ansonsten auf Anforderung des Finanzamts vorzulegen.</P><P>(3a) <SUP class=\"Rec\">1</SUP>Die Gew\u00e4hrung des Behinderten-Pauschbetrags setzt voraus, dass die f\u00fcr die Feststellung einer Behinderung zust\u00e4ndige Stelle als mitteilungspflichtige Stelle ihre Feststellungen zur Behinderung nach den Abs\u00e4tzen 1 und 2 nach Ma\u00dfgabe des \u00a7 93c der Abgabenordnung an die f\u00fcr die Besteuerung des Antragstellers zust\u00e4ndige Finanzbeh\u00f6rde \u00fcbermittelt hat. <SUP class=\"Rec\">2</SUP>Die nach Satz 1 mitteilungspflichtige Stelle hat ihre Feststellungen auf schriftlichen oder elektronischen Antrag derjenigen Person, die diese Feststellungen begehrt, an die nach Satz 1 zust\u00e4ndige Finanzbeh\u00f6rde zu \u00fcbermitteln. <SUP class=\"Rec\">3</SUP>Die Person hat der mitteilungspflichtigen Stelle zu diesem Zweck ihre Identifikationsnummer (\u00a7 139b der Abgabenordnung) mitzuteilen. <SUP class=\"Rec\">4</SUP>Neben den nach \u00a7 93c Absatz 1 der Abgabenordnung zu \u00fcbermittelnden Daten sind zus\u00e4tzlich folgende Daten zu \u00fcbermitteln: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Grad der Behinderung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung weiterer gesundheitlicher Merkmale (Merkzeichen): <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">G (erheblich gehbehindert),</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">aG (au\u00dfergew\u00f6hnlich gehbehindert),</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">B (st\u00e4ndige Begleitung notwendig),</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">H (hilflos),</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bl (blind),</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Gl (geh\u00f6rlos),</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung, dass die Behinderung zu einer dauernden Einbu\u00dfe der k\u00f6rperlichen Beweglichkeit gef\u00fchrt hat,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung, dass die Behinderung auf einer typischen Berufskrankheit beruht,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einstufung als pflegebed\u00fcrftige Person mit schwersten Beeintr\u00e4chtigungen der Selbst\u00e4ndigkeit oder der F\u00e4higkeiten in den Pflegegraden 4 oder 5,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Dauer der G\u00fcltigkeit der Feststellung.</LA></DD></DL><SUP class=\"Rec\">5</SUP>Die mitteilungspflichtige Stelle hat jede \u00c4nderung der Feststellungen nach Satz 4 abweichend von \u00a7 93c Absatz 1 Nummer 1 der Abgabenordnung unverz\u00fcglich zu \u00fcbermitteln. <SUP class=\"Rec\">6</SUP>\u00a7 72a Absatz 4, \u00a7 93c Absatz 1 Nummer 3 und Absatz 4 sowie \u00a7 203a der Abgabenordnung finden keine Anwendung.</P><P>(4) <SUP class=\"Rec\">1</SUP>Ist der Mensch mit Behinderungen verstorben und kann sein Rechtsnachfolger die Unterlagen nach den Abs\u00e4tzen 1 und 2 nicht vorlegen, so gen\u00fcgt zum Nachweis eine gutachtliche Stellungnahme der nach \u00a7 152 Absatz 1 des Neunten Buches Sozialgesetzbuch zust\u00e4ndigen Beh\u00f6rde. <SUP class=\"Rec\">2</SUP>Diese Stellungnahme hat die Finanzbeh\u00f6rde einzuholen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 65: Zur Anwendung vgl. \u00a7\u00a7 64, 84 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008205301",
+        "name": "(XXXX) \u00a7\u00a7 66 und 67",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001705301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001805301",
+        "name": "-",
+        "title": "Zu \u00a7 34b des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008307377",
+        "name": "\u00a7 68",
+        "title": "Nutzungssatz, Betriebsgutachten, Betriebswerk",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001805301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Der Nutzungssatz muss periodisch f\u00fcr zehn Jahre durch die Finanzbeh\u00f6rde festgesetzt werden. <SUP class=\"Rec\">2</SUP>Er muss den Holznutzungen entsprechen, die unter Ber\u00fccksichtigung der vollen Ertragsf\u00e4higkeit des Waldes in Kubikmetern im Festma\u00df (Erntefestmeter Derbholz ohne Rinde) nachhaltig erzielbar sind.</P><P>(2) <SUP class=\"Rec\">1</SUP>Der Festsetzung des Nutzungssatzes ist ein amtlich anerkanntes Betriebsgutachten oder ein Betriebswerk zugrunde zu legen, das auf den Anfang des Wirtschaftsjahres aufzustellen ist, von dem an die Periode von zehn Jahren beginnt. <SUP class=\"Rec\">2</SUP>Es soll innerhalb eines Jahres nach diesem Stichtag der Finanzbeh\u00f6rde \u00fcbermittelt werden. <SUP class=\"Rec\">3</SUP>Sofern der Zeitraum, f\u00fcr den es aufgestellt wurde, nicht unmittelbar an den vorherigen Zeitraum der Nutzungssatzfestsetzung anschlie\u00dft, muss es sp\u00e4testens auf den Anfang des Wirtschaftsjahrs des Schadensereignisses aufgestellt sein.</P><P>(3) <SUP class=\"Rec\">1</SUP>Ein Betriebsgutachten im Sinne des Absatzes 2 ist amtlich anerkannt, wenn die Anerkennung von einer Beh\u00f6rde oder einer K\u00f6rperschaft des \u00f6ffentlichen Rechts des Landes, in dem der forstwirtschaftliche Betrieb liegt, ausgesprochen wird. <SUP class=\"Rec\">2</SUP>Die L\u00e4nder bestimmen, welche Beh\u00f6rden oder K\u00f6rperschaften des \u00f6ffentlichen Rechts diese Anerkennung auszusprechen haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG002605301",
+        "name": "-",
+        "title": "Zu \u00a7 34c des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008406140",
+        "name": "\u00a7 68a",
+        "title": "Eink\u00fcnfte aus mehreren ausl\u00e4ndischen Staaten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002605301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Die f\u00fcr die Eink\u00fcnfte aus einem ausl\u00e4ndischen Staat festgesetzte und gezahlte und um einen entstandenen Erm\u00e4\u00dfigungsanspruch gek\u00fcrzte ausl\u00e4ndische Steuer ist nur bis zur H\u00f6he der deutschen Steuer anzurechnen, die auf die Eink\u00fcnfte aus diesem ausl\u00e4ndischen Staat entf\u00e4llt. <SUP class=\"Rec\">2</SUP>Stammen die Eink\u00fcnfte aus mehreren ausl\u00e4ndischen Staaten, so sind die H\u00f6chstbetr\u00e4ge der anrechenbaren ausl\u00e4ndischen Steuern f\u00fcr jeden einzelnen ausl\u00e4ndischen Staat gesondert zu berechnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008505301",
+        "name": "\u00a7 68b",
+        "title": "Nachweis \u00fcber die H\u00f6he der ausl\u00e4ndischen Eink\u00fcnfte und Steuern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002605301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Der Steuerpflichtige hat den Nachweis \u00fcber die H\u00f6he der ausl\u00e4ndischen Eink\u00fcnfte und \u00fcber die Festsetzung und Zahlung der ausl\u00e4ndischen Steuern durch Vorlage entsprechender Urkunden (z. B. Steuerbescheid, Quittung \u00fcber die Zahlung) zu f\u00fchren. <SUP class=\"Rec\">2</SUP>Sind diese Urkunden in einer fremden Sprache abgefasst, so kann eine beglaubigte \u00dcbersetzung in die deutsche Sprache verlangt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008706301",
+        "name": "(XXXX) \u00a7\u00a7 68c und 69",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002605301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG001905301",
+        "name": "-",
+        "title": "Zu \u00a7 46 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008808118",
+        "name": "\u00a7 70",
+        "title": "Ausgleich von H\u00e4rten in bestimmten F\u00e4llen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001905301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Betragen in den F\u00e4llen des \u00a7 46 Absatz 2 Nummer 1 bis 7 des Gesetzes die einkommensteuerpflichtigen Eink\u00fcnfte, von denen der Steuerabzug vom Arbeitslohn nicht vorgenommen worden ist und die nicht nach \u00a7 32d Absatz 6 des Gesetzes der tariflichen Einkommensteuer unterworfen wurden, insgesamt mehr als 410 Euro, so ist vom Einkommen der Betrag abzuziehen, um den die bezeichneten Eink\u00fcnfte, vermindert um den auf sie entfallenden Altersentlastungsbetrag (\u00a7 24a des Gesetzes) und den nach \u00a7 13 Absatz 3 des Gesetzes zu ber\u00fccksichtigenden Betrag, niedriger als 820 Euro sind (H\u00e4rteausgleichsbetrag). <SUP class=\"Rec\">2</SUP>Der H\u00e4rteausgleichsbetrag darf nicht h\u00f6her sein als die nach Satz 1 verminderten Eink\u00fcnfte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 70: Zur Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE008905301",
+        "name": "(XXXX) \u00a7\u00a7 71 und 72",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG001905301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG002205301",
+        "name": "-",
+        "title": "Zu \u00a7 50 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE009107301",
+        "name": "\u00a7 73",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002205301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG002305301",
+        "name": "-",
+        "title": "Zu \u00a7 50a des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE009211123",
+        "name": "\u00a7 73a",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002305301"
+        },
+        "body": "<P>(1) Inl\u00e4ndisch im Sinne des \u00a7 50a Abs. 1 Nr. 4 des Gesetzes sind solche Personenvereinigungen, die ihre Gesch\u00e4ftsleitung oder ihren Sitz im Geltungsbereich des Gesetzes haben.</P><P>(2) Urheberrechte im Sinne des \u00a7 50a Abs. 1 Nr. 3 des Gesetzes sind Rechte, die nach Ma\u00dfgabe des Urheberrechtsgesetzes gesch\u00fctzt sind.</P><P>(3) Gewerbliche Schutzrechte im Sinne des \u00a7 50a Absatz 1 Nummer 3 des Gesetzes sind Rechte, die nach Ma\u00dfgabe <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>des Designgesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>des Patentgesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>des Gebrauchsmustergesetzes oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>des Markengesetzes</LA></DD></DL>gesch\u00fctzt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 73a: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE009306301",
+        "name": "\u00a7 73b",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002305301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE009406140",
+        "name": "\u00a7 73c",
+        "title": "Zeitpunkt des Zuflie\u00dfens im Sinne des \u00a7 50a Abs. 5 Satz 1 des Gesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002305301"
+        },
+        "body": "<P>Die Verg\u00fctungen im Sinne des \u00a7 50a Abs. 1 des Gesetzes flie\u00dfen dem Gl\u00e4ubiger zu <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Fall der Zahlung, Verrechnung oder Gutschrift:</LA><LA Size=\"normal\">bei Zahlung, Verrechnung oder Gutschrift;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Fall der Hinausschiebung der Zahlung wegen vor\u00fcbergehender Zahlungsunf\u00e4higkeit des Schuldners:</LA><LA Size=\"normal\">bei Zahlung, Verrechnung oder Gutschrift;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Fall der Gew\u00e4hrung von Vorsch\u00fcssen:</LA><LA Size=\"normal\">bei Zahlung, Verrechnung oder Gutschrift der Vorsch\u00fcsse.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 73c: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE009508140",
+        "name": "\u00a7 73d",
+        "title": "Aufzeichnungen, Aufbewahrungspflichten, Steueraufsicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002305301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Der Schuldner der Verg\u00fctungen im Sinne des \u00a7 50a Abs. 1 des Gesetzes (Schuldner) hat besondere Aufzeichnungen zu f\u00fchren. <SUP class=\"Rec\">2</SUP>Aus den Aufzeichnungen m\u00fcssen ersichtlich sein: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Wohnung des beschr\u00e4nkt steuerpflichtigen Gl\u00e4ubigers (Steuerschuldners),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6he der Verg\u00fctungen in Euro,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6he und Art der von der Bemessungsgrundlage des Steuerabzugs abgezogenen Betriebsausgaben oder Werbungskosten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag, an dem die Verg\u00fctungen dem Steuerschuldner zugeflossen sind,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6he und Zeitpunkt der Abf\u00fchrung der einbehaltenen Steuer.</LA></DD></DL><SUP class=\"Rec\">3</SUP>Er hat in F\u00e4llen des \u00a7 50a Abs. 3 des Gesetzes die von der Bemessungsgrundlage des Steuerabzugs abgezogenen Betriebsausgaben oder Werbungskosten und die Staatsangeh\u00f6rigkeit des beschr\u00e4nkt steuerpflichtigen Gl\u00e4ubigers in einer f\u00fcr das Bundeszentralamt f\u00fcr Steuern nachpr\u00fcfbaren Form zu dokumentieren.</P><P>(2) Bei der Veranlagung des Schuldners zur Einkommensteuer (K\u00f6rperschaftsteuer) und bei Au\u00dfenpr\u00fcfungen, die bei dem Schuldner vorgenommen werden, ist auch zu pr\u00fcfen, ob die Steuern ordnungsm\u00e4\u00dfig einbehalten und abgef\u00fchrt worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 73d Abs. 1: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE009613123",
+        "name": "\u00a7 73e",
+        "title": "Einbehaltung, Abf\u00fchrung und Anmeldung der Steuer von Verg\u00fctungen im Sinne des \u00a7 50a Abs. 1 und 7 des Gesetzes (\u00a7 50a Abs. 5 des Gesetzes)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002305301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Der Schuldner hat die innerhalb eines Kalendervierteljahrs einbehaltene Steuer von Verg\u00fctungen im Sinne des \u00a7 50a Absatz 1 des Gesetzes unter der Bezeichnung \u201eSteuerabzug von Verg\u00fctungen im Sinne des \u00a7 50a Absatz 1 des Einkommensteuergesetzes\u201c jeweils bis zum zehnten des dem Kalendervierteljahr folgenden Monats an das Bundeszentralamt f\u00fcr Steuern abzuf\u00fchren. <SUP class=\"Rec\">2</SUP>Bis zum gleichen Zeitpunkt hat der Schuldner dem Bundeszentralamt f\u00fcr Steuern eine Steueranmeldung \u00fcber den Gl\u00e4ubiger, die H\u00f6he der Verg\u00fctungen im Sinne des \u00a7 50a Absatz 1 des Gesetzes, die H\u00f6he und Art der von der Bemessungsgrundlage des Steuerabzugs abgezogenen Betriebsausgaben oder Werbungskosten und die H\u00f6he des Steuerabzugs zu \u00fcbersenden. <SUP class=\"Rec\">3</SUP>Satz 2 gilt entsprechend, wenn ein Steuerabzug auf Grund des \u00a7 50a Absatz 2 Satz 3 oder Absatz 4 Satz 1 des Gesetzes nicht vorzunehmen ist oder auf Grund des \u00a7 50c Absatz 2 des Gesetzes nicht oder nicht in voller H\u00f6he vorzunehmen ist. <SUP class=\"Rec\">4</SUP>Die Steueranmeldung ist nach amtlich vorgeschriebenem Datensatz durch Datenfern\u00fcbertragung zu \u00fcbermitteln. <SUP class=\"Rec\">5</SUP>Auf Antrag kann das Bundeszentralamt f\u00fcr Steuern zur Vermeidung unbilliger H\u00e4rten auf eine elektronische \u00dcbermittlung verzichten; in diesem Fall ist die Steueranmeldung vom Schuldner oder von einem zu seiner Vertretung Berechtigten zu unterschreiben. <SUP class=\"Rec\">6</SUP>Ist es zweifelhaft, ob der Gl\u00e4ubiger beschr\u00e4nkt oder unbeschr\u00e4nkt steuerpflichtig ist, so darf der Schuldner die Einbehaltung der Steuer nur dann unterlassen, wenn der Gl\u00e4ubiger durch eine Bescheinigung des nach den abgabenrechtlichen Vorschriften f\u00fcr die Besteuerung seines Einkommens zust\u00e4ndigen Finanzamts nachweist, dass er unbeschr\u00e4nkt steuerpflichtig ist. <SUP class=\"Rec\">7</SUP>Die S\u00e4tze 1, 2, 4 und 5 gelten entsprechend f\u00fcr die Steuer nach \u00a7 50a Absatz 7 des Gesetzes mit der Ma\u00dfgabe, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Steuer an das Finanzamt abzuf\u00fchren und bei dem Finanzamt anzumelden ist, das den Steuerabzug angeordnet hat, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei entsprechender Anordnung die innerhalb eines Monats einbehaltene Steuer jeweils bis zum zehnten des Folgemonats anzumelden und abzuf\u00fchren ist.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 73e: Zur Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE009708140",
+        "name": "\u00a7 73f",
+        "title": "Steuerabzug in den F\u00e4llen des \u00a7 50a Abs. 6 des Gesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002305301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Der Schuldner der Verg\u00fctungen f\u00fcr die Nutzung oder das Recht auf Nutzung von Urheberrechten im Sinne des \u00a7 50a Abs. 1 Nr. 3 des Gesetzes braucht den Steuerabzug nicht vorzunehmen, wenn er diese Verg\u00fctungen auf Grund eines \u00dcbereinkommens nicht an den beschr\u00e4nkt steuerpflichtigen Gl\u00e4ubiger (Steuerschuldner), sondern an die Gesellschaft f\u00fcr musikalische Auff\u00fchrungs- und mechanische Vervielf\u00e4ltigungsrechte (Gema) oder an einen anderen Rechtstr\u00e4ger abf\u00fchrt und die obersten Finanzbeh\u00f6rden der L\u00e4nder mit Zustimmung des Bundesministeriums der Finanzen einwilligen, dass dieser andere Rechtstr\u00e4ger an die Stelle des Schuldners tritt. <SUP class=\"Rec\">2</SUP>In diesem Fall hat die Gema oder der andere Rechtstr\u00e4ger den Steuerabzug vorzunehmen; \u00a7 50a Abs. 5 des Gesetzes sowie die \u00a7\u00a7 73d und 73e gelten entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 73f Satz 1: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE009806140",
+        "name": "\u00a7 73g",
+        "title": "Haftungsbescheid",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002305301"
+        },
+        "body": "<P>(1) Ist die Steuer nicht ordnungsm\u00e4\u00dfig einbehalten oder abgef\u00fchrt, so hat das Bundeszentralamt f\u00fcr Steuern oder das zust\u00e4ndige Finanzamt die Steuer von dem Schuldner, in den F\u00e4llen des \u00a7 73f von dem dort bezeichneten Rechtstr\u00e4ger, durch Haftungsbescheid oder von dem Steuerschuldner durch Steuerbescheid anzufordern.</P><P>(2) Der Zustellung des Haftungsbescheids an den Schuldner bedarf es nicht, wenn der Schuldner die einbehaltene Steuer dem Bundeszentralamt f\u00fcr Steuern oder dem Finanzamt ordnungsm\u00e4\u00dfig angemeldet hat (\u00a7 73e) oder wenn er vor dem Bundeszentralamt f\u00fcr Steuern oder dem Finanzamt oder einem Pr\u00fcfungsbeamten des Bundeszentralamts f\u00fcr Steuern oder des Finanzamts seine Verpflichtung zur Zahlung der Steuer schriftlich anerkannt hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 73g: Zur erstmaligen Anwendung vgl. \u00a7 84 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG002405301",
+        "name": "-",
+        "title": "Zu \u00a7 51 des Gesetzes",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE010107301",
+        "name": "(XXXX) \u00a7\u00a7 74 bis 80",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE010812377",
+        "name": "\u00a7 81",
+        "title": "Bewertungsfreiheit f\u00fcr bestimmte Wirtschaftsg\u00fcter des Anlageverm\u00f6gens im Kohlen- und Erzbergbau",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Steuerpflichtige, die den Gewinn nach \u00a7 5 des Gesetzes ermitteln, k\u00f6nnen bei abnutzbaren Wirtschaftsg\u00fctern des Anlageverm\u00f6gens, bei denen die in den Abs\u00e4tzen 2 und 3 bezeichneten Voraussetzungen vorliegen, im Wirtschaftsjahr der Anschaffung oder Herstellung und in den vier folgenden Wirtschaftsjahren Sonderabschreibungen vornehmen, und zwar <BR /><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei beweglichen Wirtschaftsg\u00fctern des Anlageverm\u00f6gens bis zur H\u00f6he von insgesamt 50 Prozent,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei unbeweglichen Wirtschaftsg\u00fctern des Anlageverm\u00f6gens bis zur H\u00f6he von insgesamt 30 Prozent</LA></DD></DL>der Anschaffungs- oder Herstellungskosten. <SUP class=\"Rec\">2</SUP>\u00a7 9a gilt entsprechend.</P><P>(2) Voraussetzung f\u00fcr die Anwendung des Absatzes 1 ist, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass die Wirtschaftsg\u00fcter<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Tiefbaubetrieb des Steinkohlen-, Pechkohlen-, Braunkohlen- und Erzbergbaues<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Errichtung von neuen F\u00f6rderschachtanlagen, auch in der Form von Anschlussschachtanlagen,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Errichtung neuer Sch\u00e4chte sowie die Erweiterung des Grubengeb\u00e4udes und den durch Wasserzufl\u00fcsse aus stillliegenden Anlagen bedingten Ausbau der Wasserhaltung bestehender Schachtanlagen,</LA></DD><DT>cc)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Rationalisierungsma\u00dfnahmen in der Hauptschacht-, Blindschacht-, Strecken- und Abbauf\u00f6rderung, im Streckenvortrieb, in der Gewinnung, Versatzwirtschaft, Seilfahrt, Wetterf\u00fchrung und Wasserhaltung sowie in der Aufbereitung,</LA></DD><DT>dd)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Zusammenfassung von mehreren F\u00f6rderschachtanlagen zu einer einheitlichen F\u00f6rderschachtanlage oder</LA></DD><DT>ee)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Wiederaufschluss stillliegender Grubenfelder und Feldesteile,</LA></DD></DL></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Tagebaubetrieb des Braunkohlen- und Erzbergbaues<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erschlie\u00dfung neuer Tagebaue, auch in Form von Anschlusstagebauen,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Rationalisierungsma\u00dfnahmen bei laufenden Tagebauen,</LA></DD><DT>cc)</DT><DD Font=\"normal\"><LA Size=\"normal\">beim \u00dcbergang zum Tieftagebau f\u00fcr die Freilegung und Gewinnung der Lagerst\u00e4tte oder</LA></DD><DT>dd)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Wiederinbetriebnahme stillgelegter Tagebaue</LA></DD></DL></LA></DD></DL></LA><LA Size=\"normal\">angeschafft oder hergestellt werden und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass die F\u00f6rderungsw\u00fcrdigkeit dieser Vorhaben von der obersten Landesbeh\u00f6rde oder der von ihr bestimmten Stelle im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie bescheinigt worden ist.</LA></DD></DL></P><P>(3) Die Abschreibungen nach Absatz 1 k\u00f6nnen nur in Anspruch genommen werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des Absatzes 2 Nr. 1 Buchstabe a bei Wirtschaftsg\u00fctern des Anlageverm\u00f6gens unter Tage und bei den in der Anlage 5 zu dieser Verordnung bezeichneten Wirtschaftsg\u00fctern des Anlageverm\u00f6gens \u00fcber Tage,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des Absatzes 2 Nr. 1 Buchstabe b bei den in der Anlage 6 zu dieser Verordnung bezeichneten Wirtschaftsg\u00fctern des beweglichen Anlageverm\u00f6gens.</LA></DD></DL></P><P>(4) Die Abschreibungen nach Absatz 1 k\u00f6nnen in Anspruch genommen werden bei im Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">vor dem 1. Januar 1990 angeschafften oder hergestellten Wirtschaftsg\u00fctern,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach dem 31. Dezember 1989 und vor dem 1. Januar 1991 angeschafften oder hergestellten Wirtschaftsg\u00fctern,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">vor dem 1. Januar 1991 geleisteten Anzahlungen auf Anschaffungskosten und entstandenen Teilherstellungskosten,</LA></DD></DL></LA></DD></DL>wenn der Steuerpflichtige vor dem 1. Januar 1990 die Wirtschaftsg\u00fcter bestellt oder mit ihrer Herstellung begonnen hat.</P><P>(5) Bei den in Absatz 2 Nr. 1 Buchstabe b bezeichneten Vorhaben k\u00f6nnen die vor dem 1. Januar 1990 im Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets aufgewendeten Kosten f\u00fcr den Vorabraum bis zu 50 Prozent als sofort abzugsf\u00e4hige Betriebsausgaben behandelt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE010906301",
+        "name": "\u00a7 82",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE011011140",
+        "name": "\u00a7 82a",
+        "title": "Erh\u00f6hte Absetzungen von Herstellungskosten und Sonderbehandlung von Erhaltungsaufwand f\u00fcr bestimmte Anlagen und Einrichtungen bei Geb\u00e4uden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Der Steuerpflichtige kann von den Herstellungskosten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Ma\u00dfnahmen, die f\u00fcr den Anschluss eines im Inland belegenen Geb\u00e4udes an eine Fernw\u00e4rmeversorgung einschlie\u00dflich der Anbindung an das Heizsystem erforderlich sind, wenn die Fernw\u00e4rmeversorgung \u00fcberwiegend aus Anlagen der Kraft-W\u00e4rme-Kopplung, zur Verbrennung von M\u00fcll oder zur Verwertung von Abw\u00e4rme gespeist wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Einbau von W\u00e4rmepumpenanlagen, Solaranlagen und Anlagen zur W\u00e4rmer\u00fcckgewinnung in einem im Inland belegenen Geb\u00e4ude einschlie\u00dflich der Anbindung an das Heizsystem,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Errichtung von Windkraftanlagen, wenn die mit diesen Anlagen erzeugte Energie \u00fcberwiegend entweder unmittelbar oder durch Verrechnung mit Elektrizit\u00e4tsbez\u00fcgen des Steuerpflichtigen von einem Elektrizit\u00e4tsversorgungsunternehmen zur Versorgung eines im Inland belegenen Geb\u00e4udes des Steuerpflichtigen verwendet wird, einschlie\u00dflich der Anbindung an das Versorgungssystem des Geb\u00e4udes,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Errichtung von Anlagen zur Gewinnung von Gas, das aus pflanzlichen oder tierischen Abfallstoffen durch G\u00e4rung unter Sauerstoffabschluss entsteht, wenn dieses Gas zur Beheizung eines im Inland belegenen Geb\u00e4udes des Steuerpflichtigen oder zur Warmwasserbereitung in einem solchen Geb\u00e4ude des Steuerpflichtigen verwendet wird, einschlie\u00dflich der Anbindung an das Versorgungssystem des Geb\u00e4udes,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Einbau einer Warmwasseranlage zur Versorgung von mehr als einer Zapfstelle und einer zentralen Heizungsanlage oder bei einer zentralen Heizungs- und Warmwasseranlage f\u00fcr den Einbau eines Heizkessels, eines Brenners, einer zentralen Steuerungseinrichtung, einer W\u00e4rmeabgabeeinrichtung und eine \u00c4nderung der Abgasanlage in einem im Inland belegenen Geb\u00e4ude oder in einer im Inland belegenen Eigentumswohnung, wenn mit der Ma\u00dfnahme nicht vor Ablauf von zehn Jahren seit Fertigstellung dieses Geb\u00e4udes begonnen worden ist,</LA></DD></DL>an Stelle der nach \u00a7 7 Abs. 4 oder 5 oder \u00a7 7b des Gesetzes zu bemessenden Absetzungen f\u00fcr Abnutzung im Jahr der Herstellung und in den folgenden neun Jahren jeweils bis zu 10 Prozent absetzen. <SUP class=\"Rec\">2</SUP>Nach Ablauf dieser zehn Jahre ist ein etwa noch vorhandener Restwert den Anschaffungs- oder Herstellungskosten des Geb\u00e4udes oder dem an deren Stelle tretenden Wert hinzuzurechnen; die weiteren Absetzungen f\u00fcr Abnutzung sind einheitlich f\u00fcr das gesamte Geb\u00e4ude nach dem sich hiernach ergebenden Betrag und dem f\u00fcr das Geb\u00e4ude ma\u00dfgebenden Hundertsatz zu bemessen. <SUP class=\"Rec\">3</SUP>Voraussetzung f\u00fcr die Inanspruchnahme der erh\u00f6hten Absetzungen ist, dass das Geb\u00e4ude in den F\u00e4llen der Nummer 1 vor dem 1. Juli 1983 fertiggestellt worden ist; die Voraussetzung entf\u00e4llt, wenn der Anschluss nicht schon im Zusammenhang mit der Errichtung des Geb\u00e4udes m\u00f6glich war.</P><P>(2) Die erh\u00f6hten Absetzungen k\u00f6nnen nicht vorgenommen werden, wenn f\u00fcr dieselbe Ma\u00dfnahme eine Investitionszulage gew\u00e4hrt wird.</P><P>(3) <SUP class=\"Rec\">1</SUP>Sind die Aufwendungen f\u00fcr eine Ma\u00dfnahme im Sinne des Absatzes 1 Erhaltungsaufwand und entstehen sie bei einer zu eigenen Wohnzwecken genutzten Wohnung im eigenen Haus, deren Nutzungswert nicht mehr besteuert wird, und liegen in den F\u00e4llen des Absatzes 1 Nr. 1 die Voraussetzungen des Absatzes 1 Satz 3 vor, k\u00f6nnen die Aufwendungen wie Sonderausgaben abgezogen werden; sie sind auf das Jahr, in dem die Arbeiten abgeschlossen worden sind, und die neun folgenden Jahre gleichm\u00e4\u00dfig zu verteilen. <SUP class=\"Rec\">2</SUP>Entsprechendes gilt bei Aufwendungen zur Anschaffung neuer Einzel\u00f6fen f\u00fcr eine Wohnung, wenn keine zentrale Heizungsanlage vorhanden ist und die Wohnung seit mindestens zehn Jahren fertiggestellt ist. <SUP class=\"Rec\">3</SUP>\u00a7 82b Abs. 2 und 3 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE014200301",
+        "name": "\u00a7 82b",
+        "title": "Behandlung gr\u00f6\u00dferen Erhaltungsaufwands bei Wohngeb\u00e4uden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Der Steuerpflichtige kann gr\u00f6\u00dfere Aufwendungen f\u00fcr die Erhaltung von Geb\u00e4uden, die im Zeitpunkt der Leistung des Erhaltungsaufwands nicht zu einem Betriebsverm\u00f6gen geh\u00f6ren und \u00fcberwiegend Wohnzwecken dienen, abweichend von \u00a7 11 Abs. 2 des Gesetzes auf zwei bis f\u00fcnf Jahre gleichm\u00e4\u00dfig verteilen. <SUP class=\"Rec\">2</SUP>Ein Geb\u00e4ude dient \u00fcberwiegend Wohnzwecken, wenn die Grundfl\u00e4che der Wohnzwecken dienenden R\u00e4ume des Geb\u00e4udes mehr als die H\u00e4lfte der gesamten Nutzfl\u00e4che betr\u00e4gt. <SUP class=\"Rec\">3</SUP>Zum Geb\u00e4ude geh\u00f6rende Garagen sind ohne R\u00fccksicht auf ihre tats\u00e4chliche Nutzung als Wohnzwecken dienend zu behandeln, soweit in ihnen nicht mehr als ein Personenkraftwagen f\u00fcr jede in dem Geb\u00e4ude befindliche Wohnung untergestellt werden kann. <SUP class=\"Rec\">4</SUP>R\u00e4ume f\u00fcr die Unterstellung weiterer Kraftwagen sind stets als nicht Wohnzwecken dienend zu behandeln.</P><P>(2) <SUP class=\"Rec\">1</SUP>Wird das Geb\u00e4ude w\u00e4hrend des Verteilungszeitraums ver\u00e4u\u00dfert, ist der noch nicht ber\u00fccksichtigte Teil des Erhaltungsaufwands im Jahr der Ver\u00e4u\u00dferung als Werbungskosten abzusetzen. <SUP class=\"Rec\">2</SUP>Das Gleiche gilt, wenn ein Geb\u00e4ude in ein Betriebsverm\u00f6gen eingebracht oder nicht mehr zur Einkunftserzielung genutzt wird.</P><P>(3) Steht das Geb\u00e4ude im Eigentum mehrerer Personen, so ist der in Absatz 1 bezeichnete Erhaltungsaufwand von allen Eigent\u00fcmern auf den gleichen Zeitraum zu verteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE011206140",
+        "name": "(XXXX) \u00a7\u00a7 82c bis 82e",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE011513140",
+        "name": "\u00a7 82f",
+        "title": "Bewertungsfreiheit f\u00fcr Handelsschiffe, f\u00fcr Schiffe, die der Seefischerei dienen, und f\u00fcr Luftfahrzeuge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Steuerpflichtige, die den Gewinn nach \u00a7 5 des Gesetzes ermitteln, k\u00f6nnen bei Handelsschiffen, die in einem inl\u00e4ndischen Seeschiffsregister eingetragen sind, im Wirtschaftsjahr der Anschaffung oder Herstellung und in den vier folgenden Wirtschaftsjahren Sonderabschreibungen bis zu insgesamt 40 Prozent der Anschaffungs- oder Herstellungskosten vornehmen. <SUP class=\"Rec\">2</SUP>\u00a7 9a gilt entsprechend.</P><P>(2) Im Fall der Anschaffung eines Handelsschiffs ist Absatz 1 nur anzuwenden, wenn das Handelsschiff vor dem 1. Januar 1996 in ungebrauchtem Zustand vom Hersteller oder nach dem 31. Dezember 1995 bis zum Ablauf des vierten auf das Jahr der Fertigstellung folgenden Jahres erworben worden ist.</P><P>(3) <SUP class=\"Rec\">1</SUP>Die Inanspruchnahme der Abschreibungen nach Absatz 1 ist nur unter der Bedingung zul\u00e4ssig, dass die Handelsschiffe innerhalb eines Zeitraums von acht Jahren nach ihrer Anschaffung oder Herstellung nicht ver\u00e4u\u00dfert werden. <SUP class=\"Rec\">2</SUP>F\u00fcr Anteile an Handelsschiffen gilt dies entsprechend.</P><P>(4) Die Abschreibungen nach Absatz 1 k\u00f6nnen bereits f\u00fcr Anzahlungen auf Anschaffungskosten und f\u00fcr Teilherstellungskosten in Anspruch genommen werden.</P><P>(5) <SUP class=\"Rec\">1</SUP>Die Abschreibungen nach Absatz 1 k\u00f6nnen nur in Anspruch genommen werden, wenn das Handelsschiff vor dem 1. Januar 1999 angeschafft oder hergestellt wird und der Kaufvertrag oder Bauvertrag vor dem 25. April 1996 abgeschlossen worden ist. <SUP class=\"Rec\">2</SUP>Bei Steuerpflichtigen, die in eine Gesellschaft im Sinne des \u00a7 15 Absatz 1 Satz 1 Nummer 2 und Absatz 3 des Einkommensteuergesetzes nach Abschluss des Schiffbauvertrags (Unterzeichnung des Hauptvertrags) eintreten, sind Sonderabschreibungen nur zul\u00e4ssig, wenn sie der Gesellschaft vor dem 1. Januar 1999 beitreten.</P><P>(6) <SUP class=\"Rec\">1</SUP>Die Abs\u00e4tze 1 bis 5 gelten f\u00fcr Schiffe, die der Seefischerei dienen, entsprechend. <SUP class=\"Rec\">2</SUP>F\u00fcr Luftfahrzeuge, die vom Steuerpflichtigen hergestellt oder in ungebrauchtem Zustand vom Hersteller erworben worden sind und die zur gewerbsm\u00e4\u00dfigen Bef\u00f6rderung von Personen oder Sachen im internationalen Luftverkehr oder zur Verwendung zu sonstigen gewerblichen Zwecken im Ausland bestimmt sind, gelten die Abs\u00e4tze 1 und 3 bis 5 mit der Ma\u00dfgabe entsprechend, dass an die Stelle der Eintragung in ein inl\u00e4ndisches Seeschiffsregister die Eintragung in die deutsche Luftfahrzeugrolle, an die Stelle des H\u00f6chstsatzes von 40 Prozent ein H\u00f6chstsatz von 30 Prozent und bei der Vorschrift des Absatzes 3 an die Stelle des Zeitraums von acht Jahren ein Zeitraum von sechs Jahren treten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE011610140",
+        "name": "\u00a7 82g",
+        "title": "Erh\u00f6hte Absetzungen von Herstellungskosten f\u00fcr bestimmte Bauma\u00dfnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": "<P><SUP class=\"Rec\">1</SUP>Der Steuerpflichtige kann von den durch Zusch\u00fcsse aus Sanierungs- oder Entwicklungsf\u00f6rderungsmitteln nicht gedeckten Herstellungskosten f\u00fcr Modernisierungs- und Instandsetzungsma\u00dfnahmen im Sinne des \u00a7 177 des Baugesetzbuchs sowie f\u00fcr Ma\u00dfnahmen, die der Erhaltung, Erneuerung und funktionsgerechten Verwendung eines Geb\u00e4udes dienen, das wegen seiner geschichtlichen, k\u00fcnstlerischen oder st\u00e4dtebaulichen Bedeutung erhalten bleiben soll, und zu deren Durchf\u00fchrung sich der Eigent\u00fcmer neben bestimmten Modernisierungsma\u00dfnahmen gegen\u00fcber der Gemeinde verpflichtet hat, die f\u00fcr Geb\u00e4ude in einem f\u00f6rmlich festgelegten Sanierungsgebiet oder st\u00e4dtebaulichen Entwicklungsbereich aufgewendet worden sind, an Stelle der nach \u00a7 7 Abs. 4 oder 5 oder \u00a7 7b des Gesetzes zu bemessenden Absetzungen f\u00fcr Abnutzung im Jahr der Herstellung und in den neun folgenden Jahren jeweils bis zu 10 Prozent absetzen. <SUP class=\"Rec\">2</SUP>\u00a7 82a Abs. 1 Satz 2 gilt entsprechend. <SUP class=\"Rec\">3</SUP>Satz 1 ist anzuwenden, wenn der Steuerpflichtige eine Bescheinigung der zust\u00e4ndigen Gemeindebeh\u00f6rde vorlegt, dass er Bauma\u00dfnahmen im Sinne des Satzes 1 durchgef\u00fchrt hat; sind ihm Zusch\u00fcsse aus Sanierungs- oder Entwicklungsf\u00f6rderungsmitteln gew\u00e4hrt worden, so hat die Bescheinigung auch deren H\u00f6he zu enthalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE011707301",
+        "name": "\u00a7 82h",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE011806140",
+        "name": "\u00a7 82i",
+        "title": "Erh\u00f6hte Absetzungen von Herstellungskosten bei Baudenkm\u00e4lern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": "<P>(1) <SUP class=\"Rec\">1</SUP>Bei einem Geb\u00e4ude, das nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, kann der Steuerpflichtige von den Herstellungskosten f\u00fcr Bauma\u00dfnahmen, die nach Art und Umfang zur Erhaltung des Geb\u00e4udes als Baudenkmal und zu seiner sinnvollen Nutzung erforderlich sind und die nach Abstimmung mit der in Absatz 2 bezeichneten Stelle durchgef\u00fchrt worden sind, an Stelle der nach \u00a7 7 Abs. 4 des Gesetzes zu bemessenden Absetzungen f\u00fcr Abnutzung im Jahr der Herstellung und in den neun folgenden Jahren jeweils bis zu 10 Prozent absetzen. <SUP class=\"Rec\">2</SUP>Eine sinnvolle Nutzung ist nur anzunehmen, wenn das Geb\u00e4ude in der Weise genutzt wird, dass die Erhaltung der sch\u00fctzenswerten Substanz des Geb\u00e4udes auf die Dauer gew\u00e4hrleistet ist. <SUP class=\"Rec\">3</SUP>Bei einem Geb\u00e4udeteil, der nach den jeweiligen landesrechtlichen Vorschriften ein Baudenkmal ist, sind die S\u00e4tze 1 und 2 entsprechend anzuwenden. <SUP class=\"Rec\">4</SUP>Bei einem Geb\u00e4ude, das f\u00fcr sich allein nicht die Voraussetzungen f\u00fcr ein Baudenkmal erf\u00fcllt, aber Teil einer Geb\u00e4udegruppe oder Gesamtanlage ist, die nach den jeweiligen landesrechtlichen Vorschriften als Einheit gesch\u00fctzt ist, k\u00f6nnen die erh\u00f6hten Absetzungen von den Herstellungskosten der Geb\u00e4udeteile und Ma\u00dfnahmen vorgenommen werden, die nach Art und Umfang zur Erhaltung des sch\u00fctzenswerten Erscheinungsbildes der Gruppe oder Anlage erforderlich sind. <SUP class=\"Rec\">5</SUP>\u00a7 82a Abs. 1 Satz 2 gilt entsprechend.</P><P>(2) Die erh\u00f6hten Absetzungen k\u00f6nnen nur in Anspruch genommen werden, wenn der Steuerpflichtige die Voraussetzungen des Absatzes 1 f\u00fcr das Geb\u00e4ude oder den Geb\u00e4udeteil und f\u00fcr die Erforderlichkeit der Herstellungskosten durch eine Bescheinigung der nach Landesrecht zust\u00e4ndigen oder von der Landesregierung bestimmten Stelle nachweist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE012005301",
+        "name": "\u00a7 83",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002405301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007560955BJNG002505301",
+        "name": "-",
+        "title": "Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE012154123",
+        "name": "\u00a7 84",
+        "title": "Anwendungsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002505301"
+        },
+        "body": "<P>(1) Die vorstehende Fassung dieser Verordnung ist, soweit in den folgenden Abs\u00e4tzen nichts anderes bestimmt ist, erstmals f\u00fcr den Veranlagungszeitraum 2020 anzuwenden.</P><P>(1a) \u00a7 1 in der Fassung des Artikels 2 des Gesetzes vom 18. Juli 2014 (BGBl. I S. 1042) ist in allen F\u00e4llen anzuwenden, in denen die Einkommensteuer noch nicht bestandskr\u00e4ftig festgesetzt ist.</P><P>(1b) \u00a7 7 der Einkommensteuer-Durchf\u00fchrungsverordnung 1997 in der Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist letztmals f\u00fcr das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1999 endet.</P><P>(1c) Die \u00a7\u00a7 8 und 8a der Einkommensteuer-Durchf\u00fchrungsverordnung 1986 in der Fassung der Bekanntmachung vom 24. Juli 1986 (BGBl. I S. 1239) sind letztmals f\u00fcr das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1990 endet.</P><P>(2) \u00a7 8c Absatz 2 Satz 1 in der Fassung des Artikels\u00a01 der Verordnung vom 25. Juni 2020 (BGBl. I S. 1495) kann erstmals f\u00fcr Wirtschaftsjahre angewendet werden, die nach dem 31. Dezember 2018 beginnen.</P><P>(2a) \u00a7 11c Abs. 2 Satz 3 ist erstmals f\u00fcr das nach dem 31. Dezember 1998 endende Wirtschaftsjahr anzuwenden.</P><P>(2b) \u00a7 29 Abs. 1 ist auch f\u00fcr Veranlagungszeitr\u00e4ume vor 1996 anzuwenden, soweit die F\u00e4lle, in denen Anspr\u00fcche aus Versicherungsvertr\u00e4gen nach dem 13. Februar 1992 zur Tilgung oder Sicherung von Darlehen eingesetzt wurden, noch nicht angezeigt worden sind.</P><P>(2c) \u00a7 50 in der am 1. Januar 2020 geltenden Fassung ist erstmals auf Zuwendungen anzuwenden, die dem Zuwendungsempf\u00e4nger nach dem 31. Dezember 2019 zuflie\u00dfen.</P><P>(3) \u00a7 29 Abs. 3 bis 6, \u00a7\u00a7 31 und 32 sind in der vor dem 1. Januar 1996 geltenden Fassung f\u00fcr vor diesem Zeitpunkt an Bausparkassen geleistete Beitr\u00e4ge letztmals f\u00fcr den Veranlagungszeitraum 2005 anzuwenden.</P><P>(3a) \u00a7 51 in der Fassung des Artikels 2 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) ist erstmals f\u00fcr das Wirtschaftsjahr anzuwenden, das nach dem 31. Dezember 2011 beginnt.</P><P>(3b) <SUP class=\"Rec\">1</SUP>\u00a7 52 ist erstmals f\u00fcr den \u00fcbern\u00e4chsten Veranlagungszeitraum anzuwenden, der auf den Veranlagungszeitraum folgt, in dem die f\u00fcr die Anwendung erforderlichen technischen und organisatorischen Voraussetzungen in der Finanzverwaltung f\u00fcr eine Umsetzung der Regelung vorliegen. <SUP class=\"Rec\">2</SUP>Das Bundesministerium der Finanzen gibt im Einvernehmen mit dem Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft sowie den obersten Finanzbeh\u00f6rden der L\u00e4nder im Bundessteuerblatt den Veranlagungszeitraum bekannt, ab dem die Regelung des \u00a7 52 erstmals anzuwenden ist. <SUP class=\"Rec\">3</SUP>Bisher schon bestehende Mitteilungspflichten sind f\u00fcr die Veranlagungszeitr\u00e4ume vor erstmaliger Anwendung des \u00a7 52 weiter zu erf\u00fcllen.</P><P>(3c) <SUP class=\"Rec\">1</SUP>\u00a7 54 Abs. 1 Satz 2 in der Fassung des Artikels 1a des Gesetzes vom 20. Dezember 2007 (BGBl. I S. 3150) ist erstmals f\u00fcr Vorg\u00e4nge nach dem 31. Dezember 2007 anzuwenden. <SUP class=\"Rec\">2</SUP>\u00a7 54 Abs. 4 in der Fassung des Artikels 2 des Gesetzes vom 7. Dezember 2006 (BGBl. I S. 2782) ist erstmals auf Verf\u00fcgungen \u00fcber Anteile an Kapitalgesellschaften anzuwenden, die nach dem 31. Dezember 2006 beurkundet werden.</P><P>(3d) \u00a7 56 in der Fassung des Artikels 10 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076) ist erstmals f\u00fcr den Veranlagungszeitraum 2004 anzuwenden.</P><P>(3e) \u00a7 60 Abs. 1 und 4 in der Fassung des Artikels 2 des Gesetzes vom 20. Dezember 2008 (BGBl. I S. 2850) ist erstmals f\u00fcr Wirtschaftsjahre (Gewinnermittlungszeitr\u00e4ume) anzuwenden, die nach dem 31. Dezember 2010 beginnen.</P><P>(3f) \u00a7 62d Abs. 2 Satz 2 in der Fassung des Artikels 2 des Gesetzes vom 22. Dezember 2003 (BGBl. I S. 2840) ist erstmals auf Verluste anzuwenden, die aus dem Veranlagungszeitraum 2004 in den Veranlagungszeitraum 2003 zur\u00fcckgetragen werden.</P><P>(3g) <SUP class=\"Rec\">1</SUP>\u00a7 65 Absatz 1 in der Fassung des Artikels 10 des Gesetzes vom 2. Juni 2021 (BGBl. I S. 1259) ist erstmals f\u00fcr den Veranlagungszeitraum 2021 anzuwenden. <SUP class=\"Rec\">2</SUP>\u00a7 65 Absatz 3a ist erstmals f\u00fcr den Veranlagungszeitraum anzuwenden, der auf den Veranlagungszeitraum folgt, in dem die f\u00fcr die Anwendung erforderlichen Programmierarbeiten f\u00fcr das elektronische Daten\u00fcbermittlungsverfahren abgeschlossen sind. <SUP class=\"Rec\">3</SUP>Das Bundesministerium der Finanzen gibt im Einvernehmen mit den obersten Finanzbeh\u00f6rden der L\u00e4nder im Bundessteuerblatt Teil I den Veranlagungszeitraum bekannt, ab dem die Regelung des \u00a7 65 Absatz 3a erstmals anzuwenden ist. <SUP class=\"Rec\">4</SUP>Mit der Anwendung von \u00a7 65 Absatz 3a ist \u00a7 65 Absatz 1 Nummer 1 und 2 Buchstabe a, Absatz 2 Satz 1 und 2 zweiter Halbsatz nicht weiter anzuwenden. <SUP class=\"Rec\">5</SUP>Der Anwendungsbereich des \u00a7 65 Absatz 3 wird auf die F\u00e4lle des \u00a7 65 Absatz 1 Nummer 2 Buchstabe b beschr\u00e4nkt. <SUP class=\"Rec\">6</SUP>Zu diesem Zeitpunkt noch g\u00fcltige und dem Finanzamt vorliegende Feststellungen \u00fcber eine Behinderung werden bis zum Ende ihrer G\u00fcltigkeit weiter ber\u00fccksichtigt, es sei denn, die Feststellungen \u00e4ndern sich vor Ablauf der G\u00fcltigkeit.</P><P>(3h) \u00a7 70 in der Fassung des Artikels 24 des Gesetzes vom 25. Juli 2014 (BGBl. I S. 1266) ist erstmals ab dem Veranlagungszeitraum 2014 anzuwenden.</P><P>(3i) <SUP class=\"Rec\">1</SUP>Die \u00a7\u00a7 73a, 73c, 73d Abs. 1 sowie die \u00a7\u00a7 73e und 73f Satz 1 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) sind erstmals auf Verg\u00fctungen anzuwenden, die nach dem 31. Dezember 2008 zuflie\u00dfen. <SUP class=\"Rec\">2</SUP>Abweichend von Satz 1 ist \u00a7 73e Satz 4 und 5 in der Fassung des Artikels 2 des Gesetzes vom 19. Dezember 2008 (BGBl. I S. 2794) erstmals auf Verg\u00fctungen anzuwenden, die nach dem 31. Dezember 2009 zuflie\u00dfen. <SUP class=\"Rec\">3</SUP>\u00a7 73e Satz 4 in der Fassung der Bekanntmachung vom 10. Mai 2000 (BGBl. I S. 717) ist letztmals auf Verg\u00fctungen anzuwenden, die vor dem 1. Januar 2010 zuflie\u00dfen. <SUP class=\"Rec\">4</SUP>\u00a7 73d Absatz 1 Satz 3, \u00a7 73e Satz 1, 2 und 5 sowie \u00a7 73g Absatz 1 und 2 in der Fassung des Artikels 9 des Gesetzes vom 10. August 2009 (BGBl. I S. 2702) sind erstmals auf Verg\u00fctungen anzuwenden, die nach dem 31. Dezember 2013 zuflie\u00dfen. <SUP class=\"Rec\">5</SUP>\u00a7 73a Absatz 3 in der am 30. Dezember 2014 geltenden Fassung ist erstmals ab dem 1. Januar 2014 anzuwenden.<SUP class=\"Rec\">6</SUP>\u00a7 73e Satz 7 in der am 31. Juli 2014 geltenden Fassung ist erstmals auf Verg\u00fctungen anzuwenden, f\u00fcr die der Steuerabzug nach dem 31. Dezember 2014 angeordnet worden ist.</P><P>(3j) \u00a7 80 der Einkommensteuer-Durchf\u00fchrungsverordnung 1997 in der Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist letztmals f\u00fcr das Wirtschaftsjahr anzuwenden, das vor dem 1. Januar 1999 endet.</P><P>(4) <SUP class=\"Rec\">1</SUP>\u00a7 82a ist auf Tatbest\u00e4nde anzuwenden, die in dem in Artikel 3 des Einigungsvertrages genannten Gebiet nach dem 31. Dezember 1990 und vor dem 1. Januar 1992 verwirklicht worden sind. <SUP class=\"Rec\">2</SUP>Auf Tatbest\u00e4nde, die im Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets verwirklicht worden sind, ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 82a Abs. 1 und 2 bei Herstellungskosten f\u00fcr Einbauten von Anlagen und Einrichtungen im Sinne von dessen Absatz 1 Nr. 1 bis 5 anzuwenden, die nach dem 30. Juni 1985 und vor dem 1. Januar 1992 fertiggestellt worden sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 82a Abs. 3 Satz 1 ab dem Veranlagungszeitraum 1987 bei Erhaltungsaufwand f\u00fcr Arbeiten anzuwenden, die vor dem 1. Januar 1992 abgeschlossen worden sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 82a Abs. 3 Satz 2 ab dem Veranlagungszeitraum 1987 bei Aufwendungen f\u00fcr Einzel\u00f6fen anzuwenden, die vor dem 1. Januar 1992 angeschafft worden sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 82a Abs. 3 Satz 1 in der Fassung der Bekanntmachung vom 24. Juli 1986 f\u00fcr Veranlagungszeitr\u00e4ume vor 1987 bei Erhaltungsaufwand f\u00fcr Arbeiten anzuwenden, die nach dem 30. Juni 1985 abgeschlossen worden sind,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 82a Abs. 3 Satz 2 in der Fassung der Bekanntmachung vom 24. Juli 1986 f\u00fcr Veranlagungszeitr\u00e4ume vor 1987 bei Aufwendungen f\u00fcr Einzel\u00f6fen anzuwenden, die nach dem 30. Juni 1985 angeschafft worden sind,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 82a bei Aufwendungen f\u00fcr vor dem 1. Juli 1985 fertiggestellte Anlagen und Einrichtungen in den vor diesem Zeitpunkt geltenden Fassungen weiter anzuwenden.</LA></DD></DL></P><P>(4a) <SUP class=\"Rec\">1</SUP>\u00a7 82b der Einkommensteuer-Durchf\u00fchrungsverordnung 1997 in der Fassung der Bekanntmachung vom 18. Juni 1997 (BGBl. I S. 1558) ist letztmals auf Erhaltungsaufwand anzuwenden, der vor dem 1. Januar 1999 entstanden ist. <SUP class=\"Rec\">2</SUP>\u00a7 82b in der Fassung des Artikels 10 des Gesetzes vom 29. Dezember 2003 (BGBl. I S. 3076) ist erstmals auf Erhaltungsaufwand anzuwenden, der nach dem 31. Dezember 2003 entstanden ist.</P><P>(4b) \u00a7 82d der Einkommensteuer-Durchf\u00fchrungsverordnung 1986 ist auf Wirtschaftsg\u00fcter sowie auf ausgebaute und neu hergestellte Geb\u00e4udeteile anzuwenden, die im Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets nach dem 18. Mai 1983 und vor dem 1. Januar 1990 hergestellt oder angeschafft worden sind.</P><P>(5) \u00a7 82f Abs. 5 und 7 Satz 1 der Einkommensteuer-Durchf\u00fchrungsverordnung 1979 in der Fassung der Bekanntmachung vom 24. September 1980 (BGBl. I S. 1801) ist letztmals f\u00fcr das Wirtschaftsjahr anzuwenden, das dem Wirtschaftsjahr vorangeht, f\u00fcr das \u00a7 15a des Gesetzes erstmals anzuwenden ist.</P><P>(6) <SUP class=\"Rec\">1</SUP>\u00a7 82g ist auf Ma\u00dfnahmen anzuwenden, die nach dem 30. Juni 1987 und vor dem 1. Januar 1991 in dem Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets abgeschlossen worden sind. <SUP class=\"Rec\">2</SUP>Auf Ma\u00dfnahmen, die vor dem 1. Juli 1987 in dem Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets abgeschlossen worden sind, ist \u00a7 82g in der vor diesem Zeitpunkt geltenden Fassung weiter anzuwenden.</P><P>(7) <SUP class=\"Rec\">1</SUP>\u00a7 82h in der durch die Verordnung vom 19. Dezember 1988 (BGBl. I S. 2301) ge\u00e4nderten Fassung ist erstmals auf Ma\u00dfnahmen, die nach dem 30. Juni 1987 in dem Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets abgeschlossen worden sind, und letztmals auf Erhaltungsaufwand, der vor dem 1. Januar 1990 in dem Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets entstanden ist, mit der Ma\u00dfgabe anzuwenden, dass der noch nicht ber\u00fccksichtigte Teil des Erhaltungsaufwands in dem Jahr, in dem das Geb\u00e4ude letztmals zur Einkunftserzielung genutzt wird, als Betriebsausgaben oder Werbungskosten abzusetzen ist. <SUP class=\"Rec\">2</SUP>Auf Ma\u00dfnahmen, die vor dem 1. Juli 1987 in dem Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets abgeschlossen worden sind, ist \u00a7 82h in der vor diesem Zeitpunkt geltenden Fassung weiter anzuwenden.</P><P>(8) \u00a7 82i ist auf Herstellungskosten f\u00fcr Bauma\u00dfnahmen anzuwenden, die nach dem 31. Dezember 1977 und vor dem 1. Januar 1991 in dem Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets abgeschlossen worden sind.</P><P>(9) \u00a7 82k der Einkommensteuer-Durchf\u00fchrungsverordnung 1986 ist auf Erhaltungsaufwand, der vor dem 1. Januar 1990 in dem Geltungsbereich dieser Verordnung ausschlie\u00dflich des in Artikel 3 des Einigungsvertrages genannten Gebiets entstanden ist, mit der Ma\u00dfgabe anzuwenden, dass der noch nicht ber\u00fccksichtigte Teil des Erhaltungsaufwands in dem Jahr, in dem das Geb\u00e4ude letztmals zur Einkunftserzielung genutzt wird, als Betriebsausgaben oder Werbungskosten abzusetzen ist.</P><P>(10) <SUP class=\"Rec\">1</SUP>In Anlage 3 (zu \u00a7 80 Abs. 1) ist die Nummer 26 erstmals f\u00fcr das Wirtschaftsjahr anzuwenden, das nach dem 31. Dezember 1990 beginnt. <SUP class=\"Rec\">2</SUP>F\u00fcr Wirtschaftsjahre, die vor dem 1. Januar 1991 beginnen, ist die Nummer 26 in Anlage 3 in der vor diesem Zeitpunkt geltenden Fassung anzuwenden.</P><P>(11) \u00a7 56 Satz 1 Nummer 1, die \u00a7\u00a7 61 und 62d in der Fassung des Artikels 2 des Gesetzes vom 1. November 2011 (BGBl. I S. 2131) sind erstmals f\u00fcr den Veranlagungszeitraum 2013 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE012205301",
+        "name": "\u00a7 85",
+        "title": "(gegenstandslos)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002505301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE012309301",
+        "name": "Anlage 1",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002505301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE012405301",
+        "name": "(XXXX) Anlagen 2 bis 4",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002505301"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE012705301",
+        "name": "Anlage 5",
+        "title": "(zu \u00a7 81 Abs. 3 Nr. 1)\n<BR />\nVerzeichnis der Wirtschaftsg\u00fcter des Anlageverm\u00f6gens \u00fcber\nTage im Sinne des \u00a7 81 Abs. 3 Nr. 1",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002505301"
+        },
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2000, 733)</kommentar></noindex></P><P>Die Bewertungsfreiheit des \u00a7 81 kann im Tiefbaubetrieb des Steinkohlen-, Pechkohlen-, Braunkohlen- und Erzbergbaues f\u00fcr die Wirtschaftsg\u00fcter des Anlageverm\u00f6gens \u00fcber Tage in Anspruch genommen werden, die zu den folgenden, mit dem Grubenbetrieb unter Tage in unmittelbarem Zusammenhang stehenden, der F\u00f6rderung, Seilfahrt, Wasserhaltung und Wetterf\u00fchrung sowie der Aufbereitung des Minerals dienenden Anlagen und Einrichtungen geh\u00f6ren: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00f6rderanlagen und -einrichtungen einschlie\u00dflich Schachthalle, H\u00e4ngebank, Wagenumlauf und Verladeeinrichtungen sowie Anlagen der Berge- und Grubenholzwirtschaft,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen und Einrichtungen der Wetterwirtschaft und Wasserhaltung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waschkauen sowie Einrichtungen der Grubenlampenwirtschaft, des Grubenrettungswesens und der Ersten Hilfe,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sieberei, W\u00e4sche und sonstige Aufbereitungsanlagen; im Erzbergbau alle der Aufbereitung dienenden Anlagen sowie die Anlagen zum R\u00f6sten von Eisenerzen, wenn die Anlagen nicht zu einem H\u00fcttenbetrieb geh\u00f6ren.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007560955BJNE012805301",
+        "name": "Anlage 6",
+        "title": "(zu \u00a7 81 Abs. 3 Nr. 2)\n<BR />\nVerzeichnis der Wirtschaftsg\u00fcter des beweglichen Anlageverm\u00f6gens\nim Sinne des \u00a7 81 Abs. 3 Nr. 2",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007560955BJNG002505301"
+        },
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2000, 733)</kommentar></noindex></P><P>Die Bewertungsfreiheit des \u00a7 81 kann im Tagebaubetrieb des Braunkohlen- und Erzbergbaues f\u00fcr die folgenden Wirtschaftsg\u00fcter des beweglichen Anlageverm\u00f6gens in Anspruch genommen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grubenaufschluss,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Entw\u00e4sserungsanlagen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gro\u00dfger\u00e4te, die der L\u00f6sung, Bewegung und Verkippung der Abraummassen sowie der F\u00f6rderung und Bewegung des Minerals dienen, soweit sie wegen ihrer besonderen, die Ablagerungs- und Gr\u00f6\u00dfenverh\u00e4ltnisse des Tagebaubetriebs ber\u00fccksichtigenden Konstruktion nur f\u00fcr diesen Tagebaubetrieb oder anschlie\u00dfend f\u00fcr andere beg\u00fcnstigte Tagebaubetriebe verwendet werden; hierzu geh\u00f6ren auch Spezialabraum- und -kohlenwagen einschlie\u00dflich der daf\u00fcr erforderlichen Lokomotiven sowie Transportbandanlagen mit den Auf- und \u00dcbergaben und den dazugeh\u00f6rigen Bunkereinrichtungen mit Ausnahme der Rohkohlenbunker in Kraftwerken, Brikettfabriken oder Versandanlagen, wenn die Wirtschaftsg\u00fcter die Voraussetzungen des ersten Halbsatzes erf\u00fcllen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen des Grubenrettungswesens und der Ersten Hilfe,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirtschaftsg\u00fcter, die zu den Aufbereitungsanlagen im Erzbergbau geh\u00f6ren, wenn die Aufbereitungsanlagen nicht zu einem H\u00fcttenbetrieb geh\u00f6ren.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR050800008",
+    "firstPublished": "2008-03-26",
+    "sourceTimestamp": "20140804220513",
+    "titleShort": "Satellitendatensicherheitsverordnung",
+    "titleLong": "Verordnung zum Satellitendatensicherheitsgesetz",
+    "abbreviation": "SatDSiV",
+    "slug": "satdsiv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2008, 508",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 1 V v. 30.7.2014 I 1314",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 5.4.2008 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {
+      "bgbl1_2008_j0508-1_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/satdsiv/bgbl1_2008_j0508-1_0010.jpg"
+    },
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 2 Abs. 2 des Satellitendatensicherheitsgesetzes vom 23. November 2007 (BGBl. I S. 2590) und auf Grund des \u00a7 17 Abs. 3 Satz 1 des Satellitendatensicherheitsgesetzes im Einvernehmen mit dem Ausw\u00e4rtigen Amt, dem Bundesministerium des Innern und dem Bundesministerium der Verteidigung verordnet das Bundesministerium f\u00fcr Wirtschaft und Technologie:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Daten mit besonders hohem Informationsgehalt",
+        "parent": null,
+        "body": "<P>(1) Ein Sensor eines Erdfernerkundungssystems ist alleine oder in Kombination mit einem oder mehreren Sensoren technisch in der Lage, Daten mit besonders hohem Informationsgehalt zu erzeugen, wenn in mindestens einer Raumrichtung eine geometrische Aufl\u00f6sung von 2,5 Metern oder weniger erzeugt werden kann.</P><P>(2) Ein besonders hoher Informationsgehalt ist auch gegeben, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>im Spektralbereich von 8 bis 12 Mikrometern (thermisches Infrarot) in mindestens einer Raumrichtung eine geometrische Aufl\u00f6sung von 5 Metern oder weniger erzeugt werden kann,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>im Spektralbereich zwischen 1 Millimeter und 1 Meter (Mikrowellen) in mindestens einer Raumrichtung eine geometrische Aufl\u00f6sung von 3 Metern oder weniger erzeugt werden kann oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Zahl der Spektralkan\u00e4le 49 \u00fcbersteigt (super- und hyperspektrale Sensoren) und in mindestens einer Raumrichtung eine geometrische Aufl\u00f6sung von 10 Metern oder weniger erzeugt werden kann.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Sensitive Anfragen",
+        "parent": null,
+        "body": "<P>(1) Eine Anfrage der Bundesrepublik Deutschland nach \u00a7 21 des Satellitendatensicherheitsgesetzes oder einer deutschen milit\u00e4rischen oder nachrichtendienstlichen Beh\u00f6rde ist nicht sensitiv.</P><P>(2) Im \u00dcbrigen ist eine Anfrage sensitiv, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Daten an ein Bodensegment \u00fcbermittelt werden sollen, das nicht von der NATO, der Europ\u00e4ischen Union, einem Mitgliedstaat der NATO oder der Europ\u00e4ischen Union, Australien, Japan, Neuseeland oder der Schweiz betrieben wird und sich auf dem Staatsgebiet eines Landes befindet, das in Anlage 1 aufgef\u00fchrt ist, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das dargestellte Zielgebiet nicht in Anlage 2 aufgef\u00fchrt ist, die Daten in mindestens einer Raumrichtung eine geometrische Aufl\u00f6sung von 2,5 Metern oder weniger haben und <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>das dargestellte Zielgebiet in Anlage 3 aufgef\u00fchrt ist, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die Person des Anfragenden nicht in Anlage 4 aufgef\u00fchrt ist, der Zeitraum zwischen der Erzeugung der Daten und der Bedienung der Anfrage weniger als f\u00fcnf Tage betr\u00e4gt und <DL Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA>die Daten in mindestens einer Raumrichtung eine geometrische Aufl\u00f6sung von 1,2 Metern oder weniger haben oder</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA>sich aus den Daten (neben der Radarintensit\u00e4t auch) Phaseninformation rekonstruieren l\u00e4sst</LA></DD></DL></LA></DD></DL>oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Daten im Spektralbereich von 8 bis 12 Mikrometern (thermisches Infrarot) oder mit einem super- oder hyperspektralen Sensor erzeugt werden.</LA></DD></DL></P><P>(3) Der Pr\u00fcfablauf zur Bestimmung sensitiver Anfragen nach Absatz 1 und 2 ist in Anlage 5 als Abfolge der Entscheidungsschritte in einem Flussdiagramm dargestellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Die Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE000600000",
+        "name": "Anlage 1",
+        "title": "(zu \u00a7 2 Abs. 2 Nr. 1)<BR />Bodenstationsnegativliste",
+        "parent": null,
+        "body": "<kommentar typ=\"Fundstelle\">( Fundstelle: BGBl. I 2008, 509 )</kommentar><BR /><P>Staatsgebiet Armenien<BR /> Staatsgebiet Aserbaidschan<BR />Staatsgebiet C\u00f4te d\u00b4Ivoire<BR />Staatsgebiet Demokratische Volksrepublik Korea (Nordkorea)<BR />Staatsgebiet Irak<BR />Staatsgebiet Islamische Republik Iran<BR />Staatsgebiet Kongo<BR />Staatsgebiet Kuba<BR />Staatsgebiet Libanon<BR />Staatsgebiet Liberia<BR />Staatsgebiet Republik Moldau<BR />Staatsgebiet Myanmar<BR />Staatsgebiet Ruanda<BR />Staatsgebiet Sierra Leone<BR />Staatsgebiet Simbabwe<BR />Staatsgebiet Somalia<BR />Staatsgebiet Sudan<BR />Staatsgebiet Arabische Republik Syrien<BR />Staatsgebiet Turkmenistan<BR />Staatsgebiet Usbekistan<BR />Staatsgebiet Wei\u00dfrussland</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE000700000",
+        "name": "Anlage 2",
+        "title": "(zu \u00a7 2 Abs. 2 Nr. 2)<BR />Gebietspositivliste",
+        "parent": null,
+        "body": "<kommentar typ=\"Fundstelle\">( Fundstelle: BGBl. I 2008, 509 )</kommentar><BR /><P>Antarktischer Kontinent und angrenzende Meere (alle Gebiete s\u00fcdlich von \u201360\u00b0 geographischer Breite)</P><P>Nordpolarer Teil der Arktis (alle Gebiete n\u00f6rdlich von 84\u00b0 geographischer Breite)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE000801360",
+        "name": "Anlage 3",
+        "title": "(zu \u00a7 2 Absatz 2 Nummer 2 Buchstabe a)<BR />Gebietsnegativliste",
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2013, 1314)</kommentar></noindex></P><BR /><P>Staatsgebiet Afghanistan</P><P>Staatsgebiet Armenien</P><P>Staatsgebiet Aserbaidschan</P><P>Staatsgebiet \u00c4thiopien</P><P>Staatsgebiet Bosnien-Herzegowina</P><P>Staatsgebiet Dschibuti</P><P>Staatsgebiet Eritrea</P><P>Staatsgebiet Georgien</P><P>Staatsgebiet Irak</P><P>Staatsgebiet Israel und pal\u00e4stinensische Autonomiegebiete</P><P>Demokratische Republik Kongo</P><P>Kosovo/UNMIK (VN-Resolution 1244 (1999))</P><P>Staatsgebiet Libanon</P><P>Staatsgebiet Mali</P><P>Staatsgebiet Republik Moldau</P><P>Staatsgebiet Senegal</P><P>Staatsgebiet Somalia</P><P>Staatsgebiet Sudan</P><P>Staatsgebiet S\u00fcdsudan</P><P>Staatsgebiet Syrien</P><P>Staatsgebiet Tschad</P><P>Staatsgebiet Ukraine</P><P>Staatsgebiet Usbekistan</P><P>Westsahara</P><P>Staatsgebiet Zentralafrikanische Republik</P><P>Staatsgebiet Zypern</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE000900000",
+        "name": "Anlage 4",
+        "title": "(zu \u00a7 2 Abs. 2 Nr. 2 Buchstabe b)<BR />Empf\u00e4ngerpositivliste",
+        "parent": null,
+        "body": "<kommentar typ=\"Fundstelle\">( Fundstelle: BGBl. I 2008, 510 )</kommentar><BR /><P><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sicherheitsbeh\u00f6rden (milit\u00e4rische, nachrichtendienstliche, polizeiliche) der NATO, der Europ\u00e4ischen Union oder eines ihrer Mitgliedstaaten auf nationaler Ebene.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sicherheitsbeh\u00f6rden (milit\u00e4rische, nachrichtendienstliche, polizeiliche) von Australien, Japan, Neuseeland oder der Schweiz auf nationaler Ebene.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen,<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die von einer Sicherheitsbeh\u00f6rde nach Nummer 1 oder 2 durch Erkl\u00e4rung gegen\u00fcber dem Datenanbieter erm\u00e4chtigt sind, Daten in deren Auftrag anzufragen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">deren Erm\u00e4chtigung nach Buchstabe a vom Datenanbieter gegen\u00fcber dem Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle angezeigt worden ist,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die zusichern, die Datenanfrage innerhalb des Auftrags der jeweiligen Sicherheitsbeh\u00f6rde zu stellen und die Daten oder die aus ihnen abgeleiteten Dienstleistungen ausschlie\u00dflich zur Weitergabe an die jeweilige Sicherheitsbeh\u00f6rde zu nutzen, und</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei denen dem Datenanbieter keine tats\u00e4chlichen Anhaltspunkte f\u00fcr begangene oder bevorstehende Verst\u00f6\u00dfe gegen ihre Zusicherung nach Buchstabe c vorliegen.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR050800008BJNE001000000",
+        "name": "Anlage 5",
+        "title": "(zu \u00a7 2 Abs. 1 und 2)<BR />\u00dcbersicht \u00fcber den Pr\u00fcfablauf",
+        "parent": null,
+        "body": "<kommentar typ=\"Fundstelle\">( Fundstelle: BGBl. I 2008, 511 )</kommentar><BR /><P><IMG Height=\"8999\" Pos=\"block\" SRC=\"bgbl1_2008_j0508-1_0010.jpg\" Type=\"TIF\" Units=\"1270\" alt=\"\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

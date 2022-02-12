@@ -1,0 +1,725 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR011850965",
+    "firstPublished": "1965-09-06",
+    "sourceTimestamp": "20211105213028",
+    "titleShort": null,
+    "titleLong": "Einf\u00fchrungsgesetz zum Aktiengesetz",
+    "abbreviation": "AktGEG",
+    "slug": "aktgeg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1965, 1185",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 2 G v. 12.12.2019 I 2637",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 16 G v. 3.6.2021 I 1534 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 8 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 19 G v. 5.7.2021 I 3338 (Nr. 52) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1986 +++)<BR />(+++ Ma\u00dfgaben aufgrund EinigVtr vgl. AktGEG Anhang EV,<BR />     teilweise nicht mehr anzuwenden +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Umsetzung der<BR />       EGRL 43/2006    (CELEX Nr: 306L0043) vgl. G v. 25. 5.2009 I 1102 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004009360",
+        "name": "\u00dcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"10*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"65*\" /><colspec colname=\"col4\" colnum=\"4\" colwidth=\"20*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abschnitt</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbergangsvorschriften</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 1-26j</entry></row><row><entry VJ=\"1\" /><entry VJ=\"1\" /><entry VJ=\"1\">\u00dcbergangsvorschrift zum Finanzmarktintegrit\u00e4tsst\u00e4rkungsgesetz</entry><entry VJ=\"1\" valign=\"bottom\">\u00a0\u00a0\u00a7\u00a7 26k-26l</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abschnitt</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung aktienrechtlicher Vorschriften auf Unternehmen mit anderer Rechtsform</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 27-28a</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abschnitt</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufhebung und \u00c4nderung von Gesetzen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 29-44</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abschnitt</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Schlu\u00dfvorschriften</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 45-46</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004100308",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011850965BJNG004000308",
+        "name": "Erster Abschnitt",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000101307",
+        "name": "\u00a7 1",
+        "title": "Grundkapital",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) \u00a7 6 des Aktiengesetzes gilt nicht f\u00fcr Aktiengesellschaften, deren Grundkapital und Aktien beim Inkrafttreten des Aktiengesetzes nicht auf einen Nennbetrag in Deutscher Mark lauten, sowie f\u00fcr Aktiengesellschaften, die nach dem Inkrafttreten des Aktiengesetzes nach Ma\u00dfgabe des \u00a7 2 des D-Markbilanzerg\u00e4nzungsgesetzes vom 28. Dezember 1950 (Bundesgesetzbl. S. 811) ihren Sitz in den Geltungsbereich des Aktiengesetzes verlegen. Die W\u00e4hrung, auf die ihr Grundkapital und ihre Aktien lauten m\u00fcssen, bestimmt sich nach den f\u00fcr sie geltenden besonderen Vorschriften.</P><P>(2) Aktiengesellschaften, die vor dem 1. Januar 1999 in das Handelsregister eingetragen worden sind, d\u00fcrfen die Nennbetr\u00e4ge ihres Grundkapitals und ihrer Aktien weiter in Deutscher Mark bezeichnen. Bis zum 31. Dezember 2001 d\u00fcrfen Aktiengesellschaften neu eingetragen werden, deren Grundkapital und Aktien auf Deutsche Mark lauten. Danach d\u00fcrfen Aktiengesellschaften nur eingetragen werden, wenn die Nennbetr\u00e4ge von Grundkapital und Aktien in Euro bezeichnet sind; das gleiche gilt f\u00fcr Beschl\u00fcsse \u00fcber die \u00c4nderung des Grundkapitals.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000201307",
+        "name": "\u00a7 2",
+        "title": "Mindestnennbetrag des Grundkapitals",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>F\u00fcr Aktiengesellschaften, die vor dem 1. Januar 1999 in das Handelsregister eingetragen oder zur Eintragung in das Handelsregister angemeldet worden sind, bleibt der bis dahin g\u00fcltige Mindestbetrag des Grundkapitals ma\u00dfgeblich, bis die Aktiennennbetr\u00e4ge an die seit diesem Zeitpunkt geltenden Betr\u00e4ge des \u00a7 8 des Aktiengesetzes angepa\u00dft werden. F\u00fcr sp\u00e4tere Gr\u00fcndungen gilt der Mindestbetrag des Grundkapitals nach \u00a7 7 des Aktiengesetzes in der ab dem 1. Januar 1999 geltenden Fassung, der bei Gr\u00fcndungen in Deutscher Mark zu dem vom Rat der Europ\u00e4ischen Union gem\u00e4\u00df Artikel 109l Abs. 4 Satz 1 des EG-Vertrages unwiderruflich festgelegten Umrechnungskurs in Deutsche Mark umzurechnen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000302307",
+        "name": "\u00a7 3",
+        "title": "Mindestnennbetrag der Aktien",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Aktien d\u00fcrfen nur noch nach \u00a7 8 des Aktiengesetzes ausgegeben werden.</P><P>(2) Aktien einer Gesellschaft, die vor dem 1. Januar 1999 in das Handelsregister eingetragen oder zur Eintragung in das Handelsregister angemeldet und bis zum 31. Dezember 2001 eingetragen worden ist, d\u00fcrfen weiterhin auf einen nach den bis dahin geltenden Vorschriften zul\u00e4ssigen Nennbetrag lauten, Aktien, die auf Grund eines Kapitalerh\u00f6hungsbeschlusses ausgegeben werden, jedoch nur, wenn dieser bis zum 31. Dezember 2001 in das Handelsregister eingetragen worden ist. Dies gilt nur einheitlich f\u00fcr s\u00e4mtliche Aktien einer Gesellschaft. Die Nennbetr\u00e4ge k\u00f6nnen auch zu dem vom Rat der Europ\u00e4ischen Union gem\u00e4\u00df Artikel 109l Abs. 4 Satz 1 des EG-Vertrages unwiderruflich festgelegten Umrechnungskurs in Euro ausgedr\u00fcckt werden.</P><P>(3) F\u00fcr Aktiengesellschaften, die auf Grund einer nach dem 31. Dezember 1998 erfolgten Anmeldung zum Handelsregister bis zum 31. Dezember 2001 eingetragen werden und deren Grundkapital und Aktien nach \u00a7 1 Abs. 2 Satz 2 auf Deutsche Mark lauten, gelten die zu dem vom Rat der Europ\u00e4ischen Union gem\u00e4\u00df Artikel 109l Abs. 4 Satz 1 des EG-Vertrages unwiderruflich festgelegten Umrechnungskurs in Deutsche Mark umzurechnenden Betr\u00e4ge nach \u00a7 8 des Aktiengesetzes in der ab dem 1. Januar 1999 geltenden Fassung.</P><P>(4) Das Verh\u00e4ltnis der mit den Aktien verbundenen Rechte zueinander und das Verh\u00e4ltnis ihrer Nennbetr\u00e4ge zum Nennkapital wird durch Umrechnung zwischen Deutscher Mark und Euro nicht ber\u00fchrt. Nach Umrechnung gebrochene Aktiennennbetr\u00e4ge k\u00f6nnen auf mindestens zwei Stellen hinter dem Komma gerundet dargestellt werden; diese Rundung hat keine Rechtswirkung. Auf sie ist in Beschl\u00fcssen und Satzung hinzuweisen; der jeweilige Anteil der Aktie am Grundkapital soll erkennbar bleiben.</P><P>(5) Beschlie\u00dft eine Gesellschaft, die die Nennbetr\u00e4ge ihrer Aktien nicht an \u00a7 8 des Aktiengesetzes in der ab dem 1. Januar 1999 geltenden Fassung angepa\u00dft hat, die \u00c4nderung ihres Grundkapitals, darf dieser Beschlu\u00df nach dem 31. Dezember 2001 in das Handelsregister nur eingetragen werden, wenn zugleich eine Satzungs\u00e4nderung \u00fcber die Anpassung der Aktiennennbetr\u00e4ge an \u00a7 8 des Aktiengesetzes eingetragen wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000403140",
+        "name": "\u00a7 4",
+        "title": "Verfahren der Umstellung auf den Euro",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) \u00dcber die Umstellung des Grundkapitals und der Aktiennennbetr\u00e4ge sowie weiterer satzungsm\u00e4\u00dfiger Betragsangaben auf Euro zu dem gem\u00e4\u00df Artikel 109l Abs. 4 Satz 1 des EG-Vertrages unwiderruflich festgelegten Umrechnungskurs beschlie\u00dft die Hauptversammlung abweichend von \u00a7 179 Abs. 2 des Aktiengesetzes mit der einfachen Mehrheit des bei der Beschlu\u00dffassung vertretenen Grundkapitals. Ab dem 1. Januar 2002 ist der Aufsichtsrat zu den entsprechenden Fassungs\u00e4nderungen der Satzung erm\u00e4chtigt. Auf die Anmeldung und Eintragung der Umstellung in das Handelsregister ist \u00a7 181 Abs. 1 Satz 2 und 3 des Aktiengesetzes nicht anzuwenden.</P><P>(2) F\u00fcr eine Erh\u00f6hung des Grundkapitals aus Gesellschaftsmitteln oder eine Herabsetzung des Kapitals auf den n\u00e4chsth\u00f6heren oder n\u00e4chstniedrigeren Betrag, mit dem die Nennbetr\u00e4ge der Aktien auf volle Euro gestellt werden k\u00f6nnen, gen\u00fcgt abweichend von \u00a7 207 Abs. 2, \u00a7 182 Abs. 1 und \u00a7 222 Abs. 1 des Aktiengesetzes die einfache Mehrheit des bei der Beschlu\u00dffassung vertretenen Grundkapitals, bei der Herabsetzung jedoch nur, wenn mindest die H\u00e4lfte des Grundkapitals vertreten ist. Diese Mehrheit gilt auch f\u00fcr Beschl\u00fcsse \u00fcber die entsprechende Anpassung eines genehmigten Kapitals oder \u00fcber die Teilung der auf volle Euro gestellten Aktien sowie f\u00fcr \u00c4nderungen der Satzungsfassung, wenn diese Beschl\u00fcsse mit der Kapital\u00e4nderung verbunden sind. \u00a7 130 Abs. 1 Satz 3 des Aktiengesetzes findet keine Anwendung.</P><P>(3) Eine Kapitalerh\u00f6hung aus Gesellschaftsmitteln oder eine Kapitalherabsetzung bei Umstellung auf Euro kann durch Erh\u00f6hung oder Herabsetzung des Nennbetrags der Aktien oder durch Neueinteilung der Aktiennennbetr\u00e4ge ausgef\u00fchrt werden. Die Neueinteilung der Nennbetr\u00e4ge bedarf der Zustimmung aller betroffenen Aktion\u00e4re, auf die nicht ihrem Anteil entsprechend volle Aktien oder eine geringere Zahl an Aktien als zuvor entfallen; bei teileingezahlten Aktien ist sie ausgeschlossen.</P><P>(4) Sofern Aktien aus einem bedingten Kapital nach dem Beschlu\u00df \u00fcber eine Kapitalerh\u00f6hung aus Gesellschaftsmitteln oder \u00fcber eine andere Satzungs\u00e4nderung zur Umstellung auf Euro, die mit der Zahl der Aktien verbunden ist, ausgegeben worden sind, gelten sie f\u00fcr den Beschlu\u00df erst nach dessen Eintragung in das Handelsregister als ausgegeben. Diese aus einem bedingten Kapital ausgegebenen und die noch auszugebenden Aktien nehmen an der \u00c4nderung der Nennbetr\u00e4ge teil.</P><P>(5) F\u00fcr eine Kapitalerh\u00f6hung aus Gesellschaftsmitteln nach Absatz 2 k\u00f6nnen abweichend von \u00a7 208 Abs. 1 Satz 2 und \u00a7 150 Abs. 3 des Aktiengesetzes die Kapitalr\u00fccklage und die gesetzliche R\u00fccklage sowie deren Zuf\u00fchrungen, auch soweit sie zusammen den zehnten Teil oder den in der Satzung bestimmten h\u00f6heren Teil des bisherigen Grundkapitals nicht \u00fcbersteigen, in Grundkapital umgewandelt werden. Auf eine Kapitalherabsetzung nach Absatz 2, die in vereinfachter Form vorgenommen werden soll, findet \u00a7 229 Abs. 2 des Aktiengesetzes keine Anwendung.</P><P>(6) \u00a7 73 Abs. 1 Satz 2 des Aktiengesetzes findet keine Anwendung. Im \u00fcbrigen bleiben die aktienrechtlichen Vorschriften unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000503377",
+        "name": "\u00a7 5",
+        "title": "Mehrstimmrechte. H\u00f6chststimmrechte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Mehrstimmrechte erl\u00f6schen am 1. Juni 2003, wenn nicht zuvor die Hauptversammlung mit einer Mehrheit, die mindestens drei Viertel des bei der Beschlu\u00dffassung vertretenen Grundkapitals umfa\u00dft, ihre Fortgeltung beschlossen hat. Inhaber von Mehrstimmrechtsaktien sind bei diesem Beschlu\u00df von der Aus\u00fcbung des Stimmrechts insgesamt ausgeschlossen.</P><P>(2) Unabh\u00e4ngig von Absatz 1 kann die Hauptversammlung die Beseitigung der Mehrstimmrechte beschlie\u00dfen. Der Beschlu\u00df nach Satz 1 bedarf einer Mehrheit, die mindestens die H\u00e4lfte des bei der Beschlu\u00dffassung vertretenen Grundkapitals umfa\u00dft, aber nicht der Mehrheit der abgegebenen Stimmen. Eines Sonderbeschlusses der Aktion\u00e4re mit Mehrstimmrechten bedarf es nicht. Abweichend von \u00a7 122 Abs. 2 des Aktiengesetzes kann jeder Aktion\u00e4r verlangen, da\u00df die Beseitigung der Mehrstimmrechte auf die Tagesordnung der Hauptversammlung gesetzt wird.</P><P>(3) Die Gesellschaft hat einem Inhaber von Mehrstimmrechtsaktien im Falle des Erl\u00f6schens nach Absatz 1 und der Beseitigung nach Absatz 2 einen Ausgleich zu gew\u00e4hren, der den besonderen Wert der Mehrstimmrechte angemessen ber\u00fccksichtigt. Im Falle des Absatzes 1 kann der Anspruch auf den Ausgleich nur bis zum Ablauf von zwei Monaten seit dem Erl\u00f6schen der Mehrstimmrechte gerichtlich geltend gemacht werden. Im Falle des Absatzes 2 hat die Hauptversammlung den Ausgleich mitzubeschlie\u00dfen; Absatz 2 Satz 2 und 3 ist anzuwenden.</P><P>(4) Die Anfechtung des Beschlusses nach Absatz 2 kann nicht auf \u00a7 243 Abs. 2 des Aktiengesetzes oder darauf gest\u00fctzt werden, da\u00df die Beseitigung der Mehrstimmrechte oder der festgesetzte Ausgleich unangemessen sind. Statt dessen kann jeder in der Hauptversammlung erschienene Aktion\u00e4r, der gegen den Beschlu\u00df Widerspruch zur Niederschrift erkl\u00e4rt hat, einen Antrag auf gerichtliche Bestimmung des angemessenen Ausgleichs stellen. Der Antrag kann nur binnen zwei Monaten seit dem Tage gestellt werden, an dem die Satzungs\u00e4nderung im Handelsregister nach \u00a7 10 des Handelsgesetzbuchs bekannt gemacht worden ist.</P><P>(5) F\u00fcr das Verfahren in den F\u00e4llen des Absatzes 3 Satz 2 und des Absatzes 4 Satz 2 gilt das Spruchverfahrensgesetz sinngem\u00e4\u00df.</P><P>(6) Der durch Beschlu\u00df der Hauptversammlung festgesetzte Ausgleich wird erst zur Leistung f\u00e4llig, wenn ein Antrag auf gerichtliche Bestimmung nicht oder nicht fristgem\u00e4\u00df gestellt oder das Verfahren durch rechtskr\u00e4ftige Entscheidung oder Antragsr\u00fccknahme abgeschlossen ist. Der Ausgleich ist seit dem Tage, an dem die Satzungs\u00e4nderung im Handelsregister nach \u00a7 10 des Handelsgesetzbuchs bekannt gemacht worden ist, mit f\u00fcnf vom Hundert f\u00fcr das Jahr zu verzinsen.</P><P>(7) F\u00fcr H\u00f6chststimmrechte bei b\u00f6rsennotierten Gesellschaften, die vor dem 1. Mai 1998 von der Satzung bestimmt sind, gelten die S\u00e4tze 2 bis 5 des \u00a7 134 Abs. 1 des Aktiengesetzes in der vor dem 1. Mai 1998 geltenden Fassung bis zum 1. Juni 2000 fort.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000600308",
+        "name": "\u00a7 6",
+        "title": "Wechselseitig beteiligte Unternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Sind eine Aktiengesellschaft und ein anderes Unternehmen bereits beim Inkrafttreten des Aktiengesetzes wechselseitig beteiligte Unternehmen, ohne da\u00df die Voraussetzungen des \u00a7 19 Abs. 2 oder 3 des Aktiengesetzes vorliegen, und haben beide Unternehmen fristgem\u00e4\u00df (\u00a7 7) die Mitteilung nach \u00a7 20 Abs. 3 oder \u00a7 21 Abs. 1 des Aktiengesetzes gemacht, so gilt \u00a7 328 Abs. 1 und 2 des Aktiengesetzes f\u00fcr sie nicht.</P><P>(2) Solange die Unternehmen wechselseitig beteiligt sind und nicht die Voraussetzungen des \u00a7 19 Abs. 2 oder 3 des Aktiengesetzes vorliegen, gilt f\u00fcr die Aus\u00fcbung der Rechte aus den Anteilen an dem anderen Unternehmen statt dessen folgendes: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aus den Anteilen, die den Unternehmen beim Inkrafttreten des Aktiengesetzes geh\u00f6rt haben oder die auf diese Anteile bei einer Kapitalerh\u00f6hung aus Gesellschaftsmitteln entfallen, k\u00f6nnen alle Rechte ausge\u00fcbt werden.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aus Anteilen, die bei einer Kapitalerh\u00f6hung gegen Einlagen auf Grund eines nach Nummer 1 bestehenden Bezugsrechts \u00fcbernommen werden, k\u00f6nnen alle Rechte mit Ausnahme des Stimmrechts ausge\u00fcbt werden; das gleiche gilt f\u00fcr Anteile, die auf diese Anteile bei einer Kapitalerh\u00f6hung aus Gesellschaftsmitteln entfallen.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aus anderen Anteilen k\u00f6nnen mit Ausnahme des Rechts auf neue Aktien bei einer Kapitalerh\u00f6hung aus Gesellschaftsmitteln keine Rechte ausge\u00fcbt werden.</LA></DD> </DL> </P><P>(3) Hat nur eines der wechselseitig beteiligten Unternehmen fristgem\u00e4\u00df (\u00a7 7) die Mitteilung nach \u00a7 20 Abs. 3 oder \u00a7 21 Abs. 1 des Aktiengesetzes gemacht, so gilt \u00a7 328 Abs. 1 und 2 nicht f\u00fcr dieses Unternehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000700308",
+        "name": "\u00a7 7",
+        "title": "Mitteilungspflicht von Beteiligungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die Mitteilungspflichten nach \u00a7\u00a7 20, 21 und 328 Abs. 3 des Aktiengesetzes gelten auch f\u00fcr Beteiligungen, die beim Inkrafttreten des Aktiengesetzes bestehen. Die Beteiligungen sind binnen eines Monats nach dem Inkrafttreten des Aktiengesetzes mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000800308",
+        "name": "\u00a7 8",
+        "title": "Gegenstand des Unternehmens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Entspricht bei Aktiengesellschaften, die beim Inkrafttreten des Aktiengesetzes in das Handelsregister eingetragen sind, die Satzungsbestimmung \u00fcber den Gegenstand des Unternehmens nicht dem \u00a7 23 Abs. 3 Nr. 2 des Aktiengesetzes, so sind \u00c4nderungen der Satzung durch die Hauptversammlung nur einzutragen, wenn zugleich die Satzungsbestimmung \u00fcber den Gegenstand des Unternehmens an \u00a7 23 Abs. 3 Nr. 2 des Aktiengesetzes angepa\u00dft wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE000901311",
+        "name": "\u00a7 9",
+        "title": "Namensaktien",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE001000308",
+        "name": "\u00a7 10",
+        "title": "Nebenverpflichtungen der Aktion\u00e4re",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 55 Abs. 1 Satz 2 des Aktiengesetzes gilt nicht f\u00fcr Aktiengesellschaften, die bereits beim Inkrafttreten des Aktiengesetzes in ihrer Satzung Nebenverpflichtungen der Aktion\u00e4re vorgesehen haben. \u00c4ndern jedoch solche Gesellschaften den Gegenstand des Unternehmens oder die Satzungsbestimmungen \u00fcber die Nebenverpflichtungen, so sind diese \u00c4nderungen nur einzutragen, wenn zugleich bestimmt wird, ob die Leistungen entgeltlich oder unentgeltlich zu erbringen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE001101311",
+        "name": "\u00a7 11",
+        "title": "Nachgr\u00fcndungsgesch\u00e4fte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die Unwirksamkeit gem\u00e4\u00df \u00a7 52 Aktiengesetz eines vor dem 1. Januar 2000 geschlossenen Nachgr\u00fcndungsgesch\u00e4fts kann nach dem 1. Januar 2002 nur noch auf Grund der zum 1. Januar 2000 ge\u00e4nderten Fassung der Vorschrift geltend gemacht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE001204360",
+        "name": "\u00a7 12",
+        "title": "Aufsichtsrat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Bestimmungen der Satzung \u00fcber die Zahl der Aufsichtsratsmitglieder und \u00fcber Stellvertreter von Aufsichtsratsmitgliedern treten, soweit sie mit den Vorschriften des Aktiengesetzes nicht vereinbar sind, mit Beendigung der Hauptversammlung au\u00dfer Kraft, die \u00fcber die Entlastung der Mitglieder des Aufsichtsrats f\u00fcr das am 31. Dezember 1965 endende oder laufende Gesch\u00e4ftsjahr abgehalten wird, sp\u00e4testens mit Ablauf der in \u00a7 120 Abs. 1 des Aktiengesetzes f\u00fcr die Beschlu\u00dffassung \u00fcber die Entlastung bestimmten Frist. Eine Hauptversammlung, die innerhalb dieser Frist stattfindet, kann an Stelle der au\u00dfer Kraft tretenden Satzungsbestimmungen mit einfacher Stimmenmehrheit neue Satzungsbestimmungen beschlie\u00dfen.</P><P>(2) Treten Satzungsbestimmungen nach Absatz 1 Satz 1 au\u00dfer Kraft, erlischt das Amt der Aufsichtsratsmitglieder oder der Stellvertreter von Aufsichtsratsmitgliedern mit dem in Absatz 1 genannten Zeitpunkt.</P><P>(3) Hat ein Aufsichtsratsmitglied am 1. Mai 1998 eine h\u00f6here Zahl von Aufsichtsratsmandaten, als nach \u00a7 100 Abs. 2 Satz 1 Nr. 1 in Verbindung mit Satz 3 des Aktiengesetzes in der ab dem 1. Mai 1998 geltenden Fassung zul\u00e4ssig ist, so gilt f\u00fcr diese Mandate \u00a7 100 Abs. 2 Aktiengesetz in der bis zum 30. April 1998 geltenden Fassung bis zum Ablauf der jeweils f\u00fcr das Mandat geltenden Amtszeit fort.</P><P>(4) \u00a7 100 Abs. 5 und \u00a7 107 Abs. 4 des Aktiengesetzes in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) finden keine Anwendung, solange alle Mitglieder des Aufsichtsrats und des Pr\u00fcfungsausschusses vor dem 29. Mai 2009 bestellt worden sind.</P><P>(5) \u00a7 100 Absatz 5 und \u00a7 107 Absatz 4 des Aktiengesetzes jeweils in der Fassung des Abschlusspr\u00fcfungsreformgesetzes vom 10. Mai 2016 (BGBl. I S. 1142) m\u00fcssen so lange nicht angewandt werden, wie alle Mitglieder des Aufsichtsrats und des Pr\u00fcfungsausschusses vor dem 17. Juni 2016 bestellt worden sind.</P><P>(6) \u00a7 100 Absatz 5 und \u00a7 107 Absatz 4 Satz 3 des Aktiengesetzes in der jeweils ab dem 1. Juli 2021 geltenden Fassung m\u00fcssen so lange nicht angewandt werden, wie alle Mitglieder des Aufsichtsrats und des Pr\u00fcfungsausschusses vor dem 1. Juli 2021 bestellt worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE001301377",
+        "name": "\u00a7 13",
+        "title": "\u00dcbergangsvorschrift zu \u00a7 175 und \u00a7 337 Abs. 2 und 3 des Aktiengesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 175 des Aktiengesetzes in der Fassung des Artikels 1 Nr. 21 des Transparenz- und Publizit\u00e4tsgesetzes vom 19. Juli 2002 (BGBl. I S. 2681) ist erstmals auf den Konzernabschluss und den Konzernlagebericht f\u00fcr das nach dem 31. Dezember 2001 beginnende Gesch\u00e4ftsjahr anzuwenden. Auf den Konzernabschluss und den Konzernlagebericht f\u00fcr ein vorangehendes Gesch\u00e4ftsjahr sind die \u00a7\u00a7 175, 337 Abs. 3 des Aktiengesetzes in der bis zum 25. Juli 2002 geltenden Fassung weiterhin anzuwenden. \u00a7 337 Abs. 2 des Aktiengesetzes in der bis zum 25. Juli 2002 geltenden Fassung ist letztmals auf den Konzernabschluss und den Konzernlagebericht f\u00fcr das nach dem 31. Dezember 2001 beginnende Gesch\u00e4ftsjahr anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE001401377",
+        "name": "\u00a7 14",
+        "title": "\u00dcbergangsvorschrift zu \u00a7 171 Abs. 2, 3 und \u00a7 173 Abs. 1 des\nAktiengesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 171 Abs. 2 Satz 5, Abs. 3 Satz 3 zweiter Halbsatz und \u00a7 173 Abs. 1 Satz 2 des Aktiengesetzes in der Fassung des Artikels 1 Nr. 18, 19 des Transparenz- und Publizit\u00e4tsgesetzes vom 19. Juli 2002 (BGBl. I S. 2681) ist erstmals auf den Konzernabschluss f\u00fcr das nach dem 31. Dezember 2001 beginnende Gesch\u00e4ftsjahr anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE001501377",
+        "name": "\u00a7 15",
+        "title": "\u00dcbergangsvorschrift zu \u00a7 161 des Aktiengesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die Erkl\u00e4rung nach \u00a7 161 des Aktiengesetzes ist erstmals im Jahr 2002 abzugeben. Sie kann in diesem Jahr aber darauf beschr\u00e4nkt werden, dass den Empfehlungen der \"Regierungskommission Deutscher Corporate Governance Kodex\" entsprochen wird oder welche Empfehlungen nicht angewendet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004701377",
+        "name": "\u00a7 16",
+        "title": "\u00dcbergangsvorschrift zu \u00a7 123 Abs. 2, 3 und \u00a7 125 Abs. 2 des\nAktiengesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 123 Abs. 2 und 3 und \u00a7 125 Abs. 2 des Aktiengesetzes in der Fassung des Gesetzes zur Unternehmensintegrit\u00e4t und Modernisierung des Anfechtungsrechts gelten f\u00fcr Hauptversammlungen, zu denen nach dem 1. November 2005 einberufen wird. Solange eine b\u00f6rsennotierte Gesellschaft ihre Satzung noch nicht an \u00a7 123 in der Fassung des Gesetzes zur Unternehmensintegrit\u00e4t und Modernisierung des Anfechtungsrechts angepasst hat, gilt die bisherige Satzungsregelung f\u00fcr die Teilnahme an der Hauptversammlung oder die Aus\u00fcbung des Stimmrechts mit der Ma\u00dfgabe fort, dass f\u00fcr den Zeitpunkt der Hinterlegung oder der Ausstellung eines sonstigen Legitimationsnachweises auf den Beginn des einundzwanzigsten Tages vor der Versammlung abzustellen ist. Hat eine Gesellschaft auf Grund des Entwurfs des Gesetzes zur Unternehmensintegrit\u00e4t und Modernisierung des Anfechtungsrechts einen Vorratsbeschluss gefasst, ist der Vorstand mit Zustimmung des Aufsichtsrats erm\u00e4chtigt, den Beschluss hinsichtlich des Zeitpunkts der Ausstellung des Legitimationsnachweises zu \u00e4ndern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004800377",
+        "name": "\u00a7 17",
+        "title": "\u00dcbergangsvorschrift zu \u00a7 243 Abs. 3 Nr. 2 und \u00a7 249 Abs. 1 Satz 1 des\nAktiengesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 243 Abs. 3 Nr. 2 und \u00a7 249 Abs. 1 Satz 1 des Aktiengesetzes in der Fassung des Bilanzrechtsreformgesetzes vom 4. Dezember 2004 (BGBl. I S. 3166) sind erstmals auf Anfechtungsklagen und Nichtigkeitsklagen anzuwenden, die nach dem 31. Dezember 2004 erhoben worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE001603140",
+        "name": "\u00a7 18",
+        "title": "\u00dcbergangsvorschrift zu den \u00a7\u00a7 37 und 39 des Aktiengesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die Pflicht, die inl\u00e4ndische Gesch\u00e4ftsanschrift bei dem Gericht nach \u00a7 37 des Aktiengesetzes in der ab dem Inkrafttreten des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026) am 1. November 2008 geltenden Fassung zur Eintragung in das Handelsregister anzumelden, gilt auch f\u00fcr Gesellschaften, die zu diesem Zeitpunkt bereits in das Handelsregister eingetragen sind, es sei denn, die inl\u00e4ndische Gesch\u00e4ftsanschrift ist dem Gericht bereits nach \u00a7 24 Abs. 2 der Handelsregisterverordnung mitgeteilt worden und hat sich anschlie\u00dfend nicht ge\u00e4ndert. In diesen F\u00e4llen ist die inl\u00e4ndische Gesch\u00e4ftsanschrift mit der ersten die eingetragene Gesellschaft betreffenden Anmeldung zum Handelsregister ab dem 1. November 2008, sp\u00e4testens aber bis zum 31. Oktober 2009 anzumelden. Wenn bis zum 31. Oktober 2009 keine inl\u00e4ndische Gesch\u00e4ftsanschrift zur Eintragung in das Handelsregister angemeldet worden ist, tr\u00e4gt das Gericht von Amts wegen und ohne \u00dcberpr\u00fcfung kostenfrei die ihm nach \u00a7 24 Abs. 2 der Handelsregisterverordnung bekannte inl\u00e4ndische Anschrift als Gesch\u00e4ftsanschrift in das Handelsregister ein; in diesem Fall gilt die mitgeteilte Anschrift zudem unabh\u00e4ngig von dem Zeitpunkt ihrer tats\u00e4chlichen Eintragung ab dem 31. Oktober 2009 als eingetragene inl\u00e4ndische Gesch\u00e4ftsanschrift der Gesellschaft, wenn sie im elektronischen Informations- und Kommunikationssystem nach \u00a7 9 Abs. 1 des Handelsgesetzbuchs abrufbar ist. Ist dem Gericht keine Mitteilung im Sinne des \u00a7 24 Abs. 2 der Handelsregisterverordnung gemacht worden, ist ihm aber in sonstiger Weise eine inl\u00e4ndische Gesch\u00e4ftsanschrift bekannt geworden, so gilt Satz 3 mit der Ma\u00dfgabe, dass diese Anschrift einzutragen ist, wenn sie im elektronischen Informations- und Kommunikationssystem nach \u00a7 9 Abs. 1 des Handelsgesetzbuchs abrufbar ist. Dasselbe gilt, wenn eine in sonstiger Weise bekannt gewordene inl\u00e4ndische Anschrift von einer fr\u00fcher nach \u00a7 24 Abs. 2 der Handelsregisterverordnung mitgeteilten Anschrift abweicht. Eintragungen nach den S\u00e4tzen 3 bis 5 werden abweichend von \u00a7 10 des Handelsgesetzbuchs nicht bekannt gemacht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE005000140",
+        "name": "\u00a7 19",
+        "title": "\u00dcbergangsvorschrift zu \u00a7 76 Abs. 3 Satz 2 Nr. 3 und Satz 3 des Aktiengesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 76 Abs. 3 Satz 2 Nr. 3 Buchstabe a, c, d und e des Aktiengesetzes in der ab dem Inkrafttreten des Gesetzes vom 23. Oktober 2008 (BGBl. I S. 2026) am 1. November 2008 geltenden Fassung ist auf Personen, die vor diesem Tag zum Vorstandsmitglied bestellt worden sind, nicht anzuwenden, wenn die Verurteilung vor dem 1. November 2008 rechtskr\u00e4ftig geworden ist. Entsprechendes gilt f\u00fcr \u00a7 76 Abs. 3 Satz 3 des Aktiengesetzes in der ab dem 1. November 2008 geltenden Fassung, soweit die Verurteilung wegen einer Tat erfolgte, die den Straftaten im Sinne des Satzes 1 vergleichbar ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002001140",
+        "name": "\u00a7 20",
+        "title": "\u00dcbergangsvorschrift zum Gesetz zur Umsetzung der Aktion\u00e4rsrechterichtlinie",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Die \u00a7\u00a7 121, 122, 123, 124, 124a, 125, 126, 127, 130, 134, 175, 176, 241 bis 243 des Aktiengesetzes in der Fassung des Gesetzes zur Umsetzung der Aktion\u00e4rsrechterichtlinie vom 30. Juli 2009 (BGBl. I S. 2479) sind erstmals auf Hauptversammlungen anzuwenden, zu denen nach dem 31. Oktober 2009 einberufen wird.</P><P>(2) Die \u00a7\u00a7 128, 129 und 135 des Aktiengesetzes in der Fassung des Gesetzes zur Umsetzung der Aktion\u00e4rsrechterichtlinie sind ab dem 1. November 2009 anzuwenden.</P><P>(3) Enth\u00e4lt die Satzung einer Aktiengesellschaft eine Frist, die abweichend von \u00a7 123 Abs. 2 Satz 2 und 3 oder Abs. 3 Satz 3 und 4 des Aktiengesetzes in der Fassung des Gesetzes zur Umsetzung der Aktion\u00e4rsrechterichtlinie nicht in Tagen ausgedr\u00fcckt ist, so bleibt diese bis zur ersten ordentlichen Hauptversammlung nach Inkrafttreten des Gesetzes zur Umsetzung der Aktion\u00e4rsrechterichtlinie am 1. September 2009 wirksam. \u00a7 123 Abs. 4 des Aktiengesetzes in der vor Inkrafttreten des Gesetzes zur Umsetzung der Aktion\u00e4rsrechterichtlinie geltenden Fassung bleibt f\u00fcr diese Frist anwendbar.</P><P>(4) \u00a7 246a Abs. 2 Nr. 2 und \u00a7 319 Abs. 6 Satz 3 Nr. 2 des Aktiengesetzes in der Fassung des Gesetzes zur Umsetzung der Aktion\u00e4rsrechterichtlinie sind nicht auf Freigabeverfahren und Beschwerdeverfahren anzuwenden, die vor dem 1. September 2009 anh\u00e4ngig waren.</P><P>(5) In F\u00e4llen des \u00a7 305 Abs. 3 Satz 3, des \u00a7 320b Abs. 1 Satz 6 und des \u00a7 327b Abs. 2 des Aktiengesetzes bleibt es f\u00fcr die Zeit vor dem 1. September 2009 bei dem bis dahin geltenden Zinssatz.</P><P>(6) \u00a7 319 Abs. 6 Satz 11 des Aktiengesetzes in der Fassung des Gesetzes zur Umsetzung der Aktion\u00e4rsrechterichtlinie ist nicht anzuwenden, wenn die Klage gegen die Wirksamkeit des Hauptversammlungsbeschlusses vor dem 1. September 2009 rechtsh\u00e4ngig war.</P><P>(7) \u00a7 27 Abs. 3 und 4 des Aktiengesetzes in der ab dem 1. September 2009 geltenden Fassung gilt auch f\u00fcr Einlagenleistungen, die vor diesem Zeitpunkt bewirkt worden sind, soweit sie nach der vor dem 1. September 2009 geltenden Rechtslage wegen der Vereinbarung einer Einlagenr\u00fcckgew\u00e4hr oder wegen einer verdeckten Sacheinlage keine Erf\u00fcllung der Einlagenverpflichtung bewirkt haben. Dies gilt nicht, soweit \u00fcber die aus der Unwirksamkeit folgenden Anspr\u00fcche zwischen der Gesellschaft und dem Gesellschafter bereits vor dem 1. September 2009 ein rechtskr\u00e4ftiges Urteil ergangen oder eine wirksame Vereinbarung zwischen der Gesellschaft und dem Gesellschafter getroffen worden ist; in diesem Fall beurteilt sich die Rechtslage nach den bis zum 1. September 2009 geltenden Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002100308",
+        "name": "\u00a7 21",
+        "title": "Heilung der Nichtigkeit von\nJahresabschl\u00fcssen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 256 Abs. 6 des Aktiengesetzes \u00fcber die Heilung der Nichtigkeit von Jahresabschl\u00fcssen gilt auch f\u00fcr Jahresabschl\u00fcsse, die vor dem Inkrafttreten des Aktiengesetzes festgestellt worden sind; jedoch bleibt es f\u00fcr die Heilung der Nichtigkeit nach \u00a7 256 Abs. 2 des Aktiengesetzes bei den bisherigen Vorschriften. Die in \u00a7 256 Abs. 6 des Aktiengesetzes bestimmten Fristen beginnen f\u00fcr Jahresabschl\u00fcsse, die vor dem Inkrafttreten des Aktiengesetzes festgestellt worden sind, nicht vor dem Inkrafttreten des Aktiengesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002200308",
+        "name": "\u00a7 22",
+        "title": "Unternehmensvertr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) F\u00fcr Unternehmensvertr\u00e4ge (\u00a7\u00a7 291, 292 des Aktiengesetzes), die vor dem Inkrafttreten des Aktiengesetzes geschlossen worden sind, gelten \u00a7\u00a7 295 bis 303, 307 bis 310, 316 des Aktiengesetzes mit Wirkung vom Inkrafttreten des Aktiengesetzes. Die in \u00a7 300 Nr. 1 des Aktiengesetzes bestimmte Frist f\u00fcr die Auff\u00fcllung der gesetzlichen R\u00fccklage l\u00e4uft vom Beginn des nach dem 31. Dezember 1965 beginnenden Gesch\u00e4ftsjahrs an. \u00a7 300 Nr. 1 und 3 des Aktiengesetzes gilt jedoch nicht, wenn der andere Vertragsteil beim Inkrafttreten des Aktiengesetzes auf Grund der Satzung oder von Vertr\u00e4gen verpflichtet ist, seine Ertr\u00e4ge f\u00fcr \u00f6ffentliche Zwecke zu verwenden. In die gesetzliche R\u00fccklage ist im Falle des Satzes 3 sp\u00e4testens bei Beendigung des Unternehmensvertrags oder der Verpflichtung nach Satz 3 der Betrag einzustellen, der nach \u00a7 300 des Aktiengesetzes in Verbindung mit Satz 2 in die gesetzliche R\u00fccklage einzustellen gewesen w\u00e4re, wenn diese Vorschriften f\u00fcr die Gesellschaft gegolten h\u00e4tten. Reichen die w\u00e4hrend der Dauer des Vertrags in freie R\u00fccklagen eingestellten Betr\u00e4ge hierzu nicht aus, hat der andere Vertragsteil den Fehlbetrag auszugleichen.</P><P>(2) Der Vorstand der Gesellschaft hat das Bestehen und die Art des Unternehmensvertrags sowie den Namen des anderen Vertragsteils unverz\u00fcglich nach dem Inkrafttreten des Aktiengesetzes zur Eintragung in das Handelsregister anzumelden. Bei der Anmeldung ist das Datum des Beschlusses anzugeben, durch den die Hauptversammlung dem Vertrag zugestimmt hat. Bei Teilgewinnabf\u00fchrungsvertr\u00e4gen ist au\u00dferdem die Vereinbarung \u00fcber die H\u00f6he des abzuf\u00fchrenden Gewinns anzumelden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002301140",
+        "name": "\u00a7 23",
+        "title": "\u00dcbergangsvorschrift zum Gesetz zur Angemessenheit der Vorstandsverg\u00fctung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) \u00a7 93 Absatz 2 Satz 3 des Aktiengesetzes in der ab dem 5. August 2009 geltenden Fassung ist ab dem 1. Juli 2010 auch auf Versicherungsvertr\u00e4ge anzuwenden, die vor dem 5. August 2009 geschlossen wurden. Ist die Gesellschaft gegen\u00fcber dem Vorstand aus einer vor dem 5. August 2009 geschlossenen Vereinbarung zur Gew\u00e4hrung einer Versicherung ohne Selbstbehalt im Sinne des \u00a7 93 Absatz 2 Satz 3 des Aktiengesetzes verpflichtet, so darf sie diese Verpflichtung erf\u00fcllen.</P><P>(2) \u00a7 100 Absatz 2 Satz 1 Nummer 4 des Aktiengesetzes in der ab dem 5. August 2009 geltenden Fassung ist nicht auf Aufsichtsratsmitglieder anzuwenden, die ihr Mandat am 5. August 2009 bereits innehatten.</P><P>(3) \u00a7 120 Absatz 4 und \u00a7 193 des Aktiengesetzes in der ab dem 5. August 2009 geltenden Fassung ist erstmals auf Beschl\u00fcsse anzuwenden, die in Hauptversammlungen gefasst werden, die nach dem 5. August 2009 einberufen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002401360",
+        "name": "\u00a7 24",
+        "title": "\u00dcbergangsvorschrift zu dem Gesetz zur Restrukturierung und geordneten Abwicklung von Kreditinstituten, zur Errichtung eines Restrukturierungsfonds f\u00fcr Kreditinstitute und zur Verl\u00e4ngerung der Verj\u00e4hrungsfrist der aktienrechtlichen Organhaftung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 93 Absatz 6 des Aktiengesetzes in der seit dem 15. Dezember 2010 geltenden Fassung ist auch auf die vor dem 15. Dezember 2010 entstandenen und noch nicht verj\u00e4hrten Anspr\u00fcche anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002503360",
+        "name": "\u00a7 25",
+        "title": "\u00dcbergangsvorschrift zu dem Gesetz f\u00fcr die gleichberechtigte Teilhabe von Frauen und M\u00e4nnern an F\u00fchrungspositionen in der Privatwirtschaft und im \u00f6ffentlichen Dienst",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Die Festlegungen nach \u00a7 76 Absatz 4 Satz 1 und 3 sowie nach \u00a7 111 Absatz 5 Satz 1 und 3 des Aktiengesetzes in der am 1. Mai 2015 geltenden Fassung haben erstmals bis sp\u00e4testens 30. September 2015 zu erfolgen. Die nach \u00a7 76 Absatz 4 Satz 3 und die nach \u00a7 111 Absatz 5 Satz 3 des Aktiengesetzes in der am 1. Mai 2015 geltenden Fassung erstmals festzulegende Frist darf nicht l\u00e4nger als bis zum 30. Juni 2017 dauern.</P><P>(2) Der Mindestanteil von jeweils 30 Prozent an Frauen und M\u00e4nnern im Aufsichtsrat nach \u00a7 96 Absatz 2 des Aktiengesetzes ist bei erforderlich werdenden Neuwahlen und Entsendungen ab dem 1. Januar 2016 zur Besetzung einzelner oder mehrerer Aufsichtsratssitze zu beachten. Reicht die Anzahl der neu zu besetzenden Aufsichtsratssitze nicht aus, um den Mindestanteil zu erreichen, sind die Sitze mit Personen des unterrepr\u00e4sentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate k\u00f6nnen bis zu ihrem regul\u00e4ren Ende wahrgenommen werden.</P><P>(3) F\u00fcr die F\u00e4lle des \u00a7 96 Absatz 3 des Aktiengesetzes gilt Absatz 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002600308",
+        "name": "\u00a7 26",
+        "title": "Kommanditgesellschaften auf Aktien",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die Vorschriften dieses Abschnitts gelten sinngem\u00e4\u00df f\u00fcr Kommanditgesellschaften auf Aktien.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002700308",
+        "name": "\u00a7 26a",
+        "title": "Erg\u00e4nzung fortgef\u00fchrter Firmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>F\u00fchrt eine Aktiengesellschaft gem\u00e4\u00df \u00a7 22 Abs. 1 des Einf\u00fchrungsgesetzes zum Handelsgesetzbuch ihre Firma fort, ohne da\u00df diese die Bezeichnung \"Aktiengesellschaft\" enth\u00e4lt, so mu\u00df die Gesellschaft bis zum 16. Juni 1980 diese Bezeichnung in ihre Firma aufnehmen. Findet bis zu diesem Tag eine Hauptversammlung nicht statt und soll die Firma nur um die Bezeichnung \"Aktiengesellschaft\" erg\u00e4nzt werden, so ist der Aufsichtsrat zu dieser \u00c4nderung befugt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002800308",
+        "name": "\u00a7 26b",
+        "title": "\u00c4nderung der Satzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Eine \u00c4nderung der Satzung, die nach \u00a7 23 des Aktiengesetzes wegen der vom 1. Juli 1979 an geltenden Fassung erforderlich wird, ist bis zum 16. Juni 1980 zur Eintragung in das Handelsregister anzumelden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE002900308",
+        "name": "\u00a7 26c",
+        "title": "\u00dcbergangsfristen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die Vorschriften des Aktiengesetzes \u00fcber Sacheinlagen und Sach\u00fcbernahmen sowie \u00fcber deren Pr\u00fcfung in der vom 1. Juli 1979 an geltenden Fassung gelten nur f\u00fcr Gr\u00fcndungen und Kapitalerh\u00f6hungen, die nach dem 16. Juni 1980 zur Eintragung in das Handelsregister angemeldet werden. Die Fristen, die in \u00a7 71 Abs. 3 Satz 2 und \u00a7 71c des Aktiengesetzes in der vom 1. Juli 1979 an geltenden Fassung vorgesehen sind, beginnen nicht vor dem 16. Juni 1980. Die nach \u00a7 150a des Aktiengesetzes vorgeschriebene R\u00fccklage f\u00fcr eigene Aktien braucht nicht vor dem 16. Juni 1980 gebildet zu werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004200308",
+        "name": "\u00a7 26d",
+        "title": "\u00dcbergangsregelung f\u00fcr Verschmelzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die Vorschriften des Aktiengesetzes \u00fcber Verschmelzungen und Verm\u00f6gens\u00fcbertragungen in der vom 1. Januar 1983 an geltenden Fassung sind nicht auf Vorg\u00e4nge anzuwenden, zu deren Vorbereitung bereits vor diesem Tag der Verschmelzungs- oder \u00dcbertragungsvertrag beurkundet oder eine Haupt-, Gesellschafter- oder Gewerkenversammlung oder eine oberste Vertretung einberufen worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004901377",
+        "name": "\u00a7 26e",
+        "title": "\u00dcbergangsregelung zum Gesetz zur Anpassung von\nVerj\u00e4hrungsvorschriften an das Gesetz zur Modernisierung des Schuldrechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>\u00a7 327 Abs. 4 des Aktiengesetzes in der ab dem 15. Dezember 2004 geltenden Fassung ist auf vor diesem Datum entstandene Verbindlichkeiten anzuwenden, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Eintragung des Endes der Eingliederung in das Handelsregister nach \u00a7 10 des Handelsgesetzbuchs nach diesem Datum bekannt gemacht worden ist und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verbindlichkeiten nicht sp\u00e4ter als vier Jahre nach dem Tag, an dem die Eintragung des Endes der Eingliederung in das Handelsregister nach \u00a7 10 des Handelsgesetzbuchs bekannt gemacht worden ist, f\u00e4llig werden.</LA></DD> </DL>Auf sp\u00e4ter f\u00e4llig werdende Verbindlichkeiten im Sinne des Satzes 1 ist das bisher geltende Recht mit der Ma\u00dfgabe anwendbar, dass die Verj\u00e4hrungsfrist ein Jahr betr\u00e4gt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE005100377",
+        "name": "\u00a7 26f",
+        "title": "\u00dcbergangsregelungen zum Kleinstkapitalgesellschaften-Bilanzrechts\u00e4nderungsgesetz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die \u00a7\u00a7 152, 158 und 160 des Aktiengesetzes in der Fassung des Kleinstkapitalgesellschaften-Bilanzrechts\u00e4nderungsgesetzes vom 20. Dezember 2012 (BGBl. I S. 2751) sind erstmals auf Jahres- und Konzernabschl\u00fcsse anzuwenden, die sich auf einen nach dem 30. Dezember 2012 liegenden Abschlussstichtag beziehen. Auf Jahres- und Konzernabschl\u00fcsse, die sich auf einen vor dem 31. Dezember 2012 liegenden Abschlussstichtag beziehen, bleiben die \u00a7\u00a7 152, 158 und 160 des Aktiengesetzes vom 6. September 1965 (BGBl. I S. 1089) in der bis zum 27. Dezember 2012 geltenden Fassung anwendbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE005200360",
+        "name": "\u00a7 26g",
+        "title": "\u00dcbergangsregelungen zum Bilanzrichtlinie-Umsetzungsgesetz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die \u00a7\u00a7 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals auf Jahres- und Konzernabschl\u00fcsse anzuwenden, die sich auf ein nach dem 31. Dezember 2015 beginnendes Gesch\u00e4ftsjahr beziehen. Auf Jahres- und Konzernabschl\u00fcsse, die sich auf ein vor dem 1. Januar 2016 beginnendes Gesch\u00e4ftsjahr beziehen, bleiben die \u00a7\u00a7 58, 152, 160, 209, 240, 256 und 261 des Aktiengesetzes in der bis zum 22. Juli 2015 geltenden Fassung anwendbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE005300123",
+        "name": "\u00a7 26h",
+        "title": "\u00dcbergangsvorschrift zur Aktienrechtsnovelle 2016",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) \u00a7 10 Absatz 1 des Aktiengesetzes in der seit dem 31. Dezember 2015 geltenden Fassung ist nicht auf Gesellschaften anzuwenden, deren Satzung vor dem 31. Dezember 2015 durch notarielle Beurkundung festgestellt wurde und deren Aktien auf Inhaber lauten. F\u00fcr diese Gesellschaften ist \u00a7 10 Absatz 1 des Aktiengesetzes in der am 30. Dezember 2015 geltenden Fassung weiter anzuwenden.</P><P>(2) Sieht die Satzung einer Gesellschaft einen Umwandlungsanspruch gem\u00e4\u00df \u00a7 24 des Aktiengesetzes in der bis zum 30. Dezember 2015 geltenden Fassung vor, so bleibt diese Satzungsbestimmung wirksam.</P><P>(3) Bezeichnet die Satzung gem\u00e4\u00df \u00a7 25 Satz 2 des Aktiengesetzes in der bis zum 30. Dezember 2015 geltenden Fassung neben dem Bundesanzeiger andere Informationsmedien als Gesellschaftsbl\u00e4tter, so bleibt diese Satzungsbestimmung auch ab dem 31. Dezember 2015 wirksam. F\u00fcr einen Fristbeginn oder das sonstige Eintreten von Rechtsfolgen ist ab dem 1. Februar 2016 ausschlie\u00dflich die Bekanntmachung im Bundesanzeiger ma\u00dfgeblich.</P><P>(4) \u00a7 122 des Aktiengesetzes in der Fassung der Aktienrechtsnovelle 2016 vom 22. Dezember 2015 (BGBl. I S. 2565) ist erstmals auf Einberufungs- und Erg\u00e4nzungsverlangen anzuwenden, die der Gesellschaft am 1. Juni 2016 zugehen. Auf Erg\u00e4nzungsverlangen, die der Gesellschaft vor dem 1. Juni 2016 zugehen, ist \u00a7 122 in der bis zum 30. Dezember 2015 geltenden Fassung weiter anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE005400123",
+        "name": "\u00a7 26i",
+        "title": "\u00dcbergangsregelung zum CSR-Richtlinie-Umsetzungsgesetz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>Die \u00a7\u00a7 111, 170, 171, 176, 237 und 283 des Aktiengesetzes in der Fassung des CSR-Richtlinie-Umsetzungsgesetzes vom 11. April 2017 (BGBl. I S. 802) sind erstmals auf Lage- und Konzernlageberichte anzuwenden, die sich auf ein nach dem 31. Dezember 2016 beginnendes Gesch\u00e4ftsjahr beziehen. Auf Lage- und Konzernlageberichte, die sich auf vor dem 1. Januar 2017 beginnende Gesch\u00e4ftsjahre beziehen, bleiben die in Satz 1 bezeichneten Vorschriften in der bis zum 18. April 2017 geltenden Fassung anwendbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE005500360",
+        "name": "\u00a7 26j",
+        "title": "\u00dcbergangsvorschrift zum Gesetz zur Umsetzung der zweiten Aktion\u00e4rsrechterichtlinie",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Die erstmalige Beschlussfassung nach \u00a7 87a Absatz 1, \u00a7 113 Absatz 3 und \u00a7 120a Absatz 1 des Aktiengesetzes in der ab dem 1. Januar 2020 geltenden Fassung hat bis zum Ablauf der ersten ordentlichen Hauptversammlung, die auf den 31. Dezember 2020 folgt, zu erfolgen. Die erstmalige Beschlussfassung nach \u00a7 87a Absatz 2 Satz 1 des Aktiengesetzes in der ab dem 1. Januar 2020 geltenden Fassung hat bis zum Ablauf von zwei Monaten nach erstmaliger Billigung des Verg\u00fctungssystems durch die Hauptversammlung zu erfolgen. Den gegenw\u00e4rtigen und hinzutretenden Vorstands- oder Aufsichtsratsmitgliedern kann bis zu dem in Satz 2 zuletzt geregelten Zeitpunkt eine Verg\u00fctung nach der bestehenden Verg\u00fctungspraxis gew\u00e4hrt werden; die vor diesem Zeitpunkt mit ihnen geschlossenen Vertr\u00e4ge bleiben unber\u00fchrt.</P><P>(2) \u00a7 162 des Aktiengesetzes in der ab dem 1. Januar 2020 geltenden Fassung ist erstmals f\u00fcr das nach dem 31. Dezember 2020 beginnende Gesch\u00e4ftsjahr anzuwenden. \u00a7 162 Absatz 1 Satz 2 Nummer 2 ist bis zum Ablauf des f\u00fcnften Gesch\u00e4ftsjahres, gerechnet ab dem Gesch\u00e4ftsjahr nach Satz 1, mit der Ma\u00dfgabe anzuwenden, dass nicht die durchschnittliche Verg\u00fctung der letzten f\u00fcnf Gesch\u00e4ftsjahre in die vergleichende Betrachtung einbezogen wird, sondern lediglich die durchschnittliche Verg\u00fctung \u00fcber den Zeitraum seit dem Gesch\u00e4ftsjahr nach Satz 1. Die erstmalige Beschlussfassung nach \u00a7 120a Absatz 4 des Aktiengesetzes in der ab dem 1. Januar 2020 geltenden Fassung hat bis zum Ablauf der ersten ordentlichen Hauptversammlung, gerechnet ab Beginn des zweiten Gesch\u00e4ftsjahres, das auf den 31. Dezember 2020 folgt, zu erfolgen.</P><P>(3) \u00a7 124 des Aktiengesetzes in der ab dem 1. Januar 2020 geltenden Fassung ist erst ab dem 1. M\u00e4rz 2020 und erstmals auf Hauptversammlungen anzuwenden, die nach dem 1. M\u00e4rz 2020 einberufen werden.</P><P>(4) Die \u00a7\u00a7 67, 67a bis 67f, 118, 121, 123, 125, 128, 129, 186 Absatz 2 Satz 1, \u00a7 214 Absatz 1 Satz 2, \u00a7 243 Absatz 3, \u00a7 246a Absatz 2 Nummer 2 und \u00a7 405 Absatz 2a Nummer 1 bis 5 und 7 des Aktiengesetzes in der ab dem 1. Januar 2020 geltenden Fassung sind erst ab dem 3. September 2020 anzuwenden und sind erstmals auf Hauptversammlungen anzuwenden, die nach dem 3. September 2020 einberufen werden.</P><P>(5) Die Verordnung \u00fcber den Ersatz von Aufwendungen der Kreditinstitute vom 17. Juni 2003 (BGBl. I S. 885), die durch Artikel 15 des Gesetzes vom 30. Juli 2009 (BGBl. I S. 2479) ge\u00e4ndert worden ist, ist in der bis einschlie\u00dflich 2. September 2020 geltenden Fassung bis zum Inkrafttreten einer Verordnung auf Grundlage der Erm\u00e4chtigung in \u00a7 67f Absatz 3 des Aktiengesetzes, jedoch l\u00e4ngstens bis einschlie\u00dflich 3. September 2025 weiterhin sinngem\u00e4\u00df anzuwenden. Die Verordnung \u00fcber den Ersatz von Aufwendungen der Kreditinstitute ist wie folgt sinngem\u00e4\u00df anzuwenden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>auf Mitteilungen nach \u00a7 67 Absatz 4 Satz 1 bis 5 des Aktiengesetzes und bei b\u00f6rsennotierten Gesellschaften nach \u00a7 67d des Aktiengesetzes ist \u00a7 3 der Verordnung \u00fcber den Ersatz von Aufwendungen der Kreditinstitute sinngem\u00e4\u00df anzuwenden, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>auf Mitteilungen nach den \u00a7\u00a7 67a bis 67c, auch in Verbindung mit \u00a7 125 Absatz 1, 2 und 5 des Aktiengesetzes ist \u00a7 1 der Verordnung \u00fcber den Ersatz von Aufwendungen der Kreditinstitute sinngem\u00e4\u00df anzuwenden.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE005600360",
+        "name": "\u00a7 26k",
+        "title": "\u00dcbergangsvorschrift zum Finanzmarktintegrit\u00e4tsst\u00e4rkungsgesetz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Die \u00a7\u00a7 404a, 405 und 407a des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf alle gesetzlich vorgeschriebenen Abschlusspr\u00fcfungen f\u00fcr das nach dem 31. Dezember 2021 beginnende Gesch\u00e4ftsjahr anzuwenden. Die in Satz 1 bezeichneten Vorschriften in der bis einschlie\u00dflich 30. Juni 2021 geltenden Fassung sind letztmals anzuwenden auf alle gesetzlich vorgeschriebenen Abschlusspr\u00fcfungen f\u00fcr das vor dem 1. Januar 2022 beginnende Gesch\u00e4ftsjahr.</P><P>(2) \u00a7 107 Absatz 4 Satz 1, 2, 4 bis 6, \u00a7 209 Absatz 5 und \u00a7 407 Absatz 1 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals ab dem 1. Januar 2022 anzuwenden.</P><P>(3) \u00a7 256 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf Jahresabschl\u00fcsse f\u00fcr das nach dem 31. Dezember 2021 beginnende Gesch\u00e4ftsjahr anzuwenden.</P><P>(4) \u00a7 143 Absatz 2, \u00a7 209 Absatz 4 und \u00a7 258 Absatz 4 des Aktiengesetzes in der ab dem 1. Juli 2021 geltenden Fassung sind erstmals auf Sonderpr\u00fcfer, die f\u00fcr das nach dem 31. Dezember 2021 beginnende Gesch\u00e4ftsjahr bestellt, oder Pr\u00fcfer, die f\u00fcr das nach dem 31. Dezember 2021 beginnende Gesch\u00e4ftsjahr gew\u00e4hlt werden, anzuwenden.</P><P>(5) \u00a7 293d in der ab dem 1. Juli 2021 geltenden Fassung ist erstmals auf die Pr\u00fcfung von Unternehmensvertr\u00e4gen anzuwenden, die nach dem 31. Dezember 2021 geschlossen wurden. \u00a7 293d in der bis einschlie\u00dflich 30. Juni 2021 geltenden Fassung ist letztmals auf die Pr\u00fcfung von Unternehmensvertr\u00e4gen anzuwenden, die vor dem 1. Januar 2022 geschlossen wurden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE005700360",
+        "name": "\u00a7 26l",
+        "title": "\u00dcbergangsvorschrift zum Gesetz zur Erg\u00e4nzung und \u00c4nderung der Regelungen f\u00fcr die gleichberechtigte Teilhabe von Frauen an F\u00fchrungspositionen in der Privatwirtschaft und im \u00f6ffentlichen Dienst",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG004000308"
+        },
+        "body": "<P>(1) Das Beteiligungsgebot f\u00fcr den Vorstand nach \u00a7 76 Absatz 3a Satz 1 des Aktiengesetzes in der vom 12. August 2021 an geltenden Fassung ist ab dem 1. August 2022 bei der Bestellung einzelner oder mehrerer Vorstandsmitglieder einzuhalten. Bestehende Mandate k\u00f6nnen bis zu ihrem vorgesehenen Ende wahrgenommen werden. Gleiches gilt im Fall des \u00a7 393a Absatz 2 Nummer 1 des Aktiengesetzes.</P><P>(2) \u00a7 76 Absatz 4 und \u00a7 111 Absatz 5 des Aktiengesetzes in der vom 12. August 2021 an geltenden Fassung finden erstmals auf die Festlegung von Zielgr\u00f6\u00dfen ab dem 12. August 2021 Anwendung.</P><P>(3) Der jeweilige Mindestanteil von Frauen und M\u00e4nnern im Aufsichtsrat nach \u00a7 393a Absatz 2 Nummer 2 des Aktiengesetzes ist bei erforderlich werdenden Besetzungen einzelner oder mehrerer Sitze ab dem 1. April 2022 zu beachten. Reicht die Anzahl der zu besetzenden Sitze nicht aus, um den Mindestanteil zu erreichen, sind diese Sitze mit Personen des unterrepr\u00e4sentierten Geschlechts zu besetzen, um dessen Anteil sukzessive zu steigern. Bestehende Mandate k\u00f6nnen bis zu ihrem vorgesehenen Ende wahrgenommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011850965BJNG003000308",
+        "name": "Zweiter Abschnitt",
+        "title": "Anwendung aktienrechtlicher\nVorschriften auf Unternehmen mit anderer Rechtsform",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE003101360",
+        "name": "\u00a7 27",
+        "title": "Entscheidung \u00fcber die Zusammensetzung des Aufsichtsrats",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003000308"
+        },
+        "body": "<P>\u00a7 96 Absatz 4, \u00a7\u00a7 97 bis 99 des Aktiengesetzes gelten sinngem\u00e4\u00df f\u00fcr Gesellschaften mit beschr\u00e4nkter Haftung und bergrechtliche Gewerkschaften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE003201307",
+        "name": "\u00a7 28",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003000308"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004600314",
+        "name": "\u00a7 28a",
+        "title": "Treuhandanstalt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003000308"
+        },
+        "body": "<P>Die Vorschriften des Aktiengesetzes \u00fcber herrschende Unternehmen sind auf die Treuhandanstalt nicht anzuwenden. Dies gilt nicht f\u00fcr die Anwendung von Vorschriften \u00fcber die Vertretung der Arbeitnehmer im Aufsichtsrat eines von der Treuhandanstalt verwalteten Unternehmens.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011850965BJNG003300308",
+        "name": "Dritter Abschnitt",
+        "title": "Aufhebung und \u00c4nderung von\nGesetzen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE003401360",
+        "name": "\u00a7 29",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003300308"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004300308",
+        "name": "(XXXX) \u00a7\u00a7 30 bis 32",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003300308"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004400308",
+        "name": "\u00a7 33",
+        "title": "Gesetz \u00fcber die Kapitalerh\u00f6hung aus Gesellschaftsmitteln und \u00fcber die Gewinn- und Verlustrechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003300308"
+        },
+        "body": "<P>(1) (gegenstandslos)</P><P>(2) Haben Kreditinstitute auf Grund einer Aufforderung nach \u00a7 11 Abs. 1 des Gesetzes \u00fcber die Kapitalerh\u00f6hung aus Gesellschaftsmitteln und die Gewinn- und Verlustrechnung auf in ihre Sammelverwahrung genommene alte Aktien neue Aktien abgeholt und entfallen neue Aktien noch nach Ablauf eines Jahres seit der Bekanntmachung der Aufforderung zur Abholung oder, wenn diese Frist vor dem Inkrafttreten des Aktiengesetzes abgelaufen ist, noch beim Inkrafttreten des Aktiengesetzes auf Teilrechte, die nicht in einer Hand vereinigt sind und deren Berechtigte sich auch nicht zur Aus\u00fcbung der Rechte zusammengeschlossen haben, so gelten diese neuen Aktien als nicht abgeholt. Sie sind der Gesellschaft nach Ablauf dieser Frist und, wenn die Frist beim Inkrafttreten des Aktiengesetzes bereits abgelaufen ist, unverz\u00fcglich zur\u00fcckzugeben. Hat die Gesellschaft den Verkauf der nicht abgeholten Aktien noch nicht angedroht, so hat sie ihn unverz\u00fcglich nach der R\u00fcckgabe der Aktien anzudrohen. F\u00fcr die Androhung gilt \u00a7 214 Abs. 2 Satz 2 und 3 des Aktiengesetzes. \u00a7 214 Abs. 3 des Aktiengesetzes gilt sinngem\u00e4\u00df; ist die Frist von einem Jahr seit der letzten Bekanntmachung der Androhung beim Inkrafttreten des Aktiengesetzes bereits abgelaufen, so tritt an ihre Stelle eine Frist von drei Monaten seit dem Inkrafttreten des Aktiengesetzes.</P><P>(3) (\u00c4nderungsvorschrift)</P><P>(4) Sind Aktien einer Gesellschaft an einer deutschen B\u00f6rse zum amtlichen Handel zugelassen, so gilt die Zulassung auch f\u00fcr die neuen Aktien, die bei einer Kapitalerh\u00f6hung aus Gesellschaftsmitteln auf sie entfallen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE004500308",
+        "name": "(XXXX) \u00a7\u00a7 34 bis 44",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003300308"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011850965BJNG003700308",
+        "name": "Vierter Abschnitt",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE003800308",
+        "name": "\u00a7 45",
+        "title": "Geltung in Berlin",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003700308"
+        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE003900308",
+        "name": "\u00a7 46",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003700308"
+        },
+        "body": "<P>Dieses Gesetz tritt am 1. Januar 1966 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011850965BJNE888800301",
+        "name": "Anhang EV",
+        "title": "Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III<BR />(BGBl. II 1990, 889, 960)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011850965BJNG003700308"
+        },
+        "body": "<P><noindex>Abschnitt III <BR />Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Ma\u00dfgaben in Kraft: <BR />... <DL Font=\"normal\" Type=\"arabic\"><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einf\u00fchrungsgesetz zum Aktiengesetz vom 6. September 1965 (BGBl. I S. 1185), zuletzt ge\u00e4ndert durch Artikel 10 Abs. 11 des Gesetzes vom 19. Dezember 1985 (BGBl. I S. 2355),</LA><LA Size=\"normal\">mit folgender Ma\u00dfgabe:</LA><LA Size=\"normal\">\u00a7 22 Abs. 1 ist f\u00fcr Aktiengesellschaften, die vor dem 1. Juli 1990 in das Handelsregister eingetragen wurden, mit der Ma\u00dfgabe anzuwenden, da\u00df das Datum \"31. Dezember 1965\" durch das Datum \"30. Juni 1990\" ersetzt wird.<I>F\u00fcr Aktiengesellschaften, die vor dem 1. Juli 1990 zur Eintragung in das Handelsregister angemeldet, aber noch nicht eingetragen worden sind, bleibt es bei den bisherigen Rechtsvorschriften \u00fcber die Errichtung und Eintragung der Gesellschaft.</I></LA></DD></DL></noindex></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>Anhang EV Abschn. III Nr. 6 Satz 2 Kursivdruck: Nicht mehr anzuwenden gem. \u00a7 1 Abs. 1 Nr. 4 Buchst. e G v. 19.4.2006 I 866, 891 (BMJMa\u00dfgabenBerG) mWv 25.4.2006</P>"
+      }
+    ]
+  }
+}

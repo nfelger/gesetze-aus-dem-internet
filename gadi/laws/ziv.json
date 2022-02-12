@@ -1,0 +1,353 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR012800004",
+    "firstPublished": "2004-01-26",
+    "sourceTimestamp": "20160809215507",
+    "titleShort": "Zinsinformationsverordnung",
+    "titleLong": "Verordnung zur Umsetzung der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinsertr\u00e4gen",
+    "abbreviation": "ZIV",
+    "slug": "ziv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2004, 128; 2005, 1695",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 2 V v. 18.7.2016 I 1722",
+        "category": "Stand"
+      },
+      {
+        "comment": "Die V ist gem. Bek. v. 22.6.2005 I 1695 mWv 1.7.2005 in Kraft getreten.",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab:  1.7.2005 +++)<BR />(+++ Umsetzung der<BR />       EGRL 48/2003 (CELEX Nr: 32003L0048)<BR />     Umsetzung der<BR />       EGRL 98/2006 (CELEX Nr: 32006L0098) vgl. V v. 5.11.2007 I 2562 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 45e des Einkommensteuergesetzes in der Fassung der Bekanntmachung vom 19. Oktober 2002 (BGBl. I S. 4210, 2003 I S. 179), der durch Artikel 1 Nr. 28 des Gesetzes vom 15. Dezember 2003 (BGBl. I S. 2645) eingef\u00fcgt worden ist, verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000203377",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"10*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 1</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Allgemeine Bestimmungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 1</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zielsetzung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 2</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Definition des wirtschaftlichen Eigent\u00fcmers</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 3</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ermittlung von Identit\u00e4t und Wohnsitz des wirtschaftlichen Eigent\u00fcmers</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 4</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Definition der Zahlstelle</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 5</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Definition der zust\u00e4ndigen Beh\u00f6rde</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 6</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Definition der Zinszahlung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 7</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">R\u00e4umlicher Geltungsbereich</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 2</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Daten\u00fcbermittlung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 8</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Daten\u00fcbermittlung durch die Zahlstelle</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 9</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Datenerhebung und Daten\u00fcbermittlung durch das Bundeszentralamt f\u00fcr Steuern</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 3</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">\u00dcbergangsbestimmungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 10</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbergangszeitraum</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 11</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besteuerung nach innerstaatlichen Rechtsvorschriften</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 12</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einnahmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 13</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausnahmen vom Quellensteuerverfahren</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 14</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Vermeidung der Doppelbesteuerung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 15</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Umlauff\u00e4hige Schuldtitel</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 4</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Anwendungs- und Schlussbestimmungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 16</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Andere Quellensteuern</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 16a</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erweiterung des Anwendungsbereichs</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 17</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendungsbestimmungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Anhang</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Liste der verbundenen Einrichtungen nach \u00a7 15</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012800004BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000300000",
+        "name": "\u00a7 1",
+        "title": "Zielsetzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000100000"
+        },
+        "body": "<P>Die inl\u00e4ndischen Zahlstellen haben die f\u00fcr die Durchf\u00fchrung dieser Verordnung notwendigen Aufgaben unabh\u00e4ngig davon wahrzunehmen, wo der Schuldner der den Zinsen zugrunde liegenden Forderung niedergelassen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000401308",
+        "name": "\u00a7 2",
+        "title": "Definition des wirtschaftlichen Eigent\u00fcmers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000100000"
+        },
+        "body": "<P>(1) Als \"wirtschaftlicher Eigent\u00fcmer\" im Sinne dieser Verordnung gilt jede nat\u00fcrliche Person, die eine Zinszahlung vereinnahmt oder zu deren Gunsten eine Zinszahlung erfolgt, es sei denn, sie weist nach, dass sie die Zahlung nicht f\u00fcr sich selbst vereinnahmt hat oder sie nicht zu ihren Gunsten erfolgt ist, das hei\u00dft, dass sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Zahlstelle im Sinne von \u00a7 4 Abs. 1 handelt oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Auftrag<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">einer juristischen Person,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Einrichtung, deren Gewinne den allgemeinen Vorschriften der Unternehmensbesteuerung unterliegen,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">eines nach der Richtlinie 85/611/EWG des Rates vom 20. Dezember 1985 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen f\u00fcr gemeinsame Anlagen in Wertpapieren (ABl. EG Nr. L 375 S. 3), zuletzt ge\u00e4ndert durch die Richtlinie 2001/108/EG des Europ\u00e4ischen Parlaments und des Rates vom 21. Januar 2002 (ABl. EG Nr. L 41 S. 35), zugelassenen Organismus f\u00fcr gemeinsame Anlagen in Wertpapieren (OGAW) oder</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Einrichtung nach \u00a7 4 Abs. 2 der Verordnung</LA></DD> </DL></LA><LA Size=\"normal\">handelt und in letzterem Fall Namen und Anschrift der betreffenden Einrichtung dem Wirtschaftsbeteiligten mitteilt, der die Zinsen zahlt, welcher diese Angaben wiederum der zust\u00e4ndigen Beh\u00f6rde des Mitgliedstaats, in dem er ans\u00e4ssig ist, \u00fcbermittelt, oder</LA></DD>  <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Auftrag einer anderen nat\u00fcrlichen Person handelt, welche der wirtschaftliche Eigent\u00fcmer ist, und deren Identit\u00e4t und Wohnsitz nach \u00a7 3 Abs. 2 der Zahlstelle mitteilt.</LA></DD> </DL> </P><P>(2) Liegen einer Zahlstelle Informationen vor, die den Schluss nahe legen, dass die nat\u00fcrliche Person, die eine Zinszahlung vereinnahmt oder zu deren Gunsten eine Zinszahlung erfolgt, m\u00f6glicherweise nicht der wirtschaftliche Eigent\u00fcmer ist, und f\u00e4llt diese nat\u00fcrliche Person weder unter Absatz 1 Nr. 1 noch unter Absatz 1 Nr. 2, so unternimmt die Zahlstelle angemessene Schritte nach \u00a7 3 Abs. 2 zur Feststellung der Identit\u00e4t des wirtschaftlichen Eigent\u00fcmers. Kann die Zahlstelle den wirtschaftlichen Eigent\u00fcmer nicht feststellen, so behandelt sie die betreffende nat\u00fcrliche Person als den wirtschaftlichen Eigent\u00fcmer.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000500000",
+        "name": "\u00a7 3",
+        "title": "Ermittlung von Identit\u00e4t und Wohnsitz des wirtschaftlichen Eigent\u00fcmers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000100000"
+        },
+        "body": "<P>(1) Bei vertraglichen Beziehungen, die vor dem 1. Januar 2004 eingegangen wurden, ermittelt die Zahlstelle die Identit\u00e4t des wirtschaftlichen Eigent\u00fcmers, n\u00e4mlich seinen Namen und seine Anschrift sowie seinen Wohnsitz, anhand der Informationen, die ihr auf Grund der geltenden Vorschriften, insbesondere des Geldw\u00e4schegesetzes in der jeweils geltenden Fassung, zur Verf\u00fcgung stehen.</P><P>(2) Bei vertraglichen Beziehungen oder, wenn vertragliche Beziehungen fehlen, bei Transaktionen, die ab dem 1. Januar 2004 eingegangen oder get\u00e4tigt wurden, ermittelt die Zahlstelle die Identit\u00e4t des wirtschaftlichen Eigent\u00fcmers, n\u00e4mlich seinen Namen und seine Anschrift, seinen Wohnsitz und, sofern vorhanden, die ihm vom Mitgliedstaat seines steuerlichen Wohnsitzes zu Steuerzwecken erteilte Steuer-Identifikationsnummer. Die Angaben zur Identit\u00e4t des wirtschaftlichen Eigent\u00fcmers und seiner Steuer-Identifikationsnummer werden auf der Grundlage des Passes oder des von ihm vorgelegten amtlichen Personalausweises festgestellt. Ist die Anschrift nicht in diesem Pass oder diesem amtlichen Personalausweis eingetragen, so wird sie auf der Grundlage eines anderen vom wirtschaftlichen Eigent\u00fcmer vorgelegten beweiskr\u00e4ftigen Dokuments festgestellt. Ist die Steuer-Identifikationsnummer nicht im Pass, im amtlichen Personalausweis oder einem anderen vom wirtschaftlichen Eigent\u00fcmer vorgelegten beweiskr\u00e4ftigen Dokument, etwa einem Nachweis \u00fcber den steuerlichen Wohnsitz, eingetragen, so wird seine Identit\u00e4t anhand seines auf der Grundlage des Passes oder amtlichen Personalausweises festgestellten Geburtsdatums und -ortes pr\u00e4zisiert. Der Wohnsitz wird anhand der im Pass oder im amtlichen Personalausweis angegebenen Adresse oder erforderlichenfalls anhand eines anderen vom wirtschaftlichen Eigent\u00fcmer vorgelegten beweiskr\u00e4ftigen Dokuments in der Weise ermittelt, dass bei einer nat\u00fcrlichen Person, die einen in einem Mitgliedstaat ausgestellten Pass oder amtlichen Personalausweis vorlegt und die ihren Angaben zufolge in einem Staat ihren Wohnsitz haben soll, der nicht Mitgliedstaat ist (Drittstaat), der Wohnsitz anhand eines Nachweises \u00fcber den steuerlichen Wohnsitz festgestellt wird, der von der zust\u00e4ndigen Beh\u00f6rde des Drittstaats ausgestellt ist, in dem die betreffende Person ihren eigenen Angaben zufolge ihren Wohnsitz haben soll. Wird dieser Nachweis nicht vorgelegt, so gilt der Wohnsitz als in dem Mitgliedstaat belegen, in dem der Pass oder ein anderer amtlicher Identit\u00e4tsausweis ausgestellt wurde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000600000",
+        "name": "\u00a7 4",
+        "title": "Definition der Zahlstelle",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000100000"
+        },
+        "body": "<P>(1) Als \"Zahlstelle\" im Sinne dieser Verordnung gilt jeder Wirtschaftsbeteiligte, der dem wirtschaftlichen Eigent\u00fcmer Zinsen zahlt oder eine Zinszahlung zu dessen unmittelbaren Gunsten einzieht, und zwar unabh\u00e4ngig davon, ob dieser Wirtschaftsbeteiligte der Schuldner der den Zinsen zugrunde liegenden Forderung ist oder vom Schuldner oder dem wirtschaftlichen Eigent\u00fcmer mit der Zinszahlung oder deren Einziehung beauftragt ist. Ein Wirtschaftsbeteiligter ist jegliche nat\u00fcrliche oder juristische Person, die in Aus\u00fcbung ihres Berufs oder ihres Gewerbes Zinszahlungen t\u00e4tigt.</P><P>(2) Jegliche in einem Mitgliedstaat niedergelassene Einrichtung, an die eine Zinszahlung zugunsten des wirtschaftlichen Eigent\u00fcmers geleistet wird oder die eine Zinszahlung zugunsten des wirtschaftlichen Eigent\u00fcmers einzieht, gilt bei einer solchen Zahlung oder Einnahme ebenfalls als Zahlstelle. Dies gilt nicht, wenn der Wirtschaftsbeteiligte auf Grund beweiskr\u00e4ftiger und von der Einrichtung vorgelegter offizieller Unterlagen Grund zu der Annahme hat, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie eine juristische Person mit Ausnahme der in Absatz 5 genannten juristischen Personen ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihre Gewinne den allgemeinen Vorschriften f\u00fcr die Unternehmensbesteuerung unterliegen oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie ein nach der Richtlinie 85/611/EWG zugelassener OGAW ist.</LA></DD></DL>Zahlt ein Wirtschaftsbeteiligter Zinsen zugunsten einer solchen in einem anderen Mitgliedstaat niedergelassenen und gem\u00e4\u00df Satz 1 als Zahlstelle geltenden Einrichtung oder zieht er f\u00fcr sie Zinsen ein, so teilt er Namen und Anschrift der Einrichtung sowie den Gesamtbetrag der zugunsten dieser Einrichtung gezahlten oder eingezogenen Zinsen der zust\u00e4ndigen Beh\u00f6rde des Mitgliedstaats seiner Niederlassung mit, welche diese Informationen an die zust\u00e4ndige Beh\u00f6rde des Mitgliedstaats weiterleitet, in dem die betreffende Einrichtung niedergelassen ist.</P><P>(3) Inl\u00e4ndische Einrichtungen im Sinne von Absatz 2 Satz 1 k\u00f6nnen sich f\u00fcr die Zwecke dieser Verordnung jedoch als OGAW im Sinne von Absatz 2 Satz 2 Nr. 3 behandeln lassen, wenn sie steuerlich erfasst sind. Macht eine inl\u00e4ndische Einrichtung von dieser Wahlm\u00f6glichkeit Gebrauch, so wird ihr von der nach \u00a7 5 zust\u00e4ndigen Beh\u00f6rde ein entsprechender Nachweis ausgestellt, den sie an den Wirtschaftsbeteiligten weiterleitet.</P><P>(4) Sind der Wirtschaftsbeteiligte und die Einrichtung im Sinne von Absatz 2 im Inland niedergelassen, so gelten die Vorschriften dieser Verordnung f\u00fcr die Einrichtung, wenn sie als Zahlstelle handelt.</P><P>(5) Die von Absatz 2 Satz 2 Nr. 1 ausgenommenen juristischen Personen sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Finnland: avoin yhti\u00f6 (Ay) und kommandiittiyhti\u00f6 (Ky)/\u00f6ppet bolag und kommanditbolag,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Schweden: handelsbolag (HB) und kommanditbolag (KB).</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000701308",
+        "name": "\u00a7 5",
+        "title": "Definition der zust\u00e4ndigen Beh\u00f6rde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000100000"
+        },
+        "body": "<P>(1) Als \"zust\u00e4ndige Beh\u00f6rde\" im Sinne dieser Verordnung gilt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den Mitgliedstaaten jegliche Beh\u00f6rde, die die Mitgliedstaaten der Kommission melden, und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Drittl\u00e4ndern die f\u00fcr Zwecke bilateraler oder multilateraler Steuerabkommen zust\u00e4ndige Beh\u00f6rde oder, in Ermangelung einer solchen, diejenige Beh\u00f6rde, die f\u00fcr die Ausstellung von Aufenthaltsbescheinigungen f\u00fcr steuerliche Zwecke zust\u00e4ndig ist.</LA></DD> </DL> </P><P>(2) Zust\u00e4ndige Beh\u00f6rde im Inland ist das Bundeszentralamt f\u00fcr Steuern. Abweichend hiervon ist f\u00fcr die Ausstellung des Nachweises nach \u00a7 4 Abs. 3 das Finanzamt, bei dem die Einrichtung steuerlich gef\u00fchrt wird, und f\u00fcr die Bescheinigung nach \u00a7 13 das Wohnsitzfinanzamt des Antragstellers zust\u00e4ndig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000801308",
+        "name": "\u00a7 6",
+        "title": "Definition der Zinszahlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000100000"
+        },
+        "body": "<P>(1) Als \"Zinszahlung\" im Sinne dieser Verordnung gelten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">gezahlte oder einem Konto gutgeschriebene Zinsen, die mit Forderungen jeglicher Art zusammenh\u00e4ngen, unabh\u00e4ngig davon, ob diese grundpfandrechtlich gesichert sind oder nicht und ob sie ein Recht auf Beteiligung am Gewinn des Schuldners beinhalten oder nicht, insbesondere Ertr\u00e4ge aus Staatspapieren, Anleihen und Schuldverschreibungen einschlie\u00dflich der mit diesen Titeln verbundenen Pr\u00e4mien und Gewinne; Zuschl\u00e4ge f\u00fcr versp\u00e4tete Zahlungen gelten nicht als Zinszahlung;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Abtretung, R\u00fcckzahlung oder Einl\u00f6sung von Forderungen im Sinne von Nummer 1 aufgelaufene oder kapitalisierte Zinsen;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">direkte oder \u00fcber eine Einrichtung im Sinne von \u00a7 4 Abs. 2 laufende Zinsertr\u00e4ge, die ausgesch\u00fcttet werden von<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach der Richtlinie 85/611/EWG zugelassenen OGAW,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen, die von der Wahlm\u00f6glichkeit des \u00a7 4 Abs. 3 Gebrauch gemacht haben,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">au\u00dferhalb des Gebiets im Sinne von \u00a7 7 niedergelassenen Organismen f\u00fcr gemeinsame Anlagen;</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ertr\u00e4ge, die bei Abtretung, R\u00fcckzahlung oder Einl\u00f6sung von Anteilen an den nachstehend aufgef\u00fchrten Organismen und Einrichtungen realisiert werden, wenn diese direkt oder indirekt \u00fcber nachstehend aufgef\u00fchrte andere Organismen f\u00fcr gemeinsame Anlagen oder Einrichtungen mehr als 40 Prozent ihres Verm\u00f6gens in den unter Nummer 1 genannten Forderungen angelegt haben:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach der Richtlinie 85/611/EWG zugelassene OGAW,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen, die von der Wahlm\u00f6glichkeit des \u00a7 4 Abs. 3 Gebrauch gemacht haben,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">au\u00dferhalb des Gebiets im Sinne von \u00a7 7 niedergelassene Organismen f\u00fcr gemeinsame Anlagen.</LA></DD> </DL></LA></DD> </DL>Die in Satz 1 Nr. 4 genannten Ertr\u00e4ge sind nur insoweit in die Definition der Zinsen einzubeziehen, wie sie Ertr\u00e4gen entsprechen, die mittelbar oder unmittelbar aus Zinszahlungen im Sinne des Satzes 1 Nr. 1 und 2 stammen.</P><P>(2) In Bezug auf Absatz 1 Satz 1 Nr. 3 und 4 gilt f\u00fcr den Fall, dass einer Zahlstelle keine Informationen \u00fcber den Anteil der Zinszahlungen an den Ertr\u00e4gen vorliegen, der Gesamtbetrag der betreffenden Ertr\u00e4ge als Zinszahlung.</P><P>(3) In Bezug auf Absatz 1 Satz 1 Nr. 4 gilt f\u00fcr den Fall, dass einer Zahlstelle keine Informationen \u00fcber den Prozentanteil des in Forderungen oder in Anteilen gem\u00e4\u00df der Definition unter jener Nummer angelegten Verm\u00f6gens vorliegen, dieser Prozentanteil als \u00fcber 40 Prozent liegend. Kann die Zahlstelle den vom wirtschaftlichen Eigent\u00fcmer erzielten Ertrag nicht bestimmen, so gilt als Ertrag der Erl\u00f6s aus der Abtretung, der R\u00fcckzahlung oder der Einl\u00f6sung der Anteile.</P><P>(4) Werden Zinsen im Sinne von Absatz 1 an eine Einrichtung im Sinne von \u00a7 4 Abs. 2 gezahlt, der die Wahlm\u00f6glichkeit in \u00a7 4 Abs. 3 nicht einger\u00e4umt wurde, oder einem Konto einer solchen Einrichtung gutgeschrieben, so gelten sie als Zinszahlung durch diese Einrichtung.</P><P>(5) Abweichend von Absatz 1 Satz 1 Nr. 3 und 4 sind von der Definition der Zinszahlung jegliche Ertr\u00e4ge im Sinne der genannten Bestimmungen ausgeschlossen, die von im Inland niedergelassenen Unternehmen oder Einrichtungen stammen, sofern diese h\u00f6chstens 15 Prozent ihres Verm\u00f6gens in Forderungen im Sinne von Absatz 1 Satz 1 Nr. 1 angelegt haben. Ebenso sind abweichend von Absatz 4 von der Definition der Zinszahlung nach Absatz 1 die Zinsen ausgeschlossen, die einer im Inland niedergelassenen Einrichtung nach \u00a7 4 Abs. 2, der die Wahlm\u00f6glichkeit nach \u00a7 4 Abs. 3 nicht einger\u00e4umt wurde, gezahlt oder einem Konto dieser Einrichtung gutgeschrieben worden sind, sofern die entsprechenden Einrichtungen h\u00f6chstens 15 Prozent ihres Verm\u00f6gens in Forderungen im Sinne von Absatz 1 Satz 1 Nr. 1 angelegt haben.</P><P>(6) Der in Absatz 1 Satz 1 Nr. 4 und Absatz 3 genannte Prozentanteil betr\u00e4gt ab dem 1. Januar 2011 25 Prozent.</P><P>(7) Ma\u00dfgebend f\u00fcr die Prozentanteile gem\u00e4\u00df Absatz 1 Satz 1 Nr. 4 und Absatz 5 ist die in den Vertragsbedingungen oder in der Satzung der betreffenden Organismen oder Einrichtungen dargelegte Anlagepolitik oder, in Ermangelung solcher Angaben, die tats\u00e4chliche Zusammensetzung des Verm\u00f6gens der betreffenden Organismen oder Einrichtungen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE000900000",
+        "name": "\u00a7 7",
+        "title": "R\u00e4umlicher Geltungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000100000"
+        },
+        "body": "<P>Diese Verordnung gilt f\u00fcr Zinszahlungen durch eine inl\u00e4ndische Zahlstelle an wirtschaftliche Eigent\u00fcmer, die ihren Wohnsitz in einem anderen Mitgliedstaat der Europ\u00e4ischen Gemeinschaft haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012800004BJNG000201308",
+        "name": "Abschnitt 2",
+        "title": "Daten\u00fcbermittlung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001002308",
+        "name": "\u00a7 8",
+        "title": "Daten\u00fcbermittlung durch die Zahlstelle",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000201308"
+        },
+        "body": "<P>Wenn der wirtschaftliche Eigent\u00fcmer der Zinsen in einem anderen Mitgliedstaat ans\u00e4ssig ist, hat die inl\u00e4ndische Zahlstelle dem Bundeszentralamt f\u00fcr Steuern zum Zwecke der Weiter\u00fcbermittlung nach \u00a7 9 folgende Daten zu \u00fcbermitteln: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 zu ermittelnden Daten \u00fcber den wirtschaftlichen Eigent\u00fcmer,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Namen und die Anschrift der Zahlstelle,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kontonummer des wirtschaftlichen Eigent\u00fcmers oder, in Ermangelung einer solchen, das Kennzeichen der Forderung, aus der die Zinsen herr\u00fchren,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Gesamtbetrag der Zinsen oder Ertr\u00e4ge und den Gesamtbetrag des Erl\u00f6ses aus der Abtretung, R\u00fcckzahlung oder Einl\u00f6sung, die im Kalenderjahr zugeflossen sind.</LA></DD> </DL>Die Daten\u00fcbermittlung hat bis zum 31. Mai des Jahres zu erfolgen, das auf das Jahr des Zuflusses folgt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001102308",
+        "name": "\u00a7 9",
+        "title": "Datenerhebung und Daten\u00fcbermittlung durch das Bundeszentralamt f\u00fcr\nSteuern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000201308"
+        },
+        "body": "<P>(1) Das Bundeszentralamt f\u00fcr Steuern speichert die nach \u00a7 8 \u00fcbermittelten Daten und \u00fcbermittelt sie zum Zwecke der Besteuerung weiter an die zust\u00e4ndigen Beh\u00f6rden des Mitgliedstaats, in dem der wirtschaftliche Eigent\u00fcmer ans\u00e4ssig ist. Die Daten \u00fcber s\u00e4mtliche w\u00e4hrend eines Kalenderjahres erfolgte Zinszahlungen werden einmal j\u00e4hrlich automatisiert weiter \u00fcbermittelt, und zwar binnen sechs Monaten nach dem Ende des Kalenderjahres.</P><P>(2) Soweit nichts anderes bestimmt ist, gelten f\u00fcr die Daten\u00fcbermittlung nach Absatz 1 die Bestimmungen des EG-Amtshilfe-Gesetzes mit Ausnahme von dessen \u00a7 3.</P><P>(3) Das Bundeszentralamt f\u00fcr Steuern nimmt Daten \u00fcber Zinszahlungen an wirtschaftliche Eigent\u00fcmer, die im Inland ans\u00e4ssig sind, von den zust\u00e4ndigen Beh\u00f6rden der anderen Mitgliedstaaten entgegen, speichert sie und \u00fcbermittelt sie zum Zwecke der Besteuerung an die Landesfinanzverwaltungen weiter.</P><P>(4) Die nach den Abs\u00e4tzen 1 und 3 beim Bundeszentralamt f\u00fcr Steuern gespeicherten Daten werden drei Jahre nach Ablauf des Jahres, in dem die Weiter\u00fcbermittlung erfolgt ist, gel\u00f6scht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012800004BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "\u00dcbergangsbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001202308",
+        "name": "\u00a7 10",
+        "title": "\u00dcbergangszeitraum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000300000"
+        },
+        "body": "<P>Deutschland \u00fcbermittelt Belgien, Luxemburg und \u00d6sterreich durch das Bundeszentralamt f\u00fcr Steuern Daten nach Abschnitt 2 dieser Verordnung, auch wenn diese Staaten w\u00e4hrend des in Artikel 10 der Richtlinie des Rates vom 3. Juni 2003 benannten \u00dcbergangszeitraums ab dem in \u00a7 17 Satz 1 und 2 genannten Zeitpunkt und vorbehaltlich des \u00a7 13 die Bestimmungen des Abschnitts 2 der Richtlinie nicht anwenden m\u00fcssen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001300000",
+        "name": "\u00a7 11",
+        "title": "Besteuerung nach innerstaatlichen Rechtsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000300000"
+        },
+        "body": "<P>Die Erhebung einer Quellensteuer durch Belgien, Luxemburg und \u00d6sterreich als Zahlstellenstaat steht einer Besteuerung der Ertr\u00e4ge durch Deutschland als Wohnsitzstaat des wirtschaftlichen Eigent\u00fcmers gem\u00e4\u00df seinen innerstaatlichen Rechtsvorschriften nicht entgegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001401308",
+        "name": "\u00a7 12",
+        "title": "Einnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000300000"
+        },
+        "body": "<P>Das Bundeszentralamt f\u00fcr Steuern nimmt den der Bundesrepublik Deutschland zustehenden Anteil aus der Erhebung von Quellensteuern durch die Staaten Belgien, Luxemburg und \u00d6sterreich entgegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001500000",
+        "name": "\u00a7 13",
+        "title": "Ausnahmen vom Quellensteuerverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000300000"
+        },
+        "body": "<P>Zur Erm\u00f6glichung einer Abstandnahme von der Erhebung einer Quellensteuer in den Staaten Belgien, Luxemburg und \u00d6sterreich stellt das nach \u00a7 5 Abs. 2 Satz 2 zust\u00e4ndige Finanzamt auf Antrag des wirtschaftlichen Eigent\u00fcmers mit inl\u00e4ndischem steuerlichen Wohnsitz eine Bescheinigung mit folgenden Angaben zur Vorlage bei seiner Zahlstelle aus: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name, Anschrift und Steuer- oder sonstige Identifikationsnummer oder, in Ermangelung einer solchen, Geburtsdatum und -ort des wirtschaftlichen Eigent\u00fcmers;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift der Zahlstelle;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kontonummer des wirtschaftlichen Eigent\u00fcmers oder, in Ermangelung einer solchen, Kennzeichen des Wertpapiers.</LA></DD> </DL>Diese Bescheinigung gilt f\u00fcr die Dauer von h\u00f6chstens drei Jahren. Sie wird jedem wirtschaftlichen Eigent\u00fcmer auf Antrag binnen zwei Monaten ausgestellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001601308",
+        "name": "\u00a7 14",
+        "title": "Vermeidung der Doppelbesteuerung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000300000"
+        },
+        "body": "<P>(1) Bei einem wirtschaftlichen Eigent\u00fcmer mit inl\u00e4ndischem steuerlichen Wohnsitz wird gem\u00e4\u00df den Abs\u00e4tzen 2 und 3 jegliche Doppelbesteuerung, die sich aus der Erhebung von Quellensteuer durch Belgien, Luxemburg und \u00d6sterreich nach \u00a7 11 ergeben k\u00f6nnte, ausgeschlossen.</P><P>(2) Wurden von einem wirtschaftlichen Eigent\u00fcmer vereinnahmte Zinsen im Mitgliedstaat der Zahlstelle mit der Quellensteuer belastet, so wird dem wirtschaftlichen Eigent\u00fcmer eine Steuergutschrift in H\u00f6he der einbehaltenen Steuer gew\u00e4hrt. Zu diesem Zweck rechnet die Bundesrepublik Deutschland entsprechend \u00a7 36 des Einkommensteuergesetzes unter Ausschluss von Anrechnungsregeln in Abkommen zur Vermeidung der Doppelbesteuerung und des \u00a7 34c des Einkommensteuergesetzes die Quellensteuer auf die deutsche Einkommensteuer an. Die Quellensteuer wird auch bei der Festsetzung der Einkommensteuervorauszahlungen ber\u00fccksichtigt.</P><P>(3) Wurden von einem wirtschaftlichen Eigent\u00fcmer vereinnahmte Zinsen \u00fcber die Quellensteuer nach \u00a7 11 hinaus noch mit anderen Arten von ausl\u00e4ndischen Steuern belastet und wird ihm daf\u00fcr nach einem von der Bundesrepublik Deutschland abgeschlossenen Abkommen zur Vermeidung der Doppelbesteuerung oder nach \u00a7 34c des Einkommensteuergesetzes eine Anrechnung dieser ausl\u00e4ndischen Steuer auf die deutsche Einkommensteuer gew\u00e4hrt, so hat diese Anrechnung vor Anwendung von Absatz 2 zu erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001701308",
+        "name": "\u00a7 15",
+        "title": "Umlauff\u00e4hige Schuldtitel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000300000"
+        },
+        "body": "<P>(1) W\u00e4hrend des \u00dcbergangszeitraums nach Artikel 10 Abs. 2 der Richtlinie 2003/48/EG des Rates vom 3. Juni 2003 im Bereich der Besteuerung von Zinsertr\u00e4gen (ABl. EU Nr. L 157 S. 38), sp\u00e4testens jedoch bis zum 31. Dezember 2010, gelten in- und ausl\u00e4ndische Anleihen sowie andere umlauff\u00e4hige Schuldtitel, die erstmals vor dem 1. M\u00e4rz 2001 begeben wurden oder bei denen die zugeh\u00f6rigen Emissionsprospekte vor diesem Zeitpunkt durch die zust\u00e4ndigen Beh\u00f6rden im Sinne der Richtlinie 80/390/EWG des Rates vom 17. M\u00e4rz 1980 zur Koordinierung der Bedingungen f\u00fcr die Erstellung, die Kontrolle und die Vorbereitung des Prospekts, der f\u00fcr die Zulassung von Wertpapieren zur amtlichen Notierung an einer Wertpapierb\u00f6rse zu ver\u00f6ffentlichen ist (ABl. EG Nr. L 100 S. 1), aufgehoben durch die Richtlinie 2001/34/EG des Europ\u00e4ischen Parlaments und des Rates vom 28. Mai 2001 (ABl. EG Nr. L 184 S. 1, Nr. L 217 S. 18), oder durch die zust\u00e4ndigen Beh\u00f6rden von Drittl\u00e4ndern genehmigt wurden, nicht als Forderungen im Sinne des \u00a7 6 Abs. 1 Satz 1 Nr. 1, wenn ab dem 1. M\u00e4rz 2002 keine Folgeemissionen dieser umlauff\u00e4higen Schuldtitel mehr get\u00e4tigt werden. Sofern der \u00dcbergangszeitraum nach \u00a7 10 \u00fcber den 31. Dezember 2010 hinausgeht, finden die Bestimmungen dieser Vorschrift jedoch nur dann weiterhin Anwendung auf die betreffenden umlauff\u00e4higen Schuldtitel, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">diese Bruttozinsklauseln und Klauseln \u00fcber die vorzeitige Abl\u00f6sung enthalten,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zahlstelle des Emittenten in einem Mitgliedstaat niedergelassen ist, der die Quellensteuer nach \u00a7 11 erhebt, und die Zahlstelle die Zinsen unmittelbar an einen wirtschaftlichen Eigent\u00fcmer mit Wohnsitz in einem anderen Mitgliedstaat zahlt.</LA></DD> </DL>T\u00e4tigt eine Regierung oder eine damit verbundene Einrichtung nach der Anlage, die als Beh\u00f6rde handelt oder deren Funktion durch einen internationalen Vertrag anerkannt ist, ab dem 1. M\u00e4rz 2002 eine Folgeemission eines der vorstehend genannten umlauff\u00e4higen Schuldtitel, so gilt die gesamte Emission, das hei\u00dft die erste und alle Folgeemissionen, als Forderung im Sinne des \u00a7 6 Abs. 1 Satz 1 Nr. 1. T\u00e4tigt eine von Satz 3 nicht erfasste Einrichtung ab dem 1. M\u00e4rz 2002 eine Folgeemission eines der vorstehend genannten umlauff\u00e4higen Schuldtitel, so gilt diese Folgeemission als Forderung im Sinne von \u00a7 6 Abs. 1 Satz 1 Nr. 1.</P><P>(2) Diese Vorschrift steht einer Besteuerung von Ertr\u00e4gen aus den in Absatz 1 genannten umlauff\u00e4higen Schuldtiteln nach inl\u00e4ndischen Rechtsvorschriften nicht entgegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012800004BJNG000400000",
+        "name": "Abschnitt 4",
+        "title": "Anwendungs- und Schlussbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001800000",
+        "name": "\u00a7 16",
+        "title": "Andere Quellensteuern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000400000"
+        },
+        "body": "<P>Diese Verordnung steht der Erhebung anderer Arten der Quellensteuer als die nach \u00a7 11 gem\u00e4\u00df den innerstaatlichen Rechtsvorschriften nicht entgegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE002202160",
+        "name": "\u00a7 16a",
+        "title": "Erweiterung des Anwendungsbereichs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000400000"
+        },
+        "body": "<P>(1) Diese Verordnung ist vorbehaltlich der Abs\u00e4tze 2 bis 4 entsprechend anwendbar auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zinszahlungen durch eine inl\u00e4ndische Zahlstelle an wirtschaftliche Eigent\u00fcmer, die in den nachfolgenden Staaten oder abh\u00e4ngigen oder assoziierten Gebieten steuerlich ans\u00e4ssig sind:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Schweizerische Eidgenossenschaft, F\u00fcrstentum Liechtenstein, Republik San Marino, F\u00fcrstentum Monaco, F\u00fcrstentum Andorra,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Guernsey, Jersey, Insel Man, Anguilla, Britische Jungferninseln, Kaimaninseln, Montserrat, Turks- und Caicosinseln, Aruba, Niederl\u00e4ndische Antillen,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die aus den in Nummer 1 genannten Staaten oder Gebieten \u00fcbermittelten Daten \u00fcber Zinszahlungen an wirtschaftliche Eigent\u00fcmer, die im Inland ans\u00e4ssig sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in der Schweizerischen Eidgenossenschaft, im F\u00fcrstentum Liechtenstein, in der Republik San Marino, im F\u00fcrstentum Monaco und im F\u00fcrstentum Andorra sowie auf Guernsey, Jersey, der Insel Man, den Britischen Jungferninseln, den Turks- und Caicosinseln und den Niederl\u00e4ndischen Antillen erhobene Quellensteuer auf Zinszahlungen, von der 75 Prozent der Einnahmen an den Mitgliedstaat der Europ\u00e4ischen Union weiterzuleiten sind, in dem der wirtschaftliche Eigent\u00fcmer ans\u00e4ssig ist.</LA></DD></DL>\u00a7 14 Abs. 3 ist entsprechend anwendbar auf eine Belastung mit anderen Arten von ausl\u00e4ndischen Steuern \u00fcber die Quellensteuer im Sinne des Satzes 1 Nr. 3 hinaus.</P><P>(2) Die inl\u00e4ndischen Zahlstellen und das Bundeszentralamt f\u00fcr Steuern erheben und \u00fcbermitteln Daten nach Abschnitt 2 dieser Verordnung nur bei Zinszahlungen an wirtschaftliche Eigent\u00fcmer, die auf den Britischen Jungferninseln, Guernsey, Jersey, der Insel Man, Montserrat, Aruba oder den Niederl\u00e4ndischen Antillen steuerlich ans\u00e4ssig sind. Solange auf Anguilla sowie den Turks- und Caicosinseln keine direkten Steuern erhoben werden, sind keine Daten zu erheben und zu \u00fcbermitteln bei Zinszahlungen an wirtschaftliche Eigent\u00fcmer, die in diesen Gebieten ans\u00e4ssig sind.</P><P>(3) Das nach \u00a7 5 Abs. 2 Satz 2 zust\u00e4ndige Finanzamt stellt eine Bescheinigung nach \u00a7 13 nur zur Erm\u00f6glichung einer Abstandnahme von der Erhebung einer Quellensteuer im Sinne des Absatzes 1 Satz 1 Nr. 3 im F\u00fcrstentum Andorra sowie auf Guernsey, Jersey, der Insel Man, den Britischen Jungferninseln, den Turks- und Caicosinseln oder den Niederl\u00e4ndischen Antillen aus.</P><P>(4) Zust\u00e4ndige Beh\u00f6rde im Sinne dieser Verordnung ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Schweizerischen Eidgenossenschaft:</LA><LA Size=\"normal\">le Directeur de <ABWFORMAT typ=\"A\" />l'Administration federale des contributions/der Direktor der Eidgen\u00f6ssischen Steuerverwaltung/il direttore <ABWFORMAT typ=\"A\" />dell'Amministrazione federale delle contribuzioni oder sein Vertreter oder Beauftragter,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im F\u00fcrstentum Liechtenstein:</LA><LA Size=\"normal\">die Regierung des F\u00fcrstentums Liechtenstein oder ein Beauftragter,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Republik San Marino:</LA><LA Size=\"normal\">il Segretario di Stato per le Finanze e il Bilancio oder ein Beauftragter,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">im F\u00fcrstentum Monaco:</LA><LA Size=\"normal\">le Conseiller de Gouvernement pour les Finances et <ABWFORMAT typ=\"A\" />l'Economie oder ein Beauftragter,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">im F\u00fcrstentum Andorra:</LA><LA Size=\"normal\">el Ministre encarregat de les Finances oder ein Beauftragter; f\u00fcr die Anwendung des Artikels 3 des Abkommens zwischen der Europ\u00e4ischen Gemeinschaft und dem F\u00fcrstentum Andorra \u00fcber Regelungen, die denen der Richtlinie 2003/48/EG des Rates im Bereich der Besteuerung von Zinsertr\u00e4gen gleichwertig sind, ist die zust\u00e4ndige Beh\u00f6rde jedoch el Ministre encarregat de <ABWFORMAT typ=\"A\" />l'Interior oder ein Beauftragter,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Guernsey:</LA><LA Size=\"normal\">the Administrator of Income Tax,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Jersey:</LA><LA Size=\"normal\">the Comptroller of Income Tax,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf der Insel Man:</LA><LA Size=\"normal\">the Chief Financial Officer of the Treasury or his delegate,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Anguilla:</LA><LA Size=\"normal\">der Leiter des Rechnungswesens der Finanz\u00e4mter,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den Britischen Jungferninseln:</LA><LA Size=\"normal\">der Finanzminister (Financial Secretary),</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den Kaimaninseln:</LA><LA Size=\"normal\">der Finanzminister (Financial Secretary),</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Montserrat:</LA><LA Size=\"normal\">das Dezernat f\u00fcr Steuereinnahmen (Inland Revenue Departement),</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den Turks- und Caicosinseln:</LA><LA Size=\"normal\">die Finanzdienstleistungskommission (Financial Services Commission),</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Aruba:</LA><LA Size=\"normal\">der Finanzminister oder sein Beauftragter,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den Niederl\u00e4ndischen Antillen:</LA><LA Size=\"normal\">der Finanzminister oder sein Beauftragter.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE001902377",
+        "name": "\u00a7 17",
+        "title": "Anwendungsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000400000"
+        },
+        "body": "<P>(1) Vorbehaltlich der Abs\u00e4tze 2 und 3 gilt diese Verordnung nur f\u00fcr Zinszahlungen, die bis zum 31. Dezember 2015 zugeflossen sind.</P><P>(2) Der Abschnitt 3 dieser Verordnung gilt auch f\u00fcr die im Jahr 2016 zu erhebende Quellensteuer.</P><P>(3) \u00a7 16a gilt f\u00fcr Zinszahlungen, die nach dem 31. Dezember 2015 bis zu dem Zeitpunkt zuflie\u00dfen, zu dem eine \u00c4nderung, eine Suspendierung oder eine Beendigung der Anwendung der Abkommen, die mit den in \u00a7 16a Absatz 1 Satz 1 Nummer 1 genannten Staaten oder abh\u00e4ngigen oder assoziierten Gebieten jeweils geschlossen wurden, in Kraft getreten ist. Dies gilt auch f\u00fcr Curacao und Sint Maarten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE002000000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000400000"
+        },
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012800004BJNE002102160",
+        "name": "Anlage",
+        "title": "(zu \u00a7 15) <BR /> Liste der verbundenen Einrichtungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012800004BJNG000400000"
+        },
+        "body": "<P>Folgende Einrichtungen sind als \"mit der Regierung verbundene Einrichtungen, die als Beh\u00f6rde handeln oder deren Funktion durch einen internationalen Vertrag anerkannt ist,\" im Sinne des \u00a7 15 zu betrachten: <DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen innerhalb der Europ\u00e4ischen Union:<DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>Belgien</DT><DD Font=\"normal\"><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Region flamande (Vlaams Gewest) (Fl\u00e4mische Region)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Region wallonne (Wallonische Region)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Region bruxelloise (Brussels Gewest) (Region Br\u00fcssel-Hauptstadt)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Communaute francaise (Franz\u00f6sische Gemeinschaft)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Communaute flamande (Vlaamse Gemeenschap) (Fl\u00e4mische Gemeinschaft)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Communaute germanophone (Deutschsprachige Gemeinschaft)</LA></DD><DT>Bulgarien</DT><DD Font=\"normal\"><LA Size=\"normal\"><F>\u041e\u0431\u0449\u0438\u043d\u0438\u0442\u0435</F> (St\u00e4dte und Gemeinden)<BR /><F>\u0421\u043e\u0446\u0438\u0430\u043b\u043d\u043e\u043e\u0441\u0438\u0433\u0443\u0440\u0438\u0442\u0435\u043b\u043d\u0438 \u0444\u043e\u043d\u0434\u043e\u0432\u0435</F> (Sozialversicherungsfonds)</LA></DD><DT>Spanien</DT><DD Font=\"normal\"><LA Size=\"normal\">Xunta de Calicia (Regierung der autonomen Gemeinschaft Galicien)</LA><LA Size=\"normal\">Junta de <ABWFORMAT typ=\"A\" />Andalucia (Regierung der autonomen Gemeinschaft Andalusien)</LA><LA Size=\"normal\">Junta de Extremadura (Regierung der autonomen Gemeinschaft Extremadura)</LA><LA Size=\"normal\">Junta de Castilla-La Mancha (Regierung der autonomen Gemeinschaft Kastilien-La Mancha)</LA><LA Size=\"normal\">Junta de <ABWFORMAT typ=\"A\" />Castilla-Leon (Regierung der autonomen Gemeinschaft Kastilien und <ABWFORMAT typ=\"A\" />Leon)</LA><LA Size=\"normal\">Gobierno Foral de Navarra (Regierung der autonomen Gemeinschaft Navarra)</LA><LA Size=\"normal\">Govern de les Illes Balears (Regierung der autonomen Gemeinschaft Balearen)</LA><LA Size=\"normal\">Generalitat de Catalunya (Regierung der autonomen Gemeinschaft Katalonien)</LA><LA Size=\"normal\">Generalitat de Valencia (Regierung der autonomen Gemeinschaft Valencia)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Diputacion General de Aragon (Regierung der autonomen Gemeinschaft <ABWFORMAT typ=\"A\" />Aragon)</LA><LA Size=\"normal\">Gobierno de la Islas Canarias (Regierung der autonomen Gemeinschaft Kanarische Inseln)</LA><LA Size=\"normal\">Gobierno de Murcia (Regierung der autonomen Gemeinschaft Murcia)</LA><LA Size=\"normal\">Gobierno de Madrid (Regierung der autonomen Gemeinschaft Madrid)</LA><LA Size=\"normal\">Gobierno de la Comunidad <ABWFORMAT typ=\"A\" />Autonoma del Pais Vasco/Euzkadi (Regierung der autonomen Gemeinschaft Baskenland)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Diputacion Foral de Cuipuzcoa (Provinzrat von Cuipuzcoa)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Diputacion Foral de Vizcaya/Biskaia (Provinzrat von Biskaya)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Diputacion Foral de Alava (Provinzrat von Alava)</LA><LA Size=\"normal\">Ayuntamiento de Madrid (Stadt Madrid)</LA><LA Size=\"normal\">Ayuntamiento de Barcelona (Stadt Barcelona)</LA><LA Size=\"normal\">Cabildo Insular de Gran Canaria (Inselrat Gran Canaria)</LA><LA Size=\"normal\">Cabildo Insular de Tenerife (Inselrat Teneriffa)</LA><LA Size=\"normal\">Instituto de <ABWFORMAT typ=\"A\" />Credito Oficial (Amtliches Kreditinstitut)</LA><LA Size=\"normal\">Instituto <ABWFORMAT typ=\"A\" />Catalan de Finanzas (Katalanisches Finanzinstitut)</LA><LA Size=\"normal\">Instituto Valenciano de Finanzas (Valencianisches Finanzinstitut)</LA></DD><DT>Griechenland</DT><DD Font=\"normal\"><LA Size=\"normal\">Griechische Telekommunikationsanstalt</LA><LA Size=\"normal\">Griechisches Eisenbahnnetz</LA><LA Size=\"normal\">Staatliche Elektrizit\u00e4tswerke</LA></DD><DT>Frankreich</DT><DD Font=\"normal\"><LA Size=\"normal\">La Caisse <ABWFORMAT typ=\"A\" />d'amortissement de la dette social (CADES) (Schuldenfinanzierungskasse der Sozialversicherung)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />L'Agence francaise de developpement (AFD) (Franz\u00f6sische Agentur f\u00fcr Entwicklung)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Reseau Ferre de France (RFF) (Eigentums- und Verwaltungsgesellschaft des franz\u00f6sischen Eisenbahnnetzes)</LA><LA Size=\"normal\">Caisse Nationale des Autoroutes (CNA) (Staatliche Finanzierungskasse der Autobahnen)</LA><LA Size=\"normal\">Assistance publique <ABWFORMAT typ=\"A\" />Hopitaux des Paris (APHP) (Verbund der \u00f6ffentlichen Krankenh\u00e4user des Gro\u00dfraums Paris)</LA><LA Size=\"normal\">Charbonnages des France (CDF) (Zentralverwaltung der staatlichen franz\u00f6sischen Steinkohlef\u00f6rderunternehmen)</LA><LA Size=\"normal\">Entreprise <ABWFORMAT typ=\"A\" />miniere et chimique (EMC.) (Staatliche Bergbau- und Chemieholdinggesellschaft)</LA></DD><DT>Italien</DT><DD Font=\"normal\"><LA Size=\"normal\">Regionen</LA><LA Size=\"normal\">Provinzen</LA><LA Size=\"normal\">St\u00e4dte und Gemeinden</LA><LA Size=\"normal\">Cassa Depositi e Prestiti (Spar- und Kreditkasse)</LA></DD><DT>Lettland</DT><DD Font=\"normal\"><LA Size=\"normal\"><noindex> <ABWFORMAT typ=\"A\" />Pasvaldibas </noindex></LA><LA Size=\"normal\">(Kommunalverwaltungen)</LA></DD><DT>Polen</DT><DD Font=\"normal\"><LA Size=\"normal\"><noindex> gminy </noindex> (Gemeinden)</LA><LA Size=\"normal\"><noindex> powiaty </noindex> (Bezirke)</LA><LA Size=\"normal\"><noindex> <ABWFORMAT typ=\"A\" />wojewodztwa </noindex> (Woidwodschaften)</LA><LA Size=\"normal\"><noindex> <ABWFORMAT typ=\"A\" />zwiazki gmin </noindex> (Gemeindeverb\u00e4nde)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />powiatow (Bezirksverb\u00e4nde)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />wojewodztw</LA><LA Size=\"normal\">(Woiwodschaftsverb\u00e4nde)</LA><LA Size=\"normal\">miastro stoleczne Warszawa</LA><LA Size=\"normal\">(Hauptstadt Warschau)</LA><LA Size=\"normal\"><noindex> Agencja Restrukturyzacji i Modernizacji Rolnictwa </noindex> (Amt f\u00fcr Umstrukturierung und Modernisierung der Landwirtschaft)</LA><LA Size=\"normal\"><noindex> Agencja <ABWFORMAT typ=\"A\" />Nieruchomosci Rolnych </noindex> (Amt f\u00fcr landwirtschaftliche Eigentumsfragen)</LA></DD><DT>Portugal</DT><DD Font=\"normal\"><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Regiao autonoma da Madeira (Autonome Region Madeira)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Regiao autonoma dos Acores (Autonome Region Azoren)</LA></DD><DT>Rum\u00e4nien</DT><DD Font=\"normal\"><LA Size=\"normal\"><F>autorit\u0103\u0163ile administra\u0163iei publice locale</F> (lokale Beh\u00f6rden der \u00f6ffentlichen Verwaltung)</LA></DD><DT>Slowakei</DT><DD Font=\"normal\"><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />mesta a obce (Gemeinden)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Zeleznice Slovenskey republiky (Slowakische Eisenbahngesellschaft)</LA><LA Size=\"normal\"><noindex> <ABWFORMAT typ=\"A\" />Statny fond cestneho hospodarstva </noindex> (Staatlicher Stra\u00dfenfonds)</LA><LA Size=\"normal\"><noindex> <ABWFORMAT typ=\"A\" />Slovenkske elektrarne </noindex> (Slowakische Kraftwerke)</LA><LA Size=\"normal\"><noindex> <ABWFORMAT typ=\"A\" />Vodohospodarska vystavba </noindex> (Wasserwirtschaftsgesellschaft)</LA></DD></DL></LA></DD></DL></LA></DD></DL></LA></DD></DL></LA></DD></DL>St\u00e4dte und Gemeinden <DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">internationale Einrichtungen:</LA><LA Size=\"normal\">Europ\u00e4ische Bank f\u00fcr Wiederaufbau und Entwicklung</LA><LA Size=\"normal\">Europ\u00e4ische Investitionsbank</LA><LA Size=\"normal\">Asiatische Entwicklungsbank</LA><LA Size=\"normal\">Afrikanische Entwicklungsbank</LA><LA Size=\"normal\">Weltbank/IBRD/IWF</LA><LA Size=\"normal\">Internationale Finanzkorporation</LA><LA Size=\"normal\">Interamerikanische Entwicklungsbank</LA><LA Size=\"normal\">Sozialentwicklungsfonds des Europarats</LA><LA Size=\"normal\">EURATOM</LA><LA Size=\"normal\">Europ\u00e4ische Gemeinschaft</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />Corporacion Andina de Fomento (CAF) (Anden-Entwicklungsgesellschaft)</LA><LA Size=\"normal\">Eurofima</LA><LA Size=\"normal\">Europ\u00e4ische Gemeinschaft f\u00fcr Kohle und Stahl</LA><LA Size=\"normal\">Nordische Investitionsbank</LA><LA Size=\"normal\">Karibische Entwicklungsbank</LA><LA Size=\"normal\">Die Bestimmungen des \u00a7 15 gelten unbeschadet internationaler Verpflichtungen, die die Mitgliedstaaten in Bezug auf die oben aufgef\u00fchrten internationalen Einrichtungen eingegangen sind.</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Einrichtungen in Drittl\u00e4ndern:</LA><LA Size=\"normal\">Einrichtungen, die folgende Kriterien erf\u00fcllen:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Einrichtung gilt nach im Geltungsbereich der Verordnung anzuwendenden Kriterien eindeutig als \u00f6ffentliche K\u00f6rperschaft.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sie ist eine von der Regierung kontrollierte Einrichtung, die gemeinwirtschaftliche Aktivit\u00e4ten verwaltet und finanziert, wozu in erster Linie die Bereitstellung von gemeinwirtschaftlichen (nicht marktbestimmten) G\u00fctern und Dienstleistungen zum Nutzen der Allgemeinheit geh\u00f6rt.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sie legt regelm\u00e4\u00dfig in gro\u00dfem Umfang Anleihen auf.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Der betreffende Staat kann gew\u00e4hrleisten, dass die betreffende Einrichtung im Falle von Bruttozinsklauseln keine vorzeitige Tilgung vornehmen wird.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

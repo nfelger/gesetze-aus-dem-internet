@@ -1,0 +1,686 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR150900012",
+    "firstPublished": "2012-07-12",
+    "sourceTimestamp": "20210615213223",
+    "titleShort": "Vergabeverordnung Verteidigung und Sicherheit",
+    "titleLong": "Vergabeverordnung f\u00fcr die Bereiche Verteidigung und Sicherheit zur Umsetzung der Richtlinie 2009/81/EG des Europ\u00e4ischen Parlaments und des Rates vom 13. Juli 2009 \u00fcber die Koordinierung der Verfahren zur Vergabe bestimmter Bau-, Liefer- und Dienstleistungsauftr\u00e4ge in den Bereichen Verteidigung und Sicherheit und zur \u00c4nderung der Richtlinien 2004/17/EG und 2004/18/EG <FnR ID=\"f777502_01_BJNR150900012\" />",
+    "abbreviation": "VSVgV",
+    "slug": "vsvgv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2012, 1509",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 5 G v. 12.11.2020 I 2392",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"1\" Group=\"column\" ID=\"f777502_01_BJNR150900012\" Pos=\"exp\" Postfix=\")\"><noindex>ABl. L 216 vom 20.8.2009, S. 76.</noindex></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 19.7.2012 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Umsetzung der<BR />       EGRL 81/2009            (CELEX Nr: 32009L0081)<BR />       EGRL 81/2009            (CELEX Nr: 32009L0081) vgl. <BR />                                Art. 2 d. G v. 25.3.2020 I 674<BR />       EURL 23/2014            (CELEX Nr: 32014L0023) vgl. <BR />                                Art. 2 d. G v. 25.3.2020 I 674<BR />       EURL 24/2014            (CELEX Nr: 32014L0024) vgl. <BR />                                Art. 2 d. G v. 25.3.2020 I 674 <BR />       EURL 25/2014            (CELEX Nr: 32014L0025) vgl. <BR />                                Art. 2 d. G v. 25.3.2020 I 674 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 97 Absatz 6, des \u00a7 127 Nummer 1, 3 und 8 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen, von denen \u00a7 127 Nummer 1 durch Artikel 1 Nummer 23 Buchstabe a des Gesetzes vom 20. April 2009 (BGBl. I S. 790) ge\u00e4ndert, Nummer 3 durch Artikel 1 Nummer 10 des Gesetzes vom 7. Dezember 2011 (BGBl. I S. 2570) neu gefasst und \u00a7 127 Nummer 8 zuletzt durch Artikel 1 Nummer 23 Buchstabe e des Gesetzes vom 20. April 2009 (BGBl. I S. 790) ge\u00e4ndert worden ist, verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR150900012BJNG000100000",
+        "name": "Teil 1",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000202118",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>Diese Verordnung gilt f\u00fcr die Vergabe von verteidigungs- oder sicherheitsspezifischen \u00f6ffentlichen Auftr\u00e4gen im Sinne des \u00a7 104 Absatz 1 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen, die dem Teil 4 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen unterfallen und durch \u00f6ffentliche Auftraggeber im Sinne des \u00a7 99 und Sektorenauftraggeber im Sinne des \u00a7 100 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen vergeben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000302125",
+        "name": "\u00a7 2",
+        "title": "Anzuwendende Vorschriften f\u00fcr Liefer-, Dienstleistungs- und Bauauftr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>(1) F\u00fcr die Vergabe von verteidigungs- oder sicherheitsspezifischen Liefer- und Dienstleistungsauftr\u00e4gen sind die Vorschriften dieser Verordnung anzuwenden.</P><P>(2) F\u00fcr die Vergabe von verteidigungs- oder sicherheitsspezifischen Bauauftr\u00e4gen sind die \u00a7\u00a7 1 bis 4, 6 bis 9 und 38 bis 42 sowie 44 und 45 anzuwenden. Im \u00dcbrigen ist Abschnitt 3 der Vergabe- und Vertragsordnung f\u00fcr Bauleistungen (VOB/A) in der Fassung der Bekanntmachung vom 31. Januar 2019 (BAnz AT 19.02.2019 B2) anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000401118",
+        "name": "\u00a7 3",
+        "title": "Sch\u00e4tzung des Auftragswertes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>(1) Bei der Sch\u00e4tzung des Auftragswertes ist von der voraussichtlichen Gesamtverg\u00fctung ohne Umsatzsteuer f\u00fcr die vorgesehene Leistung einschlie\u00dflich etwaiger Pr\u00e4mien oder Zahlungen an Bewerber oder Bieter auszugehen. Dabei sind alle Optionen und etwaige Vertragsverl\u00e4ngerungen zu ber\u00fccksichtigen.</P><P>(2) Der Wert eines beabsichtigten Auftrags darf nicht in der Absicht gesch\u00e4tzt oder aufgeteilt werden, den Auftrag der Anwendung dieser Verordnung zu entziehen.</P><P>(3) Bei regelm\u00e4\u00dfig wiederkehrenden Auftr\u00e4gen oder Dauerauftr\u00e4gen \u00fcber Liefer- oder Dienstleistungen ist der Auftragswert zu sch\u00e4tzen<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entweder auf der Grundlage des tats\u00e4chlichen Gesamtwertes entsprechender aufeinanderfolgender Auftr\u00e4ge aus dem vorangegangenen Haushaltsjahr; dabei sind voraussichtliche \u00c4nderungen bei Mengen oder Kosten m\u00f6glichst zu ber\u00fccksichtigen, die w\u00e4hrend der zw\u00f6lf Monate zu erwarten sind, die auf den urspr\u00fcnglichen Auftrag folgen, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf der Grundlage des gesch\u00e4tzten Gesamtwertes aufeinanderfolgender Auftr\u00e4ge, die w\u00e4hrend der auf die erste Lieferung folgenden zw\u00f6lf Monate oder w\u00e4hrend des auf die erste Lieferung folgenden Haushaltsjahres, wenn dieses l\u00e4nger als zw\u00f6lf Monate ist, vergeben werden.</LA></DD></DL></P><P>(4) Bei Auftr\u00e4gen \u00fcber Liefer- oder Dienstleistungen, f\u00fcr die kein Gesamtpreis angegeben wird, ist Berechnungsgrundlage f\u00fcr den gesch\u00e4tzten Auftragswert<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei zeitlich begrenzten Auftr\u00e4gen mit einer Laufzeit von bis zu 48 Monaten der Gesamtwert f\u00fcr die Laufzeit dieser Auftr\u00e4ge;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Auftr\u00e4gen mit unbestimmter Laufzeit oder mit einer Laufzeit von mehr als 48 Monaten der 48-fache Monatswert.</LA></DD></DL></P><P>(5) Bei Bauleistungen ist neben dem Auftragswert der Bauauftr\u00e4ge der gesch\u00e4tzte Wert aller Lieferleistungen zu ber\u00fccksichtigen, die f\u00fcr die Ausf\u00fchrungen der Bauleistungen erforderlich sind und von Auftraggebern zur Verf\u00fcgung gestellt werden.</P><P>(6) Der Wert einer Rahmenvereinbarung wird auf der Grundlage des gesch\u00e4tzten Gesamtwertes aller Einzelauftr\u00e4ge berechnet, die w\u00e4hrend deren Laufzeit geplant sind.</P><P>(7) Besteht die beabsichtigte Beschaffung aus mehreren Losen, f\u00fcr die jeweils ein gesonderter Auftrag vergeben wird, ist bei der Sch\u00e4tzung der Wert aller Lose zugrunde zu legen. Bei Lieferauftr\u00e4gen gilt dies nur f\u00fcr Lose \u00fcber gleichartige Lieferungen. Bei Planungsleistungen gilt dies nur f\u00fcr Lose \u00fcber gleichartige Leistungen. Erreicht oder \u00fcberschreitet der Gesamtwert den ma\u00dfgeblichen EU-Schwellenwert, gilt diese Verordnung f\u00fcr die Vergabe jedes Loses. Dies gilt nicht bis zu einer Summe der Werte dieser Lose von 20 Prozent des Gesamtwertes ohne Umsatzsteuer f\u00fcr<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Liefer- oder Dienstleistungsauftr\u00e4ge mit einem Wert unter 80\u00a0000 Euro und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bauauftr\u00e4ge mit einem Wert unter 1\u00a0000\u00a0000 Euro.</LA></DD></DL></P><P>(8) Ma\u00dfgeblicher Zeitpunkt f\u00fcr die Sch\u00e4tzung des Auftragswertes ist der Tag, an dem die Bekanntmachung der beabsichtigten Auftragsvergabe abgesendet oder das Vergabeverfahren auf andere Weise eingeleitet wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000501118",
+        "name": "\u00a7 4",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>(1) Krise ist jede Situation in einem Mitgliedstaat der Europ\u00e4ischen Union oder einem Drittland, in der ein Schadensereignis eingetreten ist, das deutlich \u00fcber die Ausma\u00dfe von Schadensereignissen des t\u00e4glichen Lebens hinausgeht und <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dabei Leben und Gesundheit zahlreicher Menschen erheblich gef\u00e4hrdet oder einschr\u00e4nkt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine erhebliche Auswirkung auf Sachwerte hat oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">lebensnotwendige Versorgungsma\u00dfnahmen f\u00fcr die Bev\u00f6lkerung erforderlich macht.</LA></DD></DL>Eine Krise liegt auch vor, wenn konkrete Umst\u00e4nde daf\u00fcr vorliegen, dass ein solches Schadensereignis unmittelbar bevorsteht. Bewaffnete Konflikte und Kriege sind Krisen im Sinne dieser Verordnung.</P><P>(2) Unterauftrag ist ein zwischen einem erfolgreichen Bieter und einem oder mehreren Unternehmen geschlossener entgeltlicher Vertrag \u00fcber die Ausf\u00fchrung des betreffenden Auftrags oder von Teilen des Auftrags.</P><P>(3) Forschung und Entwicklung sind alle T\u00e4tigkeiten, die Grundlagenforschung, angewandte Forschung und experimentelle Entwicklung umfassen, wobei letztere die Herstellung von technologischen Demonstrationssystemen einschlie\u00dfen kann. Technologische Demonstrationssysteme sind Vorrichtungen zur Demonstration der Leistungen eines neuen Konzepts oder einer neuen Technologie in einem relevanten oder repr\u00e4sentativen Umfeld.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Dienstleistungsauftr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>(1) Auftr\u00e4ge \u00fcber Dienstleistungen gem\u00e4\u00df Anhang I der Richtlinie 2009/81/EG unterliegen den Vorschriften dieser Verordnung.</P><P>(2) Auftr\u00e4ge \u00fcber Dienstleistungen gem\u00e4\u00df Anhang II der Richtlinie 2009/81/EG unterliegen ausschlie\u00dflich den \u00a7\u00a7 15 und 35.</P><P>(3) Auftr\u00e4ge, die sowohl Dienstleistungen gem\u00e4\u00df Anhang I als auch solche des Anhangs II der Richtlinie 2009/81/EG umfassen, unterliegen den Vorschriften dieser Verordnung, wenn der Wert der Dienstleistungen nach Anhang I der Richtlinie 2009/81/EG \u00fcberwiegt. \u00dcberwiegt der Wert der Dienstleistungen nach Anhang II der Richtlinie 2009/81/EG, unterliegen diese Auftr\u00e4ge ausschlie\u00dflich den \u00a7\u00a7 15 und 35.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Wahrung der Vertraulichkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>(1) Auftraggeber, Bewerber, Bieter und Auftragnehmer wahren gegenseitig die Vertraulichkeit aller Angaben und Unterlagen. F\u00fcr die Anforderungen an den Schutz von Verschlusssachen einschlie\u00dflich ihrer Weitergabe an Unterauftragnehmer gilt \u00a7 7.</P><P>(2) Sofern in dieser Verordnung nichts anderes bestimmt ist, d\u00fcrfen Auftraggeber nach anderen Rechtsvorschriften vorbehaltlich vertraglich erworbener Rechte keine von den Bewerbern, Bietern und Auftragnehmern \u00fcbermittelte und von diesen als vertraulich eingestufte Information weitergeben. Dies gilt insbesondere f\u00fcr technische Geheimnisse und Betriebsgeheimnisse.</P><P>(3) Bewerber, Bieter und Auftragnehmer d\u00fcrfen keine von den Auftraggebern als vertraulich eingestufte Information an Dritte weitergeben. Dies gilt nicht f\u00fcr die Unterauftragsvergabe, wenn die Weitergabe der als vertraulich eingestuften Information f\u00fcr den Teilnahmeantrag, das Angebot oder die Auftragsausf\u00fchrung erforderlich ist. Bewerber, Bieter und Auftragnehmer m\u00fcssen die Wahrung der Vertraulichkeit mit den in Aussicht genommenen Unterauftragnehmern vereinbaren. Auftraggeber k\u00f6nnen an Bewerber, Bieter und Auftragnehmer weitere Anforderungen zur Wahrung der Vertraulichkeit stellen, die mit dem Auftragsgegenstand im sachlichen Zusammenhang stehen und durch ihn gerechtfertigt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000802118",
+        "name": "\u00a7 7",
+        "title": "Anforderungen an den Schutz von Verschlusssachen durch Unternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>(1) Im Falle eines Verschlusssachenauftrags im Sinne des \u00a7 104 Absatz 3 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen m\u00fcssen Auftraggeber in der Bekanntmachung oder den Vergabeunterlagen die erforderlichen Ma\u00dfnahmen, Anforderungen und Auflagen benennen, die ein Unternehmen als Bewerber, Bieter oder Auftragnehmer sicherstellen oder erf\u00fcllen muss, um den Schutz von Verschlusssachen entsprechend dem jeweiligen Geheimhaltungsgrad zu gew\u00e4hrleisten. Auftraggeber m\u00fcssen in der Bekanntmachung oder den Vergabeunterlagen auch die erforderlichen Ma\u00dfnahmen, Anforderungen und Auflagen benennen, die Unterauftragnehmer sicherstellen m\u00fcssen, um den Schutz von Verschlusssachen entsprechend dem jeweiligen Geheimhaltungsgrad zu gew\u00e4hrleisten, und deren Einhaltung der Bewerber, Bieter oder Auftragnehmer mit dem Unterauftragnehmer vereinbaren muss.</P><P>(2) Auftraggeber m\u00fcssen insbesondere verlangen, dass der Teilnahmeantrag oder das Angebot folgende Angaben enth\u00e4lt:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wenn der Auftrag Verschlusssachen des Geheimhaltungsgrades \u201eVS-VERTRAULICH\u201c oder h\u00f6her umfasst, Erkl\u00e4rungen des Bewerbers oder Bieters und der bereits in Aussicht genommenen Unterauftragnehmer, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">ob und in welchem Umfang f\u00fcr diese Sicherheitsbescheide des Bundesministeriums f\u00fcr Wirtschaft und Energie oder entsprechender Landesbeh\u00f6rden bestehen oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">dass sie bereit sind, alle notwendigen Ma\u00dfnahmen und Anforderungen zu erf\u00fcllen, die zum Erhalt eines Sicherheitsbescheids zum Zeitpunkt der Auftragsausf\u00fchrung vorausgesetzt werden;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verpflichtungserkl\u00e4rungen <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Bewerbers oder Bieters und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der bereits in Aussicht genommenen Unterauftragnehmer</LA></DD></DL>w\u00e4hrend der gesamten Vertragsdauer sowie nach K\u00fcndigung, Aufl\u00f6sung oder Ablauf des Vertrags den Schutz aller in ihrem Besitz befindlichen oder ihnen zur Kenntnis gelangter Verschlusssachen gem\u00e4\u00df den einschl\u00e4gigen Rechts- und Verwaltungsvorschriften zu gew\u00e4hrleisten;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verpflichtungserkl\u00e4rungen des Bewerbers oder Bieters, von Unterauftragnehmern, an die er im Zuge der Auftragsausf\u00fchrung Unterauftr\u00e4ge vergibt, Erkl\u00e4rungen und Verpflichtungserkl\u00e4rungen gem\u00e4\u00df den Nummern 1 und 2 einzuholen und vor der Vergabe des Unterauftrags den Auftraggebern vorzulegen.</LA></DD></DL></P><P>(3) Muss einem Bewerber, Bieter oder bereits in Aussicht genommenen Unterauftragnehmern f\u00fcr den Teilnahmeantrag oder das Erstellen eines Angebots der Zugang zu Verschlusssachen des Geheimhaltungsgrades \u201eVS-VERTRAULICH\u201c oder h\u00f6her gew\u00e4hrt werden, verlangen Auftraggeber bereits vor Gew\u00e4hrung dieses Zugangs einen Sicherheitsbescheid vom Bundesministerium f\u00fcr Wirtschaft und Energie oder von entsprechenden Landesbeh\u00f6rden und die Verpflichtungserkl\u00e4rungen nach Absatz 2 Nummer 2 und 3. Kann zu diesem Zeitpunkt noch kein Sicherheitsbescheid durch das Bundesministerium f\u00fcr Wirtschaft und Energie oder durch entsprechende Landesbeh\u00f6rden ausgestellt werden und machen Auftraggeber von der M\u00f6glichkeit Gebrauch, Zugang zu diesen Verschlusssachen zu gew\u00e4hren, m\u00fcssen Auftraggeber die zum Einsatz kommenden Mitarbeiter des Unternehmens \u00fcberpr\u00fcfen und erm\u00e4chtigen, bevor diesen Zugang gew\u00e4hrt wird.</P><P>(4) Muss einem Bewerber, Bieter oder bereits in Aussicht genommenen Unterauftragnehmern f\u00fcr den Teilnahmeantrag oder das Erstellen eines Angebots der Zugang zu Verschlusssachen des Geheimhaltungsgrades \u201eVS-NUR F\u00dcR DEN DIENSTGEBRAUCH\u201c gew\u00e4hrt werden, verlangen Auftraggeber bereits vor Gew\u00e4hrung dieses Zugangs die Verpflichtungserkl\u00e4rungen nach Absatz 2 Nummer 2 und 3.</P><P>(5) Kommt der Bewerber oder Bieter dem Verlangen des Auftraggebers nach den Abs\u00e4tzen 3 und 4 nicht nach, die Verpflichtungserkl\u00e4rungen vorzulegen, oder k\u00f6nnen auch im weiteren Verfahren weder ein Sicherheitsbescheid vom Bundesministerium f\u00fcr Wirtschaft und Energie oder von entsprechenden Landesbeh\u00f6rden ausgestellt noch Mitarbeiter zum Zugang erm\u00e4chtigt werden, m\u00fcssen Auftraggeber den Bewerber oder Bieter von der Teilnahme am Vergabeverfahren ausschlie\u00dfen.</P><P>(6) Auftraggeber k\u00f6nnen Bewerbern, Bietern oder bereits in Aussicht genommenen Unterauftragnehmern, die noch nicht in der Geheimschutzbetreuung des Bundesministeriums f\u00fcr Wirtschaft und Energie oder entsprechender Landesbeh\u00f6rden sind oder deren Personal noch nicht \u00fcberpr\u00fcft und erm\u00e4chtigt ist, zus\u00e4tzliche Zeit gew\u00e4hren, um diese Anforderungen zu erf\u00fcllen. In diesem Fall m\u00fcssen Auftraggeber diese M\u00f6glichkeit und die Frist in der Bekanntmachung mitteilen.</P><P>(7) Das Bundesministerium f\u00fcr Wirtschaft und Energie erkennt Sicherheitsbescheide und Erm\u00e4chtigungen anderer Mitgliedstaaten an, wenn diese den nach den Bestimmungen des Sicherheits\u00fcberpr\u00fcfungsgesetzes und des \u00a7 21 Absatz 4 und 6 der Allgemeinen Verwaltungsvorschrift des Bundesministeriums des Innern zum materiellen und organisatorischen Schutz von Verschlusssachen<FnR ID=\"f777502_02_BJNR150900012BJNE000802118\" /> erforderlichen Sicherheitsbescheiden und Erm\u00e4chtigungen gleichwertig sind. Auf begr\u00fcndetes Ersuchen der auftraggebenden Beh\u00f6rde hat das Bundesministerium f\u00fcr Wirtschaft und Energie weitere Untersuchungen zur Sicherstellung des Schutzes von Verschlusssachen zu veranlassen und deren Ergebnisse zu ber\u00fccksichtigen. Das Bundesministerium f\u00fcr Wirtschaft und Energie kann im Einvernehmen mit der Nationalen Sicherheitsbeh\u00f6rde f\u00fcr den Geheimschutz von weiteren Ermittlungen absehen.</P><P>(8) Das Bundesministerium f\u00fcr Wirtschaft und Energie kann die Nationale Sicherheitsbeh\u00f6rde des Landes, in dem der Bewerber oder Bieter oder bereits in Aussicht genommene Unterauftragnehmer ans\u00e4ssig ist, oder die Designierte Sicherheitsbeh\u00f6rde dieses Landes ersuchen, zu \u00fcberpr\u00fcfen, ob die voraussichtlich genutzten R\u00e4umlichkeiten und Einrichtungen, die vorgesehenen Produktions- und Verwaltungsverfahren, die Verfahren zur Behandlung von Informationen oder die pers\u00f6nliche Lage des im Rahmen des Auftrags voraussichtlich eingesetzten Personals den einzuhaltenden Sicherheitsvorschriften entsprechen.</P>",
+        "footnotes": "<Footnote FnZ=\"2\" Group=\"column\" ID=\"f777502_02_BJNR150900012BJNE000802118\" Pos=\"exp\" Postfix=\")\">VS-Anweisung \u2013 VSA vom 31. M\u00e4rz 2006 in der Fassung vom 26. April 2010 (GMBl 2010 S. 846).</Footnote>",
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Versorgungssicherheit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>(1) Auftraggeber legen in der Bekanntmachung oder den Vergabeunterlagen ihre Anforderungen an die Versorgungssicherheit fest.</P><P>(2) Auftraggeber k\u00f6nnen insbesondere verlangen, dass der Teilnahmeantrag oder das Angebot folgende Angaben enth\u00e4lt:<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine Bescheinigung oder Unterlagen, die belegen, dass der Bewerber oder Bieter in Bezug auf G\u00fcterausfuhr, -verbringung und -durchfuhr die mit der Auftragsausf\u00fchrung verbundenen Verpflichtungen erf\u00fcllen kann, wozu auch unterst\u00fctzende Unterlagen der zust\u00e4ndigen Beh\u00f6rden des oder der betreffenden Mitgliedstaaten z\u00e4hlen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Information \u00fcber alle f\u00fcr den Auftraggeber aufgrund von Ausfuhrkontroll- oder Sicherheitsbeschr\u00e4nkungen geltenden Einschr\u00e4nkungen bez\u00fcglich der Angabepflicht, Verbringung oder Verwendung der G\u00fcter und Dienstleistungen oder \u00fcber Festlegungen zu diesen G\u00fctern und Dienstleistungen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Bescheinigung oder Unterlagen, die belegen, dass Organisation und Standort der Lieferkette des Bewerbers oder Bieters ihm erlauben, die vom Auftraggeber in der Bekanntmachung oder den Vergabeunterlagen genannten Anforderungen an die Versorgungssicherheit zu erf\u00fcllen, und die Zusage des Bewerbers oder Bieters, sicherzustellen, dass m\u00f6gliche \u00c4nderungen in seiner Lieferkette w\u00e4hrend der Auftragsausf\u00fchrung die Erf\u00fcllung dieser Anforderungen nicht beeintr\u00e4chtigen werden;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Zusage des Bewerbers oder Bieters, die zur Deckung m\u00f6glicher Bedarfssteigerungen des Auftraggebers infolge einer Krise erforderlichen Kapazit\u00e4ten unter zu vereinbarenden Bedingungen zu schaffen oder beizubehalten;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>unterst\u00fctzende Unterlagen bez\u00fcglich der Deckung des zus\u00e4tzlichen Bedarfs des Auftraggebers infolge einer Krise, die durch die f\u00fcr den Bewerber oder Bieter zust\u00e4ndige nationale Beh\u00f6rde ausgestellt worden sind;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Zusage des Bewerbers oder Bieters, f\u00fcr Wartung, Modernisierung oder Anpassung der im Rahmen des Auftrags gelieferten G\u00fcter zu sorgen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>die Zusage des Bewerbers oder Bieters, den Auftraggeber rechtzeitig \u00fcber jede \u00c4nderung seiner Organisation, Lieferkette oder Unternehmensstrategie zu unterrichten, die seine Verpflichtungen dem Auftraggeber gegen\u00fcber ber\u00fchren k\u00f6nnte;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>die Zusage des Bewerbers oder Bieters, dem Auftraggeber unter zu vereinbarenden Bedingungen alle speziellen Mittel zur Verf\u00fcgung zu stellen, die f\u00fcr die Herstellung von Ersatzteilen, Bauteilen, Baus\u00e4tzen und speziellen Testger\u00e4ten erforderlich sind, einschlie\u00dflich technischer Zeichnungen, Lizenzen und Bedienungsanleitungen, sofern er nicht mehr in der Lage sein sollte, diese G\u00fcter zu liefern.</LA></DD></DL></P><P>(3) Von einem Bieter darf nicht verlangt werden, eine Zusage eines Mitgliedstaats einzuholen, welche die Freiheit dieses Mitgliedstaats einschr\u00e4nken w\u00fcrde, im Einklang mit internationalen Vertr\u00e4gen und europarechtlichen Rechtsvorschriften seine eigenen Kriterien f\u00fcr die Erteilung einer Ausfuhr-, Verbringungs- oder Durchfuhrgenehmigung unter den zum Zeitpunkt der Genehmigungsentscheidung geltenden Bedingungen anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001001118",
+        "name": "\u00a7 9",
+        "title": "Unterauftr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000100000"
+        },
+        "body": "<P>(1) Auftraggeber k\u00f6nnen den Bieter auffordern, in seinem Angebot den Teil des Auftrags, den er im Wege von Unterauftr\u00e4gen an Dritte zu vergeben beabsichtigt, und die bereits vorgeschlagenen Unterauftragnehmer sowie den Gegenstand der Unterauftr\u00e4ge bekannt zu geben. Sie k\u00f6nnen au\u00dferdem verlangen, dass der Auftragnehmer ihnen jede im Zuge der Ausf\u00fchrung des Auftrags eintretende \u00c4nderung auf Ebene der Unterauftragnehmer mitteilt.</P><P>(2) Auftragnehmer d\u00fcrfen ihre Unterauftragnehmer f\u00fcr alle Unterauftr\u00e4ge frei w\u00e4hlen, soweit Auftraggeber keine Anforderungen an die Erteilung der Unterauftr\u00e4ge im wettbewerblichen Verfahren gem\u00e4\u00df Absatz 3 Nummer 1 und 2 stellen. Von Auftragnehmern darf insbesondere nicht verlangt werden, potenzielle Unterauftragnehmer anderer EU-Mitgliedstaaten aus Gr\u00fcnden der Staatsangeh\u00f6rigkeit zu diskriminieren.</P><P>(3) Folgende Anforderungen k\u00f6nnen Auftraggeber an die Erteilung von Unterauftr\u00e4gen im wettbewerblichen Verfahren stellen:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auftraggeber k\u00f6nnen Auftragnehmer verpflichten, einen Teil des Auftrags an Dritte weiter zu vergeben. Dazu benennen Auftraggeber eine Wertspanne unter Einschluss eines Mindest- und H\u00f6chstprozentsatzes. Der H\u00f6chstprozentsatz darf 30 Prozent des Auftragswerts nicht \u00fcbersteigen. Diese Spanne muss im angemessenen Verh\u00e4ltnis zum Gegenstand und zum Wert des Auftrags und zur Art des betroffenen Industriesektors stehen, einschlie\u00dflich des auf diesem Markt herrschenden Wettbewerbsniveaus und der einschl\u00e4gigen technischen F\u00e4higkeiten der industriellen Basis. Jeder Prozentsatz der Unterauftragsvergabe, der in die angegebene Wertspanne f\u00e4llt, gilt als Erf\u00fcllung der Verpflichtung zur Vergabe von Unterauftr\u00e4gen. Auftragnehmer vergeben die Unterauftr\u00e4ge gem\u00e4\u00df den \u00a7\u00a7 38 bis 41. In ihrem Angebot geben die Bieter an, welchen Teil oder welche Teile ihres Angebots sie durch Unterauftr\u00e4ge zu vergeben beabsichtigen, um die Wertspanne zu erf\u00fcllen. Auftraggeber k\u00f6nnen die Bieter auffordern, den oder die Teile ihres Angebots, den sie \u00fcber den geforderten Prozentsatz hinaus durch Unterauftr\u00e4ge zu vergeben beabsichtigen, sowie die bereits in Aussicht genommenen Unterauftragnehmer offenzulegen.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auftraggeber k\u00f6nnen verlangen, dass Auftragnehmer die Bestimmungen der \u00a7\u00a7 38 bis 41 auf alle oder bestimmte Unterauftr\u00e4ge anwenden, die diese an Dritte zu vergeben beabsichtigen.</LA></DD></DL></P><P>(4) Die in den Abs\u00e4tzen 1 und 3 genannten Anforderungen geben die Auftraggeber in der Bekanntmachung oder den Vergabeunterlagen an.</P><P>(5) Auftraggeber d\u00fcrfen einen vom Bieter oder Auftragnehmer ausgew\u00e4hlten Unterauftragnehmer nur auf Grundlage der Kriterien ablehnen, die f\u00fcr den Hauptauftrag gelten und in der Bekanntmachung oder den Vergabeunterlagen angegeben wurden. Lehnen Auftraggeber einen Unterauftragnehmer ab, m\u00fcssen sie dies gegen\u00fcber dem betroffenen Bieter oder dem Auftragnehmer in Textform nach \u00a7 126b des B\u00fcrgerlichen Gesetzbuchs begr\u00fcnden und darlegen, warum der Unterauftragnehmer ihres Erachtens die f\u00fcr den Hauptauftrag vorgegebenen Kriterien nicht erf\u00fcllt.</P><P>(6) Die Haftung des Auftragnehmers gegen\u00fcber dem Auftraggeber bleibt von den Vorschriften dieser Verordnung zur Unterauftragsvergabe unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR150900012BJNG000200000",
+        "name": "Teil 2",
+        "title": "Vergabeverfahren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001101118",
+        "name": "\u00a7 10",
+        "title": "Grunds\u00e4tze des Vergabeverfahrens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) F\u00fcr die Ber\u00fccksichtigung mittelst\u00e4ndischer Interessen gilt \u00a7 97 Absatz 4 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen. Mehrere Teil- oder Fachlose d\u00fcrfen gem\u00e4\u00df \u00a7 97 Absatz 4 Satz 3 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen zusammen vergeben werden, wenn wirtschaftliche oder technische Gr\u00fcnde dies erfordern, insbesondere weil die Leistungsbeschreibung die Systemf\u00e4higkeit der Leistung verlangt und dies durch den Auftragsgegenstand gerechtfertigt ist.</P><P>(2) Hat ein Bieter oder Bewerber vor Einleitung des Vergabeverfahrens den Auftraggeber beraten oder sonst unterst\u00fctzt, so hat der Auftraggeber sicherzustellen, dass der Wettbewerb durch die Teilnahme des Bieters oder Bewerbers nicht verf\u00e4lscht wird.</P><P>(3) Die Allgemeinen Vertragsbedingungen f\u00fcr die Ausf\u00fchrung von Leistungen (VOL/B) sind grunds\u00e4tzlich zum Vertragsgegenstand zu machen.</P><P>(4) Die Durchf\u00fchrung von Vergabeverfahren zur Markterkundung und zum Zwecke der Ertragsberechnung ist unzul\u00e4ssig.</P><P>(5) Bei der Vergabe sind die Vorschriften \u00fcber die Preise bei \u00f6ffentlichen Auftr\u00e4gen zu beachten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Arten der Vergabe von Liefer- und Dienstleistungsauftr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Vergabe von Liefer- und Dienstleistungsauftr\u00e4gen erfolgt im nicht offenen Verfahren oder im Verhandlungsverfahren mit Teilnahmewettbewerb. In begr\u00fcndeten Ausnahmef\u00e4llen ist ein Verhandlungsverfahren ohne Teilnahmewettbewerb oder ein wettbewerblicher Dialog zul\u00e4ssig.</P><P>(2) Verhandlungen im nicht offenen Verfahren sind unzul\u00e4ssig.</P><P>(3) Auftraggeber k\u00f6nnen vorsehen, dass das Verhandlungsverfahren mit Teilnahmewettbewerb in verschiedenen aufeinanderfolgenden Phasen abgewickelt wird, um so die Zahl der Angebote, \u00fcber die verhandelt wird, anhand der in der Bekanntmachung oder den Vergabeunterlagen angegebenen Zuschlagskriterien zu verringern. Wenn Auftraggeber dies vorsehen, geben sie dies in der Bekanntmachung oder den Vergabeunterlagen an. In der Schlussphase des Verfahrens m\u00fcssen so viele Angebote vorliegen, dass ein echter Wettbewerb gew\u00e4hrleistet ist, sofern eine ausreichende Anzahl geeigneter Bewerber vorhanden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001303125",
+        "name": "\u00a7 12",
+        "title": "Verhandlungsverfahren ohne Teilnahmewettbewerb",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Ein Verhandlungsverfahren ohne Teilnahmewettbewerb ist zul\u00e4ssig<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Liefer- und Dienstleistungsauftr\u00e4gen,<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn in einem nicht offenen Verfahren, in einem Verhandlungsverfahren mit Teilnahmewettbewerb oder in einem wettbewerblichen Dialog<DL Font=\"normal\" Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">keine oder keine geeigneten Angebote oder keine Bewerbungen abgegeben worden sind, sofern die urspr\u00fcnglichen Bedingungen des Auftrags nicht grundlegend ge\u00e4ndert werden;</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">keine ordnungsgem\u00e4\u00dfen Angebote oder nur Angebote abgegeben worden sind, die nach dem geltenden Vergaberecht oder nach den im Vergabeverfahren zu beachtenden Rechtsvorschriften unannehmbar sind, sofern die urspr\u00fcnglichen Bedingungen des Auftrags nicht grundlegend ge\u00e4ndert werden und wenn alle und nur die Bieter einbezogen werden, die die Eignungskriterien erf\u00fcllen und im Verlauf des vorangegangenen Vergabeverfahrens Angebote eingereicht haben, die den formalen Voraussetzungen f\u00fcr das Vergabeverfahren entsprechen;</LA></DD></DL></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die Fristen, auch die verk\u00fcrzten Fristen gem\u00e4\u00df \u00a7 20 Absatz 2 Satz 2 und Absatz 3 Satz 2, die f\u00fcr das nicht offene Verfahren und das Verhandlungsverfahren mit Teilnahmewettbewerb vorgeschrieben sind, nicht eingehalten werden k\u00f6nnen, weil<DL Font=\"normal\" Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">dringliche Gr\u00fcnde im Zusammenhang mit einer Krise es nicht zulassen; ein dringlicher Grund liegt in der Regel vor, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mandatierte Auslandseins\u00e4tze oder einsatzgleiche Verpflichtungen der Bundeswehr,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">friedenssichernde Ma\u00dfnahmen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abwehr terroristischer Angriffe oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eingetretene oder unmittelbar drohende Gro\u00dfschadenslagen</LA></DD></DL>kurzfristig neue Beschaffungen erfordern oder bestehende Beschaffungsbedarfe steigern; oder</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">dringliche, zwingende Gr\u00fcnde im Zusammenhang mit Ereignissen, die die Auftraggeber nicht voraussehen konnten, dies nicht zulassen. Umst\u00e4nde, die die zwingende Dringlichkeit begr\u00fcnden, d\u00fcrfen nicht dem Verhalten der Auftraggeber zuzuschreiben sein;</LA></DD></DL></LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn zum Zeitpunkt der Aufforderung zur Abgabe von Angeboten der Auftrag wegen seiner technischen Besonderheiten oder aufgrund des Schutzes von Ausschlie\u00dflichkeitsrechten wie zum Beispiel des Patent- oder Urheberrechts nur von einem bestimmten Unternehmen durchgef\u00fchrt werden kann;</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn es sich um Forschungs- und Entwicklungsleistungen handelt;</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn es sich um G\u00fcter handelt, die ausschlie\u00dflich zum Zwecke von Forschung und Entwicklung hergestellt werden; dies gilt nicht f\u00fcr Serienfertigungen zum Nachweis der Marktf\u00e4higkeit oder zur Deckung der Forschungs- und Entwicklungskosten;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Lieferauftr\u00e4gen<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber zus\u00e4tzliche Lieferungen eines Auftragnehmers, die entweder zur teilweisen Erneuerung von gelieferten markt\u00fcblichen G\u00fctern oder zur Erweiterung von Lieferungen oder bestehenden Einrichtungen bestimmt sind, wenn ein Wechsel des Unternehmers dazu f\u00fchren w\u00fcrde, dass der Auftraggeber G\u00fcter mit unterschiedlichen technischen Merkmalen kaufen m\u00fcsste und dies zu einer technischen Unvereinbarkeit oder unverh\u00e4ltnism\u00e4\u00dfigen technischen Schwierigkeiten bei Gebrauch und Wartung f\u00fchren w\u00fcrde. Die Laufzeit solcher Auftr\u00e4ge oder Dauerauftr\u00e4ge darf f\u00fcnf Jahre nicht \u00fcberschreiten, abgesehen von Ausnahmef\u00e4llen, die unter Ber\u00fccksichtigung der zu erwartenden Nutzungsdauer gelieferter G\u00fcter, Anlagen oder Systeme und den durch einen Wechsel des Unternehmens entstehenden technischen Schwierigkeiten bestimmt werden;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei auf einer Warenb\u00f6rse notierten und gekauften Ware;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn G\u00fcter zu besonders g\u00fcnstigen Bedingungen bei Lieferanten, die ihre Gesch\u00e4ftst\u00e4tigkeit endg\u00fcltig einstellen, oder bei Insolvenzverwaltern im Rahmen eines Insolvenzverfahrens oder eines in den Vorschriften eines anderen Mitgliedstaats vorgesehenen gleichartigen Verfahrens erworben werden;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Dienstleistungsauftr\u00e4gen<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr zus\u00e4tzliche Dienstleistungen, die weder in dem der Vergabe zugrunde liegenden Entwurf noch im urspr\u00fcnglich geschlossenen Vertrag vorgesehen sind, die aber wegen eines unvorhergesehenen Ereignisses zur Ausf\u00fchrung der darin beschriebenen Dienstleistung erforderlich sind, sofern der Auftrag an den Unternehmer vergeben wird, der diese Dienstleistung erbringt, wenn der Gesamtwert der Auftr\u00e4ge f\u00fcr die zus\u00e4tzlichen Dienstleistungen 50 Prozent des Wertes des urspr\u00fcnglichen Auftrags nicht \u00fcberschreitet und <DL Font=\"normal\" Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">sich diese zus\u00e4tzlichen Dienstleistungen in technischer und wirtschaftlicher Hinsicht nicht ohne wesentlichen Nachteil f\u00fcr den Auftraggeber vom urspr\u00fcnglichen Auftrag trennen lassen oder</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">diese Dienstleistungen zwar von der Ausf\u00fchrung des urspr\u00fcnglichen Auftrags getrennt werden k\u00f6nnen, aber f\u00fcr dessen Vollendung unbedingt erforderlich sind;</LA></DD></DL></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei neuen Dienstleistungsauftr\u00e4gen, welche Dienstleistungen wiederholen, die durch denselben Auftraggeber an denselben Auftragnehmer vergeben wurden, sofern sie einem Grundentwurf entsprechen und dieser Entwurf Gegenstand des urspr\u00fcnglichen Auftrags war, der in einem nicht offenen Verfahren, einem Verhandlungsverfahren mit Teilnahmewettbewerb oder im wettbewerblichen Dialog vergeben wurde. Der Auftraggeber muss die M\u00f6glichkeit der Anwendung dieses Verfahrens bereits beim Aufruf zum Wettbewerb f\u00fcr das erste Vorhaben angeben; der f\u00fcr die Fortf\u00fchrung der Dienstleistungen in Aussicht genommene Gesamtauftragswert wird vom Auftraggeber bei der Anwendung des \u00a7 106 Absatz 2 Nummer 3 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen ber\u00fccksichtigt. Dieses Verfahren darf nur binnen f\u00fcnf Jahren nach Abschluss des urspr\u00fcnglichen Auftrags angewandt werden, abgesehen von Ausnahmef\u00e4llen, die durch die Ber\u00fccksichtigung der zu erwartenden Nutzungsdauer gelieferter G\u00fcter, Anlagen oder Systeme und den durch einen Wechsel des Unternehmens entstehenden technischen Schwierigkeiten bestimmt werden;</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Auftr\u00e4ge im Zusammenhang mit der Bereitstellung von Luft- und Seeverkehrsdienstleistungen f\u00fcr die Streit- oder Sicherheitskr\u00e4fte, die im Ausland eingesetzt werden oder eingesetzt werden sollen, wenn der Auftraggeber diese Dienste bei Unternehmen beschaffen muss, die die G\u00fcltigkeit ihrer Angebote nur f\u00fcr so kurze Zeit garantieren, dass auch die verk\u00fcrzte Frist f\u00fcr das nicht offene Verfahren oder das Verhandlungsverfahren mit Teilnahmewettbewerb einschlie\u00dflich der verk\u00fcrzten Fristen gem\u00e4\u00df \u00a7 20 Absatz 2 Satz 2 und Absatz 3 Satz 2 nicht eingehalten werden kann.</LA></DD></DL></P><P>(2) Die Auftraggeber m\u00fcssen die Anwendung des Verhandlungsverfahrens ohne Teilnahmewettbewerb in der Bekanntmachung gem\u00e4\u00df \u00a7 35 begr\u00fcnden.</P><P>(3) In den F\u00e4llen des Absatzes 1 Nummer 1 Buchstabe b ist der \u00f6ffentliche Auftraggeber von den Verpflichtungen des \u00a7 30 Absatz 1 und 2 befreit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001401118",
+        "name": "\u00a7 13",
+        "title": "Wettbewerblicher Dialog",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auftraggeber k\u00f6nnen einen wettbewerblichen Dialog gem\u00e4\u00df \u00a7 119 Absatz 6 Satz 1 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen zur Vergabe besonders komplexer Auftr\u00e4ge durchf\u00fchren, sofern sie objektiv nicht in der Lage sind, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die technischen Mittel anzugeben, mit denen ihre Bed\u00fcrfnisse und Ziele erf\u00fcllt werden k\u00f6nnen, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die rechtlichen oder finanziellen Bedingungen des Vorhabens anzugeben.</LA></DD></DL></P><P>(2) Im wettbewerblichen Dialog er\u00f6ffnen Auftraggeber gem\u00e4\u00df \u00a7 119 Absatz 6 Satz 2 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen nach einem Teilnahmewettbewerb mit den ausgew\u00e4hlten Unternehmen einen Dialog zur Er\u00f6rterung aller Aspekte der Angebotsabgabe. Im Einzelnen gehen die Auftraggeber wie folgt vor: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Auftraggeber m\u00fcssen ihre Bed\u00fcrfnisse und Anforderungen bekannt machen und erl\u00e4utern. Die Erl\u00e4uterung erfolgt in der Bekanntmachung oder der Leistungsbeschreibung.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mit den nach \u00a7\u00a7 6, 7, 8 und 21 bis 28 ausgew\u00e4hlten geeigneten Unternehmen er\u00f6ffnen die Auftraggeber einen Dialog, in dem sie ermitteln und festlegen, wie ihre Bed\u00fcrfnisse am besten erf\u00fcllt werden k\u00f6nnen. Dabei k\u00f6nnen sie mit den ausgew\u00e4hlten Unternehmen alle Einzelheiten des Auftrags er\u00f6rtern. Die Auftraggeber m\u00fcssen alle Unternehmen bei dem Dialog gleich behandeln. Insbesondere enthalten sie sich jeder diskriminierenden Weitergabe von Informationen, durch die bestimmte Bieter gegen\u00fcber anderen beg\u00fcnstigt werden k\u00f6nnen. Der Auftraggeber darf L\u00f6sungsvorschl\u00e4ge oder vertrauliche Informationen eines Unternehmens nicht ohne dessen Zustimmung an die anderen Unternehmen weitergeben.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Auftraggeber k\u00f6nnen vorsehen, dass der Dialog in verschiedenen aufeinanderfolgenden Phasen abgewickelt wird, um die Zahl der in der Dialogphase zu er\u00f6rternden L\u00f6sungsvorschl\u00e4ge anhand der in der Bekanntmachung oder in den Vergabeunterlagen angegebenen Zuschlagskriterien zu verringern. In der Bekanntmachung oder in der Leistungsbeschreibung ist anzugeben, ob diese M\u00f6glichkeit in Anspruch genommen wird. In der Schlussphase m\u00fcssen noch so viele Angebote vorliegen, dass ein echter Wettbewerb gew\u00e4hrleistet ist, sofern eine ausreichende Zahl von L\u00f6sungen vorhanden ist. Die Unternehmen, deren L\u00f6sungen nicht f\u00fcr die n\u00e4chstfolgende Dialogphase vorgesehen sind, werden dar\u00fcber informiert.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Auftraggeber erkl\u00e4ren den Dialog f\u00fcr abgeschlossen, wenn eine oder mehrere L\u00f6sungen gefunden worden sind, die ihre Bed\u00fcrfnisse erf\u00fcllen oder erkennbar ist, dass keine L\u00f6sung gefunden werden kann. Im Falle der ersten Alternative fordern sie die Unternehmen auf, auf der Grundlage der eingereichten und in der Dialogphase n\u00e4her ausgef\u00fchrten L\u00f6sungen ihr endg\u00fcltiges Angebot vorzulegen, das alle zur Ausf\u00fchrung des Projekts erforderlichen Einzelheiten enthalten muss. Die Auftraggeber k\u00f6nnen verlangen, dass Pr\u00e4zisierungen, Klarstellungen und Erg\u00e4nzungen zu diesen Angeboten gemacht werden. Diese Pr\u00e4zisierungen, Klarstellungen oder Erg\u00e4nzungen d\u00fcrfen jedoch keine \u00c4nderung der grundlegenden Elemente des Angebots oder der Ausschreibung zur Folge haben, die den Wettbewerb verf\u00e4lschen oder diskriminierend wirken k\u00f6nnte.</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Auftraggeber m\u00fcssen die Angebote aufgrund der in der Bekanntmachung oder in den Vergabeunterlagen festgelegten Zuschlagskriterien bewerten. Der Zuschlag darf ausschlie\u00dflich auf das wirtschaftlichste Angebot erfolgen. Auftraggeber d\u00fcrfen das Unternehmen, dessen Angebot als das wirtschaftlichste ermittelt wurde, auffordern, bestimmte Einzelheiten des Angebots n\u00e4her zu erl\u00e4utern oder im Angebot enthaltene Zusagen zu best\u00e4tigen. Dies darf nicht dazu f\u00fchren, dass wesentliche Aspekte des Angebots oder der Ausschreibung ge\u00e4ndert werden, und dass der Wettbewerb verzerrt wird oder andere am Verfahren beteiligte Unternehmen diskriminiert werden.</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verlangen die Auftraggeber, dass die am wettbewerblichen Dialog teilnehmenden Unternehmen Entw\u00fcrfe, Pl\u00e4ne, Zeichnungen, Berechnungen oder andere Unterlagen ausarbeiten, m\u00fcssen sie einheitlich f\u00fcr alle Unternehmen, die die geforderte Unterlage rechtzeitig vorgelegt haben, eine angemessene Kostenerstattung hierf\u00fcr gew\u00e4hren.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001502118",
+        "name": "\u00a7 14",
+        "title": "Rahmenvereinbarungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) F\u00fcr den Abschluss einer Rahmenvereinbarung im Sinne des \u00a7 103 Absatz 5 Satz 1 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen befolgen die Auftraggeber die Verfahrensvorschriften dieser Verordnung. F\u00fcr die Auswahl des Auftragnehmers gelten die Zuschlagskriterien gem\u00e4\u00df \u00a7 34. Auftraggeber d\u00fcrfen das Instrument einer Rahmenvereinbarung nicht missbr\u00e4uchlich oder in einer Weise anwenden, durch die der Wettbewerb behindert, eingeschr\u00e4nkt oder verf\u00e4lscht wird.</P><P>(2) Auftraggeber vergeben Einzelauftr\u00e4ge nach dem in den Abs\u00e4tzen 3 bis 5 vorgesehenen Verfahren. Die Vergabe darf nur erfolgen durch Auftraggeber, die ihren voraussichtlichen Bedarf f\u00fcr das Vergabeverfahren gemeldet haben, an Unternehmen, mit denen die Rahmenvereinbarungen abgeschlossen wurden. Bei der Vergabe der Einzelauftr\u00e4ge d\u00fcrfen die Parteien keine wesentlichen \u00c4nderungen an den Bedingungen dieser Rahmenvereinbarung vornehmen. Dies gilt insbesondere f\u00fcr den Fall, dass die Rahmenvereinbarung mit einem einzigen Unternehmen geschlossen wurde.</P><P>(3) Wird eine Rahmenvereinbarung mit einem einzigen Unternehmen geschlossen, so werden die auf dieser Rahmenvereinbarung beruhenden Einzelauftr\u00e4ge entsprechend den Bedingungen der Rahmenvereinbarung vergeben. Vor der Vergabe der Einzelauftr\u00e4ge k\u00f6nnen die Auftraggeber das an der Rahmenvereinbarung beteiligte Unternehmen in Textform nach \u00a7 126b des B\u00fcrgerlichen Gesetzbuchs befragen und dabei auffordern, sein Angebot erforderlichenfalls zu vervollst\u00e4ndigen.</P><P>(4) Wird eine Rahmenvereinbarung mit mehreren Unternehmen geschlossen, so m\u00fcssen mindestens drei Unternehmen beteiligt sein, sofern eine ausreichend gro\u00dfe Zahl von Unternehmen die Eignungskriterien oder eine ausreichend gro\u00dfe Zahl von zul\u00e4ssigen Angeboten die Zuschlagskriterien erf\u00fcllt.</P><P>(5) Die Vergabe von Einzelauftr\u00e4gen, die auf einer mit mehreren Unternehmen geschlossenen Rahmenvereinbarung beruhen, erfolgt, sofern<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">alle Bedingungen festgelegt sind, nach den Bedingungen der Rahmenvereinbarung ohne erneuten Aufruf zum Wettbewerb oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht alle Bedingungen in der Rahmenvereinbarung festgelegt sind, nach erneutem Aufruf der Parteien zum Wettbewerb zu denselben Bedingungen, die erforderlichenfalls zu pr\u00e4zisieren sind, oder nach anderen in den Vergabeunterlagen zur Rahmenvereinbarung genannten Bedingungen. Dabei ist folgendes Verfahren einzuhalten:<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vor Vergabe jedes Einzelauftrags konsultieren die Auftraggeber die Unternehmen, die in der Lage sind, den Einzelauftrag auszuf\u00fchren.</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auftraggeber setzen eine angemessene Frist f\u00fcr die Abgabe der Angebote f\u00fcr jeden Einzelauftrag; dabei ber\u00fccksichtigen sie insbesondere die Komplexit\u00e4t des Auftragsgegenstands und die f\u00fcr die \u00dcbermittlung der Angebote erforderliche Zeit.</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auftraggeber geben an, in welcher Form die Angebote einzureichen sind, der Inhalt der Angebote ist bis zum Ablauf der Angebotsfrist geheim zu halten.</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Auftraggeber vergeben die einzelnen Auftr\u00e4ge an das Unternehmen, das auf der Grundlage der in der Rahmenvereinbarung aufgestellten Zuschlagskriterien das wirtschaftlichste Angebot abgegeben hat.</LA></DD></DL></LA></DD></DL></P><P>(6) Die Laufzeit einer Rahmenvereinbarung darf sieben Jahre nicht \u00fcberschreiten. Dies gilt nicht in Sonderf\u00e4llen, in denen aufgrund der zu erwartenden Nutzungsdauer gelieferter G\u00fcter, Anlagen oder Systeme und der durch einen Wechsel des Unternehmens entstehenden technischen Schwierigkeiten eine l\u00e4ngere Laufzeit gerechtfertigt ist. Die Auftraggeber begr\u00fcnden die l\u00e4ngere Laufzeit in der Bekanntmachung gem\u00e4\u00df \u00a7 35.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001602118",
+        "name": "\u00a7 15",
+        "title": "Leistungsbeschreibung und technische Anforderungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Auftraggeber stellen sicher, dass die Leistungsbeschreibung allen Bewerbern und Bietern gleicherma\u00dfen zug\u00e4nglich ist und die \u00d6ffnung des nationalen Beschaffungsmarktes f\u00fcr den Wettbewerb durch Anbieter aus anderen EU-Mitgliedstaaten nicht in ungerechtfertigter Weise behindert wird.</P><P>(2) Die Leistung ist eindeutig und vollst\u00e4ndig zu beschreiben, sodass die Vergleichbarkeit der Angebote gew\u00e4hrleistet ist. Technische Anforderungen im Sinne des Anhangs III Nummer 1 Buchstabe b der Richtlinie 2009/81/EG sind zum Gegenstand der Bekanntmachung oder der Vergabeunterlagen zu machen.</P><P>(3) Unbeschadet zwingender technischer Vorschriften einschlie\u00dflich solcher zur Produktsicherheit und technischer Anforderungen, die laut internationaler Standardisierungsvereinbarungen zur Gew\u00e4hrleistung der in diesen Vereinbarungen geforderten Interoperabilit\u00e4t zu erf\u00fcllen sind, sind technische Anforderungen in der Leistungsbeschreibung wie folgt festzulegen:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">unter Bezugnahme auf die in Anhang III der Richtlinie 2009/81/EG definierten technischen Anforderungen in folgender Rangfolge, wobei jede dieser Bezugnahmen mit dem Zusatz \u201eoder gleichwertig\u201c zu versehen ist:<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">zivile Normen, mit denen europ\u00e4ische Normen umgesetzt werden,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">europ\u00e4ische technische Zulassungen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">gemeinsame zivile technische Spezifikationen,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">zivile Normen, mit denen internationale Normen umgesetzt werden,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">andere internationale zivile Normen,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">andere technische Bezugssysteme, die von den europ\u00e4ischen Normungsgremien erarbeitet wurden, oder, falls solche Normen und Spezifikationen fehlen, andere nationale zivile Normen, nationale technische Zulassungen oder nationale technische Spezifikationen f\u00fcr die Planung und Berechnung und Ausf\u00fchrungen von Erzeugnissen sowie den Einsatz von Produkten,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">zivile technische Spezifikationen, die von der Industrie entwickelt wurden und von ihr allgemein anerkannt werden, oder</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">wehrtechnische Normen im Sinne des Anhangs III Nummer 3 der Richtlinie 2009/81/EG und Spezifikationen f\u00fcr Verteidigungsg\u00fcter, die diesen Normen entsprechen,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">oder in Form von Leistungs- oder Funktionsanforderungen, die auch Umwelteigenschaften umfassen k\u00f6nnen. Diese Anforderungen m\u00fcssen so klar formuliert werden, dass sie den Bewerbern und Bietern den Auftragsgegenstand eindeutig und abschlie\u00dfend erl\u00e4utern und den Auftraggebern die Erteilung des Zuschlags erm\u00f6glichen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">oder als Kombination der Nummern 1 und 2, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">entweder in Form von Leistungs- oder Funktionsanforderungen gem\u00e4\u00df Nummer 2 unter Bezugnahme auf die in Anhang III der Richtlinie <NB>2009/81/EG</NB> definierten technischen Anforderungen gem\u00e4\u00df Nummer 1 als Mittel zur Vermutung der Konformit\u00e4t mit diesen Leistungs- und Funktionsanforderungen oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">hinsichtlich bestimmter Merkmale unter Bezugnahme auf die in Anhang III der Richtlinie <NB>2009/81/EG</NB> definierten technischen Anforderungen gem\u00e4\u00df Nummer 1 und hinsichtlich anderer Merkmale unter Bezugnahme auf die Leistungs- und Funktionsanforderungen gem\u00e4\u00df Nummer 2.</LA></DD></DL></LA></DD></DL></P><P>(4) Verweisen die Auftraggeber auf die in Absatz 3 Nummer 1 genannten technischen Anforderungen, d\u00fcrfen sie ein Angebot nicht mit der Begr\u00fcndung ablehnen, die angebotenen G\u00fcter und Dienstleistungen entspr\u00e4chen nicht den von ihnen herangezogenen Anforderungen, sofern die Unternehmen in ihrem Angebot den Auftraggebern mit geeigneten Mitteln nachweisen, dass die von ihnen vorgeschlagenen L\u00f6sungen den technischen Anforderungen, auf die Bezug genommen wurde, gleicherma\u00dfen entsprechen. Als geeignetes Mittel gelten insbesondere eine technische Beschreibung des Herstellers oder ein Pr\u00fcfbericht einer anerkannten Stelle.</P><P>(5) Legt der Auftraggeber die technischen Anforderungen nach Absatz 3 Nummer 2 in Form von Leistungs- oder Funktionsanforderungen fest, so darf er ein Angebot, das einer Norm, mit der eine europ\u00e4ische Norm umgesetzt wird, oder einer europ\u00e4ischen technischen Zulassung, einer gemeinsamen technischen Spezifikation, einer internationalen Norm oder einem technischen Bezugssystem, das von den europ\u00e4ischen Normungsgremien erarbeitet wurde, entspricht, nicht zur\u00fcckweisen, wenn diese Spezifikationen die von ihm geforderten Leistungs-oder Funktionsanforderungen betreffen. Die Bieter m\u00fcssen in ihren Angeboten dem Auftraggeber mit allen geeigneten Mitteln nachweisen, dass die der Norm entsprechende jeweilige Ware oder Dienstleistung den Leistungs- oder Funktionsanforderungen des Auftraggebers entspricht. Als geeignetes Mittel kann eine technische Beschreibung des Herstellers oder ein Pr\u00fcfbericht einer anerkannten Stelle gelten.</P><P>(6) Schreiben die Auftraggeber Umwelteigenschaften in Form von Leistungs- oder Funktionsanforderungen gem\u00e4\u00df Absatz 3 Nummer 2 vor, so k\u00f6nnen sie ganz oder teilweise die Spezifikationen verwenden, die in europ\u00e4ischen, multinationalen, nationalen oder anderen Umweltzeichen definiert sind, wenn<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">diese sich zur Definition der Merkmale der G\u00fcter oder Dienstleistungen eignen, die Gegenstand des Auftrags sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anforderungen an das Umweltzeichen auf der Grundlage von wissenschaftlich abgesicherten Informationen ausgearbeitet werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Umweltzeichen im Rahmen eines Verfahrens erlassen werden, an dem interessierte Kreise teilnehmen k\u00f6nnen und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Umweltzeichen f\u00fcr alle Betroffenen zug\u00e4nglich und verf\u00fcgbar ist.</LA></DD></DL>Die Auftraggeber k\u00f6nnen in der Leistungsbeschreibung angeben, dass bei G\u00fctern oder Dienstleistungen, die mit einem Umweltzeichen ausgestattet sind, vermutet wird, dass diese den in der Leistungsbeschreibung festgelegten technischen Anforderungen gen\u00fcgen. Die Auftraggeber m\u00fcssen jedes andere geeignete Beweismittel wie technische Unterlagen des Herstellers oder Pr\u00fcfberichte anerkannter Stellen zulassen.</P><P>(7) Anerkannte Stellen sind die Pr\u00fcf- und Kalibrierlaboratorien sowie die Inspektions- und Zertifizierungsstellen, die den Anforderungen der jeweils anwendbaren europ\u00e4ischen Normen entsprechen. Die Auftraggeber erkennen Bescheinigungen von in anderen Mitgliedstaaten ans\u00e4ssigen anerkannten Stellen an.</P><P>(8) Soweit es nicht durch den Auftragsgegenstand gerechtfertigt ist, darf in der Leistungsbeschreibung nicht auf eine bestimmte Produktion oder Herkunft oder ein besonderes Verfahren oder auf Marken, Patente, Typen, einen bestimmten Ursprung oder eine bestimmte Produktion verwiesen werden, wenn dadurch bestimmte Unternehmen oder bestimmte G\u00fcter beg\u00fcnstigt oder ausgeschlossen werden. Solche Verweise sind jedoch ausnahmsweise zul\u00e4ssig, wenn der Auftragsgegenstand nach den Abs\u00e4tzen 2 und 3 nicht eindeutig und vollst\u00e4ndig beschrieben werden kann; solche Verweise sind mit dem Zusatz \u201eoder gleichwertig\u201c zu versehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001700000",
+        "name": "\u00a7 16",
+        "title": "Vergabeunterlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Vergabeunterlagen umfassen alle Angaben, die erforderlich sind, um eine Entscheidung zur Teilnahme am Vergabeverfahren oder zur Angebotsabgabe zu erm\u00f6glichen. Sie bestehen in der Regel aus<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>dem Anschreiben (Aufforderung zur Teilnahme oder Angebotsabgabe oder Begleitschreiben f\u00fcr die Abgabe der angeforderten Unterlagen),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Beschreibung der Einzelheiten der Durchf\u00fchrung des Verfahrens (Bewerbungsbedingungen), einschlie\u00dflich der Angabe der Zuschlagskriterien und deren Gewichtung oder der absteigenden Reihenfolge der diesen Kriterien zuerkannten Bedeutung, sofern nicht in der Bekanntmachung bereits genannt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>den Vertragsunterlagen, die aus Leistungsbeschreibung und Vertragsbedingungen bestehen, und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Name und Anschrift der Vergabekammer, die f\u00fcr die Nachpr\u00fcfung zust\u00e4ndig ist.</LA></DD></DL></P><P>(2) Sofern die Auftraggeber Nachweise verlangen, haben sie diese in einer abschlie\u00dfenden Liste zusammenzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001801118",
+        "name": "\u00a7 17",
+        "title": "Vorinformation",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auftraggeber k\u00f6nnen durch Vorinformation, die von der Europ\u00e4ischen Kommission oder von ihnen selbst in ihrem Beschafferprofil ver\u00f6ffentlicht wird, den gesch\u00e4tzten Gesamtwert der Auftr\u00e4ge oder der Rahmenvereinbarungen mitteilen, die sie in den kommenden zw\u00f6lf Monaten zu vergeben oder abzuschlie\u00dfen beabsichtigen.<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Lieferauftr\u00e4ge sind nach Warengruppen unter Bezugnahme auf das Gemeinsame Vokabular f\u00fcr \u00f6ffentliche Auftr\u00e4ge gem\u00e4\u00df der Verordnung (EG) Nr. 213/2008 der Europ\u00e4ischen Kommission vom 28. November 2007 zur \u00c4nderung der Verordnung (EG) Nr. 2195/2002 des Europ\u00e4ischen Parlaments und des Rates \u00fcber das Gemeinsame Vokabular f\u00fcr \u00f6ffentliche Auftr\u00e4ge (CPV) und der Vergaberichtlinien des Europ\u00e4ischen Parlaments und des Rates <NB>2004/17/EG</NB> und 2004/18/EG im Hinblick auf die \u00dcberarbeitung des Vokabulars (ABl. L 74 vom 15.3.2008, S. 1) in der jeweils geltenden Fassung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Dienstleistungsauftr\u00e4ge sind nach den in Anhang I der Richtlinie 2009/81/EG genannten Kategorien</LA></DD></DL>aufzuschl\u00fcsseln.</P><P>(2) Die Mitteilungen nach Absatz 1 werden unverz\u00fcglich nach der Entscheidung \u00fcber die Genehmigung des Projekts, f\u00fcr das die Auftraggeber beabsichtigen, Auftr\u00e4ge zu erteilen oder Rahmenvereinbarungen abzuschlie\u00dfen, an die Europ\u00e4ische Kommission \u00fcbermittelt oder im Beschafferprofil ver\u00f6ffentlicht. Die Bekanntmachung der Vorinformation wird nach dem Muster gem\u00e4\u00df Anhang XIII der Durchf\u00fchrungsverordnung (EU) 2015/1986 der Kommission vom 11. November 2015 zur Einf\u00fchrung von Standardformularen f\u00fcr die Ver\u00f6ffentlichung von Vergabebekanntmachungen f\u00fcr \u00f6ffentliche Auftr\u00e4ge und zur Aufhebung der Durchf\u00fchrungsverordnung (EU) Nr. 842/2011 (ABl. L 296 vom 12.11.2015, S. 1) in der jeweils geltenden Fassung erstellt. Ver\u00f6ffentlicht ein Auftraggeber eine Vorinformation in seinem Beschafferprofil, so meldet er dies dem Amt f\u00fcr Ver\u00f6ffentlichungen der Europ\u00e4ischen Union unter Verwendung des Musters gem\u00e4\u00df Anhang VIII der Durchf\u00fchrungsverordnung (EU) 2015/1986. Die Vorinformationen d\u00fcrfen nicht in einem Beschafferprofil ver\u00f6ffentlicht werden, bevor die Ank\u00fcndigung dieser Ver\u00f6ffentlichung an die Europ\u00e4ische Kommission abgesendet wurde. Das Datum der Absendung muss im Beschafferprofil angegeben werden.</P><P>(3) Auftraggeber sind zur Ver\u00f6ffentlichung verpflichtet, wenn sie beabsichtigen, von der M\u00f6glichkeit einer Verk\u00fcrzung der Fristen f\u00fcr den Eingang der Angebote gem\u00e4\u00df \u00a7 20 Absatz 3 Satz 3 und 4 Gebrauch zu machen.</P><P>(4) Die Abs\u00e4tze 1, 2 und 3 gelten nicht f\u00fcr das Verhandlungsverfahren ohne Teilnahmewettbewerb.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE001901118",
+        "name": "\u00a7 18",
+        "title": "Bekanntmachung von Vergabeverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auftraggeber, die einen Auftrag oder eine Rahmenvereinbarung im Wege eines nicht offenen Verfahrens, eines Verhandlungsverfahrens mit Teilnahmewettbewerb oder eines wettbewerblichen Dialogs zu vergeben beabsichtigen, m\u00fcssen dies durch eine Bekanntmachung mitteilen.</P><P>(2) Die Bekanntmachung muss zumindest die in Anhang IV der Richtlinie 2009/81/EG aufgef\u00fchrten Informationen enthalten. Sie wird nach dem Muster gem\u00e4\u00df Anhang XIV der Durchf\u00fchrungsverordnung (EU) 2015/1986 erstellt.</P><P>(3) Auftraggeber m\u00fcssen in der Bekanntmachung insbesondere angeben:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Vergabe im nicht offenen Verfahren oder Verhandlungsverfahren mit Teilnahmewettbewerb, welche Eignungsanforderungen gelten und welche Eignungsnachweise vorzulegen sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">gem\u00e4\u00df \u00a7 9 Absatz 4, ob gem\u00e4\u00df \u00a7 9 Absatz 1 oder 3 Anforderungen an die Vergabe von Unterauftr\u00e4gen gestellt werden und welchen Inhalt diese haben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob beabsichtigt ist, ein Verhandlungsverfahren mit Teilnahmewettbewerb oder einen wettbewerblichen Dialog in verschiedenen Phasen abzuwickeln, um die Zahl der Angebote zu verringern, und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen und Anschrift der Vergabekammer, die f\u00fcr die Nachpr\u00fcfung zust\u00e4ndig ist.</LA></DD></DL></P><P>(4) Die Bekanntmachung ist unter Beachtung der Muster und Modalit\u00e4ten f\u00fcr die elektronische \u00dcbermittlung von Bekanntmachungen nach Anhang VI Nummer 3 der Richtlinie 2009/81/EG oder auf anderem Wege unverz\u00fcglich dem Amt f\u00fcr amtliche Ver\u00f6ffentlichungen der Europ\u00e4ischen Union zu \u00fcbermitteln. Im beschleunigten Verfahren nach \u00a7 20 Absatz 2 Satz 2 und Absatz 3 Satz 2 muss die Bekanntmachung unter Beachtung der Muster und Modalit\u00e4ten f\u00fcr die elektronische \u00dcbermittlung von Bekanntmachungen nach Anhang VI Nummer 3 der Richtlinie 2009/81/EG mittels Telefax oder auf elektronischem Weg \u00fcbermittelt werden. Die Auftraggeber m\u00fcssen den Tag der Absendung nachweisen k\u00f6nnen.</P><P>(5) Die Bekanntmachung und ihr Inhalt d\u00fcrfen auf nationaler Ebene oder in einem Beschafferprofil nicht vor dem Tag der Absendung an das Amt f\u00fcr amtliche Ver\u00f6ffentlichungen der Europ\u00e4ischen Union ver\u00f6ffentlicht werden. Die Ver\u00f6ffentlichung auf nationaler Ebene darf keine anderen Angaben enthalten als die Bekanntmachung an das Amt f\u00fcr amtliche Ver\u00f6ffentlichungen der Europ\u00e4ischen Union oder die Ver\u00f6ffentlichung im Beschafferprofil. Auf das Datum der Absendung der europaweiten Bekanntmachung an das Amt f\u00fcr amtliche Ver\u00f6ffentlichungen der Europ\u00e4ischen Union oder der Ver\u00f6ffentlichung im Beschafferprofil ist in der nationalen Bekanntmachung hinzuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002001118",
+        "name": "\u00a7 19",
+        "title": "Informations\u00fcbermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Auftraggeber geben in der Bekanntmachung oder den Vergabeunterlagen an, ob Informationen auf dem Postweg, mittels Telefax, elektronisch, telefonisch oder durch eine Kombination dieser Kommunikationsmittel zu \u00fcbermitteln sind.</P><P>(2) Das gew\u00e4hlte Kommunikationsmittel muss allgemein verf\u00fcgbar sein und darf den Zugang der Unternehmen zu dem Vergabeverfahren nicht beschr\u00e4nken.</P><P>(3) Die Auftraggeber haben bei der Mitteilung oder \u00dcbermittlung und Speicherung von Informationen die Unversehrtheit der Daten und die Vertraulichkeit der Angebote und Teilnahmeantr\u00e4ge zu gew\u00e4hrleisten. Auftraggeber d\u00fcrfen vom Inhalt der Angebote und Teilnahmeantr\u00e4ge erst nach Ablauf der Frist f\u00fcr ihre Einreichung Kenntnis nehmen. Auf dem Postweg oder direkt zu \u00fcbermittelnde Angebote sind in einem verschlossenen Umschlag einzureichen, als solche zu kennzeichnen und bis zum Ablauf der Angebotsfrist unter Verschluss zu halten. Bei elektronisch zu \u00fcbermittelnden Angeboten ist die Unversehrtheit durch entsprechende organisatorische und technische L\u00f6sungen nach den Anforderungen des Auftraggebers und die Vertraulichkeit durch Verschl\u00fcsselung sicherzustellen. Die Verschl\u00fcsselung muss bis zum Ablauf der Angebotsfrist aufrechterhalten bleiben.</P><P>(4) Bei elektronischen Kommunikationsmitteln m\u00fcssen die technischen Merkmale allgemein zug\u00e4nglich, kompatibel mit den allgemein verbreiteten Ger\u00e4ten der Informations- und Kommunikationstechnologie und nicht diskriminierend sein. Die Auftraggeber haben daf\u00fcr Sorge zu tragen, dass den interessierten Unternehmen die Informationen \u00fcber die Spezifikationen, die f\u00fcr die elektronische \u00dcbermittlung der Antr\u00e4ge auf Teilnahme und der Angebote erforderlich sind, einschlie\u00dflich der Verschl\u00fcsselung, zug\u00e4nglich sind. Au\u00dferdem muss gew\u00e4hrleistet sein, dass die Vorrichtungen f\u00fcr den elektronischen Eingang der Angebote und Teilnahmeantr\u00e4ge den Anforderungen des Anhangs VIII der Richtlinie 2009/81/EG gen\u00fcgen.</P><P>(5) Neben den Hinweisen nach Absatz 1 geben die Auftraggeber in der Bekanntmachung an, in welcher Form Antr\u00e4ge auf Teilnahme am Vergabeverfahren oder Angebote einzureichen sind. Insbesondere k\u00f6nnen sie festlegen, dass die Teilnahmeantr\u00e4ge im Falle der elektronischen \u00dcbermittlung zu versehen sind mit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer fortgeschrittenen elektronischen Signatur,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer qualifizierten elektronischen Signatur,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem fortgeschrittenen elektronischen Siegel oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem qualifizierten elektronischen Siegel.</LA></DD></DL> Antr\u00e4ge auf Teilnahme am Vergabeverfahren k\u00f6nnen schriftlich oder telefonisch gestellt werden. Wird ein solcher Antrag telefonisch gestellt, ist dieser vor Ablauf der Frist f\u00fcr den Eingang der Antr\u00e4ge in Schriftform zu best\u00e4tigen. Die Auftraggeber k\u00f6nnen verlangen, dass per Telefax gestellte Antr\u00e4ge in Schriftform oder elektronischer Form best\u00e4tigt werden, sofern dies f\u00fcr das Vorliegen eines gesetzlich g\u00fcltigen Nachweises erforderlich ist. In diesem Fall geben die Auftraggeber in der Bekanntmachung diese Anforderung zusammen mit der Frist f\u00fcr die \u00dcbermittlung der Best\u00e4tigung an.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002100000",
+        "name": "\u00a7 20",
+        "title": "Fristen f\u00fcr den Eingang von Antr\u00e4gen auf Teilnahme und Eingang der Angebote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Bei der Festsetzung der Fristen f\u00fcr den Eingang der Angebote und der Antr\u00e4ge auf Teilnahme ber\u00fccksichtigen die Auftraggeber unbeschadet der nachstehend festgelegten Mindestfristen insbesondere die Komplexit\u00e4t des Auftrags und die Zeit, die f\u00fcr die Ausarbeitung der Angebote erforderlich ist.</P><P>(2) Beim nicht offenen Verfahren, im Verhandlungsverfahren mit Teilnahmewettbewerb und im wettbewerblichen Dialog betr\u00e4gt die von den Auftraggebern festzusetzende Frist f\u00fcr den Eingang der Antr\u00e4ge auf Teilnahme mindestens 37 Tage ab dem Tag der Absendung der Bekanntmachung. In F\u00e4llen besonderer Dringlichkeit (beschleunigtes Verfahren) beim nicht offenen Verfahren und Verhandlungsverfahren mit Teilnahmewettbewerb betr\u00e4gt diese Frist mindestens 15 Tage oder mindestens zehn Tage bei elektronischer \u00dcbermittlung<FnR ID=\"f777502_03_BJNR150900012BJNE002100000\" />, jeweils gerechnet vom Tag der Absendung der Bekanntmachung an.</P><P>(3) Die von den Auftraggebern festzusetzende Angebotsfrist beim nicht offenen Verfahren betr\u00e4gt mindestens 40 Tage, gerechnet vom Tag der Absendung der Aufforderung zur Angebotsabgabe an. Im beschleunigten Verfahren betr\u00e4gt die Frist mindestens zehn Tage, gerechnet vom Tag der Absendung der Aufforderung zur Angebotsabgabe an. Haben die Auftraggeber eine Vorinformation gem\u00e4\u00df \u00a7 17 ver\u00f6ffentlicht, k\u00f6nnen sie die Frist f\u00fcr den Eingang der Angebote in der Regel auf 36 Tage ab dem Tag der Absendung der Aufforderung zur Angebotsabgabe, jedoch keinesfalls weniger als 22 Tage festsetzen. Diese verk\u00fcrzte Frist ist zul\u00e4ssig, sofern die Vorinformation alle die f\u00fcr die Bekanntmachung nach Anhang IV der Richtlinie 2009/81/EG geforderten Informationen \u2013 soweit diese zum Zeitpunkt der Ver\u00f6ffentlichung der Bekanntmachung vorlagen \u2013 enthielt und die Vorinformation sp\u00e4testens 52 Tage und fr\u00fchestens zw\u00f6lf Monate vor dem Tag der Absendung der Bekanntmachung zur Ver\u00f6ffentlichung \u00fcbermittelt wurde.</P><P>(4) Bei elektronisch erstellten und \u00fcbermittelten Bekanntmachungen k\u00f6nnen die Auftraggeber die Frist nach Absatz 2 Satz 1 um sieben Tage verk\u00fcrzen. Die Auftraggeber k\u00f6nnen die Frist f\u00fcr den Eingang der Angebote nach Absatz 3 Satz 1 um weitere f\u00fcnf Tage verk\u00fcrzen, wenn sie ab der Ver\u00f6ffentlichung der Bekanntmachung die Vergabeunterlagen und unterst\u00fctzende Unterlagen entsprechend der Angaben in Anhang VI der Richtlinie 2009/81/EG elektronisch frei, direkt und vollst\u00e4ndig verf\u00fcgbar machen; in der Bekanntmachung ist die Internetadresse anzugeben, unter der diese Unterlagen abrufbar sind. Diese Verk\u00fcrzung nach Satz 2 kann mit der in Satz 1 genannten Verk\u00fcrzung verbunden werden.</P><P>(5) Die Auftraggeber m\u00fcssen rechtzeitig angeforderte zus\u00e4tzliche Informationen \u00fcber die Vergabeunterlagen, die Beschreibung oder die unterst\u00fctzenden Unterlagen im Falle des nicht offenen Verfahrens sp\u00e4testens sechs Tage oder im Falle des beschleunigten Verhandlungsverfahrens sp\u00e4testens vier Tage vor Ablauf der f\u00fcr die Einreichung von Angeboten festgelegten Frist \u00fcbermitteln.</P><P>(6) K\u00f6nnen die Angebote nur nach einer Ortsbesichtigung oder Einsichtnahme in nicht \u00fcbersandte Vergabeunterlagen erstellt werden oder konnten die Fristen nach Absatz 5 nicht eingehalten werden, so sind die Angebotsfristen entsprechend zu verl\u00e4ngern, und zwar so, dass alle betroffenen Unternehmen von allen Informationen, die f\u00fcr die Erstellung des Angebots notwendig sind, Kenntnis nehmen k\u00f6nnen.</P><P>(7) Bis zum Ablauf der Angebotsfrist k\u00f6nnen Bieter ihre Angebote zur\u00fcckziehen. Dabei sind die f\u00fcr die Einreichung der Angebote ma\u00dfgeblichen Formerfordernisse zu beachten.</P>",
+        "footnotes": "<Footnote FnZ=\"3\" Group=\"column\" ID=\"f777502_03_BJNR150900012BJNE002100000\" Pos=\"exp\" Postfix=\")\">Das Muster und die Modalit\u00e4ten f\u00fcr die elektronische \u00dcbermittlung der\u00a0 \u00a0Bekanntmachungen\u00a0 \u00a0sind\u00a0 \u00a0unter\u00a0 \u00a0der\u00a0 \u00a0Internetadresse <U>http://simap.europa.eu</U> abrufbar, vergleiche Anhang VI Nummer 3 der Richtlinie 2009/81/EG.</Footnote>",
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002201118",
+        "name": "\u00a7 21",
+        "title": "Eignung und Auswahl der Bewerber",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auftr\u00e4ge werden unter Wahrung der Eignungsanforderungen des \u00a7 122 Absatz 1 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen vergeben.</P><P>(2) Auftraggeber k\u00f6nnen Mindestanforderungen an die Eignung stellen, denen die Bewerber gen\u00fcgen m\u00fcssen. Diese Mindestanforderungen m\u00fcssen mit dem Auftragsgegenstand im sachlichen Zusammenhang stehen und durch ihn gerechtfertigt sein. Die Mindestanforderungen werden in der Bekanntmachung oder den Vergabeunterlagen angegeben.</P><P>(3) Im nicht offenen Verfahren, Verhandlungsverfahren mit Teilnahmewettbewerb und im wettbewerblichen Dialog d\u00fcrfen Auftraggeber die Zahl der geeigneten Bewerber begrenzen, die zur Abgabe eines Angebots aufgefordert werden. Dazu geben die Auftraggeber in der Bekanntmachung die von ihnen vorgesehenen objektiven und nicht diskriminierenden Anforderungen sowie die vorgesehene Mindestzahl und gegebenenfalls auch die H\u00f6chstzahl an Bewerbern an. Die Mindestzahl der Bewerber darf nicht niedriger als drei sein.<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sofern geeignete Bewerber in ausreichender Zahl zur Verf\u00fcgung stehen, wird das Verfahren mit der Anzahl von Bewerbern fortgef\u00fchrt, die der festgelegten Mindestzahl an Bewerbern entspricht.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sofern die Zahl geeigneter Bewerber unter der Mindestanzahl liegt, kann der Auftraggeber das Verfahren fortf\u00fchren. Ist der Auftraggeber der Auffassung, dass die Zahl der geeigneten Bewerber zu gering ist, um einen echten Wettbewerb zu gew\u00e4hrleisten, so kann er das Verfahren aussetzen und die erste Bekanntmachung gem\u00e4\u00df \u00a7 18 zur Festsetzung einer neuen Frist f\u00fcr die Einreichung von Antr\u00e4gen auf Teilnahme erneut ver\u00f6ffentlichen. In diesem Fall wird das Verfahren mit den nach der ersten sowie mit den nach der zweiten Bekanntmachung ausgew\u00e4hlten Bewerbern gem\u00e4\u00df \u00a7 29 fortgef\u00fchrt. Die M\u00f6glichkeit, das laufende Vergabeverfahren einzustellen und ein neues Verfahren einzuleiten, bleibt unber\u00fchrt.</LA></DD></DL></P><P>(4) Bewerber oder Bieter, die gem\u00e4\u00df den Rechtsvorschriften des EU-Mitgliedstaats, in dem sie ihre Niederlassung haben, zur Erbringung der betreffenden Leistung berechtigt sind, d\u00fcrfen nicht allein deshalb zur\u00fcckgewiesen werden, weil sie gem\u00e4\u00df den einschl\u00e4gigen deutschen Rechtsvorschriften eine nat\u00fcrliche oder juristische Person sein m\u00fcssten. Im Falle zus\u00e4tzlicher Dienstleistungen bei Lieferauftr\u00e4gen und im Falle von Dienstleistungsauftr\u00e4gen k\u00f6nnen juristische Personen verpflichtet werden, in ihrem Antrag auf Teilnahme oder Angebot die Namen und die berufliche Qualifikationen der Personen anzugeben, die f\u00fcr die Durchf\u00fchrung des Auftrags als verantwortlich vorgesehen sind.</P><P>(5) Bewerber- und Bietergemeinschaften sind wie Einzelbewerber und -bieter zu behandeln. Auftraggeber d\u00fcrfen nicht verlangen, dass nur Gruppen von Unternehmen, die eine bestimmte Rechtsform haben, einen Teilnahmeantrag stellen oder ein Angebot abgeben d\u00fcrfen. F\u00fcr den Fall der Auftragserteilung k\u00f6nnen die Auftraggeber verlangen, dass eine Bietergemeinschaft eine bestimmte Rechtsform annimmt, sofern dies f\u00fcr die ordnungsgem\u00e4\u00dfe Durchf\u00fchrung des Auftrags notwendig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002301118",
+        "name": "\u00a7 22",
+        "title": "Allgemeine Vorgaben zum Nachweis der Eignung und des Nichtvorliegens von Ausschlussgr\u00fcnden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auftraggeber m\u00fcssen in der Bekanntmachung oder im Verhandlungsverfahren ohne Teilnahmewettbewerb in den Vergabeunterlagen angeben, mit welchen Nachweisen gem\u00e4\u00df den \u00a7\u00a7 6, 7, 8 und 23 bis 28 Unternehmen ihre Eignung und das Nichtvorliegen von Ausschlussgr\u00fcnden nachzuweisen haben. Auftraggeber d\u00fcrfen von den Bewerbern oder Bietern zum Nachweis ihrer Eignung und f\u00fcr das Nichtvorliegen von Ausschlussgr\u00fcnden nur Unterlagen und Angaben fordern, die durch den Gegenstand des Auftrags gerechtfertigt sind.</P><P>(2) Soweit mit den vom Auftragsgegenstand betroffenen Verteidigungs- und Sicherheitsinteressen vereinbar, k\u00f6nnen Auftraggeber zulassen, dass Bewerber oder Bieter ihre Eignung durch die Vorlage einer Erkl\u00e4rung belegen, dass sie die vom Auftraggeber verlangten Eignungskriterien erf\u00fcllen und die festgelegten Nachweise auf Aufforderung unverz\u00fcglich beibringen k\u00f6nnen (Eigenerkl\u00e4rung).</P><P>(3) Erbringen Bewerber oder Bieter den Nachweis f\u00fcr die an die Eignung gestellten Mindestanforderungen nicht, werden sie im Rahmen eines nicht offenen Verfahrens, Verhandlungsverfahrens mit Teilnahmewettbewerb oder wettbewerblichen Dialogs nicht zur Abgabe eines Angebots aufgefordert. Wenn Bewerber oder Bieter im Verhandlungsverfahren ohne Teilnahmewettbewerb ein Angebot abgegeben haben, wird dieses nicht gewertet.</P><P>(4) Unternehmen sind verpflichtet, die geforderten Nachweise <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim nicht offenen Verfahren und Verhandlungsverfahren mit Teilnahmewettbewerb vor Ablauf der Teilnahmefrist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Verhandlungsverfahren ohne Teilnahmewettbewerb vor Ablauf der Angebotsfrist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Rahmenvereinbarung entsprechend der gew\u00e4hlten Verfahrensart gem\u00e4\u00df den Nummern 1 und 2,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim wettbewerblichen Dialog vor Ablauf der Teilnahmefrist</LA></DD></DL>vorzulegen, es sei denn, der jeweilige Nachweis ist elektronisch verf\u00fcgbar.</P><P>(5) Im nicht offenen Verfahren und Verhandlungsverfahren mit Teilnahmewettbewerb d\u00fcrfen die Vergabeunterlagen nur an geeignete Unternehmen \u00fcbersandt werden. Im Verhandlungsverfahren ohne Teilnahmewettbewerb d\u00fcrfen die Vergabeunterlagen an die Unternehmen \u00fcbermittelt werden, die vom Auftraggeber unter Beachtung der \u00a7\u00a7 6 und 7 ausgew\u00e4hlt wurden.</P><P>(6) Erkl\u00e4rungen und sonstige Unterlagen, die als Nachweis im Teilnahmewettbewerb oder mit dem Angebot einzureichen sind und auf Anforderung der Auftraggeber nicht bis zum Ablauf der ma\u00dfgeblichen Frist vorgelegt wurden, k\u00f6nnen bis zum Ablauf einer zu bestimmenden Nachfrist nachgefordert werden. Werden die Nachweise und sonstigen Unterlagen nicht innerhalb der Nachfrist vorgelegt, ist der Bewerber oder Bieter auszuschlie\u00dfen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002403118",
+        "name": "\u00a7 23",
+        "title": "Zwingender Ausschluss",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Der Auftraggeber schlie\u00dft ein Unternehmen zu jedem Zeitpunkt des Vergabeverfahrens von der Teilnahme aus, wenn ein zwingender Ausschlussgrund nach \u00a7 147 in Verbindung mit \u00a7 123 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen vorliegt. \u00a7 147 in Verbindung mit \u00a7 125 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen bleibt unber\u00fchrt.</P><P>(2) Zur Anwendung des Absatzes 1 kann der \u00f6ffentliche Auftraggeber die erforderlichen Informationen \u00fcber die pers\u00f6nliche Lage der Bewerber oder Bieter bei den zust\u00e4ndigen Beh\u00f6rden einholen, wenn er Bedenken in Bezug auf das Nichtvorliegen von Ausschlussgr\u00fcnden hat. Betreffen die Informationen einen Bewerber oder Bieter, der in einem anderen Mitgliedstaat als der Auftraggeber ans\u00e4ssig ist, so kann dieser die zust\u00e4ndigen Beh\u00f6rden um Mitarbeit ersuchen. Nach Ma\u00dfgabe des nationalen Rechts des Mitgliedstaats, in dem der Bewerber oder Bieter ans\u00e4ssig ist, betreffen diese Ersuchen juristische und nat\u00fcrliche Personen, gegebenenfalls auch die jeweiligen Unternehmensleiter oder jede andere Person, die befugt ist, den Bewerber oder Bieter zu vertreten, in seinem Namen Entscheidungen zu treffen oder ihn zu kontrollieren.</P><P>(3) Als ausreichenden Nachweis daf\u00fcr, dass die in \u00a7 147 in Verbindung mit \u00a7 123 Absatz 1 bis 3 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen genannten Ausschlussgr\u00fcnde auf den Bewerber oder Bieter nicht zutreffen, erkennt der Auftraggeber einen Auszug aus einem einschl\u00e4gigen Register, insbesondere ein F\u00fchrungszeugnis aus dem Bundeszentralregister oder, in Ermangelung eines solchen, eine gleichwertige Bescheinigung einer zust\u00e4ndigen Gerichts- oder Verwaltungsbeh\u00f6rde des Herkunftslandes oder des Niederlassungsstaates des Bewerbers oder Bieters an.</P><P>(4) Als ausreichenden Nachweis daf\u00fcr, dass die in \u00a7 147 in Verbindung mit \u00a7 123 Absatz 4 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen genannten Ausschlussgr\u00fcnde auf den Bewerber oder Bieter nicht zutreffen, erkennt der \u00f6ffentliche Auftraggeber eine von der zust\u00e4ndigen Beh\u00f6rde des Herkunftslandes oder des Niederlassungsstaates des Bewerbers oder Bieters ausgestellte Bescheinigung an.</P><P>(5) Wird eine Urkunde oder Bescheinigung von dem Herkunftsland des Bewerbers oder Bieters nicht ausgestellt oder werden darin nicht alle vorgesehenen F\u00e4lle erw\u00e4hnt, so kann sie durch eine Versicherung an Eides statt ersetzt werden. In den Staaten, in denen es keine Versicherung an Eides statt gibt, darf die Versicherung an Eides statt durch eine f\u00f6rmliche Erkl\u00e4rung ersetzt werden, die ein Vertreter des betreffenden Unternehmens vor einer zust\u00e4ndigen Gerichts- oder Verwaltungsbeh\u00f6rde, einem Notar oder einer daf\u00fcr qualifizierten Berufsorganisation des Herkunftslands abgibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002501118",
+        "name": "\u00a7 24",
+        "title": "Fakultativer Ausschluss",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Der Auftraggeber kann unter Ber\u00fccksichtigung des Grundsatzes der Verh\u00e4ltnism\u00e4\u00dfigkeit ein Unternehmen zu jedem Zeitpunkt des Vergabeverfahrens von der Teilnahme an einem Vergabeverfahren ausschlie\u00dfen, wenn ein fakultativer Ausschlussgrund nach \u00a7 147 in Verbindung mit \u00a7 124 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen vorliegt. \u00a7 147 in Verbindung mit \u00a7 125 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen bleibt unber\u00fchrt.</P><P>(2) Als ausreichenden Nachweis daf\u00fcr, dass die in \u00a7 147 in Verbindung mit \u00a7 124 Absatz 1 Nummer 2 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen genannten F\u00e4lle auf das Unternehmen nicht zutreffen, erkennt der \u00f6ffentliche Auftraggeber eine von der zust\u00e4ndigen Beh\u00f6rde des Herkunftslandes oder des Niederlassungsstaates des Bewerbers oder Bieters ausgestellte Bescheinigung an.</P><P>(3) Wird eine in Absatz 2 genannte Bescheinigung im Herkunftsland des Unternehmens nicht ausgestellt oder werden darin nicht alle in \u00a7 147 in Verbindung mit \u00a7 124 Absatz 1 Nummer 2 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen vorgesehenen F\u00e4lle erw\u00e4hnt, so kann sie durch eine Versicherung an Eides statt ersetzt werden. In den Mitgliedstaaten, in denen es keine Versicherung an Eides statt gibt, gilt \u00a7 23 Absatz 5 Satz 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002600000",
+        "name": "\u00a7 25",
+        "title": "Nachweis der Erlaubnis zur Berufsaus\u00fcbung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Auftraggeber k\u00f6nnen die Bewerber oder Bieter auffordern, als Nachweis f\u00fcr die Erlaubnis zur Berufsaus\u00fcbung <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Auszug eines Berufs- oder Handelsregisters gem\u00e4\u00df der unverbindlichen Liste des Anhangs VII Teil B und C der Richtlinie 2009/81/EG vorzulegen, wenn die Eintragung gem\u00e4\u00df den Vorschriften des Mitgliedstaats ihrer Herkunft oder Niederlassung Voraussetzung f\u00fcr die Berufsaus\u00fcbung ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>dar\u00fcber eine Erkl\u00e4rung unter Eid abzugeben oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine sonstige Bescheinigung vorzulegen.</LA></DD></DL></P><P>(2) M\u00fcssen Bewerber oder Bieter eine bestimmte Berechtigung besitzen oder Mitglied einer bestimmten Organisation sein, um eine Dienstleistung in ihrem Herkunftsmitgliedstaat erbringen zu k\u00f6nnen, k\u00f6nnen Auftraggeber Bewerber oder Bieter auffordern, dar\u00fcber den Nachweis zu erbringen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002700000",
+        "name": "\u00a7 26",
+        "title": "Nachweis der wirtschaftlichen und finanziellen Leistungsf\u00e4higkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auftraggeber k\u00f6nnen je nach Art, Verwendungszweck und Menge der zu liefernden G\u00fcter oder dem Umfang der zu erbringenden Dienstleistungen angemessene Nachweise der finanziellen und wirtschaftlichen Leistungsf\u00e4higkeit der Bewerber oder Bieter verlangen, insbesondere die Vorlage<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>entsprechender Bankerkl\u00e4rungen oder des Nachweises einer entsprechenden Berufshaftpflichtversicherung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>von Bilanzen oder Bilanzausz\u00fcgen, falls deren Ver\u00f6ffentlichung in dem Land, in dem der Bewerber oder Bieter ans\u00e4ssig ist, gesetzlich vorgeschrieben ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>einer Erkl\u00e4rung \u00fcber den Gesamtumsatz und den Umsatz f\u00fcr den durch den Auftragsgegenstand vorausgesetzten T\u00e4tigkeitsbereich, jedoch h\u00f6chstens f\u00fcr die letzten drei Gesch\u00e4ftsjahre, entsprechend dem Gr\u00fcndungsdatum oder dem Datum der T\u00e4tigkeitsaufnahme des Unternehmens, sofern entsprechende Angaben verf\u00fcgbar sind.</LA></DD></DL></P><P>(2) K\u00f6nnen Bewerber oder Bieter aus einem berechtigten Grund die geforderten Nachweise nicht beibringen, so kann der Auftraggeber die Vorlage jedes anderen geeigneten Nachweises zulassen.</P><P>(3) Bewerber oder Bieter k\u00f6nnen sich f\u00fcr einen bestimmten Auftrag auf die Leistungsf\u00e4higkeit anderer Unternehmen berufen, wenn sie nachweisen, dass ihnen dadurch die erforderlichen Mittel zur Verf\u00fcgung stehen. Dies gilt auch f\u00fcr Bewerber- oder Bietergemeinschaften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002802118",
+        "name": "\u00a7 27",
+        "title": "Nachweis der technischen und beruflichen Leistungsf\u00e4higkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auftraggeber k\u00f6nnen je nach Art, Verwendungszweck und Menge der zu liefernden G\u00fcter oder dem Umfang der zu erbringenden Dienstleistungen angemessene Nachweise der technischen und beruflichen Leistungsf\u00e4higkeit verlangen. Insbesondere k\u00f6nnen die Auftraggeber verlangen:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Lieferauftr\u00e4gen<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Liste der wesentlichen in den letzten f\u00fcnf Jahren erbrachten Lieferungen;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Muster, Beschreibungen oder Fotografien der zu liefernden G\u00fcter, deren Echtheit nach Aufforderung durch den Auftraggeber nachzuweisen ist;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bescheinigungen, die von zust\u00e4ndigen Instituten oder amtlichen Stellen f\u00fcr Qualit\u00e4tskontrolle ausgestellt wurden, mit denen best\u00e4tigt wird, dass die durch entsprechende Bezugnahmen genau bezeichneten G\u00fcter bestimmten Spezifikationen oder Normen entsprechen;</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der technischen Fachkr\u00e4fte oder der technischen Stellen, unabh\u00e4ngig davon, ob diese dem Unternehmen angeschlossen sind oder nicht, und zwar insbesondere derjenigen, die mit der Qualit\u00e4tskontrolle beauftragt sind;</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beschreibung der technischen Ausr\u00fcstung, der Ma\u00dfnahmen des Unternehmens zur Qualit\u00e4tssicherung und der Untersuchungs- und Forschungsm\u00f6glichkeiten des Unternehmens sowie der internen Vorschriften in Bezug auf gewerbliche Schutzrechte;</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei komplexer Art der zu liefernden G\u00fcter oder solchen, die ausnahmsweise einem besonderen Zweck dienen, eine Kontrolle, die vom Auftraggeber oder in dessen Namen von einer zust\u00e4ndigen amtlichen Stelle im Herkunftsland des Unternehmens durchgef\u00fchrt wird. Diese Kontrolle betrifft Produktionskapazit\u00e4ten und erforderlichenfalls die Untersuchungs- und Forschungsm\u00f6glichkeiten des Unternehmens sowie die von diesem f\u00fcr die Qualit\u00e4tskontrolle getroffenen Vorkehrungen;</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle zus\u00e4tzlicher Dienst- oder Bauleistungen die Studien- und Ausbildungsnachweise sowie Bescheinigungen dar\u00fcber, dass das Unternehmen die Erlaubnis zur Berufsaus\u00fcbung sowie die F\u00fchrungskr\u00e4fte des Unternehmens und insbesondere die f\u00fcr die Erbringung der Dienst- oder Bauleistung verantwortlichen Personen die erforderliche berufliche Bef\u00e4higung besitzen;</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Erkl\u00e4rung, aus der die durchschnittliche j\u00e4hrliche Besch\u00e4ftigtenzahl des Unternehmens und die Zahl seiner F\u00fchrungskr\u00e4fte in den letzten drei Jahren ersichtlich ist;</LA></DD><DT>i)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beschreibung der Ausstattung, der Ger\u00e4te, der technischen Ausr\u00fcstung sowie die Angabe der Anzahl der Mitarbeiter und ihrer Kenntnisse sowie die Angabe der Zulieferer, auf die das Unternehmen zur\u00fcckgreifen kann, um den Auftrag auszuf\u00fchren und einen etwaigen steigenden Bedarf des Auftraggebers infolge einer Krise zu decken oder die Wartung, Modernisierung oder Anpassung der im Rahmen des Auftrags gelieferten G\u00fcter sicherzustellen. Zur Angabe der Zulieferer geh\u00f6rt die Angabe des geografischen Standortes, falls diese Zulieferer au\u00dferhalb der Europ\u00e4ischen Union ans\u00e4ssig sind;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Dienstleistungsauftr\u00e4gen<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Liste der wesentlichen in den letzten f\u00fcnf Jahren erbrachten Dienstleistungen;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Muster, Beschreibungen oder Fotografien der zu erbringenden Dienstleistungen, deren Echtheit nach Aufforderung durch den Auftraggeber nachzuweisen ist;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Studien- und Ausbildungsnachweise sowie Bescheinigungen dar\u00fcber, dass das Unternehmen die Erlaubnis zur Berufsaus\u00fcbung sowie die F\u00fchrungskr\u00e4fte des Unternehmens und insbesondere die f\u00fcr die Erbringung der Dienstleistung verantwortlichen Personen die erforderliche berufliche Bef\u00e4higung besitzen;</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der technischen Fachkr\u00e4fte oder der technischen Stellen, unabh\u00e4ngig davon, ob diese dem Unternehmen angeschlossen sind oder nicht, und zwar insbesondere derjenigen, die mit der Qualit\u00e4tskontrolle beauftragt sind;</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Dienstleistungen komplexer Art oder solchen, die ausnahmsweise einem besonderen Zweck dienen, eine Kontrolle, die vom Auftraggeber oder in dessen Namen von einer zust\u00e4ndigen amtlichen Stelle im Herkunftsland des Unternehmens durchgef\u00fchrt wird. Diese Kontrolle betrifft die technische Leistungsf\u00e4higkeit und erforderlichenfalls die Untersuchungs- und Forschungsm\u00f6glichkeiten des Unternehmens sowie die von diesem f\u00fcr die Qualit\u00e4tskontrolle getroffenen Vorkehrungen;</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle zus\u00e4tzlicher Bauleistungen die Studien- und Ausbildungsnachweise sowie Bescheinigungen dar\u00fcber, dass das Unternehmen die Erlaubnis zur Berufsaus\u00fcbung sowie die F\u00fchrungskr\u00e4fte des Unternehmens und insbesondere die f\u00fcr die Ausf\u00fchrung der Bauleistung verantwortlichen Personen die erforderliche berufliche Bef\u00e4higung besitzen;</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der durch den Auftragsgegenstand erforderlichen Umweltmanagementma\u00dfnahmen;</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Erkl\u00e4rung, aus der die durchschnittliche j\u00e4hrliche Besch\u00e4ftigtenzahl des Unternehmens und die Zahl seiner F\u00fchrungskr\u00e4fte in den letzten drei Jahren ersichtlich ist;</LA></DD><DT>i)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beschreibung der Ausstattung, der Ger\u00e4te, der technischen Ausr\u00fcstung sowie die Angabe der Anzahl der Mitarbeiter und ihrer Kenntnisse sowie die Angabe der Zulieferer, auf die das Unternehmen zur\u00fcckgreifen kann, um den Auftrag auszuf\u00fchren und einen etwaigen steigenden Bedarf des Auftraggebers infolge einer Krise zu decken. Zur Angabe der Zulieferer geh\u00f6rt die Angabe ihres geografischen Standortes, falls diese Zulieferer au\u00dferhalb der Europ\u00e4ischen Union ans\u00e4ssig sind.</LA></DD></DL></LA></DD></DL></P><P>(2) Verlangt der Auftraggeber Angaben zu erbrachten Liefer- und Dienstleistungen im Sinne des Absatzes 1 Nummer 1 Buchstabe a und Nummer 2 Buchstabe a \u00fcber erbrachte Leistungen, so sind diese zu erbringen<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Leistungen an \u00f6ffentliche Auftraggeber durch eine von der zust\u00e4ndigen Beh\u00f6rde ausgestellte Bescheinigung, die beglaubigt werden kann, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Leistungen an private Auftraggeber durch eine von diesen ausgestellte Bescheinigung oder, falls eine solche Bescheinigung nicht erh\u00e4ltlich ist, durch einfache Erkl\u00e4rung.</LA></DD></DL></P><P>(3) Ausk\u00fcnfte im Sinne des Absatzes 2 enthalten mindestens die folgenden Angaben:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name der Auskunftsperson;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wert der Leistung;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zeit der Leistungserbringung;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angabe, ob die Lieferleistung sachmangelfrei und ordnungsgem\u00e4\u00df oder die Dienstleistung fachgerecht und ordnungsgem\u00e4\u00df ausgef\u00fchrt wurde.</LA></DD></DL></P><P>(4) Bewerber oder Bieter k\u00f6nnen sich f\u00fcr einen bestimmten Auftrag auf die Leistungsf\u00e4higkeit anderer Unternehmen berufen, wenn sie nachweisen, dass diese ihnen die f\u00fcr die Auftragsausf\u00fchrung erforderlichen Mittel zur Verf\u00fcgung stellen. Dies gilt auch f\u00fcr Bewerber- oder Bietergemeinschaften. Der Nachweis kann auch durch Zusage der Unternehmen erfolgen, die dem Bewerber oder Bieter die f\u00fcr die Auftragsausf\u00fchrung erforderlichen Mittel zur Verf\u00fcgung stellen. Die Zusage muss in Schriftform oder elektronisch mindestens mittels einer fortgeschrittenen elektronischen Signatur oder mindestens mittels eines fortgeschrittenen elektronischen Siegels erfolgen.</P><P>(5) K\u00f6nnen Bewerber oder Bieter aus einem berechtigten Grund die geforderten Nachweise ihrer technischen und beruflichen Leistungsf\u00e4higkeit nicht beibringen, so kann der Auftraggeber die Vorlage jedes anderen geeigneten Nachweises zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE002900000",
+        "name": "\u00a7 28",
+        "title": "Nachweis f\u00fcr die Einhaltung von Normen des Qualit\u00e4ts- und Umweltmanagements",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Verlangen Auftraggeber zum Nachweis daf\u00fcr, dass Bewerber oder Bieter bestimmte Normen des Qualit\u00e4tsmanagements erf\u00fcllen, die Vorlage von Bescheinigungen unabh\u00e4ngiger und akkreditierter Stellen, so beziehen sich Auftraggeber auf Qualit\u00e4tsmanagementsysteme, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den einschl\u00e4gigen europ\u00e4ischen Normen gen\u00fcgen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>von unabh\u00e4ngigen akkreditierten Stellen zertifiziert sind, die den europ\u00e4ischen Normen f\u00fcr die Akkreditierung und Zertifizierung entsprechen.</LA></DD></DL>Auftraggeber erkennen gleichwertige Bescheinigungen von unabh\u00e4ngigen akkreditierten Stellen aus anderen Mitgliedstaaten und andere Nachweise f\u00fcr gleichwertige Qualit\u00e4tsmanagementsysteme an.</P><P>(2) Verlangen Auftraggeber bei der Vergabe von Dienstleistungsauftr\u00e4gen als Nachweis der technischen Leistungsf\u00e4higkeit, dass Bewerber oder Bieter bestimmte Normen f\u00fcr das Umweltmanagement erf\u00fcllen, die Vorlage von Bescheinigungen unabh\u00e4ngiger Stellen, so beziehen sich Auftraggeber<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>entweder auf das Gemeinschaftssystem f\u00fcr das Umweltmanagement und die Umweltbetriebspr\u00fcfung (EMAS) oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>auf Normen f\u00fcr das Umweltmanagement, die auf den einschl\u00e4gigen europ\u00e4ischen oder internationalen Normen beruhen und von entsprechenden Stellen zertifiziert sind, die dem Gemeinschaftsrecht oder europ\u00e4ischen oder internationalen Zertifizierungsnormen entsprechen.</LA></DD></DL>Gleichwertige Bescheinigungen von Stellen in anderen Mitgliedstaaten sind anzuerkennen. Auftraggeber erkennen auch andere Nachweise f\u00fcr gleichwertige Umweltmanagementma\u00dfnahmen an, die von Bewerbern oder Bietern vorgelegt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003001118",
+        "name": "\u00a7 29",
+        "title": "Aufforderung zur Abgabe eines Angebots",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Beim nicht offenen Verfahren, Verhandlungsverfahren mit Teilnahmewettbewerb und wettbewerblichen Dialog fordern Auftraggeber die Bewerber mit der Benachrichtigung \u00fcber die Auswahl auf, ihre Angebote einzureichen oder zu verhandeln oder \u2013 im Falle des wettbewerblichen Dialogs \u2013 am Dialog teilzunehmen.</P><P>(2) Die Aufforderung enth\u00e4lt die Vergabeunterlagen und alle unterst\u00fctzenden Unterlagen oder die Angabe, wie darauf gem\u00e4\u00df \u00a7 20 Absatz 4 Satz 2 elektronisch zugegriffen werden kann.</P><P>(3) H\u00e4lt eine andere Stelle als der f\u00fcr das Vergabeverfahren zust\u00e4ndige Auftraggeber die Unterlagen bereit, gibt der Auftraggeber in der Aufforderung die Anschrift dieser Stelle an und den Zeitpunkt, bis zu dem die Unterlagen angefordert werden k\u00f6nnen. Dar\u00fcber hinaus sind der Betrag, der f\u00fcr den Erhalt der Unterlagen zu entrichten ist, und die Zahlungsbedingungen anzugeben. Die Unternehmen erhalten die Unterlagen unverz\u00fcglich nach Zugang der Anforderung.</P><P>(4) Ver\u00f6ffentlicht der Auftraggeber zus\u00e4tzliche Informationen \u00fcber die Vergabeunterlagen und sonstige erg\u00e4nzende Unterlagen, so gilt \u00a7 20 Absatz 5.</P><P>(5) Die Aufforderung enth\u00e4lt \u00fcber die in den Abs\u00e4tzen 2, 3 und 4 genannten Angaben mindestens:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Hinweis auf die ver\u00f6ffentlichte Bekanntmachung;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Tag, bis zu dem die Angebote eingehen m\u00fcssen, die Anschrift der Stelle, bei der sie einzureichen sind, sowie die Sprache, in der sie abzufassen sind. Im Falle eines wettbewerblichen Dialogs ist diese Information nicht in der Aufforderung zur Teilnahme am Dialog, sondern in der Aufforderung zur Angebotsabgabe aufzuf\u00fchren;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim wettbewerblichen Dialog den Termin und den Ort des Beginns der Konsultationsphase sowie die verwendeten Sprachen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Liste der beizuf\u00fcgenden Eignungsnachweise im Falle des Verhandlungsverfahrens ohne Teilnahmewettbewerb;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gewichtung der Zuschlagskriterien oder die absteigende Reihenfolge der diesen Kriterien zuerkannten Bedeutung, anhand derer das wirtschaftlichste Angebot bestimmt wird, wenn diese nicht bereits in der Bekanntmachung enthalten sind.</LA></DD></DL></P><P>(6) Auftraggeber k\u00f6nnen verlangen, dass Bieter im Angebot angeben, ob f\u00fcr den Gegenstand des Angebots gewerbliche Schutzrechte bestehen oder von den Bietern oder Dritten beantragt sind.Bieter haben stets anzugeben, ob sie erw\u00e4gen, Angaben aus ihrem Angebot f\u00fcr die Anmeldung eines gewerblichen Schutzrechtes zu verwerten.</P><P>(7) Bietergemeinschaften haben im Angebot jeweils die Mitglieder sowie eines ihrer Mitglieder als bevollm\u00e4chtigen Vertreter f\u00fcr den Abschluss und die Durchf\u00fchrung des Vertrags zu benennen. Fehlt eine dieser Angaben im Angebot, so ist sie vor der Zuschlagserteilung beizubringen. \u00a7 22 Absatz 6 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003100000",
+        "name": "\u00a7 30",
+        "title": "\u00d6ffnung der Angebote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auf dem Postweg und direkt \u00fcbermittelte Angebote sind unge\u00f6ffnet zu lassen, mit Eingangsvermerk zu versehen und bis zum Zeitpunkt der \u00d6ffnung unter Verschluss zu halten. Elektronische Angebote sind auf geeignete Weise zu kennzeichnen und verschl\u00fcsselt aufzubewahren. Mittels Telefax eingereichte Angebote sind ebenfalls entsprechend zu kennzeichnen und auf geeignete Weise unter Verschluss zu halten.</P><P>(2) Die \u00d6ffnung der Angebote wird von mindestens zwei Vertretern des Auftraggebers gemeinsam durchgef\u00fchrt und dokumentiert. Bieter sind nicht zugelassen. Dabei wird mindestens festgehalten:<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Name und Anschrift der Bieter,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Endbetr\u00e4ge ihrer Angebote und andere den Preis betreffenden Angaben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>ob und von wem Nebenangebote eingereicht worden sind.</LA></DD></DL></P><P>(3) Die Angebote und ihre Anlagen sowie die Dokumentation \u00fcber die Angebots\u00f6ffnung sind auch nach Abschluss des Vergabeverfahrens sorgf\u00e4ltig zu verwahren und vertraulich zu behandeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003201118",
+        "name": "\u00a7 31",
+        "title": "Pr\u00fcfung der Angebote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Angebote sind auf Vollst\u00e4ndigkeit sowie auf fachliche und rechnerische Richtigkeit zu pr\u00fcfen.</P><P>(2) Ausgeschlossen werden:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote, die nicht die geforderten oder nachgeforderten Erkl\u00e4rungen und Nachweise enthalten;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote, die nicht unterschrieben sind oder nicht mindestens versehen sind mit einer fortgeschrittenen elektronischen Signatur oder mit einem fortgeschrittenen elektronischen Siegel;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote, in denen \u00c4nderungen des Bieters an seinen Eintragungen nicht zweifelsfrei sind;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote, bei denen \u00c4nderungen oder Erg\u00e4nzungen an den Vergabeunterlagen vorgenommen worden sind;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote, die nicht form- oder fristgerecht eingegangen sind, es sei denn, der Bieter hat dies nicht zu vertreten;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote von Bietern, die in Bezug auf die Vergabe eine unzul\u00e4ssige, wettbewerbsbeschr\u00e4nkende Abrede getroffen haben;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote von Bietern, die auch als Bewerber gem\u00e4\u00df \u00a7 24 von der Teilnahme am Wettbewerb h\u00e4tten ausgeschlossen werden k\u00f6nnen;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angebote, die nicht die erforderlichen Preisangaben enthalten, es sei denn, es handelt sich um unwesentliche Einzelpositionen, deren Einzelpreise den Gesamtpreis nicht ver\u00e4ndern oder die Wertungsreihenfolge und den Wettbewerb nicht beeintr\u00e4chtigen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003300000",
+        "name": "\u00a7 32",
+        "title": "Nebenangebote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Auftraggeber k\u00f6nnen Nebenangebote in der Bekanntmachung zulassen. In diesem Fall geben Auftraggeber in den Vergabeunterlagen an, welche Mindestanforderungen f\u00fcr Nebenangebote gelten und in welcher Art und Weise Nebenangebote einzureichen sind. Auftraggeber ber\u00fccksichtigen nur Nebenangebote, die den in den Vergabeunterlagen festgelegten Mindestanforderungen entsprechen. Nebenangebote sind auszuschlie\u00dfen, wenn sie in der Bekanntmachung nicht ausdr\u00fccklich zugelassen sind.</P><P>(2) Auftraggeber d\u00fcrfen ein Nebenangebot nicht deshalb zur\u00fcckweisen, weil es im Falle des Zuschlags zu einem Dienstleistungsauftrag anstelle eines Lieferauftrags oder zu einem Lieferauftrag anstelle eines Dienstleistungsauftrags f\u00fchren w\u00fcrde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003401118",
+        "name": "\u00a7 33",
+        "title": "Ungew\u00f6hnlich niedrige Angebote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Erscheint ein Angebot im Verh\u00e4ltnis zu der zu erbringenden Leistung ungew\u00f6hnlich niedrig, verlangen die Auftraggeber vor Ablehnung dieses Angebots vom Bieter Aufkl\u00e4rung \u00fcber dessen Einzelpositionen. Auf Angebote, deren Preise in offenbarem Missverh\u00e4ltnis zur Leistung stehen, darf der Zuschlag nicht erteilt werden.</P><P>(2) Auftraggeber pr\u00fcfen die Zusammensetzung des Angebots und ber\u00fccksichtigen die gelieferten Nachweise. Sie k\u00f6nnen Bieter zur Aufkl\u00e4rung betreffend der Einzelpositionen des Angebots auffordern.</P><P>(3) Angebote, die aufgrund einer staatlichen Beihilfe im Sinne des Artikels 107 des Vertrags \u00fcber die Arbeitsweise der Europ\u00e4ischen Union ungew\u00f6hnlich niedrig sind, d\u00fcrfen aus diesem Grund nur abgelehnt werden, wenn das Unternehmen nach Aufforderung innerhalb einer von den Auftraggebern festzulegenden ausreichenden Frist nicht nachweisen kann, dass die betreffende Beihilfe rechtm\u00e4\u00dfig gew\u00e4hrt wurde. Auftraggeber, die unter diesen Umst\u00e4nden ein Angebot ablehnen, m\u00fcssen dies der Europ\u00e4ischen Kommission mitteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003502118",
+        "name": "\u00a7 34",
+        "title": "Zuschlag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Annahme eines Angebots (Zuschlag) erfolgt in Schriftform oder elektronisch mindestens mittels einer fortgeschrittenen elektronischen Signatur oder mindestens mittels eines fortgeschrittenen elektronischen Siegels. Bei \u00dcbermittlung durch Telefax gen\u00fcgt die Unterschrift auf der Telefaxvorlage.</P><P>(2) Zur Ermittlung des wirtschaftlichsten Angebots wendet der Auftraggeber die in der Bekanntmachung oder den Vergabeunterlagen angegebenen Zuschlagskriterien in der festgelegten Gewichtung oder in der absteigenden Reihenfolge der ihnen zuerkannten Bedeutung an. Diese Zuschlagskriterien m\u00fcssen sachlich durch den Auftragsgegenstand gerechtfertigt sein. Insbesondere k\u00f6nnen folgende Kriterien erfasst sein:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Qualit\u00e4t,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Preis,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zweckm\u00e4\u00dfigkeit,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">technischer Wert, Kundendienst und technische Hilfe,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betriebskosten, Rentabilit\u00e4t, Lebenszykluskosten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Interoperabilit\u00e4t und Eigenschaften beim Einsatz,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Umwelteigenschaften,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Lieferfrist oder Ausf\u00fchrungsdauer und</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versorgungssicherheit.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003601118",
+        "name": "\u00a7 35",
+        "title": "Bekanntmachung \u00fcber die Auftragserteilung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Auftraggeber sind verpflichtet, die Vergabe eines Auftrags oder den Abschluss einer Rahmenvereinbarung innerhalb von 48 Tagen bekanntzumachen. Die Bekanntmachung \u00fcber die Auftragserteilung wird nach dem Muster gem\u00e4\u00df Anhang XV der Durchf\u00fchrungsverordnung (EU) 2015/1986 erstellt. Diese Pflicht besteht nicht f\u00fcr die Vergabe von Einzelauftr\u00e4gen, die aufgrund einer Rahmenvereinbarung erfolgen.</P><P>(2) Die Auftraggeber m\u00fcssen eine Auftragsvergabe oder den Abschluss einer Rahmenvereinbarung nicht bekannt geben, soweit deren Offenlegung den Gesetzesvollzug behindern, dies dem \u00f6ffentlichen Interesse, insbesondere Verteidigungs- oder Sicherheitsinteressen, zuwiderlaufen, die berechtigten gesch\u00e4ftlichen Interessen \u00f6ffentlicher oder privater Unternehmen sch\u00e4digen oder den lauteren Wettbewerb zwischen ihnen beeintr\u00e4chtigen k\u00f6nnte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003702118",
+        "name": "\u00a7 36",
+        "title": "Unterrichtung der Bewerber oder Bieter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Unbeschadet des \u00a7 147 in Verbindung mit \u00a7 134 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen unterrichten die Auftraggeber alle Bewerber oder Bieter unverz\u00fcglich \u00fcber die Gr\u00fcnde f\u00fcr die Entscheidung, einen Auftrag oder eine Rahmenvereinbarung, f\u00fcr die eine Bekanntmachung ver\u00f6ffentlicht wurde, nicht zu vergeben oder das Verfahren neu einzuleiten. Diese Information wird auf Verlangen der Bewerber oder Bieter schriftlich erteilt.</P><P>(2) Unbeschadet des \u00a7 147 in Verbindung mit \u00a7 134 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen unterrichten die Auftraggeber auf Verlangen des Betroffenen unverz\u00fcglich, sp\u00e4testens 15 Tage nach Eingang eines entsprechenden Antrags in Textform nach \u00a7 126b des B\u00fcrgerlichen Gesetzbuchs, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">jeden nicht erfolgreichen Bewerber \u00fcber die Gr\u00fcnde f\u00fcr die Ablehnung der Bewerbung;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">jeden nicht ber\u00fccksichtigten Bieter \u00fcber die Gr\u00fcnde f\u00fcr die Ablehnung des Angebots, insbesondere die Gr\u00fcnde daf\u00fcr, dass keine Gleichwertigkeit im Sinne des \u00a7 15 Absatz 4 und 5 dieser Verordnung vorliegt oder dass die Lieferungen oder Dienstleistungen nicht den Leistungs- oder Funktionsanforderungen entsprechen, und in den F\u00e4llen der \u00a7\u00a7 7 und 8 die Gr\u00fcnde daf\u00fcr, dass keine Gleichwertigkeit bez\u00fcglich der Anforderungen an den Schutz von Verschlusssachen oder an die Versorgungssicherheit durch Unternehmen vorliegt;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">jeden Bieter, der ein ordnungsgem\u00e4\u00dfes Angebot eingereicht hat, das jedoch abgelehnt worden ist, \u00fcber die Merkmale und Vorteile des ausgew\u00e4hlten Angebots sowie \u00fcber den Namen des Zuschlagsempf\u00e4ngers oder der Vertragspartner der Rahmenvereinbarung.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003800000",
+        "name": "\u00a7 37",
+        "title": "Aufhebung und Einstellung des Vergabeverfahrens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000200000"
+        },
+        "body": "<P>(1) Die Vergabeverfahren k\u00f6nnen ganz oder bei Vergabe nach Losen auch teilweise aufgehoben werden, wenn<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>kein Angebot eingegangen ist, das den Bewerbungsbedingungen entspricht,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sich die Grundlagen der Vergabeverfahren wesentlich ge\u00e4ndert haben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sie kein wirtschaftliches Ergebnis gehabt haben oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>andere schwerwiegende Gr\u00fcnde bestehen.</LA></DD></DL></P><P>(2) Die Auftraggeber teilen den Bewerbern oder Bietern nach Aufhebung des Vergabeverfahrens mindestens in Textform im Sinne des \u00a7 126b des B\u00fcrgerlichen Gesetzbuchs unverz\u00fcglich die Gr\u00fcnde f\u00fcr ihre Entscheidung mit, auf die Vergabe eines bekannt gemachten Auftrags zu verzichten oder das Vergabeverfahren erneut einzuleiten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR150900012BJNG000300000",
+        "name": "Teil 3",
+        "title": "Unterauftragsvergabe",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE003901118",
+        "name": "\u00a7 38",
+        "title": "Allgemeine Vorgaben zur Unterauftragsvergabe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000300000"
+        },
+        "body": "<P>(1) In den F\u00e4llen des \u00a7 9 Absatz 3 Nummer 1 und 2 vergeben Auftragnehmer, die keine \u00f6ffentlichen Auftraggeber im Sinne des \u00a7 99 oder Sektorenauftraggeber im Sinne des \u00a7 100 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen oder vergleichbarer Normen anderer Mitgliedstaaten der Europ\u00e4ischen Union sind, Unterauftr\u00e4ge an Dritte nach den Vorschriften dieses Teils. Die Auftragnehmer vergeben Unterauftr\u00e4ge im Wege transparenter Verfahren und behandeln s\u00e4mtliche potenzielle Unterauftragnehmer gleich und in nicht diskriminierender Weise.</P><P>(2) F\u00fcr die Zwecke von Absatz 1 gelten Bietergemeinschaften oder mit dem Auftragnehmer verbundene Unternehmen nicht als Unterauftragnehmer im Sinne dieses Teils. Der Bieter f\u00fcgt dem Angebot eine vollst\u00e4ndige Liste dieser Unternehmen bei. Ergeben sich \u00c4nderungen in den Beziehungen zwischen den Unternehmen, ist dem Auftraggeber dar\u00fcber eine aktualisierte Liste zur Verf\u00fcgung zu stellen.</P><P>(3) Auftragnehmer, die \u00f6ffentliche Auftraggeber sind, halten bei der Unterauftragsvergabe die Vorschriften dieser Verordnung \u00fcber die Vergabe von Hauptauftr\u00e4gen ein.</P><P>(4) F\u00fcr die Sch\u00e4tzung des Wertes von Unterauftr\u00e4gen gilt \u00a7 3 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE004001118",
+        "name": "\u00a7 39",
+        "title": "Bekanntmachung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000300000"
+        },
+        "body": "<P>(1) Der Auftragnehmer ver\u00f6ffentlicht seine Absicht, einen Unterauftrag zu vergeben, in Form einer Bekanntmachung. Die Bekanntmachung enth\u00e4lt zumindest die in Anhang V der Richtlinie 2009/81/EG aufgef\u00fchrten Informationen sowie die Auswahlkriterien des \u00a7 40 Absatz 1. F\u00fcr die Bekanntmachung ist die Einwilligung des Auftraggebers einzuholen. Die Bekanntmachung wird nach dem Muster gem\u00e4\u00df Anhang XVI der Durchf\u00fchrungsverordnung (EU) 2015/1986 erstellt und wird gem\u00e4\u00df \u00a7 18 Absatz 4 und 5 ver\u00f6ffentlicht.</P><P>(2) Eine Bekanntmachung \u00fcber Unterauftr\u00e4ge ist nicht erforderlich, wenn in entsprechender Anwendung des \u00a7 12 eine Bekanntmachung verzichtbar ist, weil ein Verhandlungsverfahren ohne Teilnahmewettbewerb zul\u00e4ssig w\u00e4re.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE004100000",
+        "name": "\u00a7 40",
+        "title": "Kriterien zur Auswahl der Unterauftragsnehmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000300000"
+        },
+        "body": "<P>(1) In der Bekanntmachung f\u00fcr den Unterauftrag gibt der Auftragnehmer die vom Auftraggeber festgelegten Eignungskriterien sowie alle anderen Kriterien an, die er f\u00fcr die Auswahl der Unterauftragnehmer anwenden wird. Diese Kriterien m\u00fcssen objektiv und nicht diskriminierend sein und im Einklang mit den Kriterien stehen, die der Auftraggeber f\u00fcr die Auswahl der Bieter f\u00fcr den Hauptauftrag angewandt hat. Die geforderte Leistungsf\u00e4higkeit muss in unmittelbarem Zusammenhang mit dem Gegenstand des Unterauftrags stehen und das Niveau der geforderten F\u00e4higkeiten muss dem Gegenstand des Unterauftrags angemessen sein.</P><P>(2) Der Auftraggeber darf vom Auftragnehmer nicht verlangen, einen Unterauftrag zu vergeben, wenn dieser nachweist, dass keiner der Unterauftragnehmer, die an dem Wettbewerb teilnehmen, oder keines der eingereichten Angebote die in der Bekanntmachung \u00fcber den Unterauftrag genannten Kriterien erf\u00fcllt und es daher dem erfolgreichen Bieter unm\u00f6glich w\u00e4re, die Anforderungen des Hauptauftrags zu erf\u00fcllen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE004200000",
+        "name": "\u00a7 41",
+        "title": "Unterauftr\u00e4ge aufgrund einer Rahmenvereinbarung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000300000"
+        },
+        "body": "<P>(1) Der Auftragnehmer kann die Anforderungen an die Vergabe von Unterauftr\u00e4gen im Sinne des \u00a7 9 Absatz 3 Nummer 1 und 2 erf\u00fcllen, indem er Unterauftr\u00e4ge auf der Grundlage einer Rahmenvereinbarung vergibt, die unter Einhaltung des \u00a7 38 Absatz 1 Satz 2, der \u00a7\u00a7 39 und 40 geschlossen wurde. Unterauftr\u00e4ge auf der Grundlage einer solchen Rahmenvereinbarung werden gem\u00e4\u00df den Bedingungen der Rahmenvereinbarung vergeben. Sie d\u00fcrfen nur an Unternehmen vergeben werden, die von Anfang an Parteien der Rahmenvereinbarung waren.</P><P>(2) F\u00fcr die durch den Auftragnehmer geschlossene Rahmenvereinbarung gilt \u00a7 14 Absatz 1 Satz 2 und Absatz 6 Satz 1 und 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR150900012BJNG000400000",
+        "name": "Teil 4",
+        "title": "Besondere Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE004300000",
+        "name": "\u00a7 42",
+        "title": "Ausgeschlossene Personen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000400000"
+        },
+        "body": "<P>(1) Als Organmitglied oder Mitarbeiter eines Auftraggebers oder als Beauftragter oder als Mitarbeiter eines Beauftragten eines Auftraggebers d\u00fcrfen bei Entscheidungen in einem Vergabeverfahren f\u00fcr einen Auftraggeber als voreingenommen geltende nat\u00fcrliche Personen nicht mitwirken, soweit sie in diesem Verfahren<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Bieter oder Bewerber sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einen Bieter oder Bewerber beraten oder sonst unterst\u00fctzen oder als gesetzlicher Vertreter oder nur in dem Vergabeverfahren vertreten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>besch\u00e4ftigt oder t\u00e4tig sind<DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>bei einem Bieter oder Bewerber gegen Entgelt oder bei ihm als Mitglied des Vorstandes, Aufsichtsrates oder gleichartigen Organs,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>f\u00fcr ein in das Vergabeverfahren eingeschaltetes Unternehmen, wenn dieses Unternehmen zugleich gesch\u00e4ftliche Beziehungen zum Auftraggeber und zum Bieter oder Bewerber hat,</LA></DD></DL>es sei denn, dass daraus kein Interessenkonflikt f\u00fcr die Person entsteht oder sich die T\u00e4tigkeiten nicht auf die Entscheidungen in dem Vergabeverfahren auswirken.</LA></DD></DL></P><P>(2) Als voreingenommen gelten auch die Personen, deren Angeh\u00f6rige die Voraussetzungen nach Absatz 1 Nummer 1 bis 3 erf\u00fcllen. Angeh\u00f6rige sind der Verlobte, der Ehegatte, Lebenspartner, Verwandte und Verschw\u00e4gerte gerader Linie, Geschwister, Kinder der Geschwister, Ehegatten und Lebenspartner der Geschwister und Geschwister der Ehegatten und Lebenspartner, Geschwister der Eltern sowie Pflegeeltern und Pflegekinder.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE004400000",
+        "name": "\u00a7 43",
+        "title": "Dokumentations- und Aufbewahrungspflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000400000"
+        },
+        "body": "<P>(1) Das Vergabeverfahren ist von Beginn an in einem Vergabevermerk fortlaufend zu dokumentieren, um die einzelnen Stufen des Verfahrens, die einzelnen Ma\u00dfnahmen sowie die Begr\u00fcndung der einzelnen Entscheidungen festzuhalten.</P><P>(2) Der Vergabevermerk umfasst zumindest:<DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Namen und die Anschrift des \u00f6ffentlichen Auftraggebers, Gegenstand und Wert des Auftrags oder der Rahmenvereinbarung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Namen der ber\u00fccksichtigten Bewerber oder Bieter und die Gr\u00fcnde f\u00fcr ihre Auswahl,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Namen der nicht ber\u00fccksichtigten Bewerber oder Bieter und die Gr\u00fcnde f\u00fcr ihre Ablehnung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Gr\u00fcnde f\u00fcr die Ablehnung von ungew\u00f6hnlich niedrigen Angeboten,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>den Namen des erfolgreichen Bieters und die Gr\u00fcnde f\u00fcr die Auswahl seines Angebots sowie, falls bekannt, den Anteil am Auftrag oder an der Rahmenvereinbarung, den der Zuschlagsempf\u00e4nger an Dritte weiterzugeben beabsichtigt oder verpflichtet ist weiterzugeben,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>beim Verhandlungsverfahren ohne Teilnahmewettbewerb und wettbewerblichen Dialog die in dieser Verordnung jeweils genannten Umst\u00e4nde oder Gr\u00fcnde, die die Anwendung dieser Verfahren rechtfertigen; gegebenenfalls die Begr\u00fcndung f\u00fcr die \u00dcberschreitung der Fristen gem\u00e4\u00df \u00a7 12 Absatz 1 Nummer 2 Buchstabe a Satz 2 und Nummer 3 Buchstabe b Satz 3 sowie f\u00fcr die \u00dcberschreitung der Schwelle von 50 Prozent gem\u00e4\u00df \u00a7 12 Absatz 1 Nummer 3 Buchstabe a,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>gegebenenfalls die Gr\u00fcnde, aus denen die Auftraggeber auf die Vergabe eines Auftrags oder den Abschluss einer Rahmenvereinbarung verzichtet haben,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>die Gr\u00fcnde, aufgrund derer mehrere Teil- oder Fachlose zusammen vergeben werden sollen,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>die Gr\u00fcnde, warum der Gegenstand des Auftrags die Vorlage von Eigenerkl\u00e4rungen oder von Eignungsnachweisen erfordert,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>die Gr\u00fcnde der Nichtangabe der Gewichtung der Zuschlagskriterien,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>gegebenenfalls die Gr\u00fcnde, die eine \u00fcber sieben Jahre hinausgehende Laufzeit einer Rahmenvereinbarung rechtfertigen, und</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>die Gr\u00fcnde f\u00fcr die Ablehnung von Angeboten.</LA></DD></DL></P><P>(3) Die Auftraggeber m\u00fcssen geeignete Ma\u00dfnahmen treffen, um den Ablauf der mit elektronischen Mitteln durchgef\u00fchrten Vergabeverfahren zu dokumentieren.</P><P>(4) Auf Ersuchen der Europ\u00e4ischen Kommission m\u00fcssen die Auftraggeber den Vermerk in Kopie \u00fcbermitteln oder dessen wesentlichen Inhalt mitteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR150900012BJNG000501118",
+        "name": "Teil 5",
+        "title": "\u00dcbergangs- und Schlussbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE004601118",
+        "name": "\u00a7 44",
+        "title": "\u00dcbergangsbestimmung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000501118"
+        },
+        "body": "<P>Vergabeverfahren, die vor dem Inkrafttreten der Verordnung begonnen haben, werden einschlie\u00dflich der sich an diese anschlie\u00dfenden Nachpr\u00fcfungsverfahren nach dem Recht zu Ende gef\u00fchrt, das zum Zeitpunkt der Einleitung des Verfahrens galt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE004701118",
+        "name": "\u00a7 45",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000501118"
+        },
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR150900012BJNE004801118",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR150900012BJNG000501118"
+        },
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

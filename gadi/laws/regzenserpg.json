@@ -1,0 +1,211 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR164910021",
+    "firstPublished": "2021-06-09",
+    "sourceTimestamp": "20210913213504",
+    "titleShort": "Registerzensuserprobungsgesetz",
+    "titleLong": "Gesetz zur Erprobung von Verfahren eines Registerzensus",
+    "abbreviation": "RegZensErpG",
+    "slug": "regzenserpg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2021, 1649",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 15.6.2021 +++)<BR /><BR /></pre>Das G wurde als Artikel 1 des G v. 9.6.2021 I 1649 vom Bundestag beschlossen. Es ist gem. Art. 5 Satz 1 dieses G am 15.6.2021 in Kraft getreten. <BR /></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR164910021BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Regelungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000100000"
+        },
+        "body": "<P>Dieses Gesetz regelt die Erprobung von Verfahren eines Zensus, bei dem die Daten aus vorhandenen Datenbest\u00e4nden gewonnen werden (Registerzensus), sowie die Erstellung erg\u00e4nzender Bev\u00f6lkerungsstatistiken. Das Bundesstatistikgesetz findet Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Aufgaben des Statistischen Bundesamtes und der statistischen \u00c4mter der L\u00e4nder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000100000"
+        },
+        "body": "<P>(1) Das Statistische Bundesamt bereitet im Benehmen mit den statistischen \u00c4mtern der L\u00e4nder die Erprobung des Registerzensus methodisch vor.</P><P>(2) Das Statistische Bundesamt ist f\u00fcr die Entwicklung der f\u00fcr die Erprobung des Registerzensus und die Verarbeitung der Daten der Meldebeh\u00f6rden nach \u00a7\u00a04 ben\u00f6tigten zentralen technischen Anwendungen verantwortlich. Die besonderen Erfahrungen der statistischen \u00c4mter der L\u00e4nder in der Verbundprogrammierung sollen dabei genutzt werden. Das Statistische Bundesamt h\u00e4lt in Zusammenarbeit mit dem Informationstechnikzentrum Bund die f\u00fcr die Aufbereitung und Datenhaltung notwendige IT-Infrastruktur vor. Die Verantwortlichkeit der statistischen \u00c4mter der L\u00e4nder f\u00fcr die zur Erf\u00fcllung der Aufgaben nach \u00a7 9 notwendige IT-Infrastruktur bleibt davon unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Kosten der Daten\u00fcbermittlung an das Statistische Bundesamt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000100000"
+        },
+        "body": "<P>Die Kosten, die f\u00fcr die \u00dcbermittlung von Daten an das Statistische Bundesamt entstehen, werden nicht erstattet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR164910021BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Bev\u00f6lkerungsdaten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Daten der Meldebeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000200000"
+        },
+        "body": "<P>(1) Die nach Landesrecht f\u00fcr das Meldewesen zust\u00e4ndigen Stellen (Meldebeh\u00f6rden) \u00fcbermitteln den statistischen \u00c4mtern der L\u00e4nder zur Erstellung erg\u00e4nzender Bev\u00f6lkerungsstatistiken ab dem 31. Dezember 2023 bis zum 31. Dezember 2028 j\u00e4hrlich zum Stichtag 31. Dezember f\u00fcr jede zum Stichtag mit alleiniger Wohnung oder Hauptwohnung gemeldete Person die Daten zu folgenden Merkmalen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Ordnungsmerkmal im Melderegister,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Familienname, fr\u00fchere Namen, Vornamen und Vornamen vor \u00c4nderung, Doktorgrad,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Stra\u00dfe, Stra\u00dfenschl\u00fcssel, Hausnummer und Anschriftenzus\u00e4tze,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Wohnort, Postleitzahl, amtlicher Gemeindeschl\u00fcssel und fr\u00fchere Gemeindenamen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Geburtsdatum,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Geburtsort,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>bei Geburt im Ausland: Geburtsstaat,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Geschlecht,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Staatsangeh\u00f6rigkeiten,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>Familienstand,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>Datum des Einzugs in die Wohnung,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>Datum des Wohnungsstatuswechsels,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>Information \u00fcber freiwillige Anmeldung im Melderegister,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA>Datum der Anmeldung bei der Meldebeh\u00f6rde,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA>Datum der Mitteilung des Wohnungsstatuswechsels,</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA>Datum des Zuzugs in die Gemeinde,</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA>Datum des Zuzugs in den Kreis,</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA>Datum des letzten Zuzugs aus dem Ausland in die Bundesrepublik Deutschland,</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA>Herkunftsstaat bei Zuzug aus dem Ausland,</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA>bei Zuzug aus dem Inland innerhalb des Berichtsjahres: letzter fr\u00fcherer Wohnort, Postleitzahl, amtlicher Gemeindeschl\u00fcssel und fr\u00fchere Gemeindenamen,</LA></DD><DT>21.</DT><DD Font=\"normal\"><LA>Identifikationsnummer nach \u00a7 1 des Identifikationsnummerngesetzes vom 28. M\u00e4rz 2021 (BGBl. I S. 591), \u00fcbergangsweise die Identifikationsnummer f\u00fcr steuerliche Zwecke gem\u00e4\u00df \u00a7\u00a0139b Absatz 3 Nummer 1 der Abgabenordnung einschlie\u00dflich des vorl\u00e4ufigen Bearbeitungsmerkmals der Meldebeh\u00f6rden.</LA></DD></DL>Die Daten\u00fcbermittlungen erfolgen jeweils innerhalb von vier Wochen nach dem Stichtag.</P><P>(2) Von den nach Absatz 1 \u00fcbermittelten Daten werden die Daten zu den Merkmalen nach Absatz 1 Satz 1 Nummer 4, 6 bis 12 und 16 bis 20 als Erhebungsmerkmale und die Daten nach Absatz 1 Satz 1 Nummer 1 bis 3, 13 bis 15 und 21 als Hilfsmerkmale erfasst. Vom Geburtsdatum nach Absatz 1 Satz 1 Nummer 5 werden die Angaben des Monats und des Jahres als Erhebungsmerkmale und die Angaben des Tages als Hilfsmerkmale erfasst.</P><P>(3) Die Hilfsmerkmale sind von den Erhebungsmerkmalen zum fr\u00fchestm\u00f6glichen Zeitpunkt zu trennen und gesondert aufzubewahren oder gesondert zu speichern. Die Daten zu den Hilfsmerkmalen nach Absatz 1 Satz 1 Nummer 2 und 21 sowie vom Geburtsdatum nach Absatz 1 Satz 1 Nummer 5 die Angabe des Tages sind nach Abschluss der Mehrfachfallpr\u00fcfung nach \u00a7 5 Absatz 1 zu l\u00f6schen, jedoch sp\u00e4testens drei Jahre nach dem Stichtag. Die Daten zu den Hilfsmerkmalen nach Absatz 1 Satz 1 Nummer 1 und 3 sowie Nummer 13 bis 15 sind nach Abschluss der Aufbereitung zu l\u00f6schen, jedoch sp\u00e4testens vier Jahre nach dem Stichtag.</P><P>(4) Die statistischen \u00c4mter der L\u00e4nder \u00fcberpr\u00fcfen innerhalb von 16 Wochen nach dem jeweiligen Stichtag der Daten\u00fcbermittlungen nach Absatz 1 und der Bereitstellung der f\u00fcr die Aufbereitung erforderlichen technischen Infrastruktur die \u00fcbermittelten Daten auf Schl\u00fcssigkeit, Vollz\u00e4hligkeit und Vollst\u00e4ndigkeit und \u00fcbermitteln sie an das Statistische Bundesamt.</P><P>(5) Zur Kl\u00e4rung eventueller R\u00fcckfragen sind die \u00fcbermittelten Daten bei den Meldebeh\u00f6rden aufzubewahren und 20 Wochen nach dem jeweiligen Stichtag zu l\u00f6schen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Mehrfachfallpr\u00fcfung; Erg\u00e4nzende Bev\u00f6lkerungsstatistiken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000200000"
+        },
+        "body": "<P>(1) Das Statistische Bundesamt pr\u00fcft anhand der Daten nach \u00a7 4, ob Personen f\u00fcr mehr als eine alleinige Wohnung oder Hauptwohnung gemeldet sind, und bereinigt die Daten, falls erforderlich. Sofern hierf\u00fcr manuelle Abgleiche erforderlich sind, nehmen die statistischen \u00c4mter der L\u00e4nder diese f\u00fcr ihren jeweiligen Zust\u00e4ndigkeitsbereich vor. Das Statistische Bundesamt \u00fcbermittelt die daf\u00fcr erforderlichen Daten zu diesem Zweck an die statistischen \u00c4mter der L\u00e4nder.</P><P>(2) Das Statistische Bundesamt darf die Daten nach \u00a7 4 und \u00a7 5 Absatz 1 verarbeiten, um erg\u00e4nzend zu den Bundesstatistiken nach dem Bev\u00f6lkerungsstatistikgesetz statistische Auswertungen zum Geburtsstaat, zu Staatsangeh\u00f6rigkeiten, zum Wechsel des Hauptwohnsitzes, zur Bev\u00f6lkerung nach dem \u00fcblichen Aufenthaltsort sowie zu georeferenzierten Bev\u00f6lkerungszahlen (erg\u00e4nzende Bev\u00f6lkerungsstatistiken) zu erstellen, soweit Rechtsakte der Europ\u00e4ischen Union die \u00dcbermittlung derartiger Ergebnisse vorsehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Verarbeitung von Daten aus dem Zensus 2022 zur Methodenentwicklung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000200000"
+        },
+        "body": "<P>F\u00fcr Zwecke der Entwicklung von Methoden f\u00fcr den Registerzensus und der Erprobung von Verfahren zur Erstellung erg\u00e4nzender Bev\u00f6lkerungsstatistiken darf das Statistische Bundesamt die Daten zu den Merkmalen nach <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u00a7 5 Absatz 1 des Zensusgesetzes 2022,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u00a7 13 Absatz 1 Nummer 1 bis 5 und 9 und Absatz 2 Nummer 1 bis 3 des Zensusgesetzes 2022,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>\u00a7\u00a015 Absatz 1 Nummer 1 bis 4 und 6 des Zensusgesetzes 2022 und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>\u00a7 16 Absatz 1 Nummer 1 bis 4 des Zensusgesetzes 2022</LA></DD></DL>einschlie\u00dflich abgeleiteter Merkmale verarbeiten. Sie sind fr\u00fchestm\u00f6glich, sp\u00e4testens jedoch bis zum <NB>31. Dezember 2026</NB> zu l\u00f6schen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "\u00dcbermittlung von Daten aus Vergleichsdatenbest\u00e4nden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000200000"
+        },
+        "body": "<P>(1) Die Stellen nach Absatz 2 \u00fcbermitteln aus den dort genannten Datenbest\u00e4nden einmalig zum Zensusstichtag 2022 zu Personen, die innerhalb eines Zeitraums von 24 Monaten vor dem Stichtag einen Verwaltungskontakt hatten, die Daten zu den Merkmalen nach Absatz 3 an das Statistische Bundesamt. Das Statistische Bundesamt ist befugt, den in Satz 1 genannten Zeitraum von 24 Monaten um bis zu zw\u00f6lf Monate zu verk\u00fcrzen.</P><P>(2) Die Stellen und die jeweils dazugeh\u00f6rigen Datenbest\u00e4nde nach Absatz 1 sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>gesetzliche Rentenversicherung einschlie\u00dflich der Alterssicherung der Landwirte: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Stammsatzdatei der Rentenversicherung,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Versichertenkonten der Rentenversicherungstr\u00e4ger einschlie\u00dflich des Tr\u00e4gers der Alterssicherung der Landwirte,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Bundesagentur f\u00fcr Arbeit: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Einzelangaben aus den Statistikregistern zu den Arbeitsuchenden und Arbeitslosen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Einzelangaben aus den Statistikregistern zu den Bewerbern f\u00fcr Berufsausbildungsstellen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Einzelangaben aus den Statistikregistern zu den Beziehern von Lohnersatzleistungen nach dem Dritten Buch Sozialgesetzbuch und von Leistungen zur Grundsicherung f\u00fcr Arbeitsuchende,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Einzelangaben aus den Statistikregistern zu den Teilnehmern von Aktivierungs-, Weiterbildungs- und Besch\u00e4ftigungsma\u00dfnahmen,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Kraftfahrt-Bundesamt: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Zentrales Fahrzeugregister,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Zentrales Fahrerlaubnisregister,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Bundesamt f\u00fcr Migration und Fl\u00fcchtlinge: Ausl\u00e4nderzentralregister,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>personalabrechnende Stellen des Bundes und der L\u00e4nder: Daten der \u00f6ffentlichen Arbeitgeber in Bund, L\u00e4ndern und Kommunen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>gesetzliche Unfallversicherung: Zentrales Unternehmerverzeichnis der gesetzlichen Unfallversicherung.</LA></DD></DL>Die Information zur jeweils absendenden datenf\u00fchrenden Stelle wird f\u00fcr Zwecke der Einsch\u00e4tzung m\u00f6glicher Unstimmigkeiten pseudonymisiert gespeichert und gesondert gesichert aufbewahrt.</P><P>(3) Aus den in Absatz 2 genannten Datenbest\u00e4nden sind, soweit vorhanden, die Daten zu den folgenden Merkmalen zu \u00fcbermitteln: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Familienname, fr\u00fchere Namen, Vornamen und Vornamen vor \u00c4nderung, Doktorgrad,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Stra\u00dfe, Stra\u00dfenschl\u00fcssel, Hausnummer und Anschriftenzus\u00e4tze,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Wohnort, Postleitzahl, amtlicher Gemeindeschl\u00fcssel und fr\u00fchere Gemeindenamen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Geburtsdatum, Geburtsort, Geburtsstaat,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Geschlecht,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Staatsangeh\u00f6rigkeiten.</LA></DD></DL>Die Daten zu den Merkmalen nach Nummer 1 bis 3 werden gesondert gesichert aufbewahrt.</P><P>(4) Ist eine Einkommensteuerfestsetzung f\u00fcr einen unbeschr\u00e4nkt Steuerpflichtigen innerhalb des Zeitraums vom 16. November 2020 bis zum Zensusstichtag nach \u00a7\u00a01 Absatz 1 Zensusgesetz 2022 erfolgt, \u00fcbermittelt die Finanzverwaltung die bei ihr zum Zensusstichtag gespeicherten Daten nach Absatz 3 Satz 1 f\u00fcr den jeweiligen Steuerpflichtigen an das Statistische Bundesamt. Die Familienkasse der Bundesagentur f\u00fcr Arbeit \u00fcbermittelt die bei ihr gespeicherten Daten nach Absatz 3 des Kindergeldberechtigten, demgegen\u00fcber das Kindergeld festgesetzt wurde, sowie die Daten des Kindes, wenn Kindergeld nach dem Einkommensteuergesetz f\u00fcr mindestens einen innerhalb des Zeitraums vom 16. November 2020 bis zum Zensusstichtag nach \u00a7\u00a01 Absatz 1 Zensusgesetz 2022 liegenden Kalendermonat festgesetzt worden ist, an das Statistische Bundesamt. Absatz 2 Satz 2 und Absatz 3 Satz 2 finden Anwendung. Das Statistische Bundesamt ist befugt, den in den S\u00e4tzen 1 und 2 genannten Zeitraum zu verk\u00fcrzen.</P><P>(5) Die nach Absatz 1 und 4 \u00fcbermittelten Daten d\u00fcrfen f\u00fcr die Entwicklung von Verfahren zur zuverl\u00e4ssigen Zuordnung von Personendatens\u00e4tzen aus Datenbest\u00e4nden und die Erprobung eines registerbasierten Verfahrens zur Qualit\u00e4tssicherung verwendet werden. F\u00fcr diese Zwecke werden die in Absatz 2 und 4 genannten Datenbest\u00e4nde und die Merkmale nach Absatz 3 auf ihre Eignung f\u00fcr die Zuordnung von Personendatens\u00e4tzen und f\u00fcr Verfahren der Qualit\u00e4tssicherung untersucht.</P><P>(6) Die \u00dcbermittlungen erfolgen innerhalb von f\u00fcnf Monaten nach dem Stichtag.</P><P>(7) Das Statistische Bundesamt pr\u00fcft die Daten auf Schl\u00fcssigkeit und Vollst\u00e4ndigkeit. Sofern hierf\u00fcr manuelle Pr\u00fcfungen erforderlich sind, nehmen die statistischen \u00c4mter der L\u00e4nder diese f\u00fcr ihren jeweiligen Zust\u00e4ndigkeitsbereich vor. Das Statistische Bundesamt \u00fcbermittelt die daf\u00fcr erforderlichen Daten zu diesem Zweck an die statistischen \u00c4mter der L\u00e4nder.</P><P>(8) Die Daten nach Absatz 3 sind nach erfolgter Zuordnung eines stattgefundenen Verwaltungskontaktes zu den Daten nach \u00a7 6, sp\u00e4testens jedoch drei Jahre nach der \u00dcbermittlung zu l\u00f6schen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Zusammenf\u00fchrungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000200000"
+        },
+        "body": "<P>(1) Das Statistische Bundesamt darf die in \u00a7\u00a04 genannten Daten f\u00fcr die Erstellung erg\u00e4nzender Bev\u00f6lkerungsstatistiken mit dem fortgeschriebenen Bev\u00f6lkerungsstand nach \u00a7\u00a05 Absatz 1 des Bev\u00f6lkerungsstatistikgesetzes zusammenf\u00fchren.</P><P>(2) Die in den \u00a7\u00a7 6 und 7 genannten Daten d\u00fcrfen f\u00fcr Zwecke der Methodenentwicklung zusammengef\u00fchrt werden. Sofern hierf\u00fcr manuelle Abgleiche erforderlich sind, nehmen die statistischen \u00c4mter der L\u00e4nder diese f\u00fcr ihren jeweiligen Zust\u00e4ndigkeitsbereich vor. Das Statistische Bundesamt \u00fcbermittelt die daf\u00fcr erforderlichen Daten zu diesem Zweck an die statistischen \u00c4mter der L\u00e4nder.</P><P>(3) Das Statistische Bundesamt darf die in \u00a7\u00a06 Satz 1 Nummer 1 genannten Daten f\u00fcr Zwecke der Entwicklung der Methoden der erg\u00e4nzenden Bev\u00f6lkerungsstatistiken mit dem fortgeschriebenen Bev\u00f6lkerungsstand nach \u00a7\u00a05 Absatz 1 des Bev\u00f6lkerungsstatistikgesetzes zusammenf\u00fchren.</P><P>(4) Nach Abschluss aller einmaligen und j\u00e4hrlichen Aufbereitungsschritte erhalten die statistischen \u00c4mter der L\u00e4nder auf Anforderung f\u00fcr ihren jeweiligen Zust\u00e4ndigkeitsbereich zur Evaluation der entwickelten Methoden eine Kopie der Daten nach \u00a7\u00a08 ohne die Hilfsmerkmale.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE000900000",
+        "name": "\u00a7 8a",
+        "title": "Kl\u00e4rung von Unstimmigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000200000"
+        },
+        "body": "<P>(1) Soweit bei der Zusammenf\u00fchrung von Daten nach \u00a7 8 Absatz 2 Unstimmigkeiten in Bezug auf die Anschrift festgestellt werden, d\u00fcrfen die statistischen \u00c4mter der L\u00e4nder bei bis zu 100\u00a0000 Personen zur Kl\u00e4rung der Unstimmigkeiten elektronisch oder schriftlich erfragen, ob sie zum Zensusstichtag an einer bestimmten Anschrift wohnhaft gewesen sind und welche weiteren Wohnsitze gegebenenfalls in Deutschland bestanden. Personen, die in der Haushaltebefragung des Zensus 2022 befragt wurden, d\u00fcrfen nicht erneut befragt werden. Es besteht Auskunftspflicht.</P><P>(2) Auskunftspflichtig sind alle Vollj\u00e4hrigen und alle Minderj\u00e4hrigen, die ohne Erziehungsberechtigten an einer Anschrift wohnhaft sind. Sie sind jeweils auch auskunftspflichtig f\u00fcr minderj\u00e4hrige Personen, die in der gleichen Wohnung wohnen.</P><P>(3) F\u00fcr vollj\u00e4hrige Personen, die insbesondere wegen einer Krankheit oder Behinderung nicht selbst Auskunft geben k\u00f6nnen, ist jede andere in der Wohnung wohnende auskunftspflichtige Person auskunftspflichtig. Gibt es keine andere auskunftspflichtige Person in der Wohnung und ist f\u00fcr die nicht auskunftsf\u00e4hige Person ein Betreuer oder eine Betreuerin bestellt, so ist dieser oder diese auskunftspflichtig, soweit die Auskunft in seinen oder ihren Aufgabenbereich f\u00e4llt.</P><P>(4) Benennt eine wegen einer Krankheit oder Behinderung nicht auskunftsf\u00e4hige Person eine Vertrauensperson und erteilt diese die erforderliche Auskunft f\u00fcr die nicht auskunftsf\u00e4hige Person, so erlischt die Auskunftspflicht nach den Abs\u00e4tzen 2 und 3.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR164910021BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Weitere Regelungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Verarbeitung von Daten aus dem Zensus 2022 und dem Mikrozensus f\u00fcr Zwecke europ\u00e4ischer Bev\u00f6lkerungsstatistiken einschlie\u00dflich Zensus",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000300000"
+        },
+        "body": "<P>(1) F\u00fcr Zwecke europ\u00e4ischer Bev\u00f6lkerungsstatistiken einschlie\u00dflich Zensus speichern die statistischen \u00c4mter der L\u00e4nder jeweils f\u00fcr ihren Zust\u00e4ndigkeitsbereich die Daten der Haushaltsstichprobe nach \u00a7\u00a011 Absatz 1 Satz 2 Nummer 2 in Verbindung mit \u00a7\u00a013 Absatz 1 Nummer 2 bis 5, 7 und 9 sowie Nummer 16 bis 18 und Absatz 2 des Zensusgesetzes 2022.</P><P>(2) Die Daten zu den Merkmalen nach \u00a7 13 Absatz 2 des Zensusgesetzes 2022 werden getrennt von den Daten zu den Merkmalen nach \u00a7 13 Absatz 1 Nummer 2 bis 5, 7 und 9 sowie Nummer 16 bis 18 des Zensusgesetzes 2022 gespeichert und gesondert gesichert aufbewahrt. Sie sind zu l\u00f6schen, wenn sie zur Erf\u00fcllung der Aufgaben nach Absatz 1 nicht mehr erforderlich sind, sp\u00e4testens jedoch sechs Jahre nach dem Zensusstichtag nach \u00a7 1 Absatz 1 des Zensusgesetzes 2022.</P><P>(3) Zur Aktualisierung und Erg\u00e4nzung der Daten zu den Merkmalen nach \u00a7 13 Absatz 1 Nummer 7 und 16 bis 18 des Zensusgesetzes 2022 speichern die statistischen \u00c4mter der L\u00e4nder jeweils f\u00fcr ihren Zust\u00e4ndigkeitsbereich nach Abschluss der Aufbereitung des jeweiligen Mikrozensus die Daten nach: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u00a7 6 Absatz 1 Nummer 1 Buchstabe a, Nummer 3, Nummer 4 Buchstabe a Doppelbuchstabe aa, cc, ee und ff sowie Nummer 7 Buchstabe a bis c und Nummer 8 des Mikrozensusgesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u00a7\u00a011 Absatz 1 Nummer 1 und 3 des Mikrozensusgesetzes.</LA></DD></DL>Die Daten zu den Merkmalen nach Nummer 2 sind fr\u00fchestm\u00f6glich, sp\u00e4testens jedoch sechs Jahre nach Abschluss der Aufbereitung des jeweiligen Mikrozensus zu l\u00f6schen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Einrichtungsregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000300000"
+        },
+        "body": "<P>(1) Das Statistische Bundesamt f\u00fchrt zur Vorbereitung und Erstellung von Bundes- und Landesstatistiken sowie f\u00fcr Auswertungszwecke ein Register \u00fcber Sonderbereiche (Einrichtungsregister). Zum Aufbau und zur Pflege des Einrichtungsregisters d\u00fcrfen Angaben aus Bundes- und Landesstatistiken sowie aus allgemein zug\u00e4nglichen Quellen verwendet werden. Die statistischen \u00c4mter der L\u00e4nder wirken bei der Pflege des Einrichtungsregisters mit und d\u00fcrfen es nutzen, soweit es zur Erf\u00fcllung der Zwecke nach Satz 1 erforderlich ist.</P><P>(2) Das Einrichtungsregister enth\u00e4lt Daten zu folgenden Merkmalen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Ordnungsnummer der Einrichtung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Ordnungsnummer der Anschrift nach \u00a7 13 Absatz 2 des Bundesstatistikgesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Art der Einrichtung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Name und Anschrift der Einrichtung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Anzahl der Einrichtungspl\u00e4tze,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Name oder Bezeichnung und Anschrift des Tr\u00e4gers, Verwalters oder Eigent\u00fcmers der Einrichtung,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Kontaktdaten des Tr\u00e4gers, Verwalters oder Eigent\u00fcmers der Einrichtung,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>M\u00f6glichkeit zur eigenen Haushaltsf\u00fchrung.</LA></DD></DL></P><P>(3) Im Sinne dieses Gesetzes sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u201eSonderbereiche\u201c insbesondere Wohnheime und Gemeinschaftsunterk\u00fcnfte;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u201eWohnheime\u201c Einrichtungen, die dem Wohnen bestimmter Bev\u00f6lkerungskreise dienen und eine eigene Haushaltsf\u00fchrung erm\u00f6glichen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>\u201eGemeinschaftsunterk\u00fcnfte\u201c Einrichtungen, die bestimmungsgem\u00e4\u00df der l\u00e4ngerfristigen Unterbringung und Versorgung von Personen dienen und in denen Personen in der Regel keinen eigenen Haushalt f\u00fchren.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR164910021BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Durchf\u00fchrung von Untersuchungen zur Nutzung von Fernerkundungsdaten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR164910021BJNG000300000"
+        },
+        "body": "<P>F\u00fcr Untersuchungen zur Eignung von Fernerkundungsdaten f\u00fcr die Gewinnung und Qualit\u00e4tssicherung von Daten zu Geb\u00e4uden und Wohnungen im Registerzensus darf das Statistische Bundesamt f\u00fcr bis zu 3 Prozent der Gesamtfl\u00e4che Deutschlands die Daten zu den Merkmalen nach \u00a7\u00a010 Absatz 1 Nummer 1 Buchstabe a, b, d, e, f, g, Nummer 2 Buchstabe a und Absatz 2 Nummer 5 des Zensusgesetzes 2022 und nach \u00a7\u00a04 Nummer 6 des Zensusvorbereitungsgesetzes 2022 einschlie\u00dflich abgeleiteter Merkmale verarbeiten. Die statistischen \u00c4mter der L\u00e4nder d\u00fcrfen diese Daten zur Durchf\u00fchrung von Untersuchungen zur Erf\u00fcllung des Zwecks nach Satz 1 nutzen, soweit diese Daten sich auf Fl\u00e4chen des jeweiligen Landes beziehen, die in der Stichprobe von 3 Prozent enthalten sind. Die Daten sind nach Abschluss der Untersuchungen, sp\u00e4testens jedoch am 31. Dezember 2027 zu l\u00f6schen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR111000019",
+    "firstPublished": "2019-08-01",
+    "sourceTimestamp": "20200630212554",
+    "titleShort": "Elektronische Arzneimittelinformationen-Verordnung",
+    "titleLong": "Verordnung \u00fcber die Mindestanforderungen an die Informationen in elektronischen Programmen f\u00fcr die Verordnung von Arzneimitteln durch Vertrags\u00e4rzte und \u00fcber die Ver\u00f6ffentlichung der Beschl\u00fcsse des Gemeinsamen Bundesausschusses",
+    "abbreviation": "EAMIV",
+    "slug": "eamiv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2019, 1110",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "\u00a7 2 und \u00a7 3 treten gem. \u00a7 7 Abs. 2 dieser V am 1.7.2020 in Kraft",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 3.8.2019 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR111000019BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 35a Absatz 3a Satz 2 und des \u00a7 73 Absatz 9 Satz 2 des F\u00fcnften Buches Sozialgesetzbuch \u2013 Gesetzliche Krankenversicherung \u2013, von denen \u00a7 35a Absatz 3a Satz 2 durch Artikel 1 Nummer 15 Buchstabe c Doppelbuchstabe bb des Gesetzes vom 6. Mai 2019 (BGBl. I S. 646) eingef\u00fcgt worden ist und \u00a7 73 Absatz 9 Satz 2 durch Artikel 1 Nummer 33 Buchstabe d des Gesetzes vom 6. Mai 2019 (BGBl. I S. 646) ge\u00e4ndert worden ist, verordnet das Bundesministerium f\u00fcr Gesundheit:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR111000019BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Begriffsbestimmungen",
+        "parent": null,
+        "body": "<P>(1) Ein elektronisches Programm im Sinne dieser Verordnung ist ein elektronisches Programm, das von der Kassen\u00e4rztlichen Bundesvereinigung gem\u00e4\u00df \u00a7 73 Absatz 9 Satz 1 des F\u00fcnften Buches Sozialgesetzbuch f\u00fcr die Verordnung von Arzneimitteln in der vertrags\u00e4rztlichen Versorgung zugelassen wird.</P><P>(2) Ein Beschluss des Gemeinsamen Bundesausschusses im Sinne dieser Verordnung ist ein Beschluss des Gemeinsamen Bundesausschusses \u00fcber die Bewertung des Nutzens von Arzneimitteln mit neuen Wirkstoffen nach \u00a7 35a Absatz 3 Satz 1 des F\u00fcnften Buches Sozialgesetzbuch, einschlie\u00dflich der tragenden Gr\u00fcnde zum Beschluss.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR111000019BJNE000301000",
+        "name": "\u00a7 2",
+        "title": "Mindestanforderungen an die Informationen in elektronischen Programmen",
+        "parent": null,
+        "body": "<P>(1) Die Informationen, die ein elektronisches Programm mindestens enthalten muss, umfassen folgende Angaben aus den Beschl\u00fcssen des Gemeinsamen Bundesausschusses: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Bezeichnung des Arzneimittels;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den Wirkstoff oder die Wirkstoffe;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das zugelassene Anwendungsgebiet oder die zugelassenen Anwendungsgebiete;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Zuordnung des Wirkstoffs oder der Wirkstoffe zur anatomisch-therapeutisch-chemischen Klassifikation und zu der im datenbankgest\u00fctzten Informationssystem nach \u00a7 67a des Arzneimittelgesetzes hinterlegten Arzneistoffkatalognummer;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Patientengruppe oder die Patientengruppen, f\u00fcr die eine Aussage zum Zusatznutzen des Arzneimittels getroffen wird;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Zuordnung zum Krankheitsgebiet gem\u00e4\u00df der Internationalen Klassifikation der Krankheiten sowie zur Alpha-ID-Identifikationsnummer in der jeweils vom Deutschen Institut f\u00fcr Medizinische Dokumentation und Information im Auftrag des Bundesministeriums f\u00fcr Gesundheit herausgegebenen deutschen Fassung;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>das Ausma\u00df des Zusatznutzens mit Angabe zur Aussagesicherheit und den vom Gemeinsamen Bundesausschuss zu Grunde gelegten zweckm\u00e4\u00dfigen Vergleichstherapien;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>die zusammenfassende Darstellung der klinischen Ergebnisse der f\u00fcr den Zusatznutzen relevanten klinischen Endpunkte;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>die Angaben zu Anforderungen an die qualit\u00e4tsgesicherte Anwendung;</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>die Angabe, ob f\u00fcr das Arzneimittel vom Gemeinsamen Bundesausschuss die Durchf\u00fchrung einer anwendungsbegleitenden Datenerhebung nach \u00a7 35a Absatz 3b des F\u00fcnften Buches Sozialgesetzbuch gefordert worden ist sowie ob die Befugnis zur Verordnung des Arzneimittels auf solche Leistungserbringer beschr\u00e4nkt worden ist, die an der Datenerhebung mitwirken;</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>Datum und Geltungsdauer des Beschlusses des Gemeinsamen Bundesausschusses;</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>die Zusammenfassung der tragenden Gr\u00fcnde zum Beschluss des Gemeinsamen Bundesausschusses, jeweils zu den Kategorien Mortalit\u00e4t, Morbidit\u00e4t, Lebensqualit\u00e4t und Nebenwirkungen, sowie zusammenfassend f\u00fcr den Gesamtzusatznutzen je Patientengruppe;</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>die Angabe, ob es sich um ein Arzneimittel zur Behandlung eines seltenen Leidens nach der Verordnung (EG) Nr. 141/2000 des Europ\u00e4ischen Parlaments und des Rates vom 16. Dezember 1999 \u00fcber Arzneimittel f\u00fcr seltene Leiden (ABl. L 18 vom 22.1.2000, S. 1) oder um ein Arzneimittel mit einer Genehmigung nach Artikel 14 Absatz 7 oder 8 der Verordnung (EG) Nr. 726/2004 des Europ\u00e4ischen Parlaments und des Rates vom 31. M\u00e4rz 2004 zur Festlegung von Gemeinschaftsverfahren f\u00fcr die Genehmigung und \u00dcberwachung von Human- und Tierarzneimitteln und zur Errichtung einer Europ\u00e4ischen Arzneimittel-Agentur (ABl. L 136 vom 30.4.2004, S. 1) handelt;</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA>die Angabe, ob das Arzneimittel Gegenstand der Richtlinie nach \u00a7 92 Absatz 1 Satz 2 Nummer 6 des F\u00fcnften Buches Sozialgesetzbuch zur Anwendung von Arzneimitteln f\u00fcr neuartige Therapien im Sinne von \u00a7 4 Absatz 9 des Arzneimittelgesetzes ist;</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA>den Hyperlink zur Internet-Seite des Gemeinsamen Bundesausschusses, auf der die Informationen zu dem betreffenden Arzneimittel bereitgestellt werden.</LA></DD></DL></P><P>(2) Die Angaben sind in regelm\u00e4\u00dfigen Abst\u00e4nden, mindestens jedoch monatlich, auf ihre Aktualit\u00e4t zu \u00fcberpr\u00fcfen und im Falle etwaiger \u00c4nderungen zu aktualisieren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR111000019BJNE000401000",
+        "name": "\u00a7 3",
+        "title": "Mindestanforderungen an die Darstellung der Informationen in elektronischen Programmen",
+        "parent": null,
+        "body": "<P>(1) Bei der Anzeige des Arzneimittels oder des Wirkstoffs in Suchergebnissen und Vergleichslisten des elektronischen Programms ist ein Hinweis anzuzeigen, wenn ein Beschluss des Gemeinsamen Bundesausschusses hierzu vorhanden ist. Beschl\u00fcsse des Gemeinsamen Bundesausschusses, die aufgehoben wurden oder nicht mehr g\u00fcltig sind, sind entsprechend zu kennzeichnen oder zu entfernen.</P><P>(2) Die Angaben nach \u00a7 2 m\u00fcssen so in das elektronische Programm implementiert werden, dass sie eine Recherche mindestens nach den Informationen nach \u00a7 2 Absatz 1 Nummer 1, 2 und 3 erlauben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR111000019BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Ver\u00f6ffentlichung der Beschl\u00fcsse des Gemeinsamen Bundesausschusses",
+        "parent": null,
+        "body": "<P>(1) <I>Der Gemeinsame Bundesausschuss</I> stellt die maschinenlesbare Fassung eines Beschlusses als strukturierten Datensatz allgemein zug\u00e4nglich auf seiner Internetseite bereit.</P><P>(2) Die in \u00a7 2 Absatz 1 genannten Angaben aus den Beschl\u00fcssen des Gemeinsamen Bundesausschusses m\u00fcssen in der maschinenlesbaren Fassung auch einzeln maschinell lesbar und referenzierbar sein.</P><P>(3) Die in \u00a7 2 Absatz 1 Nummer 12 genannte Zusammenfassung der tragenden Gr\u00fcnde zum Beschluss soll in verst\u00e4ndlicher Sprache abgefasst sein. Sie soll so abgefasst sein, dass kein Widerspruch zu der Aussage des Beschlusses selbst entsteht und die tragenden Gr\u00fcnde aus sich heraus verst\u00e4ndlich sind. Die L\u00e4nge der Zusammenfassung soll 2\u00a0000 Zeichen nicht \u00fcberschreiten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 4 Abs. 1 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurden die W\u00f6rter \"Der Gemeinsame Bundessauschusses\" durch die W\u00f6rter \"Der Gemeinsame Bundesausschuss\" ersetzt</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR111000019BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Datenschutz und Datensicherheit",
+        "parent": null,
+        "body": "<P>Bei der Bereitstellung der Daten in der maschinenlesbaren Fassung sind dem jeweiligen Stand der Technik entsprechende Ma\u00dfnahmen zur Sicherstellung des Datenschutzes und der Datensicherheit zu treffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR111000019BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Datenformate der maschinenlesbaren Form",
+        "parent": null,
+        "body": "<P>(1) Die Anforderungen an eine maschinenlesbare Fassung eines Beschlusses des Gemeinsamen Bundesausschusses erf\u00fcllen Formate, die den Anforderungen nach \u00a7 2 Nummer 5 des Informationsweiterverwendungsgesetzes entsprechen.</P><P>(2) Der Gemeinsame Bundesausschuss legt das N\u00e4here zu den Formaten und die technische Struktur des Datensatzes in der maschinenlesbaren Fassung eines Beschlusses des Gemeinsamen Bundesausschusses unter Ber\u00fccksichtigung der allgemein anerkannten Regeln der Technik sp\u00e4testens bis zum <NB>30. November 2019</NB> in seiner Verfahrensordnung fest. Der Gemeinsame Bundesausschuss soll in seiner Verfahrensordnung auch Regelungen zur Meldung fehlerhafter Angaben in der maschinenlesbaren Fassung und zur Korrektur fehlerhafter Angaben treffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR111000019BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>(1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verk\u00fcndung in Kraft.</P><P>(2) Die \u00a7\u00a7 2 und 3 treten am 1. Juli 2020 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

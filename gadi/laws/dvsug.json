@@ -1,0 +1,250 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR008600986",
+    "firstPublished": "1986-06-05",
+    "sourceTimestamp": "20180813214507",
+    "titleShort": null,
+    "titleLong": "Verordnung zur Durchf\u00fchrung des Seesicherheits-Untersuchungs-Gesetzes",
+    "abbreviation": "DVSUG",
+    "slug": "dvsug",
+    "extraAbbreviations": [
+      "SeeUGDV"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1986, 860",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 58 V v. 2.6.2016 I 1257",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 12.6.1986 +++)<BR />(+++ Ma\u00dfgaben aufgrund des EinigVtr vgl. SeeUGDV Anhang EV; nicht mehr <BR />anzuwenden gem. Art. 109 Nr. 5 Buchst. d DBuchst. cc G v. 8.12.2010 I 1864 +++)<BR /><BR /></pre>\u00dcberschrift: IdF d. Art. 3 Nr. 1 G v. 16.6.2002 I 1815 mWv 20.6.2002</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE000500328",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 5 Abs. 3 und des \u00a7 8 Abs. 3 des Seeunfalluntersuchungsgesetzes vom 6. Dezember 1985 (BGBl. I S. 2146) wird vom Bundesminister f\u00fcr Verkehr, auf Grund des \u00a7 22 Abs. 5 dieses Gesetzes wird vom Bundesminister f\u00fcr Verkehr im Einvernehmen mit dem Bundesminister der Finanzen verordnet:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008600986BJNG000101308",
+        "name": "Abschnitt 1",
+        "title": "\u00d6rtliche Zust\u00e4ndigkeit der See\u00e4mter",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE000605305",
+        "name": "\u00a7 1",
+        "title": "Zust\u00e4ndigkeit des Seeamtes Kiel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000101308"
+        },
+        "body": "<P>Das Seeamt Kiel ist zust\u00e4ndig im Sinne des \u00a7 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis von der Wasser- und Schifffahrtsdirektion Nord oder vom oder im Land Schleswig-Holstein erteilt worden ist oder wenn in besonderem Ma\u00dfe die Sicherheit der Seefahrt im Zust\u00e4ndigkeitsbereich der der vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstra\u00dfen- und Schifffahrts\u00e4mter ber\u00fchrt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE000705305",
+        "name": "\u00a7 2",
+        "title": "Zust\u00e4ndigkeit des Seeamtes Hamburg",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000101308"
+        },
+        "body": "<P>Das Seeamt Hamburg ist zust\u00e4ndig im Sinne des \u00a7 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis vom oder im Land Hamburg erteilt worden ist oder wenn in besonderem Ma\u00dfe die Sicherheit der Seefahrt im Zust\u00e4ndigkeitsbereich der vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstra\u00dfen- und Schifffahrts\u00e4mter ber\u00fchrt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE000803305",
+        "name": "\u00a7 3",
+        "title": "Zust\u00e4ndigkeit des Seeamtes Bremerhaven",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000101308"
+        },
+        "body": "<P>Das Seeamt Bremerhaven ist zust\u00e4ndig im Sinne des \u00a7 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis vom oder im Land Bremen erteilt worden ist oder wenn in besonderem Ma\u00dfe die Sicherheit der Seefahrt im Zust\u00e4ndigkeitsbereich der vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstra\u00dfen- und Schifffahrts\u00e4mter ber\u00fchrt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE000904305",
+        "name": "\u00a7 4",
+        "title": "Zust\u00e4ndigkeit des Seeamtes Emden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000101308"
+        },
+        "body": "<P>Das Seeamt Emden ist zust\u00e4ndig im Sinne des \u00a7 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis von der Wasser- und Schifffahrtsdirektion Nordwest oder vom oder im Land Niedersachsen erteilt worden ist oder wenn in besonderem Ma\u00dfe die Sicherheit der Seefahrt im Zust\u00e4ndigkeitsbereich der der vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstra\u00dfen- und Schifffahrts\u00e4mter ber\u00fchrt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE001602305",
+        "name": "\u00a7 4a",
+        "title": "Zust\u00e4ndigkeit des Seeamtes Rostock",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000101308"
+        },
+        "body": "<P>Das Seeamt Rostock ist zust\u00e4ndig im Sinne des \u00a7 43 des Seesicherheits-Untersuchungs-Gesetzes, wenn die Berechtigung oder Befugnis vom oder im Land Mecklenburg-Vorpommern oder von einer Dienststelle der ehemaligen Deutschen Demokratischen Republik erteilt worden ist oder wenn in besonderem Ma\u00dfe die Sicherheit der Seefahrt im Zust\u00e4ndigkeitsbereich des vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur im Verkehrsblatt oder Bundesanzeiger bekanntgemachten Wasserstra\u00dfen- und Schifffahrtsamtes ber\u00fchrt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE001700308",
+        "name": "\u00a7 4b",
+        "title": "Mehrere Zust\u00e4ndigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000101308"
+        },
+        "body": "<P>Mehrere Verfahren, denen ein gleicher Sachverhalt zugrunde liegt, sollen nicht von unterschiedlichen See\u00e4mtern durchgef\u00fchrt werden. Zust\u00e4ndig ist das Seeamt, das als erstes den Sachverhalt zugrunde gelegt hat, sonst das Seeamt, das der Vorsitzende bestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008600986BJNG000201328",
+        "name": "Abschnitt 2",
+        "title": "Auswahl der ehrenamtlichen Beisitzer",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE001005305",
+        "name": "\u00a7 5",
+        "title": "Personengruppen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000201328"
+        },
+        "body": "<P>(1) Die ehrenamtlichen Beisitzer bei den See\u00e4mtern sind aus folgenden Personengruppen auszuw\u00e4hlen: <DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Kapit\u00e4ne und Schiffsoffiziere des nautischen und technischen Dienstes sowie Funkoffiziere,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">See- und Hafenlotsen sowie Kanalsteurer,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Schiffsf\u00fchrer von Binnenschiffen, die auf Seeschiffahrtstra\u00dfen oder in Seeh\u00e4fen fahren,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">erfahrene Wassersportler, die mindestens Inhaber des Amtlichen Sportbootf\u00fchrerscheins sind,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Offiziere der Marine, Beamte der Bundespolizei, des Wasserzolldienstes und der Wasserschutzpolizei,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Bedienstete der Wasserstra\u00dfen- und Schifffahrtsverwaltung des Bundes und der L\u00e4nder mit besonderen Fachkenntnissen insbesondere auf den Gebieten des Wasserbaus und der Seezeichen-Technik sowie des Hafenbetriebes,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Bedienstete des Bundesamtes f\u00fcr Seeschifffahrt und Hydrographie,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Technische Aufsichtsbeamte und ihnen fachlich gleichgestellte Bedienstete der Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Bedienstete der Arbeitsschutzbeh\u00f6rden (\u00a7 102 Seemannsgesetz),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Technische Mitarbeiter anerkannter Organisationen, mit denen ein Auftragsverh\u00e4ltnis nach der in Abschnitt D Nummer 7 der Anlage zum Schiffssicherheitsgesetz genannten Richtlinie 2009/15/EG begr\u00fcndet worden ist,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Mitglieder von Schiffsuntersuchungskommissionen,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Mitarbeiter des Such- und Rettungsdienstes der Deutschen Gesellschaft zur Rettung Schiffbr\u00fcchiger,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Reeder und Schiffsmakler sowie ihre Mitarbeiter,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Inhaber oder Mitarbeiter von Werft- und Hafenbetrieben,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Dozenten an Technischen Universit\u00e4ten (Hochschulen), Universit\u00e4ten und an Fach- oder Fachhochschulen.</LA></DD></DL></P><P>(2) Die Beisitzer m\u00fcssen \u00fcber eine mehrj\u00e4hrige, m\u00f6glichst zeitnahe fachliche Erfahrung im Sinne des Absatzes 1 verf\u00fcgen.</P><P>(3) Personen, die das 61. Lebensjahr vollendet haben, sollen nicht zum Beisitzer bestellt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE001101328",
+        "name": "\u00a7 6",
+        "title": "Beisitzerliste",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000201328"
+        },
+        "body": "<P>Die Beisitzerliste mu\u00df enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen, Geburtstag und Wohnsitz des Beisitzers,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber Art und Dauer seiner bisherigen beruflichen T\u00e4tigkeit, gegebenenfalls auch den Arbeitgeber, sowie</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">im Einvernehmen mit dem Beisitzer auch Angaben \u00fcber seine besonderen fachlichen Qualifikationen und Erfahrungen.</LA></DD> </DL>Bef\u00e4higungszeugnisse, Bestallungen als Seelotse und Fahrerlaubnisse sind zu bezeichnen. Die Stelle, die den Beisitzer benannt hat, ist anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008600986BJNG000303305",
+        "name": "Abschnitt 3",
+        "title": "(weggefallen)",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE001203305",
+        "name": "\u00a7 7",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000303305"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008600986BJNG000401328",
+        "name": "Abschnitt 4",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE001301308",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000401328"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE001401328",
+        "name": "\u00a7 9",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000401328"
+        },
+        "body": "<P>Diese Verordnung tritt am Tage nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE001503305",
+        "name": "Anlage",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000401328"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008600986BJNE888800308",
+        "name": "Anhang EV",
+        "title": "Auszug aus EinigVtr Anlage I Kapitel XI Sachgebiet D Abschnitt III\n<BR />\n(BGBl. II 1990, 889, 1107)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008600986BJNG000401328"
+        },
+        "body": "<P><noindex> Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Ma\u00dfgaben in Kraft: <BR />1. und 2. ... <DL Font=\"normal\" Type=\"arabic\"><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verordnung zur Durchf\u00fchrung des Seeunfalluntersuchungsgesetzes vom 5. Juni 1986 (BGBl. I S. 860)</LA><LA Size=\"normal\">mit folgender Ma\u00dfgabe:</LA><LA Size=\"normal\">Bei der Anwendung der \u00a7\u00a7 5 und 6 werden auch die Personen ber\u00fccksichtigt, die in der \"Liste der Beisitzer der Seekammern\" der Deutschen Demokratischen Republik erfa\u00dft sind.</LA></DD>   </DL>... </noindex></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

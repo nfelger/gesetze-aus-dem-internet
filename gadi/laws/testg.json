@@ -1,0 +1,48 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR009730938",
+    "firstPublished": "1938-07-31",
+    "sourceTimestamp": "20120625150807",
+    "titleShort": null,
+    "titleLong": "Gesetz \u00fcber die Errichtung von Testamenten und Erbvertr\u00e4gen",
+    "abbreviation": "TestG",
+    "slug": "testg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1938, 973",
+        "periodical": "RGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1964 +++)<BR /><BR /></pre>Das G ist mit Ausnahme d. \u00a7 51 durch II. Teil Art. 1 Nr. 6 G v. 5.3.1953 I 33 aufgehoben, gem. II. Teil Art. 5 sind an seine Stelle die entsprechenden Vorschriften des 5. Buches des BGB getreten</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR009730938BJNE000100301",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Die Reichsregierung hat das folgende Gesetz beschlossen, das hiermit verk\u00fcndet wird:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009730938BJNE000200301",
+        "name": "\u00a7 51",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": null,
+        "body": "<P>(1) Das Gesetz gilt nicht f\u00fcr Erbf\u00e4lle, die sich vor seinem Inkrafttreten ereignet haben.</P><P>(2) Die vor dem Inkrafttreten des Gesetzes erfolgte Errichtung oder Aufhebung eines Testaments oder Erbvertrags wird nach den bisherigen Vorschriften beurteilt, auch wenn der Erblasser nach dem Inkrafttreten des Gesetzes stirbt.</P><P>(3) Bei Erbf\u00e4llen, die sich nach dem Inkrafttreten des Gesetzes ereignen, sind an die G\u00fcltigkeit eines Testaments keine h\u00f6heren Anforderungen zu stellen, als nach diesem Gesetz f\u00fcr ein Testament der betreffenden Art zul\u00e4ssig ist, auch wenn das Testament vor dem Inkrafttreten dieses Gesetzes errichtet ist. Dies gilt entsprechend f\u00fcr Erbvertr\u00e4ge.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

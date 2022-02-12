@@ -1,0 +1,108 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR219010017",
+    "firstPublished": "2017-06-30",
+    "sourceTimestamp": "20170906221050",
+    "titleShort": "Seeschifffahrt-Meldeportal-Gesetz",
+    "titleLong": "Gesetz \u00fcber das Verfahren f\u00fcr die elektronische Abgabe von Meldungen f\u00fcr Schiffe im Seeverkehr \u00fcber das Zentrale Meldeportal des Bundes",
+    "abbreviation": "SeeSchMeldPortalG",
+    "slug": "seeschmeldportalg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2017, 2190",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 6.7.2017 +++)<BR /><BR /></pre>Das G wurde als Art. 1 des G v. 30.6.2017 I 2190 vom Bundestag beschlossen. Es  ist gem. Art. 4 dieses G am 6.7.2017 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR219010017BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Geltungsbereich",
+        "parent": null,
+        "body": "<P>Dieses Gesetz regelt das Verfahren f\u00fcr Meldungen, die im Falle eines Hafenbesuchs, eines Aufenthaltes in deutschen Hoheitsgew\u00e4ssern oder des Befahrens deutscher Hoheitsgew\u00e4sser \u00fcber das Zentrale Meldeportal des Bundes abzugeben sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR219010017BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": null,
+        "body": "<P>Im Sinne dieses Gesetzes ist <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>elektronische Abgabe</LA><LA>die \u00dcbertragung einer zu meldenden Information durch die Eingabe in ein Erfassungsmodul des Zentralen Meldeportals oder durch Datenfern\u00fcbertragung in einem Format, das die direkte Verarbeitung der Daten im Zentralen Meldeportal erlaubt;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Meldung</LA><LA>eine Information, die f\u00fcr beh\u00f6rdliche oder statistische Zwecke nach Ma\u00dfgabe <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>bundesrechtlicher Vorschriften oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>unmittelbar geltender Vorschriften der Europ\u00e4ischen Union, die einen Sachbereich betreffen, f\u00fcr den der Bund eine Befugnis zur Gesetzgebung hat oder in Anspruch nehmen kann,</LA></DD></DL></LA><LA>(Meldevorschriften) \u00fcber das Zentrale Meldeportal mitgeteilt wird;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Schiff</LA><LA>jedes seegehende Fahrzeug;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Zentrales Meldeportal des Bundes</LA><LA>das von der zust\u00e4ndigen Beh\u00f6rde zur Entgegennahme und Weiterleitung von elektronisch abgegebenen Meldungen in der Seeschifffahrt eingerichtete und betriebene technische System (Meldeportal);</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Hafenbesuch</LA><LA>der Anlauf und das Verlassen eines Hafens durch ein Schiff sowie der Aufenthalt eines Schiffes in einem Hafen;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Empfangende Stelle</LA><LA>die Beh\u00f6rde, die den Inhalt einer Meldung nach Ma\u00dfgabe einer Meldevorschrift zur weiteren Verwendung erh\u00e4lt;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Anlaufreferenznummer</LA><LA>die durch das Zentrale Meldeportal generierte eindeutige Nummer, die der Zuordnung einer Meldung zu einem Hafenbesuch oder einer Fahrt innerhalb der oder durch die Hoheitsgew\u00e4sser der Bundesrepublik Deutschland dient;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Meldender</LA><LA>diejenige nat\u00fcrliche oder juristische Person, die aufgrund einer Meldevorschrift die Meldung abgibt;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Nachrichteneingang</LA><LA>eine von der empfangenden Stelle eingerichtete und betriebene elektronische Eingangsstelle f\u00fcr Meldungen, die \u00fcber das Zentrale Meldeportal eingehen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR219010017BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Zweck des Meldeportals",
+        "parent": null,
+        "body": "<P>Das Meldeportal dient der Entgegennahme und Weiterleitung einer Meldung, die nach einer Meldevorschrift \u00fcber das Meldeportal elektronisch abgegeben werden muss, an die jeweils zust\u00e4ndigen empfangenden Stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR219010017BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Zust\u00e4ndigkeit, Erreichbarkeit",
+        "parent": null,
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde ist die vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur im Bundesanzeiger bekannt gegebene Beh\u00f6rde der Wasserstra\u00dfen- und Schifffahrtsverwaltung.</P><P>(2) Informationen \u00fcber die Erreichbarkeit des Meldeportals und \u00fcber weitere zugelassene Systeme werden vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur im Bundesanzeiger ver\u00f6ffentlicht.</P><P>(3) Die Bekanntmachungen und Ver\u00f6ffentlichungen nach den Abs\u00e4tzen 1 und 2 sind im Verkehrsblatt nachrichtlich zu wiederholen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR219010017BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Berechtigung zur Datenverarbeitung",
+        "parent": null,
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde ist befugt, Meldungen zum Zwecke des Abrufs durch die empfangende Stelle zu erheben und zu verarbeiten.</P><P>(2) Die Daten\u00fcbermittlung ist zul\u00e4ssig, soweit aus in einer in der jeweils ma\u00dfgeblichen Meldevorschrift enthaltenen Befugnis Anlass und Zweck der Erhebung sowie die Datenempf\u00e4nger und die zu \u00fcbermittelnden Daten erkennbar sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR219010017BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Abgeben von Meldungen \u00fcber das Meldeportal",
+        "parent": null,
+        "body": "<P>Der ersten eingehenden Meldung f\u00fcr ein Befahren deutscher Hoheitsgew\u00e4sser oder f\u00fcr einen Hafenbesuch wird automatisiert eine Anlaufreferenznummer zugewiesen. Bei jeder weiteren Meldung dieser Fahrt muss der Meldende die Anlaufreferenznummer angeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR219010017BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Entgegennahme, Zuordnung und Abruf der Meldungen",
+        "parent": null,
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde stellt sicher, dass die eingegangenen Meldungen anhand ihres Typs und der Anlaufreferenznummer automatisiert den Nachrichteneing\u00e4ngen der berechtigten empfangenden Stellen nach Ma\u00dfgabe deren Anforderungen zugeordnet werden.</P><P>(2) F\u00fcr den Abruf der Meldungen aus den eigenen Nachrichteneing\u00e4ngen ist die jeweilige empfangende Stelle verantwortlich. Unverz\u00fcglich nach Quittierung des Eingangs einer Meldung durch die letzte empfangende Stelle, sp\u00e4testens nach 30 Tagen, wird die Meldung durch die zust\u00e4ndige Beh\u00f6rde automatisiert aus dem Nachrichteneingang gel\u00f6scht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR219010017BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Nutzung des Meldeportals durch andere Beh\u00f6rden",
+        "parent": null,
+        "body": "<P>Die zust\u00e4ndigen Beh\u00f6rden der L\u00e4nder k\u00f6nnen sich im Wege der Organleihe der zust\u00e4ndigen Beh\u00f6rde nach \u00a7 4 Absatz 1 Satz 1 bedienen f\u00fcr Meldungen \u00fcber Schiffe, die f\u00fcr beh\u00f6rdliche oder statistische Zwecke nach Ma\u00dfgabe <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>landesrechtlicher Vorschriften oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>unmittelbar geltender Vorschriften der Europ\u00e4ischen Union, die einen Sachbereich betreffen, f\u00fcr den den L\u00e4ndern die ausschlie\u00dfliche Befugnis zur Gesetzgebung zusteht,</LA></DD></DL>mitzuteilen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

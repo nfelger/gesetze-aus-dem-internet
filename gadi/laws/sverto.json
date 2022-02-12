@@ -1,0 +1,831 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR011300986",
+    "firstPublished": "1986-07-25",
+    "sourceTimestamp": "20210817213115",
+    "titleShort": "Schiffahrtsrechtliche Verteilungsordnung",
+    "titleLong": "Gesetz \u00fcber das Verfahren bei der Errichtung und Verteilung eines Fonds zur Beschr\u00e4nkung der Haftung in der See- und Binnenschiffahrt",
+    "abbreviation": "SVertO",
+    "slug": "sverto",
+    "extraAbbreviations": [
+      "SeeRVertO 1986"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1986, 1130",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 23.3.1999 I 530; 2000 I 149;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 3 G v. 16.7.2021 I 3079",
+        "category": "Stand"
+      },
+      {
+        "comment": "In Kraft gem. Bek. v. 30.7.1987 I 2083 mWv 1.9.1987",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 31.7.1986 +++) <BR />(+++ Ma\u00dfgaben aufgrund EinigVtr vgl. SeeRVertO 1986 Anhang EV, nicht mehr anzuwenden gem. \u00a7 17 Nr. 3 u. nach Ma\u00dfgabe d. \u00a7 14 G v. 26.6.1992 I  1147 (RpflAnpG) mWv 1.7.1992 u. gem. Art. 21 Abs. 2 G v. 5.10.1994 I 2911 mWv 1.1.1999 +++) <BR /> \u00dcberschrift: Lang- u. Kurz\u00fcberschrift idF d. Art. 2 Nr. 1 G v. 25.8.1998 I 2489 mWv 1.9.1998 <BR />Buchstabenabk\u00fcrzung eingef. durch Art. 2 Nr. 1 G v. 25.8.1998 I 2489 mWv 1.9.1998</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG000102307",
+        "name": "Erster Teil",
+        "title": "Seerechtliches Verteilungsverfahren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG000202307",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Bestimmungen. Zust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000102307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001009311",
+        "name": "\u00a7 1",
+        "title": "Einleitung des Verteilungsverfahrens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000202307"
+        },
+        "body": "<P>(1) Zur Errichtung und Verteilung eines Fonds im Sinne des Artikels 11 des \u00dcbereinkommens von 1976 \u00fcber die Beschr\u00e4nkung der Haftung f\u00fcr Seeforderungen (BGBl. 1986 II S. 786, ge\u00e4ndert durch das Protokoll vom 2. Mai 1996 (BGBl. 2000 II S. 790), in der jeweils f\u00fcr die Bundesrepublik Deutschland geltenden Fassung (Haftungsbeschr\u00e4nkungs\u00fcbereinkommen) oder im Sinne des Artikels V Abs. 3 des Haftungs\u00fcbereinkommens von 1992 (BGBl. 1994 II S. 1152) kann ein gerichtliches Verfahren (Verteilungsverfahren) eingeleitet werden.</P><P>(2) Ein Verteilungsverfahren erfa\u00dft jeweils ausschlie\u00dflich die aus demselben Ereignis enstandenen und zu derselben Anspruchsklasse im Sinne des Absatzes 4 Satz 1 geh\u00f6renden Anspr\u00fcche gegen alle Personen, die demselben Personenkreis im Sinne des Absatzes 3 Satz 1 angeh\u00f6ren. Wird jedoch auf Antrag eines an Bord t\u00e4tigen Lotsen ein Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A, B oder C im Sinne des Absatzes 4 Satz 1 eingeleitet, so erfa\u00dft das Verfahren nur die Anspr\u00fcche gegen den Antragsteller; ein solches Verteilungsverfahren darf nur er\u00f6ffnet werden, solange nicht f\u00fcr die aus demselben Ereignis enstandenen und zu derselben Anspruchsklasse geh\u00f6renden Anspr\u00fcche ein Verteilungsverfahren auf Antrag eines anderen, demselben Personenkreis im Sinne des Absatzes 3 Satz 1 angeh\u00f6renden Schuldners er\u00f6ffnet worden ist.</P><P>(3) Die Er\u00f6ffnung eines Verteilungsverfahrens k\u00f6nnen beantragen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Eigent\u00fcmer, Charterer, Reeder oder Ausr\u00fcster eines Seeschiffs sowie jede Person, f\u00fcr deren Handeln, Unterlassen oder Verschulden sie haften,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Eigent\u00fcmer, Charterer, Reeder oder Ausr\u00fcster eines Seeschiffs, der von diesem Schiff aus Bergungsma\u00dfnahmen durchf\u00fchrt, oder ein von dem Seeschiff aus arbeitender Berger sowie jede Person, f\u00fcr deren Handeln, Unterlassen oder Verschulden der Eigent\u00fcmer, der Charterer, der Reeder, der Ausr\u00fcster oder der Berger haftet,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Berger, der weder von einem Seeschiff noch von einem Binnenschiff aus Bergungsma\u00dfnahmen f\u00fcr ein Seeschiff durchf\u00fchrt, oder der ausschlie\u00dflich auf dem Seeschiff arbeitet, f\u00fcr das Bergungsma\u00dfnahmen durchgef\u00fchrt werden, sowie jede Person, f\u00fcr deren Handeln, Unterlassen oder Verschulden der Berger haftet,</LA></DD></DL>sofern diese Personen ihre Haftung f\u00fcr die aus einem bestimmten Ereignis entstandenen Anspr\u00fcche nach \u00a7 611 Absatz 1 oder 3, \u00a7\u00a7 612 bis 616 des Handelsgesetzbuchs beschr\u00e4nken k\u00f6nnen und wegen eines solchen Anspruchs ein gerichtliches Verfahren im Geltungsbereich dieses Gesetzes eingeleitet wird; <DL Font=\"normal\" Type=\"arabic\"><DT>3a.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein nicht an Bord des gelotsten Schiffes t\u00e4tiger Lotse, sofern er seine Haftung f\u00fcr die aus einem bestimmten Ereignis entstandenen Anspr\u00fcche nach \u00a7 615 des Handelsgesetzbuchs beschr\u00e4nken kann und wegen eines solchen Anspruchs ein gerichtliches Verfahren im Geltungsbereich dieses Gesetzes eingeleitet wird;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Eigent\u00fcmer eines Schiffes im Sinne des Artikels I Nr. 3 des Haftungs\u00fcbereinkommens von 1992, sofern er seine Haftung f\u00fcr die aus einem bestimmten Ereignis entstandenen Anspr\u00fcche nach \u00a7 611 Absatz 2, \u00a7 616 des Handelsgesetzbuchs beschr\u00e4nken kann.</LA></DD></DL>Der Antrag kann auch von einem Versicherer, der die Haftung in bezug auf Anspr\u00fcche versichert, f\u00fcr welche die in Satz 1 genannten Personen ihre Haftung beschr\u00e4nken k\u00f6nnen, sowie von einem sonstigen finanziellen Sicherheitsgeber im Sinne des Artikels V Abs. 11 des Haftungs\u00fcbereinkommens von 1992 gestellt werden.</P><P>(4) Ein Verteilungsverfahren findet statt f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche wegen Tod oder K\u00f6rperverletzung im Sinne des Artikels 6 Abs. 1 Buchstabe a des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens (Anspr\u00fcche wegen Personensch\u00e4den) und sonstige Anspr\u00fcche im Sinne des Artikels 6 Abs. 1 Buchstabe b des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens (Anspr\u00fcche wegen Sachsch\u00e4den)</LA><LA Size=\"normal\">- Anspruchsklasse A -,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche von Reisenden im Sinne des Artikels 7 des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens</LA><LA Size=\"normal\">- Anspruchsklasse B -,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche nach \u00a7 487 des Handelsgesetzbuchs</LA><LA Size=\"normal\">- Anspruchsklasse C -,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche nach dem Haftungs\u00fcbereinkommen von 1992</LA><LA Size=\"normal\">- Anspruchsklasse D -.</LA></DD></DL>Sind aus demselben Ereignis sowohl Anspr\u00fcche, f\u00fcr welche die Haftung nach \u00a7 486 Abs. 1 des Handelsgesetzbuchs beschr\u00e4nkt werden kann, als auch Anspr\u00fcche, f\u00fcr welche die Haftung nach \u00a7 486 Abs. 3 Satz 1 des Handelsgesetzbuchs beschr\u00e4nkt werden kann, entstanden, so findet jeweils ein gesondertes Verteilungsverfahren f\u00fcr diese Anspr\u00fcche statt.</P><P>(5) F\u00fcr ein Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A gelten die folgenden besonderen Vorschriften: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sind aus dem Ereignis Anspr\u00fcche wegen Personensch\u00e4den, f\u00fcr welche die Haftung beschr\u00e4nkt werden kann, nicht enstanden oder k\u00f6nnen solche Anspr\u00fcche nicht mehr geltend gemacht werden oder \u00fcbersteigt die Summe der Anspr\u00fcche wegen Personensch\u00e4den voraussichtlich nicht den in Artikel 6 Abs. 1 Buchstabe a des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrag, so findet das Verteilungsverfahren nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den statt, sofern die Summe dieser Anspr\u00fcche den in Artikel 6 Abs. 1 Buchstabe b des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrag voraussichtlich \u00fcbersteigt.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">K\u00f6nnen aus dem Ereignis Anspr\u00fcche wegen Personensch\u00e4den, f\u00fcr welche die Haftung beschr\u00e4nkt werden kann, zwar gegen andere Schuldner, die demselben Personenkreis angeh\u00f6ren, jedoch nicht gegen den Antragsteller geltend gemacht werden, so findet das Verteilungsverfahren nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den statt, sofern der Antragsteller dies in seinem Antrag auf Er\u00f6ffnung des Verteilungsverfahrens beantragt und die Summe der Anspr\u00fcche wegen Sachsch\u00e4den den in Artikel 6 Abs. 1 Buchstabe b des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrag voraussichtlich \u00fcbersteigt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001103307",
+        "name": "\u00a7 2",
+        "title": "Zust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000202307"
+        },
+        "body": "<P>(1) Betrifft das Verteilungsverfahren ein Schiff, das in einem Schiffsregister im Geltungsbereich dieses Gesetzes eingetragen ist, so ist das Amtsgericht ausschlie\u00dflich zust\u00e4ndig, bei dem das Schiffsregister gef\u00fchrt wird.</P><P>(2) Betrifft das Verteilungsverfahren <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Schiff, das nicht in einem Schiffsregister im Geltungsbereich dieses Gesetzes eingetragen ist, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche gegen die in \u00a7 1 Abs. 3 Satz 1 Nr. 3, 3a bezeichneten Personen,</LA></DD> </DL>so ist das Amtsgericht ausschlie\u00dflich zust\u00e4ndig, in dessen Bezirk der Antragsteller seine gewerbliche Niederlassung oder in Ermangelung einer solchen seinen gew\u00f6hnlichen Aufenthalt hat. Hat der Antragsteller weder eine gewerbliche Niederlassung noch einen gew\u00f6hnlichen Aufenthalt im Geltungsbereich dieses Gesetzes, so ist das Amtsgericht ausschlie\u00dflich zust\u00e4ndig, in dessen Bezirk ein Gericht seinen Sitz hat, das im ersten Rechtszug f\u00fcr eine Klage gegen den Antragsteller wegen eines Anspruchs, f\u00fcr den dieser seine Haftung beschr\u00e4nken kann, zust\u00e4ndig ist, oder in dessen Bezirk die Zwangsvollstreckung gegen den Antragsteller wegen eines solchen Anspruchs betrieben wird. Sind mehrere Gerichte zust\u00e4ndig, so schlie\u00dft das Gericht, bei welchem zuerst die Er\u00f6ffnung des Verfahrens beantragt worden ist, die \u00fcbrigen aus.</P><P>(3) Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung die Verteilungsverfahren f\u00fcr die Bezirke mehrerer Amtsgerichte einem von ihnen zuzuweisen, sofern die Zusammenfassung f\u00fcr eine sachdienliche F\u00f6rderung oder schnellere Erledigung der Verfahren zweckm\u00e4\u00dfig ist. Die Landesregierungen k\u00f6nnen die Erm\u00e4chtigung auf die Landesjustizverwaltungen \u00fcbertragen.</P><P>(4) Die L\u00e4nder k\u00f6nnen vereinbaren, da\u00df die Verteilungsverfahren eines Landes den Gerichten eines anderen Landes zugewiesen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001304310",
+        "name": "\u00a7 3",
+        "title": "Anwendung der Zivilproze\u00dfordnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000202307"
+        },
+        "body": "<P>(1) Auf das Verteilungsverfahren finden, soweit dieses Gesetz nichts anderes bestimmt, die Vorschriften der Zivilproze\u00dfordnung entsprechende Anwendung. Die Entscheidungen k\u00f6nnen ohne m\u00fcndliche Verhandlung ergehen. Die Zustellungen erfolgen von Amts wegen.</P><P>(2) Gegen die Entscheidungen im Verteilungsverfahren findet die sofortige Beschwerde statt, soweit nicht in \u00a7\u00a7 12, 33 etwas anderes bestimmt ist. Die Frist zur Einlegung der sofortigen Beschwerde betr\u00e4gt einen Monat. Gegen Entscheidungen des Beschwerdegerichts findet die Rechtsbeschwerde statt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG000302307",
+        "name": "Zweiter Abschnitt",
+        "title": "Er\u00f6ffnungsverfahren und \u00f6ffentliche\nAufforderung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000102307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001402307",
+        "name": "\u00a7 4",
+        "title": "Antrag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Der Antrag auf Er\u00f6ffnung des Verteilungsverfahrens mu\u00df enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die genaue Bezeichnung des Ereignisses, aus dem die Anspr\u00fcche entstanden sind, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt werden soll;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe, f\u00fcr welchen Personenkreis im Sinne des \u00a7 1 Abs. 3 Satz 1 das Verfahren er\u00f6ffnet werden soll, oder, im Falle des \u00a7 1 Abs. 2 Satz 2, die Angabe, da\u00df das Verfahren nur f\u00fcr den Antragsteller er\u00f6ffnet werden soll;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe, f\u00fcr welche Anspruchsklasse im Sinne des \u00a7 1 Abs. 4 das Verfahren er\u00f6ffnet werden soll, im Falle des \u00a7 1 Abs. 5 auch die Angabe, da\u00df das Verfahren nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet werden soll;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber Namen, st\u00e4ndigen Aufenthalt und gewerbliche Niederlassung des Antragstellers sowie der \u00fcbrigen dem Antragsteller bekannten Schuldner von Anspr\u00fcchen, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt werden soll;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber Namen, Flagge und Registerort des Schiffes;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zur Berechnung der Haftungssumme notwendigen Angaben \u00fcber den Raumgehalt des Schiffes oder, falls die Haftung f\u00fcr Anspr\u00fcche der Anspruchsklasse B beschr\u00e4nkt werden soll, \u00fcber die Anzahl der Reisenden, die das Schiff nach dem Schiffszeugnis bef\u00f6rdern darf;</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe des Betrags und des Grundes der dem Antragsteller bekannten Anspr\u00fcche, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt werden soll.</LA></DD> </DL> </P><P>(2) Dem Antrag sind eine beglaubigte Abschrift der Eintragung im Schiffsregister sowie eine beglaubigte Abschrift der das Ereignis betreffenden Eintragungen im Schiffstagebuch beizuf\u00fcgen.</P><P>(3) Der Antragsteller hat glaubhaft zu machen, da\u00df die Voraussetzungen des \u00a7 1 Abs. 5 vorliegen.</P><P>(4) Der Antrag kann bis zum Beginn des allgemeinen Pr\u00fcfungstermins zur\u00fcckgenommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001503310",
+        "name": "\u00a7 5",
+        "title": "Festsetzung der Haftungssumme.\n<BR />\nZulassung von Sicherheiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Das Gericht setzt durch Beschlu\u00df die Summe fest, die zur Errichtung des Fonds einzuzahlen ist (Haftungssumme).</P><P>(2) Das Gericht kann zulassen, da\u00df die Einzahlung der festgesetzten Haftungssumme ganz oder teilweise durch Sicherheitsleistung ersetzt wird. Das Gericht bestimmt nach freiem Ermessen, in welcher Art die Sicherheit zu leisten ist. Bei der Zulassung einer Sicherheit ist festzusetzen, welchen Betrag der Haftungssumme die Sicherheit ersetzen soll.</P><P>(3) Das Gericht kann Zwangsvollstreckungen gegen einen Schuldner wegen eines Anspruchs, mit dem der Gl\u00e4ubiger an dem beantragten Verfahren teilnimmt, bis zur Er\u00f6ffnung des Verteilungsverfahrens, l\u00e4ngstens jedoch auf die Dauer von drei Monaten, einstellen, wenn zu erwarten ist, da\u00df die Haftungssumme demn\u00e4chst eingezahlt wird. Die Einstellung der Zwangsvollstreckung kann von einer Sicherheitsleistung abh\u00e4ngig gemacht werden.</P><P>(4) Wird auf eine Erinnerung eine h\u00f6here Haftungssumme festgesetzt und ist das Verfahren auf Grund der Einzahlung der urspr\u00fcnglich festgesetzten Haftungssumme bereits er\u00f6ffnet worden, so bestimmt das Gericht eine Frist, innerhalb deren der Mehrbetrag einzuzahlen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001603160",
+        "name": "\u00a7 6",
+        "title": "Einzahlung der Haftungssumme",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Die Einzahlung der Haftungssumme erfolgt bei der f\u00fcr das Verteilungsgericht zust\u00e4ndigen Gerichtskasse. Gesetzliche und gesetzlich zugelassene Zahlungsmittel gehen in das Eigentum des Fiskus des Landes \u00fcber, in dessen Gebiet das Verteilungsgericht liegt. Geld, das in das Eigentum des Fiskus \u00fcbergegangen ist, wird nach folgenden Bestimmungen verzinst: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Die Verzinsung beginnt drei Monate nach Ablauf des Monats, in dem der Betrag eingezahlt worden ist; sie endigt mit dem Ablauf des Monats, der dem Tag der Auszahlungsverf\u00fcgung vorhergeht.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Der Zinssatz betr\u00e4gt eins vom Tausend monatlich.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Die Zinsen werden jeweils mit dem Ablauf des Kalenderjahres oder, wenn das Geld vorher herausgegeben wird, mit der Herausgabe f\u00e4llig.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Betr\u00e4ge unter 50 Euro und Zinsen werden nicht verzinst. Betr\u00e4ge, die 50 Euro \u00fcbersteigen, werden bei der Zinsberechnung auf volle 50 Euro nach unten abgerundet.</LA></DD></DL></P><P>(2) Die Leistung einer vom Gericht nach \u00a7 5 Abs. 2 zugelassenen Sicherheit geschieht in der Weise, da\u00df der Schuldner einen Anspruch der Staatskasse gegen ihn auf Zahlung desjenigen Betrags der Haftungssumme, den die Sicherheit ersetzen soll, nebst Zinsen in H\u00f6he von eins vom Tausend f\u00fcr den Monat begr\u00fcndet und die Sicherheit f\u00fcr diesen Anspruch bestellt. Die Verzinsung beginnt drei Monate nach Ablauf des Monats, in dem der Anspruch begr\u00fcndet worden ist; sie endet mit dem Ablauf des Monats, der dem Tag vorhergeht, an dem <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Einstellungsbeschlu\u00df unanfechtbar geworden ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Betrag der Haftungssumme, den die Sicherheit ersetzt, an die Gerichtskasse eingezahlt worden ist; dies gilt auch im Falle der Verwertung von Sicherheiten.</LA></DD></DL></P><P>(3) Besteht bereits eine Sicherheit f\u00fcr einen Anspruch, f\u00fcr den die Haftung des Schuldners durch das Verteilungsverfahren beschr\u00e4nkt werden soll, so ist der Gl\u00e4ubiger dieses Anspruchs verpflichtet, auf Kosten des Schuldners die zur Bestellung der Sicherheit nach Absatz 2 seinerseits erforderlichen Erkl\u00e4rungen abzugeben und Handlungen vorzunehmen, wenn das Verteilungsgericht nach \u00a7 5 Abs. 2 zugelassen hat, da\u00df die Sicherheit f\u00fcr die festgesetzte Haftungssumme oder f\u00fcr einen Teil derselben geleistet wird. Soll nach \u00a7 1 Abs. 2 Satz 2 das Verfahren nur f\u00fcr den Antragsteller er\u00f6ffnet werden, so gilt Satz 1 nur, soweit die Sicherheit ausschlie\u00dflich f\u00fcr einen Anspruch gegen den Antragsteller besteht.</P><P>(4) Die Leistung der zugelassenen Sicherheit steht der Einzahlung des daf\u00fcr festgesetzten Betrags der Haftungssumme gleich.</P><P>(5) Wird die geleistete Sicherheit im Verlauf des Verfahrens unzureichend, so ordnet das Gericht an, da\u00df und in welcher Weise sie zu erg\u00e4nzen oder anderweitige Sicherheit zu leisten ist. Vor der Entscheidung ist der Antragsteller zu h\u00f6ren. Das Gericht bestimmt eine Frist f\u00fcr die Erg\u00e4nzung oder Leistung der Sicherheit.</P><P>(6) Wird auf die Erinnerung eines Schuldners eine niedrigere Haftungssumme festgesetzt und ist das Verfahren auf Grund der Einzahlung der urspr\u00fcnglich festgesetzten Haftungssumme bereits er\u00f6ffnet, so ordnet das Gericht an, da\u00df der Mehrbetrag an den Einzahler zur\u00fcckgezahlt wird. Die Anordnung darf erst nach Rechtskraft vollzogen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001705307",
+        "name": "\u00a7 7",
+        "title": "Er\u00f6ffnung des Verfahrens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Das Gericht beschlie\u00dft \u00fcber die Er\u00f6ffnung des Verteilungsverfahrens, sobald die festgesetzte Haftungssumme eingezahlt worden ist.</P><P>(2) Der Er\u00f6ffnungsbeschlu\u00df enth\u00e4lt insbesondere: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die genaue Bezeichnung des Ereignisses, aus dem die Anspr\u00fcche entstanden sind, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt werden soll;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung, f\u00fcr welchen Personenkreis im Sinne des \u00a7 1 Abs. 3 Satz 1 das Verfahren er\u00f6ffnet wird, oder, im Falle des \u00a7 1 Abs. 2 Satz 2, die Feststellung, da\u00df das Verfahren nur f\u00fcr den Antragsteller er\u00f6ffnet wird;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung, f\u00fcr welche Anspruchsklasse im Sinne des \u00a7 1 Abs. 4 das Verfahren er\u00f6ffnet wird, im Falle des \u00a7 1 Abs. 5 auch die Feststellung, da\u00df das Verfahren nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet wird;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber Namen, st\u00e4ndigen Aufenthalt und gewerbliche Niederlassung des Antragstellers sowie der \u00fcbrigen dem Gericht bekannten Schuldner von Anspr\u00fcchen, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt werden soll;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber Namen, Flagge und Registerort des Schiffes;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung, da\u00df die Haftungssumme eingezahlt worden ist, oder Angaben \u00fcber Art und H\u00f6he von etwa anstelle der Einzahlung der Haftungssumme geleisteten Sicherheiten einschlie\u00dflich der Angabe, welchen Betrag der Haftungssumme die Sicherheitsleistung ersetzt; ist \u00fcber eine Beschwerde nach \u00a7 12 Abs. 1 noch nicht entschieden, so enth\u00e4lt der Er\u00f6ffnungsbeschlu\u00df auch den Hinweis, da\u00df der Antragsteller gegen den Beschlu\u00df \u00fcber die Festsetzung der Haftungssumme Beschwerde eingelegt hat;</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Stunde der Er\u00f6ffnung; \u00a7 27 Abs. 3 der Insolvenzordnung gilt entsprechend.</LA></DD> </DL> </P><P>(3) Der Beschlu\u00df \u00fcber die Er\u00f6ffnung des Verteilungsverfahrens soll mit dem Beschlu\u00df \u00fcber die Festsetzung der Haftungssumme verbunden werden, wenn die festzusetzende Haftungssumme bereits eingezahlt worden ist.</P><P>(4) Eine Ausfertigung des Er\u00f6ffnungsbeschlusses erh\u00e4lt auf Antrag jeder, der glaubhaft macht, da\u00df gegen ihn wegen eines Anspruchs, mit dem der Gl\u00e4ubiger an dem Verfahren teilnimmt, eine Klage anh\u00e4ngig ist oder die Zwangsvollstreckung betrieben wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001807311",
+        "name": "\u00a7 8",
+        "title": "Wirkungen der Er\u00f6ffnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Mit der Er\u00f6ffnung des Verteilungsverfahrens gilt der Fonds als errichtet. Unbeschadet des Absatzes 2 Satz 2 beschr\u00e4nkt sich die Haftung der Personen, die zu dem im Er\u00f6ffnungsbeschlu\u00df bezeichneten Personenkreis geh\u00f6ren, f\u00fcr alle Anspr\u00fcche, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus dem im Er\u00f6ffnungsbeschlu\u00df bezeichneten Ereignis entstanden sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Haftungsbeschr\u00e4nkung nach den \u00a7\u00a7 611 bis 616 des Handelsgesetzbuchs unterliegen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu der Anspruchsklasse, im Falle des \u00a7 1 Abs. 5 zu den Anspr\u00fcchen wegen Sachsch\u00e4den geh\u00f6ren, f\u00fcr die das Verfahren er\u00f6ffnet worden ist,</LA></DD></DL>auf die Haftungssumme. An dem Verteilungsverfahren nehmen alle Gl\u00e4ubiger von Anspr\u00fcchen teil, f\u00fcr welche die Haftung nach Satz 2 beschr\u00e4nkt worden ist.</P><P>(2) Anspr\u00fcche, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt worden ist, k\u00f6nnen nur nach den Vorschriften dieses Gesetzes verfolgt werden. Jedoch stehen die Vorschriften dieses Gesetzes der Verfolgung eines Anspruchs, f\u00fcr den der Schuldner seine Haftung beschr\u00e4nken kann, nach Aufhebung des Verteilungsverfahrens nicht entgegen, soweit der Anspruch aus der Haftungssumme nicht berichtigt worden ist und der Schuldner vor Er\u00f6ffnung des Verfahrens zur Zahlung eines h\u00f6heren Betrags als des bei der Verteilung der Haftungssumme auf diesen Anspruch entfallenen Anteils rechtskr\u00e4ftig verurteilt worden ist; \u00a7 20 Abs. 1 Satz 1, \u00a7\u00a7 21, 22 und 24 finden keine Anwendung.</P><P>(3) Rechtsstreitigkeiten wegen der in Absatz 1 genannten Anspr\u00fcche, die bei der Er\u00f6ffnung des Verteilungsverfahrens anh\u00e4ngig sind, werden mit dem Erla\u00df des Er\u00f6ffnungsbeschlusses unterbrochen, bis sie nach \u00a7 19 aufgenommen werden oder bis das Verteilungsverfahren aufgehoben oder eingestellt wird.</P><P>(4) Nach der Er\u00f6ffnung des Verteilungsverfahrens ist die Zwangsvollstreckung wegen der in Absatz 1 genannten Anspr\u00fcche unzul\u00e4ssig, bis das Verfahren aufgehoben oder eingestellt wird. Die Unzul\u00e4ssigkeit ist im Wege der Klage bei dem Proze\u00dfgericht des ersten Rechtszugs geltend zu machen. Das Gericht kann auf Antrag durch Beschluss anordnen, da\u00df die Zwangsvollstreckung einstweilen gegen oder ohne Sicherheitsleistung eingestellt oder nur gegen Sicherheitsleistung fortgesetzt wird; die tats\u00e4chlichen Behauptungen, die den Antrag begr\u00fcnden, sind glaubhaft zu machen. In dringenden F\u00e4llen kann das Vollstreckungsgericht eine solche Anordnung erlassen; es bestimmt in diesem Fall eine Frist, innerhalb deren die Entscheidung des Proze\u00dfgerichts beizubringen ist und nach deren fruchtlosem Ablauf die Zwangsvollstreckung fortgesetzt wird.</P><P>(5) Ist die Zwangsvollstreckung eingestellt, so kann das Vollstreckungsgericht auf Antrag des Schuldners anordnen, da\u00df Vollstreckungsma\u00dfregeln gegen Sicherheitsleistung aufgehoben werden. Solange eine Klage nach Absatz 4 Satz 2 anh\u00e4ngig ist, ist das Proze\u00dfgericht f\u00fcr diese Anordnung zust\u00e4ndig.</P><P>(6) Wird nach der Er\u00f6ffnung des Verfahrens \u00fcber das Verm\u00f6gen eines Schuldners das Insolvenzverfahren er\u00f6ffnet, so wird der Fortgang des Verteilungsverfahrens dadurch nicht ber\u00fchrt.</P><P>(7) Ein Gl\u00e4ubiger, der an dem Verfahren teilnimmt, kann seinen Anspruch gegen einen Anspruch des Schuldners nach Er\u00f6ffnung des Verteilungsverfahrens nicht mehr aufrechnen. Er ist verpflichtet, f\u00fcr den Anspruch bestehende Sicherungsrechte nicht mehr zu verwerten. Artikel 5 des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE001905307",
+        "name": "\u00a7 9",
+        "title": "Sachwalter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Bei der Er\u00f6ffnung des Verteilungsverfahrens bestellt das Gericht einen Sachwalter. \u00a7 56 Abs. 2 der Insolvenzordnung gilt entsprechend.</P><P>(2) Der Sachwalter hat folgende Aufgaben und Befugnisse: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Er kann gegen angemeldete Anspr\u00fcche Widerspruch erheben und Rechtsstreitigkeiten \u00fcber die Anspr\u00fcche und das Recht ihrer Gl\u00e4ubiger auf Teilnahme an dem Verteilungsverfahren f\u00fchren;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">er verwertet etwa geleistete Sicherheiten auf Anordnung des Gerichts;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">er treibt vom Antragsteller nach \u00a7 31 Abs. 1 zu tragende Kosten zur Haftungssumme bei, wenn deren Zahlung vom Gericht angeordnet worden ist.</LA></DD> </DL>Das Gericht kann den Sachwalter auch mit der Verwaltung von Sicherheiten beauftragen.</P><P>(3) Verbindlichkeiten, die der Sachwalter im Rahmen seiner Befugnisse begr\u00fcndet, sind auf Anordnung des Verteilungsgerichts aus der Haftungssumme zu begleichen.</P><P>(4) Der Sachwalter ist f\u00fcr die Erf\u00fcllung der ihm obliegenden Pflichten allen Beteiligten verantwortlich.</P><P>(5) Der Sachwalter steht unter der Aufsicht des Gerichts. Das Gericht kann gegen ihn Zwangsgeld festsetzen und ihn von Amts wegen entlassen. Vor der Entscheidung ist der Sachwalter zu h\u00f6ren.</P><P>(6) Der Sachwalter kann aus der Haftungssumme eine angemessene Verg\u00fctung f\u00fcr seine Gesch\u00e4ftsf\u00fchrung und die Erstattung angemessener barer Auslagen verlangen. Er hat Anspruch auf einen Vorschu\u00df auf die Auslagen, soweit dies zur Erf\u00fcllung seiner Aufgaben notwendig ist. Die H\u00f6he der Verg\u00fctung, der Auslagen und des Vorschusses setzt das Gericht fest.</P><P>(7) Der Sachwalter hat bei der Beendigung seines Amtes dem Verteilungsgericht Schlu\u00dfrechnung zu legen. Die Rechnung mu\u00df mit den Belegen sp\u00e4testens eine Woche nach der Beendigung auf der Gesch\u00e4ftsstelle zur Einsicht der Beteiligten niedergelegt werden. Der Schuldner, jeder an dem Verfahren teilnehmende Gl\u00e4ubiger und ein etwa nachfolgender Sachwalter sind berechtigt, Einwendungen gegen die Rechnung zu erheben. Soweit binnen einer Woche nach der Niederlegung Einwendungen nicht erhoben werden, gilt die Rechnung als anerkannt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002004307",
+        "name": "\u00a7 10",
+        "title": "\u00d6ffentliche Aufforderung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Zugleich mit dem Er\u00f6ffnungsbeschlu\u00df erl\u00e4\u00dft das Gericht zur Ermittlung der am Verfahren teilnehmenden Gl\u00e4ubiger eine \u00f6ffentliche Aufforderung und bestimmt einen Termin zur Pr\u00fcfung der angemeldeten Anspr\u00fcche (allgemeiner Pr\u00fcfungstermin). Die in der \u00f6ffentlichen Aufforderung zu bestimmende Frist zur Anmeldung der Anspr\u00fcche soll mindestens zwei Monate betragen; sie soll nicht weniger als sechs Monate betragen, wenn damit zu rechnen ist, da\u00df an dem Verfahren Gl\u00e4ubiger teilnehmen, die ihre gewerbliche Niederlassung oder ihren gew\u00f6hnlichen Aufenthalt im Ausland haben. Der Zeitraum zwischen dem Ablauf der Anmeldefrist und dem allgemeinen Pr\u00fcfungstermin soll mindestens eine Woche und h\u00f6chstens zwei Monate betragen.</P><P>(2) Die \u00f6ffentliche Aufforderung enth\u00e4lt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufforderung, alle Anspr\u00fcche, die aus dem in dem Er\u00f6ffnungsbeschlu\u00df bezeichneten Ereignis entstanden sind und f\u00fcr welche die Haftung des Schuldners durch das Verteilungsverfahren beschr\u00e4nkt worden ist, innerhalb der in der \u00f6ffentlichen Aufforderung bestimmten Frist bei dem Gericht anzumelden, auch soweit sie dem Gericht bereits auf andere Weise als durch Anmeldung des Gl\u00e4ubigers bekannt sind;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Hinweis, da\u00df<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche, f\u00fcr welche die Haftung des Antragstellers durch das Verteilungsverfahren beschr\u00e4nkt worden ist, sowie</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche gegen andere Schuldner, die au\u00dfer dem Antragsteller f\u00fcr einen Anspruch aus dem Ereignis haften und deren Haftung durch die Er\u00f6ffnung des Verfahrens durch das Verteilungsverfahren beschr\u00e4nkt worden ist,</LA></DD> </DL></LA><LA Size=\"normal\">nur nach Ma\u00dfgabe der Vorschriften der Schiffahrtsrechtlichen Verteilungsordnung verfolgt werden k\u00f6nnen und da\u00df die Gl\u00e4ubiger nicht angemeldeter Anspr\u00fcche nach diesen Vorschriften an der Verteilung der Haftungssumme nicht teilnehmen;</LA></DD>  <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufforderung an alle Schuldner, die au\u00dfer dem Antragsteller f\u00fcr einen Anspruch aus dem Ereignis haften und deren Haftung durch die Er\u00f6ffnung des Verfahrens durch das Verteilungsverfahren beschr\u00e4nkt worden ist, innerhalb der in der \u00f6ffentlichen Aufforderung bestimmten Frist dem Gericht ihre ladungsf\u00e4hige Anschrift mitzuteilen, wenn sie von dem Fortgang des Verfahrens unterrichtet werden wollen;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Hinweis, da\u00df auch die Schuldner, welche dieser Aufforderung nicht nachkommen, das Verfahren gegen sich gelten lassen m\u00fcssen.</LA></DD> </DL> </P><P>(3) Ist das Verfahren nach \u00a7 1 Abs. 5 nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet worden, so enth\u00e4lt die \u00f6ffentliche Aufforderung au\u00dferdem die Aufforderung, nach Ma\u00dfgabe des Absatzes 2 Nr. 1 alle Anspr\u00fcche wegen Personensch\u00e4den anzumelden, die aus dem im Er\u00f6ffnungsbeschlu\u00df bezeichneten Ereignis entstanden sind und f\u00fcr welche die Haftung des Schuldners beschr\u00e4nkt worden w\u00e4re, wenn das Verfahren auch mit Wirkung f\u00fcr Anspr\u00fcche wegen Personensch\u00e4den er\u00f6ffnet worden w\u00e4re.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002102307",
+        "name": "\u00a7 11",
+        "title": "Bekanntmachung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Nach der Er\u00f6ffnung des Verteilungsverfahrens hat das Gericht den wesentlichen Inhalt des Beschlusses \u00fcber die Festsetzung der Haftungssumme und des Beschlusses \u00fcber die Er\u00f6ffnung des Verteilungsverfahrens, die \u00f6ffentliche Aufforderung und den allgemeinen Pr\u00fcfungstermin \u00f6ffentlich bekanntzumachen; in der Bekanntmachung sind Name und Anschrift des Sachwalters anzugeben. Das Gericht hat auch besondere Pr\u00fcfungstermine \u00f6ffentlich bekanntzumachen.</P><P>(2) Die \u00f6ffentliche Bekanntmachung erfolgt durch mindestens einmalige Einr\u00fcckung in den Bundesanzeiger sowie in wenigstens ein weiteres vom Gericht zu bestimmendes Blatt. Die Bekanntmachung gilt als bewirkt mit dem Ablauf des zweiten Tages nach der Ausgabe der die erste Einr\u00fcckung enthaltenden Nummer des Bundesanzeigers. Ist nach den Umst\u00e4nden anzunehmen, da\u00df in erheblichem Umfang Gl\u00e4ubiger an dem Verfahren teilnehmen, die ihren gew\u00f6hnlichen Aufenthalt in einem Gebiet au\u00dferhalb des Geltungsbereichs dieses Gesetzes haben, so soll die Bekanntmachung auch in wenigstens ein Blatt einger\u00fcckt werden, das in diesem Gebiet erscheint.</P><P>(3) Die \u00f6ffentliche Bekanntmachung gilt als Zustellung an alle Beteiligten.</P><P>(4) Den ihrer Anschrift nach bekannten Gl\u00e4ubigern und Schuldnern hat das Gericht den Inhalt der \u00f6ffentlichen Bekanntmachung besonders mitzuteilen. Der Mitteilung ist der volle Wortlaut des Beschlusses \u00fcber die Festsetzung der Haftungssumme und des Beschlusses \u00fcber die Er\u00f6ffnung des Verteilungsverfahrens beizuf\u00fcgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002202307",
+        "name": "\u00a7 12",
+        "title": "Rechtsmittel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000302307"
+        },
+        "body": "<P>(1) Gegen den Beschlu\u00df \u00fcber die Festsetzung der Haftungssumme kann nur der Antragsteller Beschwerde einlegen. Nach der Er\u00f6ffnung des Verteilungsverfahrens kann Beschwerde nicht mehr eingelegt werden. \u00dcber eine vor Er\u00f6ffnung des Verfahrens eingelegte Beschwerde, \u00fcber die bei Er\u00f6ffnung des Verfahrens noch nicht entschieden worden ist, darf nicht vor Ablauf der in Absatz 3 Satz 1 f\u00fcr die Einlegung einer Erinnerung bestimmten Frist entschieden werden; die Gl\u00e4ubiger angemeldeter Anspr\u00fcche sowie die Schuldner, die sich nach \u00a7 10 Abs. 2 Nr. 3 gemeldet haben, sind zu h\u00f6ren.</P><P>(2) Nach der Er\u00f6ffnung des Verteilungsverfahrens k\u00f6nnen alle Gl\u00e4ubiger angemeldeter Anspr\u00fcche und alle Schuldner, die sich nach \u00a7 10 Abs. 2 Nr. 3 gemeldet haben, gegen den Beschlu\u00df \u00fcber die Festsetzung der Haftungssumme Erinnerung einlegen. Dem Antragsteller steht die Erinnerung jedoch nur zu, wenn die Frist zur Einlegung der Beschwerde gegen den Beschlu\u00df bei der Er\u00f6ffnung des Verteilungsverfahrens noch nicht abgelaufen war. Wird von einem anderen Schuldner oder von einem Gl\u00e4ubiger Erinnerung nach Satz 1 eingelegt, so ist eine vom Antragsteller vor der Er\u00f6ffnung des Verfahrens eingelegte Beschwerde, \u00fcber die noch nicht entschieden worden ist, nach der Er\u00f6ffnung des Verfahrens als Erinnerung zu behandeln.</P><P>(3) Die Erinnerung nach Absatz 2 kann innerhalb eines Monats nach Ablauf der in der \u00f6ffentlichen Aufforderung bestimmten Frist zur Anmeldung der Anspr\u00fcche eingelegt werden. \u00dcber s\u00e4mtliche Erinnerungen ist in einem einheitlichen Verfahren gleichzeitig zu entscheiden. Im Verfahren \u00fcber die Erinnerung eines Schuldners sind alle Gl\u00e4ubiger angemeldeter Anspr\u00fcche, im Verfahren \u00fcber die Erinnerung eines Gl\u00e4ubigers sind alle Schuldner, die sich nach \u00a7 10 Abs. 2 Nr. 3 gemeldet haben, zu h\u00f6ren.</P><P>(4) Gegen den Beschlu\u00df \u00fcber die Er\u00f6ffnung des Verteilungsverfahrens k\u00f6nnen alle Gl\u00e4ubiger angemeldeter Anspr\u00fcche und alle Schuldner, die sich nach \u00a7 10 Abs. 2 Nr. 3 gemeldet haben, Erinnerung einlegen. Absatz 3 gilt entsprechend.</P><P>(5) Eine Erinnerung kann nicht darauf gest\u00fctzt werden, da\u00df der Antragsteller nicht antragsberechtigt ist, weil die Summe der Anspr\u00fcche, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt worden ist, den f\u00fcr diese Anspr\u00fcche bestimmten Haftungsh\u00f6chstbetrag nicht \u00fcbersteigt.</P><P>(6) Solange das Gericht nach Absatz 3 Satz 2 oder nach Absatz 4 Satz 2 gehindert ist, der Erinnerung eines Gl\u00e4ubigers alsbald stattzugeben, kann es zur Abwendung eines schwer zu ersetzenden Nachteils zulassen, da\u00df die Zwangsvollstreckung wegen eines Anspruchs, mit dem der Gl\u00e4ubiger an dem Verteilungsverfahren teilnimmt, bis zur Entscheidung \u00fcber die Erinnerung insoweit betrieben wird, wie dies zur Vollziehung eines Arrests statthaft ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG000402307",
+        "name": "Dritter Abschnitt",
+        "title": "Feststellung der Anspr\u00fcche. Erl\u00f6schen von\nSicherungsrechten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000102307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002304311",
+        "name": "\u00a7 13",
+        "title": "Anmeldung von Anspr\u00fcchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>(1) Die Anmeldung eines Anspruchs mu\u00df die Angabe seines Betrags und Grundes enthalten. Ist vor Er\u00f6ffnung des Verfahrens \u00fcber den Anspruch unter Ber\u00fccksichtigung der Beschr\u00e4nkung der Haftung des Schuldners rechtskr\u00e4ftig entschieden worden, so steht eine solche Entscheidung der Anmeldung des vollen Betrags des Anspruchs nicht entgegen.</P><P>(2) Die Anmeldung kann bei dem Gericht schriftlich eingereicht oder zu Protokoll der Gesch\u00e4ftsstelle erkl\u00e4rt werden; urkundliche Beweismittel oder eine Abschrift derselben sollen beigef\u00fcgt werden.</P><P>(3) Der Urkundsbeamte der Gesch\u00e4ftsstelle tr\u00e4gt die angemeldeten Anspr\u00fcche in eine Tabelle ein; Anspr\u00fcche wegen Personensch\u00e4den und Anspr\u00fcche wegen Sachsch\u00e4den sind getrennt einzutragen, wenn das Verteilungsverfahren im Rahmen der Anspruchsklasse A f\u00fcr beide Arten von Anspr\u00fcchen er\u00f6ffnet worden ist. Anspr\u00fcche, f\u00fcr die mehrere Schuldner als Gesamtschuldner haften, sind kenntlich zu machen. Die Tabelle kann auch in elektronischer Form hergestellt und bearbeitet werden. Sie ist zusammen mit den Anmeldungen auf der Gesch\u00e4ftsstelle des Gerichts zur Einsicht der Beteiligten niederzulegen. Von einer Tabelle in elektronischer Form ist ein Ausdruck zur Einsicht niederzulegen, der den Anforderungen des \u00a7 298 Absatz 3 der Zivilprozessordnung entspricht.</P><P>(4) Die Anmeldung kann zur\u00fcckgenommen werden, solange nicht der Anspruch und das Recht seines Gl\u00e4ubigers auf Teilnahme an dem Verfahren festgestellt worden sind. Die R\u00fccknahme kann schriftlich oder zu Protokoll der Gesch\u00e4ftsstelle erkl\u00e4rt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002403311",
+        "name": "\u00a7 14",
+        "title": "Gegenstand der Anmeldung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>(1) Die Anspr\u00fcche sind mit dem Wert in Euro geltend zu machen, der ihnen am Tag der Er\u00f6ffnung des Verteilungsverfahrens zukommt. Anspr\u00fcche, die nicht auf einen Geldbetrag gerichtet sind oder deren Geldbetrag unbestimmt oder ungewi\u00df ist oder nicht in Euro feststeht, sind nach ihrem Sch\u00e4tzungswert in Euro geltend zu machen.</P><P>(2) Zinsen k\u00f6nnen im Verteilungsverfahren nur insoweit geltend gemacht werden, als sie bis zur Er\u00f6ffnung des Verfahrens aufgelaufen sind.</P><P>(3) Kosten, die den Gl\u00e4ubigern durch die Teilnahme an dem Verfahren erwachsen, k\u00f6nnen im Verteilungsverfahren nicht geltend gemacht werden.</P><P>(4) Betagte Anspr\u00fcche gelten als f\u00e4llig.</P><P>(5) Soweit f\u00fcr einen Anspruch nach Absatz 1 Satz 2 ein Sch\u00e4tzungswert wegen au\u00dfergew\u00f6hnlicher Umst\u00e4nde des Einzelfalls noch nicht ermittelt werden kann, ist der Anspruch ohne Angabe eines Betrags anzumelden. Bei der Anmeldung ist jedoch der H\u00f6chstbetrag anzugeben, mit dem der Anspruch in dem Verfahren geltend gemacht wird. Der H\u00f6chstbetrag darf den Wert nicht \u00fcbersteigen, der dem Anspruch nach den Umst\u00e4nden voraussichtlich zukommen wird.</P><P>(6) Haften f\u00fcr einen Anspruch mehrere Personen als Gesamtschuldner, deren Haftung nicht durch dasselbe Verteilungsverfahren beschr\u00e4nkt werden kann, und ist die Haftung einer oder mehrerer von ihnen durch das Verteilungsverfahren beschr\u00e4nkt worden, so kann der Gl\u00e4ubiger bis zu seiner vollen Befriedigung in jedem Verteilungsverfahren den Betrag in voller H\u00f6he geltend machen, den er zur Zeit der Er\u00f6ffnung des Verfahrens zu fordern hatte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002502307",
+        "name": "\u00a7 15",
+        "title": "Anmeldung von Anspr\u00fcchen durch Schuldner",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>Der Schuldner eines Anspruchs, mit dem der Gl\u00e4ubiger an dem Verteilungsverfahren h\u00e4tte teilnehmen k\u00f6nnen, kann den Anspruch in dem Verfahren geltend machen, soweit er ihn erf\u00fcllt hat. Hatte der Gl\u00e4ubiger den Anspruch bereits im Verteilungsverfahren geltend gemacht, so tritt der Schuldner in die Stellung des Gl\u00e4ubigers ein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002602307",
+        "name": "\u00a7 16",
+        "title": "Erweiterung des Verfahrens auf Anspr\u00fcche wegen\nPersonensch\u00e4den",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>(1) Ist das Verfahren nach \u00a7 1 Abs. 5 nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet worden, so \u00e4ndert das Gericht die Festsetzung der Haftungssumme ab, wenn gegen den Antragsteller Anspr\u00fcche wegen eines aus demselben Ereignis entstandenen Personenschadens angemeldet werden, f\u00fcr die die Haftung beschr\u00e4nkt werden kann und deren Summe den in Artikel 6 Abs. 1 Buchstabe a des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrag \u00fcbersteigt. Nach dem Beginn des allgemeinen Pr\u00fcfungstermins ist die Erweiterung des Verfahrens ausgeschlossen.</P><P>(2) Das Gericht bestimmt eine Frist f\u00fcr die Einzahlung des Mehrbetrags.</P><P>(3) F\u00fcr den Beschlu\u00df \u00fcber die Erh\u00f6hung der Haftungssumme gilt \u00a7 5 Abs. 2 bis 4 entsprechend.</P><P>(4) Sobald der Betrag eingezahlt worden ist, um den die Haftungssumme nach Absatz 1 erh\u00f6ht worden ist, beschlie\u00dft das Gericht, da\u00df das Verteilungsverfahren auch mit Wirkung f\u00fcr Anspr\u00fcche wegen Personensch\u00e4den er\u00f6ffnet wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002702307",
+        "name": "\u00a7 17",
+        "title": "Einstellung des Verfahrens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>(1) Das Verteilungsgericht stellt das Verteilungsverfahren durch Beschlu\u00df ein, wenn nach der Er\u00f6ffnung des Verfahrens <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Haftungssumme rechtskr\u00e4ftig auf einen h\u00f6heren Betrag festgesetzt, der Mehrbetrag jedoch nicht innerhalb der bestimmten Frist eingezahlt wird,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle des \u00a7 6 Abs. 5 die Sicherheit nicht in der bestimmten Frist erg\u00e4nzt oder geleistet wird oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Antrag auf Er\u00f6ffnung des Verfahrens zur\u00fcckgenommen wird.</LA></DD> </DL> </P><P>(2) Die Einstellung des Verfahrens ist \u00f6ffentlich bekanntzumachen. \u00a7 11 Abs. 2 bis 4 gilt entsprechend. Erfolgt die Einstellung, nachdem in dem Verfahren bereits Anspr\u00fcche und das Recht ihrer Gl\u00e4ubiger auf Teilnahme an dem Verfahren festgestellt worden sind, so ist in der Bekanntmachung auf die Rechte der Gl\u00e4ubiger dieser Anspr\u00fcche nach \u00a7 20 Abs. 3 und 4 hinzuweisen.</P><P>(3) Soweit nicht Rechte Dritter nach Absatz 5 und \u00a7 20 Abs. 3 und 4 zu ber\u00fccksichtigen sind, werden nach Ablauf von einem Monat seit dem Zeitpunkt, in dem der Einstellungsbeschlu\u00df unanfechtbar geworden ist, die eingezahlte Haftungssumme an den Einzahler zur\u00fcckgezahlt und geleistete Sicherheiten freigegeben. Mit der Freigabe erl\u00f6schen die nach \u00a7 6 Abs. 2 begr\u00fcndeten Anspr\u00fcche der Staatskasse.</P><P>(4) Das Gericht kann bereits vor der Einstellung des Verfahrens nach Absatz 1 die Zwangsvollstreckung wegen eines Anspruchs, mit dem der Gl\u00e4ubiger an dem Verfahren teilnimmt, insoweit zulassen, wie dies zur Vollziehung eines Arrestes statthaft ist, wenn begr\u00fcndeter Anla\u00df f\u00fcr die Annahme besteht, da\u00df der Schuldner nicht innerhalb der bestimmten Frist den Mehrbetrag der Haftungssumme einzahlen oder die Sicherheit erg\u00e4nzen oder leisten wird. Auf Grund einer solchen Anordnung kann nicht mehr vollstreckt werden, wenn der Mehrbetrag der Haftungssumme eingezahlt oder die Sicherheit erg\u00e4nzt oder geleistet worden ist.</P><P>(5) Wird der Anspruch auf R\u00fcckzahlung oder auf Freigabe von Sicherheiten, der dem Antragsteller oder einem anderen an dem Verfahren teilnehmenden Schuldner nach Absatz 3 zusteht, in der Zeit bis zum Ablauf von einem Monat seit dem Zeitpunkt, in dem der Einstellungsbeschlu\u00df unanfechtbar geworden ist, von mehreren Gl\u00e4ubigern gepf\u00e4ndet, so sind die Gl\u00e4ubiger nach dem Verh\u00e4ltnis ihrer Anspr\u00fcche zu befriedigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002805307",
+        "name": "\u00a7 18",
+        "title": "Pr\u00fcfungsverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>Die angemeldeten Anspr\u00fcche werden hinsichtlich ihres Betrags und hinsichtlich des Rechts ihrer Gl\u00e4ubiger auf Teilnahme an dem Verteilungsverfahren in einem allgemeinen Pr\u00fcfungstermin einzeln er\u00f6rtert. In diesem Termin hat sich der Schuldner zu den Anspr\u00fcchen zu erkl\u00e4ren. \u00a7 177 der Insolvenzordnung gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE002905307",
+        "name": "\u00a7 19",
+        "title": "Feststellung der Anspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>(1) Ein Anspruch und das Recht seines Gl\u00e4ubigers auf Teilnahme an dem Verteilungsverfahren gelten als festgestellt, soweit im Pr\u00fcfungstermin ein Widerspruch weder von dem Gl\u00e4ubiger eines angemeldeten Anspruchs noch von dem Schuldner eines solchen Anspruchs noch von dem Sachwalter erhoben wird oder soweit ein erhobener Widerspruch beseitigt ist.</P><P>(2) Das Gericht hat nach der Er\u00f6rterung eines jeden Anspruchs das Ergebnis in die Tabelle einzutragen. Die Eintragung gilt f\u00fcr das Verfahren hinsichtlich des Betrags der festgestellten Anspr\u00fcche und, wenn das Verfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A er\u00f6ffnet worden ist, hinsichtlich ihrer Zugeh\u00f6rigkeit zu den Anspr\u00fcchen wegen Personensch\u00e4den oder zu den Anspr\u00fcchen wegen Sachsch\u00e4den sowie hinsichtlich des Rechts ihrer Gl\u00e4ubiger auf Teilnahme an dem Verfahren wie ein rechtskr\u00e4ftiges Urteil gegen alle Gl\u00e4ubiger und Schuldner von Anspr\u00fcchen, die an dem Verfahren teilnehmen, sowie gegen den Sachwalter.</P><P>(3) Den Gl\u00e4ubigern streitig gebliebener Anspr\u00fcche bleibt es \u00fcberlassen, die Feststellung derselben gegen den Bestreitenden zu betreiben. Die Vorschriften des \u00a7 179 Abs. 2, 3, der \u00a7\u00a7 180 bis 183 und des \u00a7 185 der Insolvenzordnung gelten sinngem\u00e4\u00df.</P><P>(4) F\u00fcr Anspr\u00fcche, die nach \u00a7 14 Abs. 5 ohne Angabe eines Betrags angemeldet worden sind und f\u00fcr die auch bei der Verhandlung im Pr\u00fcfungstermin ein Sch\u00e4tzungswert noch nicht ermittelt werden kann, gelten diese Vorschriften mit der Ma\u00dfgabe, da\u00df zun\u00e4chst nur das Recht der Gl\u00e4ubiger auf Teilnahme an dem Verfahren bis zu dem bei der Anmeldung angegebenen H\u00f6chstbetrag f\u00fcr den Fall festgestellt wird, da\u00df ein Anspruch bis zu dieser H\u00f6he sp\u00e4ter feststellbar wird.</P><P>(5) In dem Verfahren \u00fcber einen nicht vom Schuldner erhobenen Widerspruch gegen einen Anspruch, f\u00fcr welchen ein mit der Vollstreckungsklausel versehener Schuldtitel, ein Endurteil oder ein Vollstreckungsbescheid vorliegt, braucht der Widersprechende den Titel nicht gegen sich gelten zu lassen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Schuldner mit dem Gl\u00e4ubiger oder mit dessen Rechtsvorg\u00e4nger arglistig zusammengewirkt hat, um dem Gl\u00e4ubiger im Verteilungsverfahren einen ungerechtfertigten Vorteil zu verschaffen, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Schuldner den Rechtsstreit nachl\u00e4ssig gef\u00fchrt hat.</LA></DD> </DL>Die Verfolgung des Widerspruchs bleibt auch dann dem Widersprechenden \u00fcberlassen, wenn er den Titel nach Satz 1 nicht gegen sich gelten zu lassen braucht.</P><P>(6) Ist die Feststellung eines Anspruchs durch die Aufnahme eines bereits anh\u00e4ngigen Rechtsstreits zu verfolgen, so kann der Widersprechende die Einlassung auf den Rechtsstreit verweigern, wenn die Voraussetzungen des Absatzes 5 Nr. 1 oder des Absatzes 5 Nr. 2 vorliegen. Wird die Weigerung vom Proze\u00dfgericht f\u00fcr begr\u00fcndet erkl\u00e4rt, so hat der Gl\u00e4ubiger seinen Anspruch gegen den Widersprechenden im Wege einer neuen Klage zu verfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003002307",
+        "name": "\u00a7 20",
+        "title": "Erl\u00f6schen von Sicherungsrechten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>(1) Werden ein Anspruch und das Recht seines Gl\u00e4ubigers auf Teilnahme an dem Verteilungsverfahren festgestellt, so treten hinsichtlich aller f\u00fcr diesen Anspruch bestehenden Schiffshypotheken, Schiffsgl\u00e4ubigerrechte und sonstigen Sicherungsrechte die Rechtsfolgen ein, die das Erl\u00f6schen des gesicherten Anspruchs haben w\u00fcrde. Ist die Sicherheit nach ihrer Bestellung an einen Dritten \u00fcbertragen worden, so gilt Satz 1 nicht, soweit die Beschr\u00e4nkbarkeit der Haftung dem Dritten nach den Vorschriften zugunsten derjenigen, welche Rechte von einem Nichtberechtigten herleiten, nicht entgegengehalten werden kann.</P><P>(2) Das Gericht hat dem Schuldner zum Nachweis der Feststellung einen Auszug aus der Tabelle in beglaubigter Form zu erteilen.</P><P>(3) Wird das Verteilungsverfahren sp\u00e4ter eingestellt und hat f\u00fcr einen Anspruch ein Sicherungsrecht bestanden, das der Gl\u00e4ubiger auf Grund der Regelung des Absatzes 1 oder des \u00a7 6 Abs. 3 verloren hat, so hat der Gl\u00e4ubiger wegen seines Anspruchs ein Pfandrecht an dem Anspruch des Einzahlers auf R\u00fcckzahlung der Haftungssumme. Soweit die Einzahlung der Haftungssumme durch Sicherheitsleistung ersetzt worden ist, haben die in Satz 1 genannten Gl\u00e4ubiger ein Recht auf bevorzugte Befriedigung aus der Sicherheit; diese ist auf Anordnung des Gerichts in dem erforderlichen Umfang zu verwerten, der Erl\u00f6s gilt als vom Sicherungsgeber eingezahlte Haftungssumme. Mehrere Pfandrechte an demselben Anspruch haben gleichen Rang; die Pfandrechte gehen den in \u00a7 17 Abs. 5 genannten Pf\u00e4ndungspfandrechten im Rang vor.</P><P>(4) Das Recht nach Absatz 3 erlischt, wenn es nicht bis zum Ablauf eines Monats seit dem Zeitpunkt, in dem der Einstellungsbeschlu\u00df unanfechtbar geworden ist, beim Verteilungsgericht geltend gemacht worden ist. Nach Ablauf dieser Frist befriedigt das Verteilungsgericht den Gl\u00e4ubiger; \u00a7 26 Abs. 4 Nr. 2 gilt entsprechend. Werden mehrere Pfandrechte geltend gemacht, so gelten \u00a7\u00a7 873 bis 882 der Zivilproze\u00dfordnung entsprechend. Bestreitet der Schuldner, der Einzahler, der Sicherungsgeber oder ein Pf\u00e4ndungspfandgl\u00e4ubiger, der innerhalb der Frist des \u00a7 17 Abs. 5 gepf\u00e4ndet hat, das Bestehen des Pfandrechts, so hat der Gl\u00e4ubiger innerhalb einer von dem Verteilungsgericht zu setzenden Frist nachzuweisen, da\u00df er Klage auf Feststellung des Pfandrechts erhoben hat; erbringt der Gl\u00e4ubiger diesen Nachweis nicht, so wird das geltend gemachte Pfandrecht nicht ber\u00fccksichtigt. Die Klage nach Satz 4 ist bei dem Amtsgericht des Verteilungsverfahrens oder, wenn der Streitgegenstand zur Zust\u00e4ndigkeit der Amtsgerichte nicht geh\u00f6rt, bei dem Landgericht zu erheben, in dessen Bezirk das Verteilungsgericht seinen Sitz hat.</P><P>(5) Erfa\u00dft das Verteilungsverfahren nach \u00a7 1 Abs. 2 Satz 2 nur Anspr\u00fcche gegen den Antragsteller, so gelten die Abs\u00e4tze 1 bis 4 nur, soweit das Sicherungsrecht ausschlie\u00dflich f\u00fcr einen Anspruch gegen den Antragsteller besteht oder bestanden hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003102307",
+        "name": "\u00a7 21",
+        "title": "Endg\u00fcltige Einstellung der Zwangsvollstreckung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>Werden ein Anspruch und das Recht seines Gl\u00e4ubigers auf Teilnahme an dem Verteilungsverfahren festgestellt, so ordnet das Vollstreckungsgericht auf Antrag des Schuldners die endg\u00fcltige Einstellung der Zwangsvollstreckung und die Aufhebung von Zwangsvollstreckungsma\u00dfnahmen wegen des Anspruchs an. Die Anordnung darf erst nach Rechtskraft vollzogen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003202307",
+        "name": "\u00a7 22",
+        "title": "Erl\u00f6schen von Sicherungsrechten und endg\u00fcltige\nEinstellung der Zwangsvollstreckung bei nicht angemeldeten\nAnspr\u00fcchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000402307"
+        },
+        "body": "<P>(1) Hat der Gl\u00e4ubiger einen Anspruch, f\u00fcr welchen die Haftung durch die Er\u00f6ffnung des Verteilungsverfahrens durch das Verteilungsverfahren beschr\u00e4nkt worden ist, nicht angemeldet, so treten hinsichtlich der f\u00fcr den Anspruch bestehenden Sicherungsrechte die in \u00a7 20 Abs. 1 f\u00fcr den Fall der Feststellung eines angemeldeten Anspruchs bestimmten Rechtsfolgen mit der Beendigung des allgemeinen Pr\u00fcfungstermins ein. Erfa\u00dft das Verteilungsverfahren nach \u00a7 1 Abs. 2 Satz 2 nur Anspr\u00fcche gegen den Antragsteller, so gilt Satz 1 nur, soweit das Sicherungsrecht ausschlie\u00dflich f\u00fcr einen Anspruch gegen den Antragsteller besteht.</P><P>(2) Die Zwangsvollstreckung wegen eines solchen Anspruchs ist nach der Beendigung des allgemeinen Pr\u00fcfungstermins endg\u00fcltig einzustellen; Zwangsvollstreckungsma\u00dfnahmen sind aufzuheben. \u00a7\u00a7 767, 769, 770 der Zivilproze\u00dfordnung sind anzuwenden.</P><P>(3) Das Verteilungsgericht hat dem Schuldner eine Bescheinigung \u00fcber die Beendigung des allgemeinen Pr\u00fcfungstermins zu erteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG000502307",
+        "name": "Vierter Abschnitt",
+        "title": "Verteilung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000102307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003302307",
+        "name": "\u00a7 23",
+        "title": "Verteilungsgrunds\u00e4tze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000502307"
+        },
+        "body": "<P>(1) An der Verteilung der Haftungssumme nehmen die Gl\u00e4ubiger der festgestellten Anspr\u00fcche nach dem Verh\u00e4ltnis der Betr\u00e4ge ihrer Anspr\u00fcche teil.</P><P>(2) In einem Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A haben jedoch Anspr\u00fcche wegen Besch\u00e4digung von Hafenanlagen, Hafenbecken, Wasserstra\u00dfen und Navigationshilfen Vorrang vor sonstigen Anspr\u00fcchen wegen Sachsch\u00e4den.</P><P>(3) Hat ein Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A Wirkung sowohl f\u00fcr Anspr\u00fcche wegen Personensch\u00e4den als auch f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den, so sind aus der Haftungssumme zum Zwecke der Verteilung zwei Teilsummen zu bilden. Die erste Teilsumme entspricht dem in Artikel 6 Abs. 1 Buchstabe a des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrag, die zweite Teilsumme dem in Artikel 6 Abs. 1 Buchstabe b des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrag. Aus der ersten Teilsumme werden nur die festgestellten Anspr\u00fcche wegen Personensch\u00e4den nach dem Verh\u00e4ltnis ihrer Betr\u00e4ge berichtigt. An der Verteilung der zweiten Teilsumme nehmen die Gl\u00e4ubiger der festgestellten Anspr\u00fcche wegen Sachsch\u00e4den mit deren vollem Betrag sowie die Gl\u00e4ubiger der Anspr\u00fcche wegen Personensch\u00e4den mit dem Betrag, mit dem diese bei der Verteilung der ersten Teilsumme ausgefallen sind, nach dem Verh\u00e4ltnis dieser Betr\u00e4ge teil.</P><P>(4) Die nach \u00a7 31 Abs. 2 der Haftungssumme zur Last fallenden Kosten werden mit Vorrang vor den festgestellten Anspr\u00fcchen berichtigt. Wird die Verteilung nach Absatz 3 vorgenommen, so werden Kosten, die aus einem Rechtsstreit \u00fcber Anspr\u00fcche wegen Personensch\u00e4den entstanden sind, aus der f\u00fcr diese Anspr\u00fcche bestimmten Teilsumme und Kosten, die aus einem Rechtsstreit \u00fcber Anspr\u00fcche wegen Sachsch\u00e4den entstanden sind, aus der f\u00fcr diese Anspr\u00fcche bestimmten Teilsumme berichtigt.</P><P>(5) Ein nach der Verteilung einer der beiden Teilsummen oder der gesamten Haftungssumme verbleibender \u00dcberschu\u00df wird an den Einzahler zur\u00fcckgezahlt, an mehrere Einzahler im Verh\u00e4ltnis der Betr\u00e4ge ihrer Einzahlungen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003402307",
+        "name": "\u00a7 24",
+        "title": "Erl\u00f6schen der pers\u00f6nlichen Haftung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000502307"
+        },
+        "body": "<P>Einem Gl\u00e4ubiger, der bei der Verteilung der Haftungssumme den auf seinen Anspruch entfallenden Anteil ganz oder teilweise entgegennimmt, haftet der Schuldner au\u00dferhalb des Verteilungsverfahrens nicht mehr. Das gleiche gilt, wenn der Gl\u00e4ubiger nicht innerhalb eines Monats nach Feststellung seines Anspruchs im Verteilungsverfahren dem Verteilungsgericht nachweist, da\u00df er den Anspruch gegen den Schuldner gerichtlich geltend gemacht und sein Begehren darauf gest\u00fctzt hat, da\u00df der Schuldner f\u00fcr den Anspruch au\u00dferhalb des Verteilungsverfahrens haftet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003502307",
+        "name": "\u00a7 25",
+        "title": "Rechtskr\u00e4ftige Feststellung der pers\u00f6nlichen Haftung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000502307"
+        },
+        "body": "<P>Steht zwischen dem Gl\u00e4ubiger und dem Schuldner eines Anspruchs rechtskr\u00e4ftig fest, da\u00df der Schuldner die Haftung f\u00fcr den Anspruch nicht beschr\u00e4nken kann, so kann in dem Verteilungsverfahren nicht geltend gemacht werden, da\u00df der Gl\u00e4ubiger mit dem Anspruch an dem Verfahren teilnimmt. Tritt die Rechtskraft erst ein, nachdem der Anspruch in dem Verteilungsverfahren festgestellt worden ist, so ist der Anspruch trotz seiner Feststellung bei der Verteilung nicht zu ber\u00fccksichtigen. \u00a7 24 Satz 1 bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003607311",
+        "name": "\u00a7 26",
+        "title": "Verfahren bei der Verteilung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000502307"
+        },
+        "body": "<P>(1) Nach der Abhaltung des allgemeinen Pr\u00fcfungstermins soll eine Verteilung an die Gl\u00e4ubiger der festgestellten Anspr\u00fcche erfolgen. Die Zahlungen auf die festgestellten Anspr\u00fcche werden von der Gerichtskasse auf Anordnung des Verteilungsgerichts vorgenommen. Das Gericht ordnet die Verwertung von Sicherheiten an, soweit die Verteilung dies erfordert.</P><P>(2) Vor der Vornahme einer Verteilung legt der Urkundsbeamte der Gesch\u00e4ftsstelle ein Verzeichnis der bei der Verteilung zu ber\u00fccksichtigenden Anspr\u00fcche, bei Anspr\u00fcchen der Anspruchsklasse A gegliedert nach Anspr\u00fcchen wegen Personensch\u00e4den und Anspr\u00fcchen wegen Sachsch\u00e4den, auf der Gesch\u00e4ftsstelle zur Einsicht der Beteiligten nieder und macht die Summe der Anspr\u00fcche \u00f6ffentlich bekannt; \u00a7 11 Abs. 2 bis 4 gilt entsprechend. Das Verzeichnis kann auch in elektronischer Form hergestellt und bearbeitet werden. Von einem Verzeichnis in elektronischer Form ist ein Ausdruck zur Einsicht niederzulegen, der den Anforderungen des \u00a7 298 Absatz 3 der Zivilprozessordnung entspricht. F\u00fcr Einwendungen gegen das Verzeichnis gilt \u00a7 194 der Insolvenzordnung entsprechend.</P><P>(3) Gl\u00e4ubiger, deren Anspr\u00fcche nicht festgestellt sind und f\u00fcr deren Anspr\u00fcche ein mit der Vollstreckungsklausel versehener Schuldtitel, ein Endurteil oder ein Vollstreckungsbescheid nicht vorliegt, haben bis zum Ablauf einer Ausschlu\u00dffrist von zwei Wochen nach der \u00f6ffentlichen Bekanntmachung den Nachweis zu f\u00fchren, da\u00df und f\u00fcr welchen Betrag die Feststellungsklage erhoben oder das Verfahren in dem fr\u00fcher anh\u00e4ngigen Proze\u00df aufgenommen ist. Wird der Nachweis nicht rechtzeitig gef\u00fchrt, so werden die Anspr\u00fcche bei der vorzunehmenden Verteilung nicht ber\u00fccksichtigt.</P><P>(4) Bei der Verteilung werden die Anteile zur\u00fcckbehalten, die auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche, die infolge eines bei der Pr\u00fcfung erhobenen Widerspruchs im Proze\u00df befangen sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche, bei denen nur das Recht ihres Gl\u00e4ubigers auf Teilnahme an dem Verfahren, jedoch nicht der Betrag festgestellt ist (\u00a7 19 Abs. 4),</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche, die in dem Verfahren festgestellt sind, die der Gl\u00e4ubiger jedoch nach \u00a7 24 Satz 2 gerichtlich geltend gemacht hat,</LA></DD></DL>entfallen.</P><P>(5) Macht der Schuldner eines Anspruchs, f\u00fcr den die Haftung durch das Verteilungsverfahren beschr\u00e4nkt worden ist, glaubhaft, da\u00df wegen dieses Anspruchs die Zwangsvollstreckung im Ausland droht, so kann das Gericht den auf den Anspruch entfallenden Anteil zur\u00fcckbehalten. Das Gericht kann die Entscheidung wegen ver\u00e4nderter Umst\u00e4nde ab\u00e4ndern.</P><P>(6) Gl\u00e4ubiger, die bei einer Verteilung nicht ber\u00fccksichtigt worden sind, k\u00f6nnen nachtr\u00e4glich, sobald sie die Vorschriften des Absatzes 3 erf\u00fcllt haben, die bisher festgesetzten Anteile aus dem verbliebenen Betrag der Haftungssumme verlangen, soweit dieser reicht und nicht infolge des Ablaufs einer Ausschlu\u00dffrist f\u00fcr eine neue Verteilung zu verwenden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003702307",
+        "name": "\u00a7 27",
+        "title": "Verfahren in besonderen F\u00e4llen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000502307"
+        },
+        "body": "<P>Soweit ein Anspruch, f\u00fcr den nach \u00a7 19 Abs. 4 zun\u00e4chst nur das Recht des Gl\u00e4ubigers auf Teilnahme an dem Verfahren bis zu dem bei der Anmeldung angegebenen H\u00f6chstbetrag festgestellt worden ist, auch der H\u00f6he nach feststellbar wird, kann der Gl\u00e4ubiger einen besonderen Pr\u00fcfungstermin zur Er\u00f6rterung dieses Anspruchs beantragen. Soweit feststeht, da\u00df der Anspruch den festgestellten H\u00f6chstbetrag nicht erreichen wird, kann jeder an dem Verfahren teilnehmende Gl\u00e4ubiger und Schuldner sowie der Sachwalter auf Feststellung klagen, da\u00df der Anspruch insoweit bei der Verteilung nicht zu ber\u00fccksichtigen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003802307",
+        "name": "\u00a7 28",
+        "title": "Weitere Verteilung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000502307"
+        },
+        "body": "<P>Sobald nach einer ersten Verteilung ein weiterer hinreichender Betrag der Haftungssumme verf\u00fcgbar wird, soll eine weitere Verteilung erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE003902307",
+        "name": "\u00a7 29",
+        "title": "Aufhebung des Verfahrens.\n<BR />\nNachtragsverteilung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000502307"
+        },
+        "body": "<P>(1) Das Gericht beschlie\u00dft die Aufhebung des Verteilungsverfahrens, wenn die Haftungssumme verteilt ist oder wenn nur noch Anteile nach \u00a7 26 Abs. 4 Nr. 1 und Nr. 3, \u00a7 33 zur\u00fcckzubehalten sind. Auf Verlangen hat das Gericht jedem, der ein berechtigtes Interesse nachweist, eine Bescheinigung \u00fcber die Aufhebung zu erteilen.</P><P>(2) Wird nach der Aufhebung des Verteilungsverfahrens f\u00fcr den Gl\u00e4ubiger eines Anspruchs, f\u00fcr den ein Anteil nach \u00a7 26 Abs. 4 Nr. 1 oder Nr. 3 zur\u00fcckbehalten worden ist, das Recht auf Teilnahme an dem Verfahren festgestellt oder ergibt sich, da\u00df ein solcher Anspruch oder eine Zur\u00fcckbehaltung wegen der Kosten nach \u00a7 33 nicht mehr zu ber\u00fccksichtigen ist, so findet eine Nachtragsverteilung statt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG000602307",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Nachtr\u00e4gliche Erweiterung des\nVerfahrens bei Anspr\u00fcchen der Anspruchsklasse A auf Antrag\neines Schuldners",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000102307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE004002307",
+        "name": "\u00a7 30",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000602307"
+        },
+        "body": "<P>(1) Ist das Verfahren nach \u00a7 1 Abs. 5 nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet worden, so kann, falls aus demselben Ereignis auch Anspr\u00fcche wegen Personensch\u00e4den entstanden sind, f\u00fcr welche die Haftung beschr\u00e4nkt werden kann und deren Summe den in Artikel 6 Abs. 1 Buchstabe a des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrag \u00fcbersteigt, jeder Schuldner eines solchen Anspruchs, der demselben Personenkreis im Sinne des \u00a7 1 Abs. 3 Satz 1 angeh\u00f6rt, wegen der Personensch\u00e4den die Festsetzung des Mehrbetrags der Haftungssumme beantragen.</P><P>(2) F\u00fcr den Beschlu\u00df \u00fcber die Erh\u00f6hung der Haftungssumme gilt \u00a7 5 Abs. 2 bis 4 entsprechend.</P><P>(3) Auch nach der Erh\u00f6hung der Haftungssumme wird das Verfahren nur unter Beschr\u00e4nkung auf Anspr\u00fcche wegen Sachsch\u00e4den durchgef\u00fchrt, wenn die Haftungssumme nur insoweit eingezahlt worden ist.</P><P>(4) Wird der nach den Abs\u00e4tzen 1 und 2 festgesetzte Mehrbetrag der Haftungssumme eingezahlt, nachdem das Verfahren mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den bereits er\u00f6ffnet worden ist, so beschlie\u00dft das Gericht, da\u00df das Verfahren auch mit Wirkung f\u00fcr Anspr\u00fcche wegen Personensch\u00e4den er\u00f6ffnet wird. Nach dem Beginn des allgemeinen Pr\u00fcfungstermins ist die Erweiterung des Verfahrens ausgeschlossen.</P><P>(5) Hinsichtlich des Verfahrens wegen des Mehrbetrags der Haftungssumme gilt derjenige, der die Erweiterung des Verfahrens nach Absatz 1 beantragt, als Antragsteller im Sinne dieses Gesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG000702307",
+        "name": "Sechster Abschnitt",
+        "title": "Kosten aus der Bestellung eines\nSachwalters und aus Rechtsstreitigkeiten \u00fcber angemeldete Anspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000102307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE004105307",
+        "name": "\u00a7 31",
+        "title": "Kostentragung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000702307"
+        },
+        "body": "<P>(1) Der Antragsteller tr\u00e4gt folgende Kosten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verg\u00fctung und die Auslagen des Sachwalters;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die von dem Sachwalter aufgewandten Kosten der Verwaltung und Verwertung von Sicherheiten.</LA></DD> </DL> </P><P>(2) Der Haftungssumme fallen folgende Kosten zur Last: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kosten von Rechtsstreitigkeiten \u00fcber im Verteilungsverfahren angemeldete Anspr\u00fcche und \u00fcber das Recht ihrer Gl\u00e4ubiger auf Teilnahme an dem Verfahren, welche aus der Proze\u00dff\u00fchrung des Sachwalters entstehen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kosten von Rechtsstreitigkeiten, welche nach \u00a7 19 Abs. 3 dieses Gesetzes in Verbindung mit \u00a7 183 Abs. 3 der Insolvenzordnung der Haftungssumme zur Last fallen.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE004202307",
+        "name": "\u00a7 32",
+        "title": "Zahlung der vom Antragsteller zu tragenden Kosten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000702307"
+        },
+        "body": "<P>(1) Das Gericht ordnet von Amts wegen die Zahlung der vom Antragsteller nach \u00a7 31 Abs. 1 zu tragenden Kosten zur Haftungssumme an.</P><P>(2) Das Gericht soll die Er\u00f6ffnung des Verteilungsverfahrens von der Einzahlung eines angemessenen Vorschusses auf die von dem Antragsteller nach \u00a7 31 Abs. 1 zu tragenden Kosten abh\u00e4ngig machen.</P><P>(3) Kosten, die der Antragsteller nach \u00a7 31 Abs. 1 zu tragen hat, fallen der Haftungssumme endg\u00fcltig zur Last, wenn die Zwangsvollstreckung gegen den Antragsteller wegen der Kosten ohne Erfolg versucht worden ist. In diesem Fall ist \u00a7 23 Abs. 1 bis 4 nur auf den Betrag anzuwenden, der nach Abzug dieser Kosten von der festgesetzten Haftungssumme verbleibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE004302307",
+        "name": "\u00a7 33",
+        "title": "Zur\u00fcckbehaltung bei der Verteilung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000702307"
+        },
+        "body": "<P>Ist bei dem Beginn der Verteilung ungewi\u00df, ob im Verlauf des Verfahrens noch Kosten entstehen werden, welche der Haftungssumme nach \u00a7 31 Abs. 2 oder nach \u00a7 32 Abs. 3 zur Last fallen, so soll das Gericht bei der Verteilung einen angemessenen Anteil f\u00fcr diese Kosten zur\u00fcckbehalten. Die Entscheidung ist unanfechtbar; das Gericht kann sie jedoch wegen ver\u00e4nderter Umst\u00e4nde ab\u00e4ndern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG001001307",
+        "name": "Zweiter Teil",
+        "title": "Binnenschiffahrtsrechtliches Verteilungsverfahren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005001307",
+        "name": "\u00a7 34",
+        "title": "Einleitung des Verteilungsverfahrens. Anwendbare Vorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>(1) Zur Errichtung und Verteilung eines Fonds im Sinne des \u00a7 5d Abs. 2 des Binnenschiffahrtsgesetzes kann ein Binnenschiffahrtsrechtliches Verteilungsverfahren eingeleitet werden.</P><P>(2) Auf das Verteilungsverfahren nach Absatz 1 sind die f\u00fcr das Seerechtliche Verteilungsverfahren geltenden Vorschriften des Ersten Teils dieses Gesetzes anzuwenden, soweit in den Vorschriften des Zweiten Teils nichts anderes bestimmt ist. \u00a7 1 Abs. 1 bis 4, \u00a7\u00a7 2, 4 Abs. 1 bis 3, \u00a7 7 Abs. 2 Nr. 2, 3 und 5 sowie \u00a7 23 Abs. 2 und 3 Satz 2, Abs. 4 Satz 2 sind nicht anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005103311",
+        "name": "\u00a7 35",
+        "title": "Antragsberechtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Die Er\u00f6ffnung eines Binnenschiffahrtsrechtlichen Verteilungsverfahrens k\u00f6nnen beantragen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Schiffseigner, der Eigent\u00fcmer oder der Ausr\u00fcster eines Binnenschiffs, der Mieter oder Charterer, dem ein Binnenschiff zu dessen Verwendung \u00fcberlassen wird, sowie jede Person, f\u00fcr deren Handeln, Unterlassen oder Verschulden sie haften,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Schiffseigner, der Eigent\u00fcmer oder der Ausr\u00fcster eines Binnenschiffs, der von diesem aus Bergungsma\u00dfnahmen durchf\u00fchrt, der Mieter oder Charterer, dem ein Binnenschiff zu dessen Verwendung \u00fcberlassen wird und der von diesem aus Bergungsma\u00dfnahmen durchf\u00fchrt, oder ein von dem Binnenschiff aus arbeitender Berger sowie jede Person, f\u00fcr deren Handeln, Unterlassen oder Verschulden der Schiffseigner, der Eigent\u00fcmer, der Mieter oder Charterer, der Ausr\u00fcster oder der Berger haftet,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Berger im Sinne von \u00a7 5c Abs. 1 Nr. 2 des Binnenschiffahrtsgesetzes sowie jede Person, f\u00fcr deren Handeln, Unterlassen oder Verschulden der Berger haftet,</LA></DD></DL>sofern diese Person ihre Haftung f\u00fcr die aus einem bestimmten Ereignis entstandenen Anspr\u00fcche nach den \u00a7\u00a7 4 bis 5n des Binnenschiffahrtsgesetzes beschr\u00e4nken k\u00f6nnen und wegen eines solchen Anspruchs ein gerichtliches Verfahren im Geltungsbereich dieses Gesetzes eingeleitet wird oder eingeleitet werden kann. Der Antrag kann auch von einem Versicherer gestellt werden, der die Haftung in bezug auf Anspr\u00fcche versichert, f\u00fcr welche die in Satz 1 genannten Personen ihre Haftung beschr\u00e4nken k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005201307",
+        "name": "\u00a7 36",
+        "title": "Anspruchsklassen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>(1) Abweichend von \u00a7 1 Abs. 4 z\u00e4hlen zu den im Binnenschiffahrtsrechtlichen Verteilungsverfahren zu bildenden Anspruchsklassen folgende Anspr\u00fcche: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspruchsklasse A: Anspr\u00fcche wegen Personen- und Sachsch\u00e4den nach \u00a7 4 Abs. 1, 2 und 3 des Binnenschiffahrtsgesetzes, soweit diese nicht zur Anspruchsklasse D z\u00e4hlen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspruchsklasse B: Anspr\u00fcche wegen T\u00f6tung oder Verletzung von Reisenden im Sinne von \u00a7 5k des Binnenschiffahrtsgesetzes,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspruchsklasse C: Anspr\u00fcche aus Wrackbeseitigung nach \u00a7 4 Abs. 1, 4 des Binnenschiffahrtsgesetzes,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspruchsklasse D: Anspr\u00fcche wegen Gefahrgutsch\u00e4den nach \u00a7 5h Abs. 1 des Binnenschiffahrtsgesetzes.</LA></DD> </DL> </P><P>(2) Auf ein Binnenschiffahrtsrechtliches Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A und der Anspruchsklasse D ist \u00a7 1 Abs. 5 mit folgenden Abweichungen anzuwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">In allen F\u00e4llen mu\u00df die Summe der Anspr\u00fcche wegen Sachsch\u00e4den, wenn es sich um Anspr\u00fcche der Anpruchsklasse A handelt, den in \u00a7 5f des Binnenschiffahrtsgesetzes oder, wenn es sich um Anspr\u00fcche der Anspruchsklasse D handelt, den in \u00a7 5h Abs. 2 Nr. 2 des Binnenschiffahrtsgesetzes bestimmten Haftungsh\u00f6chstbetrag voraussichtlich \u00fcbersteigen.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Im Falle des \u00a7 1 Abs. 5 Nr. 1 darf, wenn Anspr\u00fcche wegen Personensch\u00e4den geltend gemacht werden k\u00f6nnen, die Summe dieser Anspr\u00fcche, wenn es sich um solche der Anspruchsklasse A handelt, den in \u00a7 5e des Binnenschiffahrtsgesetzes oder, wenn es sich um solche der Anspruchsklasse D handelt, den in \u00a7 5h Abs. 2 Nr. 1 des Binnenschiffahrtsgesetzes bestimmten Haftungsh\u00f6chstbetrag voraussichtlich nicht \u00fcbersteigen.</LA></DD> </DL> </P><P>(3) Ein Verteilungsverfahren erfa\u00dft jeweils ausschlie\u00dflich die aus demselben Ereignis entstandenen und zu derselben Anspruchsklasse im Sinne des Absatzes 1 geh\u00f6renden Anspr\u00fcche gegen alle Personen, die demselben Personenkreis im Sinne des \u00a7 35 Satz 1 angeh\u00f6ren. Wird jedoch auf Antrag eines an Bord t\u00e4tigen Lotsen ein Verteilungsverfahren eingeleitet, so erfa\u00dft das Verfahren nur die Anspr\u00fcche gegen den Antragsteller; ein solches Verteilungsverfahren darf nur er\u00f6ffnet werden, solange nicht f\u00fcr die aus demselben Ereignis entstandenen und zu derselben Anspruchsklasse geh\u00f6renden Anspr\u00fcche ein Verteilungsverfahren auf Antrag eines anderen, demselben Personenkreis im Sinne des \u00a7 35 Satz 1 angeh\u00f6renden Schuldners er\u00f6ffnet worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005301307",
+        "name": "\u00a7 37",
+        "title": "Zust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>(1) Betrifft das Binnenschiffahrtsrechtliche Verteilungsverfahren ein Schiff, das in einem inl\u00e4ndischen Schiffsregister eingetragen ist, so ist das Amtsgericht ausschlie\u00dflich zust\u00e4ndig, bei dem das Schiffsregister gef\u00fchrt wird.</P><P>(2) Betrifft das Binnenschifffahrtsrechtliche Verteilungsverfahren <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Schiff, das nicht in einem inl\u00e4ndischen Schiffsregister eingetragen ist, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche gegen die in \u00a7 35 Satz 1 Nr. 3 bezeichneten Personen,</LA></DD> </DL>so ist das Amtsgericht ausschlie\u00dflich zust\u00e4ndig, in dessen Bezirk der Antragsteller seine gewerbliche Niederlassung oder in Ermangelung einer solchen seinen gew\u00f6hnlichen Aufenthalt hat. Hat der Antragsteller weder eine gewerbliche Niederlassung noch einen gew\u00f6hnlichen Aufenthalt im Inland, so ist das Amtsgericht ausschlie\u00dflich zust\u00e4ndig, in dessen Bezirk das Gericht seinen Sitz hat, das im ersten Rechtszug f\u00fcr eine Klage gegen den Antragsteller wegen eines Anspruchs, f\u00fcr den dieser seine Haftung beschr\u00e4nken kann, zust\u00e4ndig ist, oder in dessen Bezirk die Zwangsvollstreckung gegen den Antragsteller wegen eines solchen Anspruchs betrieben wird. Sind mehrere Gerichte zust\u00e4ndig, so schlie\u00dft das Gericht, bei welchem zuerst die Er\u00f6ffnung des Verfahrens beantragt worden ist, die \u00fcbrigen aus.</P><P>(3) Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung die Binnenschiffahrtsrechtlichen Verteilungsverfahren f\u00fcr die Bezirke mehrerer Amtsgerichte einem von ihnen zuzuweisen, sofern die Zusammenfassung f\u00fcr eine sachdienliche F\u00f6rderung oder schnellere Erledigung der Verfahren zweckm\u00e4\u00dfig ist. Die Landesregierungen k\u00f6nnen die Erm\u00e4chtigung auf die Landesjustizverwaltungen \u00fcbertragen.</P><P>(4) Die L\u00e4nder k\u00f6nnen vereinbaren, da\u00df die Binnenschiffahrtsrechtlichen Verteilungsverfahren eines Landes den Gerichten eines anderen Landes zugewiesen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005401307",
+        "name": "\u00a7 38",
+        "title": "Antrag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>(1) Der Antrag auf Er\u00f6ffnung des Binnenschiffahrtsrechtlichen Verteilungsverfahrens mu\u00df enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die genaue Bezeichnung des Ereignisses, aus dem die Anspr\u00fcche entstanden sind, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt werden soll;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe, f\u00fcr welchen Personenkreis im Sinne des \u00a7 35 Satz 1 das Verfahren er\u00f6ffnet werden soll, oder, im Falle des \u00a7 36 Abs. 3 Satz 2, die Angabe, da\u00df das Verfahren nur f\u00fcr den Antragsteller er\u00f6ffnet werden soll;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe, f\u00fcr welche Anspruchsklasse im Sinne des \u00a7 36 Abs. 1 das Verfahren er\u00f6ffnet werden soll, im Falle des \u00a7 1 Abs. 5 in Verbindung mit \u00a7 36 Abs. 2 auch die Angabe, da\u00df das Verfahren nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet werden soll;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber Namen, st\u00e4ndigen Aufenthalt und gewerbliche Niederlassung des Antragstellers sowie der \u00fcbrigen dem Antragsteller bekannten Schuldner von Anspr\u00fcchen, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt werden soll;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber den Namen, die Nummer oder das sonstige Merkzeichen sowie den Registerort oder, wenn das Binnenschiff nicht in einem Schiffsregister eingetragen ist, \u00fcber den Heimatort des Binnenschiffes;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle der Geltendmachung der Haftungsbeschr\u00e4nkung f\u00fcr Anspr\u00fcche der Anspruchsklasse A, C oder D die zur Berechnung der Haftungssumme notwendigen Angaben \u00fcber die Bauart einschlie\u00dflich Wasserverdr\u00e4ngung, Tragf\u00e4higkeit und Leistungsf\u00e4higkeit vorhandener Antriebsmaschinen, bei Anlagen und Ger\u00e4ten im Sinne des \u00a7 5e Abs. 1 Nr. 4 des Binnenschiffahrtsgesetzes \u00fcber deren Wert;</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle der Geltendmachung der Haftungsbeschr\u00e4nkung f\u00fcr Anspr\u00fcche der Anspruchsklasse B die zur Berechnung der Haftungssumme notwendigen Angaben \u00fcber die Anzahl der Reisenden, die das Binnenschiff nach dem Schiffszeugnis bef\u00f6rdern darf oder, wenn eine zul\u00e4ssige H\u00f6chstzahl nicht vorgeschrieben ist, zum Zeitpunkt des haftungsbegr\u00fcndenden Ereignisses tats\u00e4chlich bef\u00f6rdert hat;</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe des Betrags und des Grundes der dem Antragsteller bekannten Anspr\u00fcche, f\u00fcr welche die Haftung durch das Verteilungsverfahren beschr\u00e4nkt werden soll.</LA></DD> </DL> </P><P>(2) Betrifft das Verteilungsverfahren ein Binnenschiff, das in einem Schiffsregister eingetragen ist, so ist dem Antrag eine beglaubigte Abschrift der Eintragung in diesem Register beizuf\u00fcgen.</P><P>(3) Der Antragsteller hat glaubhaft zu machen, da\u00df die Voraussetzungen des \u00a7 1 Abs. 5 in Verbindung mit \u00a7 36 Abs. 2 vorliegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005501307",
+        "name": "\u00a7 39",
+        "title": "Festsetzung der Haftungssumme",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Die vom Gericht festzusetzende Haftungssumme ist vom Zeitpunkt des zur Haftung f\u00fchrenden Ereignisses bis zum Zeitpunkt der Errichtung des Fonds mit vier vom Hundert f\u00fcr das Jahr zu verzinsen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005601307",
+        "name": "\u00a7 40",
+        "title": "Inhalt des Er\u00f6ffnungsbeschlusses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Der Beschlu\u00df \u00fcber die Er\u00f6ffnung des Binnenschiffahrtsrechtlichen Verteilungsverfahrens enth\u00e4lt au\u00dfer den nach \u00a7 7 Abs. 2 Nr. 1, 4, 6 und 7 erforderlichen Feststellungen und Angaben insbesondere: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung, f\u00fcr welchen Personenkreis im Sinne des \u00a7 35 Satz 1 das Verfahren er\u00f6ffnet wird, oder, im Falle des \u00a7 36 Abs. 3 Satz 2, die Feststellung, da\u00df das Verfahren nur f\u00fcr den Antragsteller er\u00f6ffnet wird;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung, f\u00fcr welche Anspruchsklasse im Sinne des \u00a7 36 Abs. 1 das Verfahren er\u00f6ffnet wird, im Falle des \u00a7 1 Abs. 5 in Verbindung mit \u00a7 36 Abs. 2 auch die Feststellung, da\u00df das Verfahren nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet wird;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber den Namen und Registerort oder, wenn das Binnenschiff nicht in einem Schiffsregister eingetragen ist, \u00fcber den Heimatort des Binnenschiffes.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005703311",
+        "name": "\u00a7 41",
+        "title": "Wirkungen der Er\u00f6ffnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Auf die Er\u00f6ffnung des Binnenschiffahrtsrechtlichen Verteilungsverfahrens ist \u00a7 8 mit der Ma\u00dfgabe anzuwenden, da\u00df an die Stelle <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Anspr\u00fcche, die der Haftungsbeschr\u00e4nkung nach den \u00a7\u00a7 611 bis 616 des Handelsgesetzbuchs unterliegen, die Anspr\u00fcche treten, die der Haftungsbeschr\u00e4nkung nach den \u00a7\u00a7 4 bis 5n des Binnenschiffahrtsgesetzes unterliegen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Anspr\u00fcche, die im Falle des \u00a7 1 Abs. 5 zu den Anspr\u00fcchen wegen Sachsch\u00e4den geh\u00f6ren, die Anspr\u00fcche treten, die im Falle des \u00a7 1 Abs. 5 in Verbindung mit \u00a7 36 Abs. 2 zu den Anspr\u00fcchen wegen Sachsch\u00e4den geh\u00f6ren.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005801307",
+        "name": "\u00a7 42",
+        "title": "\u00d6ffentliche Aufforderung bei Verfahren nur mit Wirkung\nf\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Die \u00f6ffentliche Aufforderung hat, sofern das Verfahren nach \u00a7 1 Abs. 5 in Verbindung mit \u00a7 36 Abs. 2 nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet worden ist, auch den in \u00a7 10 Abs. 3 genannten Inhalt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE005901307",
+        "name": "\u00a7 43",
+        "title": "Eintragung von angemeldeten Anspr\u00fcchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Der Urkundsbeamte der Gesch\u00e4ftsstelle tr\u00e4gt angemeldete Anspr\u00fcche wegen Personensch\u00e4den und Anspr\u00fcche wegen Sachsch\u00e4den entsprechend \u00a7 13 Abs. 3 getrennt ein, wenn das Verteilungsverfahren im Rahmen der Anspruchsklasse A oder D f\u00fcr beide Arten von Anspr\u00fcchen er\u00f6ffnet worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE006001307",
+        "name": "\u00a7 44",
+        "title": "Erweiterung des Verfahrens auf Anspr\u00fcche wegen Personensch\u00e4den",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>\u00a7 16 Abs. 1 Satz 1 ist auf ein Binnenschiffahrtsrechtliches Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A oder der Anspruchsklasse D nach \u00a7 1 Abs. 5 in Verbindung mit \u00a7 36 Abs. 2 mit der Ma\u00dfgabe anzuwenden, da\u00df an die Stelle des in Artikel 6 Abs. 1 Buchstabe a des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrages folgender Betrag tritt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn es sich um Anspr\u00fcche der Anspruchsklasse A handelt, der in \u00a7 5e des Binnenschiffahrtsgesetzes bestimmte Haftungsh\u00f6chstbetrag,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn es sich um Anspr\u00fcche der Anspruchsklasse D handelt, der in \u00a7 5h Abs. 2 Nr. 1 des Binnenschiffahrtsgesetzes bestimmte Haftungsh\u00f6chstbetrag.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE006101307",
+        "name": "\u00a7 45",
+        "title": "Feststellung der Anspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Die Eintragung festgestellter Anspr\u00fcche nach \u00a7 19 Abs. 2 gilt, wenn das Verfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A oder der Anspruchsklasse D er\u00f6ffnet worden ist, auch hinsichtlich ihrer Zugeh\u00f6rigkeit zu den Anspr\u00fcchen wegen Personensch\u00e4den oder zu den Anspr\u00fcchen wegen Sachsch\u00e4den sowie hinsichtlich des Rechts ihrer Gl\u00e4ubiger auf Teilnahme an dem Verfahren wie ein rechtskr\u00e4ftiges Urteil gegen alle Gl\u00e4ubiger und Schuldner von Anspr\u00fcchen, die an dem Verfahren teilnehmen, sowie gegen den Sachwalter.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE006202311",
+        "name": "\u00a7 46",
+        "title": "Verteilung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>(1) In einem Binnenschiffahrtsrechtlichen Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A oder D haben Anspr\u00fcche wegen Besch\u00e4digung von Hafenanlagen, Hafenbecken, Wasserstra\u00dfen, Schleusen, Wehren, Br\u00fccken und Navigationshilfen Vorrang vor sonstigen Anspr\u00fcchen wegen Sachsch\u00e4den.</P><P>(2) Hat ein Binnenschiffahrtsrechtliches Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A oder D Wirkung sowohl f\u00fcr Anspr\u00fcche wegen Personensch\u00e4den als auch f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den, so sind gem\u00e4\u00df \u00a7 23 Abs. 3 aus der Haftungssumme zum Zwecke der Verteilung zwei Teilsummen zu bilden. Die H\u00f6he der Teilsummen berechnet sich abweichend von \u00a7 23 Abs. 3 Satz 2 wie folgt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Handelt es sich um Anspr\u00fcche der Anspruchsklasse A, so bestimmt sich die H\u00f6he der ersten Teilsumme nach \u00a7 5e des Binnenschiffahrtsgesetzes und die H\u00f6he der zweiten Teilsumme nach \u00a7 5f des Binnenschiffahrtsgesetzes.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Handelt es sich um Anspr\u00fcche der Anspruchsklasse D, so bestimmt sich die H\u00f6he der ersten Teilsumme nach \u00a7 5h Abs. 2 Nr. 1 des Binnenschiffahrtsgesetzes und die H\u00f6he der zweiten Teilsumme nach \u00a7 5h Abs. 2 Nr. 2 des Binnenschiffahrtsgesetzes.</LA></DD></DL>Wird die Verteilung aus diesen Teilsummen vorgenommen, so werden Kosten, die aus einem Rechtsstreit \u00fcber Anspr\u00fcche wegen Personensch\u00e4den entstanden sind, aus der f\u00fcr diese Anspr\u00fcche bestimmten Teilsumme und Kosten, die aus einem Rechtsstreit \u00fcber Anspr\u00fcche wegen Sachsch\u00e4den entstanden sind, aus der f\u00fcr diese Anspr\u00fcche bestimmten Teilsumme berichtigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE006301307",
+        "name": "\u00a7 47",
+        "title": "Verzeichnis der Anspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Das vom Urkundsbeamten vor der Vornahme einer Verteilung nach \u00a7 26 Abs. 2 vorzulegende Verzeichnis ist sowohl bei Anspr\u00fcchen der Anspruchsklasse A als auch bei Anspr\u00fcchen der Anspruchsklasse D gegliedert nach Anspr\u00fcchen wegen Personensch\u00e4den und Anspr\u00fcchen wegen Sachsch\u00e4den.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE006401307",
+        "name": "\u00a7 48",
+        "title": "Nachtr\u00e4gliche Erweiterung des Verfahrens bei Anspr\u00fcchen\nder Anspruchsklasse A oder D",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Auf ein Binnenschiffahrtsrechtliches Verteilungsverfahren f\u00fcr Anspr\u00fcche der Anspruchsklasse A und D ist, wenn das Verfahren nach \u00a7 1 Abs. 5 in Verbindung mit \u00a7 36 Abs. 2 nur mit Wirkung f\u00fcr Anspr\u00fcche wegen Sachsch\u00e4den er\u00f6ffnet worden ist, \u00a7 30 mit der Ma\u00dfgabe anzuwenden, da\u00df an die Stelle des in Artikel 6 Abs. 1 Buchstabe a des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens bestimmten Haftungsh\u00f6chstbetrages folgender Betrag tritt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn es sich um Anspr\u00fcche der Anspruchsklasse A handelt, der in \u00a7 5e des Binnenschiffahrtsgesetzes bestimmte Haftungsh\u00f6chstbetrag;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn es sich um Anspr\u00fcche der Anspruchsklasse D handelt, der in \u00a7 5h Abs. 2 Nr. 1 des Binnenschiffahrtsgesetzes bestimmte Haftungsh\u00f6chstbetrag.</LA></DD> </DL>Antragsberechtigt im Sinne des \u00a7 30 ist jedoch nur der Schuldner, der demselben Personenkreis im Sinne des \u00a7 35 Satz 1 angeh\u00f6rt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE006501307",
+        "name": "\u00a7 49",
+        "title": "Kosten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG001001307"
+        },
+        "body": "<P>Die nach \u00a7 32 Abs. 3 der Haftungssumme endg\u00fcltig zur Last fallenden Kosten sind auch dann mit Vorrang vor den festgestellten Anspr\u00fcchen zu berichtigen, wenn aus der Haftungssumme Teilsummen nach \u00a7 46 Abs. 2 gebildet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011300986BJNG000802307",
+        "name": "Dritter Teil",
+        "title": "Wirkungen der Errichtung eines Fonds in\neinem anderen Vertragsstaat",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE004402307",
+        "name": "\u00a7 50",
+        "title": "Errichtung eines Fonds nach dem\nHaftungsbeschr\u00e4nkungs\u00fcbereinkommen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000802307"
+        },
+        "body": "<P>(1) Hat ein Gl\u00e4ubiger einen Anspruch gegen einen Fonds geltend gemacht, der entsprechend den Vorschriften des Haftungsbeschr\u00e4nkungs\u00fcbereinkommens in einem anderen Vertragsstaat errichtet worden ist, so gilt f\u00fcr Zwangsvollstreckungen wegen eines solchen Anspruchs in das Verm\u00f6gen eines Schuldners, von dem oder f\u00fcr den der Fonds errichtet worden ist, \u00a7 8 Abs. 4 und 5 entsprechend. F\u00fcr eine Klage wegen eines solchen Anspruchs gegen einen Schuldner, von dem oder f\u00fcr den der Fonds errichtet worden ist, gilt \u00a7 8 Abs. 2 und 3 entsprechend, sofern das f\u00fcr die Errichtung und Verteilung des Fonds ma\u00dfgebende Recht der Errichtung des Fonds diese Rechtsfolgen beilegt.</P><P>(2) Absatz 1 ist nur anzuwenden, wenn der Gl\u00e4ubiger einen Anspruch gegen den Fonds vor dem Gericht geltend machen kann, das den Fonds verwaltet, und wenn der Fonds f\u00fcr den Anspruch tats\u00e4chlich zur Verf\u00fcgung steht und frei transferierbar ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE004504307",
+        "name": "\u00a7 51",
+        "title": "Errichtung eines Fonds nach dem Haftungs\u00fcbereinkommen von 1992",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000802307"
+        },
+        "body": "<P>(1) Ist der Eigent\u00fcmer eines Schiffes berechtigt, seine Haftung f\u00fcr die aus einem bestimmten Ereignis entstandenen Anspr\u00fcche wegen \u00d6lverschmutzungssch\u00e4den nach den Vorschriften des Haftungs\u00fcbereinkommens von 1992 zu beschr\u00e4nken, und hat er nach diesen Vorschriften f\u00fcr den Gesamtbetrag seiner Haftung einen Fonds in einem anderen Vertragsstaat des Haftungs\u00fcbereinkommens von 1992 errichtet, so gilt f\u00fcr Zwangsvollstreckungen wegen eines solchen Anspruchs in das Verm\u00f6gen des Schiffseigent\u00fcmers \u00a7 8 Abs. 4 und 5 entsprechend. F\u00fcr eine Klage wegen eines solchen Anspruchs gegen den Schiffseigent\u00fcmer gilt \u00a7 8 Abs. 2 und 3 entsprechend, sofern das f\u00fcr die Errichtung und Verteilung des Fonds ma\u00dfgebende Recht der Errichtung des Fonds diese Rechtsfolgen beilegt.</P><P>(2) Absatz 1 ist nur anzuwenden, wenn der Gl\u00e4ubiger Zugang zu dem Gericht hat, das den Fonds verwaltet, und wenn der Fonds tats\u00e4chlich zur Befriedigung seines Anspruchs verwendet werden kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE006602311",
+        "name": "\u00a7 52",
+        "title": "Errichtung eines Fonds nach dem Stra\u00dfburger \u00dcbereinkommen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000802307"
+        },
+        "body": "<P>(1) Kann ein Gl\u00e4ubiger einen Anspruch gegen einen Fonds geltend machen, der entsprechend dem Stra\u00dfburger \u00dcbereinkommen vom 27. September 2012 \u00fcber die Beschr\u00e4nkung der Haftung in der Binnenschifffahrt (CLNI 2012) (BGBl. 2016 II S. 738, 739) in einem anderen Vertragsstaat des \u00dcbereinkommens errichtet worden ist, so ist f\u00fcr Zwangsvollstreckungen wegen eines solchen Anspruchs in das Verm\u00f6gen des Schuldners, von dem oder f\u00fcr den der Fonds errichtet worden ist, \u00a7 41 in Verbindung mit \u00a7 8 Absatz 4 und 5 entsprechend anzuwenden. F\u00fcr eine Klage wegen eines solchen Anspruchs gegen einen Schuldner, von dem oder f\u00fcr den der Fonds errichtet worden ist, gilt \u00a7 41 in Verbindung mit \u00a7 8 Absatz 2 und 3 entsprechend, sofern das Recht, das f\u00fcr die Errichtung und Verteilung des Fonds ma\u00dfgebend ist, diese Rechtsfolgen f\u00fcr die Errichtung des Fonds bestimmt.</P><P>(2) Ist in einem Vertragsstaat des Stra\u00dfburger \u00dcbereinkommens ein Fonds errichtet worden, so ist die Vollziehung eines Arrests in das Verm\u00f6gen einer Person, f\u00fcr die der Fonds errichtet worden ist, wegen eines gegen den Fonds verfolgbaren Anspruchs aufzuheben. Zur Abwendung eines solchen Anspruchs geleistete Sicherheiten sind freizugeben.</P><P>(3) Die Abs\u00e4tze 1 und 2 sind nur anzuwenden, wenn der Gl\u00e4ubiger einen Anspruch gegen den Fonds vor dem Gericht geltend machen kann, das den Fonds verwaltet, und wenn der Fonds f\u00fcr den Anspruch tats\u00e4chlich zur Verf\u00fcgung steht und frei transferierbar ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011300986BJNE888804307",
+        "name": "Anhang EV",
+        "title": "Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet D Abschnitt III<BR />(BGBl. II 1990, 889, 960)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011300986BJNG000802307"
+        },
+        "body": "<P><noindex>Abschnitt III <BR />Bundesrecht tritt in dem in Artikel 3 des Vertrages genannten Gebiet mit folgenden Ma\u00dfgaben in Kraft: <BR />... <DL Font=\"normal\" Type=\"arabic\"><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Seerechtliche Verteilungsordnung vom 25. Juli 1986 (BGBl. I S. 1130), zuletzt ge\u00e4ndert durch \u00a7 10 Nr. 2 Buchstabe a des Gesetzes vom 30. September 1988 (BGBl. I S. 1770),</LA><LA Size=\"normal\">mit folgenden Ma\u00dfgaben:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><I>Klagen nach \u00a7 20 Abs. 4 Satz 4 sind bei dem Kreisgericht des Verteilungsverfahrens zu erheben.</I></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD></DL></LA></DD></DL></noindex></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>Anhang EV Abschn. III Nr. 3 Buchst. a Kursivdruck: Nicht mehr anzuwenden gem. \u00a7 17 Nr. 3 u. nach Ma\u00dfgabe d. \u00a7 14 G v. 26.6.1992 I 1147 (RpflAnpG) mWv 1.7.1992</P>"
+      }
+    ]
+  }
+}

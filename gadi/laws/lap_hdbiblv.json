@@ -1,0 +1,427 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR277900001",
+    "firstPublished": "2001-10-25",
+    "sourceTimestamp": "20170816221107",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber die Laufbahn, Ausbildung und Pr\u00fcfung f\u00fcr den h\u00f6heren Dienst an wissenschaftlichen Bibliotheken des Bundes",
+    "abbreviation": "LAP-hDBiblV",
+    "slug": "lap_hdbiblv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2001, 2779",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 17 G v. 29.3.2017 I 626",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 7.11.2001 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002700000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. M\u00e4rz 1999 (BGBl. I S. 675) in Verbindung mit \u00a7 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 8. M\u00e4rz 1990 (BGBl. I S. 449, 863), der durch Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I S. 706) neu gefasst worden ist, verordnet das Bundesministerium des Innern:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002800000",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\">\n\t\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"10*\" />\n\t\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"85*\" />\n\t\t\t<tbody valign=\"top\">\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Kapitel 1</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Laufbahn und Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 1</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Laufbahn\u00e4mter</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 2</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ziel des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 3</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einstellungsbeh\u00f6rden, Ausbildungsbibliotheken</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 4</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einstellungsvoraussetzungen</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 5</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausschreibung, Bewerbung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 6</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Auswahlverfahren</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 7</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einstellung in den Vorbereitungsdienst</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 8</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Rechtsstellung w\u00e4hrend des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 9</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Dauer, Inhalt, Gliederung und Abschluss des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 10</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verl\u00e4ngerung und Verk\u00fcrzung des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 11</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Schwerbehinderte Menschen</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 12</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Urlaub w\u00e4hrend des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 13</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausbildungsakte</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 14</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ziel der praktischen Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 15</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Durchf\u00fchrung der praktischen Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 16</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausbildungsleitung, Ausbilderinnen und Ausbilder</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 17</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bewertung w\u00e4hrend der praktischen Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 18</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Durchf\u00fchrung der theoretischen Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Kapitel 2</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Erwerb der Laufbahnbef\u00e4higung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 19</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 20</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wiederholung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 21</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ende des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Kapitel 3</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Aufstieg</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 22</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufstieg, Auswahlverfahren</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 23</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einf\u00fchrung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 24</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Rechtsstellung nach bestandener Aufstiegspr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Kapitel 4</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Sonstige Vorschriften</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 25</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbergangsregelung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 26</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Inkrafttreten</entry>\n\t\t\t\t</row>\n\t\t\t</tbody>\n\t\t</tgroup>\n\t</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR277900001BJNG000500000",
+        "name": "Kapitel 1",
+        "title": "Laufbahn und Ausbildung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Laufbahn\u00e4mter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Die Laufbahn des h\u00f6heren Dienstes an wissenschaftlichen Bibliotheken des Bundes umfasst den Vorbereitungsdienst, die Probezeit und alle \u00c4mter dieser Laufbahn.</P><P>(2) Die Beamtinnen und Beamten f\u00fchren in der Laufbahn folgende Dienst- und Amtsbezeichnungen: <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" colsep=\"0\" rowsep=\"0\">\n\t\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"45*\" />\n\t\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"55*\" />\n\t\t\t<tbody valign=\"top\">\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">im Vorbereitungsdienst</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bibliotheksreferendarin/ Bibliotheksreferendar,</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">in der Probezeit bis zur Anstellung</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bibliotheksr\u00e4tin zur Anstellung (z. A.)/Bibliotheksrat zur Anstellung (z. A.),</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">im Eingangsamt (Besoldungsgruppe A 13)</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bibliotheksr\u00e4tin/Bibliotheksrat,</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">in den Bef\u00f6rderungs\u00e4mtern der</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besoldungsgruppe A 14</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bibliotheksoberr\u00e4tin/ Bibliotheksoberrat,</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besoldungsgruppe A 15</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bibliotheksdirektorin/ Bibliotheksdirektor,</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">c)</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besoldungsgruppe A 16</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Leitende Bibliotheksdirektorin/Leitender Bibliotheksdirektor.</entry>\n\t\t\t\t</row>\n\t\t\t</tbody>\n\t\t</tgroup>\n\t</table> </P><P>(3) Die \u00c4mter der Laufbahn sind regelm\u00e4\u00dfig zu durchlaufen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Ziel des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>Der Vorbereitungsdienst soll die Beamtinnen und Beamten bef\u00e4higen, die Aufgaben der Laufbahn des h\u00f6heren Dienstes an wissenschaftlichen Bibliotheken des Bundes in allen Arbeitsbereichen des Bibliothekswesens wahrzunehmen. Der Vorbereitungsdienst vermittelt neben dem Fachwissen insbesondere auch die Grundlagen f\u00fcr das zur Aufgabenwahrnehmung erforderliche Verst\u00e4ndnis f\u00fcr kulturelle, rechtliche, politische, wirtschaftliche, technische und soziale Fragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Einstellungsbeh\u00f6rden, Ausbildungsbibliotheken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Einstellungsbeh\u00f6rden sind die obersten Bundesbeh\u00f6rden, die Bundesanstalt Die Deutsche Bibliothek und die Stiftung Preu\u00dfischer Kulturbesitz. Ihnen obliegen die Durchf\u00fchrung des Auswahlverfahrens und die Einstellung; sie treffen die Entscheidungen \u00fcber Verk\u00fcrzung und Verl\u00e4ngerung des Vorbereitungsdienstes und der Aufstiegsausbildung. Die Einstellungsbeh\u00f6rden sind die f\u00fcr die beamtenrechtlichen Entscheidungen zust\u00e4ndigen Dienstbeh\u00f6rden. Ihnen obliegen auch die Bedarfsermittlung, die Ausschreibung und die Betreuung der Referendarinnen und Referendare.</P><P>(2) Ausbildungsbibliotheken sind die Bundesanstalt Die Deutsche Bibliothek, die Staatsbibliothek zu Berlin Preu\u00dfischer Kulturbesitz, die Bibliothek des Ibero-Amerikanischen Instituts Preu\u00dfischer Kulturbesitz, die Bibliothek des Deutschen Bundestages und die Universit\u00e4tsbibliotheken der Universit\u00e4ten der Bundeswehr. Der Beauftragte der Bundesregierung f\u00fcr Angelegenheiten der Kultur und der Medien kann bei Bedarf weitere wissenschaftliche Bibliotheken, deren Abteilungen durch Beamtinnen oder Beamte des h\u00f6heren Bibliotheksdienstes geleitet werden und die die Gew\u00e4hr daf\u00fcr bieten, dass die Anforderungen nach den \u00a7\u00a7 14 bis 17 erf\u00fcllt werden, als Ausbildungsbibliotheken anerkennen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000401310",
+        "name": "\u00a7 4",
+        "title": "Einstellungsvoraussetzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>In den Vorbereitungsdienst kann eingestellt werden, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die gesetzlichen Voraussetzungen f\u00fcr die Berufung in das Bundesbeamtenverh\u00e4ltnis erf\u00fcllt und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein f\u00fcr die Laufbahn des h\u00f6heren Dienstes an wissenschaftlichen Bibliotheken des Bundes geeignetes Studium an einer wissenschaftlichen Hochschule, dessen Mindest- oder Regelstudienzeit nicht weniger als drei Jahre betr\u00e4gt und dabei Zeiten einer in den Studiengang eingeordneten berufspraktischen Ausbildung oder T\u00e4tigkeit nicht umfasst, mit einer Staatspr\u00fcfung oder, soweit \u00fcblich, mit einer Hochschulpr\u00fcfung abgeschlossen hat. Bewerberinnen und Bewerber mit Hochschulabschluss au\u00dferhalb des Geltungsbereiches der Bundeslaufbahnverordnung k\u00f6nnen eingestellt werden, wenn der Hochschulabschluss gleichwertig ist.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Ausschreibung, Bewerbung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Die Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.</P><P>(2) Bewerbungen um Einstellung in den Vorbereitungsdienst sind an die jeweilige Einstellungsbeh\u00f6rde zu richten. Der Bewerbung sind beizuf\u00fcgen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein tabellarischer Lebenslauf,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Lichtbild, das nicht \u00e4lter als sechs Monate sein soll,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ablichtungen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Zeugnisses der allgemeinen Hochschulreife oder des Nachweises eines entsprechenden Bildungsstandes,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Zeugnisses \u00fcber die Staatspr\u00fcfung oder die Hochschulpr\u00fcfung,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bescheinigungen der Hochschule \u00fcber die Vorlesungen, die die Bewerberin oder der Bewerber belegt hat, und \u00fcber die \u00dcbungen und Seminare, an denen sie oder er teilgenommen hat,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">etwaiger weiterer Unterlagen \u00fcber besondere wissenschaftliche oder informationstechnische Kenntnisse und F\u00e4higkeiten und</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Zeugnisse \u00fcber die bisherigen Besch\u00e4ftigungen sowie</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">gegebenenfalls eine Ablichtung des Schwerbehindertenausweises oder des Bescheides \u00fcber die Gleichstellung als schwerbehinderter Mensch.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Auswahlverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Vor der Entscheidung \u00fcber die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer wissenschaftlichen Qualifikation und pers\u00f6nlichen Eigenschaften f\u00fcr die Einstellung in den Vorbereitungsdienst der Laufbahn geeignet sind.</P><P>(2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung genannten Voraussetzungen erf\u00fcllt. \u00dcbersteigt die Zahl dieser Bewerberinnen und Bewerber das Dreifache der Zahl der Ausbildungspl\u00e4tze, kann die Zahl der an dem Auswahlverfahren Teilnehmenden bis auf das Dreifache der Zahl der Ausbildungspl\u00e4tze beschr\u00e4nkt werden. Dabei wird zugelassen, wer nach den eingereichten Unterlagen, insbesondere unter Ber\u00fccksichtigung der in den ausbildungsrelevanten F\u00e4chern erzielten Zeugnisnoten, am besten geeignet erscheint. Schwerbehinderte Menschen werden, wenn sie die in der Ausschreibung genannten Voraussetzungen erf\u00fcllen, grunds\u00e4tzlich zum Auswahlverfahren zugelassen. Frauen und M\u00e4nner werden in einem ausgewogenen Verh\u00e4ltnis ber\u00fccksichtigt.</P><P>(3) Wer nicht zum Auswahlverfahren zugelassen wird, erh\u00e4lt von der jeweiligen Einstellungsbeh\u00f6rde die Bewerbungsunterlagen mit einer schriftlichen Ablehnung zur\u00fcck.</P><P>(4) Das Auswahlverfahren wird bei der Einstellungsbeh\u00f6rde von einer unabh\u00e4ngigen Auswahlkommission durchgef\u00fchrt und besteht aus einem schriftlichen und einem m\u00fcndlichen Teil.</P><P>(5) Die Auswahlkommission besteht aus drei Beamtinnen oder Beamten des h\u00f6heren Bibliotheksdienstes, von denen eine oder einer zur Vorsitzenden oder zum Vorsitzenden zu bestellen ist. Die Mitglieder sind unabh\u00e4ngig und an Weisungen nicht gebunden. Die Auswahlkommission entscheidet mit Stimmenmehrheit. Stimmenthaltung ist nicht zul\u00e4ssig. Bei Bedarf k\u00f6nnen mehrere Kommissionen eingerichtet werden; gleiche Auswahlma\u00dfst\u00e4be sind sicherzustellen. Ersatzmitglieder sind in hinreichender Zahl zu bestellen.</P><P>(6) Die Auswahlkommission bewertet die Ergebnisse und legt f\u00fcr jedes Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und Bewerber fest. Sind mehrere Kommissionen eingerichtet, wird eine Rangfolge aller Bewerberinnen und Bewerber festgelegt. Absatz 3 gilt entsprechend.</P><P>(7) Die Einstellungsbeh\u00f6rden bestellen die Mitglieder und Ersatzmitglieder der Auswahlkommission f\u00fcr die Dauer von drei Jahren; Wiederbestellung ist zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000702116",
+        "name": "\u00a7 7",
+        "title": "Einstellung in den Vorbereitungsdienst",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Die Einstellungsbeh\u00f6rden entscheiden unter Ber\u00fccksichtigung des Ergebnisses des Auswahlverfahrens \u00fcber die Einstellung von Bewerberinnen und Bewerbern.</P><P>(2) Vor der Einstellung haben die Bewerberinnen und Bewerber folgende weitere Unterlagen beizubringen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein amts\u00e4rztliches Gesundheitszeugnis oder ein Gesundheitszeugnis einer beamteten Vertrauens\u00e4rztin oder eines beamteten Vertrauensarztes oder einer Personal\u00e4rztin oder eines Personalarztes aus neuester Zeit, in dem auch zur Beamtendiensttauglichkeit Stellung genommen wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ausfertigung der Geburtsurkunde, auf Verlangen auch einen Nachweis der Staatsangeh\u00f6rigkeit,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">gegebenenfalls Ausfertigungen der Eheurkunde oder der Lebenspartnerschaftsurkunde und der Geburtsurkunden der Kinder,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein F\u00fchrungszeugnis nach \u00a7 30 des Bundeszentralregistergesetzes zur unmittelbaren Vorlage bei der Einstellungsbeh\u00f6rde und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Erkl\u00e4rung der Bewerberin oder des Bewerbers dar\u00fcber, ob sie oder er<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">in geordneten wirtschaftlichen Verh\u00e4ltnissen lebt und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem Ermittlungs- oder sonstigen Strafverfahren beschuldigt wird.</LA></DD></DL></LA></DD></DL>Die Kosten des Gesundheitszeugnisses tr\u00e4gt die jeweilige Einstellungsbeh\u00f6rde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Rechtsstellung w\u00e4hrend des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Mit der Einstellung in den Vorbereitungsdienst werden - unter Berufung in das Beamtenverh\u00e4ltnis auf Widerruf - die Bewerberinnen zu Bibliotheksreferendarinnen und die Bewerber zu Bibliotheksreferendaren ernannt.</P><P>(2) Die Referendarinnen und Referendare unterstehen der Dienstaufsicht der jeweiligen Einstellungsbeh\u00f6rde. W\u00e4hrend der Abordnung zu anderen Beh\u00f6rden unterstehen sie zus\u00e4tzlich auch deren Dienstaufsicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE000900000",
+        "name": "\u00a7 9",
+        "title": "Dauer, Inhalt, Gliederung und Abschluss des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Der Vorbereitungsdienst dauert zwei Jahre. Er umfasst die praktische Ausbildung in bibliothekarischen Schwerpunktbereichen und die theoretische Ausbildung.</P><P>(2) Die theoretische Ausbildung dauert zw\u00f6lf Monate und findet an einer Hochschule statt.</P><P>(3) Die praktische Ausbildung umfasst das Praktikum I (gro\u00dfes Praktikum) von zehn Monaten und das Praktikum II (kleines Praktikum) von zwei Monaten.</P><P>(4) Die Reihenfolge der einzelnen Ausbildungsabschnitte wird in einem von der jeweiligen Einstellungsbeh\u00f6rde aufgestellten Ausbildungsplan festgelegt, der der Referendarin oder dem Referendar zu Beginn des Vorbereitungsdienstes ausgeh\u00e4ndigt wird.</P><P>(5) Wird die Ausbildung wegen einer Erkrankung oder aus anderen zwingenden Gr\u00fcnden unterbrochen, k\u00f6nnen Ausbildungsabschnitte verk\u00fcrzt oder verl\u00e4ngert und Abweichungen vom Ausbildungsplan zugelassen werden, um eine zielgerechte Fortsetzung des Vorbereitungsdienstes zu erm\u00f6glichen.</P><P>(6) Der Vorbereitungsdienst schlie\u00dft mit der Laufbahnpr\u00fcfung ab.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001001310",
+        "name": "\u00a7 10",
+        "title": "Verl\u00e4ngerung und Verk\u00fcrzung des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Der Vorbereitungsdienst ist im Einzelfall zu verl\u00e4ngern, wenn die Ausbildung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen einer Erkrankung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen eines Besch\u00e4ftigungsverbots f\u00fcr die Zeit vor oder nach einer Entbindung nach mutterschutzrechtlichen Vorschriften oder wegen einer Elternzeit,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Ableistung des Grundwehrdienstes oder eines Ersatzdienstes oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus anderen zwingenden Gr\u00fcnden</LA></DD></DL>unterbrochen worden und bei Verk\u00fcrzung von Ausbildungsabschnitten die zielgerechte Fortsetzung des Vorbereitungsdienstes nicht gew\u00e4hrleistet ist.</P><P>(2) Der Vorbereitungsdienst kann - nach Anh\u00f6rung der Referendarinnen und Referendare - in den F\u00e4llen des Absatzes 1 Nr. 1 und 4 h\u00f6chstens zweimal um nicht mehr als insgesamt zw\u00f6lf Monate verl\u00e4ngert werden. Die Verl\u00e4ngerung soll so bemessen werden, dass die Laufbahnpr\u00fcfung zusammen mit den Referendarinnen und Referendaren, die zu einem sp\u00e4teren Zeitpunkt eingestellt worden sind, abgelegt werden kann.</P><P>(3) Bei Nichtbestehen der in \u00a7 19 Abs. 1 genannten Pr\u00fcfung richtet sich die Verl\u00e4ngerung des Vorbereitungsdienstes nach \u00a7 20 Satz 3 bis 5.</P><P>(4) Die praktische Ausbildung kann um Zeiten einer beruflichen T\u00e4tigkeit auf den in \u00a7 15 Abs. 2 genannten Gebieten verk\u00fcrzt werden, soweit Aufgaben der Laufbahn des h\u00f6heren Dienstes an wissenschaftlichen Bibliotheken wahrgenommen wurden. Die Verk\u00fcrzung darf sechs Monate nicht \u00fcberschreiten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001100000",
+        "name": "\u00a7 11",
+        "title": "Schwerbehinderte Menschen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Schwerbehinderten Menschen werden im Auswahlverfahren sowie f\u00fcr die Erbringung von Leistungsnachweisen die ihrer Behinderung angemessenen Erleichterungen gew\u00e4hrt. Hierauf sind sie rechtzeitig hinzuweisen. Art und Umfang der zu gew\u00e4hrenden Erleichterungen sind mit den schwerbehinderten Menschen und der Schwerbehindertenvertretung rechtzeitig, sofern dies zeitlich noch m\u00f6glich ist, zu er\u00f6rtern. Die Erleichterungen d\u00fcrfen nicht dazu f\u00fchren, dass die Anforderungen herabgesetzt werden. Die S\u00e4tze 1 bis 4 werden auch bei aktuellen Behinderungen, die nicht unter den Schutz des Neunten Buches Sozialgesetzbuch fallen, angewandt.</P><P>(2) Im Auswahlverfahren wird die Schwerbehindertenvertretung nicht beteiligt, wenn der schwerbehinderte Mensch eine Beteiligung ablehnt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001200000",
+        "name": "\u00a7 12",
+        "title": "Urlaub w\u00e4hrend des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>Urlaub wird auf den Vorbereitungsdienst angerechnet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001300000",
+        "name": "\u00a7 13",
+        "title": "Ausbildungsakte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>F\u00fcr die Referendarinnen und Referendare sind Personalteilakten \"Ausbildung\" zu f\u00fchren, in die der Ausbildungsplan, die Leistungsnachweise, Lehrgangsklausuren und Bewertungen aufzunehmen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001400000",
+        "name": "\u00a7 14",
+        "title": "Ziel der praktischen Ausbildung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) In den Praktika erwerben die Referendarinnen und Referendare berufliche Kenntnisse und Erfahrungen sowie F\u00e4higkeiten und Kenntnisse, die zur selbst\u00e4ndigen Erf\u00fcllung der Aufgaben der Laufbahn erforderlich sind.</P><P>(2) W\u00e4hrend der Praktika werden die Referendarinnen und Referendare in den Schwerpunktbereichen der Laufbahn des h\u00f6heren Dienstes an wissenschaftlichen Bibliotheken des Bundes mit den Aufgaben der Bibliotheken vertraut gemacht. Je nach ihrem Ausbildungsstand sollen die Referendarinnen und Referendare einzelne Gesch\u00e4ftsvorg\u00e4nge, die typisch f\u00fcr die Aufgaben der Laufbahn sind, selbst\u00e4ndig bearbeiten und an dienstlichen Veranstaltungen und internen Fortbildungsveranstaltungen, die ihrer Ausbildung f\u00f6rderlich sind, teilnehmen.</P><P>(3) T\u00e4tigkeiten, die nicht dem Ziel der Ausbildung entsprechen, d\u00fcrfen den Referendarinnen und Referendaren nicht \u00fcbertragen werden.</P><P>(4) Die Ausbildungsbibliotheken koordinieren die praktische Ausbildung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001500000",
+        "name": "\u00a7 15",
+        "title": "Durchf\u00fchrung der praktischen Ausbildung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Die Praktika werden bei folgenden Stellen durchgef\u00fchrt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Praktikum I bei der jeweils eigenen Bibliothek und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Praktikum II bei einer anderen der in \u00a7 3 Abs. 2 genannten Bibliotheken.</LA></DD> </DL>In begr\u00fcndeten Ausnahmef\u00e4llen k\u00f6nnen auch beide Praktika bei der jeweils eigenen Bibliothek, einer der anderen Bibliotheken nach \u00a7 3 Abs. 2 oder bei einer Universit\u00e4tsbibliothek eines Landes durchgef\u00fchrt werden.</P><P>(2) Die praktische Ausbildung umfasst insbesondere folgende Bereiche: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bestandsaufbau,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bestandserschlie\u00dfung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Benutzungs-, Informations- und Beratungsdienst,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einsatz der Informationstechnik in Bibliotheken,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bibliotheksbau und technische Einrichtungen sowie</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Organisation, allgemeine Verwaltung und Leitungsaufgaben.</LA></DD> </DL> </P><P>(3) Jede Ausbildungsbibliothek erstellt einen Ausbildungsplan, der Art und Dauer der T\u00e4tigkeit der Referendarinnen und Referendare w\u00e4hrend der Ausbildung in den einzelnen Bereichen der Bibliothek regelt. Der Ausbildungsplan ist der jeweiligen Einstellungsbeh\u00f6rde vorzulegen; die Referendarinnen und Referendare erhalten eine Ausfertigung.</P><P>(4) Die Referendarinnen und Referendare sollen, soweit es die personellen Verh\u00e4ltnisse bei der jeweiligen Ausbildungsbibliothek zulassen, gegen Mitte und gegen Ende des gro\u00dfen Praktikums (Praktikum I) jeweils eine schriftliche Arbeit aus einem Fachgebiet der Ausbildungsstelle innerhalb einer Frist von zwei Wochen fertigen. Die Arbeiten werden von der Leiterin oder dem Leiter der Ausbildungsstelle oder einer von ihr oder ihm beauftragten Person im Benehmen mit der Ausbildungsleitung ausgew\u00e4hlt, zugeteilt und beurteilt und mit einer der in \u00a7 17 festgesetzten Noten und Punktzahlen bewertet. Nach der Bewertung sind die Arbeiten mit den Referendarinnen und Referendaren zu besprechen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001600000",
+        "name": "\u00a7 16",
+        "title": "Ausbildungsleitung, Ausbilderinnen und Ausbilder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Jede Ausbildungsbibliothek bestellt eine Beamtin oder einen Beamten des h\u00f6heren Dienstes als Ausbildungsleitung, die f\u00fcr die ordnungsgem\u00e4\u00dfe Durchf\u00fchrung des Praktikums verantwortlich ist, sowie eine Vertretung. Au\u00dferdem werden auf Vorschlag der Ausbildungsleitung Ausbilderinnen oder Ausbilder bestellt.</P><P>(2) Die Ausbildungsleitung lenkt und \u00fcberwacht die Ausbildung der Referendarinnen und Referendare; sie stellt eine sorgf\u00e4ltige Ausbildung sicher. Sie f\u00fchrt regelm\u00e4\u00dfig Besprechungen mit den Referendarinnen und Referendaren und den Ausbilderinnen und Ausbildern durch und ber\u00e4t sie in Fragen der Ausbildung.</P><P>(3) Ausbilderinnen und Ausbildern d\u00fcrfen nicht mehr Referendarinnen und Referendare zugewiesen werden, als sie mit Sorgfalt ausbilden k\u00f6nnen. Soweit erforderlich, werden sie von anderen Dienstgesch\u00e4ften entlastet. Die Referendarinnen und Referendare werden am Arbeitsplatz unterwiesen und angeleitet. Die Ausbilderinnen und Ausbilder unterrichten die Ausbildungsleitung regelm\u00e4\u00dfig \u00fcber den erreichten Ausbildungsstand.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001701116",
+        "name": "\u00a7 17",
+        "title": "Bewertung w\u00e4hrend der praktischen Ausbildung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Jede Ausbildungsbibliothek gibt \u00fcber die Leistungen und den Bef\u00e4higungsstand der Referendarinnen und Referendare unter Ber\u00fccksichtigung von Arbeiten nach \u00a7 15 Abs. 4 eine schriftliche oder elektronische Bewertung ab. Die Bewertung soll Auskunft \u00fcber die fachlichen Kenntnisse, die Allgemeinbildung, die berufliche Eignung und \u00fcber das Pers\u00f6nlichkeitsbild geben; auf besondere F\u00e4higkeiten oder M\u00e4ngel ist hinzuweisen. Die Leistungen der Referendarinnen und Referendare sind mit folgenden Noten zu bewerten: <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"200\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"300\" /><tbody valign=\"top\"><row><entry VJ=\"1\">sehr gut (1)<BR />15 bis 14 Punkte</entry><entry VJ=\"1\">eine Leistung, die den Anforderungen in besonderem Ma\u00dfe entspricht,</entry></row><row><entry VJ=\"1\">gut (2)<BR />13 bis 11 Punkte</entry><entry VJ=\"1\">eine Leistung, die den Anforderungen voll entspricht,</entry></row><row><entry VJ=\"1\">befriedigend (3)<BR />10 bis 8 Punkte</entry><entry VJ=\"1\">eine Leistung, die im Allgemeinen den Anforderungen entspricht,</entry></row><row><entry VJ=\"1\">ausreichend (4) 7<BR />7 bis 5 Punkte</entry><entry VJ=\"1\">eine Leistung, die zwar M\u00e4ngel aufweist, aber im Ganzen den Anforderungen noch entspricht,</entry></row><row><entry VJ=\"1\">mangelhaft (5)<BR />4 bis 2 Punkte</entry><entry VJ=\"1\">eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen l\u00e4sst, dass die notwendigen Grundkenntnisse vorhanden sind und die M\u00e4ngel in absehbarer Zeit behoben werden k\u00f6nnten,</entry></row><row><entry VJ=\"1\">ungen\u00fcgend (6)<BR />1 bis 0 Punkte</entry><entry VJ=\"1\">eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so l\u00fcckenhaft sind, dass die M\u00e4ngel in absehbarer Zeit nicht behoben werden k\u00f6nnten.</entry></row></tbody></tgroup></table></P><P>(2) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs mit den Referendarinnen und Referendaren besprochen. Sie ist ihnen zu er\u00f6ffnen. Die Referendarinnen und Referendare erhalten eine Ausfertigung der Bewertung und k\u00f6nnen zu ihr schriftlich oder elektronisch Stellung nehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001800000",
+        "name": "\u00a7 18",
+        "title": "Durchf\u00fchrung der theoretischen Ausbildung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000500000"
+        },
+        "body": "<P>(1) Die Referendarinnen und Referendare werden f\u00fcr die theoretische Ausbildung einer geeigneten Hochschule zugewiesen.</P><P>(2) Die theoretische Ausbildung soll sich insbesondere auf folgende Gebiete erstrecken: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundlagen der Informationswissenschaft,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Organisation der Wissenschaft und des Bildungswesens, Kulturpolitik,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rechts- und Verwaltungskunde,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Organisation und Betrieb von Bibliotheken (Verwaltung, Management und Personalf\u00fchrung, Bestandsaufbau und -erschlie\u00dfung, Benutzungs- und Beratungsdienst, \u00d6ffentlichkeitsarbeit),</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bibliotheksbau, -einrichtung und -technik,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Informationstechnik,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bibliotheksgeschichte,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">deutsches und ausl\u00e4ndisches Bibliothekswesen der Gegenwart,</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Informations- und Dokumentationswesen,</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Buch- und Medienkunde und</LA></DD> <DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Allgemein- und Fachbibliographien, Informationsvermittlung.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR277900001BJNG000200000",
+        "name": "Kapitel 2",
+        "title": "Erwerb der Laufbahnbef\u00e4higung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE001900000",
+        "name": "\u00a7 19",
+        "title": "Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000200000"
+        },
+        "body": "<P>(1) Zum Abschluss der theoretischen Ausbildung legen die Referendarinnen und Referendare die Pr\u00fcfung f\u00fcr die Laufbahn des h\u00f6heren Bibliotheksdienstes des Sitzlandes der Hochschule, der sie zugewiesen sind, ab.</P><P>(2) Mit dem Bestehen der in Absatz 1 genannten Pr\u00fcfung erwerben die Referendarinnen und Referendare die Bef\u00e4higung f\u00fcr die Laufbahn des h\u00f6heren Dienstes an wissenschaftlichen Bibliotheken des Bundes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002000000",
+        "name": "\u00a7 20",
+        "title": "Wiederholung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000200000"
+        },
+        "body": "<P>Referendarinnen und Referendare, die die Pr\u00fcfung im Sinne des \u00a7 19 Abs. 1 nicht bestanden haben oder deren Pr\u00fcfung als nicht bestanden gilt, k\u00f6nnen die Pr\u00fcfung einmal wiederholen. Die zust\u00e4ndige oberste Dienstbeh\u00f6rde kann in begr\u00fcndeten Ausnahmef\u00e4llen eine zweite Wiederholung zulassen. Sie bestimmt auf Vorschlag des jeweiligen Pr\u00fcfungsausschusses, um welche Zeit der Vorbereitungsdienst verl\u00e4ngert wird und welche Ausbildungsabschnitte zu wiederholen sind. Die weitere Ausbildung muss mindestens sechs Monate dauern und darf ein Jahr nicht \u00fcbersteigen. Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist verl\u00e4ngert.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002100000",
+        "name": "\u00a7 21",
+        "title": "Ende des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000200000"
+        },
+        "body": "<P>(1) Mit dem Bestehen oder endg\u00fcltigen Nichtbestehen der in \u00a7 19 Abs. 1 genannten Pr\u00fcfung endet der Vorbereitungsdienst. Ma\u00dfgebend ist der Tag der schriftlichen Bekanntgabe des Pr\u00fcfungsergebnisses.</P><P>(2) Das Bestehen der Pr\u00fcfung im Sinne des \u00a7 19 Abs. 1 begr\u00fcndet keinen Anspruch auf \u00dcbernahme in das Beamtenverh\u00e4ltnis auf Probe.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR277900001BJNG000300000",
+        "name": "Kapitel 3",
+        "title": "Aufstieg",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002201310",
+        "name": "\u00a7 22",
+        "title": "Aufstieg, Auswahlverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000300000"
+        },
+        "body": "<P>(1) Beamtinnen und Beamte der Laufbahn des gehobenen Dienstes an wissenschaftlichen Bibliotheken und Dokumentationsstellen k\u00f6nnen gem\u00e4\u00df \u00a7 36 der Bundeslaufbahnverordnung zum Aufstieg in die Laufbahn des h\u00f6heren Dienstes an wissenschaftlichen Bibliotheken des Bundes zugelassen werden.</P><P>(2) In einem Auswahlverfahren wird von einer Auswahlkommission die Eignung f\u00fcr die k\u00fcnftige Laufbahn festgestellt. \u00a7 6 Abs. 4 bis 7 gilt entsprechend.</P><P>(3) \u00dcber die Zulassung zum Aufstieg entscheidet die zust\u00e4ndige oberste Dienstbeh\u00f6rde auf Grund des Ergebnisses des Auswahlverfahrens.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002300000",
+        "name": "\u00a7 23",
+        "title": "Einf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000300000"
+        },
+        "body": "<P>(1) Die Aufstiegsbeamtinnen und -beamten nehmen zur Einf\u00fchrung in die neue Laufbahn gemeinsam mit den Referendarinnen und Referendaren an der Ausbildung teil. \u00a7 8 Abs. 2 Satz 2 und die \u00a7\u00a7 9 bis 19 Abs. 1 gelten entsprechend.</P><P>(2) Die Einf\u00fchrung schlie\u00dft mit der Aufstiegspr\u00fcfung ab; diese entspricht der in \u00a7 19 Abs. 1 genannten Pr\u00fcfung. \u00a7 20 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002400000",
+        "name": "\u00a7 24",
+        "title": "Rechtsstellung nach bestandener Aufstiegspr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000300000"
+        },
+        "body": "<P>Nach bestandener Aufstiegspr\u00fcfung bleiben die Beamtinnen und Beamten bis zur Verleihung des Eingangsamtes der neuen Laufbahn in ihrer bisherigen Rechtsstellung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR277900001BJNG000400000",
+        "name": "Kapitel 4",
+        "title": "Sonstige Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002500000",
+        "name": "\u00a7 25",
+        "title": "\u00dcbergangsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000400000"
+        },
+        "body": "<P>Ausbildung und Pr\u00fcfung der vor Inkrafttreten dieser Verordnung in den Vorbereitungsdienst eingestellten Referendarinnen und Referendare richten sich nach den bisherigen Vorschriften. Dies gilt f\u00fcr Aufstiegsbeamtinnen und Aufstiegsbeamte entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR277900001BJNE002600000",
+        "name": "\u00a7 26",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR277900001BJNG000400000"
+        },
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

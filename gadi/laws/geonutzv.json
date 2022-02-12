@@ -1,0 +1,88 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR054700013",
+    "firstPublished": "2013-03-19",
+    "sourceTimestamp": "20130618220007",
+    "titleShort": null,
+    "titleLong": "Verordnung zur Festlegung der Nutzungsbestimmungen f\u00fcr die Bereitstellung von Geodaten des Bundes",
+    "abbreviation": "GeoNutzV",
+    "slug": "geonutzv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2013, 547",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 23.3.2013 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR054700013BJNE000600000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 14 Nummer 2 in Verbindung mit \u00a7 11 Absatz 3 des Geodatenzugangsgesetzes, von denen \u00a7 14 Nummer 2 durch Artikel 1 Nummer 4 und \u00a7 11 Absatz 3 durch Artikel 1 Nummer 2 des Gesetzes vom 7. November 2012 (BGBl. I S. 2289) neu gefasst worden ist, verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR054700013BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Ziel und Anwendungsbereich",
+        "parent": null,
+        "body": "<P>Diese Verordnung regelt die Voraussetzungen, unter denen Geodaten und Geodatendienste, einschlie\u00dflich zugeh\u00f6riger Metadaten, nach \u00a7 11 Absatz 1 und 2 des Geodatenzugangsgesetzes von den geodatenhaltenden Stellen nach \u00a7 2 Absatz 1 in Verbindung mit \u00a7 3 Absatz 8 des Geodatenzugangsgesetzes zur Verf\u00fcgung gestellt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR054700013BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Nutzungen",
+        "parent": null,
+        "body": "<P>(1) Geodaten und Geodatendienste, einschlie\u00dflich zugeh\u00f6riger Metadaten, werden f\u00fcr alle derzeit bekannten sowie f\u00fcr alle zuk\u00fcnftig bekannten Zwecke kommerzieller und nicht kommerzieller Nutzung geldleistungsfrei zur Verf\u00fcgung gestellt, soweit durch besondere Rechtsvorschrift nichts anderes bestimmt ist oder vertragliche oder gesetzliche Rechte Dritter dem nicht entgegenstehen.</P><P>(2) Die bereitgestellten Geodaten und Metadaten d\u00fcrfen insbesondere <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>vervielf\u00e4ltigt, ausgedruckt, pr\u00e4sentiert, ver\u00e4ndert, bearbeitet sowie an Dritte \u00fcbermittelt werden;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>mit eigenen Daten und Daten Anderer zusammengef\u00fchrt und zu selbst\u00e4ndigen neuen Datens\u00e4tzen verbunden werden;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>in interne und externe Gesch\u00e4ftsprozesse, Produkte und Anwendungen in \u00f6ffentlichen und nicht \u00f6ffentlichen elektronischen Netzwerken eingebunden werden.</LA></DD></DL></P><P>(3) Die bereitgestellten Geodatendienste d\u00fcrfen insbesondere <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>mit eigenen Diensten und Diensten Anderer zusammengef\u00fchrt werden;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in interne und externe Gesch\u00e4ftsprozesse, Produkte und Anwendungen in \u00f6ffentlichen und nicht \u00f6ffentlichen elektronischen Netzwerken eingebunden werden.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR054700013BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Quellenvermerke",
+        "parent": null,
+        "body": "<P>Die Nutzer haben sicherzustellen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>alle den Geodaten, Metadaten und Geodatendiensten beigegebenen Quellenvermerke und sonstigen rechtlichen Hinweise erkennbar und in optischem Zusammenhang eingebunden werden;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Ver\u00e4nderungen, Bearbeitungen, neue Gestaltungen oder sonstige Abwandlungen mit einem Ver\u00e4nderungshinweis im beigegebenen Quellenvermerk versehen werden oder, sofern die geodatenhaltende Stelle dies verlangt, der beigegebene Quellenvermerk gel\u00f6scht wird.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR054700013BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Haftungsbeschr\u00e4nkung",
+        "parent": null,
+        "body": "<P>Verletzt die geodatenhaltende Stelle eine ihr gegen\u00fcber dem Nutzer obliegende \u00f6ffentlich-rechtliche Pflicht, so haftet ihr Tr\u00e4ger dem Nutzer f\u00fcr den daraus entstehenden Schaden nicht, wenn der geodatenhaltenden Stelle lediglich Fahrl\u00e4ssigkeit zur Last f\u00e4llt. Dies gilt nicht im Falle einer Verletzung des Lebens, des K\u00f6rpers und der Gesundheit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR054700013BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

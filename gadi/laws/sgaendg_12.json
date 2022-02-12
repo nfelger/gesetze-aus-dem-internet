@@ -1,0 +1,72 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR031149977",
+    "firstPublished": "1977-12-23",
+    "sourceTimestamp": "20120625152013",
+    "titleShort": null,
+    "titleLong": "Zw\u00f6lftes Gesetz zur \u00c4nderung des Soldatengesetzes",
+    "abbreviation": "SG\u00c4ndG 12",
+    "slug": "sgaendg_12",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1977, 3114",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  1. 1.1978 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR031149977BJNG000100315",
+        "name": "Art 1 und 2",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR031149977BJNG000200315",
+        "name": "Art 3",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031149977BJNE000300315",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031149977BJNG000200315"
+        },
+        "body": "<P>Auf Soldaten, die vor Inkrafttreten dieses Gesetzes zum Berufssoldaten ernannt worden sind und die ein Studium oder eine Fachausbildung bis zum 31. M\u00e4rz 1978 abgeschlossen haben werden, sind die bisherigen Vorschriften anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR031149977BJNE000400315",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR031149977BJNG000200315"
+        },
+        "body": "<P>Dieses Gesetz tritt am ersten Tage des auf die Verk\u00fcndung folgenden Kalendermonats in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

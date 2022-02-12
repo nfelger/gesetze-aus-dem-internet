@@ -1,0 +1,94 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR014819972",
+    "firstPublished": "1972-08-21",
+    "sourceTimestamp": "20120625154415",
+    "titleShort": null,
+    "titleLong": "Gesetz zur Neuordnung des Wehrdisziplinarrechts",
+    "abbreviation": "WDNeuOG",
+    "slug": "wdneuog",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1972, 1481",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 2 G v. 16.8.2001 I 2093",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 23.11.1972 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR014819972BJNE001100311",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014819972BJNG000100311",
+        "name": "Art I bis VII",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014819972BJNG000801320",
+        "name": "Art VIII",
+        "title": "(weggefallen)",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014819972BJNE001201320",
+        "name": "(XXXX) \u00a7\u00a7 1 bis 8",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014819972BJNG000801320"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014819972BJNG000900311",
+        "name": "Art IX",
+        "title": null,
+        "parent": null,
+        "body": "<P><I>(3) Sofern in diesem Gesetz mit Bezug auf den zivilen Ersatzdienst verwendete Bezeichnungen vor dem Inkrafttreten dieses Gesetzes durch ein anderes Gesetz ge\u00e4ndert werden, treten die entsprechenden neuen Bezeichnungen an ihre Stelle.</I></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014819972BJNG001000311",
+        "name": "Art X",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt drei Monate nach Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

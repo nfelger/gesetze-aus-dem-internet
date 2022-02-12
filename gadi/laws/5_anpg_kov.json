@@ -1,0 +1,119 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR019099973",
+    "firstPublished": "1973-12-18",
+    "sourceTimestamp": "20120625145736",
+    "titleShort": "F\u00fcnftes Anpassungsgesetz-KOV",
+    "titleLong": "F\u00fcnftes Gesetz \u00fcber die Anpassung der Leistungen des\nBundesversorgungsgesetzes",
+    "abbreviation": "5. AnpG-KOV",
+    "slug": "5_anpg_kov",
+    "extraAbbreviations": [
+      "KOVAnpG 5"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1973, 1909",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 42 G v. 18.12.1989 I 2261",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.4.1975 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR019099973BJNG000100311",
+        "name": "Art 1",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019099973BJNG000201308",
+        "name": "Art 2",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": "<P>Art. 2: Gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VIII Sachg. K Abschn. I Nr. 1 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1066</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019099973BJNG000300311",
+        "name": "Art 3",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019099973BJNG000400311",
+        "name": "Art 4",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019099973BJNG000500311",
+        "name": "Art 5",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019099973BJNE000600311",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019099973BJNG000500311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019099973BJNE000700311",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019099973BJNG000500311"
+        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019099973BJNE000800311",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019099973BJNG000500311"
+        },
+        "body": "<P>(1) Dieses Gesetz tritt, soweit sich aus Absatz 2 nichts anderes ergibt, am 1. Januar 1974 in Kraft.</P><P>(2)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

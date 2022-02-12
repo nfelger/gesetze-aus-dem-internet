@@ -1,0 +1,63 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR182300014",
+    "firstPublished": "2014-11-24",
+    "sourceTimestamp": "20160101220454",
+    "titleShort": null,
+    "titleLong": "Verordnung zur Bestimmung der zust\u00e4ndigen Beh\u00f6rde nach \u00a7 16 Absatz 6 des Mindestlohngesetzes",
+    "abbreviation": "MiLoGMeldStellV",
+    "slug": "milogmeldstellv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2014, 1823",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 9 Abs. 15 G v. 3.12.2015 I 2178",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2015 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR182300014BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 16 Absatz 6 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348) verordnet das Bundesministerium der Finanzen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR182300014BJNE000201119",
+        "name": "\u00a7 1",
+        "title": "Meldestelle",
+        "parent": null,
+        "body": "<P>Die Generalzolldirektion ist zust\u00e4ndige Beh\u00f6rde der Zollverwaltung im Sinne von \u00a7 16 Absatz 1 Satz 1 und Absatz 3 Satz 1 des Mindestlohngesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR182300014BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am 1. Januar 2015 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

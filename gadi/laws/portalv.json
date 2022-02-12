@@ -1,0 +1,123 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR177400015",
+    "firstPublished": "2015-10-15",
+    "sourceTimestamp": "20190403212008",
+    "titleShort": "Portalverordnung",
+    "titleLong": "Verordnung zu den Voraussetzungen und dem Verfahren der Zulassung von in nicht \u00f6ffentlich-rechtlicher Form betriebenen Portalen zur Durchf\u00fchrung von einfachen Melderegisterausk\u00fcnften \u00fcber das Internet",
+    "abbreviation": "PortalV",
+    "slug": "portalv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2015, 1774",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 2 V v. 28.3.2019 I 410",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.11.2015 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 56 Absatz 1 Nummer 5 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084) unter Ber\u00fccksichtigung des Artikels 1 Nummer 3 des Gesetzes vom 20. November 2014 (BGBl. I S. 1738) verordnet das Bundesministerium des Innern:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich; Begriffe",
+        "parent": null,
+        "body": "<P>(1) Diese Verordnung regelt die Voraussetzungen und das Verfahren f\u00fcr die Zulassung gem\u00e4\u00df \u00a7 49 Absatz 3 Satz 2 des Bundesmeldegesetzes von in nicht \u00f6ffentlich-rechtlicher Form betriebenen Portalen zur Erteilung von einfachen Melderegisterausk\u00fcnften \u00fcber das Internet.</P><P>(2) Ein Portal im Sinne dieser Verordnung ist eine programmtechnische Anwendung zur automatisierten Durchf\u00fchrung von einfachen Ausk\u00fcnften aus kommunalen oder zentralen Melderegistern, die abgefragte Meldedaten nicht dauerhaft f\u00fcr eigene oder fremde Zwecke speichert. Es dient als Mittler f\u00fcr den elektronischen Datenaustausch zwischen Anfragenden und Melderegister. Ein Portal wird gekennzeichnet durch eine eigene Benutzerverwaltung, welche die Abfrageberechtigungen bestimmt und die Anfragenden authentifiziert und identifiziert.</P><P>(3) Betreiber eines Portals ist jede nat\u00fcrliche oder juristische Person, die ein Portal als entgeltliche Dienstleistung anbietet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Aufgaben",
+        "parent": null,
+        "body": "<P>Das Portal muss geeignet sein, die in \u00a7 49 Absatz 3 Satz 3 des Bundesmeldegesetzes genannten Aufgaben zu erf\u00fcllen und dabei <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Anfragenden so registrieren, dass deren Identit\u00e4t festgestellt werden kann,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Auskunftsersuchen mit einer Vorgangsnummer versehen, die vom Portal an das Melderegister \u00fcbermittelt wird und einen R\u00fcckschluss auf den Anfragenden erm\u00f6glicht,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Melderegisterausk\u00fcnfte zusammen mit der Vorgangsnummer an den Anfragenden weiterleiten.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000401125",
+        "name": "\u00a7 3",
+        "title": "Protokollierungspflicht",
+        "parent": null,
+        "body": "<P>(1) Bei einem automatisierten Abruf von Daten einer Person hat das Portal zu gew\u00e4hrleisten, dass Folgendes protokolliert wird: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Kennung des Anfragenden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Daten, mit denen angefragt wurde,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Zeitpunkt der Anfrage und Zeitpunkt der Weiterleitung der Antwort an den Anfragenden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>von dem Anfragenden angegebene gewerbliche Zwecke gem\u00e4\u00df \u00a7 44 Absatz 1 Satz 2 des Bundesmeldegesetzes,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Erkl\u00e4rung des Anfragenden, die Daten der Melderegisterauskunft nicht f\u00fcr Zwecke der Werbung oder des Adresshandels zu verwenden, oder seine Erkl\u00e4rung, dass ihm eine entsprechende Einwilligung der betroffenen Person vorliegt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Art der R\u00fcckantwort der Meldebeh\u00f6rde,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>die Vorgangsnummer.</LA></DD></DL></P><P>(2) Das Portal hat zu gew\u00e4hrleisten, dass die Protokolldaten nach Absatz 1 <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>mindestens zw\u00f6lf Monate aufbewahrt und gesichert werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sp\u00e4testens zum Ende des Kalenderjahres gel\u00f6scht werden, das auf die Speicherung folgt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>nur f\u00fcr Zwecke der Datenschutzkontrolle, hieraus folgender Strafverfahren, der Sicherstellung des Betriebs des Portals und der Auskunftserteilung an die betroffene Person verarbeitet werden.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000501125",
+        "name": "\u00a7 4",
+        "title": "Datenschutz und Datensicherheit",
+        "parent": null,
+        "body": "<P>Beim Betrieb des Portals ist sicherzustellen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die \u00dcbermittlung der Melderegisterauskunft an den Anfragenden verschl\u00fcsselt stattfindet,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>geeignete technische und organisatorische Ma\u00dfnahmen nach den Artikeln 24, 25 und 32 der Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung getroffen werden, um den Datenschutz und die Datensicherheit zu gew\u00e4hrleisten, insbesondere im Hinblick auf die Vertraulichkeit und die Unversehrtheit der Daten, die durch die Meldebeh\u00f6rden beauskunftet werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>den nach Landesrecht zust\u00e4ndigen Datenschutzaufsichtsbeh\u00f6rden zur Kontrolle die Einsichtnahme in die Protokolldaten des Portals m\u00f6glich ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Daten der Melderegisterauskunft nach Weitergabe an den Anfragenden innerhalb des Portals nicht gespeichert oder auf andere Weise verarbeitet werden,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>\u00dcbermittlungen personenbezogener Daten an Drittl\u00e4nder oder an internationale Organisationen im Einklang mit Kapitel V der Verordnung (EU) 2016/679 stehen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000601116",
+        "name": "\u00a7 5",
+        "title": "Zulassungsverfahren",
+        "parent": null,
+        "body": "<P>(1) Zust\u00e4ndig f\u00fcr die Zulassung von Portalen im Sinne dieser Verordnung ist die nach Landesrecht dazu bestimmte Landesbeh\u00f6rde (\u00a7 49 Absatz 3 Satz 2 des Bundesmeldegesetzes).</P><P>(2) Die Zulassungsbeh\u00f6rde pr\u00fcft auf Antrag das Vorliegen der in den \u00a7\u00a7 2 bis 4 genannten Voraussetzungen. Dazu kann sie den Antragsteller auffordern, ihr die f\u00fcr die Pr\u00fcfung erforderlichen Unterlagen vorzulegen. Die Zulassungsbeh\u00f6rde kann verlangen, dass der Antragsteller die Voraussetzungen nach \u00a7 4 Nummer 2 durch die Vorlage einer Bescheinigung einer sachverst\u00e4ndigen Stelle glaubhaft macht. Solche Stellen k\u00f6nnen von der Zulassungsbeh\u00f6rde benannt werden. Dem Zulassungsantrag ist eine Best\u00e4tigung einer Meldebeh\u00f6rde aus dem Zust\u00e4ndigkeitsbereich der Zulassungsbeh\u00f6rde beizuf\u00fcgen, aus der sich ergibt, dass das Portal des Antragstellers an das Melderegister angeschlossen werden soll.</P><P>(3) Die Zulassung ist bei Vorliegen der in Absatz 2 Satz 5 und in den \u00a7\u00a7 2 bis 4 genannten Voraussetzungen zu erteilen. Sie gilt f\u00fcr alle im Zust\u00e4ndigkeitsbereich der Zulassungsbeh\u00f6rde liegenden Meldebeh\u00f6rden.</P><P>(4) Bei der Pr\u00fcfung der in den \u00a7\u00a7 2 bis 4 genannten Voraussetzungen ist die oder der Datenschutzbeauftragte des Landes zu beteiligen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Vorl\u00e4ufige Zulassung",
+        "parent": null,
+        "body": "<P>F\u00fcr Portale, die sich bereits vor dem 1. November 2015 im Betrieb befanden, gilt eine befristete vorl\u00e4ufige Zulassung. Diese entf\u00e4llt, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Zulassungsantrag nicht binnen acht Wochen nach Inkrafttreten dieser Verordnung bei der zust\u00e4ndigen Beh\u00f6rde nach \u00a7 5 Absatz 1 eingereicht oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die zur Zulassung erforderlichen Unterlagen nicht innerhalb von sechs Wochen nach Aufforderung durch die Zulassungsbeh\u00f6rde bei dieser eingereicht</LA></DD></DL>werden. Mit der bestandskr\u00e4ftigen Entscheidung \u00fcber die Zulassung endet die vorl\u00e4ufige Zulassung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am 1. November 2015 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177400015BJNE000900000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

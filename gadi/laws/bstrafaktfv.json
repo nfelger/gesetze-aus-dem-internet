@@ -1,0 +1,98 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR214000019",
+    "firstPublished": "2019-12-09",
+    "sourceTimestamp": "20200130213034",
+    "titleShort": "Bundesstrafaktenf\u00fchrungsverordnung",
+    "titleLong": "Verordnung \u00fcber die technischen und organisatorischen Rahmenbedingungen f\u00fcr die elektronische Aktenf\u00fchrung im Strafverfahren",
+    "abbreviation": "BStrafAktFV",
+    "slug": "bstrafaktfv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2019, 2140",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 13.12.2019 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR214000019BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 32 Absatz 2 Satz 1 der Strafprozessordnung, der durch Artikel 1 Nummer 2 des Gesetzes vom 5. Juli 2017 (BGBl. I S. 2208) eingef\u00fcgt worden ist, verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR214000019BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "body": "<P>Diese Verordnung ist anzuwenden auf elektronisch gef\u00fchrte Strafverfahrensakten <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>des Generalbundesanwalts beim Bundesgerichtshof;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Finanzbeh\u00f6rden des Bundes in Ermittlungsverfahren nach \u00a7 386 Absatz 2 der Abgabenordnung und \u00a7 14a des Schwarzarbeitsbek\u00e4mpfungsgesetzes;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>des Bundesgerichtshofs.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR214000019BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Struktur und Format elektronischer Akten; Repr\u00e4sentat",
+        "parent": null,
+        "body": "<P>(1) In der elektronischen Akte werden zur Akte gebrachte elektronische Dokumente einschlie\u00dflich zugeh\u00f6riger Signaturdateien sowie sonstige zur Akte gebrachte Dateien und Informationen gespeichert. Elektronische Empfangsbekenntnisse sowie elektronische Formulare, die als strukturierte maschinenlesbare Datens\u00e4tze \u00fcbermittelt worden sind (\u00a7 32c der Strafprozessordnung), werden als Datens\u00e4tze in der elektronischen Akte gespeichert.</P><P>(2) Die nach Absatz 1 in der elektronischen Akte gespeicherten Inhalte m\u00fcssen jederzeit zus\u00e4tzlich als elektronische Dokumente im Format PDF/A wiedergegeben werden k\u00f6nnen; diese Dokumente bilden das Repr\u00e4sentat. Das Repr\u00e4sentat muss den gesamten zur Akte gebrachten Inhalt mit Ausnahme der nur f\u00fcr die Datenverarbeitung notwendigen Struktur-, Definitions- und Schemadateien wiedergeben. Soweit die Wiedergabe eines Inhalts technisch nicht m\u00f6glich ist, ist ein entsprechender Hinweis in das Repr\u00e4sentat aufzunehmen. An die Stelle von Signaturdateien treten im Repr\u00e4sentat Vermerke \u00fcber das Ergebnis der Signaturpr\u00fcfung. Das Repr\u00e4sentat muss druckbar, kopierbar und, soweit technisch m\u00f6glich, durchsuchbar sein. Die Seiten des Repr\u00e4sentats sind so zu nummerieren, dass sie eindeutig zitiert werden k\u00f6nnen.</P><P>(3) Bei der elektronischen Aktenf\u00fchrung sind alle Daten vorzuhalten, die erforderlich sind, um den f\u00fcr die \u00dcbermittlung von elektronischen Akten vorgesehenen strukturierten maschinenlesbaren Datensatz im Dateiformat XML gem\u00e4\u00df der Bekanntmachung nach \u00a7 6 der Strafakten\u00fcbermittlungsverordnung zu erzeugen und die Bearbeitung zu unterst\u00fctzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR214000019BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Bearbeitung der elektronischen Akte",
+        "parent": null,
+        "body": "<P>(1) Elektronische Dokumente sowie sonstige Dateien und Informationen gelten als zur Akte genommen, wenn sie bewusst und dauerhaft in der elektronischen Akte gespeichert worden sind.</P><P>(2) Es ist sicherzustellen, dass in der elektronischen Akte alle Bearbeitungsvorg\u00e4nge nachvollzogen werden k\u00f6nnen. Es ist insbesondere sicherzustellen, dass nachvollzogen werden kann, welche Stelle die Akte zu welchem Zeitpunkt bearbeitet hat.</P><P>(3) Es ist sicherzustellen, dass die elektronische Akte nur von der jeweils lese- und schreibberechtigten Stelle eingesehen und bearbeitet werden kann. Dies gilt auch, wenn die Lese- und Schreibrechte nur teilweise auf eine andere Stelle \u00fcbergehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR214000019BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Barrierefreiheit",
+        "parent": null,
+        "body": "<P>Elektronische Akten und Verfahren zur elektronischen Aktenf\u00fchrung und -bearbeitung sollen technisch so gestaltet werden, dass sie, soweit technisch m\u00f6glich, barrierefrei zug\u00e4nglich und nutzbar sind. Hierzu sollen die Anforderungen an die Barrierefreiheit im Sinne der Barrierefreie-Informationstechnik-Verordnung vom 12. September 2011 (BGBl. I S. 1843), die zuletzt durch Artikel 1 der Verordnung vom 21. Mai 2019 (BGBl. I S. 738) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung bereits bei der Planung, Entwicklung, Ausschreibung und Beschaffung beachtet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR214000019BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Ersatzma\u00dfnahmen",
+        "parent": null,
+        "body": "<P>Im Fall technischer St\u00f6rungen der elektronischen Aktenf\u00fchrung kann angeordnet werden, dass eine Ersatzakte in Papierform gef\u00fchrt wird. Diese ist in die elektronische Form zu \u00fcbertragen, sobald die St\u00f6rung behoben ist. Art und Dauer der St\u00f6rung sind zu dokumentieren. Bei anhaltenden technischen St\u00f6rungen ist das zust\u00e4ndige Bundesministerium zu unterrichten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR214000019BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

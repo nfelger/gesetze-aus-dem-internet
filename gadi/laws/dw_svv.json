@@ -1,0 +1,58 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR055100003",
+    "firstPublished": "2003-04-25",
+    "sourceTimestamp": "20120625153112",
+    "titleShort": "DW-Sitzverlegungsverordnung",
+    "titleLong": "Verordnung \u00fcber den Zeitpunkt der Verlegung des Sitzes der\nRundfunkanstalt des Bundesrechts Deutsche Welle von K\u00f6ln nach Bonn",
+    "abbreviation": "DW-SVV",
+    "slug": "dw_svv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2003, 551",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.5.2003 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR055100003BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 2 Abs. 1 Satz 4 des Deutsche-Welle-Gesetzes vom 16. Dezember 1997 (BGBl. I S. 3094) verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR055100003BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Zeitpunkt der Sitzverlegung",
+        "parent": null,
+        "body": "<P>Als Zeitpunkt f\u00fcr die Verlegung des Sitzes der Rundfunkanstalt des Bundesrechts Deutsche Welle von K\u00f6ln nach Bonn wird der 1. Mai 2003 bestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR055100003BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tage nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

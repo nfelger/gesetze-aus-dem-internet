@@ -1,0 +1,1466 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR008150956",
+    "firstPublished": "1956-10-19",
+    "sourceTimestamp": "20211130213045",
+    "titleShort": null,
+    "titleLong": "Bundesleistungsgesetz",
+    "abbreviation": "BLG",
+    "slug": "blg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1956, 815",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 27 G v. 23.6.2021 I 1858",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1982 +++)<BR /><BR /></pre>Geltung im Saarland vgl. \u00a7 3 Abschn. VI Nr. 1 G v. 30.6.1959 101-3; die dort zitierten \u00a7\u00a7 84, 85 u. 88 BLG aF jetzt \u00a7\u00a7 88, 89 u. 92</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000100315",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"20*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"65*\" />\n\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"20*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Grundvorschrift</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 1</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">ERSTER TEIL</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\"><B>Die Leistungen</B></entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erster Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Allgemeine Vorschriften</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 2 bis 10</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zweiter Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Rechtliche Wirkungen der Leistungsanforderung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 11 bis 14</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Dritter Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Auskunftspflicht</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 15</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Vierter Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Leistungsvorbereitungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 16</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">F\u00fcnfter Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pflichten der Beteiligten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 17 bis 19</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sechster Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Die Abgeltung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 20 bis 33</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Siebenter Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verj\u00e4hrung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 34</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">ZWEITER TEIL</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\"><B>Verfahren</B></entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erster Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Durchf\u00fchrung der Anforderung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 35 bis 48</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zweiter Abschnitt:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Festsetzung von Entsch\u00e4digung und Ersatzleistung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 49 bis 65</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">DRITTER TEIL</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\"><B>Man\u00f6ver und andere \u00dcbungen</B></entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 66 bis 83</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">VIERTER TEIL</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\"><B>Bu\u00dfgeld- und Strafbestimmungen</B></entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 84 bis 86</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">F\u00dcNFTER TEIL</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\"><B>\u00dcbergangs- und Schlu\u00dfvorschriften</B></entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 87 bis 97</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000100315",
+        "name": "Grundvorschrift",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000200315",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000100315"
+        },
+        "body": "<P>(1) Leistungen k\u00f6nnen angefordert werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Abwendung einer drohenden Gefahr f\u00fcr den Bestand oder die freiheitliche demokratische Grundordnung des Bundes oder eines Landes oder zur Abwendung oder Beseitigung einer die Sicherheit der Grenzen gef\u00e4hrdenden St\u00f6rung der \u00f6ffentlichen Ordnung im Grenzgebiet;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Zwecke der Verteidigung, im besonderen zur Abwendung einer Gefahr, durch die von au\u00dfen der Bestand des Bundes entweder unmittelbar oder mittelbar im Rahmen seiner Einordnung in ein System gegenseitiger kollektiver Sicherheit bedroht wird;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Erf\u00fcllung der Verpflichtungen des Bundes aus zwischenstaatlichen Vertr\u00e4gen \u00fcber die Stationierung und die Rechtsstellung von Streitkr\u00e4ften ausw\u00e4rtiger Staaten im Bundesgebiet;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Unterbringung von Personen oder Verlegung von Betrieben und \u00f6ffentlichen Einrichtungen, die wegen einer Inanspruchnahme von Grundst\u00fccken f\u00fcr Zwecke der Nummern 1 bis 3 notwendig ist.</LA></DD> </DL> </P><P>(2) Die in \u00a7 5 Abs. 2 und \u00a7 38 vorgesehenen Befugnisse d\u00fcrfen au\u00dfer im Verteidigungsfall nur in Anspruch genommen werden, wenn die Bundesregierung festgestellt hat, da\u00df dies zur beschleunigten Herstellung der Verteidigungsbereitschaft der Bundesrepublik notwendig ist. Die Bundesregierung hat die Feststellung aufzuheben, wenn die Voraussetzungen hierf\u00fcr entfallen oder wenn der Bundestag und der Bundesrat es verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000200315",
+        "name": "Erster Teil",
+        "title": "Die Leistungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000300315",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Vorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000301307",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Als Leistungen k\u00f6nnen angefordert werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcberlassung von beweglichen Sachen zum Gebrauch, zum Mitgebrauch oder zu anderer Nutzung;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcberlassung beweglicher Sachen zum Eigentum, sofern der Verbrauch, ein langandauernder Gebrauch oder die Durchf\u00fchrung wesentlicher Ver\u00e4nderungen oder die Vornahme erheblicher Aufwendungen f\u00fcr die Sache wahrscheinlich ist;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcberlassung von Funkanlagen zum Gebrauch oder Mitgebrauch sowie die Unterlassung ihres Gebrauchs;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcberlassung von Fernsprech- und Fernschreibteilnehmereinrichtungen zum Gebrauch oder Mitgebrauch im Rahmen der bestehenden Vertragsverh\u00e4ltnisse mit Unternehmen, die Telekommunikationsdienstleistungen erbringen;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcberlassung von baulichen Anlagen oder Teilen von baulichen Anlagen, unbebauten Grundst\u00fccken oder freien Fl\u00e4chen von bebauten Grundst\u00fccken zum vor\u00fcbergehenden Gebrauch, Mitgebrauch oder zu einer anderen zeitlich beschr\u00e4nkten Nutzung;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterlassung des Gebrauchs, des Mitgebrauchs, der sonstigen Nutzung oder der \u00c4nderung von beweglichen und unbeweglichen Sachen;</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einbauten, \u00c4nderungen oder Wiederherstellungsma\u00dfnahmen an beweglichen und unbeweglichen Sachen, soweit ihre Vornahme dem Leistungspflichtigen selbst zuzumuten ist, sowie die Duldung solcher Ma\u00dfnahmen;</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Duldung von Einwirkungen auf bewegliche und unbewegliche Sachen;</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Werkleistungen, insbesondere Instandsetzungsleistungen, sowie Verpflegungsleistungen, soweit diese Leistungen im Rahmen des allgemeinen Gesch\u00e4ftsbetriebs des Leistungspflichtigen vorgenommen zu werden pflegen, ferner Verkehrsleistungen von Eigent\u00fcmern oder Besitzern von Verkehrsmitteln, auch wenn es sich nicht um Verkehrsunternehmen handelt;</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Abschlu\u00df von Vertr\u00e4gen \u00fcber wiederkehrende oder Dauerleistungen gem\u00e4\u00df Nummer 9 dieses Absatzes.</LA></DD> </DL> </P><P>(2) Die Inanspruchnahme von R\u00e4umen, Studios, Sende- und sonstigen technischen Einrichtungen und Anlagen der Rundfunkanstalten zum Gebrauch, zum Mitgebrauch oder zur Unterlassung des Gebrauchs ist nur f\u00fcr die in \u00a7 1 Abs. 1 Nr. 1 und 2 bestimmten Zwecke und nur dann zul\u00e4ssig, wenn sie zur Abwendung oder Beseitigung der Bedrohung oder Gefahr nach \u00a7 1 Abs. 1 Nr. 1 oder 2 unerl\u00e4\u00dflich ist.</P><P>(3) Leistungen nach Absatz 1 Nr. 1, 3 bis 6 und 8 bis 10 d\u00fcrfen nur auf bestimmte Zeit, und zwar Leistungen nach Nummer 10 l\u00e4ngstens f\u00fcr die Dauer von einem Jahr, im \u00fcbrigen l\u00e4ngstens f\u00fcr die Dauer von zwei Jahren verlangt werden. Die erneute Anforderung dieser Leistungen auch im Anschlu\u00df an die bisherige Anforderung ist zul\u00e4ssig, im Fall der Nummer 5 jedoch nur einmal. Bei Erteilung eines Bereitstellungsbescheids (\u00a7 36 Abs. 3) und w\u00e4hrend des Verteidigungsfalls oder nach einer Feststellung der Bundesregierung gem\u00e4\u00df \u00a7 1 Abs. 2 finden die S\u00e4tze 1 und 2 keine Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000400315",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Leistungen d\u00fcrfen nur angefordert werden, wenn der Bedarf auf andere Weise nicht oder nicht rechtzeitig oder nur mit unverh\u00e4ltnism\u00e4\u00dfigen Mitteln gedeckt werden kann. Die Anforderung ist auf das unerl\u00e4\u00dfliche Ma\u00df zu beschr\u00e4nken.</P><P>(2) Leistungen d\u00fcrfen nicht angefordert werden, wenn sie nach anderen gesetzlichen Erm\u00e4chtigungen angeordnet werden k\u00f6nnen.</P><P>(3) Bei allen Anforderungen sind die Interessen der Allgemeinheit und der Beteiligten gerecht abzuw\u00e4gen. Dabei soll die Leistungsf\u00e4higkeit der deutschen Wirtschaft angemessen ber\u00fccksichtigt werden. Die Bundesregierung regelt durch Rechtsverordnung mit Zustimmung des Bundesrates, wie sachverst\u00e4ndige Stellen der gewerblichen Wirtschaft an dem Verfahren der Erteilung von Leistungsbescheiden zu beteiligen sind, wenn wirtschaftliche Unternehmen leistungspflichtig werden. Kulturgut darf nicht gef\u00e4hrdet werden.</P><P>(4) Wohnr\u00e4ume, die f\u00fcr den unentbehrlichen Wohnbedarf des Besitzers und der zu seinem Hausstand geh\u00f6renden Personen erforderlich sind, d\u00fcrfen nur angefordert werden, wenn ausreichende anderweitige Unterbringung gesichert ist.</P><P>(5) Gewinnungs-, Fertigungs- und Handelsbetriebe, ferner Reparatur- und Reinigungsbetriebe (Werterhaltungsbetriebe) d\u00fcrfen nicht angefordert werden. Sachen, die zur Fortf\u00fchrung eines solchen Betriebs unentbehrlich sind, d\u00fcrfen nur dann angefordert werden, wenn dies f\u00fcr die Zwecke der Verteidigung unumg\u00e4nglich notwendig ist.</P><P>(6) Alle Anforderungen sind so zu gestalten und durchzuf\u00fchren, da\u00df keinem Betroffenen vermeidbare Nachteile entstehen. Der Lebensbedarf des Betroffenen mu\u00df gew\u00e4hrleistet bleiben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000500315",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Zu Leistungen k\u00f6nnen alle nat\u00fcrlichen und juristischen Personen sowie Personenvereinigungen innerhalb und au\u00dferhalb des Bundesgebiets mit ihren im Bundesgebiet befindlichen Verm\u00f6gensgegenst\u00e4nden herangezogen werden. Geh\u00f6ren ihnen Seeschiffe, die die Bundesflagge f\u00fchren, Binnenschiffe, die in einem Schiffsregister der Bundesrepublik eingetragen sind, oder Luftfahrzeuge, die in die Luftfahrzeugrolle der Bundesrepublik eingetragen sind, so k\u00f6nnen sie auch dann herangezogen werden, wenn das Schiff oder Luftfahrzeug sich au\u00dferhalb des Bundesgebiets befindet.</P><P>(2) Zu Leistungen k\u00f6nnen nicht herangezogen werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ausl\u00e4ndische Staatsangeh\u00f6rige, soweit nach Staatsvertr\u00e4gen oder anerkannten Regeln des V\u00f6lkerrechts Befreiungen bestehen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bund, L\u00e4nder, Gemeinden, Gemeindeverb\u00e4nde und andere juristische Personen des \u00f6ffentlichen Rechts und ihre Verb\u00e4nde hinsichtlich der Sachen und Rechte, die f\u00fcr die Erf\u00fcllung ihrer Verwaltungst\u00e4tigkeit unentbehrlich sind;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Parteien, die im Bundestag oder in der Volksvertretung eines Landes vertreten sind, sowie Gewerkschaften und Arbeitgeberverb\u00e4nde wegen der Sachen und Rechte, die f\u00fcr ihre Verwaltungst\u00e4tigkeit unentbehrlich sind;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kirchen und andere \u00f6ffentlich-rechtliche Religionsgemeinschaften sowie deren Verb\u00e4nde hinsichtlich der Sachen und Rechte, die kirchlichen Aufgaben dienen oder f\u00fcr die Erf\u00fcllung ihrer Verwaltungst\u00e4tigkeit unentbehrlich sind;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verkehrsunternehmen, die einer gesetzlichen Betriebs- und Bef\u00f6rderungspflicht unterliegen, hinsichtlich der zur Aufrechterhaltung des lebenswichtigen Verkehrs unentbehrlichen Verkehrsmittel, Anlagen, Einrichtungen und Geb\u00e4ude;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betriebe der \u00f6ffentlichen Versorgung mit Elektrizit\u00e4t, Gas und Wasser und der Abw\u00e4sserbeseitigung hinsichtlich der zur Erf\u00fcllung ihrer Aufgaben unentbehrlichen Sachen und Rechte einschlie\u00dflich der zugeh\u00f6rigen Schutzgebiete;</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">andere lebenswichtige Betriebe, soweit die Erf\u00fcllung ihrer Aufgaben durch die Leistung wesentlich beeintr\u00e4chtigt w\u00fcrde nach n\u00e4herer Bestimmung einer Rechtsverordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf.</LA></DD> </DL> </P><P>(3) Soweit Geb\u00e4ude oder bewegliche Sachen gemeinn\u00fctzigen, religi\u00f6sen, wohlt\u00e4tigen oder erzieherischen Aufgaben oder dem Unterricht oder der Forschung dienen, sollen sie nur zur Abwendung oder Beseitigung einer Gefahr oder einer St\u00f6rung im Sinne des \u00a7 1 Abs. 1 Nr. 1 oder f\u00fcr Zwecke der Verteidigung im Sinne des \u00a7 1 Abs. 1 Nr. 2 angefordert werden; dasselbe gilt hinsichtlich der unmittelbar der Erf\u00fcllung der Aufgaben der Sozialversicherungstr\u00e4ger und ihrer Verb\u00e4nde dienenden Geb\u00e4ude und beweglichen Sachen. Krankenh\u00e4user, Heil- und Pflegeanstalten oder andere der Gesundheitspflege dienende Einrichtungen sollen ebenfalls nur zu den in Satz 1 genannten Zwecken angefordert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000600315",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Leistungen k\u00f6nnen nur Beh\u00f6rden anfordern, die durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates bestimmt werden (Anforderungsbeh\u00f6rden). Zu Anforderungsbeh\u00f6rden k\u00f6nnen auch Bundesbeh\u00f6rden bestimmt werden.</P><P>(2) Im Verteidigungsfall oder nach einer Feststellung der Bundesregierung gem\u00e4\u00df \u00a7 1 Abs. 2 sind die Beh\u00f6rden der Bundeswehrverwaltung als Anforderungsbeh\u00f6rden zust\u00e4ndig f\u00fcr die Anforderung der nachstehenden Gegenst\u00e4nde und Leistungen, soweit diese f\u00fcr die Herstellung und Aufrechterhaltung der Einsatzbereitschaft der Streitkr\u00e4fte ben\u00f6tigt werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waffen und Munition, ausgenommen Jagd- und Zierwaffen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zelte;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Ausr\u00fcstungsgegenst\u00e4nde und Unterkunftsger\u00e4te f\u00fcr Truppen;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kraftfahrzeuge nebst Zubeh\u00f6r, sonstige Verkehrsmittel mit Ausnahme der See- und Binnenschiffe, der Seefischereifahrzeuge, Luftfahrzeuge und Stra\u00dfenbahnen, sowie Umschlagsanlagen und -einrichtungen f\u00fcr Kraftfahrzeuge und die vorgenannten sonstigen Verkehrsmittel;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">optisches Ger\u00e4t und Fernmeldeger\u00e4te mit Ausnahme der in \u00a7 2 Abs. 1 Nr. 3 und \u00a7 2 Abs. 2 bezeichneten Anlagen und Einrichtungen;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Stromerzeugungsanlagen (Notstrom-Aggregate), soweit sie nicht wesentlicher Bestandteil eines Grundst\u00fccks sind;</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Werkzeuge, Ger\u00e4tschaften und Maschinen, die zur Instandsetzung und Instandhaltung der unter Nummer 1 bis 6 aufgef\u00fchrten Gegenst\u00e4nde erforderlich sind, einschlie\u00dflich des Zubeh\u00f6rs und der Ersatzteile f\u00fcr die vorgenannten Gegenst\u00e4nde;</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betriebs- und Brennstoffe;</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Baustoffe, Bauhilfsstoffe, Werkzeuge, Ger\u00e4tschaften und Maschinen zur Herstellung oder Wiederherstellung von Geb\u00e4uden, Verkehrswegen und sonstigen Anlagen, einschlie\u00dflich der hierf\u00fcr ben\u00f6tigten Ersatz- und Zubeh\u00f6rteile;</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen gem\u00e4\u00df \u00a7 2 Abs. 1 Nr. 4 bis 10, Verkehrsleistungen jedoch nur, soweit diese mit Kraftfahrzeugen und den unter Nummer 4 genannten sonstigen Verkehrsmitteln ausgef\u00fchrt werden.</LA></DD> </DL> </P><P>(3) Die Anforderungen nach Absatz 2 erfolgen im Benehmen mit den Beh\u00f6rden, die nach der gem\u00e4\u00df Absatz 1 zu erlassenden Rechtsverordnung f\u00fcr die Anforderungen solcher Gegenst\u00e4nde und Leistungen sonst zust\u00e4ndig sind.</P><P>(4) Bei Anforderungen nach Absatz 2 haben die Beh\u00f6rden der Bundeswehrverwaltung die Bed\u00fcrfnisse f\u00fcr andere verteidigungswichtige Aufgaben und f\u00fcr den Schutz der Zivilbev\u00f6lkerung zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000700315",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Obliegt die Ausf\u00fchrung dieses Gesetzes Anforderungsbeh\u00f6rden der L\u00e4nder, so handeln sie im Auftrag des Bundes, soweit der Vollzug des Gesetzes der Verteidigung einschlie\u00dflich des Schutzes der Zivilbev\u00f6lkerung dient. Im \u00fcbrigen kann die Bundesregierung Einzelweisungen erteilen, wenn und soweit die Anforderung der Leistung oder die Festsetzung der Entsch\u00e4digung oder der Ersatzleistung eine einheitliche oder planm\u00e4\u00dfige Handhabung des Gesetzesvollzugs erfordert.</P><P>(2) Anforderungsbeh\u00f6rden, die keine staatlichen Beh\u00f6rden sind, handeln kraft staatlichen Auftrags unter Haftung des Auftraggebers. Die Verwaltungskosten der Gemeinden und der Gemeindeverb\u00e4nde werden vom Land erstattet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000800315",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Die Anforderungsbeh\u00f6rden fordern die Leistungen in der Regel auf Antrag von Bedarfstr\u00e4gern an. In dem Antrag sind der Grund der Anforderung, Art und Umfang des durch die Anforderung zu deckenden Bedarfs und der Zeitpunkt f\u00fcr die Bewirkung der Leistung anzugeben.</P><P>(2) Die Bedarfstr\u00e4ger werden durch Rechtsverordnung der Bundesregierung mit Zustimmung des Bundesrates bestimmt. Die Erm\u00e4chtigung zum Erla\u00df der Rechtsverordnung kann auf die Landesregierungen \u00fcbertragen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE000900315",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Leistungsempf\u00e4nger ist der Bedarfstr\u00e4ger, in den F\u00e4llen des \u00a7 1 Abs. 1 Nr. 3 der ausw\u00e4rtige Staat, f\u00fcr dessen Streitkr\u00e4fte die Leistung angefordert wird.</P><P>(2) Werden bauliche Anlagen oder Teile von baulichen Anlagen, Hausrat, Verkehrsmittel oder Verkehrsleistungen f\u00fcr die in \u00a7 1 Abs. 1 Nr. 1, 2 und 4 bezeichneten Zwecke auf Grund des \u00a7 2 Abs. 1 Nr. 1, 5 und 9 angefordert, so kann die Anforderungsbeh\u00f6rde denjenigen als Leistungsempf\u00e4nger bestimmen, dem die genannten Anforderungsgegenst\u00e4nde zum Gebrauch \u00fcberlassen oder f\u00fcr den die Verkehrsleistungen erbracht werden sollen. Satz 1 gilt entsprechend f\u00fcr die Anforderung von Verkehrsmitteln auf Grund des \u00a7 2 Abs. 1 Nr. 2 des Gesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001000315",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Leistungspflichtiger ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderungen nach \u00a7 2 Abs. 1 Nr. 1 und 3 bis 5, wer die tats\u00e4chliche Gewalt \u00fcber die Sache aus\u00fcbt;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderungen nach \u00a7 2 Abs. 1 Nr. 2 und 8 der Eigent\u00fcmer der Sache;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderungen nach \u00a7 2 Abs. 1 Nr. 6 derjenige, dem ein dingliches oder ein pers\u00f6nliches Recht zusteht, das zum Gebrauch, zum Mitgebrauch oder zur sonstigen Nutzung der Sache berechtigt;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderungen nach \u00a7 2 Abs. 1 Nr. 7 der Eigent\u00fcmer der Sache oder der Tr\u00e4ger der Bau- und Unterhaltungslast f\u00fcr die Verkehrsanlagen;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderungen nach \u00a7 2 Abs. 1 Nr. 9 der Inhaber des Betriebs sowie der Eigent\u00fcmer oder Besitzer des Verkehrsunternehmens oder des Verkehrsmittels;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderungen nach \u00a7 2 Abs. 1 Nr. 10, wer durch den Vertrag verpflichtet werden soll.</LA></DD> </DL> </P><P>(2) Im Einzelfall wird der Leistungspflichtige nach Ma\u00dfgabe des Absatzes 1 von der Anforderungsbeh\u00f6rde bestimmt. Die Anforderungsbeh\u00f6rde \u00fcberl\u00e4\u00dft die Bestimmung der einzelnen Leistungspflichtigen einer Gemeinde oder einem Gemeindeverband, wenn in deren Bezirk eine Mehrzahl von gleichartigen Leistungen erbracht werden soll und die \u00dcbertragung zur Beschleunigung der Anforderung erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001100315",
+        "name": "\u00a7 10",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000300315"
+        },
+        "body": "<P>(1) Der Eigent\u00fcmer kann eine Anforderung nach \u00a7 2 Abs. 1 Nr. 2 verlangen, wenn eine Anforderung nach \u00a7 2 Abs. 1 Nr. 1 erfolgt ist und ihm die Leistung zum Gebrauch, zum Mitgebrauch oder zu anderer Nutzung nicht zugemutet werden kann. Das gleiche gilt, wenn infolge von Ma\u00dfnahmen nach \u00a7 2 Abs. 1 Nr. 6 bis 8 die Sache nicht mehr in ihrer bisherigen oder in einer anderen dem Leistungspflichtigen zumutbaren Weise verwendet werden kann. Zust\u00e4ndig bleibt die Beh\u00f6rde, die die urspr\u00fcngliche Anforderung ausgesprochen hat.</P><P>(2) Der Eigent\u00fcmer eines Geb\u00e4udes oder Grundst\u00fccks kann die Entziehung des Eigentums nach den hierf\u00fcr geltenden besonderen gesetzlichen Vorschriften verlangen, wenn ihm die \u00dcberlassung zum Gebrauch, zum Mitgebrauch oder zur anderen Nutzung \u00fcber die Dauer der ersten Anforderung hinaus nicht zugemutet werden kann. Absatz 1 Satz 2 gilt entsprechend.</P><P>(3) Wer zur Nutzung einer Sache berechtigt ist, kann der Anforderung eines Teils dieser Sache zum Gebrauch, zum Mitgebrauch oder zur anderen Nutzung widersprechen und die Anforderung der ganzen Sache verlangen, wenn sein wirtschaftliches Interesse an der Aus\u00fcbung seines Rechtes durch die Anforderung des Teils entfallen oder unverh\u00e4ltnism\u00e4\u00dfig vermindert werden w\u00fcrde.</P><P>(4) Der Eigent\u00fcmer kann der Anforderung eines Teils der Sache zu Eigentum widersprechen und die Anforderung der ganzen Sache zu Eigentum verlangen, wenn der andere Teil f\u00fcr ihn keinen oder nur einen unverh\u00e4ltnism\u00e4\u00dfig geringen Wert h\u00e4tte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000400315",
+        "name": "Zweiter Abschnitt",
+        "title": "Rechtliche Wirkungen der\nLeistungsanforderung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001200315",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000400315"
+        },
+        "body": "<P>Eine Anforderung nach \u00a7 2 Abs. 1 Nr. 1 und 3 bis 6 bewirkt nicht, da\u00df Rechtsverh\u00e4ltnisse erl\u00f6schen, die den Leistungspflichtigen gegen\u00fcber Dritten zur Nutzung der Sache berechtigen. Der Leistungspflichtige ist jedoch von der Verpflichtung zu wiederkehrenden Leistungen aus einem Miet- oder Pachtverh\u00e4ltnis befreit, solange ihm durch die Anforderung die Nutzung der Sache in vollem Umfang entzogen wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001300315",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000400315"
+        },
+        "body": "<P>Im Falle einer Anforderung nach \u00a7 2 Abs. 1 Nr. 1, 3 bis 5, 7 und 8 d\u00fcrfen auch diejenigen, die nicht Leistungspflichtige sind, Rechte zur Nutzung der Sache nicht aus\u00fcben, soweit diese den Rechten des Leistungsempf\u00e4ngers entgegenstehen w\u00fcrden. \u00a7 11 gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001400315",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000400315"
+        },
+        "body": "<P>(1) Auf Grund einer Anforderung nach \u00a7 2 Abs. 1 Nr. 2 hat der Leistungspflichtige dem Leistungsempf\u00e4nger die angeforderte Sache herauszugeben. \u00dcbt ein anderer die tats\u00e4chliche Gewalt \u00fcber die Sache aus, so ist auch dieser zur Herausgabe verpflichtet.</P><P>(2) Der Leistungsempf\u00e4nger erwirbt das Eigentum an einer verbrauchbaren Sache, sobald er auf Grund der Anforderung in ihren Besitz gelangt. War der Leistungsempf\u00e4nger bereits im Besitz der Sache, bevor der Leistungsbescheid zugestellt worden ist, so erwirbt er das Eigentum erst mit der Zustellung.</P><P>(3) Wird eine nicht verbrauchbare Sache angefordert, so erwirbt der Leistungsempf\u00e4nger das Eigentum an der Sache, sobald der Leistungsbescheid gegen\u00fcber den Anfechtungsberechtigten, denen er zugestellt wurde, unanfechtbar geworden ist. Der Eigentumserwerb tritt nicht ein, solange der Leistungsempf\u00e4nger nicht den Besitz an der Sache erlangt hat. Die Sache gilt bis zum Eintritt des Eigentumserwerbs als zum Gebrauch oder zu anderer Nutzung angefordert.</P><P>(4) Werden Sachen aus einem Vorrat angefordert, so hat der Leistungspflichtige Sachen von mittlerer Art und G\u00fcte aus dem Vorrat auszusondern und herauszugeben. Absatz 1 Satz 2 gilt sinngem\u00e4\u00df.</P><P>(5) Mit dem Eigentumserwerb nach Absatz 2 oder 3 erl\u00f6schen die bisherigen Rechte an der angeforderten Sache und die pers\u00f6nlichen Rechte, die zum Besitz oder zur Nutzung der Sache berechtigen. Im Fall des Absatzes 3 gilt bis zum Eigentumserwerb des Leistungsempf\u00e4ngers \u00a7 11 sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001500315",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000400315"
+        },
+        "body": "<P>Der Leistungsbescheid auf Grund einer Anforderung nach \u00a7 2 Abs. 1 Nr. 10 gilt als bindendes Vertragsangebot des Leistungspflichtigen. Eine Annahme des Angebots hat der Leistungsempf\u00e4nger dem Leistungspflichtigen gegen\u00fcber unverz\u00fcglich zu erkl\u00e4ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000500315",
+        "name": "Dritter Abschnitt",
+        "title": "Auskunftspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001600315",
+        "name": "\u00a7 15",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000500315"
+        },
+        "body": "<P>(1) Alle nat\u00fcrlichen und juristischen Personen, Personenvereinigungen, Beh\u00f6rden und Einrichtungen haben, soweit sie nicht einer gesetzlichen Schweigepflicht unterliegen, den Anforderungsbeh\u00f6rden auf Verlangen alle zur Durchf\u00fchrung dieses Gesetzes erforderlichen Ausk\u00fcnfte zu erteilen und die vorhandenen Unterlagen vorzulegen. Die Auskunfts- und Vorlagepflicht erstreckt sich auch auf Planungen f\u00fcr die Herstellung oder Ver\u00e4nderung von Gegenst\u00e4nden, f\u00fcr die ein Bedarf festgestellt ist, der nach diesem Gesetz gedeckt werden soll.</P><P>(2) Die Anforderungsbeh\u00f6rden k\u00f6nnen ferner die Vorf\u00fchrung von Tieren, Verkehrsmitteln, Maschinen und Ger\u00e4ten aller Art an einem von ihnen zu bestimmenden Ort sowie die Duldung der Besichtigung von Anlagen und Gegenst\u00e4nden, die nach diesem Gesetz angefordert werden sollen, verlangen. Zu diesem Zweck haben die Auskunftspflichtigen das Betreten von Grundst\u00fccken und Fahrzeugen zu gestatten.</P><P>(3) Die Auskunftspflichtigen k\u00f6nnen die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen der in \u00a7 383 Abs. 1 Nr. 1 bis 3 der Zivilproze\u00dfordnung bezeichneten Angeh\u00f6rigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz \u00fcber Ordnungswidrigkeiten aussetzen w\u00fcrde.</P><P>(4) Auf die nach den Abs\u00e4tzen 1 und 2 erlangten Kenntnisse und Unterlagen sind \u00a7\u00a7 93, 97, 105 Abs. 1, \u00a7 111 Abs. 5 in Verbindung mit \u00a7 105 Abs. 1 sowie \u00a7 116 Abs. 1 der Abgabenordnung nicht anzuwenden. Dies gilt nicht, soweit die Finanzbeh\u00f6rden die Kenntnisse f\u00fcr die Durchf\u00fchrung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenh\u00e4ngenden Besteuerungsverfahrens ben\u00f6tigen, an deren Verfolgung ein zwingendes \u00f6ffentliches Interesse besteht, oder soweit es sich um vors\u00e4tzlich falsche Angaben des Auskunftspflichtigen oder der f\u00fcr ihn t\u00e4tigen Personen handelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000600315",
+        "name": "Vierter Abschnitt",
+        "title": "Leistungsvorbereitungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001700315",
+        "name": "\u00a7 16",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000600315"
+        },
+        "body": "<P>(1) Der Leistungspflichtige ist zu Handlungen, Duldungen und Unterlassungen verpflichtet, die zur ordnungsm\u00e4\u00dfigen Vorbereitung der Leistung notwendig sind.</P><P>(2) Die Anforderung der Leistungsvorbereitungen wird unwirksam, wenn nicht binnen drei Monaten eine Anforderung nach \u00a7 2 ausgesprochen wird.</P><P>(3) Anforderungsbeh\u00f6rde f\u00fcr die Leistungsvorbereitungen ist die f\u00fcr die Anforderung der Leistung zust\u00e4ndige Beh\u00f6rde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000700315",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Pflichten der Beteiligten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001801320",
+        "name": "\u00a7 17",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000700315"
+        },
+        "body": "<P>(1) Auf Grund der Anforderung hat der Leistungspflichtige die angeforderte Leistung rechtzeitig, ordnungsgem\u00e4\u00df und vollst\u00e4ndig zu bewirken. Ist kein Zeitpunkt oder keine Frist f\u00fcr die Leistung bestimmt, so ist sie unverz\u00fcglich zu erbringen.</P><P>(2) Erf\u00fcllt der Leistungspflichtige die ihm gegen\u00fcber dem Leistungsempf\u00e4nger obliegenden Verpflichtungen nicht, so hat er dem Leistungsempf\u00e4nger den dadurch entstehenden Schaden zu ersetzen, es sei denn, da\u00df er die Nichterf\u00fcllung bei sinngem\u00e4\u00dfer Anwendung der Vorschriften des b\u00fcrgerlichen Rechts nicht zu vertreten hat. Aus M\u00e4ngeln einer angeforderten Sache kann eine solche Ersatzpflicht nur hergeleitet werden, wenn der Leistungspflichtige den Mangel arglistig verschwiegen hat.</P><P>(3) Dem Leistungspflichtigen steht ein Recht, die Leistung bis zur Bewirkung der ihm geschuldeten Gegenleistung zu verweigern, nicht zu.</P><P>(4) Hat der Leistungsempf\u00e4nger auf eine zum Gebrauch angeforderte Sache Verwendungen gemacht, so kann er hierf\u00fcr Ersatz in entsprechender Anwendung der \u00a7 536a Abs. 2 Nr. 2, \u00a7 539 Abs. 1 des B\u00fcrgerlichen Gesetzbuchs verlangen. Der Anspruch richtet sich gegen den Leistungspflichtigen; ist dieser nicht Eigent\u00fcmer, so richtet sich der Anspruch gegen den Eigent\u00fcmer, es sei denn, da\u00df im Verh\u00e4ltnis zwischen diesem und dem Leistungspflichtigen der Leistungspflichtige die Aufwendungen zu tragen hat.</P><P>(5) Der Leistungsempf\u00e4nger ist berechtigt und auf Verlangen des Leistungspflichtigen verpflichtet, eine Einrichtung, mit der er die Sache versehen hat, wegzunehmen. Im Fall der Wegnahme ist er verpflichtet, die Sache auf seine Kosten in den vorigen Stand zu versetzen. \u00a7 258 Satz 2 des B\u00fcrgerlichen Gesetzbuchs gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE001900315",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000700315"
+        },
+        "body": "<P>(1) Der Leistungsempf\u00e4nger ist verpflichtet, die Leistung abzunehmen und dem Leistungspflichtigen ihren Empfang schriftlich zu best\u00e4tigen.</P><P>(2) Im Fall einer Anforderung nach \u00a7 2 Abs. 1 Nr. 1 und 3 bis 5 ist der Leistungsempf\u00e4nger zur R\u00fcckgabe der Sache an den Leistungspflichtigen nach Ablauf der f\u00fcr den Gebrauch, den Mitgebrauch oder die andere Nutzung bestimmten Frist oder bei Beendigung der Anforderung verpflichtet. Ist dem Leistungsempf\u00e4nger bekannt, da\u00df der Leistungspflichtige nicht zum Besitz der Sache berechtigt ist, so kann sich der Leistungsempf\u00e4nger durch die Herausgabe an die Anforderungsbeh\u00f6rde von dieser Verpflichtung befreien. Die Anforderungsbeh\u00f6rde hat die Sache an den zum Besitz Berechtigten herauszugeben.</P><P>(3) Die Verpflichtungen des Leistungsempf\u00e4ngers, f\u00fcr die empfangene Leistung eine Entsch\u00e4digung zu zahlen oder Ersatz zu leisten, bestimmen sich nach den Vorschriften des Sechsten Abschnitts.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002000315",
+        "name": "\u00a7 19",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000700315"
+        },
+        "body": "<P>Die Vorschriften des \u00a7 17 Abs. 1 und 2 \u00fcber die Pflichten des Leistungspflichtigen gelten sinngem\u00e4\u00df f\u00fcr den nach \u00a7 13 Abs. 1 Satz 2 Herausgabepflichtigen. Ihm ist gleichfalls der Empfang der Leistung schriftlich zu best\u00e4tigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000800315",
+        "name": "Sechster Abschnitt",
+        "title": "Die Abgeltung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002100315",
+        "name": "\u00a7 20",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>(1) Im Fall der Anforderung nach \u00a7 2 Abs. 1 Nr. 1 und 3 bis 8 hat der Leistungsempf\u00e4nger eine Entsch\u00e4digung zu zahlen, die sich nach dem f\u00fcr vergleichbare Leistungen im Wirtschaftsverkehr \u00fcblichen Entgelt bemi\u00dft. Fehlt es an vergleichbaren Leistungen oder ist ein \u00fcbliches Entgelt nicht zu ermitteln, so ist die Entsch\u00e4digung unter gerechter Abw\u00e4gung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen. Die Entsch\u00e4digung ist f\u00fcr die Zeit bis zur R\u00fcckgabe der angeforderten Sache oder, wenn die R\u00fcckgabe der angeforderten Sache unm\u00f6glich wird, bis zum Eintritt des Umstands zu gew\u00e4hren, der die Unm\u00f6glichkeit der R\u00fcckgabe zur Folge hat; bei Anforderungen nach \u00a7 2 Abs. 1 Nr. 6 bis 8 ist an Stelle des Zeitpunkts der R\u00fcckgabe der Zeitpunkt ma\u00dfgeblich, in dem die Verpflichtung zur Unterlassung oder zur Duldung wegf\u00e4llt. Die Entsch\u00e4digung ist in der Regel in monatlichen Teilbetr\u00e4gen nachtr\u00e4glich zu zahlen.</P><P>(2) Im Falle der Anforderung nach \u00a7 2 Abs. 1 Nr. 2 hat der Leistungsempf\u00e4nger eine Entsch\u00e4digung f\u00fcr den Verlust des Eigentums zu zahlen, die sich nach dem gemeinen Wert der Sache in dem Zeitpunkt bemi\u00dft, in dem er das Eigentum an der Sache erwirbt. Wenn der Leistungsempf\u00e4nger mit dem Besitz nicht gleichzeitig das Eigentum erwirbt, so ist der Zustand der Sache im Zeitpunkt des Besitzerwerbs ma\u00dfgebend; war er schon vor Zustellung des Leistungsbescheids im Besitz der Sache, so ist der Zeitpunkt der Zustellung zugrunde zu legen. Soweit die Sache nach \u00a7 13 Abs. 3 Satz 3 als zum Gebrauch oder zu anderer Nutzung angefordert gilt, ist hierf\u00fcr eine Entsch\u00e4digung unter sinngem\u00e4\u00dfer Anwendung des Absatzes 1 zu zahlen.</P><P>(3) Bei der Bemessung der Entsch\u00e4digung werden M\u00e4ngel der Sache nur ber\u00fccksichtigt, wenn der Leistungsempf\u00e4nger dem Leistungspflichtigen die M\u00e4ngel rechtzeitig angezeigt hat. Eine Anzeige ist rechtzeitig, wenn sie bei M\u00e4ngeln, die bei der \u00dcberlassung erkennbar waren, innerhalb von zwei Wochen seit der \u00dcberlassung, bei anderen M\u00e4ngeln innerhalb von zwei Wochen seit der Entdeckung, sp\u00e4testens jedoch innerhalb von sechs Monaten seit der \u00dcberlassung erfolgt. Zur Wahrung der Frist gen\u00fcgt die rechtzeitige Absendung der Anzeige.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002200315",
+        "name": "\u00a7 21",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>F\u00fcr Verm\u00f6gensnachteile, die nicht schon durch die Entsch\u00e4digung nach \u00a7 20 abgegolten sind, hat der Leistungsempf\u00e4nger eine Entsch\u00e4digung zu zahlen, die unter gerechter Abw\u00e4gung der Interessen der Allgemeinheit und der Beteiligten zu bestimmen ist. F\u00fcr entgangenen Gewinn und f\u00fcr sonstige Verm\u00f6gensnachteile, die nicht in unmittelbarem Zusammenhang mit dem Entzug der Nutzung stehen, ist eine Entsch\u00e4digung zu zahlen, wenn und soweit dies zur Abwendung oder zum Ausgleich unbilliger H\u00e4rten geboten erscheint. Die \u00fcblichen Umzugskosten sind in jedem Fall zu ersetzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002300315",
+        "name": "\u00a7 22",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>(1) Im Falle einer Anforderung nach \u00a7 2 Abs. 1 Nr. 9 hat der Leistungsempf\u00e4nger eine Entsch\u00e4digung zu zahlen, die sich nach den im Wirtschaftsverkehr f\u00fcr vergleichbare Leistungen \u00fcblichen Entgelten und Tarifen bemi\u00dft.</P><P>(2) Im Fall einer Anforderung nach \u00a7 2 Abs. 1 Nr. 10 hat der Leistungsempf\u00e4nger f\u00fcr Leistungen, die auf Grund des Vertrags erbracht werden, eine nach Absatz 1 zu bemessende Entsch\u00e4digung zu zahlen, sofern nicht ein Entgelt vereinbart ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002400315",
+        "name": "\u00a7 23",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>(1) Die Entsch\u00e4digung nach \u00a7 20 kann verlangen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Leistungen nach \u00a7 2 Abs. 1 Nr. 1, 5, 6 und 8 der Eigent\u00fcmer; die Entsch\u00e4digung steht dem Mieter oder P\u00e4chter zu, wenn er nicht nach \u00a7 11 Satz 2 von der Verpflichtung zu wiederkehrenden Leistungen befreit ist;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Leistungen nach \u00a7 2 Abs. 1 Nr. 3 und 4 der Nutzungsberechtigte;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Leistungen nach \u00a7 2 Abs. 1 Nr. 2 und 7 der Eigent\u00fcmer.</LA></DD> </DL> </P><P>(2) Eine Entsch\u00e4digung nach \u00a7 21 k\u00f6nnen verlangen der Eigent\u00fcmer, sonstige an der Sache zur Nutzung Berechtigte, Dienstbarkeitsberechtigte und diejenigen, die auf Grund eines pers\u00f6nlichen Rechtes die Sache besitzen.</P><P>(3) Die Entsch\u00e4digung nach \u00a7 22 kann der Leistungspflichtige verlangen.</P><P>(4) Dinglich an der Sache Berechtigte, die durch die Anforderung in ihren Rechten betroffen werden, sind nach Ma\u00dfgabe der Artikel 52, 53 und 53a des Einf\u00fchrungsgesetzes zum B\u00fcrgerlichen Gesetzbuch auf die Entsch\u00e4digung des Eigent\u00fcmers nach \u00a7 20 angewiesen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002500315",
+        "name": "\u00a7 24",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>F\u00fcr Leistungsvorbereitungen (\u00a7 16) sowie f\u00fcr Sch\u00e4den, die infolge einer Beschlagnahme (\u00a7 45) entstehen, ist dem Leistungspflichtigen eine angemessene Entsch\u00e4digung zu zahlen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002600315",
+        "name": "\u00a7 25",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>Im Fall einer Anforderung nach \u00a7 2 Abs. 1 Nr. 7 ist dem Eigent\u00fcmer f\u00fcr seine zur Durchf\u00fchrung dieser Ma\u00dfnahmen notwendigen besonderen Aufwendungen auf Verlangen angemessenen Vorschu\u00df zu leisten. Dies gilt sinngem\u00e4\u00df im Fall des \u00a7 16 Abs. 1.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002700315",
+        "name": "\u00a7 26",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>(1) Kann der Leistungsempf\u00e4nger eine angeforderte Sache, zu deren R\u00fcckgabe er verpflichtet ist, nicht zur\u00fcckgeben oder gibt er sie in verschlechtertem oder besch\u00e4digtem Zustand zur\u00fcck, so hat er dem Eigent\u00fcmer Ersatz zu leisten.</P><P>(2) Kann die Sache nicht zur\u00fcckgegeben werden, so bemi\u00dft sich die H\u00f6he der Ersatzleistung nach dem gemeinen Wert der Sache im Zeitpunkt der F\u00e4lligkeit des R\u00fcckgabeanspruchs (\u00a7 18 Abs. 2 Satz 1). Eine vor diesem Zeitpunkt eingetretene Wertminderung, die \u00fcber die gew\u00f6hnliche Abnutzung hinausgeht, bleibt bei der Bemessung unber\u00fccksichtigt.</P><P>(3) Wird die Sache in verschlechtertem oder besch\u00e4digtem Zustand zur\u00fcckgegeben, so bemi\u00dft sich die H\u00f6he der Ersatzleistung nach den f\u00fcr eine sachgem\u00e4\u00dfe Instandsetzung erforderlichen Kosten. Bei der Bemessung ist eine durch die Instandsetzung nicht zu behebende Wertminderung zu ber\u00fccksichtigen. Die H\u00f6he der Ersatzleistung darf den gemeinen Wert nicht \u00fcbersteigen, den die Sache ohne die Verschlechterung oder Besch\u00e4digung im Zeitpunkt der R\u00fcckgabe gehabt h\u00e4tte.</P><P>(4) F\u00fcr die gew\u00f6hnliche Abnutzung der Sache w\u00e4hrend der Zeit, f\u00fcr die Entsch\u00e4digung nach \u00a7 20 Abs. 1 gew\u00e4hrt wird, ist kein Ersatz zu leisten.</P><P>(5) Eine Ersatzleistung durch Herstellung in Natur kann nicht verlangt werden.</P><P>(6) \u00a7 23 Abs. 4 gilt sinngem\u00e4\u00df f\u00fcr die Ersatzleistung.</P><P>(7) Kann eine angeforderte Sache nach R\u00fcckgabe ganz oder zum Teil nicht alsbald wieder genutzt werden, weil Sch\u00e4den an ihr behoben werden m\u00fcssen, so hat der Leistungsempf\u00e4nger f\u00fcr die hierdurch entstehenden Verm\u00f6gensnachteile nach Ma\u00dfgabe des \u00a7 21 Entsch\u00e4digung zu leisten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002800315",
+        "name": "\u00a7 27",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>Hat die Anforderungsbeh\u00f6rde einen anderen als einen Bedarfstr\u00e4ger zum Leistungsempf\u00e4nger bestimmt (\u00a7 8 Abs. 2), so hat der Leistungsempf\u00e4nger Ersatz nach \u00a7 26 Abs. 1 nur zu leisten, wenn sich eine Ersatzpflicht bei sinngem\u00e4\u00dfer Anwendung der Vorschriften des b\u00fcrgerlichen Rechts ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE002901306",
+        "name": "\u00a7 28",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>(1) K\u00f6rper- und Gesundheitssch\u00e4den, Sch\u00e4den durch Verlust, Besch\u00e4digung oder Verschlechterung anderer als der angeforderten Sachen sowie Haftpflichtsch\u00e4den, die der Leistungspflichtige, seine Erf\u00fcllungsgehilfen oder der nach \u00a7 13 Abs. 1 Satz 2 Herausgabepflichtige infolge der Erf\u00fcllung einer auf der Anforderung beruhenden Leistung erleiden, hat der Leistungsempf\u00e4nger, in den F\u00e4llen des \u00a7 8 Abs. 2 der Bedarfstr\u00e4ger den Gesch\u00e4digten angemessen zu ersetzen, soweit diese nicht auf andere Weise Ersatz zu erlangen verm\u00f6gen.</P><P>(2) F\u00fcr K\u00f6rper- und Gesundheitssch\u00e4den gelten die \u00a7\u00a7 843 bis 846 des B\u00fcrgerlichen Gesetzbuchs sinngem\u00e4\u00df. Bei der Bemessung des Ersatzes f\u00fcr Sachsch\u00e4den sind die Vorschriften des \u00a7 26 Abs. 2, 3 und 5 sinngem\u00e4\u00df anzuwenden.</P><P>(3) Trifft die Ersatzpflicht nach Absatz 1 mit einer Ersatzpflicht auf Grund fahrl\u00e4ssiger Amtspflichtverletzung zusammen, so wird die Ersatzpflicht nach \u00a7 839 Abs. 1 des B\u00fcrgerlichen Gesetzbuchs nicht dadurch ausgeschlossen, da\u00df die Voraussetzungen des Absatzes 1 vorliegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 28 Abs. 3: Aufgeh. durch \u00a7 34 Abs. 1 Satz 2 Nr. 7 G v. 26.6.1981 I 553, gem. BVerfGE v. 19.10.1982 I 1493 mit Art. 70 GG unvereinbar und daher nichtig</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003001320",
+        "name": "\u00a7 29",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>(1) Wird die Entsch\u00e4digung oder Ersatzleistung nicht innerhalb eines Monats nach Einigung (\u00a7 51) oder Festsetzung, bei wiederkehrenden Leistungen nicht innerhalb eines Monats nach der sich aus der Einigung oder Festsetzung ergebenden F\u00e4lligkeit gezahlt, so ist sie von diesem Zeitpunkt an mit zwei vom Hundert \u00fcber dem jeweiligen Basiszinssatz nach \u00a7 247 des B\u00fcrgerlichen Gesetzbuchs zu verzinsen. Das gilt nicht, soweit den zur Entsch\u00e4digung oder Ersatzleistung Berechtigten ein Verschulden an der Verz\u00f6gerung der Zahlung trifft. Soweit der Berechtigte auf die Entsch\u00e4digung oder Ersatzleistung Vorauszahlungen erhalten hat, entf\u00e4llt die Verpflichtung zur Verzinsung.</P><P>(2) Erfolgt die Einigung oder Festsetzung nicht innerhalb dreier Monate nach Bewirkung der Leistung oder der F\u00e4lligkeit des Ersatzanspruchs in den F\u00e4llen der \u00a7\u00a7 26, 27 und 28, so sind die in Absatz 1 genannten Zinsen von diesem Zeitpunkt an zu zahlen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003100315",
+        "name": "\u00a7 30",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>In den F\u00e4llen der \u00a7\u00a7 26 und 28 ist der Leistungsempf\u00e4nger zur Ersatzleistung nur gegen Abtretung der Anspr\u00fcche verpflichtet, die dem Ersatzberechtigten auf Grund des Ereignisses, auf dem die Ersatzpflicht des Leistungsempf\u00e4ngers beruht, gegen andere Personen zustehen. Dies gilt im Fall des \u00a7 26 nicht f\u00fcr Anspr\u00fcche aus einem Versicherungsverh\u00e4ltnis.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003200315",
+        "name": "\u00a7 31",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>Soweit Preisvorschriften bestehen, unterliegt ihnen die Bemessung der Entsch\u00e4digung und Ersatzleistung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003300315",
+        "name": "\u00a7 32",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>(1) Eine Entsch\u00e4digung nach den \u00a7\u00a7 20 bis 22 und 24 sowie eine Ersatzleistung nach den \u00a7\u00a7 26 und 27 wird nicht gezahlt, soweit einem Entsch\u00e4digungs- oder Ersatzberechtigten infolge der Anforderung Verm\u00f6gensvorteile erwachsen.</P><P>(2) Hat in den F\u00e4llen der \u00a7\u00a7 21 und 26 bis 28 bei der Entstehung des Schadens ein Verschulden des Entsch\u00e4digungs- oder Ersatzberechtigten mitgewirkt, so gilt \u00a7 254 des B\u00fcrgerlichen Gesetzbuchs sinngem\u00e4\u00df.</P><P>(3) Eine Pflicht zur Ersatzleistung nach den \u00a7\u00a7 26 bis 28 besteht nicht, wenn der Schaden auch ohne die Anforderung eingetreten w\u00e4re.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003400315",
+        "name": "\u00a7 33",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000800315"
+        },
+        "body": "<P>(1) Hat die Anforderungsbeh\u00f6rde einen anderen als einen Bedarfstr\u00e4ger zum Leistungsempf\u00e4nger bestimmt (\u00a7 8 Abs. 2) und erf\u00fcllt dieser seine Verbindlichkeiten nicht binnen drei Wochen seit ihrer F\u00e4lligkeit, so haftet f\u00fcr die Erf\u00fcllung dieser Verbindlichkeiten der Bedarfstr\u00e4ger; im Fall des \u00a7 27 haftet er jedoch nur nach Ma\u00dfgabe des \u00a7 26.</P><P>(2) Soweit der Leistungsempf\u00e4nger nach \u00a7 27 zum Ersatz nicht verpflichtet ist, trifft die in \u00a7 26 vorgesehene Ersatzpflicht den Bedarfstr\u00e4ger.</P><P>(3) Soweit der Bedarfstr\u00e4ger den Entsch\u00e4digungs- oder Ersatzberechtigten nach Absatz 1 befriedigt, gehen dessen Anspr\u00fcche gegen den Leistungsempf\u00e4nger auf den Bedarfstr\u00e4ger \u00fcber. Der \u00dcbergang kann nicht zum Nachteil des Berechtigten geltend gemacht werden.</P><P>(4) Im Fall des Absatzes 2 gilt \u00a7 30 sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG000900315",
+        "name": "Siebenter Abschnitt",
+        "title": "Verj\u00e4hrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000200315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003500315",
+        "name": "\u00a7 34",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG000900315"
+        },
+        "body": "<P>(1) Nach diesem Gesetz begr\u00fcndete Zahlungsanspr\u00fcche verj\u00e4hren in vier Jahren. Die Verj\u00e4hrung beginnt mit dem Schlu\u00df des Jahres, in dem der Anspruch entsteht. Die \u00a7\u00a7 202 bis 225 des B\u00fcrgerlichen Gesetzbuchs gelten sinngem\u00e4\u00df; der Klageerhebung (\u00a7 209 des B\u00fcrgerlichen Gesetzbuchs) steht die Stellung des Antrags bei der Anforderungsbeh\u00f6rde gleich.</P><P>(2) Auf die Verj\u00e4hrung anderer nach diesem Gesetz begr\u00fcndeter Anspr\u00fcche sind die Vorschriften des B\u00fcrgerlichen Gesetzbuchs anzuwenden.</P><P>(3) Die Vorschriften \u00fcber den Verlust von Anspr\u00fcchen <I>nach Artikel 8 Abs. 6 des Finanzvertrags sowie</I> nach Artikel 6 und 7 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183) bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG001000315",
+        "name": "Zweiter Teil",
+        "title": "Verfahren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG001100315",
+        "name": "Erster Abschnitt",
+        "title": "Durchf\u00fchrung der Anforderung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001000315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003600315",
+        "name": "\u00a7 35",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>Leistungen werden von der Anforderungsbeh\u00f6rde durch Leistungsbescheid angefordert.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003700315",
+        "name": "\u00a7 36",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>(1) Der Leistungsbescheid bedarf der Schriftform. In ihm m\u00fcssen der Grund der Anforderung, die Anforderungsbeh\u00f6rde, der Gegenstand und der Zeitpunkt der Leistung, der Bedarfstr\u00e4ger, der Leistungspflichtige und der Leistungsempf\u00e4nger bezeichnet werden.</P><P>(2) Der Leistungsbescheid kann auch bedingt, befristet oder auf Widerruf erlassen werden.</P><P>(3) Wenn sich der Zeitpunkt der Leistung bei der Anforderung f\u00fcr die in \u00a7 1 Abs. 1 Nr. 1 bis 3 genannten Zwecke noch nicht bestimmen l\u00e4\u00dft, kann der Leistungsbescheid auch in der Form ergehen, da\u00df die Bestimmung des Zeitpunkts der Leistung einer sp\u00e4teren Benachrichtigung vorbehalten bleibt (Bereitstellungsbescheid). F\u00fcr die in \u00a7 5 Abs. 2 bezeichneten Gegenst\u00e4nde und Leistungen k\u00f6nnen die Beh\u00f6rden der Bundeswehrverwaltung Bereitstellungsbescheide vor dem Eintritt des Verteidigungsfalls oder vor einer Feststellung der Bundesregierung gem\u00e4\u00df \u00a7 1 Abs. 2 erlassen. Diese Bereitstellungsbescheide ergehen im Einvernehmen mit den gem\u00e4\u00df \u00a7 5 Abs. 1 sonst zust\u00e4ndigen Beh\u00f6rden.</P><P>(4) Durch den Bereitstellungsbescheid wird die Ver\u00e4u\u00dferung oder eine sonstige Verf\u00fcgung \u00fcber den betroffenen Gegenstand nicht gehindert; dem Leistungspflichtigen kann jedoch auferlegt werden, die Ver\u00e4u\u00dferung oder Verf\u00fcgung der Anforderungsbeh\u00f6rde anzuzeigen.</P><P>(5) Die Anforderungsbeh\u00f6rde ist verpflichtet, in dem Leistungsbescheid die gesetzlichen Grundlagen der Anforderung zu bezeichnen. Sie mu\u00df eine Rechtsmittelbelehrung erteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003800315",
+        "name": "\u00a7 37",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>(1) Der Leistungsbescheid ist dem Leistungspflichtigen (\u00a7 9) zuzustellen.</P><P>(2) Kann ein Leistungsbescheid, der sich auf eine Anforderung nach \u00a7 2 Abs. 1 Nr. 2, 7 und 8 bezieht, dem Leistungspflichtigen nicht oder nicht ohne eine ihren Zweck gef\u00e4hrdende Verz\u00f6gerung zugestellt werden, so kann er demjenigen zugestellt werden, der die tats\u00e4chliche Gewalt \u00fcber die Sache aus\u00fcbt. Erfolgt die Zustellung nicht an den Leistungspflichtigen selbst, so ist dieser durch \u00dcbersendung einer Abschrift unverz\u00fcglich zu benachrichtigen.</P><P>(3) Kann unter den Voraussetzungen des Absatzes 2 ein Leistungsbescheid, der sich auf eine Anforderung nach \u00a7 2 Abs. 1 Nr. 9 bezieht, nicht dem Leistungspflichtigen zugestellt werden, so kann er dem Leiter der Werkstatt, des Betriebs oder des Verkehrsunternehmens und, wenn auch bei ihm diese Voraussetzungen vorliegen, seinem Stellvertreter oder dem Leiter einer \u00f6rtlichen selbst\u00e4ndigen Abteilung zugestellt werden.</P><P>(4) In den F\u00e4llen der Abs\u00e4tze 2 und 3 treten dieselben rechtlichen Wirkungen ein, wie wenn der Leistungsbescheid dem Leistungspflichtigen zugestellt w\u00e4re.</P><P>(5) Der Leistungsbescheid soll auch allen der Anforderungsbeh\u00f6rde bekannten Personen zugestellt werden, die durch die Anforderung in ihren Rechten betroffen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE003900315",
+        "name": "\u00a7 38",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>Soll im Verteidigungsfall oder nach einer Feststellung der Bundesregierung gem\u00e4\u00df \u00a7 1 Abs. 2 ein Verkehrsmittel nach \u00a7 2 Abs. 1 Nr. 1 angefordert werden und kann der Leistungsbescheid dem Leistungspflichtigen nicht oder nicht ohne eine den Zweck der Anforderung gef\u00e4hrdende Verz\u00f6gerung zugestellt werden, so kann die Zustellung an die in \u00a7 37 Abs. 3 bezeichneten Personen oder - wenn die Zustellung an diese Personen aus den gleichen Gr\u00fcnden undurchf\u00fchrbar w\u00e4re - an den F\u00fchrer des Verkehrsmittels erfolgen. Unter denselben Voraussetzungen ist die Zustellung an den F\u00fchrer des Verkehrsmittels auch bei der Anforderung von Verkehrsleistungen gem\u00e4\u00df \u00a7 2 Abs. 1 Nr. 9 zul\u00e4ssig, sofern die Ausf\u00fchrung von Verkehrsleistungen zum Gewerbebetrieb geh\u00f6rt oder das Fahrzeug dem Werkverkehr dient. \u00a7 37 Abs. 2 Satz 2, Abs. 4 und 5 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004000315",
+        "name": "\u00a7 39",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>Auf Antrag des Bedarfstr\u00e4gers hat die Anforderungsbeh\u00f6rde die sofortige Vollziehung des Leistungsbescheids anzuordnen. In diesem Fall kann die Widerspruchsbeh\u00f6rde die Vollziehung nicht aussetzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004100315",
+        "name": "\u00a7 40",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>Leistungsvorbereitungen nach \u00a7 16 sind schriftlich anzufordern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004200315",
+        "name": "\u00a7 41",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>Zur Sicherung des Beweises soll, soweit es sachdienlich und unter den gegebenen Umst\u00e4nden m\u00f6glich ist, der Zustand einer angeforderten Sache auf Antrag der Beteiligten durch Sachverst\u00e4ndige festgestellt und ihr Wert gesch\u00e4tzt werden. Hier\u00fcber ist eine Niederschrift aufzunehmen, die den Beteiligten zuzustellen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004300315",
+        "name": "\u00a7 42",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>Bietet der Leistungspflichtige dem Leistungsempf\u00e4nger zu angemessenen Bedingungen den Abschlu\u00df eines Rechtsgesch\u00e4fts an, auf Grund dessen die angeforderte Leistung fortan zu erbringen ist, und erscheint die Erf\u00fcllung des Rechtsgesch\u00e4fts hinreichend gesichert, so ist der Leistungsbescheid aufzuheben, wenn der Leistungsempf\u00e4nger den Abschlu\u00df des Rechtsgesch\u00e4fts ohne berechtigten Grund ablehnt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004400315",
+        "name": "\u00a7 43",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>(1) Fallen die Voraussetzungen der Anforderung weg, so hat die Anforderungsbeh\u00f6rde <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderung von Leistungen nach \u00a7 2 Abs. 1 Nr. 1 und 3 bis 8 auf Antrag des Leistungsempf\u00e4ngers oder des Entsch\u00e4digungsberechtigten die Beendigung der Anforderung anzuordnen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderung von Leistungen nach \u00a7 2 Abs. 1 Nr. 2 auf Antrag des Leistungspflichtigen eine Anordnung zu erlassen, kraft deren dieser das Eigentum an der angeforderten Sache wieder erwirbt, sofern die Sache sich noch im Eigentum und im Besitz des Leistungsempf\u00e4ngers befindet und er der Sache f\u00fcr die im Leistungsbescheid angegebenen Zwecke nicht mehr bedarf, es sei denn, da\u00df die Leistung im \u00f6ffentlichen Interesse f\u00fcr einen anderen der in \u00a7 1 Abs. 1 genannten Zwecke dringend ben\u00f6tigt wird. Eine \u00c4nderung des Zweckes der angeforderten Leistung im Rahmen des \u00a7 1 Abs. 1 ist ausgeschlossen, wenn sie zu einer unzumutbaren H\u00e4rte f\u00fcr den Leistungspflichtigen f\u00fchren w\u00fcrde;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderung von Leistungen nach \u00a7 2 Abs. 1 Nr. 9 auf Antrag des Leistungspflichtigen diesen von der Erbringung weiterer Leistungen zu entbinden;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Anforderung von Leistungen nach \u00a7 2 Abs. 1 Nr. 10 auf Antrag des Leistungspflichtigen diesem das Recht einzur\u00e4umen, den Vertrag zu k\u00fcndigen.</LA></DD> </DL>Bei Anforderung von Wohnraum ist in Abst\u00e4nden von l\u00e4ngstens sechs Monaten, beginnend mit dem Zeitpunkt der Zustellung des Leistungsbescheids, von Amts wegen zu pr\u00fcfen, ob die Voraussetzungen der Anforderung noch vorliegen.</P><P>(2) Anordnungen nach Absatz 1 sind dem Leistungsempf\u00e4nger und dem Leistungspflichtigen, im Fall des Absatzes 1 Nr. 1 an Stelle des Leistungspflichtigen dem Entsch\u00e4digungsberechtigten zuzustellen. Sie werden wirksam, sobald sie f\u00fcr diese unanfechtbar geworden sind.</P><P>(3) In den F\u00e4llen des Absatzes 1 Nr. 2 sind die f\u00fcr die Anforderung einer Sache zu Eigentum geltenden Vorschriften sinngem\u00e4\u00df anzuwenden. Bei der Bemessung der dem Leistungsempf\u00e4nger zu zahlenden Entsch\u00e4digung ist der Betrag der auf Grund der Anforderung nach \u00a7 20 Abs. 2 gezahlten Entsch\u00e4digung zugrunde zu legen. Eine in der Zwischenzeit eingetretene Ver\u00e4nderung des Wertes der Sache ist zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004500315",
+        "name": "\u00a7 44",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>(1) Auf die Erzwingung von Handlungen, Duldungen oder Unterlassungen, die nach diesem Gesetz angefordert werden, sind die Vorschriften des Verwaltungs-Vollstreckungsgesetzes vom 27. April 1953 (Bundesgesetzbl. I S. 157) entsprechend anzuwenden. Gegen Leistungsempf\u00e4nger, die Bedarfstr\u00e4ger sind, darf der Verwaltungszwang nicht angewandt werden.</P><P>(2) Vollzugsbeh\u00f6rde ist die Anforderungsbeh\u00f6rde oder die Beh\u00f6rde, die von der Landesregierung bestimmt wird. Die Vollzugsbeh\u00f6rde kann die Verwaltungshilfe anderer Beh\u00f6rden in Anspruch nehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004600315",
+        "name": "\u00a7 45",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>(1) Die Anforderungsbeh\u00f6rde kann zur Sicherstellung einer anzufordernden Leistung die Beschlagnahme der Sache anordnen, auf die sich ein zu erlassender Leistungsbescheid beziehen soll. Die Beschlagnahme wird mit der Zustellung der Anordnung an denjenigen wirksam, der bei einer Anforderung Leistungspflichtiger sein w\u00fcrde.</P><P>(2) Die Beschlagnahme bewirkt, da\u00df Rechtsgesch\u00e4fte \u00fcber die beschlagnahmte Sache insoweit unwirksam sind, als sie dem mit den ergehenden Anforderungen verfolgten Zweck zuwiderlaufen; auch d\u00fcrfen wesentliche Ver\u00e4nderungen an der Sache ohne Genehmigung der Anforderungsbeh\u00f6rde nicht vorgenommen werden. Den Rechtsgesch\u00e4ften in diesem Sinne stehen auch Verf\u00fcgungen im Wege der Zwangsvollstreckung oder Arrestvollziehung gleich.</P><P>(3) Beschlagnahmen werden unwirksam, wenn die Leistung nicht innerhalb zweier Monate angefordert wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004701320",
+        "name": "\u00a7 46",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004801310",
+        "name": "\u00a7 47",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>F\u00fcr die Zustellungen durch die Verwaltungsbeh\u00f6rde nach diesem Gesetz gelten die Vorschriften des Verwaltungszustellungsgesetzes mit folgender Ma\u00dfgabe: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">In dringenden F\u00e4llen kann, soweit eine Zustellung gem\u00e4\u00df den \u00a7\u00a7 3 bis 5 des Verwaltungszustellungsgesetzes nicht m\u00f6glich ist, die Zustellung durch schriftliche oder fernschriftliche Mitteilung oder - ohne da\u00df die Voraussetzungen f\u00fcr eine \u00f6ffentliche Zustellung nach \u00a7 15 des Verwaltungszustellungsgesetzes vorzuliegen brauchen - durch \u00f6ffentliche Bekanntmachung in der Presse, im Rundfunk oder in einer sonstigen orts\u00fcblichen und geeigneten Weise erfolgen. In diesen F\u00e4llen gilt die Zustellung mit dem auf die Bekanntgabe folgenden Tag als bewirkt, sofern nicht der Betroffene glaubhaft macht, da\u00df die Bekanntgabe \u00fcberhaupt nicht oder erst in einem sp\u00e4teren Zeitpunkt zu seiner Kenntnis gelangt ist.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zustellungen an F\u00fchrer von Seeschiffen, Binnenschiffen und Luftfahrzeugen k\u00f6nnen auch durch Funkspruch vorgenommen werden. Eine Ausfertigung des Bescheids ist gleichzeitig dem leistungspflichtigen Eigent\u00fcmer oder Besitzer zu \u00fcbermitteln.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE004900315",
+        "name": "\u00a7 48",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001100315"
+        },
+        "body": "<P>(1) Das Verfahren vor den Verwaltungsbeh\u00f6rden ist kostenfrei. Dem Leistungspflichtigen k\u00f6nnen jedoch Auslagen insoweit auferlegt werden, als er sie durch grobes Verschulden verursacht hat.</P><P>(2) Auslagen, die dem Leistungspflichtigen durch das Verfahren entstanden sind, werden ihm erstattet, wenn sie zur zweckentsprechenden Wahrnehmung seiner Rechte notwendig waren und sich sein Antrag als begr\u00fcndet erweist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG001200315",
+        "name": "Zweiter Abschnitt",
+        "title": "Festsetzung von Entsch\u00e4digung\nund Ersatzleistung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001000315"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005000315",
+        "name": "\u00a7 49",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>Entsch\u00e4digung und Ersatzleistung werden durch die Anforderungsbeh\u00f6rden festgesetzt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005100315",
+        "name": "\u00a7 50",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>Wer Anspruch auf Entsch\u00e4digung oder Ersatzleistung erhebt, hat der Anforderungsbeh\u00f6rde schriftlich oder zur Niederschrift zu erkl\u00e4ren, ob und welche anderen Personen nach seiner Kenntnis ein Recht auf die Entsch\u00e4digung oder Ersatzleistung geltend machen oder geltend machen k\u00f6nnen. Die Erkl\u00e4rung ist dem Zahlungspflichtigen und den als Berechtigte benannten Personen zuzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005200315",
+        "name": "\u00a7 51",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Vor der Festsetzung der Entsch\u00e4digung oder der Ersatzleistung hat die Anforderungsbeh\u00f6rde durch einen Vorschlag auf eine g\u00fctliche Einigung der Beteiligten hinzuwirken. Beteiligte sind der Zahlungspflichtige und die der Anforderungsbeh\u00f6rde bekannten Berechtigten.</P><P>(2) Kommt eine Einigung zustande, so hat die Anforderungsbeh\u00f6rde diese zu beurkunden und den Beteiligten eine beglaubigte Abschrift der Urkunde zuzustellen.</P><P>(3) Kommt eine Einigung nicht zustande, so setzt die Anforderungsbeh\u00f6rde die H\u00f6he der Entsch\u00e4digung oder der Ersatzleistung fest, nachdem sie den Beteiligten Gelegenheit zur Stellungnahme gegeben hat.</P><P>(4) Die Festsetzung erfolgt durch schriftlichen Bescheid, in dem die Anforderungsbeh\u00f6rde, der Zahlungspflichtige, der Zahlungsempf\u00e4nger, die Gr\u00fcnde der Entscheidung und die zul\u00e4ssigen Rechtsmittel anzugeben sind. Er ist den Beteiligten zuzustellen.</P><P>(5) Besteht bei der Anforderungsbeh\u00f6rde Ungewi\u00dfheit \u00fcber die Person des Zahlungsempf\u00e4ngers, so hat sie anzuordnen, da\u00df der als Entsch\u00e4digung oder Ersatzleistung zu zahlende Geldbetrag unter Verzicht auf das Recht der R\u00fccknahme zu hinterlegen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005300315",
+        "name": "\u00a7 52",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Die Niederschrift \u00fcber die Einigung nach \u00a7 51 Abs. 2 ist nach Zustellung an die Beteiligten vollstreckbar. Der Festsetzungsbescheid nach \u00a7 51 Abs. 3 ist den Beteiligten gegen\u00fcber vollstreckbar, wenn er f\u00fcr diese unanfechtbar geworden ist oder das Gericht ihn f\u00fcr vorl\u00e4ufig vollstreckbar erkl\u00e4rt hat.</P><P>(2) Die Zwangsvollstreckung richtet sich nach den Vorschriften der Zivilproze\u00dfordnung \u00fcber die Vollstreckung von Urteilen in b\u00fcrgerlichen Rechtsstreitigkeiten. Die vollstreckbare Ausfertigung wird von dem Urkundsbeamten der Gesch\u00e4ftsstelle des Amtsgerichts erteilt, in dessen Bezirk die mit dem Festsetzungsverfahren befa\u00dfte Beh\u00f6rde ihren Sitz hat, und, wenn das Verfahren bei einem Gericht anh\u00e4ngig ist, von dem Urkundsbeamten der Gesch\u00e4ftsstelle dieses Gerichts. In den F\u00e4llen der \u00a7\u00a7 731, 767 bis 770, 785, 786, 791 der Zivilproze\u00dfordnung tritt das Amtsgericht, in dessen Bezirk die mit dem Festsetzungsverfahren befa\u00dfte Beh\u00f6rde ihren Sitz hat, an die Stelle des Proze\u00dfgerichts.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005400315",
+        "name": "\u00a7 53",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Hat der Entsch\u00e4digungsberechtigte im Fall einer Anforderung nach \u00a7 2 Abs. 1 Nr. 2 gegen\u00fcber der Anforderungsbeh\u00f6rde gem\u00e4\u00df \u00a7 50 erkl\u00e4rt, da\u00df er infolge der Anforderung eine Verpflichtung zur \u00dcbereignung der Sache nicht erf\u00fcllen k\u00f6nne oder da\u00df ihm die Sache zur Sicherung \u00fcbereignet sei, so hat die Beh\u00f6rde anzuordnen, da\u00df der Entsch\u00e4digungsbetrag unter Verzicht auf das Recht der R\u00fccknahme zu hinterlegen ist. Das gleiche gilt, wenn ein Dritter gegen\u00fcber der Beh\u00f6rde Rechte aus einem Rechtsverh\u00e4ltnis der in Satz 1 bezeichneten Art angemeldet hat.</P><P>(2) Im Verh\u00e4ltnis zwischen den Beteiligten tritt der hinterlegte Betrag an die Stelle der Sache. Im \u00fcbrigen bestimmen sich die Rechte auf den hinterlegten Betrag nach dem zwischen den Beteiligten bestehenden Rechtsverh\u00e4ltnis.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005500315",
+        "name": "\u00a7 54",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Durch Hinterlegung in den F\u00e4llen des \u00a7 51 Abs. 5 und des \u00a7 53 wird der Zahlungspflichtige von seiner Zahlungspflicht befreit.</P><P>(2) Die Pflicht zur Hinterlegung nach \u00a7 51 Abs. 5 und \u00a7 53 entf\u00e4llt, soweit eine Einigung der Beteiligten \u00fcber die Auszahlung nachgewiesen ist.</P><P>(3) Andere Vorschriften, nach denen die Hinterlegung geboten oder statthaft ist, bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005600315",
+        "name": "\u00a7 55",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>Wird der als Entsch\u00e4digung oder Ersatzleistung zu zahlende Betrag nach Ma\u00dfgabe der Vorschriften dieses Gesetzes hinterlegt, so kann jeder Beteiligte sein Recht an dem hinterlegten Betrag gegen einen Mitbeteiligten, der dieses Recht bestreitet, vor den ordentlichen Gerichten geltend machen oder die Einleitung des gerichtlichen Verteilungsverfahrens beantragen. F\u00fcr das Verteilungsverfahren ist das Amtsgericht zust\u00e4ndig, bei dem der Betrag hinterlegt worden ist. Die Vorschriften der Zivilproze\u00dfordnung \u00fcber das Verteilungsverfahren sind sinngem\u00e4\u00df anzuwenden; ist die Hinterlegung durch die Anforderung eines Grundst\u00fccks, eines eingetragenen Schiffes oder Schiffbauwerks oder eines in der Luftfahrzeugrolle oder im Register f\u00fcr Pfandrechte an Luftfahrzeugen eingetragenen Luftfahrzeugs oder durch die Anforderung einer Sache veranla\u00dft, auf die sich ein Grundpfandrecht, eine Schiffshypothek oder ein Registerpfandrecht eines Beteiligten erstreckt, so sind auf das Verteilungsverfahren die Vorschriften \u00fcber die Verteilung des Erl\u00f6ses im Fall der Zwangsversteigerung sinngem\u00e4\u00df anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005700315",
+        "name": "\u00a7 56",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Der Bundesminister der Finanzen kann bei den Anforderungsbeh\u00f6rden Vertreter des Finanzinteresses bestellen.</P><P>(2) Der Vertreter des Finanzinteresses ist Beteiligter am Festsetzungsverfahren im Sinne des \u00a7 51, sofern er nicht auf die Beteiligung verzichtet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005800315",
+        "name": "\u00a7 57",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Ist ein Festsetzungsbescheid von der unteren Verwaltungsbeh\u00f6rde erlassen worden, so k\u00f6nnen die am Festsetzungsverfahren Beteiligten innerhalb zweier Wochen seit Zustellung des Festsetzungsbescheids Beschwerde einlegen. \u00dcber die Beschwerde entscheidet die Aufsichtsbeh\u00f6rde.</P><P>(2) Die Entscheidung \u00fcber die Beschwerde ist den am Festsetzungsverfahren Beteiligten zuzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE005900315",
+        "name": "\u00a7 58",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Wegen der Festsetzung der Entsch\u00e4digung oder der Ersatzleistung kann ein Beteiligter binnen einer Frist von zwei Monaten nach Zustellung der Beschwerdeentscheidung Klage erheben. Ist eine Beschwerde gegen den Festsetzungsbescheid nicht zul\u00e4ssig, so beginnt der Lauf der Frist mit der Zustellung des Festsetzungsbescheids. Die Klage kann auch erhoben werden, wenn die Anforderungsbeh\u00f6rde \u00fcber einen Festsetzungsantrag oder die Aufsichtsbeh\u00f6rde \u00fcber eine Beschwerde innerhalb einer Frist von drei Monaten eine Entscheidung nicht getroffen hat.</P><P>(2) F\u00fcr die Klage ist das Landgericht ohne R\u00fccksicht auf den Wert des Streitgegenstands ausschlie\u00dflich zust\u00e4ndig. \u00d6rtlich ist das Landgericht ausschlie\u00dflich zust\u00e4ndig, in dessen Bezirk die Anforderungsbeh\u00f6rde ihren Sitz hat. Hat die Anforderungsbeh\u00f6rde ihren Sitz nicht im Inland, so ist \u00f6rtlich das Landgericht ausschlie\u00dflich zust\u00e4ndig, in dessen Bezirk sich der Sitz der Bundesregierung befindet.</P><P>(3) Die Klage gegen den zur Entsch\u00e4digung oder Ersatzleistung Verpflichteten ist auf Zahlung des verlangten Betrags bzw. Mehrbetrags zu richten. Die Klage gegen den zur Entsch\u00e4digung oder Ersatzleistung Berechtigten ist darauf zu richten, da\u00df die Entsch\u00e4digung oder die Ersatzleistung unter Aufhebung oder Ab\u00e4nderung des Festsetzungsbescheids anderweit festgesetzt wird.</P><P>(4) Das Gericht kann im Fall des Absatzes 3 Satz 2 auf Antrag des Berechtigten den Festsetzungsbescheid f\u00fcr vorl\u00e4ufig vollstreckbar erkl\u00e4ren. \u00dcber den Antrag kann durch Beschlu\u00df vorab entschieden werden. Der Beschlu\u00df ist nicht anfechtbar. Die \u00a7\u00a7 711 bis 720 der Zivilproze\u00dfordnung sind entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006000315",
+        "name": "\u00a7 59",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>Hat eine oberste Bundes- oder Landesbeh\u00f6rde die Entsch\u00e4digung oder Ersatzleistung festgesetzt, so ist die Klage vor dem ordentlichen Gericht binnen zwei Monaten nach Zustellung des Festsetzungsbescheids zu erheben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006100315",
+        "name": "\u00a7 60",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Die Festsetzung von Entsch\u00e4digungen f\u00fcr Leistungen zugunsten der in \u00a7 1 Abs. 1 Nr. 3 bezeichneten Streitkr\u00e4fte erfolgt im Benehmen mit den Beh\u00f6rden der beteiligten Macht <I>(Artikel 12 Abs. 3 des Finanzvertrages vom 26. Mai 1952).</I> In diesen F\u00e4llen steht die Bundesrepublik f\u00fcr die Erf\u00fcllung der Verpflichtung ein. Rechtsstreitigkeiten wegen der Festsetzung der Entsch\u00e4digung oder Ersatzleistung werden von der Bundesrepublik im eigenen Namen gef\u00fchrt.</P><P>(2) Das Verfahren f\u00fcr die Festsetzung des Ersatzes von Sch\u00e4den, f\u00fcr welche die in \u00a7 1 Abs. 1 Nr. 3 bezeichneten Streitkr\u00e4fte nach den \u00a7\u00a7 26 und 28 ersatzpflichtig sind, sowie die Fristen f\u00fcr die Geltendmachung der Anspr\u00fcche auf solche Ersatzleistungen werden durch Artikel 8 des Finanzvertrags vom 26. Mai 1952 bestimmt. Sind die Sch\u00e4den nach dem Inkrafttreten des NATO-Truppenstatuts und des Zusatzabkommens zum NATO-Truppenstatut verursacht worden oder gelten sie als nach diesem Zeitpunkt verursacht, so treten an die Stelle des Artikels 8 des Finanzvertrags Artikel VIII des NATO-Truppenstatuts, Artikel 41 des Zusatzabkommens zum NATO-Truppenstatut nebst Unterzeichnungsprotokoll sowie Artikel 6 bis 15 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183). Absatz 1 Satz 2 findet Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006201304",
+        "name": "\u00a7 61",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006300315",
+        "name": "\u00a7 62",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>(1) Ist durch Vorauszahlungen auf eine noch nicht festgesetzte Entsch\u00e4digung oder Ersatzleistung eine \u00dcberzahlung eingetreten, so hat die Anforderungsbeh\u00f6rde die R\u00fcckzahlung des zuviel gezahlten Betrags durch R\u00fcckzahlungsbescheid anzuordnen. Von der Anordnung ist abzusehen, wenn die R\u00fcckforderung zu einer unbilligen H\u00e4rte f\u00fchren w\u00fcrde.</P><P>(2) Wird ein Festsetzungsbescheid berichtigt, ge\u00e4ndert oder widerrufen und ist der Zahlungsempf\u00e4nger zur R\u00fcckzahlung eines auf Grund des Bescheids zuviel gezahlten Betrags verpflichtet, so hat auf Antrag des Zahlungspflichtigen die Anforderungsbeh\u00f6rde die R\u00fcckzahlung des auf Grund des Bescheids zuviel gezahlten Betrags durch R\u00fcckzahlungsbescheid anzuordnen. Die Anordnung der R\u00fcckzahlung ist mit dem Bescheid, durch den die Berichtigung, die \u00c4nderung oder der Widerruf ausgesprochen wird, zu verbinden.</P><P>(3) Auf das Verfahren einschlie\u00dflich der Zwangsvollstreckung sind die Vorschriften der \u00a7\u00a7 51 bis 61 sinngem\u00e4\u00df anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006400315",
+        "name": "\u00a7 63",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>Die Vorschriften dieses Abschnitts gelten f\u00fcr den Anspruch auf Ersatz von Verwendungen (\u00a7 17 Abs. 2 und 4) sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006500315",
+        "name": "\u00a7 64",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>F\u00fcr die Zustellungen im Festsetzungsverfahren gilt \u00a7 47 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006600315",
+        "name": "\u00a7 65",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001200315"
+        },
+        "body": "<P>F\u00fcr die Kosten des Festsetzungsverfahrens gilt \u00a7 48 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG001300315",
+        "name": "Dritter Teil",
+        "title": "Man\u00f6ver und andere \u00dcbungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006700315",
+        "name": "\u00a7 66",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) Wenn uniformierte Verb\u00e4nde oder Einheiten (Truppen), die berechtigt sind, im Bundesgebiet Man\u00f6ver oder andere \u00dcbungen abzuhalten, solche Man\u00f6ver oder andere \u00dcbungen durchf\u00fchren, gelten unbeschadet einschr\u00e4nkender Bedingungen, die f\u00fcr den Einzelfall von den zust\u00e4ndigen zivilen Verwaltungsbeh\u00f6rden festgelegt werden, die Vorschriften dieses Teils. Das gleiche gilt f\u00fcr die von der Truppe zugezogenen Hilfskr\u00e4fte, soweit diese an Man\u00f6vern oder anderen \u00dcbungen von Truppen teilnehmen, sowie f\u00fcr die Verb\u00e4nde und Einheiten des zivilen Bev\u00f6lkerungsschutzes.</P><P>(2) Man\u00f6ver oder andere \u00dcbungen d\u00fcrfen in der Regel die Dauer von drei\u00dfig Tagen nicht \u00fcberschreiten. Die Truppen haben sicherzustellen, da\u00df bei Man\u00f6vern oder anderen \u00dcbungen soweit wie m\u00f6glich Sch\u00e4den vermieden werden und die wirtschaftliche Nutzung von Grundst\u00fccken nicht wesentlich beeintr\u00e4chtigt wird. Ein Grundst\u00fcck, auf dem infolge eines Man\u00f6vers oder einer anderen \u00dcbung erhebliche Sch\u00e4den entstanden sind, darf innerhalb dreier Monate nicht wieder benutzt werden, es sei denn, da\u00df die zust\u00e4ndigen Landesbeh\u00f6rden zustimmen. Ist durch ein Man\u00f6ver oder eine andere \u00dcbung die wirtschaftliche Nutzung eines Grundst\u00fccks wesentlich beeintr\u00e4chtigt worden, so d\u00fcrfen die Truppen auf diesem Grundst\u00fcck Man\u00f6ver oder ander \u00dcbungen so lange nicht durchf\u00fchren, als zu besorgen ist, da\u00df diese zu einer weiteren oder erneuten wesentlichen Beeintr\u00e4chtigung der wirtschaftlichen Nutzung des Grundst\u00fccks f\u00fchren k\u00f6nnten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006800315",
+        "name": "\u00a7 67",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Die Vorschriften des Ersten und Zweiten Teils finden nur insoweit Anwendung, als in diesem Teil auf sie Bezug genommen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE006901310",
+        "name": "\u00a7 68",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) Die Truppen d\u00fcrfen Grundst\u00fccke \u00fcberqueren, vor\u00fcbergehend besetzen oder zeitweilig sperren.</P><P>(2) Ohne eine besondere Einwilligung des Berechtigten d\u00fcrfen die Truppen die ihnen nach Absatz 1 zustehenden Rechte nicht aus\u00fcben auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bebauten Grundst\u00fccken;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundst\u00fccken, die wegen der land- oder forstwirtschaftlichen Nutzung oder als Wasserschutzgebiet durch die zust\u00e4ndigen Beh\u00f6rden als besonders schutzbed\u00fcrftig erkl\u00e4rt worden sind;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Naturschutzgebieten, Nationalparken, Naturdenkmalen oder gesch\u00fctzten Landschaftsbestandteilen sowie Tierschutzgebieten;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">St\u00e4tten von religi\u00f6ser, kultureller oder geschichtlicher Bedeutung;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Friedh\u00f6fen;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen, welche bestimmt sind, die Sicherheit des Stra\u00dfen-, Eisenbahn-, Wasserstra\u00dfen-, See- oder Luftverkehrs zu gew\u00e4hrleisten, und Verkehrsflugh\u00e4fen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen, welche bestimmt sind, die Nachrichten\u00fcbermittlung zu gew\u00e4hrleisten;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen zur Ent- oder Bew\u00e4sserung sowie zur Abw\u00e4sserbeseitigung;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen zum Schutz gegen Naturgewalten;</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen zur Versorgung mit Wasser oder Energie.</LA></DD></DL>Unter den in Artikel 45 Abs. 3 des Zusatzabkommens zum NATO-Truppenstatut als Naturschutzpark bezeichneten Gebieten sind Nationalparke zu verstehen.</P><P>(3) Grundst\u00fccke d\u00fcrfen in geringerer als der sonst zul\u00e4ssigen H\u00f6he \u00fcberflogen werden, soweit die Bedingungen f\u00fcr die Durchf\u00fchrung der Man\u00f6ver dies ausdr\u00fccklich gestatten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007000315",
+        "name": "\u00a7 69",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Man\u00f6ver oder andere \u00dcbungen sind rechtzeitig bei den zust\u00e4ndigen Beh\u00f6rden anzumelden. Dabei ist anzugeben, in welchem Umfang Stra\u00dfen voraussichtlich mehr als verkehrs\u00fcblich benutzt werden sollen. Zeit, Ort und Durchf\u00fchrungsbedingungen der Man\u00f6ver sollen mindestens 2 Wochen vor Beginn in orts\u00fcblicher Weise durch die zust\u00e4ndige Landesbeh\u00f6rde bekanntgemacht werden. Davon abweichend k\u00f6nnen \u00fcber die Anmeldung und Bekanntgabe von \u00dcbungen die Truppen mit den zust\u00e4ndigen Beh\u00f6rden besondere Vereinbarungen treffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007100315",
+        "name": "\u00a7 70",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) Die Truppen d\u00fcrfen bei Man\u00f6vern oder anderen \u00dcbungen, die nach \u00a7 69 angemeldet sind, die \u00f6ffentlichen Verkehrswege mehr als verkehrs\u00fcblich benutzen, soweit es zur Erreichung des \u00dcbungszwecks unter geb\u00fchrender Ber\u00fccksichtigung der \u00f6ffentlichen Sicherheit und Ordnung dringend geboten ist und nicht einschr\u00e4nkende Bedingungen nach \u00a7 66 Abs. 1 oder Beschr\u00e4nkungen nach \u00a7 68 Abs. 2 entgegenstehen. \u00d6ffentliche Verkehrswege d\u00fcrfen nur auf Grund einer Vereinbarung mit den zust\u00e4ndigen Beh\u00f6rden ganz oder teilweise f\u00fcr den \u00f6ffentlichen Verkehr gesperrt werden; die erforderlichen Ma\u00dfnahmen zur Durchf\u00fchrung dieser Vereinbarung treffen die zust\u00e4ndigen Beh\u00f6rden.</P><P>(2) Das \u00dcberqueren der Gleise von Schienenbahnen au\u00dferhalb der dazu bestimmten \u00dcberg\u00e4nge ist verboten. Jedoch k\u00f6nnen Einzelgruppen zu Fu\u00df, wenn die Erfordernisse der Man\u00f6ver oder anderen \u00dcbungen es dringend verlangen, die Gleise au\u00dferhalb der dazu bestimmten \u00dcberg\u00e4nge unter Beachtung der notwendigen Vorsichtsma\u00dfnahmen \u00fcberschreiten; die Haftung f\u00fcr alle entstehenden Sch\u00e4den \u00fcbernimmt die K\u00f6rperschaft, in deren Dienst die Truppe steht, die das Man\u00f6ver oder die \u00dcbung durchf\u00fchrt.</P><P>(3) Die Truppen d\u00fcrfen Gebiete der Hoheitsgew\u00e4sser benutzen, soweit die Bedingungen f\u00fcr die Durchf\u00fchrung der Man\u00f6ver dies ausdr\u00fccklich vorsehen. Die zust\u00e4ndigen Beh\u00f6rden k\u00f6nnen auf Verlangen der Truppen solche Teilgebiete sperren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007200315",
+        "name": "\u00a7 71",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) Zur Unterbringung von Dienststellen, Personen, Tieren, Fahrzeugen, Waffen sowie Ger\u00e4t und sonstigen Bedarfsgegenst\u00e4nden sind der Truppe die erforderlichen R\u00e4ume zur Verf\u00fcgung zu stellen. Die Truppe hat die bisherige Zweckbestimmung zu beachten.</P><P>(2) Als behelfsm\u00e4\u00dfige Unterk\u00fcnfte sind auch solche R\u00e4ume zur Verf\u00fcgung zu stellen, die \u00fcblicherweise anders verwendet werden.</P><P>(3) Nach den vorhandenen M\u00f6glichkeiten sind zur Verf\u00fcgung zu stellen <DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\">bei der Unterbringung nach Absatz 1 Beleuchtung, Wasser und Heizung,</LA><LA Size=\"normal\">bei der Unterbringung nach Absatz 2 Beleuchtung, Wasser und Lagerstroh.</LA></DD>  </DL> </P><P>(4) \u00a7 3 Abs. 1, 4 bis 6, \u00a7 4 Abs. 2, \u00a7 11 Satz 1, \u00a7 12, \u00a7 13 Abs. 1 Satz 1, Abs. 2, Abs. 4 Satz 1 und Abs. 5, \u00a7 16, \u00a7 17 Abs. 1 und \u00a7 18 Abs. 1 und 2 gelten sinngem\u00e4\u00df. Geb\u00e4ude oder bewegliche Sachen im Sinne des \u00a7 4 Abs. 3 d\u00fcrfen nur angefordert werden, soweit K\u00f6rperschaften, Anstalten oder Verb\u00e4nde, die diese Geb\u00e4ude oder Sachen benutzen, durch die Anforderung in der Erf\u00fcllung ihrer Aufgaben nicht wesentlich beeintr\u00e4chtigt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007300315",
+        "name": "\u00a7 72",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Die Tr\u00e4ger \u00f6rtlicher Wasserversorgungsanlagen haben den Truppen nach den vorhandenen M\u00f6glichkeiten Wasser f\u00fcr den Quartier-, Biwak- und sonstigen Bedarf zu liefern. \u00a7 13 Abs. 1 Satz 1, Abs. 2, Abs. 4 Satz 1 und Abs. 5 gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007400315",
+        "name": "\u00a7 73",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) Sachen und Leistungen, f\u00fcr die ein Bereitstellungsbescheid (\u00a7 36 Abs. 3) ergangen ist, k\u00f6nnen nach \u00a7 2 Abs. 1 Nr. 1, 8 und 9 f\u00fcr Man\u00f6ver oder andere \u00dcbungen in Anspruch genommen werden, wenn der Zweck der \u00dcbung es erfordert. Dabei sind die milit\u00e4rischen und zivilen Belange gerecht abzuw\u00e4gen.</P><P>(2) \u00a7 71 Abs. 4 gilt entsprechend; \u00a7 3 Abs. 1 Satz 1 findet keine Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007500315",
+        "name": "\u00a7 74",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Leistungspflichtig ist, wer die tats\u00e4chliche Gewalt \u00fcber die angeforderte Sache aus\u00fcbt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007600315",
+        "name": "\u00a7 75",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Leistungsempf\u00e4nger ist die K\u00f6rperschaft, in deren Dienst die Truppen stehen. Die zust\u00e4ndigen Stellen dieser K\u00f6rperschaft bestimmen die Einheiten, Dienststellen oder Personen, zu deren Gunsten die Leistungen erbracht werden sollen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007700315",
+        "name": "\u00a7 76",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) F\u00fcr die Leistungen, die nach \u00a7\u00a7 71, 72 erbracht werden m\u00fcssen, ist eine angemessene Entsch\u00e4digung zu gew\u00e4hren. In den F\u00e4llen des \u00a7 73 gelten f\u00fcr die Entsch\u00e4digung die \u00a7\u00a7 20 bis 22 entsprechend.</P><P>(2) Die Entsch\u00e4digung ist an den Leistungspflichtigen zu zahlen, es sei denn, da\u00df dieser einen anderen als Entsch\u00e4digungsberechtigten bezeichnet oder der Anforderungsbeh\u00f6rde bekannt ist, da\u00df die Leistung aus dem Verm\u00f6gen eines anderen erbracht ist. H\u00e4lt der Leistungsempf\u00e4nger den Leistungspflichtigen ohne grobe Fahrl\u00e4ssigkeit f\u00fcr entsch\u00e4digungsberechtigt, so wird er durch die Zahlung an diesen befreit. Etwaige Anspr\u00fcche des Entsch\u00e4digungsberechtigten gegen den Leistungspflichtigen als Empf\u00e4nger der Zahlung bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007800315",
+        "name": "\u00a7 77",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) F\u00fcr Sch\u00e4den, die an Grundst\u00fccken, baulichen Anlagen, Stra\u00dfen, Br\u00fccken, Wasserl\u00e4ufen, H\u00e4fen und sonstigen Verkehrsanlagen oder Verkehrseinrichtungen einschlie\u00dflich ihres Zubeh\u00f6rs durch Man\u00f6ver oder andere \u00dcbungen verursacht werden, ist Ersatz zu leisten. Die Ersatzleistung bemi\u00dft sich im Fall der Zerst\u00f6rung nach dem gemeinen Wert, im Fall der Besch\u00e4digung nach der H\u00f6he der notwendigen Kosten der Wiederherstellung oder der Instandsetzung.</P><P>(2) Im Fall der Besch\u00e4digung eines land- oder forstwirtschaftlichen Grundst\u00fccks durch die Benutzung zu Man\u00f6vern oder anderen \u00dcbungen ist au\u00dferdem f\u00fcr eine infolge der Besch\u00e4digung eingetretene Ertragsminderung angemessener Ersatz zu leisten. Bei Besch\u00e4digungen von Verkehrsanlagen oder Verkehrseinrichtungen sind auch die Kosten zu ersetzen, die zur Aufrechterhaltung des \u00f6ffentlichen Verkehrs notwendig sind, es sei denn, da\u00df die Besch\u00e4digung durch eine Benutzung im Rahmen des Gemeingebrauchs verursacht wurde.</P><P>(3) Wird eine nach \u00a7 71 oder \u00a7 73 zum Gebrauch \u00fcberlassene Sache verschlechtert oder besch\u00e4digt oder kann sie nicht zur\u00fcckgegeben werden, so gilt \u00a7 26 Abs. 2 und 3 sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE007900315",
+        "name": "\u00a7 78",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Wird durch die Benutzung eines Grundst\u00fccks zu Man\u00f6vern oder anderer \u00dcbungen dessen gew\u00f6hnliche Nutzung derart beeintr\u00e4chtigt, da\u00df dadurch eine Ertragsminderung oder ein sonstiger Nutzungsausfall verursacht wird, so ist eine Entsch\u00e4digung zu gew\u00e4hren, die diesen Nachteil angemessen ausgleicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008000315",
+        "name": "\u00a7 79",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Leistungen nach den \u00a7\u00a7 71, 72 werden durch Beh\u00f6rden angefordert, die gem\u00e4\u00df \u00a7 5 Abs. 1 durch Rechtsverordnung bestimmt werden. F\u00fcr die Anforderung der in \u00a7 73 aufgef\u00fchrten Man\u00f6verleistungen sind die in \u00a7 5 Abs. 2 bezeichneten Beh\u00f6rden zust\u00e4ndig. Die Vorschriften des \u00a7 6 finden sinngem\u00e4\u00df Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008100315",
+        "name": "\u00a7 80",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Die Vorschriften des \u00a7 7 Abs. 1 und 2 und des \u00a7 9 Abs. 2 finden Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008200315",
+        "name": "\u00a7 81",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) F\u00fcr die Durchf\u00fchrung der Anforderung gelten die Vorschriften der \u00a7\u00a7 35, 36 Abs. 1 bis 2, der \u00a7\u00a7 37, 39, 40, 44, 46 und 47.</P><P>(2) F\u00fcr die Entsch\u00e4digung nach \u00a7\u00a7 76 und 78 und die Ersatzleistung nach \u00a7 77 gelten die Vorschriften des \u00a7 23 Abs. 4, der \u00a7\u00a7 29, 32 Abs. 2, der \u00a7\u00a7 34, 50, 52 bis 59, 60 Abs. 1 und der \u00a7\u00a7 61 bis 65. \u00a7 49 gilt mit der Ma\u00dfgabe, da\u00df die in \u00a7 79 Satz 2 genannten Beh\u00f6rden nur f\u00fcr die Festsetzung von Entsch\u00e4digungen bei der Anforderung von Sachen und Leistungen gem\u00e4\u00df \u00a7 73 zust\u00e4ndig sind. \u00a7 58 Abs. 2 gilt mit der Ma\u00dfgabe, da\u00df in den F\u00e4llen des \u00a7 77 Abs. 1 das Landgericht, in dessen Bezirk der Schaden entstanden ist, in den F\u00e4llen des \u00a7 78 das Landgericht, in dessen Bezirk das Grundst\u00fcck belegen ist, \u00f6rtlich ausschlie\u00dflich zust\u00e4ndig ist.</P><P>(3) Die Entsch\u00e4digung oder Ersatzleistung soll tunlichst im Wege der Vereinbarung geregelt werden. Der Zahlungspflichtige hat auf den Abschlu\u00df einer Vereinbarung mit den Berechtigten hinzuwirken. Kommt eine Vereinbarung nicht zustande, so gilt \u00a7 51 Abs. 3 bis 5.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008300315",
+        "name": "\u00a7 82",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>(1) Das Verfahren f\u00fcr die Abgeltung der Sch\u00e4den, f\u00fcr welche die Streitkr\u00e4fte nach \u00a7 77 ersatzpflichtig sind, sowie die Fristen f\u00fcr die Geltendmachung der Anspr\u00fcche auf Ersatzleistung werden, soweit die Stationierungstruppen in Betracht kommen, nach <I>Artikel 8 des Finanzvertrags vom 26. Mai 1952</I> bestimmt. Sind die Sch\u00e4den nach dem Inkrafttreten des NATO-Truppenstatuts und des Zusatzabkommens zum NATO-Truppenstatut verursacht worden, so treten an die Stelle des Artikels 8 des Finanzvertrages Artikel VIII des NATO-Truppenstatuts, Artikel 41 des Zusatzabkommens zum NATO-Truppenstatut nebst Unterzeichnungsprotokoll sowie Artikel 6 bis 15 des Gesetzes vom 18. August 1961 zum NATO-Truppenstatut und zu den Zusatzvereinbarungen (Bundesgesetzbl. II S. 1183).</P><P>(2) Stehen uniformierte Verb\u00e4nde oder Einheiten im Dienst eines Landes, so gelten die landesrechtlichen Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008401310",
+        "name": "\u00a7 83",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001300315"
+        },
+        "body": "<P>Wenn die Bundesregierung feststellt, dass die Herstellung der Einsatzf\u00e4higkeit der Streitkr\u00e4fte notwendig ist, finden die Vorschriften des \u00a7 66 Abs. 2, des \u00a7 68 Abs. 2 Nr. 1 bis 5 und der \u00a7\u00a7 69 und 70 Abs. 1 Satz 2 keine Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG001400315",
+        "name": "Vierter Teil",
+        "title": "Bu\u00dfgeld- und Strafbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008501320",
+        "name": "\u00a7 84",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001400315"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer als Leistungspflichtiger vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Leistung, die nicht lediglich durch Bereitstellungsbescheid angefordert ist, nicht, nicht rechtzeitig, nicht ordnungsgem\u00e4\u00df oder nicht vollst\u00e4ndig bewirkt oder einer ihm auf Grund des \u00a7 2 auferlegten Verpflichtung zur Duldung oder Unterlassung zuwiderhandelt;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der schriftlichen Anordnung, eine Leistung vorzubereiten (\u00a7 16), zuwiderhandelt;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen einer ihm nach \u00a7 36 Abs. 4 auferlegten Verpflichtung eine Ver\u00e4u\u00dferung oder Verf\u00fcgung nicht anzeigt.</LA></DD> </DL> </P><P>(2) Ordnungswidrig handelt ferner, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ohne Leistungspflichtiger zu sein, in Kenntnis der Leistungspflicht eines anderen einen Gegenstand, der nicht lediglich durch Bereitstellungsbescheid angefordert ist, beiseite schafft, besch\u00e4digt, zerst\u00f6rt, unbrauchbar macht oder verderben l\u00e4\u00dft;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 15 Abs. 1 die Auskunft nicht, unrichtig, unvollst\u00e4ndig oder nicht fristgem\u00e4\u00df erteilt, die vorhandenen Unterlagen nicht, unvollst\u00e4ndig oder nicht fristgem\u00e4\u00df vorlegt oder einem Verlangen nach \u00a7 15 Abs. 2 Satz 1 oder einer Verpflichtung nach \u00a7 15 Abs. 2 Satz 2 zuwiderhandelt.</LA></DD> </DL> </P><P>(3) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu f\u00fcnfundzwanzigtausend Euro geahndet werden.</P><P>(4) Die Vorschrift des Absatzes 1 Nr. 1 in Verbindung mit Absatz 3 gilt in den F\u00e4llen einer Anforderung nach \u00a7 2 Abs. 1 Nr. 2 und 8 auch f\u00fcr den, der die tats\u00e4chliche Gewalt \u00fcber die Sache aus\u00fcbt.</P><P>(5) Anforderungsbeh\u00f6rden, die Bundesbeh\u00f6rden sind, nehmen die Befugnisse der Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Abs. 1 Nr. 1 des Gesetzes \u00fcber Ordnungswidrigkeiten wahr.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008600315",
+        "name": "\u00a7 85",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001400315"
+        },
+        "body": "<P>Wer in der Absicht, die angeforderte Leistung zu vereiteln, eine der in \u00a7 84 Abs. 1 Nr. 1 oder Abs. 2 bezeichneten Handlungen oder Unterlassungen begeht und dadurch das \u00f6ffentliche Wohl erheblich gef\u00e4hrdet, wird mit Freiheitsstrafe bis zu einem Jahr oder mit Geldstrafe bestraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008700315",
+        "name": "\u00a7 86",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001400315"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008150956BJNG001500315",
+        "name": "F\u00fcnfter Teil",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008800315",
+        "name": "\u00a7 87",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": "<P>Das Gesetz \u00fcber Sachleistungen f\u00fcr Reichsaufgaben (Reichsleistungsgesetz) vom 1. September 1939 (Reichsgesetzbl. I S. 1645) und die zu seiner Durchf\u00fchrung ergangenen Vorschriften werden, soweit sie Bundesrecht geworden sind, aufgehoben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE008900315",
+        "name": "\u00a7 88",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": "<P>(1) Werden Grundst\u00fccke im Eigentum von Gebietsk\u00f6rperschaften nach diesem Gesetz angefordert, so bemi\u00dft sich die Entsch\u00e4digung, wenn und soweit diese Grundst\u00fccke nicht Erwerbszwecken dienen, nach dem Ersatz der fortlaufenden Aufwendungen, insbesondere Schuldzinsen f\u00fcr Fremdkapital, Betriebskosten und Versicherungsbeitr\u00e4ge, sowie einem angemessenen Betrag f\u00fcr Abnutzung. Dar\u00fcber hinaus sind die durch die Anforderung verursachten Aufwendungen, soweit sie den Umst\u00e4nden nach notwendig waren und der H\u00f6he nach angemessen sind, zu erstatten. Die Miete f\u00fcr Ersatzr\u00e4ume ist insoweit zu erstatten, als sie die fortlaufenden Aufwendungen f\u00fcr das angeforderte Grundst\u00fcck \u00fcbersteigt.</P><P>(2) F\u00fcr Sachen im Eigentum der Bundesrepublik, die f\u00fcr Zwecke der Streitkr\u00e4fte angefordert oder nach \u00a7 89 Abs. 1 weiter in Anspruch genommen werden, werden Entsch\u00e4digung und Ersatzleistung insoweit nicht gew\u00e4hrt, als sich die Bundesrepublik in zwischenstaatlichen Vertr\u00e4gen mit der unentgeltlichen Nutzung dieser Sachen durch die Streitkr\u00e4fte und ihrer Mitglieder einverstanden erkl\u00e4rt und auf den Ersatz von Sch\u00e4den an diesen Sachen verzichtet hat.</P><P>(3) Absatz 2 findet auf Sachen, die im Eigentum des fr\u00fcheren Deutschen Reichs standen und auf Grund des Bundesgesetzes zur vorl\u00e4ufigen Regelung der Rechtsverh\u00e4ltnisse des Reichsverm\u00f6gens und der preu\u00dfischen Beteiligung vom 21. Juli 1951 (Bundesgesetzbl. I S. 467) und der Verordnung zur Durchf\u00fchrung des \u00a7 6 dieses Gesetzes vom 26. Juli 1951 (Bundesgesetzbl. I S. 471) der Verwaltung des Bundes unterliegen, sinngem\u00e4\u00df Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009000315",
+        "name": "\u00a7 89",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": "<P>(1)</P><P>(2)</P><P>(3) Wohnungen, die f\u00fcr Zwecke der ausl\u00e4ndischen Streitkr\u00e4fte oder ihrer Mitglieder errichtet worden sind, sowie Wohnungen, die im Rahmen der Ersatzbauprogramme f\u00fcr Altbesatzungsverdr\u00e4ngte errichtet, jedoch den ausl\u00e4ndischen Streitkr\u00e4ften oder ihren Mitgliedern zur Nutzung \u00fcberlassen worden sind, k\u00f6nnen ohne die sich aus \u00a7\u00a7 2, 3 Abs. 1 und diesem Paragraphen ergebenden Beschr\u00e4nkungen angefordert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009100315",
+        "name": "\u00a7 90",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009200315",
+        "name": "\u00a7 91",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009300315",
+        "name": "\u00a7 92",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": "<P>(1) Bei Sachen, die nach <I>Artikel 48 Abs. 1 des Truppenvertrags</I> oder nach Artikel 13 des Ersten Teils des Vertrags zur Regelung aus Krieg und Besatzung entstandener Fragen zur Nutzung oder zum Gebrauch in Anspruch genommen waren, bemi\u00dft sich mit Wirkung vom 5. Mai 1955 12 Uhr die Entsch\u00e4digung und Ersatzleistung nach den Vorschriften dieses Gesetzes. Sofern dem Entsch\u00e4digungsberechtigten bisher eine h\u00f6here laufende Entsch\u00e4digung gezahlt worden ist, als nach \u00a7 20 zu zahlen w\u00e4re, ist die Entsch\u00e4digung weiterhin in dieser H\u00f6he zu gew\u00e4hren.</P><P>(2) Die Man\u00f6versch\u00e4den, die nach dem 5. Mai 1955 12 Uhr verursacht worden sind, werden nach den Vorschriften dieses Gesetzes abgegolten.</P><P>(3) Die in \u00a7 29 Abs. 2 genannte Frist l\u00e4uft in den F\u00e4llen der Abs\u00e4tze 1 und 2 nicht vor dem 1. Januar 1957, sofern bis zum Inkrafttreten dieses Gesetzes eine angemessene Abschlagszahlung geleistet ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009400315",
+        "name": "\u00a7 93",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": "<P>Auf Grundst\u00fccke, die von den Beh\u00f6rden einer beteiligten Macht zur Errichtung von nicht nur vor\u00fcbergehenden Zwecken dienenden Bauwerken und Anlagen in Anspruch genommen worden sind, und auf Grundst\u00fccke, die von den Beh\u00f6rden einer beteiligten Macht zu Schutzbereichzwecken in Anspruch genommen oder in dieser Weise behandelt worden sind, finden \u00a7\u00a7 89 bis 92 keine Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009500315",
+        "name": "\u00a7 94",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009603311",
+        "name": "\u00a7 95",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": "<P>Die nach \u00a7 1 des Postsicherstellungsgesetzes oder Teil 10 Abschnitt 2 des Telekommunikationsgesetzes verpflichteten Unternehmen sowie \u00f6ffentliche Eisenbahnen k\u00f6nnen nicht zu Leistungen nach diesem Gesetz herangezogen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009700315",
+        "name": "\u00a7 96",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": "<P>Der Senat der Freien und Hansestadt Hamburg wird erm\u00e4chtigt, durch Rechtsverordnung eine von \u00a7 57 Abs. 1 abweichende Regelung zu treffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008150956BJNE009800315",
+        "name": "\u00a7 97",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008150956BJNG001500315"
+        },
+        "body": "<P>Soweit durch die Vorschriften dieses Gesetzes das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) ber\u00fchrt wird, wird dieses Grundrecht eingeschr\u00e4nkt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

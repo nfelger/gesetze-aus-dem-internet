@@ -1,0 +1,863 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR011010976",
+    "firstPublished": "1976-04-26",
+    "sourceTimestamp": "20211020214002",
+    "titleShort": "Erschwerniszulagenverordnung",
+    "titleLong": "Verordnung \u00fcber die Gew\u00e4hrung von Erschwerniszulagen",
+    "abbreviation": "EZulV",
+    "slug": "ezulv",
+    "extraAbbreviations": [
+      "EZulV 1976"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1976, 1101",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 3.12.1998 I 3497;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 10 G v. 9.7.2021 I 2444",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 11 G v. 9.7.2021 I 2444 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 12 G v. 9.7.2021 I 2444 (Nr. 42) ist ber\u00fccksichtigt",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 13 G v. 9.7.2021 I 2444 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 14 G v. 9.7.2021 I 2444 (Nr. 42) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 74 G v. 20.8.2021 I 3932 (Nr. 60) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.9.1980 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007408116",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<TOC><Ident Class=\"S2\">Abschnitt 1<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S2\">Allgemeine Vorschriften</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\">Anwendungsbereich</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\">Ausschluss einer Erschwerniszulage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02a</entry><entry VJ=\"1\" colname=\"col2\">Teilzeitbesch\u00e4ftigung</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 2<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S2\">Einzeln abzugeltende Erschwernisse<BR /><BR /></Title><Ident Class=\"S0\">Titel 1<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S0\">Zulage f\u00fcr Dienst zu ung\u00fcnstigen Zeiten</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Voraussetzungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\">H\u00f6he und Berechnung der Zulage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04a</entry><entry VJ=\"1\" colname=\"col2\">Weitergew\u00e4hrung bei vor\u00fcbergehender Dienstunf\u00e4higkeit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\">Ausschluss der Zulage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\">(weggefallen)</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Titel 2<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S0\">Zulage f\u00fcr Tauchert\u00e4tigkeit</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Voraussetzungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a08</entry><entry VJ=\"1\" colname=\"col2\">H\u00f6he der Zulage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\">Berechnung der Zulage</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Titel 3<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S0\">Zulagen f\u00fcr<BR />den Umgang mit Munition und Sprengstoffen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr das R\u00e4umen und Vernichten von Munition sowie f\u00fcr das Erproben besonders gef\u00e4hrlicher <NB>Munition</NB></entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Sprengstoffentsch\u00e4rfer und Sprengstoffermittler</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Titel 4<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S0\">Zulage f\u00fcr T\u00e4tigkeiten<BR />an Antennen und Antennentr\u00e4gern;<BR />Zulage f\u00fcr T\u00e4tigkeiten an Ger\u00e4ten und<BR />Ger\u00e4tetr\u00e4gern des Wetterdienstes und des<BR />Vermessungsdienstes sowie an Windmasten<BR />des lufthygienischen \u00dcberwachungsdienstes</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Voraussetzungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\">H\u00f6he der Zulage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\">Berechnung der Zulage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr T\u00e4tigkeiten an Ger\u00e4ten und Ger\u00e4tetr\u00e4gern des Wetterdienstes und des Vermessungsdienstes sowie an Windmasten des lufthygienischen \u00dcberwachungsdienstes</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Titel 5<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S0\">Sonstige einzeln abzugeltende Erschwernisse</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Klimaerprobung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16a</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Unterdruckkammerdienst</entry></row><row><entry VJ=\"1\">\u00a7 16b</entry><entry VJ=\"1\">Zulage f\u00fcr Ausbildungst\u00e4tigkeiten im Feuerwehrdienst der Bundeswehr</entry></row><row><entry VJ=\"1\">\u00a7 16c</entry><entry VJ=\"1\">Zulage f\u00fcr die Begleitung von R\u00fcckf\u00fchrungen auf dem Luftweg</entry></row><row><entry VJ=\"1\">\u00a7 17</entry><entry VJ=\"1\">Zulage f\u00fcr T\u00e4tigkeiten mit kontaminierten Personen oder Gegenst\u00e4nden</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 3<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S2\">Zulage f\u00fcr Dienst zu wechselnden Zeiten</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17a</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Voraussetzungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17b</entry><entry VJ=\"1\" colname=\"col2\">H\u00f6he der Zulage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17c</entry><entry VJ=\"1\" colname=\"col2\">Ausschluss der Zulage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17d</entry><entry VJ=\"1\" colname=\"col2\">Weitergew\u00e4hrung bei vor\u00fcbergehender Dienstunf\u00e4higkeit</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 4<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S2\">Zulagen in festen Monatsbetr\u00e4gen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 18</entry><entry VJ=\"1\" colname=\"col2\">Entstehen des Anspruchs</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 19</entry><entry VJ=\"1\" colname=\"col2\">Weitergew\u00e4hrung bei Unterbrechung der zulageberechtigenden T\u00e4tigkeit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 20</entry><entry VJ=\"1\" colname=\"col2\">(weggefallen)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 21</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr allgemeine und besondere Dienste in der Gesundheits- und Krankenpflege</entry></row><row><entry VJ=\"1\">\u00a7 21a</entry><entry VJ=\"1\">Zulage f\u00fcr die Behandlung und Pflege bei schweren Infektionskrankheiten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 22</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr besondere Eins\u00e4tze</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 22a</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Polizeivollzugsbeamte als fliegendes Personal</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr die Beseitigung von Munition aus den Weltkriegen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23a</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr T\u00e4tigkeiten im Seuchenbetrieb des Friedrich-Loeffler-Instituts</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23b</entry><entry VJ=\"1\" colname=\"col2\">(weggefallen)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23c</entry><entry VJ=\"1\" colname=\"col2\">(weggefallen)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23d</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr T\u00e4tigkeiten im Maschinenraum seegehender Schiffe</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23e</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Minentaucher</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23f</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr fliegendes Personal der Bundeswehr und anderer Einrichtungen des Bundes</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23g</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr technische Luftfahrzeugf\u00fchrer im Erprobungs- und G\u00fctepr\u00fcfdienst</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23h</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Fallschirmspringer</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23i</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr T\u00e4tigkeiten im milit\u00e4rischen Flugsicherungsbetriebsdienst und im Einsatzf\u00fchrungsdienst</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23j</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Verwendungen in verbunkerten Anlagen im Gesch\u00e4ftsbereich des Bundesministeriums der Verteidigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23k</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Ausbilder bei Einzelk\u00e4mpferlehrg\u00e4ngen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23l</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Bergf\u00fchrer</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23m</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr Spezialkr\u00e4fte der Bundeswehr</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23n</entry><entry VJ=\"1\" colname=\"col2\">Zulage f\u00fcr besondere Erprobungs- und Versuchsarbeiten im Gesch\u00e4ftsbereich des Bundesministeriums der Verteidigung</entry></row><row><entry VJ=\"1\">\u00a7 23o</entry><entry VJ=\"1\">Zulage f\u00fcr spezialisierte Kr\u00e4fte der Bundeswehr</entry></row><row><entry VJ=\"1\">\u00a7 23p</entry><entry VJ=\"1\">Zulage f\u00fcr besonders bef\u00e4higte Unterst\u00fctzungskr\u00e4fte der Spezialkr\u00e4fte der Bundeswehr</entry></row><row><entry VJ=\"1\">\u00a7 23q</entry><entry VJ=\"1\">Zulage f\u00fcr T\u00e4tigkeiten im protokollarischen Dienst des Wachbataillons beim Bundesministerium der Verteidigung</entry></row><row><entry VJ=\"1\">\u00a7 23r</entry><entry VJ=\"1\">Zulage f\u00fcr T\u00e4tigkeiten mit Biostoffen in Laboratorien</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Abschnitt 5<BR /><BR /></Ident><Title Align=\"auto\" Class=\"S2\">\u00dcbergangsregelungen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 24</entry><entry VJ=\"1\" colname=\"col2\">\u00dcbergangsregelung f\u00fcr Beamte des Bundeseisenbahnverm\u00f6gens und der Postnachfolgeunternehmen</entry></row></tbody></tgroup></table></TOC>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG000104310",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002105310",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000104310"
+        },
+        "body": "<P>Diese Verordnung regelt die Gew\u00e4hrung von Zulagen zur Abgeltung besonderer, bei der Bewertung des Amtes oder bei der Regelung der Anw\u00e4rterbez\u00fcge nicht ber\u00fccksichtigter Erschwernisse (Erschwerniszulagen) f\u00fcr Empf\u00e4nger von Dienstbez\u00fcgen und Anw\u00e4rterbez\u00fcgen des Bundes. Durch eine Erschwerniszulage wird ein mit der Erschwernis verbundener Aufwand mit abgegolten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002207311",
+        "name": "\u00a7 2",
+        "title": "Ausschluss einer Erschwerniszulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000104310"
+        },
+        "body": "<P>Ist die Gew\u00e4hrung einer Erschwerniszulage neben einer anderen Zulage ganz oder teilweise ausgeschlossen, gilt dies auch f\u00fcr eine nach Wegfall der anderen Zulage gew\u00e4hrte Ausgleichszulage, solange diese noch nicht bis zur H\u00e4lfte aufgezehrt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007500311",
+        "name": "\u00a7 2a",
+        "title": "Teilzeitbesch\u00e4ftigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000104310"
+        },
+        "body": "<P>Bei Teilzeitbesch\u00e4ftigung verringern sich die in \u00a7 3 Absatz 1 und 3 Satz 2 sowie die in \u00a7 17a Satz 1 Nummer 2 genannten Mindeststundenzahlen entsprechend dem Verh\u00e4ltnis zwischen der erm\u00e4\u00dfigten und der regelm\u00e4\u00dfigen w\u00f6chentlichen Arbeitszeit. Die Zulagen nach den Abschnitten 2 und 3 werden nicht gek\u00fcrzt. F\u00fcr die Zulagen nach Abschnitt 4 gilt \u00a7 6 Absatz 1 des Bundesbesoldungsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG000205310",
+        "name": "Abschnitt 2",
+        "title": "Einzeln abzugeltende Erschwernisse",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG000304310",
+        "name": "Titel 1",
+        "title": "Zulage f\u00fcr Dienst zu ung\u00fcnstigen Zeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000205310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002307116",
+        "name": "\u00a7 3",
+        "title": "Allgemeine Voraussetzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000304310"
+        },
+        "body": "<P>(1) Empf\u00e4nger von Dienstbez\u00fcgen in Besoldungsgruppen mit aufsteigenden Geh\u00e4ltern und Empf\u00e4nger von Anw\u00e4rterbez\u00fcgen erhalten eine Zulage f\u00fcr Dienst zu ung\u00fcnstigen Zeiten, wenn sie mit mehr als f\u00fcnf Stunden im Kalendermonat zum Dienst zu ung\u00fcnstigen Zeiten herangezogen werden.</P><P>(2) Dienst zu ung\u00fcnstigen Zeiten ist der Dienst <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Sonntagen und gesetzlichen Wochenfeiertagen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Samstagen nach 13.00 Uhr,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">an den Samstagen vor Ostern und Pfingsten nach 12.00 Uhr; dies gilt auch f\u00fcr den 24. und 31. Dezember jeden Jahres, wenn diese Tage nicht auf einen Sonntag fallen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">an den \u00fcbrigen Tagen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr.</LA></DD></DL></P><P>(3) Zulagef\u00e4hig sind nur Zeiten einer tats\u00e4chlichen Dienstaus\u00fcbung; Bereitschaftsdienst, der zu ung\u00fcnstigen Zeiten geleistet wird, ist voll zu ber\u00fccksichtigen.</P><P>(4) Zum Dienst zu ung\u00fcnstigen Zeiten geh\u00f6ren nicht Reisezeiten bei Dienstreisen und die Rufbereitschaft.</P><P>(5) Rufbereitschaft im Sinne von Absatz 4 ist das Bereithalten des hierzu Verpflichteten in seiner H\u00e4uslichkeit (Hausrufbereitschaft) oder das Bereithalten an einem von ihm anzuzeigenden und dienstlich genehmigten Ort seiner Wahl (Wahlrufbereitschaft), um bei Bedarf zu Dienstleistungen sofort abgerufen werden zu k\u00f6nnen. Beim Wohnen in einer Gemeinschaftsunterkunft gilt als H\u00e4uslichkeit die Gemeinschaftsunterkunft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002428116",
+        "name": "\u00a7 4",
+        "title": "H\u00f6he und Berechnung der Zulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000304310"
+        },
+        "body": "<P>(1) Die Zulage betr\u00e4gt f\u00fcr Dienst <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an Sonntagen und gesetzlichen Wochenfeiertagen, an den Samstagen vor Ostern und Pfingsten nach 12.00 Uhr sowie am 24. und 31. Dezember jeden Jahres nach 12.00 Uhr, wenn diese Tage nicht auf einen Sonntag fallen, 5,57 Euro je Stunde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">an den \u00fcbrigen Samstagen in der Zeit zwischen 13.00 Uhr und 20.00 Uhr 1,32 Euro je Stunde sowie</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">im \u00dcbrigen in der Zeit zwischen 20.00 Uhr und 6.00 Uhr 2,62 Euro je Stunde.</LA></DD></DL></LA></DD></DL></P><P>(2) F\u00fcr Dienst \u00fcber volle Stunden hinaus wird die Zulage anteilig gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007302311",
+        "name": "\u00a7 4a",
+        "title": "Weitergew\u00e4hrung bei vor\u00fcbergehender Dienstunf\u00e4higkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000304310"
+        },
+        "body": "<P>(1) Die Zulage wird weitergew\u00e4hrt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beamten, die vor\u00fcbergehend dienstunf\u00e4hig sind <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Unfalls im Sinne des \u00a7 31a Absatz 2 des Beamtenversorgungsgesetzes oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Dienstunfalls im Sinne des \u00a7 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Soldaten, die vor\u00fcbergehend dienstunf\u00e4hig sind <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Dienstunfalls im Sinne des \u00a7 27 des Soldatenversorgungsgesetzes in Verbindung mit \u00a7 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Unfalls im Sinne des \u00a7 63c Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.</LA></DD></DL></LA></DD></DL></P><P>(2) Die H\u00f6he der Zulage entspricht dem Durchschnitt der Zulagen f\u00fcr die letzten drei Monate vor Beginn des Monats, in dem die vor\u00fcbergehende Dienstunf\u00e4higkeit eingetreten ist. Steht dem Beamten oder Soldaten in dem Monat, in dem die vor\u00fcbergehende Dienstunf\u00e4higkeit eingetreten ist, auf Grund der tats\u00e4chlich geleisteten Dienste eine h\u00f6here Zulage zu, ist dieser Betrag ma\u00dfgeblich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002518360",
+        "name": "\u00a7 5",
+        "title": "Ausschluss der Zulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000304310"
+        },
+        "body": "<P>Die Zulage wird nicht gew\u00e4hrt <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>neben Auslandsbesoldung nach Abschnitt 5 des Bundesbesoldungsgesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in den F\u00e4llen des \u00a7 30c Absatz 4 des Soldatengesetzes oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>wenn der Dienst zu ung\u00fcnstigen Zeiten auf andere Weise als abgegolten oder ausgeglichen gilt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002605311",
+        "name": "\u00a7 6",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000304310"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007001320",
+        "name": "\u00a7 6a",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000304310"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG000404310",
+        "name": "Titel 2",
+        "title": "Zulage f\u00fcr Tauchert\u00e4tigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000205310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002708116",
+        "name": "\u00a7 7",
+        "title": "Allgemeine Voraussetzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000404310"
+        },
+        "body": "<P>(1) Beamte und Soldaten erhalten eine Zulage f\u00fcr Tauchert\u00e4tigkeiten.</P><P>(2) Tauchert\u00e4tigkeiten sind \u00dcbungen oder Arbeiten im Wasser <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Taucheranzug ohne Helm oder ohne Tauchger\u00e4t,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit Helm oder Tauchger\u00e4t sowie als Ausbilder f\u00fcr die U-Boot-Rettung im Einsatzausbildungszentrum Schadensabwehr Marine in Erstverwendung.</LA></DD></DL>Zu den Tauchert\u00e4tigkeiten geh\u00f6ren auch \u00dcbungen oder Arbeiten in Pressluft (Druckkammern).</P><P>(3) Die Zulage wird nicht gew\u00e4hrt neben der Minentaucherzulage nach \u00a7 23e und der Zulage f\u00fcr Spezialkr\u00e4fte der Bundeswehr nach \u00a7 23m.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002815116",
+        "name": "\u00a7 8",
+        "title": "H\u00f6he der Zulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000404310"
+        },
+        "body": "<P>(1) Die Zulage f\u00fcr Tauchert\u00e4tigkeit nach \u00a7 7 Absatz 2 Satz 1 Nummer 1 betr\u00e4gt je Stunde 3,88 Euro.</P><P>(2) Die Zulage f\u00fcr Tauchert\u00e4tigkeit nach \u00a7 7 Absatz 2 Satz 1 Nummer 2 betr\u00e4gt je Stunde Tauchzeit <BR /><BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec align=\"left\" colname=\"col1\" colnum=\"1\" colwidth=\"3.87*\" /><colspec colname=\"COLSPEC0\" colnum=\"2\" colwidth=\"40.67*\" /><colspec colname=\"col2\" colnum=\"3\" colwidth=\"35.47*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colsep=\"0\" nameend=\"COLSPEC0\" namest=\"col1\" valign=\"top\"><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Tauchtiefe von<BR /> bis zu 5 Metern</LA></DD></DL></entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">16,08 Euro,</entry></row><row><entry VJ=\"1\" colsep=\"0\" nameend=\"COLSPEC0\" namest=\"col1\" valign=\"top\"><DL Font=\"normal\" Type=\"arabic\"><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Tauchtiefe von<BR /> mehr als 5 Metern</LA></DD></DL></entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">19,52 Euro,</entry></row><row><entry VJ=\"1\" colsep=\"0\" nameend=\"COLSPEC0\" namest=\"col1\" valign=\"top\"><DL Font=\"normal\" Type=\"arabic\"><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Tauchtiefe von<BR /> mehr als 10 Metern</LA></DD></DL></entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">24,25 Euro,</entry></row><row><entry VJ=\"1\" colsep=\"0\" nameend=\"COLSPEC0\" namest=\"col1\" valign=\"top\"><DL Font=\"normal\" Type=\"arabic\"><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Tauchtiefe von<BR /> mehr als 15 Metern oder beim<BR />Tauchen mit reinem Sauerstoff</LA></DD></DL></entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">31,24 Euro.</entry></row></tbody></tgroup></table><BR /><BR />Bei Tauchtiefen von mehr als zwanzig Metern erh\u00f6ht sich die Zulage f\u00fcr je f\u00fcnf Meter weiterer Tauchtiefe um 6,24 Euro je Stunde.</P><P>(3) Die Zulage nach Absatz 2 erh\u00f6ht sich f\u00fcr Tauchert\u00e4tigkeit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Str\u00f6mung mit Stromschutz gleich welcher Art um 15 Prozent,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Str\u00f6mung ohne Stromschutz um 30 Prozent,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Seewasserstra\u00dfen oder auf offener See um 25 Prozent,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Binnenwasserstra\u00dfen bei Lufttemperaturen von weniger als 3 <ABWFORMAT typ=\"A\" />Grad C W\u00e4rme um 25 Prozent.</LA></DD></DL></P><P>(4) Die Zulage f\u00fcr Tauchert\u00e4tigkeit nach \u00a7 7 Abs. 2 Satz 2 betr\u00e4gt je Stunde ein Drittel der S\u00e4tze nach Absatz 2.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE002903310",
+        "name": "\u00a7 9",
+        "title": "Berechnung der Zulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000404310"
+        },
+        "body": "<P>(1) Die Zulage wird nach Stunden berechnet. Die Zeiten sind f\u00fcr jeden Kalendertag zu ermitteln, und das Ergebnis ist zu runden. Dabei bleiben Zeiten von weniger als zehn Minuten unber\u00fccksichtigt; Zeiten von zehn bis drei\u00dfig Minuten werden auf eine halbe Stunde, von mehr als drei\u00dfig Minuten auf eine volle Stunde aufgerundet.</P><P>(2) Als Tauchzeit gilt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Helmtaucher die Zeit unter dem geschlossenen Taucherhelm,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Schwimmtaucher die Zeit unter der Atemmaske,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Arbeiten in Druckkammern die Zeit von Beginn des Einschleusens bis zum Ende des Ausschleusens.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG000505311",
+        "name": "Titel 3",
+        "title": "Zulagen f\u00fcr den Umgang mit Munition und Sprengstoffen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000205310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE003009377",
+        "name": "\u00a7 10",
+        "title": "Zulage f\u00fcr das R\u00e4umen und Vernichten von Munition sowie f\u00fcr das Erproben besonders gef\u00e4hrlicher Munition",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000505311"
+        },
+        "body": "<P>(1) Soldaten mit Berechtigungsschein zum Vernichten von Munition oder mit abgeschlossener Ausbildung als Feuerwerker und Beamte mit Bef\u00e4higungsschein F erhalten, wenn sie auf Truppen\u00fcbungs- oder Schie\u00dfpl\u00e4tzen, auf See, bei Erprobungsstellen der Bundeswehr oder gem\u00e4\u00df dienstlicher Weisung an sonstigen Pl\u00e4tzen Blindg\u00e4nger (Munition) r\u00e4umen oder vernichten, eine Zulage. Die T\u00e4tigkeit mu\u00df zum st\u00e4ndigen Aufgabenbereich des Soldaten oder Beamten geh\u00f6ren und von ihm selbst ausge\u00fcbt werden. Die Zulage betr\u00e4gt 4,67 Euro f\u00fcr jeden Tag, an dem eine T\u00e4tigkeit nach Satz 1 ausge\u00fcbt wird. Bei einem Einsatz von mehr als sechs Stunden t\u00e4glich erh\u00f6ht sich die Zulage f\u00fcr jede weitere volle Stunde um 0,94 Euro, h\u00f6chstens jedoch bis zu 9,40 Euro.</P><P>(2) Beamte und Soldaten erhalten f\u00fcr das Laborieren, Delaborieren, Untersuchen von Munition und Munitionskomponenten mit besonders hohem Gef\u00e4hrlichkeitsgrad, insbesondere von unbekannter, beanstandeter oder belasteter Munition, eine Zulage nach Ma\u00dfgabe des Absatzes 1.</P><P>(3) Die Zulage wird nicht neben der Minentaucherzulage nach \u00a7 23e gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE003109377",
+        "name": "\u00a7 11",
+        "title": "Zulage f\u00fcr Sprengstoffentsch\u00e4rfer und Sprengstoffermittler",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000505311"
+        },
+        "body": "<P>(1) Beamte und Soldaten mit g\u00fcltigem Nachweis \u00fcber eine erfolgreich abgeschlossene Ausbildung zum Sprengstoffentsch\u00e4rfer, deren st\u00e4ndige Aufgabe das Pr\u00fcfen, Entsch\u00e4rfen und Beseitigen unkonventioneller Spreng- und Brandvorrichtungen ist, erhalten eine Zulage. Die Zulage betr\u00e4gt 35,78 Euro f\u00fcr jeden Einsatz im unmittelbaren Gefahrenbereich, der erforderlich wird, um verd\u00e4chtige Gegenst\u00e4nde einer n\u00e4heren Behandlung zu unterziehen. Unmittelbarer Gefahrenbereich ist der Wirkungsbereich einer m\u00f6glichen Explosion oder eines Brandes. Die Behandlung umfa\u00dft insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">optische, akustische, elektronische und mechanische Pr\u00fcfung auf Spreng-, Z\u00fcnd- und Brandvorrichtungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcberwinden von Sprengfallen, \u00d6ffnen von unkonventionellen Spreng- und Brandvorrichtungen, Trennen der Z\u00fcndkette, Unterbrechen der Z\u00fcndausl\u00f6sevorrichtung, Neutralisieren, Phlegmatisieren,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vernichten, Transportvorbehandlung, Verladen, Transportieren der unkonventionellen Spreng- und Brandvorrichtungen oder ihrer Teile.</LA></DD></DL></P><P>(2) Besondere Schwierigkeiten bei dem Unsch\u00e4dlichmachen oder Delaborieren von Spreng- und Brandvorrichtungen oder \u00e4hnlichen Gegenst\u00e4nden, die explosionsgef\u00e4hrliche Stoffe enthalten, k\u00f6nnen mit einer Erh\u00f6hung der Zulage auf bis zu 357,80 Euro f\u00fcr jeden Einsatz abgegolten werden.</P><P>(3) Beamte und Soldaten mit g\u00fcltigem Nachweis \u00fcber eine erfolgreich abgeschlossene Ausbildung zum Sprengstoffermittler, die im Rahmen ihrer T\u00e4tigkeit als Sprengstoffermittler mit explosionsgef\u00e4hrlichen Stoffen umgehen, erhalten eine Zulage von 21,48 Euro je Einsatz. Der Umgang umfa\u00dft insbesondere Sicherstellung, Asservierung und Transport.</P><P>(4) Die Zulagen nach den Abs\u00e4tzen 1 und 2 werden nicht neben der Minentaucherzulage nach \u00a7 23e gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG000605311",
+        "name": "Titel 4",
+        "title": "Zulage f\u00fcr T\u00e4tigkeiten an Antennen und Antennentr\u00e4gern; Zulage f\u00fcr T\u00e4tigkeiten an Ger\u00e4ten und Ger\u00e4tetr\u00e4gern des Wetterdienstes und des Vermessungsdienstes sowie an Windmasten des lufthygienischen \u00dcberwachungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000205310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE003203310",
+        "name": "\u00a7 12",
+        "title": "Allgemeine Voraussetzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000605311"
+        },
+        "body": "<P>(1) Beamte und Soldaten erhalten eine Zulage f\u00fcr T\u00e4tigkeiten an Antennen oder Antennentr\u00e4gern, wenn diese T\u00e4tigkeiten zu ihren regelm\u00e4\u00dfigen Aufgaben geh\u00f6ren.</P><P>(2) T\u00e4tigkeiten an Antennen oder Antennentr\u00e4gern sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Besteigen von Antennentr\u00e4gern \u00fcber Leitern oder Sprossen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Arbeiten in einer H\u00f6he von mindestens zwanzig Metern \u00fcber dem Erdboden an und auf \u00fcber Leitern oder Sprossen zu besteigenden Antennentr\u00e4gern oder an Antennen, die sich auf D\u00e4chern und Plattformen ohne Randsicherung (oder ohne seitliche Abdeckung) oder an wegen ihrer schweren Zug\u00e4nglichkeit \u00e4hnlich gef\u00e4hrlichen Stellen befinden.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE003307377",
+        "name": "\u00a7 13",
+        "title": "H\u00f6he der Zulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000605311"
+        },
+        "body": "<P>(1) Die Zulage f\u00fcr eine T\u00e4tigkeit nach \u00a7 12 Abs. 2 Nr. 1 betr\u00e4gt f\u00fcr jeden Tag bei \u00dcberwindung eines H\u00f6henunterschiedes <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"40*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"20*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 20 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2,14 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 50 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3,58 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 100 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5,73 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 200 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">9,31 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 300 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">12,88 Euro.</entry></row></tbody></tgroup></table><BR />Diese S\u00e4tze erh\u00f6hen sich, wenn vom Erdboden bis zum Fu\u00dfpunkt der Leitern oder Sprossen ein H\u00f6henunterschied besteht <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"40*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"20*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 50 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">um 0,71 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 100 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">um 1,43 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 200 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">um 2,14 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">von mehr als 300 Metern</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">um 2,87 Euro.</entry></row></tbody></tgroup></table><BR />Sie erh\u00f6hen sich ferner, wenn die T\u00e4tigkeit in den Monaten November bis M\u00e4rz durchgef\u00fchrt wird, um jeweils 25 Prozent.</P><P>(2) Die Zulage f\u00fcr T\u00e4tigkeiten nach \u00a7 12 Abs. 2 Nr. 2 betr\u00e4gt f\u00fcr jeden Tag bei <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"80*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Inaugenscheinnahme aus besonderem Anla\u00df, Pr\u00fcfg\u00e4ngen, Erkundungen, Einweisungen oder Beaufsichtigungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1,43 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Instandhalten, Instandsetzen oder Abnehmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2,14 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Errichten oder Abbrechen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2,87 Euro.</entry></row></tbody></tgroup></table><BR />Die S\u00e4tze erh\u00f6hen sich, wenn die T\u00e4tigkeiten in den Monaten November bis M\u00e4rz durchgef\u00fchrt werden, um jeweils 25 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE003403310",
+        "name": "\u00a7 14",
+        "title": "Berechnung der Zulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000605311"
+        },
+        "body": "<P>Die Zulagen nach \u00a7 12 Abs. 2 Nr. 1 und 2 werden nebeneinander gew\u00e4hrt; jede Zulage wird f\u00fcr jeden Tag nur einmal, und zwar nach dem h\u00f6chsten zustehenden Satz gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE003504311",
+        "name": "\u00a7 15",
+        "title": "Zulage f\u00fcr T\u00e4tigkeiten an Ger\u00e4ten und Ger\u00e4tetr\u00e4gern des Wetterdienstes und des Vermessungsdienstes sowie an Windmasten des lufthygienischen \u00dcberwachungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000605311"
+        },
+        "body": "<P>Die \u00a7\u00a7 12 bis 14 gelten entsprechend f\u00fcr T\u00e4tigkeiten an Ger\u00e4ten und Ger\u00e4tetr\u00e4gern des Wetterdienstes und an trigonometrischen Beobachtungseinrichtungen des Vermessungsdienstes sowie an Windmasten des lufthygienischen \u00dcberwachungsdienstes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG000706116",
+        "name": "Titel 5",
+        "title": "Sonstige einzeln abzugeltende Erschwernisse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000205310"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE003607377",
+        "name": "\u00a7 16",
+        "title": "Zulage f\u00fcr Klimaerprobung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000706116"
+        },
+        "body": "<P>Beamte und Soldaten, die an einer Klimaerprobung im Freien bei extremen K\u00e4lte- oder Hitzeeinwirkungen teilnehmen, erhalten eine Zulage. Die Zulage betr\u00e4gt bei einem Wind-Chill-Faktor von mindestens 1\u00a0400 oder bei einem Wet-Bulb-Globe-Temperature-Index von mindestens 20 <ABWFORMAT typ=\"A\" />Grad C 2,87 Euro t\u00e4glich. Die Zulage erh\u00f6ht sich bei einem Wind-Chill-Faktor von mehr als 1\u00a0600 oder bei einem Wet-Bulb-Globe-Temperature-Index von mehr als 30 <ABWFORMAT typ=\"A\" />Grad C um 0,71 Euro t\u00e4glich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE005404116",
+        "name": "\u00a7 16a",
+        "title": "Zulage f\u00fcr Unterdruckkammerdienst",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000706116"
+        },
+        "body": "<P>(1) Soldaten im Unterdruckkammerdienst beim Flugmedizinischen Institut der Luftwaffe, die in einer simulierten H\u00f6he von mindestens 5\u00a0000 m verwendet werden, erhalten eine Zulage.</P><P>(2) Die Zulage betr\u00e4gt 9,36 Euro pro Stunde. \u00a7 9 Absatz 1 gilt entsprechend. Der Einsatz beginnt mit dem Einschleusen und endet mit dem Ausschleusen.</P><P>(3) Die Zulage wird nicht gew\u00e4hrt neben der Fliegerzulage nach \u00a7 23f.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE008201360",
+        "name": "\u00a7 16b",
+        "title": "Zulage f\u00fcr Ausbildungst\u00e4tigkeiten im Feuerwehrdienst der Bundeswehr",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000706116"
+        },
+        "body": "<P>(1) Beamte und Soldaten des Feuerwehrdienstes erhalten f\u00fcr die praktische Ausbildung in Feuerwehr\u00fcbungsh\u00e4usern oder vergleichbaren Anlagen, in denen Brandereignisse unter realen Bedingungen simuliert werden, eine Zulage in H\u00f6he von 11,75 Euro pro Stunde.</P><P>(2) Sie erhalten f\u00fcr die praktische Ausbildung in der Rettung aus H\u00f6hen und Tiefen eine Zulage in H\u00f6he von 1,50 Euro pro Stunde.</P><P>(3) \u00a7 9 Absatz 1 gilt entsprechend.</P><P>(4) Die Zulage wird nicht neben einer Zulage nach Nummer 10 Absatz 2 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE008400360",
+        "name": "\u00a7 16c",
+        "title": "Zulage f\u00fcr die Begleitung von R\u00fcckf\u00fchrungen auf dem Luftweg",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000706116"
+        },
+        "body": "<P>(1) Beamte mit Anspruch auf die Stellenzulage nach Nummer 9 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes erhalten f\u00fcr die Begleitung von R\u00fcckf\u00fchrungen auf dem Luftweg eine Zulage. Die R\u00fcckf\u00fchrung auf dem Luftweg beginnt mit dem Schlie\u00dfen der Au\u00dfent\u00fcren des Luftfahrzeugs und endet mit der \u00dcbergabe des R\u00fcckzuf\u00fchrenden an die Beh\u00f6rden des Zielstaates.</P><P>(2) Die Zulage betr\u00e4gt bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">einer innereurop\u00e4ischen R\u00fcckf\u00fchrung</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">70 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">einer au\u00dfereurop\u00e4ischen R\u00fcckf\u00fchrung</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">100 Euro.</entry></row></tbody></tgroup></table></LA></DD></DL></P><P>(3) Zwingen au\u00dfergew\u00f6hnliche Umst\u00e4nde zu einer begleiteten R\u00fcckkehr des R\u00fcckzuf\u00fchrenden nach Deutschland, wird die Zulage nicht erneut gew\u00e4hrt. Wird die R\u00fcckf\u00fchrungsma\u00dfnahme nach dem Schlie\u00dfen der Au\u00dfent\u00fcren abgebrochen, steht mindestens die Zulage nach Absatz 2 Nummer 1 zu.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE005119360",
+        "name": "\u00a7 17",
+        "title": "Zulage f\u00fcr T\u00e4tigkeiten mit kontaminierten Personen oder Gegenst\u00e4nden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG000706116"
+        },
+        "body": "<P>(1) Beamte, die im Rahmen ihrer dienstlichen Pr\u00fcfungs-, Kontroll- oder Ermittlungst\u00e4tigkeit F\u00e4kalien oder mit F\u00e4kalien oder K\u00f6rperfl\u00fcssigkeiten kontaminierte Personen oder Gegenst\u00e4nde manuell untersuchen oder durchsuchen, erhalten eine Zulage, wenn der Kontakt mit der kontaminierten Person oder dem kontaminierten Gegenstand das als berufstypisch anzusehende Ma\u00df deutlich \u00fcbersteigt. Schwei\u00df gilt nicht als K\u00f6rperfl\u00fcssigkeit im Sinne des Satzes 1.</P><P>(2) In einem das berufstypische Ma\u00df deutlich \u00fcbersteigenden Ma\u00df mit F\u00e4kalien oder K\u00f6rperfl\u00fcssigkeiten im Sinne des Absatzes 1 Satz 1 kontaminiert sind insbesondere Gegenst\u00e4nde, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>im K\u00f6rper einer Person transportiert wurden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in Gegenst\u00e4nden deponiert wurden, die bestimmungsgem\u00e4\u00df mit F\u00e4kalien oder Blut kontaminierte Abf\u00e4lle enthalten, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sich in oder auf Gegenst\u00e4nden oder am K\u00f6rper von Personen befinden, die so erheblich mit F\u00e4kalien oder K\u00f6rperfl\u00fcssigkeiten kontaminiert oder verschmutzt sind, dass dadurch die Durchsuchung oder Untersuchung erschwert wird.</LA></DD></DL></P><P>(3) Die Zulage erhalten auch Beamte auf Widerruf im Vorbereitungsdienst, wenn sie die in Absatz 1 genannten Voraussetzungen erf\u00fcllen.</P><P>(4) Die Zulage betr\u00e4gt 11,10 Euro f\u00fcr jeden Tag, an dem eine T\u00e4tigkeit nach Absatz 1 ausge\u00fcbt wird, h\u00f6chstens jedoch 111 Euro monatlich.</P><P>(5) Die Zulage wird nicht neben der Zulage nach \u00a7 16c gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG002300311",
+        "name": "Abschnitt 3",
+        "title": "Zulage f\u00fcr Dienst zu wechselnden Zeiten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007600311",
+        "name": "\u00a7 17a",
+        "title": "Allgemeine Voraussetzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG002300311"
+        },
+        "body": "<P>Beamte und Soldaten erhalten eine monatliche Zulage, wenn sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu wechselnden Zeiten zum Dienst herangezogen werden und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Kalendermonat mindestens 5 Stunden Dienst in der Zeit zwischen 20 Uhr und 6 Uhr (Nachtdienststunden) leisten.</LA></DD></DL>Dienst zu wechselnden Zeiten wird geleistet, wenn mindestens viermal im Kalendermonat die Differenz zwischen den Anfangsuhrzeiten zweier Dienste mindestens 7 und h\u00f6chstens 17 Stunden betr\u00e4gt. Bereitschaftsdienst gilt nicht als Dienst im Sinne dieser Vorschrift.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007700311",
+        "name": "\u00a7 17b",
+        "title": "H\u00f6he der Zulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG002300311"
+        },
+        "body": "<P>(1) Die Zulage setzt sich zusammen aus <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Grundbetrag von 2,40 Euro je geleisteter Nachtdienststunde, h\u00f6chstens jedoch 108 Euro monatlich,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem Erh\u00f6hungsbetrag von 1 Euro f\u00fcr jede zwischen 0 Uhr und 6 Uhr geleistete Stunde sowie</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem monatlichen Zusatzbetrag von 20 Euro f\u00fcr Beamte und Soldaten, die im Kalendermonat mindestens dreimal \u00fcberwiegend an einem Samstag, Sonntag oder Feiertag zu Diensten herangezogen werden.</LA></DD></DL>F\u00fcr angefangene Stunden wird die Zulage anteilig gew\u00e4hrt.</P><P>(2) Geleistete Nachtdienststunden, die wegen der H\u00f6chstgrenze nach Absatz 1 Satz 1 Nummer 1 nicht mit dem Grundbetrag abgegolten werden, werden jeweils in den folgenden Kalendermonat \u00fcbertragen; angefangene Nachtdienststunden werden anteilig \u00fcbertragen. Der \u00dcbertrag ist auf 135 Nachtdienststunden begrenzt. Die \u00fcbertragenen Nachtdienststunden werden nach Ma\u00dfgabe des Absatzes 1 Satz 1 Nummer 1 auch dann verg\u00fctet, wenn in dem entsprechenden Kalendermonat die Voraussetzungen des \u00a7 17a nicht vorliegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007802360",
+        "name": "\u00a7 17c",
+        "title": "Ausschluss der Zulage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG002300311"
+        },
+        "body": "<P>Die Zulage wird nicht gew\u00e4hrt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>in den F\u00e4llen des \u00a7 30c Absatz 4 des Soldatengesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit nicht zwischen Volldienst und Bereitschaftsdienst unterschieden wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">folgenden Besoldungsempf\u00e4ngern: <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beamten, die als Pf\u00f6rtner oder W\u00e4chter t\u00e4tig sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Soldaten, die Wachdienst oder Sonderdienste im Innendienst leisten,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beamten und Soldaten, die <DL Font=\"normal\" Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zulagen nach \u00a7 22, \u00a7\u00a7 23m, 23o oder \u00a7 23p erhalten oder</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auslandsdienstbez\u00fcge oder einen Auslandsverwendungszuschlag nach dem 5. Abschnitt des Bundesbesoldungsgesetzes erhalten,</LA></DD></DL></LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beamten und Soldaten, die auf Schiffen und schwimmenden Ger\u00e4ten t\u00e4tig sind, wenn die durch diese T\u00e4tigkeit bedingte besondere Dienstplangestaltung bereits anderweitig ber\u00fccksichtigt ist.</LA></DD></DL></LA></DD></DL>Satz 1 Nummer 2 Buchstabe a gilt nicht f\u00fcr Beamte im Sicherungsdienst des Bundeskriminalamtes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007900311",
+        "name": "\u00a7 17d",
+        "title": "Weitergew\u00e4hrung bei vor\u00fcbergehender Dienstunf\u00e4higkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG002300311"
+        },
+        "body": "<P>(1) Die Zulage wird weitergew\u00e4hrt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beamten, die vor\u00fcbergehend dienstunf\u00e4hig sind <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Unfalls im Sinne des \u00a7 31a Absatz 2 des Beamtenversorgungsgesetzes oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">eines Dienstunfalls im Sinne des \u00a7 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Soldaten, die vor\u00fcbergehend dienstunf\u00e4hig sind <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Dienstunfalls im Sinne des \u00a7 27 des Soldatenversorgungsgesetzes in Verbindung mit \u00a7 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Unfalls im Sinne des \u00a7 63c Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.</LA></DD></DL></LA></DD></DL></P><P>(2) Die H\u00f6he der Zulage entspricht dem Durchschnitt der Zulagen f\u00fcr die letzten drei Monate vor Beginn des Monats, in dem die vor\u00fcbergehende Dienstunf\u00e4higkeit eingetreten ist. Steht dem Beamten oder Soldaten in dem Monat, in dem die vor\u00fcbergehende Dienstunf\u00e4higkeit eingetreten ist, auf Grund der tats\u00e4chlich geleisteten Dienste eine h\u00f6here Zulage zu, ist dieser Betrag ma\u00dfgeblich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG001105311",
+        "name": "Abschnitt 4",
+        "title": "Zulagen in festen Monatsbetr\u00e4gen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE005502311",
+        "name": "\u00a7 18",
+        "title": "Entstehen des Anspruchs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Der Anspruch auf die Zulage entsteht mit der tats\u00e4chlichen Aufnahme der zulageberechtigenden T\u00e4tigkeit und erlischt mit deren Beendigung, soweit in den Vorschriften dieses Abschnitts nichts anderes bestimmt ist.</P><P>(2) Besteht der Anspruch auf die Zulage nicht f\u00fcr einen vollen Kalendermonat und sieht die Zulageregelung eine tageweise Abgeltung nicht vor, wird nur der Teil der Zulage gezahlt, der auf den Anspruchszeitraum entf\u00e4llt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE005604311",
+        "name": "\u00a7 19",
+        "title": "Weitergew\u00e4hrung bei Unterbrechung der zulageberechtigenden T\u00e4tigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Bei einer Unterbrechung der zulageberechtigenden T\u00e4tigkeit wird die Zulage weitergew\u00e4hrt im Falle <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eines Erholungsurlaubs,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eines Sonderurlaubs unter Fortzahlung der Dienstbez\u00fcge,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Erkrankung einschlie\u00dflich Heilkur,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Dienstbefreiung oder einer Freistellung vom Dienst f\u00fcr besondere zeitliche Belastungen (\u00a7 50a des Bundesbesoldungsgesetzes),</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Teilnahme an Fortbildungsveranstaltungen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Dienstreise,</LA></DD></DL>soweit in den Vorschriften dieses Abschnitts nichts anderes bestimmt ist. In den F\u00e4llen des Satzes 1 Nummer 2 bis 6 wird die Zulage nur weitergew\u00e4hrt bis zum Ende des Monats, der auf den Eintritt der Unterbrechung folgt. Bei einer Unterbrechung der zulageberechtigenden T\u00e4tigkeit durch Erkrankung einschlie\u00dflich Heilkur, die auf einem Dienstunfall beruht, wird die Zulage weitergew\u00e4hrt bis zum Ende des sechsten Monats, der auf den Eintritt der Unterbrechung folgt.</P><P>(2) Absatz 1 Satz 2 und 3 gilt nicht <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Beamten, die vor\u00fcbergehend dienstunf\u00e4hig sind <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Unfalls im Sinne des \u00a7 31a Absatz 2 des Beamtenversorgungsgesetzes oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Dienstunfalls im Sinne des \u00a7 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Soldaten, die vor\u00fcbergehend dienstunf\u00e4hig sind <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Dienstunfalls im Sinne des \u00a7 27 des Soldatenversorgungsgesetzes in Verbindung mit \u00a7 37 Absatz 1 oder Absatz 2 des Beamtenversorgungsgesetzes oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge eines Unfalls im Sinne des \u00a7 63c Absatz 2 Satz 2 des Soldatenversorgungsgesetzes.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE004220311",
+        "name": "\u00a7 20",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE004314116",
+        "name": "\u00a7 21",
+        "title": "Zulage f\u00fcr allgemeine und besondere Dienste in der Gesundheits- und Krankenpflege",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten, die in der Gesundheits- und Krankenpflege verwendet werden, erhalten eine Zulage von monatlich 70 Euro.</P><P>(2) Beamte des einfachen und mittleren Dienstes und entsprechende Soldaten, die f\u00fcr die in Absatz 3 oder 4 genannten besonderen Dienste in der Gesundheits- und Krankenpflege verwendet werden, erhalten neben der Zulage nach Absatz 1 eine weitere Zulage.</P><P>(3) Eine Zulage von monatlich 70 Euro erh\u00e4lt, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in psychiatrischen oder neurologischen Kliniken, Abteilungen oder auf psychiatrischen oder neurologischen Stationen st\u00e4ndig Patienten mit psychiatrischem oder neurologischem Krankheitsbild pflegt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in psychiatrischen oder neurologischen Kliniken, Abteilungen oder auf psychiatrischen oder neurologischen Stationen in der elektrophysiologischen Funktionsdiagnostik oder in der R\u00f6ntgendiagnostik t\u00e4tig ist und st\u00e4ndig Patienten mit psychiatrischen oder neurologischem Krankheitsbild betreut oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">st\u00e4ndig Patienten mit psychiatrischem oder neurologischem Krankheitsbild bei der Arbeitstherapie beaufsichtigt oder st\u00e4ndig mit diesen Patienten zu arbeitstherapeutischen Zwecken zusammenarbeitet.</LA></DD></DL></P><P>(4) Eine Zulage von monatlich 150 Euro erh\u00e4lt, wer \u00fcberwiegend <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der An\u00e4sthesiepflege, in der Intensivmedizin oder im Operationsdienst einschlie\u00dflich der Vor- und Nachbereitung t\u00e4tig ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Patienten pflegt, die nach \u00a7 15 des Elften Buches Sozialgesetzbuch mit schweren Beeintr\u00e4chtigungen der Selbstst\u00e4ndigkeit dem Pflegegrad 3 oder einem h\u00f6heren Pflegegrad zugeordnet sind.</LA></DD></DL></P><P>(5) Eine Zulage nach Absatz 3 oder 4 erh\u00e4lt auch, wer die unmittelbare Aufsicht \u00fcber die vorstehend genannten und ihm st\u00e4ndig unterstellten Beamten und Soldaten wahrnimmt und dessen st\u00e4ndiger Vertreter.</P><P>(6) Sofern die Voraussetzungen nach den Abs\u00e4tzen 3 und 4 gleichzeitig erf\u00fcllt sind, wird nur die h\u00f6here Zulage gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE008801116",
+        "name": "\u00a7 21a",
+        "title": "Zulage f\u00fcr die Behandlung und Pflege bei schweren Infektionskrankheiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte des einfachen und mittleren Dienstes und entsprechende Soldaten, die in der Gesundheits- und Krankenpflege verwendet werden, erhalten eine Zulage von monatlich 90 Euro, wenn sie in daf\u00fcr dauerhaft oder zeitweise eingerichteten Behandlungseinheiten in kurativen Sanit\u00e4tseinrichtungen \u00fcberwiegend bei der Behandlung und Pflege von Patienten t\u00e4tig sind, die an einer Krankheit nach \u00a7 6 Absatz 1 oder Absatz 2 des Infektionsschutzgesetzes in der am 23. Mai 2020 geltenden Fassung erkrankt sind.</P><P>(2) Sofern neben den Voraussetzungen nach Absatz 1 auch die Voraussetzungen nach \u00a7 21 Absatz 3 oder 4 erf\u00fcllt sind, wird nur die h\u00f6here Zulage gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE004416360",
+        "name": "\u00a7 22",
+        "title": "Zulage f\u00fcr besondere Eins\u00e4tze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten mit Anspruch auf die Stellenzulage nach den Nummern 8 oder 9 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes erhalten eine Zulage, wenn sie f\u00fcr besondere Eins\u00e4tze verwendet werden. Eine Zulage erhalten auch Beamte mit Anspruch auf die Zulage nach Nummer 15 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes, wenn sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in einer der in Absatz 2 genannten Einheiten verwendet werden und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr diese \u00fcberwiegend in besonderen Eins\u00e4tzen mit Spezialtechnik unterst\u00fctzend t\u00e4tig sind.</LA></DD></DL></P><P>(2) Die H\u00f6he der Zulage ergibt sich aus nachstehender Tabelle: <BR /><BR /><table colsep=\"1\" frame=\"all\" pgwide=\"1\" tabstyle=\"Zulage\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec align=\"center\" colname=\"col1\" colwidth=\"9*\" /><colspec align=\"justify\" colname=\"col2\" colwidth=\"77*\" /><colspec align=\"center\" colname=\"col3\" colwidth=\"15.5*\" /><thead valign=\"bottom\"><row><entry VJ=\"1\" colname=\"col1\" morerows=\"1\" rowsep=\"1\" valign=\"middle\">Nummer</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\" rowsep=\"1\" valign=\"middle\">Verwendung</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\" rowsep=\"1\" valign=\"middle\">Betrag<BR /> (in Euro<BR /> pro Monat)</entry></row><row rowsep=\"1\"><entry VJ=\"1\" align=\"center\" colname=\"col2\">1</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">2</entry></row></thead><tbody valign=\"top\"><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">\u00a01</entry><entry VJ=\"1\" colname=\"col2\">in der Bundespolizei in der GSG 9</entry><entry VJ=\"1\" colname=\"col3\">500</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">\u00a02</entry><entry VJ=\"1\" colname=\"col2\">im Zollfahndungsdienst in der Zentralen Unterst\u00fctzungsgruppe Zoll</entry><entry VJ=\"1\" colname=\"col3\">469</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"1\">\u00a03</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"1\">im Zollfahndungsdienst in einer Observationseinheit Zoll</entry><entry VJ=\"1\" colname=\"col3\" morerows=\"1\" rowsep=\"0\" /></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">\u00a04</entry><entry VJ=\"1\" colname=\"col2\">im Bundeskriminalamt in einem Mobilen Einsatzkommando</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">\u00a05</entry><entry VJ=\"1\" colname=\"col2\">in einem Personenschutzkommando, das f\u00fcr Personenschutzaufgaben in ausl\u00e4ndischen Einsatzgebieten mit sehr hohen oder extremen Belastungen nach \u00a7 3 Absatz 1 Nummer 5 oder 6 der Auslandsverwendungszuschlagsverordnung eingerichtet ist</entry><entry VJ=\"1\" colname=\"col3\" valign=\"bottom\">375</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">\u00a06</entry><entry VJ=\"1\" colname=\"col2\">in der Bundespolizei als Flugsicherheitsbegleiter an Bord deutscher Luftfahrzeuge oder als Verdeckter Ermittler unter einer verliehenen, auf Dauer angelegten ver\u00e4nderten Identit\u00e4t (Legende)</entry><entry VJ=\"1\" colname=\"col3\" valign=\"bottom\">325</entry></row><row rowsep=\"1\"><entry VJ=\"1\" colname=\"col1\">\u00a07</entry><entry VJ=\"1\" colname=\"col2\">in der Bundespolizei in einer Beweissicherungs- und Festnahmeeinheit plus</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\" /></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"1\">\u00a08</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"1\">als Personensch\u00fctzer, soweit sie nicht von Nummer 5 erfasst sind</entry><entry VJ=\"1\" colname=\"col3\">250</entry></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"1\">\u00a09</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"1\">in der Bundespolizei in einer Mobilen Fahndungseinheit</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\" /></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"1\">10</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"1\">in der Bundespolizei in einer Beweissicherungs- und Festnahmehundertschaft</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\" /></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"1\">11</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"1\">bei den Nachrichtendiensten des Bundes in einer Observationsgruppe</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\" /></row><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"1\">12</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"1\">bei den Nachrichtendiensten des Bundes als zur verdeckten Informationsbeschaffung operativ t\u00e4tiger Beamter im Au\u00dfendienst oder mit unmittelbarem Kontakt zu Personen von nachrichtendienstlichem Interesse</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\" /></row><row><entry VJ=\"1\" colname=\"col1\">13</entry><entry VJ=\"1\" colname=\"col2\">bei den Nachrichtendiensten des Bundes, bei den Polizeibeh\u00f6rden des Bundes sowie beim Zollfahndungsdienst als \u00fcberwiegend im Au\u00dfendienst zur verdeckten Einsatz- und Ermittlungsunterst\u00fctzung eingesetzter Operativtechniker</entry><entry VJ=\"1\" colname=\"col3\" valign=\"bottom\">188.</entry></row></tbody></tgroup></table><BR /><BR />Die Zulage erhalten auch Beamte und Soldaten, die sich nach Abschluss eines Auswahlverfahrens in der Ausbildung zu einer der in Satz 1 genannten Verwendungen befinden. Abweichend von Satz 2 erhalten folgende Besoldungsempf\u00e4nger eine Zulage erst nach Abschluss der Ausbildung zu der jeweiligen Verwendung: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angeh\u00f6rige der Mobilen Fahndungseinheiten in der Bundespolizei,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angeh\u00f6rige der Beweissicherungs- und Festnahmehundertschaft in der Bundespolizei,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcberwiegend im Au\u00dfendienst eingesetzte Operativtechniker bei den Nachrichtendiensten des Bundes sowie bei den Polizeibeh\u00f6rden des Bundes.</LA></DD></DL></P><P>(3) Die Zulage wird neben einer Stellenzulage oder neben einer Zulage nach \u00a7 22a nur gew\u00e4hrt, soweit sie diese \u00fcbersteigt. Satz 1 gilt nicht f\u00fcr die Stellenzulage nach den Nummern 8, 9 oder 15 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes. Sofern mehrere Zulagentatbest\u00e4nde nach Absatz 2 erf\u00fcllt sind, wird nur die h\u00f6chste Zulage gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE005707360",
+        "name": "\u00a7 22a",
+        "title": "Zulage f\u00fcr Polizeivollzugsbeamte als fliegendes Personal",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Polizeivollzugsbeamte, die als Luftfahrzeugf\u00fchrer oder Flugtechniker in fliegenden Verb\u00e4nden, fliegerischen Ausbildungseinrichtungen oder den fliegenden Verb\u00e4nden gleichgestellten Einrichtungen, Einheiten und Dienststellen verwendet werden, erhalten eine Zulage.</P><P>(2) Die Zulage erhalten auch Polizeivollzugsbeamte, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund von Dienstvorschriften oder Dienstanweisungen als nichtst\u00e4ndige Luftfahrzeugbesatzungsangeh\u00f6rige zum Mitfliegen in Luftfahrzeugen verpflichtet sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Erf\u00fcllung ihrer Aufgaben als Pr\u00fcfer von Luftfahrtger\u00e4t oder als Systemoperator W\u00e4rmebildger\u00e4t zum Mitfliegen verpflichtet sind oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich in der Ausbildung zum Luftfahrzeugf\u00fchrer oder Flugtechniker befinden (Flugsch\u00fcler).</LA></DD></DL></P><P>(3) Die Zulage betr\u00e4gt monatlich f\u00fcr Polizeivollzugsbeamte in der Verwendung als <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"4.92*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"83.67*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"21.41*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Luftfahrzeugf\u00fchrer oder Flugtechniker jeweils mit Zusatzqualifikation</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">302 Euro,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Luftfahrzeugf\u00fchrer oder Flugtechniker jeweils ohne Zusatzqualifikation</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">242 Euro,</entry></row><row><entry VJ=\"1\">3.</entry><entry VJ=\"1\">nichtst\u00e4ndige Luftfahrzeugbesatzungsangeh\u00f6rige, Pr\u00fcfer von Luftfahrtger\u00e4t und Systemoperatoren W\u00e4rmebildger\u00e4t mit zehn oder mehr Fl\u00fcgen im laufenden Kalendermonat</entry><entry VJ=\"1\" align=\"right\" valign=\"bottom\">180 Euro,</entry></row><row><entry VJ=\"1\">4.</entry><entry VJ=\"1\">Flugsch\u00fcler</entry><entry VJ=\"1\" align=\"right\" valign=\"bottom\">96 Euro.</entry></row></tbody></tgroup></table>Werden im Falle des Satzes 1 Nummer 3 im laufenden Kalendermonat f\u00fcnf bis neun Fl\u00fcge nachgewiesen, betr\u00e4gt die Zulage f\u00fcr jeden Flug 18 Euro; eine Anrechnung von Fl\u00fcgen aus anderen Kalendermonaten und von Reisefl\u00fcgen ist nicht zul\u00e4ssig; \u00a7 19 ist nicht anzuwenden. Zusatzqualifikation im Sinne der Nummer 1 sind insbesondere Instrumentenflugberechtigung sowie die erworbene Ausbildung im Umgang mit Bildverst\u00e4rkerbrille oder W\u00e4rmebildkamera.</P><P>(4) Werden Luftfahrzeugf\u00fchrer als Fluglehrer verwendet, erh\u00f6ht sich der Betrag nach Absatz 3 Satz 1 Nummer 1 um 72 Euro und der Betrag nach Absatz 3 Satz 1 Nummer 2 um 60 Euro.</P><P>(5) Die Zulage wird nicht neben einer Fliegerzulage nach \u00a7 23f gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE004613116",
+        "name": "\u00a7 23",
+        "title": "Zulage f\u00fcr die Beseitigung von Munition aus den Weltkriegen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten erhalten, wenn sie als R\u00e4umgruppenleiter bei besonderen Entgiftungsarbeiten eingesetzt werden, eine Zulage. Die Zulage betr\u00e4gt monatlich 823,95 Euro, wenn die Beamten oder Soldaten 120 oder mehr Stunden im Kalendermonat im unmittelbaren Gefahrenbereich t\u00e4tig sind. Die Zulage verringert sich f\u00fcr jede Stunde, die an 120 Stunden fehlt, um 1/120.</P><P>(2) Beamte erhalten, wenn sie als Feuerwerker oder als Hilfskr\u00e4fte in Munitionsr\u00e4umgruppen zur Beseitigung von Munition und anderen Sprengk\u00f6rpern eingesetzt werden, eine Zulage. Die Zulage betr\u00e4gt monatlich h\u00f6chstens 398,81 Euro f\u00fcr den Feuerwerker, sofern er selbst Munition und Sprengk\u00f6rper entsch\u00e4rft, f\u00fcr die Hilfskr\u00e4fte h\u00f6chstens 281,21 Euro. Die Beamten m\u00fcssen 135 oder mehr Arbeitsstunden im Kalendermonat im unmittelbaren Gefahrenbereich t\u00e4tig sein. Sinkt die Zahl der Arbeitsstunden im unmittelbaren Gefahrenbereich im Kalendermonat um mehr als 30, so verringert sich die Zulage f\u00fcr jede Stunde, die an 135 Stunden fehlt, um 1/135.</P><P>(3) Eine T\u00e4tigkeit im unmittelbaren Gefahrenbereich nach Absatz 2 ist das Suchen, Pr\u00fcfen, Entfernen, Entsch\u00e4rfen, Sprengen oder Zerlegen von Munition oder Munitionsteilen sowie deren Transport.</P><P>(4) F\u00fcr die Entsch\u00e4rfung von Bomben mit Langzeitz\u00fcndern oder f\u00fcr sonstige besonders schwierige Entsch\u00e4rfungen mit au\u00dfergew\u00f6hnlichem Gefahrenmoment oder f\u00fcr den Transport nicht entsch\u00e4rfter Bomben mit Langzeitz\u00fcndern und Ausbausperre kann die Zulage nach Absatz 2 um einen Betrag bis zu 255,65 Euro erh\u00f6ht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE005209116",
+        "name": "\u00a7 23a",
+        "title": "Zulage f\u00fcr T\u00e4tigkeiten im Seuchenbetrieb des Friedrich-Loeffler-Instituts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte des Friedrich-Loeffler-Instituts, Bundesforschungsinstitut f\u00fcr Tiergesundheit, die st\u00e4ndig im Seuchenbetrieb t\u00e4tig sind, erhalten eine Zulage von monatlich 71,58 Euro.</P><P>(2) Beamte erhalten eine Zulage, wenn sie mit Erregern der Risikogruppe 3 oder 4 nach \u00a7 3 der Biostoffverordnung vom 15. Juli 2013 (BGBl. I S. 2514) ohne zus\u00e4tzliche Barriere unmittelbar an Tieren t\u00e4tig sind und besondere Schutzma\u00dfnahmen ergreifen m\u00fcssen. Die Zulage betr\u00e4gt 5 Euro t\u00e4glich. Bei einem Einsatz von mehr als vier Stunden t\u00e4glich erh\u00f6ht sich die Zulage f\u00fcr jede weitere volle Stunde um 1 Euro; sie betr\u00e4gt jedoch h\u00f6chstens 10 Euro. \u00a7 9 Absatz 1 gilt entsprechend. Als Einsatzzeit gilt der Zeitraum vom Beginn des Einschleusens bis zum Ende des Ausschleusens. \u00a7 19 ist nicht anzuwenden.</P><P>(3) Sofern die Voraussetzungen nach den Abs\u00e4tzen 1 und 2 gleichzeitig erf\u00fcllt sind, wird nur die h\u00f6here Zulage gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006910360",
+        "name": "(XXXX)\u00a7\u00a7 23b und 23c",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE005907360",
+        "name": "\u00a7 23d",
+        "title": "Zulage f\u00fcr T\u00e4tigkeiten im Maschinenraum seegehender Schiffe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten, die im Maschinenraum eines seegehenden Schiffes verwendet werden, erhalten eine monatliche Zulage (Maschinenzulage).</P><P>(2) Die Maschinenzulage erhalten auch Beamte und Soldaten, die im Maschinenraum eines Binnenfahrzeuges der Bundeswehr t\u00e4tig sind, das durchgehend mehr als zw\u00f6lf Stunden seew\u00e4rts der Grenzen der Seefahrt (\u00a7 1 der Flaggenrechtsverordnung) eingesetzt ist. Eingeschlossen ist die Dauer des Aufenthalts in Seeh\u00e4fen, nicht jedoch die Dauer der An- und Abfahrt auf Binnengew\u00e4ssern.</P><P>(3) Die Maschinenzulage betr\u00e4gt f\u00fcr Verwendungen auf Schiffen <BR /><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">der Marine oder anderer Streitkr\u00e4fte</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">32,10 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">sonstiger Eigner</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">21,40 Euro.</entry></row></tbody></tgroup></table></LA></DD></DL></P><P>(4) Die Maschinenzulage wird nicht neben der Stellenzulage nach Nummer 9a Absatz 1 Satz 1 Nummer 2 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006008360",
+        "name": "\u00a7 23e",
+        "title": "Zulage f\u00fcr Minentaucher",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Soldaten, die als Minentaucher verwendet werden oder sich in der Ausbildung zum Minentaucher befinden, erhalten eine Zulage (Minentaucherzulage) in H\u00f6he von 550 Euro monatlich.</P><P>(2) Eine Minentaucherzulage erh\u00e4lt auch, wer als ausgebildeter Minentaucher nicht entsprechend verwendet wird, jedoch zur Erhaltung der erforderlichen Berechtigungen, F\u00e4higkeiten, Fertigkeiten und Kenntnisse verpflichtet ist. Die Zulage betr\u00e4gt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn zus\u00e4tzlich die Ver-<BR />pflichtung zur Teilnahme an</LA><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">Minentaucheins\u00e4tzen<BR />angeordnet ist</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">392 Euro monatlich,</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">im \u00dcbrigen</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">270 Euro monatlich.</entry></row></tbody></tgroup></table></LA></DD></DL></P><P>(3) Die Minentaucherzulage wird nicht neben der Stellenzulage nach Nummer 9a Absatz 1 Satz 1 Nummer 2 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006107360",
+        "name": "\u00a7 23f",
+        "title": "Zulage f\u00fcr fliegendes Personal der Bundeswehr und anderer Einrichtungen des Bundes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten, die als Luftfahrzeugf\u00fchrer, Waffensystemoffiziere, Luftfahrzeugoperationsoffiziere oder als st\u00e4ndige Luftfahrzeugbesatzungsangeh\u00f6rige in fliegenden Verb\u00e4nden, fliegerischen Ausbildungseinrichtungen, den fliegenden Verb\u00e4nden gleichgestellten Einrichtungen, Einheiten und Dienststellen oder im Erprobungs- oder G\u00fctepr\u00fcfdienst verwendet werden, erhalten eine Zulage (Fliegerzulage). Bei einer Verwendung au\u00dferhalb der in Satz 1 genannten Stellen wird die Fliegerzulage nur f\u00fcr die Dauer der Verpflichtung zur Erhaltung der vorgeschriebenen Erlaubnis und der Berechtigungen gew\u00e4hrt.</P><P>(2) Die Fliegerzulage erhalten auch Beamte und Soldaten, wenn sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich in der fliegerischen Ausbildung zum Luftfahrzeugf\u00fchrer oder Luftfahrzeugbesatzungsangeh\u00f6rigen befinden sowie f\u00fcr die Dauer der Nachschulung zum Zwecke der Wiedererteilung einer Erlaubnis oder einer Berechtigung zum F\u00fchren von Luftfahrzeugen oder zum Einsatz auf Luftfahrzeugen (Fliegerausbildungsgruppe),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund von Dienstvorschriften oder Dienstanweisungen als nichtst\u00e4ndige Luftfahrzeugbesatzungsangeh\u00f6rige zum Mitfliegen in Luftfahrzeugen verpflichtet sind und mindestens f\u00fcnf Fl\u00fcge im laufenden Kalendermonat nachweisen (Sondergruppe); eine Anrechnung von Fl\u00fcgen aus anderen Kalendermonaten und von Reisefl\u00fcgen ist nicht zul\u00e4ssig.</LA></DD></DL></P><P>(3) Die Fliegerzulage betr\u00e4gt f\u00fcr Beamte und Soldaten in der Verwendung als <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"80*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"25*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Luftfahrzeugf\u00fchrer mit der Erlaubnis oder Berechtigung zum F\u00fchren von ein- oder zweisitzigen Strahlflugzeugen und Waffensystemoffiziere mit der Erlaubnis zum Einsatz auf zweisitzigen Strahlflugzeugen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">564 Euro monatlich,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">sonstige Strahlflugzeugf\u00fchrer, Luftfahrzeugoperationsoffiziere mit der Erlaubnis zum Einsatz auf sonstigen Luftfahrzeugen, Luftfahrzeugf\u00fchrer eines Seefernaufkl\u00e4rers, Transportflugzeugf\u00fchrer und Hubschrauberf\u00fchrer der Streitkr\u00e4fte, soweit nicht von Nummer 3 erfasst,</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">432 Euro monatlich,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Luftfahrzeugf\u00fchrer der Marine, soweit nicht von Nummer 2 erfasst, Hubschrauberf\u00fchrer der Flugbereitschaft des Bundesministeriums der Verteidigung und Hubschrauberf\u00fchrer in der fliegerischen Grundschulung des Heeres</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">372 Euro monatlich,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">sonstige st\u00e4ndige Luftfahrzeugbesatzungsangeh\u00f6rige mit der Erlaubnis zum Einsatz auf Luftfahrzeugen mit Ausnahme der Lufttransportbegleiter</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">294 Euro monatlich,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Lufttransportbegleiter</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">180 Euro monatlich,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">6.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Angeh\u00f6rige der Fliegerausbildungsgruppe</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">168 Euro monatlich,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">7.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Angeh\u00f6rige der Sondergruppe</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">138 Euro monatlich.</entry></row></tbody></tgroup></table><BR />Werden im Falle der Satz 1 Nummer 7 im laufenden Kalendermonat weniger als 15, jedoch mindestens f\u00fcnf Fl\u00fcge nachgewiesen, vermindert sich die Fliegerzulage f\u00fcr jeden fehlenden Flug um 9,20 Euro. \u00a7 19 ist nicht anzuwenden.</P><P>(4) Werden Luftfahrzeugf\u00fchrer als Fluglehrer verwendet und sind sie im Besitz der ma\u00dfgebenden Erlaubnis und Berechtigung, erh\u00f6ht sich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">der Betrag nach Absatz 3<BR />Satz 1 Nummer 1</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">um 144 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">der Betrag nach Absatz 3<BR />Satz 1 Nummer 2</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">um 108 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">der Betrag nach Absatz 3<BR />Satz 1 Nummer 3</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">um 96 Euro.</entry></row></tbody></tgroup></table></LA></DD></DL></P><P>(5) Abweichend von Absatz 3 betr\u00e4gt die Fliegerzulage in den F\u00e4llen des Absatzes 1 Satz 2 f\u00fcr <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"80*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"25*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Luftfahrzeugf\u00fchrer mit der Erlaubnis oder Berechtigung zum F\u00fchren von ein- oder zweisitzigen Strahlflugzeugen und Waffensystemoffiziere mit der Erlaubnis zum Einsatz auf zweisitzigen Strahlflugzeugen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">396 Euro monatlich,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Luftfahrzeugf\u00fchrer mit der Erlaubnis oder Berechtigung zum F\u00fchren von sonstigen Luftfahrzeugen und Luftfahrzeugoperationsoffiziere mit der Erlaubnis zum Einsatz auf sonstigen Luftfahrzeugen</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">270 Euro monatlich.</entry></row></tbody></tgroup></table></P><P>(6) Die Zulage wird nicht neben einer Zulage nach \u00a7 22a gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006203377",
+        "name": "\u00a7 23g",
+        "title": "Zulage f\u00fcr technische Luftfahrzeugf\u00fchrer im Erprobungs- und G\u00fctepr\u00fcfdienst",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten als Luftfahrzeugf\u00fchrer im Erprobungs- oder G\u00fctepr\u00fcfdienst, die im Besitz der erforderlichen Flugerlaubnis und Berechtigung sind, erhalten eine Zulage, wenn sie \u00fcberwiegend <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Erprobungsflieger mit abgeschlossener Ausbildung als Testpilot, die<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Erprobungsfl\u00fcge mit noch nicht mustergepr\u00fcften Flugzeug-Neuentwicklungen zum Zwecke der Musterpr\u00fcfung oder vorl\u00e4ufigen Zulassung durchf\u00fchren, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Flugerprobungsgruppen verantwortlich leiten und dabei entsprechende Erprobungsfl\u00fcge durchzuf\u00fchren haben, oder</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Luftfahrzeugf\u00fchrer im Erprobungs- oder G\u00fctepr\u00fcfflugdienst mit abgeschlossener Ausbildung als Testpilot und nach langj\u00e4hriger T\u00e4tigkeit als Luftfahrzeugf\u00fchrer im Erprobungs- oder G\u00fctepr\u00fcfdienst auf mehreren Luftfahrzeugmustern</LA></DD></DL>verwendet werden. Die abgeschlossene Ausbildung als Testpilot erfordert die erfolgreiche Teilnahme an einem Lehrgang einer anerkannten Testpilotenschule.</P><P>(2) Die Zulage betr\u00e4gt in den F\u00e4llen <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"50*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"50*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">des Absatzes 1 Nr. 1</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">214,75 Euro monatlich,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">des Absatzes 1 Nr. 2</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">143,16 Euro monatlich.</entry></row></tbody></tgroup></table><BR />Liegen die Voraussetzungen nach Absatz 1 Nr. 1 und 2 vor, so ist nur die h\u00f6here Zulage zu gew\u00e4hren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006307116",
+        "name": "\u00a7 23h",
+        "title": "Zulage f\u00fcr Fallschirmspringer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten, die nach erfolgreich abgeschlossener Fallschirmsprungausbildung mit der Erlaubnis zum Fallschirmspringen in einem Verband, einer Einheit oder Dienststelle, deren Ausbildungs- oder Einsatzauftrag das Fallschirmspringen einschlie\u00dft, als Fallschirmspringer oder Ausbilder f\u00fcr den Fallschirmsprungdienst verwendet werden, erhalten eine Zulage (Fallschirmspringerzulage). Die Fallschirmspringerzulage erhalten auch Beamte und Soldaten w\u00e4hrend der Ausbildung oder der Nachschulung zum Fallschirmsprungdienst.</P><P>(2) Die Zulage erhalten auch Soldaten, die nicht als Fallschirmspringer oder Ausbilder f\u00fcr den Fallschirmsprungdienst verwendet werden, jedoch \u00fcber eine Erlaubnis im Sinne des Absatzes 1 Satz 1 verf\u00fcgen und zum \u00dcben im Fallschirmspringen verpflichtet sind.</P><P>(3) Die Erlaubnis zum Fallschirmspringen setzt den Besitz des Fallschirmspringerscheines mit Beiblatt oder der Ersatzerlaubnis voraus. Zus\u00e4tzlich kann eine Berechtigung erteilt werden.</P><P>(4) Die H\u00f6he der Zulage betr\u00e4gt 161,06 Euro monatlich, f\u00fcr Soldaten im Sinne des Absatzes 2 betr\u00e4gt sie 48,31 Euro monatlich.</P><P>(5) Die Fallschirmspringerzulage wird neben <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Zulage f\u00fcr Beamte als Verdeckte Ermittler nach \u00a7 22 in H\u00f6he von 53,69 Euro monatlich,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Zulage f\u00fcr Polizeivollzugsbeamte f\u00fcr besondere polizeiliche Eins\u00e4tze nach \u00a7 22, der Zulage f\u00fcr Spezialkr\u00e4fte der Bundeswehr nach \u00a7 23m Absatz 1 und der Zulage f\u00fcr spezialisierte Kr\u00e4fte der Bundeswehr nach \u00a7 23o in H\u00f6he von 89,47 Euro monatlich,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bergf\u00fchrerzulage nach \u00a7 23l Abs. 1 in H\u00f6he von 134,22 Euro monatlich</LA></DD></DL>gew\u00e4hrt. Sie wird nicht neben der Minentaucherzulage nach \u00a7 23e gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006407116",
+        "name": "\u00a7 23i",
+        "title": "Zulage f\u00fcr Verwendungen im milit\u00e4rischen Flugsicherungsbetriebsdienst und im Einsatzf\u00fchrungsdienst",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten im milit\u00e4rischen Flugsicherungsbetriebsdienst oder im Einsatzf\u00fchrungsdienst erhalten eine Zulage.</P><P>(2) Eine monatliche Zulage in H\u00f6he von 64,41 Euro erh\u00e4lt Flugberatungspersonal in Flugsicherungsstellen.</P><P>(3) Eine monatliche Zulage in H\u00f6he von 107,37 Euro erh\u00e4lt Flugberatungspersonal in zentralen Stellen oder bei der Flugbereitschaft des Bundesministeriums der Verteidigung, Flugdienstberatungsoffiziere sowie Einsatzf\u00fchrungsstabsoffiziere mit Radarf\u00fchrungslizenz als Aufsichtspersonal im Einsatzf\u00fchrungsdienst.</P><P>(4) Eine monatliche Zulage, deren H\u00f6he sich nach dem Belastungswert richtet, erh\u00e4lt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Flugsicherungskontrollpersonal,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das lizenzierte Betriebspersonal des Einsatzf\u00fchrungsdienstes, das in milit\u00e4rischen Dienststellen bei der Erarbeitung der Luftlage sowie der Leitung von Luftfahrzeugen verwendet wird und \u00fcber die \u00f6rtliche Zulassung verf\u00fcgt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das \u00fcbrige Personal des Einsatzf\u00fchrungsdienstes.</LA></DD></DL>Der Belastungswert errechnet sich aus den im Durchschnitt der letzten drei Kalenderjahre j\u00e4hrlich kontrollierten Flugbewegungen der jeweiligen Flugsicherungs- und Einsatzf\u00fchrungsdienststelle im Verh\u00e4ltnis zum eingesetzten Personal. Bei Platzschlie\u00dfungen von mehr als drei Monaten werden der Berechnung die im Kalenderjahr vor dem in Satz 2 genannten Zeitraum kontrollierten Flugbewegungen zugrunde gelegt.</P><P>(5) Die Zulage nach Absatz 4 betr\u00e4gt: <table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colwidth=\"25*\" /><colspec colname=\"col2\" colwidth=\"25*\" /><colspec colname=\"col3\" colwidth=\"25*\" /><thead valign=\"bottom\"><row><entry VJ=\"1\" align=\"center\" colname=\"col1\" valign=\"middle\">Belastungswert<BR /> (Gruppe)</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\">Personal<BR />nach Absatz 4<BR /> Nummer 1 und 2</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">Personal<BR />nach Absatz 4<BR /> Nummer 3</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">mehr als 1\u00a0000<BR /> (Gruppe I)</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\">114,53 Euro</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">42,95 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">mehr als 2\u00a0000<BR /> (Gruppe II)</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\">143,16 Euro</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">57,26 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">mehr als 4\u00a0500<BR /> (Gruppe III)</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\">171,79 Euro</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">71,58 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">mehr als 7\u00a0000<BR /> (Gruppe IV)</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\">200,42 Euro</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\">85,90 Euro</entry></row></tbody></tgroup></table></P><P>Das Bundesministerium der Verteidigung legt die Zuordnung der betroffenen Dienststellen, einschlie\u00dflich ihrer disloziert eingesetzten Truppenteile, zu den Gruppen j\u00e4hrlich fest.</P><P>(6) Die Zulage wird neben der Fliegerzulage nach \u00a7 23f nur gew\u00e4hrt, soweit sie diese \u00fcbersteigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006506116",
+        "name": "\u00a7 23j",
+        "title": "Zulage f\u00fcr Verwendungen in verbunkerten Anlagen im Gesch\u00e4ftsbereich des Bundesministeriums der Verteidigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Wer st\u00e4ndig innerhalb einer verbunkerten Anlage verwendet wird, erh\u00e4lt eine Zulage (Bunkerzulage) in H\u00f6he von 30 Euro monatlich.</P><P>(2) Verbunkerte Anlagen sind Bauwerke, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht \u00fcber M\u00f6glichkeiten einer direkten Zufuhr von nat\u00fcrlichem Licht und Au\u00dfenluft verf\u00fcgen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch besondere bauliche Vorkehrungen dazu bestimmt sind, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Insassen oder Einrichtungen der Anlage vor Gefahren von au\u00dfen zu sch\u00fctzen oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Umgebung vor Gefahren durch den Betrieb der Anlage zu sch\u00fctzen.</LA></DD></DL></LA></DD></DL></P><P>(3) Das Bundesministerium der Verteidigung oder die von ihm erm\u00e4chtigte Stelle stellt fest, welche Geb\u00e4ude die Voraussetzungen nach Absatz 2 erf\u00fcllen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006603377",
+        "name": "\u00a7 23k",
+        "title": "Zulage f\u00fcr Ausbilder bei Einzelk\u00e4mpferlehrg\u00e4ngen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Soldaten, die \u00fcberwiegend als Ausbilder bei Einzelk\u00e4mpferlehrg\u00e4ngen verwendet werden, erhalten eine Zulage in H\u00f6he von 85,90 Euro monatlich.</P><P>(2) Die Zulage wird neben einer Stellenzulage nach Nummer 4 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes oder einer Fallschirmspringerzulage nach \u00a7 23h Abs. 4 in H\u00f6he von 48,31 Euro nur in H\u00f6he von 71,58 Euro monatlich gew\u00e4hrt; sie entf\u00e4llt neben einer Fallschirmspringerzulage in H\u00f6he von 161,06 Euro.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE006707116",
+        "name": "\u00a7 23l",
+        "title": "Zulage f\u00fcr Bergf\u00fchrer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten mit g\u00fcltigem Nachweis \u00fcber eine erfolgreich abgeschlossene Ausbildung zum Bergf\u00fchrer erhalten bei Verwendung als <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bergf\u00fchrer in der Bergausbildung von Polizeivollzugsbeamten oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bergf\u00fchrer der Bundeswehr</LA></DD></DL>eine Zulage (Bergf\u00fchrerzulage) in H\u00f6he von 150 Euro monatlich.</P><P>(2) Die Bergf\u00fchrerzulage erhalten auch Beamte und Soldaten f\u00fcr die Dauer ihrer in geschlossenen Lehrg\u00e4ngen stattfindenden Ausbildung zum Bergf\u00fchrer.</P><P>(3) Beamte und Soldaten, die nach erfolgreich abgeschlossener Ausbildung nicht nach Absatz 1 Nr. 1 oder 2 verwendet werden, jedoch zur Erhaltung ihres bergsteigerischen K\u00f6nnens verpflichtet sind, erhalten die Bergf\u00fchrerzulage in H\u00f6he von 60 Euro monatlich.</P><P>(4) Neben der Stellenzulage nach Nummer 9 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes wird die Bergf\u00fchrerzulage nach Absatz 1 nur in H\u00f6he von 100 Euro monatlich, die Bergf\u00fchrerzulage nach Absatz 3 nur in H\u00f6he von 40 Euro monatlich gew\u00e4hrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007106360",
+        "name": "\u00a7 23m",
+        "title": "Zulage f\u00fcr Spezialkr\u00e4fte der Bundeswehr",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Eine monatliche Zulage erh\u00e4lt, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Kommandosoldat oder als Kampfschwimmer f\u00fcr Einsatzaufgaben der Spezialkr\u00e4fte der Bundeswehr verwendet wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Abschluss eines Auswahlverfahrens bei den Spezialkr\u00e4ften der Bundeswehr f\u00fcr eine Verwendung im Sinne der Nummer 1 ausgebildet wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach abgeschlossener Ausbildung f\u00fcr eine Verwendung im Sinne der Nummer 1 nicht entsprechend dieser Ausbildung verwendet wird, jedoch zum Erhalt der erworbenen F\u00e4higkeiten, Fertigkeiten und Kenntnisse verpflichtet ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Luftfahrzeugf\u00fchrer oder st\u00e4ndiger Luftfahrzeugbesatzungsangeh\u00f6riger f\u00fcr Einsatzaufgaben der Spezialkr\u00e4fte der Bundeswehr verwendet wird.</LA></DD></DL></P><P>(2) Die Zulage betr\u00e4gt in den F\u00e4llen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">des Absatzes 1 Nummer 1 und 2</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">1\u00a0125 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">des Absatzes 1 Nummer 3 <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">wenn zus\u00e4tzlich die Verpflichtung<BR />zur Teilnahme an Eins\u00e4tzen der<BR />Spezialkr\u00e4fte angeordnet ist</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">800 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">im \u00dcbrigen</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">550 Euro,</entry></row></tbody></tgroup></table></LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">des Absatzes 1 Nummer 4</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">800 Euro.</entry></row></tbody></tgroup></table></LA></DD></DL></P><P>(3) Die Zulage nach Absatz 2 Nummer 1 wird neben einer Stellenzulage nur gew\u00e4hrt, soweit sie diese \u00fcbersteigt. Die \u00fcbrigen Zulagen werden jeweils neben einer Stellenzulage oder einer Zulage nach Abschnitt 4 nur gew\u00e4hrt, soweit der Gesamtbetrag die Zulage nach Absatz 2 Nummer 1 nicht \u00fcbersteigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE007202377",
+        "name": "\u00a7 23n",
+        "title": "Zulage f\u00fcr besondere Erprobungs- und Versuchsarbeiten im Gesch\u00e4ftsbereich des Bundesministeriums der Verteidigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten im Gesch\u00e4ftsbereich des Bundesministeriums der Verteidigung, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Erprobungs- und Versuchsarbeiten in der ABC-Abwehr oder dem medizinischen ABC-Schutz verwendet werden und dabei mit radioaktiven Stoffen, potentiellen biologischen oder potentiellen chemischen Kampfstoffen umgehen, erhalten eine Zulage in H\u00f6he von 128,84 Euro monatlich,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Erprobungs-, Reinigungs- und Versuchsarbeiten an H\u00f6chstleistungsr\u00f6ntgen- oder kernphysikalischen Beschleunigungsanlagen, unter Pressluft- oder Kreislaufatmungsger\u00e4ten mit Druckluftbeh\u00e4ltern und -zylindern ab 200 bar sowie unter ABC-Schutzkleidung und bei \u00dcberschlagsmessungen hoher elektrischer Spannungen bei Verwendung verschiedener L\u00f6schmittel verwendet werden, erhalten eine Zulage in H\u00f6he von 107,37 Euro monatlich,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Erprobungs- und Versuchsarbeiten mit festen, fl\u00fcssigen oder gasf\u00f6rmigen Stoffen, bei Brand-, Abbrand- oder Explosionsversuchen mit Brand-, Nebel- oder Flammkampfmitteln eingesetzt werden sowie unter Hitze- oder Flammschutzanz\u00fcgen starker Hitzeentwicklung ausgesetzt sind, erhalten eine Zulage in H\u00f6he von 85,90 Euro monatlich,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versuchstiere im Bereich der ABC-Abwehr oder des wehrwissenschaftlichen ABC-Schutzes pflegen oder vernichten, erhalten eine Zulage in H\u00f6he von 64,43 Euro monatlich.</LA></DD></DL></P><P>(2) Die Zulage wird nur gew\u00e4hrt, wenn die T\u00e4tigkeiten in h\u00e4ufiger Wiederholung ausge\u00fcbt werden und zu den regelm\u00e4\u00dfigen Aufgaben im Rahmen des normalen Dienstablaufs geh\u00f6ren. Personen, die \u00fcberwiegend eine Lehr- oder Verwaltungst\u00e4tigkeit aus\u00fcben, erhalten keine Zulage.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE008301360",
+        "name": "\u00a7 23o",
+        "title": "Zulage f\u00fcr spezialisierte Kr\u00e4fte der Bundeswehr",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Soldaten erhalten eine Zulage in H\u00f6he von 500 Euro monatlich, wenn sie f\u00fcr die folgenden Einsatzaufgaben ausgebildet sind und entsprechend verwendet werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einsatzaufgaben der spezialisierten Kr\u00e4fte des Heeres mit erweiterter Grundbef\u00e4higung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einsatzaufgaben des Spezialoperationen-Bootsteams,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einsatzaufgaben der spezialisierten ABC-Abwehrkr\u00e4fte,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einsatzaufgaben der luftlandef\u00e4higen Komponente f\u00fcr den elektronischen Kampf zur Nahunterst\u00fctzung im Einsatz,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Einsatzaufgaben der Kampfretter der Luftwaffe,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Einsatzaufgaben der spezialisierten Kr\u00e4fte der Marine im Rahmen von Bordeins\u00e4tzen sowie Sanit\u00e4tseins\u00e4tzen oder</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>notfallchirurgische Erstversorgung oder medizinische Unterst\u00fctzung von Evakuierungsma\u00dfnahmen durch Angeh\u00f6rige des Zentralen Sanit\u00e4tsdienstes der Bundeswehr.</LA></DD></DL></P><P>(2) Soldaten erhalten eine Zulage in H\u00f6he von 250 Euro monatlich, wenn sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr eine Verwendung nach Absatz 1 ausgebildet werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Dienststellen mit Aufgaben nach Absatz 1 oder in zentralen Ausbildungseinrichtungen verwendet werden und Soldaten f\u00fcr Aufgaben im Sinne des Absatzes 1 ausbilden oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>nach abgeschlossener Ausbildung nach Absatz 1 nicht entsprechend verwendet werden, jedoch zum Erhalt der erworbenen F\u00e4higkeiten, Fertigkeiten und Kenntnisse verpflichtet sind.</LA></DD></DL></P><P>(3) Sofern mehrere Zulagentatbest\u00e4nde erf\u00fcllt sind, wird nur die h\u00f6chste Zulage gew\u00e4hrt.</P><P>(4) Die Zulage nach Absatz 1 Nummer 1 bis 4 oder Absatz 2 wird neben einer Stellenzulage oder neben einer weiteren Zulage nach diesem Abschnitt nur gew\u00e4hrt, soweit der Gesamtbetrag die Zulage nach \u00a7 23m Absatz 2 Nummer 2 Buchstabe a nicht \u00fcbersteigt. Die Zulage nach Absatz 1 Nummer 5 bis 7 wird neben einer Stellenzulage oder neben einer weiteren Zulage nach diesem Abschnitt nur gew\u00e4hrt, soweit der Gesamtbetrag die Zulage nach \u00a7 23m Absatz 2 Nummer 1 nicht \u00fcbersteigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE008501125",
+        "name": "\u00a7 23p",
+        "title": "Zulage f\u00fcr besonders bef\u00e4higte Unterst\u00fctzungskr\u00e4fte der Spezialkr\u00e4fte der Bundeswehr",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Soldaten des Kommandos Spezialkr\u00e4fte sowie Soldaten, die in der Stabs- und F\u00fchrungsunterst\u00fctzungskompanie Special Operations Component Command, im Ausbildungsst\u00fctzpunkt Spezialkr\u00e4fte Heer oder in Personalwerbetrupps f\u00fcr Spezialkr\u00e4fte zur Wahrnehmung von Einsatzaufgaben des Kommandos Spezialkr\u00e4fte verwendet werden, erhalten eine monatliche Zulage, wenn sie weder die Voraussetzungen nach \u00a7 23m noch die Voraussetzungen nach \u00a7 23o erf\u00fcllen, und<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Teilnahme an Aufgaben im r\u00e4umlichen Einsatzgebiet der Spezialkr\u00e4fte der Bundeswehr ausgebildet sind und entsprechend verwendet werden<DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">im direkten Zusammenwirken mit den Kommandokr\u00e4ften oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Unterst\u00fctzung der Kommandokr\u00e4fte oder</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr eine Verwendung nach Nummer 1 ausgebildet werden.</LA></DD></DL></P><P>(2) Die Zulage betr\u00e4gt im Fall <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">des Absatzes 1 Nummer 1<BR />Buchstabe a</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">500 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">des Absatzes 1 Nummer 1<BR />Buchstabe b</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">300 Euro,</entry></row></tbody></tgroup></table></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">des Absatzes 1 Nummer 2</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">250 Euro.</entry></row></tbody></tgroup></table></LA></DD></DL>Sofern mehrere Zulagentatbest\u00e4nde erf\u00fcllt sind, wird nur die h\u00f6chste Zulage gew\u00e4hrt.</P><P>(3) Die Zulage wird neben einer Stellenzulage oder neben einer weiteren Zulage nach diesem Abschnitt nur gew\u00e4hrt, soweit der Gesamtbetrag die Zulage nach \u00a7 23m Absatz 2 Nummer 3 nicht \u00fcbersteigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE008600360",
+        "name": "\u00a7 23q",
+        "title": "Zulage f\u00fcr T\u00e4tigkeiten im protokollarischen Dienst des Wachbataillons beim Bundesministerium der Verteidigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Soldaten, die im protokollarischen Dienst des Wachbataillons beim Bundesministerium der Verteidigung verwendet oder f\u00fcr eine solche Verwendung ausgebildet werden, erhalten eine Zulage in H\u00f6he von 50 Euro monatlich. Die Zulage wird nicht neben einer Stellenzulage nach Nummer 4 der Vorbemerkungen zu den Bundesbesoldungsordnungen A und B des Bundesbesoldungsgesetzes gew\u00e4hrt.</P><P>(2) Der Anspruch entsteht fr\u00fchestens mit dem Tag des Dienstantritts.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE008700360",
+        "name": "\u00a7 23r",
+        "title": "Zulage f\u00fcr T\u00e4tigkeiten mit Biostoffen in Laboratorien",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG001105311"
+        },
+        "body": "<P>(1) Beamte und Soldaten, die in einem Laboratorium eine T\u00e4tigkeit aus\u00fcben, die nach \u00a7 5 der Biostoffverordnung vom 15. Juli 2013 (BGBl. I S. 2514), die zuletzt durch Artikel 146 des Gesetzes vom 29. M\u00e4rz 2017 (BGBl. I S. 626) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung der Schutzstufe 4 zugeordnet ist, erhalten eine Zulage. Die Zulage betr\u00e4gt 180 Euro monatlich, wenn die T\u00e4tigkeit nach Satz 1 in h\u00e4ufiger Wiederholung ausge\u00fcbt wird und zu den regelm\u00e4\u00dfigen Aufgaben im Rahmen des normalen Dienstablaufs geh\u00f6rt; andernfalls betr\u00e4gt die Zulage zehn Euro f\u00fcr jeden Tag der T\u00e4tigkeit.</P><P>(2) Die Zulage wird nicht neben einer Zulage nach \u00a7 23n gew\u00e4hrt; sie wird neben einer Zulage nach \u00a7 23a nur gew\u00e4hrt, soweit sie diese \u00fcbersteigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011010976BJNG002400311",
+        "name": "Abschnitt 5",
+        "title": "\u00dcbergangsregelungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011010976BJNE008002360",
+        "name": "\u00a7 24",
+        "title": "\u00dcbergangsregelung f\u00fcr Beamte des Bundeseisenbahnverm\u00f6gens und der Postnachfolgeunternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011010976BJNG002400311"
+        },
+        "body": "<P>(1) Abweichend von Abschnitt 3 gelten \u00a7 19 Absatz 1 und \u00a7 20 Absatz 5 in der bis zum 30. September 2013 geltenden Fassung fort <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Beamte des Bundeseisenbahnverm\u00f6gens, die der Deutschen Bahn Aktiengesellschaft oder einer Gesellschaft zugewiesen sind, die ausgegliedert worden ist nach \u00a7 2 Absatz 1 und \u00a7 3 Absatz 3 des Deutsche Bahn Gr\u00fcndungsgesetzes vom 27. Dezember 1993 (BGBl. I S. 2378, 2386), das zuletzt durch Artikel 307 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407) ge\u00e4ndert worden ist, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Beamte, die bei einem Postnachfolgeunternehmen besch\u00e4ftigt sind.</LA></DD></DL></P><P>(2) Die Schichtzulagen nach \u00a7 20 Absatz 5 in der bis zum 30. September 2013 geltenden Fassung k\u00f6nnen durch Rechtsverordnung um bis zu 10 Prozent erh\u00f6ht werden. Die Rechtsverordnung erl\u00e4sst <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Beamten nach Absatz 1 Nummer 1 das Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium des Innern, f\u00fcr Bau und Heimat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Beamten nach Absatz 1 Nummer 2 das Bundesministerium der Finanzen nach Anh\u00f6rung des Vorstands des Postnachfolgeunternehmens im Einvernehmen mit dem Bundesministerium des Innern, f\u00fcr Bau und Heimat.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

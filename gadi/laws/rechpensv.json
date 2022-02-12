@@ -1,0 +1,790 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR024600003",
+    "firstPublished": "2003-02-25",
+    "sourceTimestamp": "20211213213530",
+    "titleShort": "Pensionsfonds-Rechnungslegungsverordnung",
+    "titleLong": "Verordnung \u00fcber die Rechnungslegung von Pensionsfonds",
+    "abbreviation": "RechPensV",
+    "slug": "rechpensv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2003, 246",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 8 Abs. 15 G v. 17.7.2015 I 1245",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 25 Abs. 8 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 70 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 28.2.2003 +++)<BR />(+++ Zur Anwendung vgl. \u00a7 41 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 330 Abs. 1 in Verbindung mit Abs. 3 und 5 des Handelsgesetzbuchs in der im Bundesgesetzblatt Teil III, Gliederungsnummer 4100-1, ver\u00f6ffentlichten bereinigten Fassung, Absatz 1 zuletzt ge\u00e4ndert durch Artikel 91 Nr. 2 der Verordnung vom 29. Oktober 2001 (BGBl. I S. 2785), Absatz 3 angef\u00fcgt durch Artikel 1 Nr. 7 Buchstabe c des Gesetzes vom 24. Juni 1994 (BGBl. I S. 1377) sowie Absatz 5 angef\u00fcgt durch Artikel 16 Nr. 1 des Gesetzes vom 26. Juni 2001 (BGBl. I S. 1310), verordnet das Bundesministerium der Justiz im Einvernehmen mit dem Bundesministerium der Finanzen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000201160",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"5\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"5.00*\" /><colspec colname=\"col4\" colnum=\"4\" colwidth=\"5.00*\" /><colspec colname=\"col5\" colnum=\"5\" colwidth=\"70*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 1</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Anwendungsbereich</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 1</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendungsbereich</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 2</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Bilanz und Gewinn- und Verlustrechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 2</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Formbl\u00e4tter</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 3</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Davon-Vermerke</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 4</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zus\u00e4tze</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 5</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung von Bestimmungen der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen zur Bilanz und Gewinn- und Verlustrechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 3</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Vorschriften zu einzelnen Posten der Bilanz</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Unterabschnitt 1</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Posten der Aktivseite</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 6</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Vertr\u00e4ge bei Lebensversicherungsunternehmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 7</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Ausleihungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 8</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verm\u00f6gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 9</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abrechnungsforderungen aus dem R\u00fcckversicherungsgesch\u00e4ft</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 10</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Forderungen an Lebensversicherungsunternehmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 11</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Forderungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Unterabschnitt 2</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Posten der Passivseite</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 12</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pensionsfondstechnische R\u00fcckstellungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 13</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Deckungsr\u00fcckstellung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 14</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">R\u00fcckstellung f\u00fcr noch nicht abgewickelte Versorgungsf\u00e4lle</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 15</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">R\u00fcckstellung f\u00fcr erfolgsabh\u00e4ngige und erfolgsunabh\u00e4ngige Beitragsr\u00fcckerstattung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 16</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige pensionsfondstechnische R\u00fcckstellungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 17</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pensionsfondstechnische R\u00fcckstellungen entsprechend dem Verm\u00f6gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 18</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Depotverbindlichkeiten aus dem in R\u00fcckversicherung gegebenen Pensionsfondsgesch\u00e4ft</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 19</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abrechnungsverbindlichkeiten aus dem R\u00fcckversicherungsgesch\u00e4ft</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 20</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verbindlichkeiten gegen\u00fcber Lebensversicherungsunternehmen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 4</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Vorschriften zu einzelnen Posten der Gewinn- und Verlustrechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 21</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gebuchte Bruttobeitr\u00e4ge</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 22</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abgegebene R\u00fcckversicherungsbeitr\u00e4ge</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 23</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte Verluste aus Kapitalanlagen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 24</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige pensionsfondstechnische Ertr\u00e4ge f\u00fcr eigene Rechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 25</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufwendungen f\u00fcr Versorgungsf\u00e4lle f\u00fcr eigene Rechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 26</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufwendungen f\u00fcr erfolgsabh\u00e4ngige und erfolgsunabh\u00e4ngige Beitragsr\u00fcckerstattungen f\u00fcr eigene Rechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 27</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufwendungen f\u00fcr den Pensionsfondsbetrieb f\u00fcr eigene Rechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 28</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige pensionsfondstechnische Aufwendungen f\u00fcr eigene Rechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 29</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ertr\u00e4ge aus Kapitalanlagen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 30</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufwendungen f\u00fcr Kapitalanlagen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 31</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Ertr\u00e4ge</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 32</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Aufwendungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 33</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Steuern</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 5</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Anhang</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 34</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zus\u00e4tzliche Erl\u00e4uterungen</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 35</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zus\u00e4tzliche Pflichtangaben</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 36</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung von Bestimmungen der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen zum Zeitwert</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 6</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Lagebericht</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 37</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Lagebericht</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 7</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Konzernrechnungslegung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 38</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Konzernbilanz und Konzern-Gewinn- und Verlustrechnung</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 39</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Konzernanhang</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 8</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Ordnungswidrigkeiten</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 40</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ordnungswidrigkeiten</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Abschnitt 9</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Schlussvorschriften</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 41</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbergangsvorschriften</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000301360",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000100000"
+        },
+        "body": "<P>Diese Verordnung ist auf Pensionsfonds im Sinne des \u00a7 236 Absatz 1 des Versicherungsaufsichtsgesetzes anzuwenden, f\u00fcr die nach \u00a7 341 Abs. 4 des Handelsgesetzbuchs die Vorschriften des Zweiten Unterabschnitts des Vierten Abschnitts des Dritten Buchs des Handelsgesetzbuchs entsprechend anzuwenden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Bilanz und Gewinn- und Verlustrechnung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000400000",
+        "name": "\u00a7 2",
+        "title": "Formbl\u00e4tter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000200000"
+        },
+        "body": "<P>Pensionsfonds haben an Stelle des \u00a7 266 des Handelsgesetzbuchs \u00fcber die Gliederung der Bilanz das anliegende Formblatt 1 und an Stelle des \u00a7 275 des Handelsgesetzbuchs \u00fcber die Gliederung der Gewinn- und Verlustrechnung das anliegende Formblatt 2 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000500000",
+        "name": "\u00a7 3",
+        "title": "Davon-Vermerke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000200000"
+        },
+        "body": "<P>In der Bilanz (Formblatt 1) sind jeweils gesondert anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Forderungen an verbundene Unternehmen und die Forderungen an Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht, jeweils zu den Posten \"Forderungen aus dem Pensionsfondsgesch\u00e4ft\" (Aktivposten E Nr. I), \"Abrechnungsforderungen aus dem R\u00fcckversicherungsgesch\u00e4ft\" (Aktivposten E Nr. II), \"Forderungen an Lebensversicherungsunternehmen\" (Aktivposten E Nr. III) und \"Sonstige Forderungen\" (Aktivposten E Nr. IV),</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verbindlichkeiten gegen\u00fcber verbundenen Unternehmen und die Verbindlichkeiten gegen\u00fcber Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht, jeweils zu den Posten \"Verbindlichkeiten aus dem Pensionsfondsgesch\u00e4ft\" (Passivposten I Nr. I), \"Abrechnungsverbindlichkeiten aus dem R\u00fcckversicherungsgesch\u00e4ft\" (Passivposten I Nr. II), \"Verbindlichkeiten gegen\u00fcber Lebensversicherungsunternehmen\" (Passivposten I Nr. III), \"Verbindlichkeiten gegen\u00fcber Kreditinstituten\" (Passivposten I Nr. IV) und \"Sonstige Verbindlichkeiten\" (Passivposten I Nr. V).</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000600000",
+        "name": "\u00a7 4",
+        "title": "Zus\u00e4tze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000200000"
+        },
+        "body": "<P>(1) Wird in den Formbl\u00e4ttern f\u00fcr die Bilanz und die Gewinn- und Verlustrechnung und in den folgenden Vorschriften der Zusatz \"Brutto\" verwendet, sind die Posten, Unterposten und Angaben einschlie\u00dflich der Betr\u00e4ge anzugeben, die auf das in R\u00fcckversicherung gegebene Pensionsfondsgesch\u00e4ft entfallen.</P><P>(2) Wird in den Formbl\u00e4ttern f\u00fcr die Gewinn- und Verlustrechnung und in den folgenden Vorschriften der Zusatz \"f\u00fcr eigene Rechnung\" oder \"Netto\" verwendet, sind die Posten, Unterposten und Angaben ohne die Betr\u00e4ge anzugeben, die auf das in R\u00fcckversicherung gegebene Pensionsfondsgesch\u00e4ft entfallen.</P><P>(3) Wird das Pensionsfondsgesch\u00e4ft nicht in R\u00fcckversicherung gegeben, entfallen die in den Formbl\u00e4ttern enthaltenen Zus\u00e4tze \"Brutto\" und \"Netto\" und \"f\u00fcr eigene Rechnung\" sowie zus\u00e4tzlich in der Bilanz bei den Passivposten E und F die mit einer arabischen Zahl versehenen Unterposten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000700000",
+        "name": "\u00a7 5",
+        "title": "Anwendung von Bestimmungen der Verordnung \u00fcber die Rechnungslegung\nVersicherungsunternehmen zur Bilanz und Gewinn- und Verlustrechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000200000"
+        },
+        "body": "<P>Die \u00a7\u00a7 6 bis 9 Satz 1, \u00a7\u00a7 11, 12, 18 bis 20 und 22 bis 24 der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen vom 8. November 1994 (BGBl. I S. 3378), die zuletzt durch Artikel 6 des Gesetzes vom 10. Dezember 2001 (BGBl. I S. 3414) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung sind entsprechend anzuwenden, \u00a7 6 Abs. 2 mit der Ma\u00dfgabe, dass die Darstellung nur im Anhang zu erfolgen hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Vorschriften zu einzelnen Posten der\nBilanz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000400000",
+        "name": "Unterabschnitt 1",
+        "title": "Posten der Aktivseite",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000300000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000800000",
+        "name": "\u00a7 6",
+        "title": "Vertr\u00e4ge bei Lebensversicherungsunternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000400000"
+        },
+        "body": "<P>(1) Im Posten \"Vertr\u00e4ge bei Lebensversicherungsunternehmen\" sind Vertr\u00e4ge auszuweisen, die von Pensionsfonds bei Lebensversicherungsunternehmen als Kapitalanlage zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten eingegangen werden.</P><P>(2) Der Wert der Vertr\u00e4ge bei Lebensversicherungsunternehmen mit verbundenen Unternehmen und Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht, ist im Anhang gesondert anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE000900000",
+        "name": "\u00a7 7",
+        "title": "Sonstige Ausleihungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000400000"
+        },
+        "body": "<P>(1) Im Posten \"Sonstige Ausleihungen\" sind ohne R\u00fccksicht auf ihre Laufzeit folgende Ausleihungen auszuweisen, soweit sie nicht im Posten \"Ausleihungen an verbundene Unternehmen\" oder im Posten \"Ausleihungen an Unternehmen, mit denen ein Beteiligungsverh\u00e4ltnis besteht\" auszuweisen sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Namensschuldverschreibungen, zu denen insbesondere die Namenspfandbriefe, Namenskommunalobligationen, Namens-Landesbodenbriefe sowie die Anleihen des Bundes einschlie\u00dflich der ehemaligen Bundesbahn und der ehemaligen Bundespost, der L\u00e4nder und der Gemeinden, die auf den Namen des bilanzierenden Pensionsfonds im Schuldbuch eingetragen sind, geh\u00f6ren,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schuldscheinforderungen und Darlehen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcbrige Ausleihungen, zu denen insbesondere geh\u00f6ren:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Tilgungsstreckungsdarlehen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Darlehen und Gehaltsvorsch\u00fcsse an Mitarbeiter (Arbeitnehmer und selbst\u00e4ndige Vermittler) in H\u00f6he von mehr als sechs Monatsbez\u00fcgen; geringere Ausleihungen sind unter dem Posten \"Sonstige Forderungen\" auszuweisen.</LA></DD> </DL> </LA></DD> </DL></P><P>(2) Die \u00fcbrigen Ausleihungen sind im Anhang aufzugliedern, wenn sie einen gr\u00f6\u00dferen Umfang haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001000000",
+        "name": "\u00a7 8",
+        "title": "Verm\u00f6gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000400000"
+        },
+        "body": "<P>(1) Im Posten \"Kapitalanlagen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern\" sind diejenigen Kapitalanlagen auszuweisen, nach deren Wert sich die Verpflichtung des Pensionsfonds im Versorgungsfall entsprechend den Festlegungen im Pensionsfondsvertrag bestimmt (Kapitalanlagen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern).</P><P>(2) Im Posten \"Sonstiges Verm\u00f6gen\" sind insbesondere die f\u00e4lligen, aber r\u00fcckst\u00e4ndigen und die auf die Zeit bis zum Abschlussstichtag entfallenden noch nicht f\u00e4lligen Ertr\u00e4ge der Kapitalanlagen nach Absatz 1 auszuweisen, soweit sie nicht bereits im Bilanzwert dieser Kapitalanlagen enthalten sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001100000",
+        "name": "\u00a7 9",
+        "title": "Abrechnungsforderungen aus dem R\u00fcckversicherungsgesch\u00e4ft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000400000"
+        },
+        "body": "<P>Im Posten \"Abrechnungsforderungen aus dem R\u00fcckversicherungsgesch\u00e4ft\" sind die sich aus den laufenden Abrechnungen mit den R\u00fcckversicherern und den R\u00fcckversicherungsmaklern ergebenden Forderungssalden aus dem in R\u00fcckversicherung gegebenen Pensionsfondsgesch\u00e4ft auszuweisen. Bei zum Abschlussstichtag gek\u00fcndigten R\u00fcckversicherungsvertr\u00e4gen umfassen die Abrechnungssalden auch die auf diese entfallenden pensionsfondstechnischen R\u00fcckstellungen, sofern sie zum Abschlussstichtag abgel\u00f6st werden; erfolgt die Abl\u00f6sung der pensionsfondstechnischen R\u00fcckstellungen erst zu einem sp\u00e4teren Abschlussstichtag oder Zeitpunkt, sind sie bis dahin unter den entsprechenden Unterposten der pensionsfondstechnischen R\u00fcckstellungen auszuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001200000",
+        "name": "\u00a7 10",
+        "title": "Forderungen an Lebensversicherungsunternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000400000"
+        },
+        "body": "<P>Im Posten \"Forderungen an Lebensversicherungsunternehmen\" sind die sich aus den abgeschlossenen Vertr\u00e4gen zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten ergebenden Forderungen auszuweisen, soweit sie nicht im Posten \"Vertr\u00e4ge bei Lebensversicherungsunternehmen\" oder im Posten \"Verm\u00f6gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern\" enthalten sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001300000",
+        "name": "\u00a7 11",
+        "title": "Sonstige Forderungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000400000"
+        },
+        "body": "<P>Im Posten \"Sonstige Forderungen\" sind Forderungen auszuweisen, die einem anderen Posten nicht zugeordnet werden k\u00f6nnen. Hierzu geh\u00f6ren auch die Forderungen aus der Vermittlung von Versicherungs- und Pensionsfondsvertr\u00e4gen, aus sonstigen Dienstleistungsvertr\u00e4gen, geleistete Kautionen, der einem Versicherungsverein auf Gegenseitigkeit oder einem Pensionsfonds auf Gegenseitigkeit als Gr\u00fcndungsstock zur Verf\u00fcgung gestellte Betrag, Forderungen aus Regressen und Forderungen an Arbeitgeber, die nicht aus dem Pensionsfondsgesch\u00e4ft herr\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000500000",
+        "name": "Unterabschnitt 2",
+        "title": "Posten der Passivseite",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000300000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001400000",
+        "name": "\u00a7 12",
+        "title": "Pensionsfondstechnische R\u00fcckstellungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>Die pensionsfondstechnischen R\u00fcckstellungen im Sinne dieser Verordnung entsprechen den versicherungstechnischen R\u00fcckstellungen im Sinne des Vierten Titels des Zweiten Unterabschnitts des Vierten Abschnitts des Dritten Buchs des Handelsgesetzbuchs.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001501360",
+        "name": "\u00a7 13",
+        "title": "Deckungsr\u00fcckstellung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>(1) Bei der Berechnung der Deckungsr\u00fcckstellung sind f\u00fcr die Ber\u00fccksichtigung der Risiken aus dem Pensionsfondsvertrag angemessene Sicherheitszuschl\u00e4ge anzusetzen.</P><P>(2) Liegt die nach \u00a7 341f des Handelsgesetzbuchs berechnete Deckungsr\u00fcckstellung eines Pensionsfondsvertrags oder eines Versorgungsverh\u00e4ltnisses unter dem jeweils vertraglich oder gesetzlich garantierten, im Falle der Beendigung des Vertrags oder des Versorgungsverh\u00e4ltnisses zu leistenden Wert, so ist sie in dessen H\u00f6he anzusetzen; dies gilt sinngem\u00e4\u00df f\u00fcr eine beitragsfreie Leistung des Pensionsfonds.</P><P>(3) Der Posten \"Deckungsr\u00fcckstellung\" umfasst insbesondere auch die Verwaltungskostenr\u00fcckstellung f\u00fcr beitragsfreie Zeiten von Pensionsfondsvertr\u00e4gen und Versorgungsverh\u00e4ltnissen.</P><P>(4) F\u00fcr die Berechnung der R\u00fcckstellung gelten im \u00dcbrigen die auf Grund des \u00a7 240 Satz 1 Nummer 12 des Versicherungsaufsichtsgesetzes erlassenen Vorschriften. Eine auf Grund dieser Vorschriften zu bildende Deckungsr\u00fcckstellung ist nicht im Posten \"Deckungsr\u00fcckstellung\", sondern unter dem Posten \"Pensionsfondstechnische R\u00fcckstellungen entsprechend dem Verm\u00f6gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern\" im Unterposten \"Deckungsr\u00fcckstellung\" auszuweisen, soweit nach den Festlegungen im Pensionsfondsvertrag die Bildung des Verm\u00f6gens aus geleisteten Beitr\u00e4gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern erfolgt und der Wert des besagten Verm\u00f6gens der zu bildenden Deckungsr\u00fcckstellung mindestens entspricht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001600000",
+        "name": "\u00a7 14",
+        "title": "R\u00fcckstellung f\u00fcr noch nicht abgewickelte Versorgungsf\u00e4lle",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>F\u00fcr die H\u00f6he der R\u00fcckstellung f\u00fcr noch nicht abgewickelte Versorgungsf\u00e4lle gem\u00e4\u00df \u00a7 341g Abs. 1 Satz 1 des Handelsgesetzbuchs sind die gegen\u00fcber dem Beg\u00fcnstigten bestehenden Verpflichtungen ma\u00dfgebend; dazu geh\u00f6ren auch die R\u00fcckstellungen f\u00fcr noch nicht abgewickelte beendete Pensionsfondsvertr\u00e4ge und Versorgungsverh\u00e4ltnisse.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001701360",
+        "name": "\u00a7 15",
+        "title": "R\u00fcckstellung f\u00fcr erfolgsabh\u00e4ngige und erfolgsunabh\u00e4ngige Beitragsr\u00fcckerstattung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>(1) Im Posten \"R\u00fcckstellung f\u00fcr erfolgsabh\u00e4ngige und erfolgsunabh\u00e4ngige Beitragsr\u00fcckerstattung\" sind die R\u00fcckstellungen f\u00fcr Beitragsr\u00fcckerstattungen nach \u00a7 341e Abs. 2 Nr. 2 des Handelsgesetzbuchs auszuweisen. Hierzu geh\u00f6ren auch die Betr\u00e4ge, die zur Verrechnung mit k\u00fcnftigen Beitr\u00e4gen bestimmt sind, soweit sie nicht im Wege der Direktgutschrift gew\u00e4hrt werden.</P><P>(2) Die erfolgsabh\u00e4ngige Beitragsr\u00fcckerstattung umfasst die Betr\u00e4ge, die vom Gesamtergebnis oder vom pensionsfondstechnischen Gewinn des gesamten Pensionsfondsgesch\u00e4fts abh\u00e4ngig sind.</P><P>(3) Die erfolgsunabh\u00e4ngige Beitragsr\u00fcckerstattung umfasst die Betr\u00e4ge, die vom Schadenverlauf oder vom Gewinn eines oder mehrerer Pensionsfondsvertr\u00e4ge abh\u00e4ngig oder die vertraglich vereinbart sind.</P><P>(4) Verzinslich angesammelte \u00dcberschussanteile sowie f\u00e4llige, aber noch nicht ausgesch\u00fcttete \u00dcberschussanteile sind unter dem Posten \"Verbindlichkeiten aus dem Pensionsfondsgesch\u00e4ft\" auszuweisen.</P><P>(5) F\u00fcr Schluss\u00fcberschussanteile und Schlusszahlungen wird innerhalb der R\u00fcckstellung f\u00fcr Beitragsr\u00fcckerstattung eine Teilr\u00fcckstellung (Schluss\u00fcberschussanteilfonds) nach Ma\u00dfgabe der letzten Deklaration gebildet. Die R\u00fcckstellung darf nur f\u00fcr diese Zwecke verwendet werden. \u00a7 139 des Versicherungsaufsichtsgesetzes bleibt unber\u00fchrt.</P><P>(6) Der Fonds f\u00fcr Schluss\u00fcberschussanteile ist so zu berechnen, dass sich f\u00fcr jedes Versorgungsverh\u00e4ltnis mindestens der Teil des zu seinem regul\u00e4ren Rentenbeginn vorgesehenen Schluss\u00fcberschussanteils ergibt, der dem Verh\u00e4ltnis der abgelaufenen Anwartschaftszeit zu der gesamten Anwartschaftszeit entspricht, abgezinst mit einem Zinssatz, der nicht h\u00f6her ist als das \u00fcber einen Referenzzeitraum von zehn Kalenderjahren errechnete arithmetische Mittel der Umlaufrenditen der Anleihen der \u00f6ffentlichen Hand gem\u00e4\u00df der von der Deutschen Bundesbank in ihren Monatsberichten ver\u00f6ffentlichten Kapitalmarktstatistik. Abweichungen sind zul\u00e4ssig, um den Besonderheiten des Pensionsplans zu entsprechen. Vorzeitig f\u00e4llige Schluss\u00fcberschussanteile d\u00fcrfen durch angemessene Zu- oder Abschl\u00e4ge ber\u00fccksichtigt werden.</P><P>(7) Im Anhang sind anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Entwicklung (Anfangsbestand, Zuf\u00fchrungen, Entnahmen, Endbestand) der R\u00fcckstellung f\u00fcr Beitragsr\u00fcckerstattung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Teile der R\u00fcckstellung f\u00fcr Beitragsr\u00fcckerstattung, die entfallen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf bereits festgelegte, aber noch nicht zugeteilte laufende \u00dcberschussanteile,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf bereits festgelegte, aber noch nicht zugeteilte Schluss\u00fcberschussanteile,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den Fonds f\u00fcr Schluss\u00fcberschussanteile (ohne die Betr\u00e4ge, die nach Buchstabe b anzugeben sind),</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die einzelnen Abrechnungsverb\u00e4nde die festgesetzten \u00dcberschussanteile und gegebenenfalls der verwendete Ansammlungszinssatz unter Angabe des Zuteilungsjahres,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verfahren zur Berechnung des Schluss\u00fcberschussanteilfonds sowie die gew\u00e4hlten Rechnungsgrundlagen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001800000",
+        "name": "\u00a7 16",
+        "title": "Sonstige pensionsfondstechnische R\u00fcckstellungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>Zu dem Posten \"Sonstige pensionsfondstechnische R\u00fcckstellungen\" geh\u00f6rt insbesondere die R\u00fcckstellung f\u00fcr drohende Verluste; erreicht sie einen gr\u00f6\u00dferen Umfang, so ist sie in der Bilanz oder im Anhang getrennt auszuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE001901360",
+        "name": "\u00a7 17",
+        "title": "Pensionsfondstechnische R\u00fcckstellungen entsprechend dem Verm\u00f6gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>(1) Unter diesem Posten sind die pensionsfondstechnischen R\u00fcckstellungen f\u00fcr Verpflichtungen des Pensionsfonds auszuweisen, deren Wert sich nach dem f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern gehaltenen Verm\u00f6gen entsprechend den Festlegungen im Pensionsfondsvertrag bestimmt.</P><P>(2) Eine nach den auf Grund des \u00a7 240 des Versicherungsaufsichtsgesetzes erlassenen Vorschriften zu bildende Deckungsr\u00fcckstellung ist im Posten \"Pensionsfondstechnische R\u00fcckstellungen entsprechend dem Verm\u00f6gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern\" auszuweisen, soweit nach den Festlegungen im Pensionsfondsvertrag die Bildung des Verm\u00f6gens aus geleisteten Beitr\u00e4gen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern erfolgt und der Wert des besagten Verm\u00f6gens der zu bildenden Deckungsr\u00fcckstellung mindestens entspricht. Der Betrag der zu bildenden Deckungsr\u00fcckstellung ist im Anhang anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002000000",
+        "name": "\u00a7 18",
+        "title": "Depotverbindlichkeiten aus dem in R\u00fcckversicherung gegebenen\nPensionsfondsgesch\u00e4ft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>(1) Im Posten \"Depotverbindlichkeiten aus dem in R\u00fcckversicherung gegebenen Pensionsfondsgesch\u00e4ft\" sind die Verbindlichkeiten gegen\u00fcber R\u00fcckversicherern in H\u00f6he der Betr\u00e4ge auszuweisen, die vom bilanzierenden Pensionsfonds als Sicherheit einbehalten oder ihm vom R\u00fcckversicherer zu diesem Zweck belassen worden sind.</P><P>(2) Die Depotverbindlichkeiten d\u00fcrfen weder mit anderen Verbindlichkeiten gegen\u00fcber dem R\u00fcckversicherer zusammengefasst noch mit Forderungen an den R\u00fcckversicherer verrechnet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002100000",
+        "name": "\u00a7 19",
+        "title": "Abrechnungsverbindlichkeiten aus dem R\u00fcckversicherungsgesch\u00e4ft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>Im Posten \"Abrechnungsverbindlichkeiten aus dem R\u00fcckversicherungsgesch\u00e4ft\" sind die sich aus den laufenden Abrechnungen mit den R\u00fcckversicherern und den R\u00fcckversicherungsmaklern ergebenden Schuldsalden aus dem in R\u00fcckversicherung gegebenen Pensionsfondsgesch\u00e4ft auszuweisen. Im \u00dcbrigen gilt \u00a7 9 Satz 2.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002200000",
+        "name": "\u00a7 20",
+        "title": "Verbindlichkeiten gegen\u00fcber Lebensversicherungsunternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000500000"
+        },
+        "body": "<P>Im Posten \"Verbindlichkeiten gegen\u00fcber Lebensversicherungsunternehmen\" sind die sich aus den abgeschlossenen Vertr\u00e4gen zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten ergebenden Verbindlichkeiten auszuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000600000",
+        "name": "Abschnitt 4",
+        "title": "Vorschriften zu einzelnen Posten der\nGewinn- und Verlustrechnung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002300000",
+        "name": "\u00a7 21",
+        "title": "Gebuchte Bruttobeitr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>(1) Im Unterposten \"Gebuchte Bruttobeitr\u00e4ge\" sind insbesondere folgende Beitr\u00e4ge auszuweisen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die im Gesch\u00e4ftsjahr f\u00e4llig gewordenen Beitr\u00e4ge und Beitragsraten (einschlie\u00dflich der Ratenzuschl\u00e4ge), auch wenn sie sich ganz oder teilweise auf ein sp\u00e4teres Gesch\u00e4ftsjahr beziehen, zuz\u00fcglich der Nebengeb\u00fchren der Arbeitgeber und Arbeitnehmer, auch wenn sie ganz oder teilweise dem Vermittler belassen werden,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Beitr\u00e4ge, die erst nach dem Abschlussstichtag berechnet werden k\u00f6nnen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einmalbeitr\u00e4ge,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die von Pensionsfondsvereinen auf Gegenseitigkeit im Gesch\u00e4ftsjahr erhobenen Nachsch\u00fcsse,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Eing\u00e4nge aus in vorausgegangenen Gesch\u00e4ftsjahren abgeschriebenen oder stornierten Beitragsforderungen sowie Ertr\u00e4ge aus der Aufl\u00f6sung und Verminderung der Pauschalwertberichtigung zu den Beitragsforderungen an die Arbeitgeber und Arbeitnehmer.</LA></DD> </DL> </P><P>(2) Von den Beitr\u00e4gen gem\u00e4\u00df Absatz 1 sind die Abschreibungen von uneinbringlich gewordenen Beitragsforderungen an die Arbeitgeber und Arbeitnehmer sowie die Aufwendungen aus der Bildung und Erh\u00f6hung der Pauschalwertberichtigung zu den Beitragsforderungen an die Arbeitgeber und Arbeitnehmer abzusetzen. Die Beitr\u00e4ge gem\u00e4\u00df Absatz 1 d\u00fcrfen nicht um Beitragsr\u00fcckerstattungen und Provisionen an die Vermittler gek\u00fcrzt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002400000",
+        "name": "\u00a7 22",
+        "title": "Abgegebene R\u00fcckversicherungsbeitr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>Im Unterposten \"Abgegebene R\u00fcckversicherungsbeitr\u00e4ge\" sind folgende Betr\u00e4ge auszuweisen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die den R\u00fcckversicherern gutgeschriebenen Beitr\u00e4ge und Nebenleistungen der Arbeitgeber und Arbeitnehmer,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die bei Abschluss oder Erh\u00f6hung des in R\u00fcckversicherung gegebenen Pensionsfondsgesch\u00e4fts an den R\u00fcckversicherer abgef\u00fchrten Portefeuille-Eintrittsbeitr\u00e4ge.</LA></DD> </DL>Von den Betr\u00e4gen gem\u00e4\u00df Satz 1 sind die bei Aufgabe oder Verminderung des in R\u00fcckversicherung gegebenen Pensionsfondsgesch\u00e4fts vom R\u00fcckversicherer erhaltenen Portefeuille-Austrittsbeitr\u00e4ge abzusetzen. Beitr\u00e4ge des Pensionsfonds f\u00fcr Vertr\u00e4ge, die bei Lebensversicherungsunternehmen zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten eingegangen werden, sind keine abgegebenen R\u00fcckversicherungsbeitr\u00e4ge.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002500000",
+        "name": "\u00a7 23",
+        "title": "Nicht realisierte Gewinne aus Kapitalanlagen, nicht realisierte\nVerluste aus Kapitalanlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>Im Posten \"Nicht realisierte Gewinne aus Kapitalanlagen\" oder im Posten \"Nicht realisierte Verluste aus Kapitalanlagen\" sind die nicht realisierten Gewinne oder Verluste aus den Kapitalanlagen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern auszuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002600000",
+        "name": "\u00a7 24",
+        "title": "Sonstige pensionsfonds- technische Ertr\u00e4ge f\u00fcr eigene Rechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>Im Posten \"Sonstige pensionsfondstechnische Ertr\u00e4ge f\u00fcr eigene Rechnung\" sind die pensionsfondstechnischen Ertr\u00e4ge auszuweisen, die einem anderen Posten nicht zugeordnet werden k\u00f6nnen. Hierzu geh\u00f6ren insbesondere: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die von den Arbeitgebern und Arbeitnehmern<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">zu leistenden Mahngeb\u00fchren und Verzugszinsen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht abgehobenen, verj\u00e4hrten Beitragsr\u00fcckerstattungen,</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ertr\u00e4ge aus den Zuwendungen von Arbeitgebern zur vollst\u00e4ndigen oder teilweisen Deckung der Aufwendungen f\u00fcr den Pensionsfondsbetrieb.</LA></DD> </DL>Von den vorstehenden Ertr\u00e4gen sind die Anteile der R\u00fcckversicherer abzusetzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002700000",
+        "name": "\u00a7 25",
+        "title": "Aufwendungen f\u00fcr Versorgungsf\u00e4lle f\u00fcr eigene Rechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>(1) Die Aufwendungen f\u00fcr Versorgungsf\u00e4lle f\u00fcr eigene Rechnung umfassen die im Gesch\u00e4ftsjahr f\u00fcr Versorgungsf\u00e4lle geleisteten Bruttozahlungen sowie die Ver\u00e4nderung der Brutto-R\u00fcckstellung f\u00fcr noch nicht abgewickelte Versorgungsf\u00e4lle. Von den Bruttoaufwendungen gem\u00e4\u00df Satz 1 sind die Anteile der R\u00fcckversicherer abzusetzen. Zu den Anteilen der R\u00fcckversicherer geh\u00f6ren nicht die vom Pensionsfonds empfangenen Leistungen aus Vertr\u00e4gen, die bei Lebensversicherungsunternehmen zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten eingegangen werden.</P><P>(2) Als Bruttobetrag der Zahlungen f\u00fcr Versorgungsf\u00e4lle sind die gesamten im Gesch\u00e4ftsjahr erfolgten Zahlungen f\u00fcr Versorgungsf\u00e4lle des Gesch\u00e4ftsjahres und der Vorjahre abz\u00fcglich der im Gesch\u00e4ftsjahr erhaltenen Zahlungen auf Grund von Regressen auszuweisen. Der Bruttobetrag der Zahlungen f\u00fcr Versorgungsf\u00e4lle umfasst auch Zahlungen wegen Beendigungen von Pensionsfondsvertr\u00e4gen und Versorgungsverh\u00e4ltnissen und die dem Funktionsbereich \"Regulierung von Versorgungsf\u00e4llen, Beendigungen von Pensionsfondsvertr\u00e4gen und Versorgungsverh\u00e4ltnissen\" zugeordneten Personal- und Sachaufwendungen, bestehend aus den externen und internen Regulierungsaufwendungen. Zu den externen Regulierungsaufwendungen geh\u00f6ren insbesondere die Anwalts-, Gerichts- und Prozesskosten, Honorare f\u00fcr Gutachter sowie die Zusatzprovisionen f\u00fcr die Regulierung von Versorgungsf\u00e4llen an die Vermittler.</P><P>(3) Die Ver\u00e4nderung des Bruttobetrags der R\u00fcckstellung f\u00fcr noch nicht abgewickelte Versorgungsf\u00e4lle ergibt sich aus der Differenz zwischen dem entsprechenden Wert am Ende des Gesch\u00e4ftsjahres und demjenigen am Anfang des Gesch\u00e4ftsjahres.</P><P>(4) Bei dem Ausweis des Anteils der R\u00fcckversicherer an dem Bruttobetrag der Zahlungen f\u00fcr Versorgungsf\u00e4lle und an der Ver\u00e4nderung des Bruttobetrags der R\u00fcckstellung f\u00fcr noch nicht abgewickelte Versorgungsf\u00e4lle sind die Abs\u00e4tze 2 und 3 entsprechend anzuwenden.</P><P>(5) Ist das Ergebnis aus der Abwicklung der aus dem vorhergehenden Gesch\u00e4ftsjahr \u00fcbernommenen R\u00fcckstellung f\u00fcr noch nicht abgewickelte Versorgungsf\u00e4lle erheblich, so ist dieses nach Art und H\u00f6he im Anhang zu erl\u00e4utern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002800000",
+        "name": "\u00a7 26",
+        "title": "Aufwendungen f\u00fcr erfolgsabh\u00e4ngige und erfolgsunabh\u00e4ngige\nBeitragsr\u00fcckerstattungen f\u00fcr eigene Rechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>(1) Die Aufwendungen f\u00fcr die erfolgsabh\u00e4ngige Beitragsr\u00fcckerstattung umfassen die Zuf\u00fchrungen zur R\u00fcckstellung f\u00fcr erfolgsabh\u00e4ngige Beitragsr\u00fcckerstattung.</P><P>(2) Die Aufwendungen f\u00fcr die erfolgsunabh\u00e4ngige Beitragsr\u00fcckerstattung umfassen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zuf\u00fchrung zur R\u00fcckstellung f\u00fcr erfolgsunabh\u00e4ngige Beitragsr\u00fcckerstattung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verluste aus der Abwicklung der aus dem vorhergehenden Gesch\u00e4ftsjahr \u00fcbernommenen R\u00fcckstellungen; entsprechende Gewinne vermindern die Aufwendungen.</LA></DD> </DL>Von den in Absatz 1 und in Satz 1 bezeichneten Aufwendungen sind die Anteile der R\u00fcckversicherer abzusetzen.</P><P>(3) Erreichen die erfolgsabh\u00e4ngigen und die erfolgsunabh\u00e4ngigen Beitragsr\u00fcckerstattungen einen gr\u00f6\u00dferen Umfang, so sind sie im Anhang getrennt anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE002900000",
+        "name": "\u00a7 27",
+        "title": "Aufwendungen f\u00fcr den Pensionsfondsbetrieb f\u00fcr eigene Rechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>(1) Die gesamten Personal- und Sachaufwendungen des Unternehmens zuz\u00fcglich der kalkulatorischen Mietaufwendungen f\u00fcr die eigengenutzten Grundst\u00fccke und Bauten sind folgenden Funktionsbereichen zuzuordnen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Regulierung von Versorgungsf\u00e4llen, Beendigungen von Pensionsfondsvertr\u00e4gen und Versorgungsverh\u00e4ltnissen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abschluss von Pensionsfondsvertr\u00e4gen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verwaltung von Pensionsfondsvertr\u00e4gen,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verwaltung von Kapitalanlagen.</LA></DD> </DL>Aufwendungen, die diesen Funktionsbereichen nicht zugeordnet werden k\u00f6nnen, sind unter dem Posten \"Sonstige Aufwendungen\" auszuweisen. Die Zuordnung der Aufwendungen auf die Funktionsbereiche ist, soweit sie nicht direkt zurechenbar sind, grunds\u00e4tzlich nach der Inanspruchnahme des Betriebsbereichs f\u00fcr den Funktionsbereich vorzunehmen.</P><P>(2) Als Abschlussaufwendungen sind die durch den Abschluss eines Pensionsfondsvertrags und die Begr\u00fcndung von Versorgungsverh\u00e4ltnissen anfallenden Aufwendungen auszuweisen, auch soweit sie rechnungsm\u00e4\u00dfig gedeckt sind. Die Abschlussaufwendungen umfassen sowohl <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die unmittelbar zurechenbaren Aufwendungen, wie insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abschlussprovisionen und Zusatzprovisionen f\u00fcr die Policenausfertigung,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Courtagen an die Makler,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufwendungen f\u00fcr die Anlegung der Vertragsakten, f\u00fcr die Aufnahme des Pensionsfondsvertrags und des Versorgungsverh\u00e4ltnisses in den Bestand,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufwendungen f\u00fcr die \u00e4rztlichen Untersuchungen im Zusammenhang mit der Begr\u00fcndung eines Versorgungsverh\u00e4ltnisses, als auch</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die mittelbar zurechenbaren Aufwendungen, wie insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die allgemeinen Werbeaufwendungen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Sachaufwendungen, die im Zusammenhang mit der Antragsbearbeitung und Policierung anfallen.</LA></DD> </DL> </LA></DD> </DL></P><P>(3) Die Verwaltungsaufwendungen umfassen insbesondere die Aufwendungen f\u00fcr: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Beitragseinzug einschlie\u00dflich der entsprechenden Provisionen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bestandsverwaltung einschlie\u00dflich der entsprechenden Provisionen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bearbeitung der<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beitragsr\u00fcckerstattung,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">passiven R\u00fcckversicherung.</LA></DD> </DL> </LA></DD> </DL></P><P>(4) Von den Bruttoaufwendungen f\u00fcr den Pensionsfondsbetrieb sind die erhaltenen Provisionen und Gewinnbeteiligungen aus dem in R\u00fcckversicherung gegebenen Pensionsfondsgesch\u00e4ft abzuziehen und gesondert auszuweisen. Hierzu geh\u00f6ren auch die vom R\u00fcckversicherer geleistete anteilige Erstattung der dem Pensionsfonds entstandenen originalen Aufwendungen f\u00fcr den Pensionsfondsbetrieb sowie die erhaltenen Aufbauprovisionen und anderen Aufbauzusch\u00fcsse.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003000000",
+        "name": "\u00a7 28",
+        "title": "Sonstige pensionsfondstechnische Aufwendungen f\u00fcr eigene Rechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>Im Posten \"Sonstige pensionsfondstechnische Aufwendungen f\u00fcr eigene Rechnung\" sind die pensionsfondstechnischen Aufwendungen auszuweisen, die einem anderen Posten nicht zugeordnet werden k\u00f6nnen. Hierzu geh\u00f6ren insbesondere: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zinsen auf angesammelte \u00dcberschussanteile,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Direktgutschrift von \u00dcberschussanteilen, soweit diese nicht der Deckungsr\u00fcckstellung zugef\u00fchrt werden,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die an die R\u00fcckversicherer gezahlten Depotzinsen auf die einbehaltenen Sicherheiten.</LA></DD> </DL>Von den vorstehenden Aufwendungen sind die Anteile der R\u00fcckversicherer abzusetzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003100000",
+        "name": "\u00a7 29",
+        "title": "Ertr\u00e4ge aus Kapitalanlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>Als \"Ertr\u00e4ge aus Grundst\u00fccken, grundst\u00fccksgleichen Rechten und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken\" sind auch die kalkulatorischen Mieten f\u00fcr die eigengenutzten Grundst\u00fccke und Bauten auszuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003200000",
+        "name": "\u00a7 30",
+        "title": "Aufwendungen f\u00fcr Kapitalanlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>(1) Als Aufwendungen f\u00fcr die Verwaltung der Kapitalanlagen sind die dem Funktionsbereich \"Verwaltung von Kapitalanlagen\" zugeordneten Personal- und Sachaufwendungen auszuweisen.</P><P>(2) Die Zinsaufwendungen und sonstigen Aufwendungen f\u00fcr die Kapitalanlagen umfassen insbesondere: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufwendungen f\u00fcr die Grundst\u00fccke, grundst\u00fccksgleichen Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken, wie Betriebskosten, Instandhaltungskosten, Mietausfallrisiken, Abgaben und Versicherungsbeitr\u00e4ge,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Depotgeb\u00fchren,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verg\u00fctungen an den Treuh\u00e4nder f\u00fcr den Deckungsstock,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verluste aus Beteiligungen an Personengesellschaften,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schuldzinsen f\u00fcr Hypotheken auf den eigenen Grundbesitz.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003301140",
+        "name": "\u00a7 31",
+        "title": "Sonstige Ertr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>Im Posten \"Sonstige Ertr\u00e4ge\" sind die nichtpensionsfondstechnischen Ertr\u00e4ge auszuweisen, die einem anderen Posten nicht zugeordnet werden k\u00f6nnen. Hierzu geh\u00f6ren insbesondere: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ertr\u00e4ge aus erbrachten Dienstleistungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Zinsen und \u00e4hnliche Ertr\u00e4ge, soweit sie nicht aus Kapitalanlagen herr\u00fchren,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ertr\u00e4ge auf Grund von Eing\u00e4ngen aus abgeschriebenen Forderungen sowie Ertr\u00e4ge aus der Aufl\u00f6sung und Verminderung der Pauschalwertberichtigungen zu den Forderungen, soweit diese Ertr\u00e4ge nicht aus den<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">zu den Kapitalanlagen geh\u00f6renden Forderungen herr\u00fchren, die im Posten \"Ertr\u00e4ge aus Zuschreibungen\" zu erfassen sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beitragsforderungen an die Arbeitgeber und Arbeitnehmer herr\u00fchren, die im Posten \"Gebuchte Bruttobeitr\u00e4ge\" zu erfassen sind.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003401140",
+        "name": "\u00a7 32",
+        "title": "Sonstige Aufwendungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>Im Posten \"Sonstige Aufwendungen\" sind die nichtpensionsfondstechnischen Aufwendungen auszuweisen, die einem anderen Posten nicht zugeordnet werden k\u00f6nnen. Hierzu geh\u00f6ren insbesondere: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personal- und Sachaufwendungen, die den in \u00a7 27 Abs. 1 Satz 1 Nr. 1 bis 4 genannten Funktionsbereichen nicht zugeordnet werden k\u00f6nnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zinsaufwendungen einschlie\u00dflich der Zinszuf\u00fchrungen zur Pensionsr\u00fcckstellung; nicht im Posten \"Sonstige Aufwendungen\" auszuweisen sind die an die R\u00fcckversicherer gezahlten Depotzinsen f\u00fcr die einbehaltenen Sicherheiten, die im Posten \"Sonstige pensionsfondstechnische Aufwendungen f\u00fcr eigene Rechnung\" zu erfassen sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abschreibungen auf Forderungen sowie die Aufwendungen aus der Bildung und Erh\u00f6hung der Pauschalwertberichtigungen zu den Forderungen, soweit diese Aufwendungen nicht<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu den Kapitalanlagen geh\u00f6renden Forderungen betreffen, die im Posten \"Abschreibungen auf Kapitalanlagen\" zu erfassen sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Beitragsforderungen an die Arbeitgeber und Arbeitnehmer betreffen, die im Posten \"Gebuchte Bruttobeitr\u00e4ge\" als Abzugsposten zu behandeln sind.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003500000",
+        "name": "\u00a7 33",
+        "title": "Sonstige Steuern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000600000"
+        },
+        "body": "<P>Im Posten \"Sonstige Steuern\" sind Steuern auszuweisen, soweit es sich nicht um Steuern vom Einkommen und vom Ertrag handelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000700000",
+        "name": "Abschnitt 5",
+        "title": "Anhang",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003605360",
+        "name": "\u00a7 34",
+        "title": "Zus\u00e4tzliche Erl\u00e4uterungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000700000"
+        },
+        "body": "<P>(1) In den Anhang sind neben den nach \u00a7 341a in Verbindung mit den \u00a7\u00a7 284 und 285 Nummer 1 bis 3a, 7, 9 bis 14a, 15a bis 30 sowie 32 bis 34 des Handelsgesetzbuchs die in dieser Verordnung zu den einzelnen Posten der Bilanz oder der Gewinn- und Verlustrechnung vorgeschriebenen Angaben aufzunehmen. Au\u00dferdem sind die in diesem Abschnitt vorgeschriebenen Angaben zu machen.</P><P>(2) An Stelle der in \u00a7 284 Absatz 3 des Handelsgesetzbuchs vorgeschriebenen Angaben ist die Entwicklung der Aktivposten B und C I bis III nach dem anliegenden Muster 1 und die Entwicklung der im Aktivposten D I ausgewiesenen Kapitalanlagen nach dem anliegenden Muster 2 darzustellen.</P><P>(3) An Stelle der in \u00a7 268 Abs. 7 des Handelsgesetzbuchs vorgeschriebenen Angaben sind die in \u00a7 251 des Handelsgesetzbuchs bezeichneten Haftungsverh\u00e4ltnisse jeweils gesondert unter Angabe der gew\u00e4hrten Pfandrechte und sonstigen Sicherheiten anzugeben. Bestehen solche Verpflichtungen gegen\u00fcber verbundenen Unternehmen, so sind sie gesondert anzugeben. Der Bilanzwert der verpf\u00e4ndeten, zur Sicherung \u00fcbertragenen oder hinterlegten Verm\u00f6gensgegenst\u00e4nde, f\u00fcr die im Insolvenzverfahren Aus- oder Absonderungsrechte geltend gemacht werden k\u00f6nnen, mit Ausnahme der Best\u00e4nde des Sicherungsverm\u00f6gens nach \u00a7 125 des Versicherungsaufsichtsgesetzes, ist in einer Summe anzugeben und dem Betrag des vorangegangenen Gesch\u00e4ftsjahres gegen\u00fcberzustellen.</P><P>(4) An Stelle der in \u00a7 285 Nr. 4 des Handelsgesetzbuchs vorgeschriebenen Angaben sind die folgenden Angaben unter Gegen\u00fcberstellung mit den entsprechenden Angaben des vorausgegangenen Gesch\u00e4ftsjahres zu machen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die gebuchten Bruttobeitr\u00e4ge sind untergliedert nach folgenden Gruppen anzugeben:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">gebuchte Bruttobeitr\u00e4ge, untergliedert nach<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">laufenden Beitr\u00e4gen,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">Einmalbeitr\u00e4gen,</LA></DD></DL></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">gebuchte Bruttobeitr\u00e4ge, untergliedert nach Beitr\u00e4gen im Rahmen von Vertr\u00e4gen<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">ohne Gewinnbeteiligung,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">mit Gewinnbeteiligung,</LA></DD></DL></LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">gebuchte Bruttobeitr\u00e4ge aus:<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">beitragsbezogenen Pensionspl\u00e4nen,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">leistungsbezogenen Pensionspl\u00e4nen.</LA></DD></DL></LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Der R\u00fcckversicherungssaldo ist anzugeben; hierunter ist der Saldo aus den verdienten Beitr\u00e4gen des R\u00fcckversicherers und den Anteilen des R\u00fcckversicherers an den Bruttoaufwendungen f\u00fcr Versorgungsf\u00e4lle und den Bruttoaufwendungen f\u00fcr den Pensionsfondsbetrieb zuz\u00fcglich der Ver\u00e4nderung des Anteils der R\u00fcckversicherer an der Brutto-Deckungsr\u00fcckstellung zu verstehen.</LA></DD></DL></P><P>(5) An Stelle der Angaben nach \u00a7 285 Nr. 8 Buchstabe b des Handelsgesetzbuchs sind Angaben \u00fcber die Provisionen und sonstigen Bez\u00fcge der Vertreter f\u00fcr das Pensionsfondsgesch\u00e4ft sowie Personalaufwendungen nach dem anliegenden Muster 3 zu machen.</P><P>(6) Im Anhang sind die Aufwendungen f\u00fcr Beitr\u00e4ge an den Pensionssicherungsverein anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003701360",
+        "name": "\u00a7 35",
+        "title": "Zus\u00e4tzliche Pflichtangaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000700000"
+        },
+        "body": "<P>Zu den Posten der Bilanz und der Gewinn- und Verlustrechnung sind im Anhang zus\u00e4tzlich anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu dem Bilanzposten \"Grundst\u00fccke, grundst\u00fccksgleiche Rechte und Bauten einschlie\u00dflich der Bauten auf fremden Grundst\u00fccken\" der Bilanzwert der vom Pensionsfonds im Rahmen seiner T\u00e4tigkeit genutzten eigenen Grundst\u00fccke und Bauten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu dem Bilanzposten \"Genussrechtskapital\", in welcher H\u00f6he dieses vor Ablauf von zwei Jahren f\u00e4llig wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Erg\u00e4nzung der Angaben nach \u00a7 284 Absatz 2 Nummer 1 und 2 des Handelsgesetzbuchs die Methoden der Ermittlung der einzelnen pensionsfondstechnischen R\u00fcckstellungen mit Ausnahme der R\u00fcckstellung f\u00fcr Beitragsr\u00fcckerstattung sowohl hinsichtlich der Bruttobetr\u00e4ge als auch der auf das in R\u00fcckversicherung gegebene Pensionsfondsgesch\u00e4ft entfallenden Betr\u00e4ge; wesentliche \u00c4nderungen der Methoden gegen\u00fcber dem vorausgegangenen Gesch\u00e4ftsjahr sind zu erl\u00e4utern,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zur Berechnung der pensionsfondstechnischen R\u00fcckstellungen, einschlie\u00dflich der darin enthaltenen \u00dcberschussanteile, verwendeten versicherungsmathematischen Methoden und Berechnungsgrundlagen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die im Unterposten der Bilanz \"Verbindlichkeiten aus dem Pensionsfondsgesch\u00e4ft gegen\u00fcber Versorgungsberechtigten\" enthaltenen verzinslich angesammelten \u00dcberschussanteile,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in den Unterposten des Postens \"Ertr\u00e4ge aus Kapitalanlagen\" ausgewiesenen Betr\u00e4ge sind untergliedert nach folgenden Gruppen anzugeben:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ertr\u00e4ge aus Kapitalanlagen (Aktivposten C),</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ertr\u00e4ge aus Kapitalanlagen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern (Aktivposten D I),</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ertr\u00e4ge aus im Aktivposten C enthaltenen Lebensversicherungsvertr\u00e4gen, die von Pensionsfonds zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten eingegangen werden,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ertr\u00e4ge aus im Aktivposten D I enthaltenen Vertr\u00e4gen bei Lebensversicherungsunternehmen, die von Pensionsfonds zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten eingegangen werden,</LA></DD></DL></LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in den Unterposten des Postens \"Aufwendungen f\u00fcr Kapitalanlagen\" ausgewiesenen Betr\u00e4ge sind untergliedert nach folgenden Gruppen anzugeben:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufwendungen f\u00fcr Kapitalanlagen (Aktivposten C),</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufwendungen f\u00fcr Kapitalanlagen f\u00fcr Rechnung und Risiko von Arbeitnehmern und Arbeitgebern (Aktivposten D I),</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufwendungen f\u00fcr im Aktivposten C enthaltene Lebensversicherungsvertr\u00e4ge, die von Pensionsfonds zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten eingegangen werden,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufwendungen f\u00fcr im Aktivposten D I enthaltene Vertr\u00e4ge bei Lebensversicherungsunternehmen, die von Pensionsfonds zur Deckung von Verpflichtungen gegen\u00fcber den Versorgungsberechtigten eingegangen werden.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003800000",
+        "name": "\u00a7 36",
+        "title": "Anwendung von Bestimmungen der Verordnung \u00fcber die Rechnungslegung\nvon Versicherungsunternehmen zum Zeitwert",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000700000"
+        },
+        "body": "<P>Die \u00a7\u00a7 54 bis 56 der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen in der jeweils geltenden Fassung sind entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000800000",
+        "name": "Abschnitt 6",
+        "title": "Lagebericht",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE003900000",
+        "name": "\u00a7 37",
+        "title": "Lagebericht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000800000"
+        },
+        "body": "<P>(1) In den Lagebericht sind zus\u00e4tzlich zu den in \u00a7 289 des Handelsgesetzbuchs vorgeschriebenen Angaben folgende Angaben aufzunehmen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angabe der betriebenen Arten von Pensionspl\u00e4nen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bericht \u00fcber den Gesch\u00e4ftsverlauf in den einzelnen Arten von Pensionspl\u00e4nen.</LA></DD> </DL> </P><P>(2) Von den Pensionsfondsvereinen auf Gegenseitigkeit ist zus\u00e4tzlich zu erl\u00e4utern, in welcher Weise ein erhobener Nachschuss ermittelt wurde.</P><P>(3) Zus\u00e4tzlich ist der Pensionsfondsvertragsbestand nach dem anliegenden Muster 4 aufzugliedern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG000900000",
+        "name": "Abschnitt 7",
+        "title": "Konzernrechnungslegung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004000000",
+        "name": "\u00a7 38",
+        "title": "Konzernbilanz und Konzern-Gewinn- und Verlustrechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000900000"
+        },
+        "body": "<P>(1) Soweit nicht die Besonderheiten des Konzerns Abweichungen bedingen, ist f\u00fcr die Aufstellung der Konzernbilanz das Formblatt 1 und f\u00fcr die Aufstellung der Konzern-Gewinn- und Verlustrechnung das Formblatt 2 anzuwenden.</P><P>(2) Auf die Konzernbilanz und die Konzern-Gewinn- und Verlustrechnung sind im \u00dcbrigen, soweit diese wegen ihrer Eigenart keine Abweichungen bedingen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00a7\u00a7 3, 4, 6 bis 33 sowie</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die gem\u00e4\u00df \u00a7 5 dieser Verordnung entsprechend anwendbaren \u00a7\u00a7 6 bis 9 Satz 1, \u00a7\u00a7 11, 12, 18 bis 20 und 22 bis 24 der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen, \u00a7 6 Abs. 2 mit der vorgeschriebenen Ma\u00dfgabe,</LA></DD> </DL>entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004100000",
+        "name": "\u00a7 39",
+        "title": "Konzernanhang",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG000900000"
+        },
+        "body": "<P>\u00a7 59 der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen ist entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG001000000",
+        "name": "Abschnitt 8",
+        "title": "Ordnungswidrigkeiten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004201360",
+        "name": "\u00a7 40",
+        "title": "Ordnungswidrigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001000000"
+        },
+        "body": "<P>Ordnungswidrig im Sinne des \u00a7 341p in Verbindung mit \u00a7 341n Absatz 1 Satz 1 Nummer 6 des Handelsgesetzbuchs handelt, wer als Mitglied des vertretungsberechtigten Organs oder des Aufsichtsrats eines Pensionsfonds <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Aufstellung oder Feststellung des Jahresabschlusses<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 2 nicht das vorgeschriebene Formblatt anwendet,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 3, \u00a7 4 Abs. 1 oder 2 oder \u00a7 36, dieser in Verbindung mit \u00a7 54, \u00a7 55 oder \u00a7 56 der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen, eine Angabe nicht, nicht richtig oder nicht in der vorgeschriebenen Weise macht,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Vorschrift des \u00a7 5 in Verbindung mit \u00a7\u00a7 6 bis 9 Satz 1, \u00a7\u00a7 11, 12, 18 bis 20 oder 22 bis 24 der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen oder der \u00a7\u00a7 6 bis 11, 13 bis 33 \u00fcber die in einzelne Posten der Bilanz oder der Gewinn- und Verlustrechnung aufzunehmenden Angaben zuwiderhandelt,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Vorschrift des \u00a7 34 oder des \u00a7 35 \u00fcber zus\u00e4tzliche Erl\u00e4uterungen oder zus\u00e4tzliche Pflichtangaben zuwiderhandelt oder</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Aufstellung des Lageberichts einer Vorschrift des \u00a7 37 \u00fcber zus\u00e4tzliche Angaben zuwiderhandelt oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Aufstellung des Konzernabschlusses<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 38 Abs. 1 nicht das vorgeschriebene Formblatt anwendet,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Vorschrift des \u00a7 38 Abs. 2 Nr. 2 in Verbindung mit den \u00a7\u00a7 6 bis 9 Satz 1, \u00a7\u00a7 11, 12, 18 bis 20 oder 22 bis 24 der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen \u00fcber die in einzelne Posten der Konzernbilanz oder der Konzern-Gewinn- und Verlustrechnung aufzunehmenden Angaben zuwiderhandelt oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 39 in Verbindung mit \u00a7 59 Abs. 2 bis 4 der Verordnung \u00fcber die Rechnungslegung von Versicherungsunternehmen eine Angabe nicht oder nicht richtig macht.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR024600003BJNG001100000",
+        "name": "Abschnitt 9",
+        "title": "Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004307360",
+        "name": "\u00a7 41",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001100000"
+        },
+        "body": "<P>(1) Die Vorschriften dieser Verordnung sind erstmals auf den Jahresabschluss und den Lagebericht sowie den Konzernabschluss von Pensionsfonds f\u00fcr das nach dem 31. Dezember 2001 beginnende Gesch\u00e4ftsjahr anzuwenden.</P><P>(2) Die \u00a7\u00a7 31, 32 und 34 Absatz 6, das Formblatt 2 und das Muster 1 in der Fassung des Bilanzrechtsmodernisierungsgesetzes vom 25. Mai 2009 (BGBl. I S. 1102) sowie das Formblatt 1 mit den \u00c4nderungen, die durch das Bilanzrechtsmodernisierungsgesetz und Artikel 5 Nummer 2 der Verordnung zur \u00c4nderung von Rechnungslegungsverordnungen vom 9. Juni 2011 (BGBl. I S. 1041) erfolgt sind, sind erstmals auf Jahresabschl\u00fcsse f\u00fcr Gesch\u00e4ftsjahre anzuwenden, die nach dem 31. Dezember 2009, im Fall des Artikels 66 Absatz 3 Satz 6 des Einf\u00fchrungsgesetzes zum Handelsgesetzbuch nach dem 31. Dezember 2008 beginnen. Die Formbl\u00e4tter 1 und 2 sowie das Muster 1 in der bis zum 28. Mai 2009 geltenden Fassung sind letztmals auf Jahres- und Konzernabschl\u00fcsse f\u00fcr das vor dem 1. Januar 2010 beginnende Gesch\u00e4ftsjahr anzuwenden. Soweit im \u00dcbrigen in dieser Verordnung auf Bestimmungen des Handelsgesetzbuchs in der Fassung des Bilanzrechtsmodernisierungsgesetzes verwiesen wird, gelten die in den Artikeln 66 und 67 des Einf\u00fchrungsgesetzes zum Handelsgesetzbuch enthaltenen \u00dcbergangsregelungen entsprechend. Artikel 66 Abs. 3 Satz 6 des Einf\u00fchrungsgesetzes zum Handelsgesetzbuch gilt entsprechend.</P><P>(3) Auf die Formbl\u00e4tter 1 und 2 in der Fassung der Verordnung zur \u00c4nderung der Versicherungsunternehmens-Rechnungslegungsverordnung sowie zur \u00c4nderung weiterer Rechnungslegungsverordnungen vom 18. Dezember 2009 (BGBl. I S. 3934) ist Absatz 2 Satz 1, 2 und 4 entsprechend anzuwenden.</P><P>(4) Das Formblatt 1 sowie die Muster 1 und 2 in der Fassung des AIFM-Umsetzungsgesetzes vom 4. Juli 2013 (BGBl. I S. 1981) sind erstmals auf Jahres- und Konzernabschl\u00fcsse f\u00fcr nach dem 21. Juli 2013 beginnende Gesch\u00e4ftsjahre anzuwenden.</P><P>(5) \u00a7 13 Absatz 4 ist mit der Ma\u00dfgabe anzuwenden, dass die auf Grund des \u00a7 116 des Versicherungsaufsichtsgesetzes in der bis zum 31. Dezember 2015 geltenden Fassung erlassenen Rechtsvorschriften weitergelten, bis sie durch eine Rechtsverordnung auf Grund des \u00a7 240 Satz 1 Nummer 12, Satz 2, 3 und 5 des Versicherungsaufsichtsgesetzes ge\u00e4ndert oder aufgehoben werden.</P><P>(6) Die \u00a7\u00a7 34 und 35 in der Fassung des Bilanzrichtlinie-Umsetzungsgesetzes vom 17. Juli 2015 (BGBl. I S. 1245) sind erstmals auf Jahres- und Konzernabschl\u00fcsse f\u00fcr Gesch\u00e4ftsjahre anzuwenden, die nach dem 31. Dezember 2015 beginnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004400000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001100000"
+        },
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004505360",
+        "name": "Formblatt 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001100000"
+        },
+        "body": "<P><noindex><kommentar typ=\"Hinweis\">(Inhalt: nicht darstellbares Formblatt)<BR /></kommentar></noindex><BR /><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2003, S. 256 - 257;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)<BR /></kommentar></noindex><BR /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004604360",
+        "name": "Formblatt 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001100000"
+        },
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2003, S. 258 - 259;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)</kommentar><BR /></noindex><BR /><pre xml:space=\"preserve\"> <BR />        Name: ...................................<BR />        Sitz: ...................................<BR />        Gewinn- und Verlustrechnung<BR />        f\u00fcr die Zeit vom ........ bis ........<BR /> <BR />Posten<BR />-------------------------------------------------------------------------------<BR />                                                                 Euro Euro Euro<BR />I.  Pensionsfondstechnische Rechnung<BR />    1.   Verdiente Beitr\u00e4ge f\u00fcr eigene Rechnung<BR />         a) Gebuchte Bruttobeitr\u00e4ge                              ....<BR />         b) Abgegebene R\u00fcckversicherungsbeitr\u00e4ge                 .... ....<BR />                                                                 ----<BR />         c) Ver\u00e4nderung der Bruttobeitrags\u00fcbertr\u00e4ge              ....<BR />         d) Ver\u00e4nderung des Anteils der R\u00fcckversicherer<BR />            an den Bruttobeitrags\u00fcbertr\u00e4gen                      .... .... ....<BR />                                                                 ---- ----<BR />    2.   Beitr\u00e4ge aus der Brutto-R\u00fcckstellung f\u00fcr<BR />         Beitragsr\u00fcckerstattung                                            ....<BR />    3.   Ertr\u00e4ge aus Kapitalanlagen<BR />         a) Ertr\u00e4ge aus Beteiligungen                                 ....<BR />            davon:<BR />            aus verbundenen Unternehmen .... Euro<BR />         b) Ertr\u00e4ge aus anderen Kapitalanlagen<BR />            davon:<BR />            aus verbundenen Unternehmen .... Euro<BR />            aa) Ertr\u00e4ge aus Grundst\u00fccken, grundst\u00fccksgleichen<BR />                Rechten und Bauten einschlie\u00dflich der<BR />                Bauten auf fremden Grundst\u00fccken                  ....<BR />            bb) Ertr\u00e4ge aus anderen Kapitalanlagen               .... ....<BR />                                                                 ----<BR />         c) Ertr\u00e4ge aus Zuschreibungen                                ....<BR />         d) Gewinne aus dem Abgang von Kapitalanlagen                 ....<BR />         e) Ertr\u00e4ge aus Gewinngemeinschaften, Gewinnabf\u00fchrungs-<BR />            und Teilgewinnabf\u00fchrungsvertr\u00e4gen                         .... ....<BR />                                                                      ----<BR />    4.   Nicht realisierte Gewinne aus Kapitalanlagen                      ....<BR />    5.   Sonstige pensionsfondstechnische Ertr\u00e4ge f\u00fcr eigene<BR />         Rechnung                                                          ....<BR />    6.   Aufwendungen f\u00fcr Versorgungsf\u00e4lle f\u00fcr eigene Rechnung<BR />         a) Zahlungen f\u00fcr Versorgungsf\u00e4lle<BR />            aa) Bruttobetrag                                     ....<BR />            bb) Anteil der R\u00fcckversicherer                       .... ....<BR />                                                                 ----<BR />         b) Ver\u00e4nderung der R\u00fcckstellung f\u00fcr noch nicht<BR />            abgewickelte Versorgungsf\u00e4lle<BR />            aa) Bruttobetrag                                     ....<BR />            bb) Anteil der R\u00fcckversicherer                       .... .... ....<BR />                                                                 ---- ----<BR />    7.   Ver\u00e4nderung der \u00fcbrigen pensionsfondstechnischen<BR />         Netto-R\u00fcckstellungen<BR />         a) Deckungsr\u00fcckstellung<BR />            aa) Bruttobetrag                                     ....<BR />            bb) Anteil der R\u00fcckversicherer                       .... ....<BR />                                                                 ----<BR />         b) Sonstige pensionsfondstechnische<BR />            Netto-R\u00fcckstellungen                                      .... ....<BR />                                                                      ----<BR />    8.   Aufwendungen f\u00fcr erfolgsabh\u00e4ngige und erfolgsunabh\u00e4ngige<BR />         Beitragsr\u00fcckerstattung f\u00fcr eigene Rechnung                        ....<BR />    9.   Aufwendungen f\u00fcr den Pensionsfondsbetrieb f\u00fcr eigene<BR />         Rechnung<BR />         a) Abschlussaufwendungen                                ....<BR />         b) Verwaltungsaufwendungen                              .... ....<BR />                                                                 ----<BR />         c) davon ab:<BR />            Erhaltene Provisionen und Gewinnbeteiligungen<BR />            aus dem in R\u00fcckversicherung gegebenen<BR />            Pensionsfondsgesch\u00e4ft                                .... ....<BR />                                                                      ----<BR /> <BR />noch Posten<BR />-------------------------------------------------------------------------------<BR />                                                                      Euro Euro<BR />   10.   Aufwendungen f\u00fcr Kapitalanlagen<BR />         a) Aufwendungen f\u00fcr die Verwaltung von Kapitalanlagen,<BR />            Zinsaufwendungen und sonstige Aufwendungen f\u00fcr die<BR />            Kapitalanlagen                                            ....<BR />         b) Abschreibungen auf Kapitalanlagen                         ....<BR />         c) Verluste aus dem Abgang von Kapitalanlagen                ....<BR />         d) Aufwendungen aus Verlust\u00fcbernahme                         .... ....<BR />                                                                      ----<BR />   11.   Nicht realisierte Verluste aus Kapitalanlagen                     ....<BR />   12.   Sonstige pensionsfondstechnische Aufwendungen f\u00fcr<BR />         eigene Rechnung                                                   ....<BR />                                                                           ----<BR />   13.   Pensionsfondstechnisches Ergebnis f\u00fcr eigene Rechnung             ....<BR />II. Nichtpensionsfondstechnische Rechnung<BR />    1.   Sonstige Ertr\u00e4ge                                             ....<BR />    2.   Sonstige Aufwendungen                                        .... ....<BR />                                                                      ---- ----<BR />    3.   Ergebnis der normalen Gesch\u00e4ftst\u00e4tigkeit                          ....<BR />    4.   Au\u00dferordentliche Ertr\u00e4ge                                     ....<BR />    5.   Au\u00dferordentliche Aufwendungen                                ....<BR />                                                                      ----<BR />    6.   Au\u00dferordentliches Ergebnis                                        ....<BR />    7.   Steuern von Einkommen und vom Ertrag                         ....<BR />    8.   Sonstige Steuern                                             .... ....<BR />                                                                      ----<BR />    9.   Ertr\u00e4ge aus Verlust\u00fcbernahme                                 ....<BR />   10.   Auf Grund einer Gewinngemeinschaft, eines<BR />         Gewinnabf\u00fchrungs- oder Teilgewinnabf\u00fchrungsvertrags<BR />         abgef\u00fchrte Gewinne                                           .... ....<BR />                                                                      ---- ----<BR />   11.   Jahres\u00fcberschuss/Jahresfehlbetrag 1)                              ....<BR />                                                                           ====<BR /> <BR />Fu\u00dfnoten zu Formblatt 2:<BR />1) Bei Ber\u00fccksichtigung der Ver\u00e4nderungen von Kapital- und Gewinnr\u00fccklagen<BR />   sowie des Genussrechtskapitals in der nichtpensionsfondstechnischen<BR />   Rechnung ist diese in Fortf\u00fchrung der Nummerierung um folgende<BR />   Posten zu erg\u00e4nzen:<BR />  \"12.   Gewinnvortrag/Verlustvortrag aus dem Vorjahr                      ....<BR />                                                                           ----<BR />                                                                           ....<BR />   13.   Entnahmen aus der Kapitalr\u00fccklage                                 ....<BR />                                                                           ----<BR />                                                                           ....<BR />   14.   Entnahmen aus Gewinnr\u00fccklagen<BR />         a) aus der gesetzlichen R\u00fccklage a)                          ....<BR />         b) aus der R\u00fccklage f\u00fcr Anteile an einem herrschenden<BR />            oder mehrheitlich beteiligten Unternehmen                      ....<BR />         c) aus satzungsm\u00e4\u00dfigen R\u00fccklagen                             ....<BR />         d) aus anderen Gewinnr\u00fccklagen                               .... ....<BR />                                                                      ---- ----<BR />   15.   Entnahmen aus Genussrechtskapital                                 ....<BR />                                                                           ----<BR />                                                                           ....<BR />   16.   Einstellungen in Gewinnr\u00fccklagen<BR />         a) in die gesetzliche R\u00fccklage b)                            ....<BR />         b) in die R\u00fccklage f\u00fcr Anteile an einem herrschenden<BR />            oder mehrheitlich beteiligten Unternehmen                      ....<BR />         c) in satzungsm\u00e4\u00dfige R\u00fccklagen                               ....<BR />         d) in andere Gewinnr\u00fccklagen                                 .... ....<BR />                                                                      ---- ----<BR />                                                                           ....<BR />   17.   Wiederauff\u00fcllung des Genussrechtskapitals                         ....<BR />                                                                           ----<BR />   18.   Bilanzgewinn/Bilanzverlust                                        ...\"<BR />                                                                           ====<BR /> <BR />a) An die Stelle des Postens II 14 a \"aus der gesetzlichen R\u00fccklage\"<BR />   in der nichtpensionsfondstechnischen Rechnung tritt bei den<BR />   Pensionsfondsvereinen auf Gegenseitigkeit der Posten II 14 a<BR />   \"aus der Verlustr\u00fccklage gem\u00e4\u00df \u00a7 193 VAG\".<BR />b) An die Stelle des Postens II 16 a \"in die gesetzliche R\u00fccklage\"<BR />   in der nichtpensionsfondstechnischen Rechnung tritt bei den<BR />   Pensionsfondsvereinen auf Gegenseitigkeit der Posten II 16 a<BR />   \"in die Verlustr\u00fccklage gem\u00e4\u00df \u00a7 193 VAG\".<BR />Die Angaben ab Posten II 12 k\u00f6nnen statt in der nichtpensionsfondstechnischen<BR />Rechnung auch im Anhang gemacht werden.</pre></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004702360",
+        "name": "Muster 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001100000"
+        },
+        "body": "<P><noindex><kommentar typ=\"Hinweis\">(Inhalt: nicht darstellbares Formular)<BR /></kommentar></noindex><BR /><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2003, S. 260;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)<BR /></kommentar></noindex><BR /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004801310",
+        "name": "Muster 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001100000"
+        },
+        "body": "<P><noindex><kommentar typ=\"Hinweis\">(Inhalt: nicht darstellbares Formular)<BR /></kommentar></noindex><BR /><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2003, S. 261;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)<BR /></kommentar></noindex><BR /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE004900000",
+        "name": "Muster 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001100000"
+        },
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2003, 262)</kommentar></noindex><BR /><BR /><table frame=\"topbot\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colsep=\"0\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colsep=\"1\" colwidth=\"60.00*\" /><colspec colname=\"col3\" colnum=\"3\" colsep=\"1\" colwidth=\"20.00*\" /><colspec colname=\"col4\" colnum=\"4\" colsep=\"1\" colwidth=\"20.00*\" /><thead valign=\"bottom\"><row rowsep=\"1\"><entry VJ=\"1\" align=\"left\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" valign=\"top\">Provisionen und sonstige Bez\u00fcge der Vertreter, Personal-Aufwendungen</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Vorjahr</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Gesch\u00e4ftsjahr</entry></row><row rowsep=\"1\"><entry VJ=\"1\" align=\"left\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Tsd. Euro</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Tsd. Euro</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Provisionen jeglicher Art der Vertreter</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Bez\u00fcge der Vertreter</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">L\u00f6hne und Geh\u00e4lter</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Soziale Abgaben und Aufwendungen f\u00fcr Unterst\u00fctzung</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row rowsep=\"1\"><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufwendungen f\u00fcr Altersversorgung</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row><row rowsep=\"1\"><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">6.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufwendungen insgesamt</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024600003BJNE005000000",
+        "name": "Muster 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR024600003BJNG001100000"
+        },
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2003, 263)</kommentar></noindex><BR /><BR /><noindex><kommentar typ=\"Hinweis\">(Inhalt: nicht darstellbares Formular)</kommentar></noindex></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

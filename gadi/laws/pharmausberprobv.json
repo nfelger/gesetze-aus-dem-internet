@@ -1,0 +1,53 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR183700002",
+    "firstPublished": "2002-06-12",
+    "sourceTimestamp": "20210225212502",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber die Erprobung einer neuen Ausbildungsform f\u00fcr die\nBerufsausbildung zum Pharmakanten/zur Pharmakantin",
+    "abbreviation": "PharmAusbErprobV",
+    "slug": "pharmausberprobv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2002, 1837",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 8 V v. 17.7.2007 I 1402",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": "<P><noindex>Die V tritt gem. \u00a7 6 idF d. Art. 8 Nr. 4 V v. 17.7.2007 I 1402 mit Ausnahme des \u00a7 5 am 31.7.2009 au\u00dfer Kraft.</noindex></P>",
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 1.8.2002 +++) <BR /></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR183700002BJNE000502308",
+        "name": "\u00a7 5",
+        "title": "\u00dcbergangsregelung",
+        "parent": null,
+        "body": "<P>Auf Berufsausbildungsverh\u00e4ltnisse, die bis zum 31. Juli 2009 begonnen werden, sind die Vorschriften dieser Verordnung weiter anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR183700002BJNE000601308",
+        "name": "\u00a7 6",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am 1. August 2002 in Kraft und mit Ausnahme des \u00a7 5 am 31. Juli 2009 au\u00dfer Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

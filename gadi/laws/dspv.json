@@ -1,0 +1,121 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR024100016",
+    "firstPublished": "2016-02-17",
+    "sourceTimestamp": "20211001213004",
+    "titleShort": "Besondere-Ausgleichsregelung-Durchschnittsstrompreis-Verordnung",
+    "titleLong": "Verordnung zur Berechnung der durchschnittlichen Strompreise f\u00fcr die Besondere Ausgleichsregelung nach dem Erneuerbare-Energien-Gesetz",
+    "abbreviation": "DSPV",
+    "slug": "dspv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2016, 241",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 12 G v. 22.12.2016 I 3106",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 11 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 3 V v. 14.7.2021 I 2860 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 24.2.2016 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR024100016BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 94 Nummer 2 des Erneuerbare-Energien-Gesetzes vom 21. Juli 2014 (BGBl. I S. 1066) verordnet das Bundesministerium f\u00fcr Wirtschaft und Energie:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024100016BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "body": "<P>Ausschlie\u00dflich zu dem Zweck, die ma\u00dfgeblichen Stromkosten im Rahmen der Stromkostenintensit\u00e4t nach \u00a7 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes zu berechnen, regelt die Verordnung insbesondere, wie die durchschnittlichen Strompreise von stromkostenintensiven Unternehmen mit \u00e4hnlichen Stromverbr\u00e4uchen berechnet und angewandt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024100016BJNE000302128",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": null,
+        "body": "<P>Im Sinn dieser Verordnung ist oder sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Antragsabnahmestelle\" eine Abnahmestelle nach \u00a7 64 Absatz 6 Nummer 1 des Erneuerbare-Energien-Gesetzes, f\u00fcr die ein Unternehmen oder ein selbst\u00e4ndiger Unternehmensteil einen Antrag auf Begrenzung der EEG-Umlage nach \u00a7 63 des Erneuerbare-Energien-Gesetzes stellt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"antragstellendes Unternehmen\" ein Unternehmen oder selbst\u00e4ndiger Unternehmensteil, das oder der f\u00fcr eine oder mehrere Abnahmestellen einen Antrag auf Begrenzung der EEG-Umlage nach \u00a7 63 des Erneuerbare-Energien-Gesetzes stellt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"fiktive EEG-Kosten\" die Differenz zwischen den tats\u00e4chlichen EEG-Umlagekosten des antragstellenden Unternehmens und den EEG-Umlagekosten, die dem Unternehmen bei Zugrundelegung der vollen oder anteiligen im Nachweiszeitraum geltenden EEG-Umlage nach den \u00a7\u00a7 60 und 61 des Erneuerbare-Energien-Gesetzes entstanden w\u00e4ren; Unternehmen, die im Nachweiszeitraum keine Begrenzung in Anspruch genommen haben, k\u00f6nnen keine fiktiven EEG-Kosten geltend machen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u201efiktive KWKG-Kosten\u201c die Differenz zwischen den tats\u00e4chlichen KWKG-Umlagekosten des antragstellenden Unternehmens und den KWKG-Umlagekosten, die dem Unternehmen bei Zugrundelegung der vollen oder anteiligen im Nachweiszeitraum geltenden KWKG-Umlage nach \u00a7 26 des Kraft-W\u00e4rme-Kopplungsgesetzes entstanden w\u00e4ren; Unternehmen, die im Nachweiszeitraum keine Begrenzung in Anspruch genommen haben, k\u00f6nnen keine fiktiven KWKG-Kosten geltend machen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u201efiktive Offshore-Netzkosten\u201c die Differenz zwischen den tats\u00e4chlichen Offshore-Netzumlagekosten des antragstellenden Unternehmens und den Offshore-Netzumlagekosten, die dem Unternehmen bei Zugrundelegung der vollen oder anteiligen im Nachweiszeitraum geltenden Offshore-Netzumlage nach \u00a7 17f Absatz 5 des Energiewirtschaftsgesetzes entstanden w\u00e4ren; Unternehmen, die im Nachweiszeitraum keine Begrenzung in Anspruch genommen haben, k\u00f6nnen keine fiktiven Offshore-Netzkosten geltend machen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Nachweiszeitraum\" das bei der Antragstellung nach \u00a7 66 des Erneuerbare-Energien-Gesetzes letzte abgeschlossene Gesch\u00e4ftsjahr des antragstellenden Unternehmens,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Strombezugsmengen\" s\u00e4mtliche Strommengen, die ein antragstellendes Unternehmen im Nachweiszeitraum an allen Abnahmestellen von einem Elektrizit\u00e4tsversorgungsunternehmen oder einem anderen Dritten bezogen hat, einschlie\u00dflich der Strommengen, die das antragstellende Unternehmen an Dritte weitergeleitet hat,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"tats\u00e4chliche EEG-Kosten\" die Umlagekosten, die dem antragstellenden Unternehmen im Nachweiszeitraum durch Zahlung der begrenzten, vollen oder anteiligen EEG-Umlage tats\u00e4chlich entstanden sind,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u201etats\u00e4chliche KWKG-Kosten\u201c die Umlagekosten, die dem antragstellenden Unternehmen im Nachweiszeitraum durch Zahlung der begrenzten, vollen oder anteiligen KWKG-Umlage tats\u00e4chlich entstanden sind,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u201etats\u00e4chliche Offshore-Netzkosten\u201c die Umlagekosten, die dem antragstellenden Unternehmen im Nachweiszeitraum durch Zahlung der begrenzten, vollen oder anteiligen Offshore-Netzumlage tats\u00e4chlich entstanden sind,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Vollbenutzungsstunden\" das mittels entnommener elektrischer Arbeit mengengewichtete arithmetische Mittel der Benutzungsdauern aller Antragsabnahmestellen eines antragstellenden Unternehmens im Nachweiszeitraum; die Benutzungsdauer einer Abnahmestelle ist der Quotient aus jeweils an dieser Abnahmestelle im Nachweiszeitraum entnommener elektrischer Arbeit und der in diesem Zeitraum h\u00f6chsten Last der Entnahme; betr\u00e4gt der Nachweiszeitraum weniger als ein Jahr, wird die entnommene elektrische Arbeit linear auf ein Jahr hochgerechnet.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024100016BJNE000401128",
+        "name": "\u00a7 3",
+        "title": "Berechnungsmethode f\u00fcr durchschnittliche Strompreise",
+        "parent": null,
+        "body": "<P>(1) Die Berechnung der durchschnittlichen Strompreise von stromkostenintensiven Unternehmen mit \u00e4hnlichen Stromverbr\u00e4uchen, anhand derer die ma\u00dfgeblichen Stromkosten im Rahmen der Stromkostenintensit\u00e4t nach \u00a7 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes berechnet werden, erfolgt auf Grundlage der Angaben aller antragstellenden Unternehmen zu: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Strombezugsmengen in Kilowattstunden im Nachweiszeitraum,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">s\u00e4mtlichen Bestandteilen der Strombezugskosten im Nachweiszeitraum in Euro und Cent, insbesondere Angaben zum absoluten Betrag der tats\u00e4chlichen und der fiktiven EEG-Kosten, der tats\u00e4chlichen und der fiktiven KWKG-Kosten und der tats\u00e4chlichen und der fiktiven Offshore-Netzkosten im Nachweiszeitraum f\u00fcr Strombezugsmengen und Angaben zu den bei der Weiterleitung an Dritte weitergegebenen Kosten, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Vollbenutzungsstunden einschlie\u00dflich der jeweils im Nachweiszeitraum an den Antragsabnahmestellen entnommenen elektrischen Arbeit in Gigawattstunden und der in diesem Nachweiszeitraum jeweils h\u00f6chsten Last der Entnahme in Kilowatt.</LA></DD></DL>Die Angaben nach Satz 1 Nummer 1 und 2 erfassen alle Abnahmestellen eines antragstellenden Unternehmens, unabh\u00e4ngig davon, ob die EEG-Umlage, die KWKG-Umlage und die Offshore-Netzumlage an diesen Abnahmestellen im Nachweiszeitraum begrenzt waren und ob es sich um Antragsabnahmestellen handelt. Nicht ber\u00fccksichtigt werden Angaben von antragstellenden Unternehmen, die zum Zeitpunkt der Berechnung der durchschnittlichen Strompreise f\u00fcr keine Antragsabnahmestelle einen Begrenzungsbescheid erhalten haben. Das Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle kann Angaben bei der Berechnung unber\u00fccksichtigt lassen, soweit sie sich nach einer Plausibilit\u00e4tspr\u00fcfung als nicht plausibel erwiesen haben.</P><P>(2) Aus den Angaben nach Absatz 1 Satz 1 Nummer 1 und 2 wird f\u00fcr jedes antragstellende Unternehmen ein unternehmensspezifischer Strompreis in Cent pro Kilowattstunde berechnet, indem die Strombezugskosten einschlie\u00dflich der bei der Weiterleitung an Dritte weitergegebenen Kosten abz\u00fcglich der tats\u00e4chlichen und fiktiven EEG-Kosten, der tats\u00e4chlichen und fiktiven KWKG-Kosten und der tats\u00e4chlichen und der fiktiven Offshore-Netzkosten im Nachweiszeitraum f\u00fcr Strombezugsmengen dividiert werden durch die Strombezugsmengen.</P><P>(3) Anhand der Strombezugsmengen der stromkostenintensiven Unternehmen nach Absatz 1 Satz 1 Nummer 1 werden acht ihrer Anzahl nach gleich gro\u00dfe Gruppen mit gr\u00f6\u00dfer werdender Strombezugsmenge solcher antragstellenden Unternehmen gebildet, deren Angaben nach Absatz 1 Satz 3 bis 4 in die Berechnung einflie\u00dfen. Betr\u00e4gt der Nachweiszeitraum eines antragstellenden Unternehmens weniger als ein Jahr, wird die Strombezugsmenge f\u00fcr die Bildung der Gruppen auf ein Jahr hochgerechnet. Eine Gruppe gilt als gleich gro\u00df, wenn die Anzahl der in ihr erfassten antragstellenden Unternehmen um h\u00f6chstens zwei von der Anzahl der in den \u00fcbrigen sieben Gruppen erfassten antragstellenden Unternehmen abweicht. Anhand der Vollbenutzungsstunden werden innerhalb der Gruppen nach Satz 1 jeweils gebildet: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Fall, dass 20 oder mehr antragstellende Unternehmen einer Gruppe nach Satz 1 7\u00a0000 und mehr Vollbenutzungsstunden haben: <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Untergruppe von antragstellenden Unternehmen mit 7\u00a0000 und mehr Vollbenutzungsstunden und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">sieben weitere zueinander gleich gro\u00dfe Untergruppen von antragstellenden Unternehmen mit weniger als 7\u00a0000 Vollbenutzungsstunden und</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Fall, dass weniger als 20 antragstellende Unternehmen einer Gruppe nach Satz 1 7\u00a0000 Vollbenutzungsstunden und mehr haben, acht gleich gro\u00dfe Untergruppen von antragstellenden Unternehmen.</LA></DD></DL></P><P>(4) F\u00fcr alle Untergruppen nach Absatz 3 wird aus den unternehmensspezifischen Strompreisen nach Absatz 2 der antragstellenden Unternehmen, die in die Untergruppe entfallen, zuz\u00fcglich der vollen EEG-Umlage nach \u00a7 60 des Erneuerbare-Energien-Gesetzes, der vollen KWKG-Umlage nach \u00a7 26 des Kraft-W\u00e4rme-Kopplungsgesetzes und der vollen Offshore-Netzumlage nach \u00a7 17f Absatz 5 des Energiewirtschaftsgesetzes f\u00fcr das dem Antragsjahr vorangegangene Kalenderjahr ein durchschnittlicher Strompreis in Cent pro Kilowattstunde berechnet. Die Berechnung nach Satz 1 erfolgt auf Grundlage der Daten, die einen Monat vor Ver\u00f6ffentlichung vorliegen und nicht nach Absatz 1 Satz 4 unber\u00fccksichtigt geblieben sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024100016BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Anwendung der Berechnungsmethode; Bekanntmachung der Ergebnisse",
+        "parent": null,
+        "body": "<P>(1) Das Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle berechnet j\u00e4hrlich anhand der Berechnungsmethode nach \u00a7 3 auf Grundlage der Angaben aus den Antragsverfahren des vorangegangenen Kalenderjahres die durchschnittlichen Strompreise, die in den Antragsverfahren auf Begrenzung der EEG-Umlage f\u00fcr das auf die Berechnung folgende Kalenderjahr bei der Ermittlung der Stromkostenintensit\u00e4t eines antragstellenden Unternehmens zugrunde gelegt werden.</P><P>(2) Das Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle macht bis zum 29. Februar 2016 und danach jeweils bis zum 28. Februar eines Jahres die nach Absatz 1 berechneten durchschnittlichen Strompreise auf seiner Internetseite<FnR ID=\"F793016_01_BJNR024100016BJNE000500000\" /> bekannt. Im Rahmen der Bekanntmachung ver\u00f6ffentlicht das Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle alle nach \u00a7 3 Absatz 3 gebildeten Gruppen und Untergruppen mit den nach \u00a7 3 Absatz 4 errechneten durchschnittlichen Strompreisen in Cent pro Kilowattstunde in tabellarischer Form.</P><P>(3) Angaben, die im Antragsjahr 2015 von antragstellenden Unternehmen gemacht wurden und die nicht nach \u00a7 64 Absatz 3 Nummer 1 Buchstabe c des Erneuerbare-Energien-Gesetzes von einem Wirtschaftspr\u00fcfer, einer Wirtschaftspr\u00fcfungsgesellschaft, einem vereidigten Buchpr\u00fcfer oder einer Buchpr\u00fcfungsgesellschaft zu bescheinigen waren, k\u00f6nnen f\u00fcr die Berechnung der durchschnittlichen Strompreise bis zum 29. Februar 2016 vom Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle herangezogen werden.</P>",
+        "footnotes": "<Footnote FnZ=\"1\" Group=\"column\" ID=\"F793016_01_BJNR024100016BJNE000500000\" Pos=\"exp\">www.bafa.de</Footnote>",
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024100016BJNE000603123",
+        "name": "\u00a7 5",
+        "title": "Zugrundelegung der durchschnittlichen Strompreise im Antragsverfahren",
+        "parent": null,
+        "body": "<P>(1) In einem Antragsverfahren auf Begrenzung der EEG-Umlage wird f\u00fcr ein antragstellendes Unternehmen bei der Berechnung seiner Stromkostenintensit\u00e4t nach \u00a7 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes derjenige durchschnittliche Strompreis zugrunde gelegt, der f\u00fcr die Untergruppe nach \u00a7 3 Absatz 4 errechnet wurde, in deren Bandbreite sich sowohl die Strombezugsmengen zuz\u00fcglich der Mengen, die nach \u00a7 61 des Erneuerbare-Energien-Gesetzes umlagepflichtig sind, als auch die Vollbenutzungsstunden des antragstellenden Unternehmens bewegen. Kann ein antragstellendes Unternehmen die Angaben nach \u00a7 3 Absatz 1 Satz 1 Nummer 3 f\u00fcr eine Antragsabnahmestelle nicht nach \u00a7 6 Absatz 1 Nummer 2 nachweisen, wird f\u00fcr diese Antragsabnahmestelle eine Benutzungsdauer von 8\u00a0760 Stunden angenommen. Stellt ein Unternehmen einen Antrag nach \u00a7 63 in Verbindung mit \u00a7 64 Absatz 5a des Erneuerbare-Energien-Gesetzes auf Begrenzung der EEG-Umlage, wird abweichend von Satz 1 bei der Berechnung seiner Stromkostenintensit\u00e4t derjenige durchschnittliche Strompreis zugrunde gelegt, der f\u00fcr die Untergruppe nach \u00a7 3 Absatz 4 der Verordnung errechnet wurde, in deren Bandbreite sich sowohl die Strombezugsmengen zuz\u00fcglich der Mengen, die das Unternehmen selbst erzeugt und selbst verbraucht, als auch die Vollbenutzungsstunden des antragstellenden Unternehmens bewegen.</P><P>(2) Die ma\u00dfgeblichen Stromkosten eines antragstellenden Unternehmens werden nach \u00a7 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes errechnet, indem der durchschnittliche Strompreis, der nach Absatz 1 f\u00fcr das antragstellende Unternehmen ma\u00dfgeblich ist, mit dem arithmetischen Mittel des Stromverbrauchs des antragstellenden Unternehmens in den letzten drei abgeschlossenen Gesch\u00e4ftsjahren multipliziert wird. F\u00fcr die Begrenzungsjahre 2022 bis 2025 ist bei der Berechnung nach Satz 1 \u00a7 103 Absatz 1 in Verbindung mit \u00a7 64 Absatz 6 Nummer 3 des Erneuerbare-Energien-Gesetzes anzuwenden. Als Stromverbrauch nach Satz 1 werden selbst verbrauchte Strommengen des antragstellenden Unternehmens ber\u00fccksichtigt, die von einem Elektrizit\u00e4tsversorgungsunternehmen oder einem anderen Dritten geliefert wurden oder die nach \u00a7 61 des Erneuerbare-Energien-Gesetzes umlagepflichtig sind. Abweichend von Satz 3 werden als Stromverbrauch nach Satz 1 in den F\u00e4llen einer Antragstellung nach \u00a7 63 in Verbindung mit \u00a7 64 Absatz 5a des Erneuerbare-Energien-Gesetzes selbst verbrauchte Strommengen des antragstellenden Unternehmens ber\u00fccksichtigt, die von einem Elektrizit\u00e4tsversorgungsunternehmen oder einem anderen Dritten geliefert oder die von dem antragstellenden Unternehmen selbst erzeugt wurden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024100016BJNE000703123",
+        "name": "\u00a7 6",
+        "title": "Nachweispflichten",
+        "parent": null,
+        "body": "<P>(1) Angaben der antragstellenden Unternehmen m\u00fcssen ab dem Antragsjahr 2016 bei der Antragstellung nach \u00a7 66 Absatz 1 und Absatz 3 in Verbindung mit \u00a7 64a Absatz 2 Satz 3 des Erneuerbare-Energien-Gesetzes beim Bundesamt f\u00fcr Wirtschaft und Ausfuhrkontrolle wie folgt nachgewiesen werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben nach \u00a7 3 Absatz 1 Satz 1 Nummer 1 und 2 durch die Stromlieferungsvertr\u00e4ge und die Stromrechnungen f\u00fcr die Antragsabnahmestellen f\u00fcr den Nachweiszeitraum,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben nach \u00a7 3 Absatz 1 Satz 1 Nummer 3 durch die Abrechnungen \u00fcber die Netznutzung f\u00fcr die Antragsabnahmestellen f\u00fcr den Nachweiszeitraum; wenn Abrechnungen \u00fcber die Netznutzung f\u00fcr Strombezugsmengen eines Eigenversorgers nachweislich nicht vorliegen, durch die Vorlage geeigneter Messungen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das arithmetische Mittel des Stromverbrauchs des antragstellenden Unternehmens in den letzten drei abgeschlossenen Gesch\u00e4ftsjahren nach \u00a7 5 Absatz 2 durch <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Stromlieferungsvertr\u00e4ge und die Stromrechnungen aus dem Nachweiszeitraum f\u00fcr die Antragsabnahmestellen sowie</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der jeweils in den letzten drei abgeschlossenen Gesch\u00e4ftsjahren von einem Elektrizit\u00e4tsversorgungsunternehmen oder einem anderen Dritten gelieferten oder von dem antragstellenden Unternehmen selbst erzeugten und selbst verbrauchten sowie weitergeleiteten Strommengen, einschlie\u00dflich der Angabe, welche selbst erzeugten und selbst verbrauchten Strommengen des Unternehmens nach \u00a7 61 des Erneuerbare-Energien-Gesetzes umlagepflichtig sind und welche nicht.</LA></DD></DL></LA></DD></DL>Die Nachweise nach Satz 1 Nummer 1, 2 und 3 Buchstabe a sind auf Verlangen des Bundesamtes f\u00fcr Wirtschaft und Ausfuhrkontrolle auch f\u00fcr weitere Abnahmestellen des antragstellenden Unternehmens und weitere abgeschlossene Gesch\u00e4ftsjahre vorzulegen.</P><P>(2) Die Bescheinigung nach \u00a7 64 Absatz 3 Nummer 1 Buchstabe c des Erneuerbare-Energien-Gesetzes muss unbeschadet des \u00a7 64 Absatz 3 Nummer 1 Buchstabe c Doppelbuchstabe aa bis cc des Erneuerbare-Energien-Gesetzes ab dem Antragsjahr 2016 Angaben enthalten zu: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">s\u00e4mtlichen Strombezugsmengen pro Abnahmestelle f\u00fcr alle Abnahmestellen des antragstellenden Unternehmens einschlie\u00dflich der Strommengen, die an Dritte weitergeleitet wurden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">s\u00e4mtlichen Bestandteilen der tats\u00e4chlichen Strombezugskosten im Nachweiszeitraum, insbesondere Angaben zum absoluten Betrag der tats\u00e4chlich im Nachweiszeitraum vom gesamten antragstellenden Unternehmen getragenen sowie den fiktiven EEG-Kosten, den fiktiven KWKG-Kosten und den fiktiven Offshore-Netzkosten f\u00fcr Strombezugsmengen und Angaben zu den bei der Weiterleitung an Dritte weitergegebenen Kosten einschlie\u00dflich der weitergegebenen EEG-Kosten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zu den Vollbenutzungsstunden, einschlie\u00dflich der im Nachweiszeitraum an der Antragsabnahmestelle jeweils entnommenen elektrischen Arbeit, und der in diesem Nachweiszeitraum jeweils h\u00f6chsten Last der Entnahme, und, soweit erforderlich, zu den geeigneten Messungen nach Absatz 1 Nummer 2,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zum durchschnittlichen Strompreis, der nach \u00a7 5 Absatz 1 f\u00fcr das antragstellende Unternehmen zugrunde gelegt werden wird, und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zu den in den letzten drei abgeschlossenen Gesch\u00e4ftsjahren jeweils von einem Elektrizit\u00e4tsversorgungsunternehmen oder einem anderen Dritten gelieferten oder von dem antragstellenden Unternehmen selbst erzeugten und selbst verbrauchten sowie weitergeleiteten Strommengen einschlie\u00dflich der Angabe, f\u00fcr welche selbst erzeugten und selbst verbrauchten Strommengen des antragstellenden Unternehmens nach \u00a7 61 des Erneuerbare-Energien-Gesetzes die EEG-Umlage entrichtet wurde.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR024100016BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

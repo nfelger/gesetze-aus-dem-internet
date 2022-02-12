@@ -1,0 +1,163 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR212000010",
+    "firstPublished": "2010-12-17",
+    "sourceTimestamp": "20170816221102",
+    "titleShort": "BDBOS-Zertifizierungsverordnung",
+    "titleLong": "Verordnung \u00fcber das Verfahren zur Erteilung eines Zertifikats f\u00fcr Endger\u00e4te durch die Bundesanstalt f\u00fcr den Digitalfunk der Beh\u00f6rden und Organisationen mit Sicherheitsaufgaben",
+    "abbreviation": "BDBOSZertV",
+    "slug": "bdboszertv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2010, 2120",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 4 G v. 29.3.2017 I 626",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 23.12.2010 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 15b Absatz 1 Satz 1 des BDBOS-Gesetzes, der durch Artikel 1 Nummer 3 des Gesetzes vom 29. Juli 2009 (BGBl. I S. 2251) eingef\u00fcgt worden ist, verordnet das Bundesministerium des Innern:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Gegenstand der Zertifizierung",
+        "parent": null,
+        "body": "<P>Gegenstand der Zertifizierung sind Endger\u00e4te mit bestimmten, das Endger\u00e4t identifizierenden Hardware- und Software-Eigenschaften, die zur Verwendung im Digitalfunk BOS vorgesehen sind. Bei Funkleitstellen, die funktional direkt auf die Leitstellenschnittstelle wirken, werden nur die unmittelbar dazu verwendeten Hardware- und Software-Komponenten als Leitstellenbestandteil zertifiziert.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000301116",
+        "name": "\u00a7 2",
+        "title": "Antrag",
+        "parent": null,
+        "body": "<P>(1) Die Erteilung eines Zertifikats durch die Bundesanstalt f\u00fcr den Digitalfunk der Beh\u00f6rden und Organisationen mit Sicherheitsaufgaben (Bundesanstalt) erfolgt auf schriftlichen oder elektronischen Antrag des Herstellers oder Lieferanten. Ein schriftlicher Antrag ist auch in einer elektronischen Fassung zu \u00fcbermitteln. F\u00fcr einen solchen Antrag sind ausschlie\u00dflich die von der Bundesanstalt ver\u00f6ffentlichten Antragsformulare zu verwenden. Der Antrag muss Folgendes enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des Antragstellers,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Datum der Antragstellung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift eines Empfangsbevollm\u00e4chtigten des Antragstellers in einem Mitgliedstaat der Europ\u00e4ischen Union oder in einem anderen Vertragsstaat des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift eines Ansprechpartners des Antragstellers, der \u00fcber die erforderliche Sachkunde zur Erteilung von technischen Ausk\u00fcnften \u00fcber das zu zertifizierende Endger\u00e4t verf\u00fcgt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">genaue Bezeichnung des zu zertifizierenden Endger\u00e4tes, insbesondere <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Endger\u00e4tetyp gem\u00e4\u00df BOS-Interoperabilit\u00e4tsrichtlinien (BOS-IOP-Richtlinien) nach \u00a7 5 Absatz 2,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Endger\u00e4tename gem\u00e4\u00df Herstellerproduktbezeich-nung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des Herstellers, sofern abweichend von Nummer 1,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hardware-Versionsnummer,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Software-Versionsnummer,</LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zu den gem\u00e4\u00df BOS-IOP-Richtlinien optionalen Leistungsmerkmalen, die von dem Endger\u00e4t unterst\u00fctzt werden,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erkl\u00e4rung des Antragstellers, dass der Verwendung des zu zertifizierenden Endger\u00e4tes einschlie\u00dflich aller Komponenten im Digitalfunk BOS keine Rechte Dritter entgegenstehen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angabe, ob es sich um eine vollst\u00e4ndige Zertifizierung nach \u00a7 15a Absatz 2 des BDBOS-Gesetzes (Zertifizierung) oder eine nach \u00a7 15a Absatz 3 Satz 2 und 3 des BDBOS-Gesetzes beschr\u00e4nkte Zertifizierung (\u00c4nderungszertifizierung) handelt,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">BOS-Pr\u00fcfbericht nach \u00a7 7 Absatz 1 Satz 4 und sonstige Nachweise \u00fcber die Einhaltung der Anforderungen gem\u00e4\u00df \u00a7 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes, die nach den BOS-IOP-Richtlinien vorzulegen sind, die der \u00dcberpr\u00fcfung nach \u00a7 7 zugrunde gelegt wurden,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nachweis der Sachkunde der Pr\u00fcfstelle gem\u00e4\u00df \u00a7 7 Absatz 1 Satz 1,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angabe der dem BOS-Pr\u00fcfbericht und den sonstigen Nachweisen zugrunde liegenden BOS-IOP-Richtlinien sowie</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erkl\u00e4rung des Antragstellers, dass die Verwendung des Endger\u00e4tes nach \u00a7 15a Absatz 1 Satz 3 Nummer 3 des BDBOS-Gesetzes nicht gegen andere \u00f6ffentlich-rechtliche Vorschriften verst\u00f6\u00dft.</LA></DD></DL></P><P>(2) Handelt es sich bei dem Endger\u00e4t um einen Bestandteil einer Funkleitstelle im Sinne des \u00a7 1 Satz 2, so hat der Antragsteller anzugeben, woraus sich dieser Bestandteil zusammensetzt.</P><P>(3) Die Vorlage der in Absatz 1 Satz 4 Nummer 9 bis 11 genannten Unterlagen ist nicht erforderlich, wenn die Voraussetzungen des \u00a7 7 Absatz 3 vorliegen. Der Antragsteller hat in diesem Fall im Antrag das Vorliegen dieser Voraussetzungen darzulegen.</P><P>(4) Die Bundesanstalt soll die Antr\u00e4ge in der Reihenfolge ihres Eingangs bearbeiten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000401116",
+        "name": "\u00a7 3",
+        "title": "\u00c4nderungszertifizierung",
+        "parent": null,
+        "body": "<P>(1) Eine \u00c4nderungszertifizierung kann nur erfolgen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Deaktivieren von Schnittstellen oder optionalen Leistungsmerkmalen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Aktivierung oder Umsetzung von optionalen Leistungsmerkmalen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer von der Bundesanstalt geforderten Anpassung, insbesondere zur Behebung von Sicherheitsm\u00e4ngeln, oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Fehlerkorrektur</LA></DD></DL>und sofern gleichzeitig sichergestellt ist, dass das Endger\u00e4t auch weiterhin die Anforderungen nach \u00a7 15a Absatz 1 Satz 3 des BDBOS-Gesetzes erf\u00fcllt. Fehlerkorrektur ist das Herstellen eines Zustands des Endger\u00e4tes, der auf Grund der Kundendokumentation des Herstellers bereits zum Zeitpunkt der Zertifizierung vom Endger\u00e4t erwartet werden konnte.</P><P>(2) Neben den in \u00a7 2 genannten Angaben ist in einem Antrag auf \u00c4nderungszertifizierung zus\u00e4tzlich die Angabe erforderlich, welcher \u00c4nderungstatbestand im Sinne des Absatzes 1 Satz 1 Nummer 1 bis 4 vorliegt, welche \u00c4nderung an dem Endger\u00e4t vorgenommen wurde und welche technischen Auswirkungen mit der \u00c4nderung verbunden sind. Der Antrag auf \u00c4nderungszertifizierung ist vor Durchf\u00fchrung der \u00dcberpr\u00fcfung nach \u00a7 7 zu stellen. Es ist nicht erforderlich, dem Antrag die in \u00a7 2 Absatz 1 Satz 4 Nummer 9 bis 11 genannten Unterlagen beizuf\u00fcgen.</P><P>(3) Die Bundesanstalt teilt dem Antragsteller schriftlich mit, ob die Voraussetzungen f\u00fcr eine \u00c4nderungszertifizierung vorliegen und legt den Pr\u00fcfungsumfang abschlie\u00dfend fest. F\u00fcr die Durchf\u00fchrung der \u00dcberpr\u00fcfung nach \u00a7 7 wird dem Antragsteller eine angemessene Frist einger\u00e4umt.</P><P>(4) Nach vier aufeinanderfolgenden \u00c4nderungszertifizierungen ist eine weitere \u00c4nderungszertifizierung ausgeschlossen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Anzeige unwesentlicher \u00c4nderungen nach \u00a7 15a Absatz 3 Satz 4 des BDBOS-Gesetzes",
+        "parent": null,
+        "body": "<P>(1) Anzeigen gem\u00e4\u00df \u00a7 15a Absatz 3 Satz 4 des BDBOS-Gesetzes sind unverz\u00fcglich durch Hersteller oder Lieferanten vorzunehmen, sp\u00e4testens jedoch unmittelbar nach Vornahme der \u00c4nderung. Die Bundesanstalt kann f\u00fcr die Gestaltung der Anzeige verbindliche Vorgaben machen.</P><P>(2) Eine \u00c4nderung ist unwesentlich, wenn sichergestellt ist, dass sie die Einhaltung der Anforderungen nach \u00a7 15a Absatz 1 Satz 3 des BDBOS-Gesetzes nicht beeinflusst. Eine unwesentliche \u00c4nderung liegt in der Regel vor, wenn ausschlie\u00dflich \u00c4nderungen am Geh\u00e4use des Endger\u00e4tes vorgenommen werden. Bei Leitstellenbestandteilen kann auch ein Austausch von Hardwarekomponenten eine unwesentliche \u00c4nderung darstellen.</P><P>(3) Die Bundesanstalt entscheidet nach Eingang der Anzeige, ob eine unwesentliche \u00c4nderung vorliegt. Die \u00c4nderung gilt als unwesentlich, wenn die Bundesanstalt nicht innerhalb einer Frist von drei Monaten eine abweichende Entscheidung trifft. Handelt es sich um eine wesentliche \u00c4nderung, teilt die Bundesanstalt dies dem Hersteller oder Lieferanten unter Hinweis auf \u00a7 15a Absatz 1 Satz 1 und Absatz 3 des BDBOS-Gesetzes schriftlich mit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Anforderungen und Pr\u00fcfkriterien; BOS-IOP-Richtlinien",
+        "parent": null,
+        "body": "<P>(1) Soweit sich die Anforderungen an die Endger\u00e4te nicht bereits aus anderen \u00f6ffentlich-rechtlichen Vorschriften ergeben, werden sie von der Bundesanstalt festgelegt. Die Bundesanstalt legt au\u00dferdem die Pr\u00fcfkriterien fest, anhand derer nachgewiesen wird, ob ein Endger\u00e4t die Anforderungen erf\u00fcllt. Die Bundesanstalt kann festlegen, welche technischen Regelwerke als allgemein anerkannte Regeln der Technik anzuwenden sind.</P><P>(2) Die Bundesanstalt macht in Form von BOS-IOP-Richtlinien insbesondere bekannt: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die f\u00fcr die einzelnen Endger\u00e4tetypen festgelegten Leistungsmerkmale einschlie\u00dflich der dazugeh\u00f6rigen Leistungsbeschreibungen, die sich auch auf die Bedienbarkeit beziehen k\u00f6nnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Einstufung einzelner Leistungsmerkmale als zwingend erforderlich oder optional,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die weiteren Anforderungen nach \u00a7 15a Absatz 1 Satz 3 Nummer 2 des BDBOS-Gesetzes sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Pr\u00fcfkriterien, anhand derer die Einhaltung der Anforderungen nach \u00a7 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes nachgewiesen wird.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000701116",
+        "name": "\u00a7 6",
+        "title": "Ver\u00f6ffentlichung nicht allgemein zug\u00e4nglicher Informationen",
+        "parent": null,
+        "body": "<P>(1) Die Bundesanstalt ver\u00f6ffentlicht folgende Informationen in einem gesch\u00fctzten Bereich auf ihrer Internetseite und stellt sie auf schriftliche Anfrage zur Verf\u00fcgung: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">verbindliche Vorgaben f\u00fcr die Gestaltung des BOS-Pr\u00fcfberichts nach \u00a7 2 Absatz 1 Satz 4 Nummer 9,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">verbindliche Vorgaben f\u00fcr die Anzeige unwesentlicher \u00c4nderungen nach \u00a7 4 Absatz 1 und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">BOS-IOP-Richtlinien im Sinne des \u00a7 5 Absatz 2.</LA></DD></DL>Auf die erstmalige Ver\u00f6ffentlichung und jede \u00c4nderung der in Satz 1 aufgef\u00fchrten Informationen weist die Bundesanstalt im Bundesanzeiger und auf ihrer Internetseite hin.</P><P>(2) F\u00fcr die Beh\u00f6rden und Organisationen mit Sicherheitsaufgaben, die nach \u00a7 3 Absatz 2 der Bestimmungen f\u00fcr Frequenzzuteilungen zur Nutzung f\u00fcr das Betreiben von digitalen Funkanlagen der Beh\u00f6rden und Organisationen mit Sicherheitsaufgaben (BOS) im Frequenzbereich 380 \u2013 385 MHz sowie 390 \u2013 395 MHz (Funkrichtlinie Digitalfunk BOS) in Verbindung mit \u00a7 4 Absatz 1 der Bestimmungen f\u00fcr Frequenzzuteilungen zur Nutzung f\u00fcr das Betreiben von Funkanlagen der Beh\u00f6rden und Organisationen mit Sicherheitsaufgaben (BOS) (BOS-Funkrichtlinie) in der jeweils geltenden Fassung zur Nutzung des Digitalfunks BOS berechtigt sind, erfolgt der Zugang zu den in Absatz 1 genannten Informationen \u00fcber zuvor benannte Ansprechstellen von Bund und L\u00e4ndern. Der Bund und jedes der L\u00e4nder k\u00f6nnen der Bundesanstalt hierf\u00fcr jeweils bis zu drei Ansprechstellen benennen. Die Bundesanstalt kann die Benennung von weiteren Ansprechstellen zulassen, wenn dies auf Grund besonderer Umst\u00e4nde erforderlich ist. Hersteller, Lieferanten und sachverst\u00e4ndige Pr\u00fcfstellen erhalten Zugang zu den in Absatz 1 genannten Informationen, wenn sie ein berechtigtes Interesse und die Einhaltung der notwendigen Sicherheitsvorkehrungen, insbesondere die Berechtigung zur Einsicht in Verschlusssachen, nachweisen. Ein Zugang ist ausgeschlossen, wenn ihm \u00fcberwiegende \u00f6ffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, entgegenstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000801116",
+        "name": "\u00a7 7",
+        "title": "\u00dcberpr\u00fcfung der Endger\u00e4te",
+        "parent": null,
+        "body": "<P>(1) Die Endger\u00e4te werden in technischer Hinsicht durch eine sachverst\u00e4ndige Pr\u00fcfstelle gepr\u00fcft (\u00dcberpr\u00fcfung). Dabei sind die Pr\u00fcfkriterien zugrunde zu legen, die in den zum Zeitpunkt des Antrags auf Durchf\u00fchrung der \u00dcberpr\u00fcfung aktuellen BOS-IOP-Richtlinien oder deren unmittelbarer Vorversion festgelegt sind. Hinsichtlich des Umfangs der Anforderungen, die an die Endger\u00e4te zu stellen sind, k\u00f6nnen auch \u00e4ltere Versionen der BOS-IOP-Richtlinien zugrunde gelegt werden, sofern diese noch dem Stand der Technik entsprechen. Die Ergebnisse der \u00dcberpr\u00fcfung sind in dem BOS-Pr\u00fcfbericht nach \u00a7 2 Absatz 1 Satz 4 Nummer 9 festzuhalten.</P><P>(2) Die Bundesanstalt kann bei Zweifeln am Sachverstand der Pr\u00fcfstelle oder an der Richtigkeit oder Vollst\u00e4ndigkeit des von der Pr\u00fcfstelle erstellten BOS-Pr\u00fcfberichts die Vorlage zus\u00e4tzlicher Unterlagen verlangen oder selbst eine erg\u00e4nzende \u00dcberpr\u00fcfung durchf\u00fchren.</P><P>(3) Abweichend von Absatz 1 Satz 1 kann der Antragsteller mit seinem Antrag auf Zertifizierung die \u00dcberpr\u00fcfung des Endger\u00e4tes durch die Bundesanstalt beantragen, wenn im Einzelfall keine geeignete Pr\u00fcfstelle zur Verf\u00fcgung steht, die die Einhaltung der Anforderungen gem\u00e4\u00df \u00a7 15a Absatz 1 Satz 3 Nummer 1 und 2 des BDBOS-Gesetzes \u00fcberpr\u00fcfen kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Mitwirkungspflichten des Antragstellers",
+        "parent": null,
+        "body": "<P>(1) Der Antragsteller hat der Bundesanstalt sp\u00e4testens mit dem Antrag auf Erteilung eines Zertifikats unentgeltlich zwei Einzelst\u00fccke des zu zertifizierenden Endger\u00e4tes mit Kundendokumentation sowie die f\u00fcr dessen Betrieb notwendigen Einrichtungen zu \u00fcbergeben und die erforderlichen Nutzungsrechte einzur\u00e4umen. Satz 1 findet keine Anwendung, wenn es sich bei dem Endger\u00e4t um einen Bestandteil einer Funkleitstelle im Sinne des \u00a7 1 Satz 2 handelt.</P><P>(2) Der Antragsteller wirkt an der Zertifizierung im erforderlichen Umfang mit, insbesondere durch Ausk\u00fcnfte und das Bereitstellen von Unterlagen zur \u00dcberpr\u00fcfung nach \u00a7 7. Er stellt die erforderliche Mitwirkung Dritter, insbesondere der von ihm beauftragten Pr\u00fcfstelle, sicher.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE001001116",
+        "name": "\u00a7 9",
+        "title": "Zertifikat",
+        "parent": null,
+        "body": "<P>(1) Ein Endger\u00e4t wird zertifiziert, wenn es die in \u00a7 15a Absatz 1 Satz 3 des BDBOS-Gesetzes genannten Anforderungen erf\u00fcllt.</P><P>(2) Das Zertifikat umfasst mindestens folgende Angaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bezeichnung des Endger\u00e4tes nach \u00a7 2 Absatz 1 Satz 4 Nummer 5 Buchstabe a bis e,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungsmerkmale des Endger\u00e4tes, die Gegenstand der Zertifizierung sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Version der BOS-IOP-Richtlinien und der Systemtechnik, die der Zertifizierung zugrunde liegen.</LA></DD></DL></P><P>(3) Dem Zertifikat f\u00fcr einen Bestandteil einer Funkleitstelle im Sinne des \u00a7 1 Satz 2 wird eine Auflistung beigef\u00fcgt, die die Hardware- und Software-Komponenten auff\u00fchrt, aus denen sich der Bestandteil zusammensetzt.</P><P>(4) Bei einer \u00c4nderungszertifizierung kann sich das Zertifikat abweichend von Absatz 2 Nummer 2 auf das ge\u00e4nderte Leistungsmerkmal oder die sonstigen von der \u00c4nderung betroffenen Komponenten des Endger\u00e4tes beschr\u00e4nken. Die \u00c4nderungszertifizierung erfolgt in Form einer Erg\u00e4nzung oder eines Nachtrags zum urspr\u00fcnglichen Zertifikat.</P><P>(5) Das Zertifikat kann mit Nebenbestimmungen versehen werden, insbesondere zur erneuten \u00dcberpr\u00fcfung einzelner Leistungsmerkmale und zur Deaktivierung optionaler Leistungsmerkmale, die einer Verwendung des Endger\u00e4tes im Digitalfunk BOS entgegenstehen.</P><P>(6) Die Erteilung des Zertifikats wird dem Antragsteller schriftlich bekannt gegeben. Die Erteilung des Zertifikats sowie die Angaben nach Absatz 2 Nummer 1 und 3 werden auf der Internetseite der Bundesanstalt ver\u00f6ffentlicht. Den Ansprechstellen, die der Bund und die L\u00e4nder gegen\u00fcber der Bundesanstalt benannt haben, werden auch die \u00fcbrigen in den Abs\u00e4tzen 2 bis 5 genannten Angaben zug\u00e4nglich gemacht. Sachverst\u00e4ndige Pr\u00fcfstellen erhalten nur dann Zugang zu den in Satz 3 genannten Angaben, wenn sie ein berechtigtes Interesse nachweisen; zu einer Weitergabe dieser Angaben an Dritte sind sie nicht berechtigt. Ein Zugang ist ausgeschlossen, wenn ihm \u00fcberwiegende \u00f6ffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, entgegenstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "R\u00fcckgabe von Einzelst\u00fccken",
+        "parent": null,
+        "body": "<P>Im Fall der vollst\u00e4ndigen Versagung des Zertifikats gibt die Bundesanstalt eines der nach \u00a7 8 Absatz 1 Satz 1 abgelieferten Einzelst\u00fccke an den Antragsteller zur\u00fcck. Bei R\u00fccknahme des Antrags gibt die Bundesanstalt beide Einzelst\u00fccke an den Antragsteller zur\u00fcck. Die R\u00fcckgabe nach Satz 1 oder 2 erfolgt am Sitz der Bundesanstalt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "\u00dcbergangsregelung",
+        "parent": null,
+        "body": "<P>Die \u00dcbergangsfrist gem\u00e4\u00df \u00a7 15a Absatz 5 Satz 1 des BDBOS-Gesetzes endet am 31. Dezember 2011.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR212000010BJNE001300000",
+        "name": "\u00a7 12",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

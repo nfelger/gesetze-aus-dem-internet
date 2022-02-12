@@ -1,0 +1,253 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR071400008",
+    "firstPublished": "2008-04-09",
+    "sourceTimestamp": "20210930213045",
+    "titleShort": null,
+    "titleLong": "Fleischgesetz<FnR ID=\"BJNR071400008_01\" />",
+    "abbreviation": "FlG",
+    "slug": "flg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2008, 714 (1025)",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 102 G v. 20.11.2019 I 1626",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"BJNR071400008_01\" Pos=\"normal\" Postfix=\")\"><noindex>Die Verpflichtungen aus der Richtlinie 98/34/EG des Europ\u00e4ischen Parlaments und des Rates vom 22. Juni 1998 \u00fcber ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften f\u00fcr die Dienste der Informationsgesellschaft (ABl. EG Nr. L 204 S. 37), zuletzt ge\u00e4ndert durch die Richtlinie 2006/96/EG des Rates vom 20. November 2006 (ABl. EU Nr. L 363 S. 81), sind beachtet worden.</noindex></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.11.2008 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Beachtung der EGRL 34/98 (CELEX Nr.: 398L0034) +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Begriffsbestimmungen",
+        "parent": null,
+        "body": "<P>Im Sinne dieses Gesetzes sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Schlachttiere: zum Schlachten bestimmte Rinder, Schweine und Schafe;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Schlachtk\u00f6rper: ganze, halbe und viertel Tierk\u00f6rper von Schlachttieren;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Schlachtbetrieb: ein Unternehmen, das Schlachttiere gewerbsm\u00e4\u00dfig oder im Rahmen einer wirtschaftlichen Unternehmung schlachtet oder schlachten l\u00e4sst;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Schlachtst\u00e4tte: eine Einrichtung oder Anlage, in der Schlachttiere gewerbsm\u00e4\u00dfig oder im Rahmen einer wirtschaftlichen Unternehmung geschlachtet werden;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Klassifizierung: Einreihung von Schlachtk\u00f6rpern in gesetzliche Handelsklassen und Kategorien;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Klassifizierungsunternehmen: ein Unternehmen, das die Klassifizierung als Dienstleistung erbringt;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Klassifizierer: ein Mitarbeiter eines Klassifizierungsunternehmens, der die Klassifizierung durchf\u00fchrt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000301119",
+        "name": "\u00a7 2",
+        "title": "Klassifizierung",
+        "parent": null,
+        "body": "<P>(1) Soweit nach den Vorschriften des Handelsklassenrechts eine Klassifizierung von Schlachtk\u00f6rpern vorgeschrieben oder zul\u00e4ssig ist, darf die Klassifizierung nur von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der zust\u00e4ndigen Beh\u00f6rde oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einem hierf\u00fcr nach \u00a7 3 zugelassenen Klassifizierungsunternehmen durch nach \u00a7 4 zugelassene und von ihm besch\u00e4ftigte Klassifizierer</LA></DD></DL>vorgenommen werden.</P><P>(2) Die von einem auszubildenden Klassifizierer durchgef\u00fchrte und gleichzeitig von einem zugelassenen Klassifizierer beaufsichtigte Klassifizierung gilt als Klassifizierung durch einen zugelassenen Klassifizierer, wenn der zugelassene Klassifizierer ausschlie\u00dflich diese eine Klassifizierung beaufsichtigt, um jederzeit einschreiten und damit eine ordnungsgem\u00e4\u00dfe Klassifizierung sicherstellen zu k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000402119",
+        "name": "\u00a7 3",
+        "title": "Zulassung von Klassifizierungsunternehmen",
+        "parent": null,
+        "body": "<P>(1) Der Betrieb eines Klassifizierungsunternehmens bedarf der Zulassung durch die zust\u00e4ndige Beh\u00f6rde. Die Zulassung wird auf Antrag erteilt, wenn das Klassifizierungsunternehmen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2012-07 Typ A erf\u00fcllt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gew\u00e4hr f\u00fcr die notwendige <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Unabh\u00e4ngigkeit von den Beteiligten der gesamten Vermarktungskette f\u00fcr Fleisch,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zuverl\u00e4ssigkeit und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Sachkunde bietet,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Niederlassung oder zustellungsf\u00e4hige Anschrift im Inland hat und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine f\u00fcr die ordnungsgem\u00e4\u00dfe Klassifizierung hinreichende Anzahl zugelassener Klassifizierer besch\u00e4ftigt.</LA></DD></DL></P><P>(2) Die Zulassung ist auf f\u00fcnf Jahre befristet. Sie wird auf Antrag um jeweils f\u00fcnf Jahre verl\u00e4ngert, soweit die Zulassungsvoraussetzungen weiterhin erf\u00fcllt werden. Der Antrag nach Satz 2 ist sp\u00e4testens sechs Monate vor Ablauf der Zulassung zu stellen.</P><P>(3) Die Zulassung erlischt, wenn das Klassifizierungsunternehmen seine T\u00e4tigkeit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht innerhalb eines Jahres nach Erteilung der ersten Zulassung aufgenommen hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">seit Aufnahme der T\u00e4tigkeit mehr als ein Jahr nicht mehr ausge\u00fcbt hat oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eingestellt hat.</LA></DD></DL>Das Erl\u00f6schen der Zulassung wird durch Bescheid der zust\u00e4ndigen Beh\u00f6rde festgestellt.</P><P>(4) Das Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (Bundesministerium) wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die n\u00e4heren Anforderungen an die Zulassung nach Absatz 1 einschlie\u00dflich des Verfahrens festzulegen. In der Rechtsverordnung nach Satz 1 kann insbesondere vorgeschrieben werden, dass die Zulassung inhaltlich beschr\u00e4nkt, mit Auflagen, auch nachtr\u00e4glich, verbunden oder nur f\u00fcr das Gebiet eines oder mehrerer L\u00e4nder erteilt werden kann, soweit dies zur ordnungsgem\u00e4\u00dfen Durchf\u00fchrung der Klassifizierung erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000502119",
+        "name": "\u00a7 4",
+        "title": "Bef\u00e4higung und Zulassung von Klassifizierern",
+        "parent": null,
+        "body": "<P>(1) Ein Klassifizierer darf Schlachtk\u00f6rper einer Tierart nur klassifizieren, wenn er dazu von der zust\u00e4ndigen Beh\u00f6rde zugelassen ist. Die Zulassung wird auf Antrag erteilt, wenn die antragstellende Person <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sachkundig ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr einen Zeitraum von mindestens drei Monaten in einem Klassifizierungsunternehmen t\u00e4tig gewesen und dort w\u00e4hrend dieses Zeitraums f\u00fcr die T\u00e4tigkeit als Klassifizierer in der Praxis ausgebildet worden ist und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber die f\u00fcr die T\u00e4tigkeit erforderliche Zuverl\u00e4ssigkeit sowie Unabh\u00e4ngigkeit von den Beteiligten der gesamten Vermarktungskette f\u00fcr Fleisch verf\u00fcgt.</LA></DD></DL>Die Zulassung erfolgt durch Aush\u00e4ndigung einer Zulassungsurkunde und einen mit einem Lichtbild versehenen Klassifiziererausweis. F\u00fcr die Aus\u00fcbung seiner T\u00e4tigkeit erh\u00e4lt der Klassifizierer einen auf seine Person bezogenen Stempel. Der Klassifizierer hat den Klassifiziererausweis und den personenbezogenen Stempel w\u00e4hrend der Aus\u00fcbung seiner T\u00e4tigkeit stets bei sich zu f\u00fchren.</P><P>(2) Die Sachkunde ist in einer staatlichen Pr\u00fcfung (Sachkundepr\u00fcfung) nachzuweisen. Die Sachkundepr\u00fcfung besteht aus einem praktischen und einem theoretischen Teil; sie umfasst <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ausreichende Kenntnis der Handelsklassensysteme und der Klassifizierungs- und Verwiegungstechniken f\u00fcr die jeweilige Tierart,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bedienung und Behandlung der f\u00fcr die jeweilige Tierart zugelassenen Klassifizierungsger\u00e4te und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kenntnisse der f\u00fcr die Klassifizierung ma\u00dfgeblichen Rechtsvorschriften.</LA></DD></DL></P><P>(3) Bevor eine antragstellende Person zur Pr\u00fcfung nach Absatz 2 zugelassen wird, muss sie an einem Ausbildungskurs teilgenommen haben. Der Ausbildungskurs wird von der f\u00fcr die Durchf\u00fchrung der Sachkundepr\u00fcfung zust\u00e4ndigen Beh\u00f6rde oder von einer von der zust\u00e4ndigen Beh\u00f6rde beauftragten Einrichtung durchgef\u00fchrt. Die Dauer des Ausbildungskurses betr\u00e4gt f\u00fcr jede Tierart mindestens f\u00fcnf Tage.</P><P>(4) Jeder Klassifizierer ist verpflichtet, alle zwei Jahre an einem Fortbildungskurs teilzunehmen und die sich anschlie\u00dfende Pr\u00fcfung (Fortbildungspr\u00fcfung) erfolgreich zu absolvieren. Die Verpflichtung zur Teilnahme an einem Fortbildungskurs oder zur Teilnahme an einer Fortbildungspr\u00fcfung entf\u00e4llt, soweit in der Person eines Klassifizierers ein wichtiger Grund vorliegt; in diesem Fall sind der Fortbildungskurs und die Fortbildungspr\u00fcfung unverz\u00fcglich nachzuholen. Die Dauer des Fortbildungskurses betr\u00e4gt f\u00fcr jede Tierart mindestens einen Tag. Absatz 3 Satz 2 gilt entsprechend.</P><P>(5) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die n\u00e4heren Anforderungen an die Zulassung von Klassifizierern einschlie\u00dflich des Verfahrens, insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an die f\u00fcr die T\u00e4tigkeit als Klassifizierer erforderliche Zuverl\u00e4ssigkeit und Unabh\u00e4ngigkeit nach Absatz 1 Satz 2 Nr. 3,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das N\u00e4here \u00fcber die Sachkundepr\u00fcfung nach Absatz 2,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Ausbildungskurs nach Absatz 3 und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Fortbildungskurs einschlie\u00dflich der Pr\u00fcfung nach Absatz 4 und der Folgen bei Nichtbestehen der Fortbildungspr\u00fcfung</LA></DD></DL>einschlie\u00dflich des jeweiligen Verfahrens zu regeln. In der Verordnung nach Satz 1 kann insbesondere bestimmt werden, dass Zulassung und Sachkundepr\u00fcfung f\u00fcr die Klassifizierung von Schweineschlachtk\u00f6rpern jeweils nur f\u00fcr bestimmte Ger\u00e4te oder Ger\u00e4tetypen erfolgen.</P><P>(6) Eine Person, die \u00fcber eine in einem anderen Mitgliedstaat der Europ\u00e4ischen Union oder einem anderen Vertragsstaat des Abkommens \u00fcber den europ\u00e4ischen Wirtschaftsraum erworbene abgeschlossene Ausbildung oder eine dort erfolgte Zulassung als Klassifizierer verf\u00fcgt, ist ohne erneute Teilnahme an einem Ausbildungskurs und ohne Sachkundepr\u00fcfung zuzulassen, wenn die Gleichwertigkeit der Sachkunde gegeben ist. Liegt eine gleichwertige Sachkunde nicht vor oder ist sie nur mit unangemessenem zeitlichen oder sachlichen Aufwand feststellbar, ist ein gleichwertiger Kenntnisstand nachzuweisen. Der Nachweis nach Satz 2 wird durch das Ablegen einer Pr\u00fcfung erbracht, die sich auf den Inhalt der Sachkundepr\u00fcfung nach Absatz 2 erstreckt. Die n\u00e4heren Einzelheiten f\u00fcr die Pr\u00fcfung nach Satz 3 einschlie\u00dflich des Verfahrens k\u00f6nnen in der Rechtsverordnung nach Absatz 5 geregelt werden.</P><P>(7) Die Abs\u00e4tze 1 bis 4 und 6 gelten f\u00fcr qualifiziertes Personal im Sinne von Artikel 9 Buchstabe b der Delegierten Verordnung (EU) 2017/1182 der Kommission vom 20. April 2017 zur Erg\u00e4nzung der Verordnung (EU) Nr. 1308/2013 des Europ\u00e4ischen Parlaments und des Rates in Bezug auf die Handelsklassenschemata der Union f\u00fcr Schlachtk\u00f6rper von Rindern, Schweinen und Schafen und zur Meldung der Marktpreise f\u00fcr bestimmte Kategorien von Schlachtk\u00f6rpern und lebenden Tieren (ABl. L 171 vom 4.7.2017, S. 74) entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Erl\u00f6schen der Zulassung eines Klassifizierers, R\u00fcckgabe \u00fcbergebener Gegenst\u00e4nde",
+        "parent": null,
+        "body": "<P>(1) Die Zulassung eines Klassifizierers erlischt, wenn der Klassifizierer seine T\u00e4tigkeit <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>nicht innerhalb eines Jahres nach Erteilung der Zulassung aufgenommen oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>seit Aufnahme der T\u00e4tigkeit mehr als zwei Jahre nicht mehr ausge\u00fcbt</LA></DD></DL>hat. Das Erl\u00f6schen der Zulassung wird durch Bescheid der zust\u00e4ndigen Beh\u00f6rde festgestellt.</P><P>(2) Ein Klassifizierer ist nach Beendigung seiner T\u00e4tigkeit sowie nach Widerruf, R\u00fccknahme oder Erl\u00f6schen seiner Zulassung verpflichtet, der zust\u00e4ndigen Beh\u00f6rde die Zulassungsurkunde, den Klassifiziererausweis und den personenbezogenen Stempel zur\u00fcckzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000701119",
+        "name": "\u00a7 6",
+        "title": "Widerruf und R\u00fccknahme der Zulassung von Klassifizierungsunternehmen und Klassifizierern",
+        "parent": null,
+        "body": "<P>(1) Die Zulassung eines Klassifizierungsunternehmens ist zu widerrufen, wenn die Gew\u00e4hr f\u00fcr eine ordnungsgem\u00e4\u00dfe Durchf\u00fchrung der Klassifizierung nicht mehr gegeben ist. Dies ist insbesondere dann der Fall, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die notwendige Zuverl\u00e4ssigkeit, Unabh\u00e4ngigkeit oder Sachkunde nicht mehr gegeben ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Klassifizierungsunternehmen <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Klassifizierungst\u00e4tigkeit eines oder mehrerer Klassifizierer in unzul\u00e4ssiger Weise beeinflusst hat oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">einen oder mehrere Klassifizierer zur Verf\u00e4lschung des Klassifizierungsergebnisses veranlasst hat.</LA></DD></DL></LA></DD></DL></P><P>(2) Die Zulassung eines Klassifizierungsunternehmens kann widerrufen werden, wenn das Klassifizierungsunternehmen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen der Norm DIN EN ISO/IEC 17020:2012-07 Typ A nicht mehr erf\u00fcllt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Klassifizierung durch einen nicht zugelassenen Klassifizierer durchf\u00fchren l\u00e4sst.</LA></DD></DL></P><P>(3) Die Zulassung eines Klassifizierers ist zu widerrufen, wenn er <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht mehr \u00fcber die f\u00fcr die T\u00e4tigkeit erforderliche Zuverl\u00e4ssigkeit oder Unabh\u00e4ngigkeit verf\u00fcgt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ohne Vorliegen eines wichtigen Grundes nicht erfolgreich an einem Fortbildungskurs nach \u00a7 4 Abs. 4 teilgenommen hat.</LA></DD></DL></P><P>(4) Im \u00dcbrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften \u00fcber R\u00fccknahme und Widerruf von Verwaltungsakten unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Zust\u00e4ndigkeit",
+        "parent": null,
+        "body": "<P>(1) Die Durchf\u00fchrung dieses Gesetzes und die \u00dcberwachung der Einhaltung der Bestimmungen dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen obliegt den nach Landesrecht zust\u00e4ndigen Beh\u00f6rden, soweit in diesem Gesetz nichts anderes bestimmt ist.</P><P>(2) Zust\u00e4ndig f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Zulassung und \u00dcberwachung der Einhaltung der Zulassungsvoraussetzungen eines Klassifizierungsunternehmens nach \u00a7 3 Abs. 1,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Verl\u00e4ngerung der Zulassung eines Klassifizierungsunternehmens nach \u00a7 3 Abs. 2,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das Feststellen des Erl\u00f6schens der Zulassung eines Klassifizierungsunternehmens nach \u00a7 3 Abs. 3 sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>den Widerruf und die R\u00fccknahme der Zulassung eines Klassifizierungsunternehmens nach \u00a7 6 Abs. 1 und 3</LA></DD></DL>ist die Bundesanstalt f\u00fcr Landwirtschaft und Ern\u00e4hrung (Bundesanstalt).</P><P>(3) Zust\u00e4ndig f\u00fcr die Zulassung der Klassifizierer nach \u00a7 4 Abs. 1 und die Durchf\u00fchrung der Pr\u00fcfungen nach \u00a7 4 Abs. 2, 4 und 6 Satz 3 ist die zust\u00e4ndige Beh\u00f6rde des Landes, in dem der Antragsteller oder Klassifizierer seine Hauptwohnung oder, soweit er \u00fcber keine Wohnung im Inland verf\u00fcgt, seine zustellungsf\u00e4hige Anschrift hat. \u00c4ndert sich w\u00e4hrend des Verfahrens die Wohnung oder die zustellungsf\u00e4hige Anschrift, so kann die bisher zust\u00e4ndige Beh\u00f6rde das Verfahren fortsetzen, wenn die nunmehr zust\u00e4ndige Beh\u00f6rde zustimmt.</P><P>(4) Stellt die nach Absatz 2 oder Absatz 3 zust\u00e4ndige Beh\u00f6rde Tatsachen fest, die f\u00fcr das Vorliegen der Voraussetzungen der Zulassung eines Klassifizierungsunternehmens oder eines Klassifizierers von Bedeutung sein k\u00f6nnen und ist sie nicht selbst die f\u00fcr die Entscheidung zust\u00e4ndige Beh\u00f6rde, so teilt sie diese Tatsachen der f\u00fcr die Entscheidung zust\u00e4ndigen Beh\u00f6rde unverz\u00fcglich mit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Mitteilungspflichten",
+        "parent": null,
+        "body": "<P>(1) Das Klassifizierungsunternehmen ist verpflichtet, zum Zweck der Durchf\u00fchrung dieses Gesetzes der Bundesanstalt sowie den f\u00fcr die Zulassung und \u00dcberwachung der T\u00e4tigkeit der Klassifizierer zust\u00e4ndigen Landesbeh\u00f6rden vor Aufnahme seiner T\u00e4tigkeit Namen und Anschriften der bei ihm besch\u00e4ftigten Klassifizierer sowie die vorgesehenen Einsatzorte der Klassifizierer mitzuteilen. \u00c4nderungen sind unverz\u00fcglich mitzuteilen.</P><P>(2) Beabsichtigt ein Klassifizierungsunternehmen, seine T\u00e4tigkeit einzustellen oder beantragt es die Er\u00f6ffnung eines Insolvenzverfahrens, so teilt es dies zum Zweck der Durchf\u00fchrung dieses Gesetzes <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>sp\u00e4testens drei Monate vor dem voraussichtlichen Ende seiner T\u00e4tigkeit oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>im Falle eines Antrags auf Er\u00f6ffnung eines Insolvenzverfahrens unverz\u00fcglich nach dem Antrag auf Er\u00f6ffnung des Insolvenzverfahrens</LA></DD></DL>den in Absatz 1 Satz 1 genannten Beh\u00f6rden mit.</P><P>(3) Beendet ein Klassifizierer seine T\u00e4tigkeit, so teilt er dies zum Zweck der Durchf\u00fchrung dieses Gesetzes der f\u00fcr seine Zulassung zust\u00e4ndigen Beh\u00f6rde unverz\u00fcglich mit. Die T\u00e4tigkeit als Klassifizierer gilt als beendet, wenn er die T\u00e4tigkeit f\u00fcr einen Zeitraum von mehr als zwei Jahren nicht mehr ausge\u00fcbt hat.</P><P>(4) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die n\u00e4heren Anforderungen an die Mitteilungspflichten nach den Abs\u00e4tzen 1 bis 3 und das Verfahren zu regeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001001301",
+        "name": "\u00a7 9",
+        "title": "Preis- und Gewichtsfeststellung, Kennzeichnung von Schlachtk\u00f6rpern",
+        "parent": null,
+        "body": "<P>(1) Zur F\u00f6rderung der Markt\u00fcbersicht k\u00f6nnen nach Ma\u00dfgabe der folgenden Vorschriften von den zust\u00e4ndigen Beh\u00f6rden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Preise und Gewichte f\u00fcr Schlachtk\u00f6rper festgestellt und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die festgestellten Preise als amtliche Preisfeststellungen ver\u00f6ffentlicht</LA></DD></DL>werden.</P><P>(2) Das Bundesministerium wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie durch Rechtsverordnung mit Zustimmung des Bundesrates Vorschriften \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Preis- und Gewichtsfeststellung f\u00fcr Schlachtk\u00f6rper und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kennzeichnung von Schlachtk\u00f6rpern mit einer Schlachtnummer zur Sicherung der N\u00e4mlichkeit</LA></DD></DL>zu erlassen.</P><P>(3) In der Rechtsverordnung nach Absatz 2 Nr. 1 k\u00f6nnen die n\u00e4heren Voraussetzungen \u00fcber das Verfahren der Preismeldung sowie ihren Inhalt und ihre Bekanntgabe festgelegt werden, insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass Inhaber von Schlacht- oder Zerlegebetrieben der zust\u00e4ndigen Beh\u00f6rde Meldungen zu erstatten haben \u00fcber <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die angelieferten und abgegebenen Mengen und die hierf\u00fcr gezahlten Preise unter Angabe der Art und Kategorie,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Ergebnis der Klassifizierungen und das Gewicht der einzelnen Schlachtk\u00f6rper sowie</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">andere Beurteilungsmerkmale, soweit der Kaufpreis unter Ber\u00fccksichtigung dieser Merkmale berechnet wird,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass Inhaber von Schlacht- oder Zerlegebetrieben, deren Meldungen unter Ber\u00fccksichtigung der von ihnen umgesetzten Mengen f\u00fcr die Preisbildung keine Bedeutung haben, von der Meldepflicht ausgenommen sind oder von ihr befreit werden k\u00f6nnen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass Preise auf Grund der Meldungen nach Nummer 1 von der zust\u00e4ndigen Beh\u00f6rde festgestellt und als amtliche Preisfeststellungen ver\u00f6ffentlicht werden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass das Schlachtgewicht nur von den in \u00a7 2 genannten Einrichtungen festgestellt werden darf sowie</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorgaben zur <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Errechnung der zu meldenden und der zu ver\u00f6ffentlichenden Preise und zu den Meldungen, insbesondere zu Form, Inhalt und Zeitpunkt sowie den Zeitraum, f\u00fcr den die Meldungen zu erstatten sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ermittlung des Schlachtgewichts und der Schnittf\u00fchrung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Dauer der Aufbewahrung der Preismelde- und der Wiegeunterlagen sowie zum Inhalt der von den nach Landesrecht zust\u00e4ndigen Beh\u00f6rden an das Bundesministerium oder die von ihm bestimmte Stelle weiterzuleitenden Aufstellungen.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Auskunftspflichten",
+        "parent": null,
+        "body": "<P>(1) Ein Klassifizierungsunternehmen ist verpflichtet, dem Lieferanten eines Schlachttieres auf Antrag, der innerhalb von drei Monaten nach der Schlachtung des gelieferten Tieres zu stellen ist, eine schriftliche oder elektronische Auskunft \u00fcber die Schlachtnummer, das Schlachtgewicht und das Klassifizierungsergebnis des Schlachttieres zu geben. Die Verpflichtung nach Satz 1 erstreckt sich bei Schweinen auch auf den Muskelfleischanteil.</P><P>(2) Die Schlachtbetriebe sind verpflichtet, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Klassifizierungsunternehmen die f\u00fcr die Zuordnung der Schlachttiere zu den Lieferanten erforderlichen Informationen zur Verf\u00fcgung zu stellen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den Lieferanten der Schlachttiere hinsichtlich der von diesen gelieferten Tiere Auskunft \u00fcber die Schlachtnummer, das Schlachtgewicht und den gemeldeten Preis zu geben.</LA></DD></DL></P><P>(3) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates die n\u00e4heren Anforderungen an die Informationen nach Absatz 1 oder 2 einschlie\u00dflich der Art und Weise ihrer Erteilung zu regeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001201377",
+        "name": "\u00a7 11",
+        "title": "Befugnisse der zust\u00e4ndigen Beh\u00f6rde",
+        "parent": null,
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde kann die zur Beseitigung festgestellter Verst\u00f6\u00dfe und die zur Verh\u00fctung k\u00fcnftiger Verst\u00f6\u00dfe notwendigen Anordnungen treffen. Insbesondere kann sie <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>anordnen, dass ein Klassifizierungsunternehmen oder ein Klassifizierer wegen fehlender Unabh\u00e4ngigkeit nicht mehr bei einem bestimmten Schlachtbetrieb oder in einer bestimmten Schlachtst\u00e4tte oder bei Tieren eines bestimmten Lieferanten von Schlachttieren t\u00e4tig werden darf und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einem Klassifizierer wegen fehlender Sachkunde, Unabh\u00e4ngigkeit oder Zuverl\u00e4ssigkeit die weitere Aus\u00fcbung seiner T\u00e4tigkeit ganz oder teilweise untersagen.</LA></DD></DL></P><P>(2) Personen, die von der zust\u00e4ndigen Beh\u00f6rde beauftragt sind, sowie in ihrer Begleitung befindliche Besch\u00e4ftigte des Bundesministeriums, der Bundesanstalt oder der L\u00e4nder und Sachverst\u00e4ndige der Europ\u00e4ischen Kommission und anderer Mitgliedstaaten der Europ\u00e4ischen Union, d\u00fcrfen, soweit es zur Durchf\u00fchrung dieses Gesetzes und zur \u00dcberwachung der Einhaltung der Bestimmungen dieses Gesetzes und der auf Grund dieses Gesetzes erlassenen Rechtsverordnungen erforderlich ist, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>w\u00e4hrend der Gesch\u00e4fts- oder Betriebszeit Grundst\u00fccke sowie Gesch\u00e4fts-, Betriebs- und Lagerr\u00e4ume sowie Transportmittel betreten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Besichtigungen vornehmen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Proben entnehmen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>alle schriftlich oder elektronisch vorliegenden Gesch\u00e4ftsunterlagen einsehen, pr\u00fcfen und hieraus Abschriften, Ausz\u00fcge, Ausdrucke oder Kopien anfertigen und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die erforderlichen Ausk\u00fcnfte verlangen.</LA></DD></DL></P><P>(3) Inhaber von Unternehmen der Fleischwirtschaft und von Klassifizierungsunternehmen sind verpflichtet, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Betreten der Grundst\u00fccke sowie der Gesch\u00e4fts-, Betriebs- und Lagerr\u00e4ume und Transportmittel nach Absatz 2 Nr. 1, die dort vorzunehmenden Besichtigungen nach Absatz 2 Nr. 2, die Probenahme nach Absatz 2 Nr. 3 und die Pr\u00fcfung der Gesch\u00e4ftsunterlagen nach Absatz 2 Nr. 4 zu dulden und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei Ma\u00dfnahmen nach Absatz 2 mitzuwirken, insbesondere auf Verlangen die R\u00e4ume zu bezeichnen und zu \u00f6ffnen, schriftliche oder elektronische gesch\u00e4ftliche Unterlagen vorzulegen, Abschriften, Ausz\u00fcge, Ausdrucke oder Kopien der Unterlagen auf eigene Kosten anzufertigen, die Entnahme von Proben zu erm\u00f6glichen und die erforderlichen Ausk\u00fcnfte zu erteilen.</LA></DD></DL></P><P>(4) Wer zur Erteilung einer Auskunft verpflichtet ist, kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in \u00a7 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angeh\u00f6rigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz \u00fcber Ordnungswidrigkeiten aussetzen w\u00fcrde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001302119",
+        "name": "\u00a7 12",
+        "title": "Registerf\u00fchrung, Daten\u00fcbermittlung",
+        "parent": null,
+        "body": "<P>(1) Soweit dies zur Erf\u00fcllung von Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union \u00fcber die Preismeldungen f\u00fcr Schlachtk\u00f6rper oder zur Durchf\u00fchrung von Rechtsverordnungen nach \u00a7 9 Abs. 2 erforderlich ist, darf die zust\u00e4ndige Beh\u00f6rde erhobene Informationen einschlie\u00dflich personenbezogener Daten \u00fcbermitteln <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an das Bundesministerium,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">an die Bundesanstalt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">an die zust\u00e4ndigen Beh\u00f6rden anderer L\u00e4nder und anderer Mitgliedstaaten der Europ\u00e4ischen Union und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">an die Organe und Einrichtungen der Europ\u00e4ischen Union.</LA></DD></DL></P><P>(2) Die Bundesanstalt f\u00fchrt ein Register der nach \u00a7 3 Abs. 1 zugelassenen Klassifizierungsunternehmen. In dem Register werden nur die Namen und Anschriften der Unternehmen und der in den Unternehmen besch\u00e4ftigten Klassifizierer, das Datum der Zulassung des Klassifizierungsunternehmens und der Klassifizierer sowie die f\u00fcr die Zulassung der Klassifizierer zust\u00e4ndige Landesbeh\u00f6rde gespeichert. Zum Zwecke der \u00dcberwachung der Klassifizierung ist den daf\u00fcr zust\u00e4ndigen Beh\u00f6rden der L\u00e4nder auf Ersuchen Auskunft aus dem Register zu erteilen.</P><P>(3) Die zust\u00e4ndige Landesbeh\u00f6rde f\u00fchrt ein Register aller von ihr zugelassenen Klassifizierer. In dem Register werden nur die Namen und Anschriften der Klassifizierer, das Datum der Zulassung und der letzten bestandenen Fortbildungspr\u00fcfung sowie Name und Anschrift des Klassifizierungsunternehmens, bei dem der Klassifizierer besch\u00e4ftigt ist, gespeichert. Die zust\u00e4ndige Landesbeh\u00f6rde erteilt Auskunft aus dem Register <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bundesanstalt zum Zweck der Zulassung und \u00dcberwachung der Einhaltung der Zulassungsvoraussetzungen von Klassifizierungsunternehmen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den zust\u00e4ndigen Beh\u00f6rden der L\u00e4nder zum Zweck der \u00dcberwachung der Klassifizierung.</LA></DD></DL></P><P>(4) Die Einrichtung von automatisierten Verfahren, die die \u00dcbermittlung der Daten aus den Registern nach den Abs\u00e4tzen 2 und 3 durch Abruf erm\u00f6glichen, ist zul\u00e4ssig, soweit diese Verfahren unter Ber\u00fccksichtigung der schutzw\u00fcrdigen Interessen der betroffenen Personen und der Aufgaben oder Gesch\u00e4ftszwecke der beteiligten Stellen angemessen sind. Die beteiligten Stellen haben zu gew\u00e4hrleisten, dass das Abrufverfahren kontrolliert werden kann. Hierzu haben sie Folgendes schriftlich festzulegen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlass und Zweck des Abrufverfahrens,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Dritte, an die die Daten \u00fcbermittelt werden sollen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art der zu \u00fcbermittelnden Daten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erforderlichen technischen und organisatorischen Ma\u00dfnahmen nach Ma\u00dfgabe der Artikel 24, 25 und 32 der Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung.</LA></DD></DL></P><P>Im \u00f6ffentlichen Bereich k\u00f6nnen die Festlegungen auch von den Fachaufsichtsbeh\u00f6rden getroffen werden.</P><P>(5) Nach der Einstellung der T\u00e4tigkeit eines Klassifizierungsunternehmens oder eines Klassifizierers oder dem Ausscheiden eines Klassifizierers aus einem Klassifizierungsunternehmen sind die dieses Klassifizierungsunternehmen oder diesen Klassifizierer betreffenden Daten noch f\u00fcr die Dauer von drei Jahren aufzubewahren. Die Frist beginnt mit Ablauf des 31. Dezember desjenigen Jahres, in dem die Unternehmensaufgabe, das Ausscheiden aus dem Unternehmen oder die Beendigung der T\u00e4tigkeit erfolgt ist. Nach Ablauf der Aufbewahrungsfrist sind die Daten zu l\u00f6schen. Vorschriften, die eine l\u00e4ngere Aufbewahrung vorschreiben, bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001402119",
+        "name": "\u00a7 13",
+        "title": "Rechtsverordnungen in bestimmten F\u00e4llen",
+        "parent": null,
+        "body": "<P>(1) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates n\u00e4here Bestimmungen \u00fcber die f\u00fcr die Durchf\u00fchrung dieses Gesetzes erforderliche Verarbeitung personenbezogener Daten zu treffen.</P><P>(2) Rechtsverordnungen nach Absatz 1, \u00a7 3 Abs. 4, \u00a7 4 Abs. 5, \u00a7 8 Abs. 4, \u00a7 9 Abs. 2, auch in Verbindung mit Abs. 3, und \u00a7 10 Abs. 3 k\u00f6nnen ohne Zustimmung des Bundesrates erlassen werden, wenn ihr unverz\u00fcgliches Inkrafttreten zur Umsetzung oder Durchf\u00fchrung von Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union im Anwendungsbereich dieses Gesetzes erforderlich ist und ihre Geltungsdauer auf einen bestimmten Zeitraum von h\u00f6chstens sechs Monaten begrenzt wird.</P><P>(3) Das Bundesministerium kann die ihm in diesem Gesetz erteilten Erm\u00e4chtigungen zum Erlass von Rechtsverordnungen durch Rechtsverordnung mit Zustimmung des Bundesrates auf die Landesregierungen \u00fcbertragen. Die Landesregierungen k\u00f6nnen die Erm\u00e4chtigung durch Rechtsverordnung auf oberste Landesbeh\u00f6rden \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001504301",
+        "name": "\u00a7 14",
+        "title": "(weggefallen)",
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001601377",
+        "name": "\u00a7 15",
+        "title": "Au\u00dfenverkehr",
+        "parent": null,
+        "body": "<P>Der Verkehr mit den zust\u00e4ndigen Beh\u00f6rden anderer Mitgliedstaaten und dritter Staaten sowie den Organen der Europ\u00e4ischen Union obliegt dem Bundesministerium. Es kann die damit verbundenen Aufgaben auf die Bundesanstalt oder durch Rechtsverordnung mit Zustimmung des Bundesrates auf die zust\u00e4ndigen obersten Landesbeh\u00f6rden \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001701119",
+        "name": "\u00a7 16",
+        "title": "Bu\u00dfgeldvorschriften",
+        "parent": null,
+        "body": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 2 Absatz 1 Nummer 2 eine Klassifizierung vornimmt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 8 Abs. 1, 2 oder 3 Satz 1, jeweils auch in Verbindung mit einer Rechtsverordnung nach \u00a7 8 Abs. 4, eine Mitteilung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Rechtsverordnung nach \u00a7 9 Abs. 2 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung oder Untersagung nach \u00a7 11 Abs. 1 Satz 2 zuwiderhandelt oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 11 Abs. 3 eine dort genannte Ma\u00dfnahme nicht duldet oder bei der Besichtigung nicht mitwirkt.</LA></DD></DL></P><P>(2) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nr. 2 und 5 mit einer Geldbu\u00dfe bis zu zehntausend Euro, in den \u00fcbrigen F\u00e4llen mit einer Geldbu\u00dfe bis zu drei\u00dfigtausend Euro geahndet werden.</P><P>(3) Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Absatz 1 Nummer 1 des Gesetzes \u00fcber Ordnungswidrigkeiten ist die Bundesanstalt f\u00fcr Landwirtschaft und Ern\u00e4hrung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001800000",
+        "name": "\u00a7 17",
+        "title": "Einziehung",
+        "parent": null,
+        "body": "<P>Ist eine Ordnungswidrigkeit nach \u00a7 16 Abs. 1 begangen worden, so k\u00f6nnen Gegenst\u00e4nde, auf die sich die Ordnungswidrigkeit bezieht, und Gegenst\u00e4nde, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind, eingezogen werden. \u00a7 23 des Gesetzes \u00fcber Ordnungswidrigkeiten ist anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE001900000",
+        "name": "\u00a7 18",
+        "title": "\u00dcbergangsbestimmungen",
+        "parent": null,
+        "body": "<P>(1) Ein Klassifizierungsunternehmen, das zum Zeitpunkt des Inkrafttretens dieses Gesetzes bereits t\u00e4tig ist, ist von dem Erfordernis der Zulassung nach \u00a7 3 bis zum 1. November 2009 befreit.</P><P>(2) Abweichend von \u00a7 2 d\u00fcrfen zum Zeitpunkt des Inkrafttretens dieses Gesetzes \u00f6ffentlich bestellte Sachverst\u00e4ndige bis zum 1. November 2010 selbst\u00e4ndig oder f\u00fcr ein Klassifizierungsunternehmen Schlachtk\u00f6rper klassifizieren. Eine im Zeitpunkt des Inkrafttretens dieses Gesetzes wirksame Bestellung als \u00f6ffentlich bestellter Sachverst\u00e4ndiger f\u00fcr Vieh und Fleisch erlischt mit Ablauf der in der Bestellung vorgesehenen G\u00fcltigkeitsdauer, sp\u00e4testens aber am 1. November 2010.</P><P>(3) Zum Zeitpunkt des Inkrafttretens dieses Gesetzes \u00f6ffentlich bestellte Sachverst\u00e4ndige f\u00fcr Vieh und Fleisch, die einen Antrag auf Zulassung als Klassifizierer stellen, sind vom Erfordernis des \u00a7 4 Abs. 1 Satz 2 Nr. 2 und Abs. 3 befreit.</P><P>(4) \u00d6ffentlich bestellte Sachverst\u00e4ndige f\u00fcr Vieh und Fleisch sind verpflichtet, der zust\u00e4ndigen Beh\u00f6rde nach dem Erl\u00f6schen der Bestellung alle ihnen zur Aus\u00fcbung ihrer T\u00e4tigkeit \u00fcberlassenen Gegenst\u00e4nde, insbesondere Bestellungsurkunden, Sachverst\u00e4ndigenausweise und Sachverst\u00e4ndigenstempel, zur\u00fcckzugeben.</P><P>(5) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates, Rechtsverordnungen aufzuheben, die auf Grund des Vieh- und Fleischgesetzes in der Fassung der Bekanntmachung vom 21. M\u00e4rz 1977 (BGBl. I S. 477), zuletzt ge\u00e4ndert durch Art. 200 der Verordnung vom 31. Oktober 2006 (BGBl. I S. 2407), erlassen worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE002000000",
+        "name": "\u00a7 19",
+        "title": "Aufhebung des Vieh- und Fleischgesetzes",
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE002100000",
+        "name": "\u00a7 20",
+        "title": "\u00c4nderung von Rechtsvorschriften",
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR071400008BJNE002200000",
+        "name": "\u00a7 21",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Das Gesetz tritt vorbehaltlich des Satzes 2 am 1. November 2008 in Kraft. Vorschriften, die zum Erlass von Rechtsverordnungen erm\u00e4chtigen, treten am Tage nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

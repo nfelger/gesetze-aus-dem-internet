@@ -1,0 +1,133 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR351500017",
+    "firstPublished": "2017-09-26",
+    "sourceTimestamp": "20211110214012",
+    "titleShort": "Kassensicherungsverordnung",
+    "titleLong": "Verordnung zur Bestimmung der technischen Anforderungen an elektronische Aufzeichnungs- und Sicherungssysteme im Gesch\u00e4ftsverkehr<FnR ID=\"BJNR351500017_01\" />",
+    "abbreviation": "KassenSichV",
+    "slug": "kassensichv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2017, 3515",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 2 G v. 30.7.2021 I 3295",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"BJNR351500017_01\" Pos=\"exp\"><noindex>Notifiziert gem\u00e4\u00df der Richtlinie (EU) 2015/1535 des Europ\u00e4ischen Parlaments und des Rates vom 9. September 2015 \u00fcber ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften f\u00fcr die Dienste der Informationsgesellschaft (ABl. L 241 vom 17.9.2015, S. 1).</noindex></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 7.10.2017 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Notifizierung der<BR />       EURL 2015/1535            (CELEX Nr: 32015L1535) +++)<BR />(+++ Zur Anwendung vgl. \u00a7\u00a7 7 bis 10 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 146a Absatz 3 Satz 1 der Abgabenordnung, der durch Artikel 1 Nummer 3 des Gesetzes vom 22. Dezember 2016 (BGBl. I S. 3152) eingef\u00fcgt worden ist, verordnet das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesministerium des Innern und dem Bundesministerium f\u00fcr Wirtschaft und Energie und unter Wahrung der Rechte des Bundestages:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000201123",
+        "name": "\u00a7 1",
+        "title": "Elektronische Aufzeichnungssysteme",
+        "parent": null,
+        "body": "<P>Elektronische Aufzeichnungssysteme im Sinne des \u00a7 146a Absatz 1 Satz 1 der Abgabenordnung sind elektronische oder computergest\u00fctzte Kassensysteme oder Registrierkassen. Nicht als elektronische Aufzeichnungssysteme gelten <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Fahrscheinautomaten und Fahrscheindrucker,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Kassen- und Parkscheinautomaten der Parkraumbewirtschaftung sowie Ladepunkte f\u00fcr Elektro- oder Hybridfahrzeuge,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>elektronische Buchhaltungsprogramme,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Waren- und Dienstleistungsautomaten,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Taxameter und Wegstreckenz\u00e4hler,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Geldautomaten sowie</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Geld- und Warenspielger\u00e4te.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Protokollierung von digitalen Grundaufzeichnungen",
+        "parent": null,
+        "body": "<P>F\u00fcr jede Aufzeichnung eines Gesch\u00e4ftsvorfalls oder anderen Vorgangs im Sinne des \u00a7 146a Absatz 1 Satz 1 der Abgabenordnung muss von einem elektronischen Aufzeichnungssystem unmittelbar eine neue Transaktion gestartet werden. Die Transaktion hat zu enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Zeitpunkt des Vorgangbeginns,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine eindeutige und fortlaufende Transaktionsnummer,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Art des Vorgangs,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Daten des Vorgangs,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Zahlungsart,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>den Zeitpunkt der Vorgangsbeendigung oder des Vorgangsabbruchs,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>einen Pr\u00fcfwert sowie</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>die Seriennummer des elektronischen Aufzeichnungssystems oder die Seriennummer des Sicherheitsmoduls.</LA></DD></DL>Die Zeitpunkte nach Satz 2 Nummer 1 und 6, die Transaktionsnummer nach Satz 2 Nummer 2 und der Pr\u00fcfwert nach Satz 2 Nummer 7 werden manipulationssicher durch das Sicherheitsmodul festgelegt. Die Transaktionsnummer muss so zu beschaffen sein, dass L\u00fccken in Transaktionsaufzeichnungen erkennbar sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Speicherung der Grundaufzeichnungen",
+        "parent": null,
+        "body": "<P>(1) Die Speicherung der laufenden Gesch\u00e4ftsvorf\u00e4lle oder anderen Vorg\u00e4nge im Sinne des \u00a7 146a Absatz 1 Satz 1 der Abgabenordnung muss vollst\u00e4ndig, unver\u00e4ndert und manipulationssicher auf einem nichtfl\u00fcchtigen Speichermedium erfolgen.</P><P>(2) Die gespeicherten Gesch\u00e4ftsvorf\u00e4lle oder anderen Vorg\u00e4nge im Sinne des \u00a7 146a Absatz 1 Satz 1 der Abgabenordnung m\u00fcssen als Transaktionen so verkettet werden, dass L\u00fccken in den Aufzeichnungen erkennbar sind.</P><P>(3) Werden die gespeicherten digitalen Grundaufzeichnungen ganz oder teilweise von einem elektronischen Aufzeichnungssystem in ein externes elektronisches Aufbewahrungssystem \u00fcbertragen, so muss sichergestellt werden, dass die Verkettung aller Transaktionen nach Absatz 2 und die Anforderungen an die einheitliche digitale Schnittstelle nach \u00a7 4 erhalten bleiben.</P><P>(4) Eine Verdichtung von Grundaufzeichnungen in einem elektronischen Aufbewahrungssystem ist f\u00fcr die Dauer der Aufbewahrung nach \u00a7 147 Absatz 3 der Abgabenordnung unzul\u00e4ssig, wenn dadurch deren Lesbarkeit nicht mehr gew\u00e4hrleistet ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000501123",
+        "name": "\u00a7 4",
+        "title": "Einheitliche digitale Schnittstelle",
+        "parent": null,
+        "body": "<P>Die einheitliche digitale Schnittstelle ist eine Datensatzbeschreibung f\u00fcr den standardisierten Datenexport aus dem Speichermedium nach \u00a7 3 Absatz 1, der Anbindung an das elektronische Aufzeichnungssystem und dem elektronischen Aufbewahrungssystem zur \u00dcbergabe an den mit der Kassen-Nachschau oder Au\u00dfenpr\u00fcfung betrauten Amtstr\u00e4ger der Finanzbeh\u00f6rde. Sie stellt eine einheitliche Strukturierung und Bezeichnung der nach \u00a7 146a Absatz 1 der Abgabenordnung aufzuzeichnenden Daten in Datenschema und Datenfelderbeschreibung f\u00fcr die Protokollierung nach \u00a7 2 und die Speicherung nach \u00a7 3 sicher. Dies gilt unabh\u00e4ngig vom Programm des Herstellers. Die einheitliche digitale Schnittstelle f\u00fcr den standardisierten Export aus dem Speichermedium nach \u00a7 3 Absatz 1 und die einheitliche digitale Schnittstelle f\u00fcr den standardisierten Export aus dem elektronischen Aufzeichnungssystem k\u00f6nnen getrennt voneinander erstellt und ver\u00f6ffentlicht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000601123",
+        "name": "\u00a7 5",
+        "title": "Anforderungen an die technische Sicherheitseinrichtung",
+        "parent": null,
+        "body": "<P>Das Bundesamt f\u00fcr Sicherheit in der Informationstechnik legt im Benehmen mit dem Bundesministerium der Finanzen in Technischen Richtlinien und Schutzprofilen die technischen Anforderungen fest an <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die digitale Schnittstelle, soweit diese den standardisierten Export aus dem Speichermedium und die Anbindung der zertifizierten technischen Sicherheitseinrichtung an das elektronische Aufzeichnungssystem betreffen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Sicherheitsmodul und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das Speichermedium.</LA></DD></DL>Die jeweils aktuellen Versionen werden im Bundessteuerblatt Teil I und auf der Internetseite des Bundesamts f\u00fcr Sicherheit in der Informationstechnik ver\u00f6ffentlicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000701123",
+        "name": "\u00a7 6",
+        "title": "Anforderungen an den Beleg",
+        "parent": null,
+        "body": "<P>Ein Beleg muss mindestens enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den vollst\u00e4ndigen Namen und die vollst\u00e4ndige Anschrift des leistenden Unternehmers,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Datum der Belegausstellung und den Zeitpunkt des Vorgangbeginns im Sinne des \u00a7 2 Satz 2 Nummer 1 sowie den Zeitpunkt der Vorgangsbeendigung im Sinne des \u00a7 2 Satz 2 Nummer 6,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Menge und die Art der gelieferten Gegenst\u00e4nde oder den Umfang und die Art der sonstigen Leistung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Transaktionsnummer im Sinne des \u00a7 2 Satz 2 Nummer 2,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>das Entgelt und den darauf entfallenden Steuerbetrag f\u00fcr die Lieferung oder sonstige Leistung in einer Summe sowie den anzuwendenden Steuersatz oder im Fall einer Steuerbefreiung einen Hinweis darauf, dass f\u00fcr die Lieferung oder sonstige Leistung eine Steuerbefreiung gilt und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Seriennummer des elektronischen Aufzeichnungssystems oder die Seriennummer des Sicherheitsmoduls.</LA></DD></DL>Die Angaben nach Satz 1 m\u00fcssen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr jedermann ohne maschinelle Unterst\u00fctzung lesbar oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>aus einem QR-Code auslesbar sein.</LA></DD></DL>Der QR-Code nach Satz 2 Nummer 2 hat der digitalen Schnittstelle der Finanzverwaltung (DSFinV), die f\u00fcr die jeweils zugeh\u00f6rige Art des Aufzeichnungssystems vorgeschrieben ist, zu entsprechen. Die digitale Schnittstelle wird auf der Internetseite des Bundeszentralamtes f\u00fcr Steuern in der jeweils geltenden Fassung ver\u00f6ffentlicht. Ein Beleg kann in Papierform oder mit Zustimmung des Belegempf\u00e4ngers elektronisch in einem standardisierten Datenformat ausgegeben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000801123",
+        "name": "\u00a7 7",
+        "title": "Zertifizierung",
+        "parent": null,
+        "body": "<P>(1) F\u00fcr die Zertifizierung technischer Sicherheitseinrichtungen gelten \u00a7 9 des BSI-Gesetzes sowie die BSI-Zertifizierungs- und -Anerkennungsverordnung vom 17. Dezember 2014 (BGBl. I S. 2231) in der jeweils geltenden Fassung. Die Pr\u00fcfung und Bewertung kann auch durch vom Bundesamt f\u00fcr Sicherheit in der Informationstechnik anerkannte sachverst\u00e4ndige Stellen erfolgen, die zugleich gem\u00e4\u00df der Verordnung (EG) Nr. 765/2008 des Europ\u00e4ischen Parlaments und des Rates vom 9. Juli 2008 \u00fcber die Vorschriften f\u00fcr die Akkreditierung und Markt\u00fcberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30) in der jeweils geltenden Fassung akkreditiert sind.</P><P>(2) Die Kosten einer Zertifizierung tr\u00e4gt der Antragsteller. Die Besondere Geb\u00fchrenverordnung BMI vom 2. September 2019 (BGBl. I S. 1359) in der jeweils geltenden Fassung ist anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR351500017BJNE001000000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

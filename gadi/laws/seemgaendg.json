@@ -1,0 +1,68 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR213910961",
+    "firstPublished": "1961-08-25",
+    "sourceTimestamp": "20131008093846",
+    "titleShort": null,
+    "titleLong": "Gesetz zur \u00c4nderung und Erg\u00e4nzung des Seemannsgesetzes",
+    "abbreviation": "SeemG\u00c4ndG",
+    "slug": "seemgaendg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1961, 1391",
+        "periodical": "BGBl II"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab:  1.1.1964 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR213910961BJNE000100326",
+        "name": "Art 1",
+        "title": null,
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR213910961BJNE000200326",
+        "name": "Art 2",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": null,
+        "body": "<P>(1) Untersuchungen auf Seediensttauglichkeit, die bis zum Inkrafttreten dieses Gesetzes durchgef\u00fchrt worden sind, gelten als Untersuchungen im Sinne des \u00a7 81 des Seemannsgesetzes.</P><P>(2)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR213910961BJNE000300326",
+        "name": "Art 3",
+        "title": "Geltung im Land Berlin",
+        "parent": null,
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR213910961BJNE000400326",
+        "name": "Art 4",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt am 1. Oktober 1961 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

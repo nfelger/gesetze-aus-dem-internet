@@ -1,0 +1,291 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR274910013",
+    "firstPublished": "2013-07-25",
+    "sourceTimestamp": "20210927213514",
+    "titleShort": "E-Government-Gesetz",
+    "titleLong": "Gesetz zur F\u00f6rderung der elektronischen Verwaltung",
+    "abbreviation": "EGovG",
+    "slug": "egovg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2013, 2749",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 2 G v. 3.12.2020 I 2668",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 1 G v. 16.7.2021 I 2941 (Nr. 46) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "Mittelbare \u00c4nderung durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 ist nicht ausf\u00fchrbar, da das ge\u00e4nderte G v. 21.6.2019 I 846 zum Zeitpunkt des Inkrafttretens des mittelbaren \u00c4nderungsgesetzes bereits zum 1.11.2019 in Kraft getreten war",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.8.2013 +++)<BR /><BR /></pre>Das G wurde als Artikel 1 des G v. 25.7.2013 I 2749 vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 31 Abs. 1 dieses G am 1.8.2013 in Kraft getreten. \u00a7 2 Abs. 1 tritt gem. Art. 31 Abs. 2 dieses G am 1.7.2014 in Kraft. \u00a7 2 Abs. 3 und \u00a7 14 treten gem. Art. 31 Abs. 3 dieses G am 1.1.2015 in Kraft. \u00a7 2 Abs. 2 tritt gem. Art. 31 Abs. 4 dieses G iVm Bek. v. 21.4.2015 I 678 mWv 24.3.2016 in Kraft. \u00a7 6 Satz 1 tritt gem. Art. 31 Abs. 5 dieses G am 1.1.2020 in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000109116",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"4*\" /><colspec colname=\"col2\" colwidth=\"40*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\">Geltungsbereich</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\">Elektronischer Zugang zur Verwaltung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\">Information zu Beh\u00f6rden und \u00fcber ihre Verfahren in \u00f6ffentlich zug\u00e4nglichen Netzen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\">Elektronische Bezahlm\u00f6glichkeiten und elektronische Rechnungsstellung</entry></row><row><entry VJ=\"1\">\u00a7 4a</entry><entry VJ=\"1\">Elektronischer Rechnungsempfang; Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\">Nachweise</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\">Elektronische Aktenf\u00fchrung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">\u00dcbertragen und Vernichten des Papieroriginals</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a08</entry><entry VJ=\"1\" colname=\"col2\">Akteneinsicht</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\">Optimierung von Verwaltungsabl\u00e4ufen und Information zum Verfahrensstand</entry></row><row><entry VJ=\"1\">\u00a7 \u00a09a</entry><entry VJ=\"1\">Verwaltungsportal und Nutzerkonto des Bundes; Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\">\u00a7 \u00a09b</entry><entry VJ=\"1\">Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes</entry></row><row><entry VJ=\"1\">\u00a7 \u00a09c</entry><entry VJ=\"1\">Datenschutzrechtliche Verantwortlichkeit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\">Umsetzung von Standardisierungsbeschl\u00fcssen des IT-Planungsrates</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\">Gemeinsame Verfahren</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\">Anforderungen an das Bereitstellen von Daten, Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\">\u00a7 12a</entry><entry VJ=\"1\">Offene Daten des Bundes, Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\">Elektronische Formulare</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\">Georeferenzierung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">Amtliche Mitteilungs- und Verk\u00fcndungsbl\u00e4tter</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Barrierefreiheit</entry></row><row><entry VJ=\"1\">\u00a7 17</entry><entry VJ=\"1\">\u00c4nderung verwaltungsrechtlicher Rechtsverordnungen des Bundes</entry></row><row><entry VJ=\"1\">\u00a7 18</entry><entry VJ=\"1\">Anwendungsregelung</entry></row><row><entry VJ=\"1\">\u00a7 19</entry><entry VJ=\"1\">\u00dcbergangsvorschriften</entry></row></tbody></tgroup></table>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000201116",
+        "name": "\u00a7 1",
+        "title": "Geltungsbereich",
+        "parent": null,
+        "body": "<P>(1) Dieses Gesetz gilt f\u00fcr die \u00f6ffentlich-rechtliche Verwaltungst\u00e4tigkeit der Beh\u00f6rden des Bundes einschlie\u00dflich der bundesunmittelbaren K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts.</P><P>(2) Dieses Gesetz mit Ausnahme der \u00a7\u00a7 9a bis 9c gilt auch f\u00fcr die \u00f6ffentlich-rechtliche Verwaltungst\u00e4tigkeit der Beh\u00f6rden der L\u00e4nder, der Gemeinden und Gemeindeverb\u00e4nde und der sonstigen der Aufsicht des Landes unterstehenden juristischen Personen des \u00f6ffentlichen Rechts, wenn sie Bundesrecht ausf\u00fchren.</P><P>(3) F\u00fcr die T\u00e4tigkeit der Gerichtsverwaltungen und der Beh\u00f6rden der Justizverwaltung einschlie\u00dflich der ihrer Aufsicht unterliegenden K\u00f6rperschaften des \u00f6ffentlichen Rechts gilt dieses Gesetz nur, soweit die T\u00e4tigkeit der Nachpr\u00fcfung durch die Gerichte der Verwaltungsgerichtsbarkeit oder der Nachpr\u00fcfung durch die in verwaltungsrechtlichen Anwalts-, Patentanwalts- und Notarsachen zust\u00e4ndigen Gerichte unterliegt.</P><P>(4) Dieses Gesetz gilt, soweit nicht Rechtsvorschriften des Bundes inhaltsgleiche oder entgegenstehende Bestimmungen enthalten.</P><P>(5) Dieses Gesetz gilt nicht f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Strafverfolgung, die Verfolgung und Ahndung von Ordnungswidrigkeiten, die Rechtshilfe f\u00fcr das Ausland in Straf- und Zivilsachen, die Steuer- und Zollfahndung (\u00a7 208 der Abgabenordnung) und f\u00fcr Ma\u00dfnahmen des Richterdienstrechts,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Verfahren vor dem Deutschen Patent- und Markenamt und den bei diesem errichteten Schiedsstellen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Verwaltungst\u00e4tigkeit nach dem Zweiten Buch Sozialgesetzbuch.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000304116",
+        "name": "\u00a7 2",
+        "title": "Elektronischer Zugang zur Verwaltung",
+        "parent": null,
+        "body": "<P>(1) Jede Beh\u00f6rde ist verpflichtet, auch einen Zugang f\u00fcr die \u00dcbermittlung elektronischer Dokumente, auch soweit sie mit einer qualifizierten elektronischen Signatur versehen sind, zu er\u00f6ffnen.</P><P>(2) Jede Beh\u00f6rde des Bundes ist verpflichtet, den elektronischen Zugang zus\u00e4tzlich durch eine De-Mail-Adresse im Sinne des De-Mail-Gesetzes zu er\u00f6ffnen, es sei denn, die Beh\u00f6rde des Bundes hat keinen Zugang zu dem zentral f\u00fcr die Bundesverwaltung angebotenen IT-Verfahren, \u00fcber das De-Mail-Dienste f\u00fcr Bundesbeh\u00f6rden angeboten werden.</P><P>(3) Jede Beh\u00f6rde des Bundes ist verpflichtet, in Verwaltungsverfahren, in denen sie die Identit\u00e4t einer Person auf Grund einer Rechtsvorschrift festzustellen hat oder aus anderen Gr\u00fcnden eine Identifizierung f\u00fcr notwendig erachtet, einen elektronischen Identit\u00e4tsnachweis nach \u00a7 18 des Personalausweisgesetzes, nach \u00a7 12 des eID-Karte-Gesetzes oder nach \u00a7 78 Absatz 5 des Aufenthaltsgesetzes anzubieten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ Hinweis: Die \u00c4nderung d. Art. 6 Abs. 1 G v. 21.6.2019 I 846 durch Art. 154a Nr. 3 Buchst. a G v. 20.11.2019 I 1626 (Verschiebung d. Inkrafttretens zum 1.11.2020) ist nicht ausf\u00fchrbar, da Art. 5 d. G v. 21.6.2019  I 846 zum Zeitpunkt d. Inkrafttretens d. G v. 20.11.2019 I 1626 bereits mWv 1.11.2019 in Kraft getreten war +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000402116",
+        "name": "\u00a7 3",
+        "title": "Information zu Beh\u00f6rden und \u00fcber ihre Verfahren in \u00f6ffentlich zug\u00e4nglichen Netzen",
+        "parent": null,
+        "body": "<P>(1) Jede Beh\u00f6rde stellt \u00fcber \u00f6ffentlich zug\u00e4ngliche Netze in allgemein verst\u00e4ndlicher Sprache Informationen \u00fcber ihre Aufgaben, ihre Anschrift, ihre Gesch\u00e4ftszeiten sowie postalische, telefonische und elektronische Erreichbarkeiten zur Verf\u00fcgung.</P><P>(2) Jede Beh\u00f6rde soll \u00fcber \u00f6ffentlich zug\u00e4ngliche Netze in allgemein verst\u00e4ndlicher Sprache \u00fcber ihre nach au\u00dfen wirkende \u00f6ffentlich-rechtliche T\u00e4tigkeit, damit verbundene Geb\u00fchren, beizubringende Unterlagen und die zust\u00e4ndige Ansprechstelle und ihre Erreichbarkeit informieren sowie erforderliche Formulare bereitstellen.</P><P>(2a) Die obersten Bundesbeh\u00f6rden sollen mit Unterst\u00fctzung einer zentralen Bundesredaktion zu leistungsbegr\u00fcndenden Gesetzen und Verordnungen des Bundes allgemeine Leistungsinformationen in standardisierter Form bereitstellen, soweit noch keine Informationen in geeigneter Form abgerufen werden k\u00f6nnen.</P><P>(3) F\u00fcr Gemeinden und Gemeindeverb\u00e4nde gelten die Abs\u00e4tze 1 und 2 nur dann, wenn dies nach Landesrecht angeordnet ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000501116",
+        "name": "\u00a7 4",
+        "title": "Elektronische Bezahlm\u00f6glichkeiten",
+        "parent": null,
+        "body": "<P>(1) Fallen im Rahmen eines elektronisch durchgef\u00fchrten Verwaltungsverfahrens Geb\u00fchren oder sonstige Forderungen an, muss die Beh\u00f6rde die Einzahlung dieser Geb\u00fchren oder die Begleichung dieser sonstigen Forderungen durch Teilnahme an mindestens einem im elektronischen Gesch\u00e4ftsverkehr \u00fcblichen und hinreichend sicheren Zahlungsverfahren erm\u00f6glichen.</P><P>(2) Erfolgt die Einzahlung von Geb\u00fchren oder die Begleichung sonstiger Forderungen durch ein elektronisches Zahlungsabwicklungsverfahren des Bundes, sollen Rechnungen oder Quittungen elektronisch angezeigt werden. Dies gilt auch, wenn die sonstige Forderung au\u00dferhalb eines Verwaltungsverfahrens erhoben wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001802116",
+        "name": "\u00a7 4a",
+        "title": "Elektronischer Rechnungsempfang; Verordnungserm\u00e4chtigung",
+        "parent": null,
+        "body": "<P>(1) Elektronische Rechnungen, die nach Erf\u00fcllung von \u00f6ffentlichen Auftr\u00e4gen und Auftr\u00e4gen sowie zu Konzessionen von Stellen im Sinne von \u00a7 159 Absatz 1 Nummer 1 bis 4 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen ausgestellt wurden, sind nach Ma\u00dfgabe einer Rechtsverordnung nach Absatz 3 zu empfangen und zu verarbeiten. Diese Verpflichtung gilt unabh\u00e4ngig von dem Geltungsbereich gem\u00e4\u00df \u00a7 1 Absatz 1 bis 3 und unabh\u00e4ngig davon, ob der Wert des vergebenen \u00f6ffentlichen Auftrags, des vergebenen Auftrags oder der Vertragswert der vergebenen Konzession den gem\u00e4\u00df \u00a7 106 des Gesetzes gegen Wettbewerbsbeschr\u00e4nkungen jeweils ma\u00dfgeblichen Schwellenwert erreicht oder \u00fcberschreitet. Vertragliche Regelungen, die die elektronische Rechnungsstellung vorschreiben, bleiben unber\u00fchrt.</P><P>(2) Eine Rechnung ist elektronisch, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie in einem strukturierten elektronischen Format ausgestellt, \u00fcbermittelt und empfangen wird und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Format die automatische und elektronische Verarbeitung der Rechnung erm\u00f6glicht.</LA></DD></DL></P><P>(3) Die Bundesregierung wird erm\u00e4chtigt, durch Rechtsverordnung ohne Zustimmung des Bundesrates besondere Vorschriften zur Ausgestaltung des elektronischen Rechnungsverkehrs zu erlassen. Diese Vorschriften k\u00f6nnen sich beziehen auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art und Weise der Verarbeitung der elektronischen Rechnung, insbesondere auf die elektronische Verarbeitung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anforderungen an die elektronische Rechnungsstellung, und zwar insbesondere auf die von den elektronischen Rechnungen zu erf\u00fcllenden Voraussetzungen, den Schutz personenbezogener Daten, das zu verwendende Rechnungsdatenmodell sowie auf die Verbindlichkeit der elektronischen Form,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Befugnis von \u00f6ffentlichen Auftraggebern, Sektorenauftraggebern und Konzessionsgebern, in Ausschreibungsbedingungen die Erteilung elektronischer Rechnungen vorzusehen sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausnahmen f\u00fcr verteidigungs- und sicherheitsspezifische Auftr\u00e4ge und Angelegenheiten des Ausw\u00e4rtigen Dienstes.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000601116",
+        "name": "\u00a7 5",
+        "title": "Nachweise",
+        "parent": null,
+        "body": "<P>(1) Wird ein Verwaltungsverfahren elektronisch durchgef\u00fchrt, k\u00f6nnen die vorzulegenden Nachweise elektronisch eingereicht werden, es sei denn, dass durch Rechtsvorschrift etwas anderes bestimmt ist oder die Beh\u00f6rde f\u00fcr bestimmte Verfahren oder im Einzelfall die Vorlage eines Originals verlangt. Die Beh\u00f6rde entscheidet nach pflichtgem\u00e4\u00dfem Ermessen, welche Art der elektronischen Einreichung zur Ermittlung des Sachverhalts zul\u00e4ssig ist.</P><P>(2) Die zust\u00e4ndige Beh\u00f6rde kann erforderliche Nachweise, die von einer deutschen \u00f6ffentlichen Stelle stammen, mit der Einwilligung der am Verfahren beteiligten betroffenen Person direkt bei der ausstellenden \u00f6ffentlichen Stelle elektronisch einholen. Zu diesem Zweck d\u00fcrfen die anfordernde Beh\u00f6rde und die abgebende \u00f6ffentliche Stelle die erforderlichen personenbezogenen Daten verarbeiten.</P><P>(3) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000701000",
+        "name": "\u00a7 6",
+        "title": "Elektronische Aktenf\u00fchrung",
+        "parent": null,
+        "body": "<P>Die Beh\u00f6rden des Bundes sollen ihre Akten elektronisch f\u00fchren. Satz 1 gilt nicht f\u00fcr solche Beh\u00f6rden, bei denen das F\u00fchren elektronischer Akten bei langfristiger Betrachtung unwirtschaftlich ist. Wird eine Akte elektronisch gef\u00fchrt, ist durch geeignete technisch-organisatorische Ma\u00dfnahmen nach dem Stand der Technik sicherzustellen, dass die Grunds\u00e4tze ordnungsgem\u00e4\u00dfer Aktenf\u00fchrung eingehalten werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "\u00dcbertragen und Vernichten des Papieroriginals",
+        "parent": null,
+        "body": "<P>(1) Die Beh\u00f6rden des Bundes sollen, soweit sie Akten elektronisch f\u00fchren, an Stelle von Papierdokumenten deren elektronische Wiedergabe in der elektronischen Akte aufbewahren. Bei der \u00dcbertragung in elektronische Dokumente ist nach dem Stand der Technik sicherzustellen, dass die elektronischen Dokumente mit den Papierdokumenten bildlich und inhaltlich \u00fcbereinstimmen, wenn sie lesbar gemacht werden. Von der \u00dcbertragung der Papierdokumente in elektronische Dokumente kann abgesehen werden, wenn die \u00dcbertragung unverh\u00e4ltnism\u00e4\u00dfigen technischen Aufwand erfordert.</P><P>(2) Papierdokumente nach Absatz 1 sollen nach der \u00dcbertragung in elektronische Dokumente vernichtet oder zur\u00fcckgegeben werden, sobald eine weitere Aufbewahrung nicht mehr aus rechtlichen Gr\u00fcnden oder zur Qualit\u00e4tssicherung des \u00dcbertragungsvorgangs erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Akteneinsicht",
+        "parent": null,
+        "body": "<P>Soweit ein Recht auf Akteneinsicht besteht, k\u00f6nnen die Beh\u00f6rden des Bundes, die Akten elektronisch f\u00fchren, Akteneinsicht dadurch gew\u00e4hren, dass sie <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einen Aktenausdruck zur Verf\u00fcgung stellen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die elektronischen Dokumente auf einem Bildschirm wiedergeben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>elektronische Dokumente \u00fcbermitteln oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>den elektronischen Zugriff auf den Inhalt der Akten gestatten.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Optimierung von Verwaltungsabl\u00e4ufen und Information zum Verfahrensstand",
+        "parent": null,
+        "body": "<P>(1) Beh\u00f6rden des Bundes sollen Verwaltungsabl\u00e4ufe, die erstmals zu wesentlichen Teilen elektronisch unterst\u00fctzt werden, vor Einf\u00fchrung der informationstechnischen Systeme unter Nutzung g\u00e4ngiger Methoden dokumentieren, analysieren und optimieren. Dabei sollen sie im Interesse der Verfahrensbeteiligten die Abl\u00e4ufe so gestalten, dass Informationen zum Verfahrensstand und zum weiteren Verfahren sowie die Kontaktinformationen der zum Zeitpunkt der Anfrage zust\u00e4ndigen Ansprechstelle auf elektronischem Wege abgerufen werden k\u00f6nnen.</P><P>(2) Von den Ma\u00dfnahmen nach Absatz 1 kann abgesehen werden, soweit diese einen nicht vertretbaren wirtschaftlichen Mehraufwand bedeuten w\u00fcrden oder sonstige zwingende Gr\u00fcnde entgegenstehen. Von den Ma\u00dfnahmen nach Absatz 1 Satz 2 kann zudem abgesehen werden, wenn diese dem Zweck des Verfahrens entgegenstehen oder eine gesetzliche Schutznorm verletzen. Die Gr\u00fcnde nach den S\u00e4tzen 1 und 2 sind zu dokumentieren.</P><P>(3) Die Abs\u00e4tze 1 und 2 gelten entsprechend bei allen wesentlichen \u00c4nderungen der Verwaltungsabl\u00e4ufe oder der eingesetzten informationstechnischen Systeme.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE002300116",
+        "name": "\u00a7 9a",
+        "title": "Verwaltungsportal und Nutzerkonto des Bundes; Verordnungserm\u00e4chtigung",
+        "parent": null,
+        "body": "<P>(1) Das Verwaltungsportal des Bundes nach \u00a7 1 Absatz 1 des Onlinezugangsgesetzes vom 14. August 2017 (BGBl. I S. 3122, 3138) und das Nutzerkonto des Bundes nach \u00a7 3 Absatz 2 des Onlinezugangsgesetzes werden durch die daf\u00fcr zust\u00e4ndigen \u00f6ffentlichen Stellen zur fachunabh\u00e4ngigen und fach\u00fcbergreifenden Unterst\u00fctzung der elektronischen Verwaltungst\u00e4tigkeit der Beh\u00f6rden des Bundes zur Verf\u00fcgung gestellt.</P><P>(2) Das Bundesministerium des Innern, f\u00fcr Bau und Heimat wird erm\u00e4chtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, die f\u00fcr das Verwaltungsportal und das Nutzerkonto des Bundes zust\u00e4ndigen \u00f6ffentlichen Stellen zu bestimmen. Die Zust\u00e4ndigkeit der jeweils fachlich zust\u00e4ndigen Beh\u00f6rde f\u00fcr ihre Verwaltungsleistungen bleibt davon unber\u00fchrt.</P><P>(3) Das Verwaltungsportal des Bundes stellt Basisdienste bereit, um <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine elektronische Suche nach Verwaltungsleistungen des Bundes, der L\u00e4nder und der Kommunen im Portalverbund anzubieten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den elektronischen Identit\u00e4tsnachweis \u00fcber das Nutzerkonto Bund zu erm\u00f6glichen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Online-Antragsformulare f\u00fcr die elektronische Beantragung von Verwaltungsleistungen, die in der Zust\u00e4ndigkeit des Bundes liegen und von Beh\u00f6rden des Bundes ausgef\u00fchrt werden, bereitzustellen und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr die Beh\u00f6rden des Bundes, die an das Verwaltungsportal des Bundes angeschlossen sind, einen sicheren elektronischen \u00dcbermittlungsweg bereitzustellen, mit dem sie <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Online-Antragsformulare empfangen und herunterladen k\u00f6nnen sowie</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Bescheide, elektronische Dokumente und Informationen hochladen und elektronisch an das Nutzerkonto des Antragstellers \u00fcbermitteln k\u00f6nnen, wenn die antragstellende Person diesen Kommunikationskanal gew\u00e4hlt hat.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE002400116",
+        "name": "\u00a7 9b",
+        "title": "Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes",
+        "parent": null,
+        "body": "<P>(1) Die erforderlichen Stamm- und Verfahrensdaten, die im Verwaltungsportal des Bundes \u00fcber ein Online-Antragsformular einer Beh\u00f6rde erhoben werden, d\u00fcrfen bereits vor Abschluss der Antragstellung gespeichert werden (zwischengespeicherte Antragsdaten), wenn die antragstellende Person eingewilligt hat.</P><P>(2) Die Verarbeitung der zwischengespeicherten Antragsdaten ist nur zul\u00e4ssig, um der antragstellenden Person die M\u00f6glichkeit zu bieten, den Antrag zu einem sp\u00e4teren Zeitpunkt zu vervollst\u00e4ndigen, ihn zu korrigieren oder ihn zu l\u00f6schen.</P><P>(3) Durch technische und organisatorische Ma\u00dfnahmen ist sicherzustellen, dass vor Antragstellung auch die jeweils zust\u00e4ndige Beh\u00f6rde nicht auf die zwischengespeicherten Antragsdaten zugreifen kann. Die zwischengespeicherten Antragsdaten sind nach Ablauf von 30 Tagen nach der letzten Bearbeitung, die durch die antragstellende Person erfolgt ist, zu l\u00f6schen. Die antragstellende Person ist \u00fcber eine automatische L\u00f6schung der zwischengespeicherten Daten zu ihrem Antrag zu informieren.</P><P>(4) Die Antragsdaten, die im Verwaltungsportal des Bundes \u00fcber ein Online-Antragsformular erhoben werden, d\u00fcrfen nach Antragstellung gespeichert werden, soweit dies erforderlich ist, um der zust\u00e4ndigen Beh\u00f6rde den Antrag \u00fcber einen sicheren \u00dcbermittlungsweg zum Abruf bereitzustellen. Sobald die zust\u00e4ndige Beh\u00f6rde den Antrag aus dem Verwaltungsportal des Bundes abgerufen hat, sind die Antragsdaten unverz\u00fcglich aus dem Verwaltungsportal des Bundes zu l\u00f6schen. Ruft die zust\u00e4ndige Beh\u00f6rde den Antrag nicht sp\u00e4testens innerhalb von drei Monaten nach der Antragstellung ab, so ist der Antrag ausschlie\u00dflich zum Zwecke des Abrufs durch die jeweils zust\u00e4ndige Beh\u00f6rde in einer gesonderten Datenbank abzulegen und aufzubewahren. Durch technische und organisatorische Ma\u00dfnahmen ist sicherzustellen, dass in der gesonderten Datenbank nur die jeweils zust\u00e4ndige Beh\u00f6rde auf die Antragsdaten zugreifen kann. Nach Ablauf von neun Monaten ab Ablage in der gesonderten Datenbank ist der Antrag aus der gesonderten Datenbank zu l\u00f6schen. Nimmt der Antragsteller den Antrag zur\u00fcck, sind die Antragsdaten unverz\u00fcglich aus dem Verwaltungsportal des Bundes zu l\u00f6schen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE002500116",
+        "name": "\u00a7 9c",
+        "title": "Datenschutzrechtliche Verantwortlichkeit",
+        "parent": null,
+        "body": "<P>(1) F\u00fcr die Verarbeitung personenbezogener Daten im Verwaltungsportal des Bundes nach \u00a7 9a Absatz 3 Nummer 3 und 4 und nach \u00a7 9b Absatz 1 und 2 ist die jeweils zust\u00e4ndige Beh\u00f6rde des Bundes datenschutzrechtlich verantwortlich; die f\u00fcr das Verwaltungsportal des Bundes zust\u00e4ndige \u00f6ffentliche Stelle wird insofern t\u00e4tig als Auftragsverarbeiter nach Artikel 4 Nummer 8 der Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2).</P><P>(2) Im \u00dcbrigen f\u00fchrt die f\u00fcr das Verwaltungsportal des Bundes zust\u00e4ndige \u00f6ffentliche Stelle die Verarbeitung personenbezogener Daten in eigener datenschutzrechtlicher Verantwortlichkeit aus.</P><P>(3) Die Verarbeitung personenbezogener Daten im Nutzerkonto des Bundes f\u00fchrt die nach \u00a7 9a Absatz 2 daf\u00fcr bestimmte zust\u00e4ndige \u00f6ffentliche Stelle in eigener datenschutzrechtlicher Verantwortlichkeit aus.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Umsetzung von Standardisierungsbeschl\u00fcssen des IT-Planungsrates",
+        "parent": null,
+        "body": "<P>Fasst der Planungsrat f\u00fcr die IT-Zusammenarbeit der \u00f6ffentlichen Verwaltung zwischen Bund und L\u00e4ndern (IT-Planungsrat) einen Beschluss \u00fcber fachunabh\u00e4ngige und fach\u00fcbergreifende IT-Interoperabilit\u00e4ts- oder IT-Sicherheitsstandards gem\u00e4\u00df \u00a7 1 Absatz 1 Satz 1 Nummer 2 und \u00a7 3 des Vertrages \u00fcber die Errichtung des IT-Planungsrats und \u00fcber die Grundlagen der Zusammenarbeit beim Einsatz der Informationstechnologie in den Verwaltungen von Bund und L\u00e4ndern \u2013 Vertrag zur Ausf\u00fchrung von Artikel 91c GG (BGBl. 2010 I S. 662, 663), so beschlie\u00dft der Rat der IT-Beauftragten der Bundesregierung (IT-Rat) die Umsetzung dieses Beschlusses innerhalb der Bundesverwaltung. \u00a7 12 des Gesetzes \u00fcber das Bundesamt f\u00fcr Sicherheit in der Informationstechnik gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001202116",
+        "name": "\u00a7 11",
+        "title": "Gemeinsame Verfahren",
+        "parent": null,
+        "body": "<P>(1) Gemeinsame Verfahren sind automatisierte Verfahren, die mehreren Verantwortlichen im Sinne des Artikels 26 der Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L\u00a0119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung die Verarbeitung personenbezogener Daten in oder aus einem Datenbestand erm\u00f6glichen.</P><P>(2) Die Beteiligung \u00f6ffentlicher Stellen des Bundes nach \u00a7 2 Absatz 1 des Bundesdatenschutzgesetzes an gemeinsamen Verfahren ist nur zul\u00e4ssig, wenn dies unter Ber\u00fccksichtigung der schutzw\u00fcrdigen Interessen der betroffenen Personen und der Aufgaben der beteiligten Stellen angemessen ist. Die Vorschriften \u00fcber die Zul\u00e4ssigkeit der Verarbeitung der Daten im Einzelfall bleiben unber\u00fchrt.</P><P>(3) Vor der Einrichtung oder wesentlichen \u00c4nderung eines gemeinsamen Verfahrens schlie\u00dfen die Verantwortlichen eine Vereinbarung nach Ma\u00dfgabe des Artikels 26 Absatz 1 und 2 der Verordnung (EU) 2016/679. In dieser Vereinbarung k\u00f6nnen auch Verantwortliche bestimmt werden, die andere Stellen mit der Verarbeitung personenbezogener Daten f\u00fcr das gemeinsame Verfahren gem\u00e4\u00df Artikel 28 der Verordnung (EU) 2016/679 beauftragen d\u00fcrfen.</P><P>(4) Soweit f\u00fcr die beteiligten Stellen ungeachtet der Verordnung (EU) 2016/679 unterschiedliche bundes- oder landesrechtliche Datenschutzvorschriften gelten, ist vor der Einrichtung eines gemeinsamen Verfahrens zu regeln, welche dieser Datenschutzvorschriften angewendet werden. Weiterhin ist zu bestimmen, welche Kontrollstellen die Einhaltung der Datenschutzvorschriften pr\u00fcfen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001301116",
+        "name": "\u00a7 12",
+        "title": "Anforderungen an das Bereitstellen von Daten, Verordnungserm\u00e4chtigung",
+        "parent": null,
+        "body": "<P>(1) Stellen Beh\u00f6rden \u00fcber \u00f6ffentlich zug\u00e4ngliche Netze Daten zur Verf\u00fcgung, an denen ein Nutzungsinteresse, insbesondere ein Weiterverwendungsinteresse im Sinne des Datennutzungsgesetzes, zu erwarten ist, so sind grunds\u00e4tzlich maschinenlesbare Formate zu verwenden. Ein Format ist maschinenlesbar, wenn die enthaltenen Daten durch Software automatisiert ausgelesen und verarbeitet werden k\u00f6nnen. Die Daten sollen mit Metadaten versehen werden.</P><P>(2) Die Bundesregierung wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates Bestimmungen f\u00fcr die Nutzung der Daten gem\u00e4\u00df Absatz 1 festzulegen. Die Nutzungsbestimmungen sollen die kommerzielle und nichtkommerzielle Nutzung abdecken. Sie sollen insbesondere den Umfang der Nutzung, Nutzungsbedingungen, Gew\u00e4hrleistungs- und Haftungsausschl\u00fcsse regeln. Es k\u00f6nnen keine Regelungen zu Geldleistungen getroffen werden.</P><P>(3) Regelungen in anderen Rechtsvorschriften \u00fcber technische Formate, in denen Daten verf\u00fcgbar zu machen sind, gehen vor, soweit sie Maschinenlesbarkeit gew\u00e4hrleisten.</P><P>(4) Absatz 1 gilt f\u00fcr Daten, die vor dem 31. Juli 2013 erstellt wurden, nur, wenn sie in maschinenlesbaren Formaten vorliegen.</P><P>(5) Absatz 1 gilt nicht, soweit Rechte Dritter, insbesondere der L\u00e4nder, entgegenstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE002101116",
+        "name": "\u00a7 12a",
+        "title": "Offene Daten des Bundes, Verordnungserm\u00e4chtigung",
+        "parent": null,
+        "body": "<P>(1) Die Beh\u00f6rden des Bundes mit Ausnahme der Selbstverwaltungsk\u00f6rperschaften stellen unbearbeitete maschinenlesbare Daten, die sie zur Erf\u00fcllung ihrer \u00f6ffentlich-rechtlichen Aufgaben erhoben haben oder durch Dritte in ihrem Auftrag haben erheben lassen, zum Datenabruf \u00fcber \u00f6ffentlich zug\u00e4ngliche Netze bereit. Ein Anspruch auf Bereitstellung dieser Daten wird hierdurch nicht begr\u00fcndet. Satz 1 gilt nicht f\u00fcr nat\u00fcrliche Personen und juristische Personen des Privatrechts, denen hoheitliche Aufgaben zur selbst\u00e4ndigen Wahrnehmung \u00fcbertragen wurden.</P><P>(2) Absatz 1 Satz 1 gilt nur f\u00fcr Daten, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Beh\u00f6rde elektronisch gespeichert und in Sammlungen strukturiert vorliegen, insbesondere in Tabellen oder Listen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ausschlie\u00dflich Tatsachen enthalten, die au\u00dferhalb der Beh\u00f6rde liegende Verh\u00e4ltnisse betreffen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht das Ergebnis einer Bearbeitung anderer Daten durch eine Beh\u00f6rde des Bundes sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach der Erhebung keine Bearbeitung erfahren haben, ausgenommen eine Bearbeitung, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die der Fehlerbereinigung dient oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die aus rechtlichen oder aus tats\u00e4chlichen Gr\u00fcnden erfolgt ist und ohne die eine Ver\u00f6ffentlichung der Daten nicht m\u00f6glich w\u00e4re, und</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Personenbezug derart umgewandelt wurden, dass <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">sie sich nicht mehr auf eine identifizierte oder identifizierbare nat\u00fcrliche Person beziehen oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die betroffene Person nicht oder nicht mehr identifiziert werden kann.</LA></DD></DL></LA></DD></DL></P><P>(3) Abweichend von Absatz 1 Satz 1 m\u00fcssen die Daten nicht bereitgestellt werden, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an den Daten <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">kein oder nur ein eingeschr\u00e4nktes Zugangsrecht insbesondere gem\u00e4\u00df den \u00a7\u00a7 3, 4 und 6 des Informationsfreiheitsgesetzes besteht oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Zugangsrecht erst nach der Beteiligung Dritter best\u00fcnde,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Daten ohne Auftrag der Beh\u00f6rde von Dritten erstellt und ihr ohne rechtliche Verpflichtung \u00fcbermittelt werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">es sich um Daten handelt, die zu Forschungszwecken erhoben wurden und bereits \u00fcber \u00f6ffentlich zug\u00e4ngliche Netze entgeltfrei bereitgestellt werden; die M\u00f6glichkeit der freiwilligen Bereitstellung dazugeh\u00f6riger Metadaten \u00fcber das nationale Metadatenportal GovData bleibt davon unber\u00fchrt, oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Daten unter das Bankgeheimnis fallen.</LA></DD></DL></P><P>(3a) Abweichend von Absatz 1 Satz 1 m\u00fcssen Datens\u00e4tze, die personenbezogene Daten enthalten, nicht bereitgestellt werden.</P><P>(4) Die Bereitstellung der Daten nach Absatz 1 Satz 1 erfolgt unverz\u00fcglich nach der Erhebung, sofern der Zweck der Erhebung dadurch nicht beeintr\u00e4chtigt wird, andernfalls unverz\u00fcglich nach Wegfall der Beeintr\u00e4chtigung. Ist aus technischen oder sonstigen gewichtigen Gr\u00fcnden eine unverz\u00fcgliche Bereitstellung nicht m\u00f6glich, sind die Daten unverz\u00fcglich nach Wegfall dieser Gr\u00fcnde bereitzustellen. Sofern sich aus spezialgesetzlichen Regelungen nichts anderes ergibt, sind abweichend von Satz 1 Daten, die zu Forschungszwecken erhoben wurden, erst bereitzustellen, wenn das der Datenerhebung zugrunde liegende Forschungsvorhaben abgeschlossen und der Forschungszweck erf\u00fcllt ist. Der f\u00fcr die freiwillige Teilnahme an einer Forschungsma\u00dfnahme festgelegte Zweck gilt unbeschadet hiervon fort.</P><P>(5) Die Daten nach Absatz 1 Satz 1 sind mit Metadaten zu versehen. Diese Metadaten werden im nationalen Metadatenportal GovData eingestellt.</P><P>(6) Der Abruf von Daten nach Absatz 1 Satz 1 muss entgeltfrei und zur uneingeschr\u00e4nkten Weiterverwendung der Daten durch jedermann erm\u00f6glicht werden. Der Abruf von Daten nach Absatz 1 Satz 1 soll jederzeit, ohne verpflichtende Registrierung und ohne Begr\u00fcndung m\u00f6glich sein.</P><P>(7) Die Beh\u00f6rden des Bundes sollen die Anforderungen an die Bereitstellung von Daten im Sinne des Absatzes 1 Satz 1 bereits fr\u00fchzeitig ber\u00fccksichtigen bei: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Optimierung von Verwaltungsabl\u00e4ufen gem\u00e4\u00df \u00a7 9,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Abschluss von vertraglichen Regelungen zur Erhebung oder Verarbeitung der Daten sowie</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Beschaffung von informationstechnischen Systemen f\u00fcr die Speicherung und Verarbeitung der Daten.</LA></DD></DL></P><P>(8) Die Beh\u00f6rden des Bundes sind nicht verpflichtet, die bereitzustellenden Daten auf Richtigkeit, Vollst\u00e4ndigkeit, Plausibilit\u00e4t oder in sonstiger Weise zu pr\u00fcfen.</P><P>(9) Jede nach Absatz 1 verpflichtete Stelle mit Ausnahme der in \u00a7 3 Nummer 8 des Informationsfreiheitsgesetzes genannten Stellen sowie von Hauptzoll\u00e4mtern oder vergleichbaren \u00f6rtlichen Bundesbeh\u00f6rden benennt einen Open-Data-Koordinator oder eine Open-Data-Koordinatorin. Der Koordinator oder die Koordinatorin wirkt in der Funktion als zentraler Ansprechpartner oder zentrale Ansprechpartnerin der jeweiligen Beh\u00f6rde auf die Identifizierung, Bereitstellung und Weiterverwendung der offenen Daten seiner oder ihrer Beh\u00f6rde hin. Die M\u00f6glichkeit der freiwilligen Benennung entsprechender Open-Data-Koordinatoren oder Open-Data-Koordinatorinnen in den \u00fcbrigen Beh\u00f6rden der Bundesverwaltung bleibt davon unber\u00fchrt.</P><P>(10) Die Bundesregierung richtet eine zentrale Stelle ein, die die Beh\u00f6rden der Bundesverwaltung zu Fragen der Bereitstellung von Daten als offene Daten ber\u00e4t und Ansprechpartner f\u00fcr entsprechende Stellen der L\u00e4nder ist.</P><P>(11) Die Bundesregierung berichtet dem Bundestag alle zwei Jahre \u00fcber die Fortschritte bei der Bereitstellung von Daten durch die Beh\u00f6rden der Bundesverwaltung als offene Daten. Mit Blick auf die beabsichtigte Erweiterung des Anwendungsbereichs nach Absatz 1 Satz 1 bis zum Jahr 2025 evaluiert sie dabei auch die m\u00f6gliche Ausweitung der Bereitstellungspflicht auf Selbstverwaltungsk\u00f6rperschaften und nat\u00fcrliche Personen und juristische Personen des Privatrechts, denen hoheitliche Aufgaben zur selbst\u00e4ndigen Wahrnehmung \u00fcbertragen wurden, sowie die Einf\u00fchrung eines Anspruchs auf die Bereitstellung von Daten im Sinne des Absatzes 1 Satz 2.</P><P>(12) Das Bundesministerium des Innern, f\u00fcr Bau und Heimat wird erm\u00e4chtigt, im Einvernehmen mit den \u00fcbrigen Bundesministerien und den Beauftragten der Bundesregierung durch Rechtsverordnung ohne Zustimmung des Bundesrates Bestimmungen zum Bereitstellungsprozess der Daten nach Absatz 1 Satz 1 zu erlassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001400000",
+        "name": "\u00a7 13",
+        "title": "Elektronische Formulare",
+        "parent": null,
+        "body": "<P>Ist durch Rechtsvorschrift die Verwendung eines bestimmten Formulars vorgeschrieben, das ein Unterschriftsfeld vorsieht, wird allein dadurch nicht die Anordnung der Schriftform bewirkt. Bei einer f\u00fcr die elektronische Versendung an die Beh\u00f6rde bestimmten Fassung des Formulars entf\u00e4llt das Unterschriftsfeld.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001501000",
+        "name": "\u00a7 14",
+        "title": "Georeferenzierung",
+        "parent": null,
+        "body": "<P>(1) Wird ein elektronisches Register, welches Angaben mit Bezug zu inl\u00e4ndischen Grundst\u00fccken enth\u00e4lt, neu aufgebaut oder \u00fcberarbeitet, hat die Beh\u00f6rde in das Register eine bundesweit einheitlich festgelegte direkte Georeferenzierung (Koordinate) zu dem jeweiligen Flurst\u00fcck, dem Geb\u00e4ude oder zu einem in einer Rechtsvorschrift definierten Gebiet aufzunehmen, auf welches sich die Angaben beziehen.</P><P>(2) Register im Sinne dieses Gesetzes sind solche, f\u00fcr die Daten auf Grund von Rechtsvorschriften des Bundes erhoben oder gespeichert werden; dies k\u00f6nnen \u00f6ffentliche und nicht\u00f6ffentliche Register sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "Amtliche Mitteilungs- und Verk\u00fcndungsbl\u00e4tter",
+        "parent": null,
+        "body": "<P>(1) Eine durch Rechtsvorschrift des Bundes bestimmte Pflicht zur Publikation in einem amtlichen Mitteilungs- oder Verk\u00fcndungsblatt des Bundes, eines Landes oder einer Gemeinde kann unbeschadet des Artikels 82 Absatz 1 des Grundgesetzes zus\u00e4tzlich oder ausschlie\u00dflich durch eine elektronische Ausgabe erf\u00fcllt werden, wenn diese \u00fcber \u00f6ffentlich zug\u00e4ngliche Netze angeboten wird.</P><P>(2) Jede Person muss einen angemessenen Zugang zu der Publikation haben, insbesondere durch die M\u00f6glichkeit, Ausdrucke zu bestellen oder in \u00f6ffentlichen Einrichtungen auf die Publikation zuzugreifen. Es muss die M\u00f6glichkeit bestehen, die Publikation zu abonnieren oder elektronisch einen Hinweis auf neue Publikationen zu erhalten. Gibt es nur eine elektronische Ausgabe, ist dies in \u00f6ffentlich zug\u00e4nglichen Netzen auf geeignete Weise bekannt zu machen. Es ist sicherzustellen, dass die publizierten Inhalte allgemein und dauerhaft zug\u00e4nglich sind und eine Ver\u00e4nderung des Inhalts ausgeschlossen ist. Bei gleichzeitiger Publikation in elektronischer und papiergebundener Form hat die herausgebende Stelle eine Regelung zu treffen, welche Form als die authentische anzusehen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001700000",
+        "name": "\u00a7 16",
+        "title": "Barrierefreiheit",
+        "parent": null,
+        "body": "<P>Die Beh\u00f6rden des Bundes sollen die barrierefreie Ausgestaltung der elektronischen Kommunikation und der Verwendung elektronischer Dokumente nach \u00a7 4 des Behindertengleichstellungsgesetzes in angemessener Form gew\u00e4hrleisten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE001900116",
+        "name": "\u00a7 17",
+        "title": "\u00c4nderung verwaltungsrechtlicher Rechtsverordnungen des Bundes",
+        "parent": null,
+        "body": "<P>Soweit Anordnungen der Schriftform in Rechtsverordnungen des Bundes nach dem Bericht der Bundesregierung zu Artikel 30 Absatz 2 Nummer 1 des Gesetzes zur F\u00f6rderung der elektronischen Verwaltung sowie zur \u00c4nderung weiterer Vorschriften vom 25. Juli 2013 (BGBl. I S. 2749) verzichtbar sind (Bundestagsdrucksache 18/9177, S. 29 bis 47), sind diese aufzuheben oder mit dem Ziel einer m\u00f6glichst einfachen elektronischen Verfahrensabwicklung zu erg\u00e4nzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE002000116",
+        "name": "\u00a7 18",
+        "title": "Anwendungsregelung",
+        "parent": null,
+        "body": "<P>F\u00fcr subzentrale \u00f6ffentliche Auftraggeber sowie f\u00fcr Sektorenauftraggeber und f\u00fcr Konzessionsgeber ist \u00a7 4a erst ab dem 27. November 2019 anzuwenden. Subzentrale \u00f6ffentliche Auftraggeber sind alle \u00f6ffentlichen Auftraggeber, die keine obersten Bundesbeh\u00f6rden sind. Verfassungsorgane des Bundes sind f\u00fcr die Zwecke dieses Gesetzes den obersten Bundesbeh\u00f6rden gleichgestellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR274910013BJNE002201116",
+        "name": "\u00a7 19",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": null,
+        "body": "<P>(1) \u00a7 12a gilt f\u00fcr Daten, die nach dem 13. Juli 2017 erhoben werden. F\u00fcr Daten, die vor dem 13. Juli 2017 erhoben wurden, gilt \u00a7 12a nur, soweit diese Daten nach dem 13. Juli 2017 zur Erf\u00fcllung \u00f6ffentlich-rechtlicher Aufgaben der Beh\u00f6rden nach \u00a7 12a Absatz 1 Satz 1 verwendet werden.</P><P>(2) Die Beh\u00f6rden der mittelbaren Bundesverwaltung stellen die Daten nach \u00a7 12a sp\u00e4testens zw\u00f6lf Monate nach dem 23. Juli 2021 erstmals bereit. Erfordert die Bereitstellung der Daten erhebliche technische Anpassungen und ist sie deshalb innerhalb des in Satz 1 genannten Zeitraums nur mit unverh\u00e4ltnism\u00e4\u00dfig hohem Aufwand m\u00f6glich, verl\u00e4ngert sich der Zeitraum f\u00fcr die erstmalige Bereitstellung der Daten auf bis zu zwei Jahre, um die technischen Anpassungen durchzuf\u00fchren. Im Fall des Satzes 2 m\u00fcssen bei der erstmaligen Bereitstellung nur die aktuellen Daten bereitgestellt werden.</P><P>(3) Abweichend von den Abs\u00e4tzen 1 und 2 und unbeschadet der Regelung in \u00a7 12a Absatz 4 Satz 3 stellen Beh\u00f6rden des Bundes Daten, die zu Forschungszwecken erhoben wurden, sp\u00e4testens 36 Monate nach dem 23. Juli 2021 erstmals bereit.</P><P>(4) Abweichend von Absatz 1 gilt die Pflicht nach \u00a7 12a Absatz 9 Satz 1 f\u00fcr Beh\u00f6rden der unmittelbaren Bundesverwaltung mit weniger als 30 Besch\u00e4ftigten sowie f\u00fcr Beh\u00f6rden der mittelbaren Bundesverwaltung sp\u00e4testens 36 Monate nach dem 23. Juli 2021, f\u00fcr Beh\u00f6rden der unmittelbaren Bundesverwaltung mit weniger als 50 Besch\u00e4ftigten sp\u00e4testens 24 Monate nach dem 23. Juli 2021.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

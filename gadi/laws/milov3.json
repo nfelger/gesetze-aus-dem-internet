@@ -1,0 +1,58 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR235600020",
+    "firstPublished": "2020-11-09",
+    "sourceTimestamp": "20201231213835",
+    "titleShort": "Dritte Mindestlohnanpassungsverordnung",
+    "titleLong": "Dritte Verordnung zur Anpassung der H\u00f6he des Mindestlohns",
+    "abbreviation": "MiLoV3",
+    "slug": "milov3",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2020, 2356",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2021 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR235600020BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 11 des Mindestlohngesetzes vom 11. August 2014 (BGBl. I S. 1348) verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR235600020BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "H\u00f6he des Mindestlohns",
+        "parent": null,
+        "body": "<P>Der Mindestlohn betr\u00e4gt <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colwidth=\"3.5*\" /><colspec colname=\"col2\" colwidth=\"29*\" /><colspec colname=\"col3\" colwidth=\"81.5*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" rowsep=\"0\">1.\u00a0ab 1. Januar 2021</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a09,50 Euro brutto je Zeitstunde,</entry></row><row><entry VJ=\"1\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" rowsep=\"0\">2.\u00a0ab 1. Juli 2021</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a09,60 Euro brutto je Zeitstunde,</entry></row><row><entry VJ=\"1\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" rowsep=\"0\">3.\u00a0ab 1. Januar 2022</entry><entry VJ=\"1\" colname=\"col3\" rowsep=\"0\">\u00a09,82 Euro brutto je Zeitstunde,</entry></row><row><entry VJ=\"1\" colsep=\"0\" nameend=\"col2\" namest=\"col1\">4.\u00a0ab 1. Juli 2022</entry><entry VJ=\"1\" colname=\"col3\">10,45 Euro brutto je Zeitstunde.</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR235600020BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am 1. Januar 2021 in Kraft. Gleichzeitig tritt die Zweite Mindestlohnanpassungsverordnung vom 13. November 2018 (BGBl. I S. 1876) au\u00dfer Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

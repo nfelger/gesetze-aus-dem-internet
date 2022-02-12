@@ -1,0 +1,1065 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR224610020",
+    "firstPublished": "2020-10-13",
+    "sourceTimestamp": "20211231214732",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber die F\u00fchrung notarieller Akten und Verzeichnisse",
+    "abbreviation": "NotAktVV",
+    "slug": "notaktvv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2020, 2246",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 24 Abs. 5 G v. 25.6.2021 I 2154",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 1 V v. 17.12.2021 I 5219 (Nr. 85) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 2 V v. 17.12.2021 I 5219 (Nr. 85) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 5 G v. 21.12.2021 II 1282 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 6 G v. 21.12.2021 II 1282 (Nr. 27) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 29.10.2020 +++)<BR />(+++ Zur Anwendung vgl. \u00a7\u00a7 9 Abs. 1 Nr. 2, 33 Abs. 2 Satz 2, 38 Satz 1,<BR />     43 Satz 2, 63 Satz 2 +++)<BR /><BR /></pre>Die V wurde als Artikel 1 der V v. 13.10.2020 I 2246 vom Bundesministerium der Justiz und f\u00fcr Verbraucherschutz mit Zustimmung des Bundesrates erlassen. Sie tritt gem. Art. 3 Abs. 1 dieser V am 1.1.2022 in Kraft. Gem. Art. 3 Abs. 2 Nr.  1 dieser V treten die \u00a7\u00a7 4, 5 Abs. 1 und 2, \u00a7 6, Abschn. 6, mit Ausnahme des \u00a7  41 Abs. 4 und 5,sowie Abschn. 8 am 29.10.2020 in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000104125",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<TOC><Ident Class=\"S0\">Abschnitt 1</Ident><P /><Title Align=\"auto\" Class=\"S0\">Allgemeine Bestimmungen</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\">Verzeichnisse</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\">Akten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\">Urschriften, Ausfertigungen und Abschriften</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\">Form und \u00dcbergabe elektronischer Aufzeichnungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\">Sicherheit elektronischer Aufzeichnungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\">Technische und organisatorische Ma\u00dfnahmen</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Abschnitt 2</Ident><P /><Title Align=\"auto\" Class=\"S0\">Urkundenverzeichnis</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">Urkundenverzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a08</entry><entry VJ=\"1\" colname=\"col2\">F\u00fchrung des Urkundenverzeichnisses</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\">Angaben im Urkundenverzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\">Ortsangabe</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\">Angaben zur Amtsperson</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\">Angabe der Beteiligten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\">Angabe des Gesch\u00e4ftsgegenstands</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\">Angabe der Urkundenart</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">Angaben zu Ausfertigungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Weitere Angaben bei Verf\u00fcgungen von Todes wegen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17</entry><entry VJ=\"1\" colname=\"col2\">Sonstige Angaben</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 18</entry><entry VJ=\"1\" colname=\"col2\">Zeitpunkt der Eintragungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 19</entry><entry VJ=\"1\" colname=\"col2\">Export der Eintragungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 20</entry><entry VJ=\"1\" colname=\"col2\">Pers\u00f6nliche Best\u00e4tigung</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Abschnitt 3</Ident><P /><Title Align=\"auto\" Class=\"S0\">Verwahrungsverzeichnis</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 21</entry><entry VJ=\"1\" colname=\"col2\">Verwahrungsverzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 22</entry><entry VJ=\"1\" colname=\"col2\">Angaben im Verwahrungsverzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23</entry><entry VJ=\"1\" colname=\"col2\">Massenummer und Buchungsnummer</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 24</entry><entry VJ=\"1\" colname=\"col2\">Angaben zu den Beteiligten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25</entry><entry VJ=\"1\" colname=\"col2\">Angaben zu Einnahmen und Ausgaben</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 26</entry><entry VJ=\"1\" colname=\"col2\">Angaben zu Wertpapieren und Kostbarkeiten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 27</entry><entry VJ=\"1\" colname=\"col2\">Angaben zu Schecks und Sparb\u00fcchern</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 28</entry><entry VJ=\"1\" colname=\"col2\">Angaben zu Notaranderkonten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 29</entry><entry VJ=\"1\" colname=\"col2\">Export der Eintragungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 30</entry><entry VJ=\"1\" colname=\"col2\">Pers\u00f6nliche Best\u00e4tigung</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Abschnitt 4</Ident><P /><Title Align=\"auto\" Class=\"S0\">Urkundensammlung, Erbvertragssammlung</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 31</entry><entry VJ=\"1\" colname=\"col2\">Urkundensammlung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 32</entry><entry VJ=\"1\" colname=\"col2\">Erbvertragssammlung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 33</entry><entry VJ=\"1\" colname=\"col2\">Sonderbestimmungen f\u00fcr Verf\u00fcgungen von Todes wegen</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Abschnitt 5</Ident><P /><Title Align=\"auto\" Class=\"S0\">Elektronische<BR /> Urkundensammlung, Sondersammlung</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 34</entry><entry VJ=\"1\" colname=\"col2\">Elektronische Urkundensammlung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 35</entry><entry VJ=\"1\" colname=\"col2\">Einstellung von Dokumenten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 36</entry><entry VJ=\"1\" colname=\"col2\">L\u00f6schung von Dokumenten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 37</entry><entry VJ=\"1\" colname=\"col2\">Sondersammlung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 38</entry><entry VJ=\"1\" colname=\"col2\">Sonderbestimmungen f\u00fcr Verf\u00fcgungen von Todes wegen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 39</entry><entry VJ=\"1\" colname=\"col2\">Behandlung nach Ablauf der Aufbewahrungsfrist f\u00fcr die Urkundensammlung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 39a</entry><entry VJ=\"1\" colname=\"col2\">\u00dcbergangsvorschrift</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Abschnitt 6</Ident><P /><Title Align=\"auto\" Class=\"S0\">Nebenakten</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 40</entry><entry VJ=\"1\" colname=\"col2\">Nebenakten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 41</entry><entry VJ=\"1\" colname=\"col2\">Sonderbestimmungen f\u00fcr Verwahrungsgesch\u00e4fte</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 42</entry><entry VJ=\"1\" colname=\"col2\">F\u00fchrung in Papierform</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 43</entry><entry VJ=\"1\" colname=\"col2\">Elektronische F\u00fchrung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 44</entry><entry VJ=\"1\" colname=\"col2\">F\u00fchrung in Papierform und elektronische F\u00fchrung</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Abschnitt 7</Ident><P /><Title Align=\"auto\" Class=\"S0\">Sammelakte f\u00fcr Wechsel- und Scheckproteste</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 45</entry><entry VJ=\"1\" colname=\"col2\">Sammelakte</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Abschnitt 8</Ident><P /><Title Align=\"auto\" Class=\"S0\">Generalakte</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 46</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Generalakte</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 47</entry><entry VJ=\"1\" colname=\"col2\">Elektronische F\u00fchrung</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Abschnitt 9</Ident><P /><Title Align=\"auto\" Class=\"S0\">Sonstige Aufzeichnungen</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" rowsep=\"0\">\u00a7 48</entry><entry VJ=\"1\" colname=\"col2\" rowsep=\"0\">Hilfsmittel</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 49</entry><entry VJ=\"1\" colname=\"col2\">Ersatzaufzeichnungen</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Abschnitt 10</Ident><P /><Title Align=\"auto\" Class=\"S0\">Aufbewahrungsfristen</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 50</entry><entry VJ=\"1\" colname=\"col2\">Aufbewahrungsfristen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 51</entry><entry VJ=\"1\" colname=\"col2\">Aufbewahrungsfristen f\u00fcr Altbest\u00e4nde</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 52</entry><entry VJ=\"1\" colname=\"col2\">Sonderbestimmungen f\u00fcr Nebenakten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 53</entry><entry VJ=\"1\" colname=\"col2\">Sonderbestimmungen beim \u00dcbergang der Verwahrzust\u00e4ndigkeit</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Abschnitt 11</Ident><P /><Title Align=\"auto\" Class=\"S0\">Elektronisches Urkundenarchiv<BR /> und Elektronischer Notariatsaktenspeicher</Title><P /><Ident Class=\"S0\">Unterabschnitt 1</Ident><P /><Title Align=\"auto\" Class=\"S0\">Allgemeine Vorschriften</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 54</entry><entry VJ=\"1\" colname=\"col2\">Funktionen des Elektronischen Urkundenarchivs und des Elektronischen Notariatsaktenspeichers</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 55</entry><entry VJ=\"1\" colname=\"col2\">Technische Zugangsberechtigung zum Elektronischen Urkundenarchiv und zum Elektronischen Notariatsaktenspeicher</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 56</entry><entry VJ=\"1\" colname=\"col2\">Sicherungsma\u00dfnahmen gegen Missbrauch</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 57</entry><entry VJ=\"1\" colname=\"col2\">Sichere informationstechnische Netze</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Unterabschnitt 2</Ident><P /><Title Align=\"auto\" Class=\"S0\">Elektronisches Urkundenarchiv</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 58</entry><entry VJ=\"1\" colname=\"col2\">Einr\u00e4umung und \u00dcberleitung der technischen Zugangsberechtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 59</entry><entry VJ=\"1\" colname=\"col2\">Wegfall und Entziehung der technischen Zugangsberechtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 60</entry><entry VJ=\"1\" colname=\"col2\">Dokumentation der technischen Zugangsberechtigungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 61</entry><entry VJ=\"1\" colname=\"col2\">Datenschutz, Datensicherheit und Vertraulichkeit</entry></row><row><entry VJ=\"1\">\u00a7 62</entry><entry VJ=\"1\">Ma\u00dfnahmen bei technischer Handlungsunf\u00e4higkeit der Notarkammern</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Unterabschnitt 3</Ident><P /><Title Align=\"auto\" Class=\"S0\">Elektronischer<BR /> Notariatsaktenspeicher</Title><P /><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"8*\" /><colspec colname=\"col2\" colwidth=\"72*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 63</entry><entry VJ=\"1\" colname=\"col2\">Nutzungsverh\u00e4ltnis und technische Zugangsberechtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 64</entry><entry VJ=\"1\" colname=\"col2\">Zugang</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 65</entry><entry VJ=\"1\" colname=\"col2\">Dokumentation der technischen Zugangsberechtigungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 66</entry><entry VJ=\"1\" colname=\"col2\">Datenschutz, Datensicherheit und Vertraulichkeit</entry></row></tbody></tgroup></table></TOC>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000101000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000201000",
+        "name": "\u00a7 1",
+        "title": "Verzeichnisse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000101000"
+        },
+        "body": "<P>Der Notar f\u00fchrt die folgenden Verzeichnisse: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Urkundenverzeichnis,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Verwahrungsverzeichnis.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Akten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000101000"
+        },
+        "body": "<P>Der Notar f\u00fchrt die folgenden Akten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Urkundensammlung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Erbvertragssammlung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die elektronische Urkundensammlung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Sondersammlung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Nebenakten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Sammelakte f\u00fcr Wechsel- und Scheckproteste und</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>die Generalakte.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Urschriften, Ausfertigungen und Abschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000101000"
+        },
+        "body": "<P>(1) Urschriften, Ausfertigungen und beglaubigte Abschriften von Urkunden sind so herzustellen, dass sie gut lesbar, dauerhaft und f\u00e4lschungssicher sind.</P><P>(2) Im Schriftbild der Urschrift einer Urkunde darf nichts unleserlich gemacht werden.</P><P>(3) Auf jeder Urschrift, Ausfertigung oder Abschrift einer Urkunde sind die Urkundenverzeichnisnummer und die Jahreszahl anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000501125",
+        "name": "\u00a7 4",
+        "title": "Form und \u00dcbergabe elektronischer Aufzeichnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000101000"
+        },
+        "body": "<P>(1) Ist die Verwendung eines bestimmten Dateiformats oder eines bestimmten Systems nicht durch andere oder aufgrund anderer Rechtsvorschriften vorgeschrieben, so sind elektronische Akten und Verzeichnisse (elektronische Aufzeichnungen) in einem Dateiformat zu f\u00fchren, das allgemein gebr\u00e4uchlich ist. Elektronische Aufzeichnungen k\u00f6nnen auch in einem anderen Dateiformat gef\u00fchrt werden, wenn dieses ohne erheblichen zeitlichen oder finanziellen Aufwand in ein allgemein gebr\u00e4uchliches Dateiformat \u00fcberf\u00fchrt werden kann.</P><P>(2) Geht die Zust\u00e4ndigkeit f\u00fcr die Verwahrung von Akten und Verzeichnissen auf eine andere Stelle \u00fcber, so hat die bisher zust\u00e4ndige Stelle der k\u00fcnftig zust\u00e4ndigen Stelle elektronische Aufzeichnungen auf einem allgemein gebr\u00e4uchlichen Datentr\u00e4ger zu \u00fcbergeben. Handelt es sich um elektronische Aufzeichnungen, die im Elektronischen Urkundenarchiv oder im Elektronischen Notariatsaktenspeicher vorliegen, so hat die bisher zust\u00e4ndige Stelle an der Einr\u00e4umung des Zugangs f\u00fcr die k\u00fcnftig zust\u00e4ndige Stelle mitzuwirken, soweit dies erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000602125",
+        "name": "\u00a7 5",
+        "title": "Sicherheit elektronischer Aufzeichnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000101000"
+        },
+        "body": "<P>(1) Systeme, die zum Umgang mit elektronischen Aufzeichnungen verwendet werden, sind durch geeignete und dem Stand der Technik entsprechende Ma\u00dfnahmen gegen unbefugten Zugang zu sch\u00fctzen.</P><P>(2) Elektronische Aufzeichnungen sind durch geeignete Vorkehrungen gegen unzul\u00e4ssigen Verlust, unzul\u00e4ssige Ver\u00e4nderung und unzureichende Verf\u00fcgbarkeit zu sichern.</P><P>(3) K\u00f6rperliche Zugangsmittel, die der Notar f\u00fcr den Zugang zum Elektronischen Urkundenarchiv und zum Elektronischen Notariatsaktenspeicher verwendet, sind sicher zu verwahren. Sie d\u00fcrfen keiner anderen Person \u00fcberlassen werden.</P><P>(4) Der Notar darf Wissensdaten, die er f\u00fcr den Zugang zum Elektronischen Urkundenarchiv und zum Elektronischen Notariatsaktenspeicher benutzt, keiner anderen Person preisgeben.</P><P>(5) Der Notar muss durch geeignete Vorkehrungen sicherstellen, dass die bei ihm besch\u00e4ftigten Personen mit den ihnen \u00fcberlassenen Zugangsmitteln und mit ihren Wissensdaten den Abs\u00e4tzen 3 und 4 entsprechend umgehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Technische und organisatorische Ma\u00dfnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000101000"
+        },
+        "body": "<P>Die Bundesnotarkammer pr\u00e4zisiert durch Verhaltensregeln nach Artikel 40 Absatz 2 Buchstabe h der Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S. 2) die technischen und organisatorischen Ma\u00dfnahmen, die nach Artikel 32 der Verordnung (EU) 2016/679 zu treffen sind, um die Sicherheit der personenbezogenen Daten zu gew\u00e4hrleisten, die in den elektronischen Aufzeichnungen und den zu ihrer F\u00fchrung verwendeten elektronischen Hilfsmitteln verarbeitet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000201000",
+        "name": "Abschnitt 2",
+        "title": "Urkundenverzeichnis",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000801000",
+        "name": "\u00a7 7",
+        "title": "Urkundenverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>(1) In das Urkundenverzeichnis einzutragen sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Niederschriften (\u00a7\u00a7 8, 36 und 38 des Beurkundungsgesetzes),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Vermerke im Sinne des \u00a7\u00a039 des Beurkundungsgesetzes, die Folgendes enthalten: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Beglaubigung einer Unterschrift oder eines Handzeichens,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die Beglaubigung der Zeichnung einer Namensunterschrift,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>die Feststellung des Zeitpunkts, zu dem eine Privaturkunde vorgelegt worden ist,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>sonstige einfache Zeugnisse im Sinne des \u00a7\u00a039 des Beurkundungsgesetzes,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>elektronische Vermerke im Sinne des \u00a7 39a des Beurkundungsgesetzes, die Folgendes enthalten: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Beglaubigung einer elektronischen Signatur,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die Feststellung des Zeitpunkts, zu dem eine Privaturkunde vorgelegt worden ist,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>sonstige einfache Zeugnisse im Sinne des \u00a7\u00a039 des Beurkundungsgesetzes,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Vollstreckbarerkl\u00e4rungen nach \u00a7 796c Absatz 1 und \u00a7 1053 Absatz 4 der Zivilprozessordnung und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Einigungen, Abschlussprotokolle, Vertragsbeurkundungen und Vertragsbest\u00e4tigungen nach \u00a7 96 Absatz 3 Satz 1 und Absatz 5 Satz 2, \u00a7 98 Absatz 2 Satz 1 und \u00a7 99 Satz 1 des Sachenrechtsbereinigungsgesetzes.</LA></DD></DL></P><P>(2) Nicht in das Urkundenverzeichnis einzutragen sind insbesondere <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Niederschriften \u00fcber Wechsel- und Scheckproteste,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Vermerke im Sinne des \u00a7 39 des Beurkundungsgesetzes, die im Zusammenhang mit einer anderen Beurkundung erstellt und auf die betreffende Urschrift oder eine Ausfertigung der Urkunde oder ein damit zu verbindendes Blatt gesetzt werden, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>elektronische Vermerke im Sinne des \u00a7 39a des Beurkundungsgesetzes, die im Zusammenhang mit einer anderen Beurkundung erstellt werden und deren Ausdruck mit einer Urschrift oder einer Ausfertigung der Urkunde verbunden wird.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "F\u00fchrung des Urkundenverzeichnisses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>(1) Das Urkundenverzeichnis wird getrennt nach Kalenderjahren gef\u00fchrt. Die Eintragungen jedes Kalenderjahres sind mit fortlaufenden Nummern zu versehen.</P><P>(2) Die Beurkundungen und sonstigen Amtshandlungen sind in der Reihenfolge des Datums ihrer Vornahme einzutragen. Ist eine Eintragung versehentlich unterblieben, so ist sie unter der n\u00e4chsten fortlaufenden Nummer nachzutragen. Ist eine Eintragung versehentlich mehrfach erfolgt, so ist die wiederholte Eintragung als gegenstandslos zu kennzeichnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Angaben im Urkundenverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>Die Eintragung im Urkundenverzeichnis enth\u00e4lt folgende Angaben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Datum und den Ort oder die Orte der Beurkundung oder der sonstigen Amtshandlung (\u00a7 10),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Amtsperson (\u00a7 11),</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Beteiligten (\u00a7 12),</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>den Gesch\u00e4ftsgegenstand (\u00a7 13),</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Urkundenart (\u00a7 14),</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>gegebenenfalls Angaben zu Ausfertigungen (\u00a7 15),</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>gegebenenfalls weitere Angaben zu Verf\u00fcgungen von Todes wegen (\u00a7 16) und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>gegebenenfalls sonstige Angaben (\u00a7 17).</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Ortsangabe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>Ist das Amtsgesch\u00e4ft in der Gesch\u00e4ftsstelle vorgenommen worden, gen\u00fcgt als Ortsangabe die Angabe \u201eGesch\u00e4ftsstelle\u201c. Andernfalls ist die genaue Bezeichnung des Ortes oder der Orte, an dem oder an denen das Amtsgesch\u00e4ft vorgenommen wurde, einzutragen. Hierbei ist soweit m\u00f6glich die Anschrift anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Angaben zur Amtsperson",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>Zur Amtsperson sind anzugeben <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Familienname,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Vorname oder die Vornamen, soweit diese im Rahmen der amtlichen T\u00e4tigkeit \u00fcblicherweise verwendet werden, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Amtsbezeichnung.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001301125",
+        "name": "\u00a7 12",
+        "title": "Angabe der Beteiligten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>(1) Als Beteiligte sind einzutragen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Niederschriften nach den \u00a7\u00a7\u00a08 und 38 des Beurkundungsgesetzes die Erschienenen, deren Erkl\u00e4rungen beurkundet worden sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Beglaubigungen (\u00a7\u00a7 39 bis 41 des Beurkundungsgesetzes) diejenigen, welche die Unterschrift, die elektronische Signatur, das Handzeichen oder die Zeichnung vollzogen oder anerkannt haben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Vollstreckbarerkl\u00e4rungen (\u00a7 796c Absatz 1 und \u00a7 1053 Absatz 4 der Zivilprozessordnung) die Parteien,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Amtshandlungen nach \u00a7 96 Absatz 3 Satz 1 und Absatz 5 Satz 2, \u00a7\u00a098 Absatz 2 Satz 1 und \u00a7\u00a099 Satz 1 des Sachenrechtsbereinigungsgesetzes die Beteiligten im Sinne des Sachenrechtsbereinigungsgesetzes,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei allen \u00fcbrigen Beurkundungen (\u00a7\u00a7 36, 39, 39a und 43 des Beurkundungsgesetzes) diejenigen, welche die Beurkundung veranlasst haben.</LA></DD></DL>Sind mehr als 20 Beteiligte einzutragen, gen\u00fcgt auch eine zusammenfassende Bezeichnung, es sei denn, dass die Beteiligten in den F\u00e4llen der \u00a7\u00a7\u00a08 oder 38 des Beurkundungsgesetzes Erkl\u00e4rungen zur Niederschrift abgegeben haben.</P><P>(2) Zu den Beteiligten sind anzugeben <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vorname oder die Vornamen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Familienname,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Geburtsname, wenn dieser nicht der Familienname ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Geburtsdatum und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Wohnort.</LA></DD></DL>Sofern dies zur Unterscheidung der Beteiligten erforderlich ist, sind weitere Angaben aufzunehmen. Haben Beteiligte in Vertretung f\u00fcr eine andere Person gehandelt und wurde dabei in eine Niederschrift statt des Wohnorts eines Beteiligten ein Dienst- oder Gesch\u00e4ftsort aufgenommen, so tritt dieser auch im Urkundenverzeichnis an die Stelle des Wohnorts. Bei Beteiligten, die keine nat\u00fcrlichen Personen sind, sind statt der in Satz 1 genannten Angaben ihr Name und ihr Sitz anzugeben.</P><P>(3) Zu den Beteiligten kann angegeben werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anschrift,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die steuerliche Identifikationsnummer,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Wirtschafts-Identifikationsnummer und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Registernummer.</LA></DD></DL></P><P>(4) Haben Beteiligte in Vertretung f\u00fcr eine andere Person gehandelt, sind neben den Beteiligten auch die vertretenen Personen aufzuf\u00fchren. Absatz 2 Satz 1, 2 und 4 und Absatz 3 gelten insoweit entsprechend. Sind mehr als 20 vertretene Personen aufzuf\u00fchren, gen\u00fcgt auch eine zusammenfassende Bezeichnung. Vertretende und vertretene Personen sollen jeweils als solche gekennzeichnet werden.</P><P>(5) In gesellschaftsrechtlichen Angelegenheiten ist die Gesellschaft auch dann einzutragen, wenn sie nicht Beteiligte ist. Absatz 2 Satz 4 und Absatz 3 gelten entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001401125",
+        "name": "\u00a7 13",
+        "title": "Angabe des Gesch\u00e4ftsgegenstands",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>Der Gesch\u00e4ftsgegenstand ist stichwortartig und hinreichend unterscheidungskr\u00e4ftig zu bezeichnen. Hat die Bundesnotarkammer f\u00fcr den Gesch\u00e4ftsgegenstand eine bestimmte Formulierung vorgesehen, so ist diese zu verwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001501125",
+        "name": "\u00a7 14",
+        "title": "Angabe der Urkundenart",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>(1) Als Urkundenarten sind zu unterscheiden <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Beglaubigungen von Unterschriften oder Handzeichen mit Anfertigung eines Urkundenentwurfs,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Beglaubigungen von Unterschriften oder Handzeichen ohne Anfertigung eines Urkundenentwurfs,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Verf\u00fcgungen von Todes wegen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Vermittlungen von Auseinandersetzungen und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>sonstige Beurkundungen und Beschl\u00fcsse.</LA></DD></DL></P><P>(2) Die Bundesnotarkammer kann innerhalb der in Absatz 1 genannten Urkundenarten weitere Differenzierungen vorsehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "Angaben zu Ausfertigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>Wird von einer Urkunde eine Ausfertigung erteilt, so ist zu vermerken, wem und an welchem Tag die Ausfertigung erteilt worden ist. Handelt es sich bei der Ausfertigung um eine vollstreckbare Ausfertigung oder eine weitere vollstreckbare Ausfertigung, so ist dies ebenfalls zu vermerken.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001701125",
+        "name": "\u00a7 16",
+        "title": "Weitere Angaben bei Verf\u00fcgungen von Todes wegen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>(1) Ist Gegenstand der Eintragung eine Verf\u00fcgung von Todes wegen, deren Verbringung in die besondere amtliche Verwahrung der Notar veranlasst hat (\u00a7\u00a034 Absatz 1 und 2 des Beurkundungsgesetzes), so ist zu dieser Eintragung die Verbringung der Verf\u00fcgung von Todes wegen in die besondere amtliche Verwahrung unter Angabe des Datums zu vermerken.</P><P>(2) Ist Gegenstand der Eintragung ein notariell verwahrter Erbvertrag, so ist dies zu vermerken.</P><P>(3) Zu der Eintragung eines notariell verwahrten Erbvertrags sind jeweils unter Angabe des Datums zu vermerken <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>dessen nachtr\u00e4gliche Verbringung in die besondere amtliche Verwahrung des Amtsgerichts,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>dessen R\u00fcckgabe aus der notariellen Verwahrung und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>dessen Ablieferung an das Amtsgericht nach Eintritt des Erbfalls.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001801125",
+        "name": "\u00a7 17",
+        "title": "Sonstige Angaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>(1) Wird durch eine Urkunde der Inhalt einer anderen Urkunde berichtigt, ge\u00e4ndert, erg\u00e4nzt oder aufgehoben, so ist bei den Eintragungen zu diesen Urkunden auf die jeweils andere Eintragung zu verweisen.</P><P>(2) Zu jeder Eintragung k\u00f6nnen weitere Angaben aufgenommen werden, soweit diese der Erf\u00fcllung der Amtspflichten dienen. Solche Angaben sind strukturiert zu erfassen, soweit die Bundesnotarkammer dies vorsieht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE001900000",
+        "name": "\u00a7 18",
+        "title": "Zeitpunkt der Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>Eintragungen in das Urkundenverzeichnis sind zeitnah, sp\u00e4testens 14 Tage nach der Beurkundung oder der sonstigen Amtshandlung vorzunehmen. Sofern technische Probleme dies verhindern, sind die Eintragungen unverz\u00fcglich nach Behebung der technischen Probleme vorzunehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002001125",
+        "name": "\u00a7 19",
+        "title": "Export der Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>(1) Nach Abschluss jedes Kalenderjahres sind die Eintragungen, die f\u00fcr dieses Kalenderjahr im Urkundenverzeichnis vorgenommen wurden, zeitnah in eine Datei zu exportieren. Die Datei ist mit der qualifizierten elektronischen Signatur des Notars zu versehen.</P><P>(2) Die in die Datei exportierten Eintragungen sind bis zum Ablauf ihrer jeweiligen Aufbewahrungsfristen zu speichern. Die Speicherung hat im Elektronischen Urkundenarchiv zu erfolgen, wenn die Bundesnotarkammer eine besondere Funktion daf\u00fcr vorsieht.</P><P>(3) Werden an den Eintragungen im Urkundenverzeichnis \u00c4nderungen vorgenommen, so dass diese nicht mehr mit den in die Datei exportierten Eintragungen \u00fcbereinstimmen, sind die Eintragungen erneut zu exportieren. Die Abs\u00e4tze 1 und 2 gelten insoweit entsprechend. Die Datei mit den fr\u00fcher exportierten Eintragungen bleibt gespeichert. Es gen\u00fcgt, wenn der erneute Export nur die Eintragungen umfasst, an denen die \u00c4nderungen vorgenommen wurden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 19 Abs. 2 und 3: Zur Geltung vgl. \u00a7 29 Abs. 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002101125",
+        "name": "\u00a7 20",
+        "title": "Pers\u00f6nliche Best\u00e4tigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000201000"
+        },
+        "body": "<P>(1) Durch den Notar pers\u00f6nlich best\u00e4tigt werden m\u00fcssen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen und Zus\u00e4tze, die eine Eintragung im Urkundenverzeichnis betreffen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zu Ausfertigungen (\u00a7\u00a015), unabh\u00e4ngig davon, wann diese erteilt werden.</LA></DD></DL>Der Inhalt von \u00c4nderungen oder Zus\u00e4tzen und das Datum ihrer Vornahme m\u00fcssen dauerhaft dokumentiert werden.</P><P>(2) Einer pers\u00f6nlichen Best\u00e4tigung nach Absatz 1 bed\u00fcrfen nicht <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die L\u00f6schung von Verzeichnisinhalten nach Ablauf der Aufbewahrungsfrist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Hinzuf\u00fcgung von weiteren Angaben zu Verf\u00fcgungen von Todes wegen nach \u00a7\u00a09 Nummer 7, soweit es sich um Angaben nach \u00a7\u00a016 Absatz 1 handelt, und von weiteren Angaben nach \u00a7 9 Nummer 8 oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderungen und Zus\u00e4tze sowie Angaben zu Ausfertigungen, bei denen aus dem Urkundenverzeichnis jederzeit nachvollziehbar ist, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">durch wen sie erfolgt sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wann sie erfolgt sind und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">welchen Inhalt sie haben.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000301000",
+        "name": "Abschnitt 3",
+        "title": "Verwahrungsverzeichnis",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002201000",
+        "name": "\u00a7 21",
+        "title": "Verwahrungsverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>Verwahrungsmassen, die nach \u00a7\u00a023 der Bundesnotarordnung und nach den \u00a7\u00a7\u00a057 und 62 des Beurkundungsgesetzes entgegengenommen werden, sind in das Verwahrungsverzeichnis einzutragen, sobald dem Notar Werte zugeflossen sind. Nicht eingetragen werden m\u00fcssen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Geldbetr\u00e4ge, die der Notar als Protestbeamter empfangen hat, wenn sie unverz\u00fcglich an die Berechtigten herausgegeben werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Wechsel und Schecks, die zum Zweck der Erhebung des Protestes \u00fcbergeben wurden, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Hypotheken-, Grundschuld- und Rentenschuldbriefe.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002300000",
+        "name": "\u00a7 22",
+        "title": "Angaben im Verwahrungsverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>Jede Eintragung einer Verwahrungsmasse enth\u00e4lt folgende Angaben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Massenummer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>wenn die Verwahrung im Zusammenhang mit einem Gesch\u00e4ft steht, das im Urkundenverzeichnis eingetragen ist, die Urkundenverzeichnisnummer; andernfalls ein sonstiges eindeutiges Zeichen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Beteiligten des Verwahrungsverh\u00e4ltnisses (\u00a7 24),</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>das Datum des Tages, an dem der Notar die Verwahrungsanweisung angenommen hat,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Einnahmen und die Ausgaben (\u00a7 25) und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>den Abschluss des Verwahrungsgesch\u00e4fts.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002400000",
+        "name": "\u00a7 23",
+        "title": "Massenummer und Buchungsnummer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>(1) Die Massenummer setzt sich zusammen aus der Jahreszahl des Jahres, in dem die Verwahrungsmasse in das Verwahrungsverzeichnis eingetragen wird, und einer f\u00fcr dieses Jahr fortlaufenden Nummer.</P><P>(2) Die Buchungsnummern werden f\u00fcr jede Verwahrungsmasse gesondert und in fortlaufender Reihenfolge vergeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002500000",
+        "name": "\u00a7 24",
+        "title": "Angaben zu den Beteiligten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>F\u00fcr die zu den Beteiligten einzutragenden Angaben gilt \u00a7 12 Absatz 2 und 3 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002601125",
+        "name": "\u00a7 25",
+        "title": "Angaben zu Einnahmen und Ausgaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>(1) Die Einnahmen und die Ausgaben sind jeweils gesondert einzutragen f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wertpapiere und Kostbarkeiten, die zur Aufbewahrung oder Ablieferung an Dritte entgegengenommen wurden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Schecks oder Sparb\u00fccher, die zur Einl\u00f6sung entgegengenommen wurden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Schecks, die zur Auszahlung ausgestellt wurden, und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>jedes Notaranderkonto.</LA></DD></DL></P><P>(2) Jede Einnahme und jede Ausgabe ist im Verwahrungsverzeichnis unverz\u00fcglich unter Angabe der Buchungsnummer einzutragen. Einnahmen werden mit positivem Vorzeichen, Ausgaben mit negativem Vorzeichen eingetragen. Eintragungen erfolgen unter dem Datum ihrer Vornahme. Weicht in den F\u00e4llen des Absatzes 1 Nummer 1 bis 3 das Datum der Einnahme oder der Ausgabe oder im Fall des Absatzes 1 Nummer 4 das Datum der Wertstellung vom Datum der Eintragung ab, so ist auch das abweichende Datum einzutragen.</P><P>(3) Zu jeder Einnahme ist anzugeben, wer die auftraggebende Person ist; zu jeder Ausgabe ist anzugeben, wer die empfangende Person ist. Ist an einer Einnahme oder einer Ausgabe eine dritte Person unmittelbar beteiligt, so soll auch diese mit den in \u00a7 12 Absatz 2 genannten Angaben eingetragen werden; \u00a7 12 Absatz 3 gilt entsprechend.</P><P>(4) Zu jeder Eintragung k\u00f6nnen weitere Angaben aufgenommen werden, sofern diese der Erf\u00fcllung der Amtspflichten dienen. Solche Angaben sind strukturiert zu erfassen, soweit die Bundesnotarkammer dies vorsieht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002700000",
+        "name": "\u00a7 26",
+        "title": "Angaben zu Wertpapieren und Kostbarkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>(1) Wertpapiere sind unter Angabe der Gattung, des Nennbetrages, der St\u00fcckzahl, der Serien und der Nummern einzutragen. Zins-, Renten- und Gewinnanteilscheine oder Erneuerungsscheine sind durch Angabe der F\u00e4lligkeitstermine oder der Nummern n\u00e4her zu bezeichnen.</P><P>(2) Kostbarkeiten sind aussagekr\u00e4ftig zu bezeichnen und mit einem Sch\u00e4tzwert einzutragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002800000",
+        "name": "\u00a7 27",
+        "title": "Angaben zu Schecks und Sparb\u00fcchern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>(1) Werden Schecks oder Sparb\u00fccher als Zahlungsmittel entgegengenommen, so werden sie hierbei als Einnahme eingetragen. Dabei sind der Nennbetrag sowie die Nummer des Schecks und die Bezeichnung des Kreditinstituts oder die Bezeichnung des Sparbuchs und dessen Nummer anzugeben.</P><P>(2) Ein Scheck oder ein Sparbuch ist als Ausgabe einzutragen, wenn die Einl\u00f6sung erfolgt ist. Dabei ist auf die entsprechende Eintragung der Einnahme auf dem Notaranderkonto zu verweisen.</P><P>(3) Stellt sich ein Scheck als ungedeckt heraus, ist er als Ausgabe einzutragen.</P><P>(4) Ein zur Auszahlung ausgestellter Scheck ist als Ausgabe einzutragen, wenn er zur Auszahlung weitergegeben worden ist. Absatz 1 Satz 2 gilt hierbei entsprechend. Wird der Scheck zulasten des Notaranderkontos eingel\u00f6st, ist er als Einnahme einzutragen. Dabei ist auf die entsprechende Eintragung der Ausgabe auf dem Notaranderkonto zu verweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE002901125",
+        "name": "\u00a7 28",
+        "title": "Angaben zu Notaranderkonten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>(1) Zu jedem Notaranderkonto sind einzutragen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Kreditinstitut unter Angabe des Sitzes und des Bank Identifier Codes (BIC),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die International Bank Account Number (IBAN),</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die W\u00e4hrung, in der das Notaranderkonto gef\u00fchrt wird, sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Angabe, ob es sich um ein Giro- oder um ein Festgeldkonto handelt.</LA></DD></DL></P><P>(2) Umbuchungen zwischen Notaranderkonten sind jeweils wechselseitig als Einnahmen und als Ausgaben einzutragen. Anstelle der auftraggebenden Person und der empfangenden Person ist anzugeben, dass eine Umbuchung stattgefunden hat.</P><P>(3) Werden Notaranderkonten elektronisch gef\u00fchrt, so sind die von den Kreditinstituten \u00fcbermittelten Kontoausz\u00fcge, Umsatzdaten und sonstigen Mitteilungen, die die F\u00fchrung der Notaranderkonten betreffen, und diesbez\u00fcgliche Auftr\u00e4ge und Mitteilungen an Kreditinstitute im Verwahrungsverzeichnis zu speichern, soweit die Bundesnotarkammer dies vorsieht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003000000",
+        "name": "\u00a7 29",
+        "title": "Export der Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>(1) Nach Abschluss jedes Kalenderjahres sind alle Eintragungen im Verwahrungsverzeichnis, die sich auf ein Verwahrungsgesch\u00e4ft beziehen, das nicht bereits vor Beginn dieses Kalenderjahres abgeschlossen war, zeitnah in eine Datei zu exportieren. Die Datei ist mit der qualifizierten elektronischen Signatur des Notars zu versehen.</P><P>(2) \u00a7 19 Absatz 2 und 3 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003100000",
+        "name": "\u00a7 30",
+        "title": "Pers\u00f6nliche Best\u00e4tigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000301000"
+        },
+        "body": "<P>(1) \u00c4nderungen und Zus\u00e4tze, die eine Eintragung im Verwahrungsverzeichnis betreffen, m\u00fcssen durch den Notar pers\u00f6nlich best\u00e4tigt werden. Der Inhalt der \u00c4nderung oder des Zusatzes und das Datum ihrer Vornahme m\u00fcssen dauerhaft dokumentiert werden.</P><P>(2) Absatz 1 gilt nicht f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die L\u00f6schung von Verzeichnisinhalten nach Ablauf der Aufbewahrungsfrist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Hinzuf\u00fcgung eines Verweises auf eine andere Einnahme oder Ausgabe und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>\u00c4nderungen und Zus\u00e4tze, bei denen aus dem Verwahrungsverzeichnis jederzeit nachvollziehbar ist, <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>durch wen sie erfolgt sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>wann sie erfolgt sind und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>welchen Inhalt sie haben.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000401000",
+        "name": "Abschnitt 4",
+        "title": "Urkundensammlung, Erbvertragssammlung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003201000",
+        "name": "\u00a7 31",
+        "title": "Urkundensammlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000401000"
+        },
+        "body": "<P>(1) In der Urkundensammlung sind zu verwahren <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei Niederschriften \u00fcber eine Verf\u00fcgung von Todes wegen <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>eine beglaubigte Abschrift, wenn die Beteiligten dies w\u00fcnschen, und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>ein Ausdruck der Best\u00e4tigung oder der Best\u00e4tigungen \u00fcber die Registrierung im Zentralen Testamentsregister,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei sonstigen Niederschriften, die in das Urkundenverzeichnis einzutragen sind, die Urschrift,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>bei Vermerken im Sinne des \u00a7 39 des Beurkundungsgesetzes, die in das Urkundenverzeichnis einzutragen sind, <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Urschrift, wenn diese in notarieller Verwahrung verbleibt,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>eine Abschrift, wenn die Urschrift ausgeh\u00e4ndigt wird und der Notar die Urkunde entworfen hat,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>in den \u00fcbrigen F\u00e4llen nach Ermessen des Notars eine Abschrift,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>bei einfachen elektronischen Zeugnissen im Sinne des \u00a7 39a des Beurkundungsgesetzes, die in das Urkundenverzeichnis einzutragen sind, ein Ausdruck des elektronischen Dokuments,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>bei Vollstreckbarerkl\u00e4rungen nach \u00a7 796c Absatz 1 der Zivilprozessordnung die Urschrift mit der Urschrift des Vergleichs,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>bei Vollstreckbarerkl\u00e4rungen nach \u00a7 1053 Absatz 4 der Zivilprozessordnung die Urschrift mit einer beglaubigten Abschrift des Schiedsspruchs,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>bei Einigungen, Abschlussprotokollen, Vertragsbeurkundungen und Vertragsbest\u00e4tigungen nach \u00a7\u00a096 Absatz 3 Satz 1 und Absatz 5 Satz 2, \u00a7 98 Absatz 2 Satz 1 und \u00a7 99 Satz 1 des Sachenrechtsbereinigungsgesetzes die Urschrift.</LA></DD></DL></P><P>(2) Die Urkundensammlung ist nach der Reihenfolge der Eintragungen im Urkundenverzeichnis zu ordnen.</P><P>(3) Nachweise f\u00fcr die Vertretungsberechtigung, die nach \u00a7 12 des Beurkundungsgesetzes der Niederschrift beigef\u00fcgt werden sollen, werden der Urschrift beigef\u00fcgt und mit ihr in der Urkundensammlung verwahrt.</P><P>(4) Einem in der Urkundensammlung verwahrten Dokument k\u00f6nnen andere Urschriften oder Unterlagen beigef\u00fcgt und mit ihm verwahrt werden, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>diese mit dem verwahrten Dokument inhaltlich derart zusammenh\u00e4ngen, dass das verwahrte Dokument ohne die anderen Urschriften oder Unterlagen nicht in zweckdienlicher Weise verwendet werden kann, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sie f\u00fcr die Rechtswirksamkeit oder die Durchf\u00fchrung des beurkundeten Rechtsvorgangs bedeutsam sind.</LA></DD></DL></P><P>(5) Anstelle der Urschrift ist eine Ausfertigung oder eine beglaubigte Abschrift in der Urkundensammlung zu verwahren, wenn nach dem Beurkundungsgesetz die Ausfertigung oder die beglaubigte Abschrift an die Stelle der Urschrift tritt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003300000",
+        "name": "\u00a7 32",
+        "title": "Erbvertragssammlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000401000"
+        },
+        "body": "<P>Erbvertr\u00e4ge, deren besondere amtliche Verwahrung ausgeschlossen wurde, werden nach der Nummernfolge der Eintragungen im Urkundenverzeichnis in der Erbvertragssammlung verwahrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003400000",
+        "name": "\u00a7 33",
+        "title": "Sonderbestimmungen f\u00fcr Verf\u00fcgungen von Todes wegen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000401000"
+        },
+        "body": "<P>(1) Wird ein Erbvertrag aus der notariellen Verwahrung zur\u00fcckgegeben, so ist anstelle des Erbvertrags ein Vermerk mit den Angaben nach \u00a7 9 Nummer 1 bis 3 und der Urkundenverzeichnisnummer zur Erbvertragssammlung zu nehmen.</P><P>(2) Wird \u00fcber die R\u00fcckgabe des Erbvertrags keine Niederschrift errichtet, soll der Notar in dem Vermerk die Erf\u00fcllung der ihm nach \u00a7 2300 Absatz 2 Satz 3 in Verbindung mit \u00a7 2256 Absatz 1 Satz 2 des B\u00fcrgerlichen Gesetzbuchs obliegenden Pflichten aktenkundig machen. Die Personen, an die der Erbvertrag zur\u00fcckgegeben wurde, sind mit den in \u00a7 12 Absatz 2 Satz 1 und 2 genannten Angaben zu bezeichnen.</P><P>(3) Der Notar hat den Vermerk zu unterschreiben.</P><P>(4) Auf Antrag aller Beteiligten ist diesen die in der Urkundensammlung verwahrte beglaubigte Abschrift einer Verf\u00fcgung von Todes wegen auszuh\u00e4ndigen.</P><P>(5) Wird bei einer Verf\u00fcgung von Todes wegen vor deren Registrierung im Zentralen Testamentsregister die Aush\u00e4ndigung der Urschrift zum Zwecke des Widerrufs durch Vernichtung verlangt, so sind die Abs\u00e4tze 1 bis 3 mit der Ma\u00dfgabe entsprechend anzuwenden, dass der Vermerk zur Urkundensammlung zu nehmen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000501000",
+        "name": "Abschnitt 5",
+        "title": "Elektronische Urkundensammlung, Sondersammlung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003501000",
+        "name": "\u00a7 34",
+        "title": "Elektronische Urkundensammlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000501000"
+        },
+        "body": "<P>(1) In der elektronischen Urkundensammlung werden die Dokumente in elektronischer Form verwahrt, die nach \u00a7 31 in der Urkundensammlung verwahrt werden.</P><P>(2) Dokumente, die in Papierform erstellt wurden, k\u00f6nnen verwahrt werden als <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>elektronische Fassung (\u00a7 56 des Beurkundungsgesetzes),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>elektronisch beglaubigte Abschrift, wenn es sich bei ihnen um Ausfertigungen, beglaubigte Abschriften oder einfache Abschriften handelt, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>elektronische Abschriften, wenn es sich bei ihnen um einfache Abschriften handelt.</LA></DD></DL></P><P>(3) Dokumente, die in elektronischer Form erstellt wurden, k\u00f6nnen in dieser Form oder als elektronische Fassung des Ausdrucks, der in der Urkundensammlung verwahrt wird, verwahrt werden.</P><P>(4) Tritt nach dem Beurkundungsgesetz eine Ausfertigung oder eine beglaubigte Abschrift an die Stelle der Urschrift, so ist die elektronische Fassung der Urschrift zu verwahren. Ist eine Verwahrung der elektronischen Fassung der Urschrift nicht m\u00f6glich, so ist eine elektronische Fassung der Ausfertigung oder der beglaubigten Abschrift zu verwahren, die an die Stelle der Urschrift getreten ist.</P><P>(5) In der elektronischen Urkundensammlung kann neben einer Niederschrift auch eine vollst\u00e4ndige oder auszugsweise Reinschrift von dieser verwahrt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003601125",
+        "name": "\u00a7 35",
+        "title": "Einstellung von Dokumenten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000501000"
+        },
+        "body": "<P>(1) Dokumente, die nach \u00a7 34 in der elektronischen Urkundensammlung zu verwahren sind, sollen unverz\u00fcglich nach der Eintragung in das Urkundenverzeichnis in die elektronische Urkundensammlung eingestellt werden.</P><P>(2) Elektronische Dokumente, die nach dem Beurkundungsgesetz zusammen mit der elektronischen Fassung einer Urschrift oder Abschrift in der elektronischen Urkundensammlung zu verwahren sind, sollen unverz\u00fcglich in die elektronische Urkundensammlung eingestellt werden.</P><P>(3) Nachdem ein Dokument in elektronischer Form in die elektronische Urkundensammlung eingestellt wurde, d\u00fcrfen auf der Urschrift oder Abschrift, die in der Urkundensammlung verwahrt wird, keine Vermerke mehr angebracht werden. Ergibt sich aus einer Rechtsvorschrift die Pflicht, auf der Urschrift oder Abschrift, die in der Urkundensammlung verwahrt wird, etwas zu vermerken, so ist der Vermerk auf einem gesonderten Blatt niederzulegen, das mit der Urschrift oder Abschrift, die in der Urkundensammlung verwahrt wird, zu verbinden ist.</P><P>(4) Die Einstellung von Dokumenten in die elektronische Urkundensammlung hat in einer f\u00fcr die Langzeitarchivierung geeigneten Variante des PDF-Formats zu erfolgen. Hat die Bundesnotarkammer in ihrem Verk\u00fcndungsblatt weitere Vorgaben zu dem Dateiformat, das bei der Einstellung in die elektronische Urkundensammlung zu verwenden ist, bekannt gemacht, so sind diese zu beachten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003700000",
+        "name": "\u00a7 36",
+        "title": "L\u00f6schung von Dokumenten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000501000"
+        },
+        "body": "<P>Die L\u00f6schung von Dokumenten, die in der elektronischen Urkundensammlung verwahrt werden, muss durch den Notar pers\u00f6nlich best\u00e4tigt werden. Dies gilt nicht f\u00fcr die L\u00f6schung von Dokumenten nach Ablauf der Aufbewahrungsfrist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003800000",
+        "name": "\u00a7 37",
+        "title": "Sondersammlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000501000"
+        },
+        "body": "<P>(1) Wenn die \u00dcbertragung in ein elektronisches Dokument aufgrund der Beschaffenheit des Dokuments unm\u00f6glich oder unzumutbar ist, unterbleibt die Einstellung in die elektronische Urkundensammlung. Die \u00dcbertragung von Dokumenten, die nicht gr\u00f6\u00dfer als das Format DIN A3 sind, ist nicht allein wegen ihrer Gr\u00f6\u00dfe unzumutbar.</P><P>(2) In den F\u00e4llen des Absatzes 1 Satz 1 soll der Notar in einem elektronischen Vermerk nach \u00a7\u00a039a des Beurkundungsgesetzes das Dokument bezeichnen und feststellen, dass die \u00dcbertragung in ein elektronisches Dokument unm\u00f6glich oder unzumutbar ist. Der Vermerk soll mit einer elektronisch beglaubigten Abschrift des Dokuments verbunden werden, wenn deren Herstellung nicht unm\u00f6glich oder unzumutbar ist. Der Vermerk und gegebenenfalls die elektronische Abschrift sollen in der elektronischen Urkundensammlung verwahrt werden.</P><P>(3) Dokumente, deren \u00dcbertragung in ein elektronisches Dokument unterblieben ist, sind nach der Reihenfolge ihrer Eintragung im Urkundenverzeichnis in einer gesonderten Sammlung zu verwahren (Sondersammlung). Auf den Dokumenten ist zu vermerken, zu welcher Urkundenverzeichnisnummer sie geh\u00f6ren. Eine vollst\u00e4ndige oder auszugsweise Abschrift der Dokumente kann in die Urkundensammlung aufgenommen werden. Auf der Abschrift ist zu vermerken, dass es sich um die Abschrift eines Dokuments aus der Sondersammlung handelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE003900000",
+        "name": "\u00a7 38",
+        "title": "Sonderbestimmungen f\u00fcr Verf\u00fcgungen von Todes wegen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000501000"
+        },
+        "body": "<P>(1) Wird den Beteiligten nach \u00a7 33 Absatz 4 die in der Urkundensammlung verwahrte beglaubigte Abschrift einer Verf\u00fcgung von Todes wegen ausgeh\u00e4ndigt, so ist auch die elektronisch beglaubigte Abschrift, die in der elektronischen Urkundensammlung verwahrt wird, zu l\u00f6schen.</P><P>(2) Ein Vermerk nach \u00a7 33 Absatz 5 ist auch in die elektronische Urkundensammlung aufzunehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004000000",
+        "name": "\u00a7 39",
+        "title": "Behandlung nach Ablauf der Aufbewahrungsfrist f\u00fcr die Urkundensammlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000501000"
+        },
+        "body": "<P>Erh\u00e4lt oder erstellt der Notar in Papierform ein Dokument, f\u00fcr das die Frist zur Aufbewahrung in der Urkundensammlung bereits abgelaufen ist, so ist dieses Dokument in elektronischer Form in die elektronische Urkundensammlung einzustellen und dort zu verwahren. Das in Papierform vorliegende Dokument darf nach der Einstellung in die elektronische Urkundensammlung vernichtet werden, es sei denn, dass das Interesse der Beteiligten oder Dritter an dessen Erhaltung eine weitere Aufbewahrung gebietet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006800125",
+        "name": "\u00a7 39a",
+        "title": "\u00dcbergangsvorschrift",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000501000"
+        },
+        "body": "<P>\u00a7 2 Nummer 1 bis 4 sowie die \u00a7\u00a7 31 bis 39 sind erst ab dem 1. Juli 2022 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000600000",
+        "name": "Abschnitt 6",
+        "title": "Nebenakten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004100000",
+        "name": "\u00a7 40",
+        "title": "Nebenakten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000600000"
+        },
+        "body": "<P>(1) Zu allen Amtsgesch\u00e4ften k\u00f6nnen Nebenakten gef\u00fchrt werden. Eine Nebenakte muss gef\u00fchrt werden, soweit dies zur Vornahme eines Amtsgesch\u00e4fts geboten ist. Die Nebenakten k\u00f6nnen als Sammelakten gef\u00fchrt werden, wenn ein sachlicher Grund hierf\u00fcr besteht und die geordnete Aktenf\u00fchrung sichergestellt ist.</P><P>(2) Nebenakten k\u00f6nnen insbesondere enthalten <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Kontaktdaten der Beteiligten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Daten, die zur Identifizierung der Beteiligten erforderlich sind, einschlie\u00dflich Kopien vorgelegter Ausweisdokumente,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Schriftverkehr mit den Beteiligten, mit den Gerichten und den Beh\u00f6rden sowie andere Dokumente, die nicht zur Urkundensammlung zu nehmen sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>personenbezogene Daten besonderer Kategorien, insbesondere Informationen zur Gesundheit der Beteiligten, soweit diese zur Erf\u00fcllung von Amtspflichten erforderlich sind, und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>weitere Informationen, die zur Erf\u00fcllung der beurkundungsrechtlichen Pflichten oder sonst zur Vornahme des Amtsgesch\u00e4fts erforderlich sind.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004201000",
+        "name": "\u00a7 41",
+        "title": "Sonderbestimmungen f\u00fcr Verwahrungsgesch\u00e4fte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000600000"
+        },
+        "body": "<P>(1) Zu jedem Verwahrungsgesch\u00e4ft ist eine Nebenakte zu f\u00fchren. Die F\u00fchrung von Sammelakten ist f\u00fcr Verwahrungsgesch\u00e4fte nicht zul\u00e4ssig.</P><P>(2) Zu den Nebenakten f\u00fcr Verwahrungsgesch\u00e4fte sind insbesondere zu nehmen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>s\u00e4mtliche Verwahrungsantr\u00e4ge und -anweisungen (\u00a7 57 Absatz 2 bis 4 des Beurkundungsgesetzes),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Treuhandauftr\u00e4ge und die Verwahrungsanweisungen, die dem Notar im Zusammenhang mit dem Vollzug desjenigen Gesch\u00e4fts erteilt worden sind, das der Verwahrung zugrunde liegt (\u00a7 57 Absatz 6 des Beurkundungsgesetzes),</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>\u00c4nderungen oder Erg\u00e4nzungen der Verwahrungsanweisungen und der Treuhandauftr\u00e4ge,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Annahmeerkl\u00e4rungen (\u00a7 57 Absatz 2 Nummer 3 und Absatz 5 des Beurkundungsgesetzes) und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Belege, Kontoausz\u00fcge und Abschriften von Abrechnungen und Kostenberechnungen, die die Verwahrung betreffen.</LA></DD></DL></P><P>(3) S\u00e4mtliche Nebenakten zu laufenden Verwahrungsgesch\u00e4ften sind einheitlich in Papierform oder elektronisch zu f\u00fchren. Ein Wechsel der Form der Aktenf\u00fchrung ist nur zu Beginn eines Kalenderjahres zul\u00e4ssig. F\u00fcr Verwahrungsmassen, die vor einem Wechsel nach Satz 2 in das Verwahrungsverzeichnis eingetragen wurden, kann es abweichend von Satz 1 bei der fr\u00fcheren Form der Aktenf\u00fchrung verbleiben. Ist das Verwahrungsverh\u00e4ltnis beendet, so ist es zul\u00e4ssig, zun\u00e4chst in Papierform gef\u00fchrte Nebenakten nur noch elektronisch aufzubewahren. Die Aufsichtsbeh\u00f6rde kann Ausnahmen von den Regelungen der S\u00e4tze 1 und 2 zulassen.</P><P>(4) Kontoausz\u00fcge sind mit der Massenummer zu versehen. Belege f\u00fcr Einnahmen und Ausgaben sind jeweils mit der Massenummer und der Buchungsnummer zu versehen. F\u00fchrt der Notar aufgrund einer \u00dcbertragung der Verwahrzust\u00e4ndigkeit nach \u00a7 51 Absatz 1 und 3 der Bundesnotarordnung die Verwahrungsgesch\u00e4fte eines anderen Notars fort, so soll der Buchungsnummer ein Zusatz vorangestellt werden, der eine Unterscheidung zwischen den vor und den nach der \u00dcbertragung der Verwahrzust\u00e4ndigkeit zu den Nebenakten genommenen Dokumenten erlaubt.</P><P>(5) Kontoausz\u00fcge und sonstige Mitteilungen von Kreditinstituten und an Kreditinstitute, die die F\u00fchrung der Notaranderkonten betreffen, m\u00fcssen nicht in den Nebenakten aufbewahrt werden, wenn sie elektronisch im Verwahrungsverzeichnis gespeichert sind. Im \u00dcbrigen sind Belege und Kontoausz\u00fcge sowie Erkl\u00e4rungen nach Absatz 2 Nummer 4 im Original aufzubewahren, sofern sie nicht aufgrund der f\u00fcr die F\u00fchrung der Nebenakte gew\u00e4hlten Form in eine andere Form \u00fcbertragen werden m\u00fcssen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004300000",
+        "name": "\u00a7 42",
+        "title": "F\u00fchrung in Papierform",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000600000"
+        },
+        "body": "<P>Werden die Nebenakten in Papierform gef\u00fchrt, m\u00fcssen die aufgenommenen Dokumente nachvollziehbar geordnet sein. Werden Sammelakten gef\u00fchrt, so ist erforderlichenfalls durch besondere Vorkehrungen daf\u00fcr zu sorgen, dass die Verf\u00fcgbarkeit aller Inhalte sichergestellt ist und die Dokumente, die zu einzelnen Amtsgesch\u00e4ften geh\u00f6ren, aufgefunden werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004400000",
+        "name": "\u00a7 43",
+        "title": "Elektronische F\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000600000"
+        },
+        "body": "<P>(1) Werden die Nebenakten elektronisch gef\u00fchrt, m\u00fcssen die Nebenakten und die darin aufgenommenen Dokumente durch einen strukturierten Datensatz beschrieben sein. Hat die Bundesnotarkammer in ihrem Verk\u00fcndungsblatt n\u00e4here Angaben zu dem strukturierten Datensatz sowie zu den Dateiformaten bekannt gemacht, die bei der F\u00fchrung der Nebenakten zu verwenden sind, so sind diese zu beachten. Die Bekanntmachung im Verk\u00fcndungsblatt kann zu technischen Einzelheiten auf eine Ver\u00f6ffentlichung im Internet Bezug nehmen.</P><P>(2) Eine elektronisch gef\u00fchrte Nebenakte muss jederzeit in das Dateiformat \u00fcberf\u00fchrt werden k\u00f6nnen, das f\u00fcr Dokumente in der elektronischen Urkundensammlung vorgeschrieben ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 43: Zur Geltung vgl. \u00a7 47 Abs. 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004500000",
+        "name": "\u00a7 44",
+        "title": "F\u00fchrung in Papierform und elektronische F\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000600000"
+        },
+        "body": "<P>(1) Werden die Nebenakten zu einzelnen Amtsgesch\u00e4ften in Papierform und zu anderen Amtsgesch\u00e4ften elektronisch gef\u00fchrt, so ist durch geeignete Vorkehrungen sicherzustellen, dass die jeweiligen Nebenakten problemlos auffindbar und zug\u00e4nglich sind.</P><P>(2) Wird die Nebenakte zu einem Amtsgesch\u00e4ft teilweise in Papierform und teilweise elektronisch gef\u00fchrt, so ist durch geeignete Vorkehrungen die Transparenz, die Vollst\u00e4ndigkeit und die Verf\u00fcgbarkeit des Akteninhalts sicherzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000701000",
+        "name": "Abschnitt 7",
+        "title": "Sammelakte f\u00fcr Wechsel- und Scheckproteste",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004601000",
+        "name": "\u00a7 45",
+        "title": "Sammelakte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000701000"
+        },
+        "body": "<P>(1) Beglaubigte Abschriften von Protesturkunden, die bei der Aufnahme von Wechsel- oder Scheckprotesten zur\u00fcckbehalten wurden, und Vermerke, die \u00fcber den Inhalt des Wechsels, der Wechselabschrift oder des Schecks aufgenommen wurden (Artikel 85 Absatz 2 Satz 2 und 3 des Wechselgesetzes, Artikel 55 Absatz 3 des Scheckgesetzes), sind in einer Sammelakte zu vereinigen.</P><P>(2) Die beglaubigten Abschriften der Protesturkunden und die Vermerke sind m\u00f6glichst auf dasselbe Blatt zu setzen und nach der Reihenfolge ihrer Erstellung zu ordnen. Die beglaubigten Abschriften der Protesturkunden sind mit fortlaufenden Nummern zu versehen.</P><P>(3) Anstelle der in Absatz 1 bezeichneten Abschriften und Vermerke k\u00f6nnen auch elektronisch beglaubigte Abschriften in dem Dateiformat aufbewahrt werden, das f\u00fcr Dokumente in der elektronischen Urkundensammlung vorgeschrieben ist. Die Aufbewahrung muss f\u00fcr die in einem Kalenderjahr angefallenen Urkunden einheitlich in Papierform oder in elektronischer Form erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000800000",
+        "name": "Abschnitt 8",
+        "title": "Generalakte",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004700000",
+        "name": "\u00a7 46",
+        "title": "Generalakte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000800000"
+        },
+        "body": "<P>(1) F\u00fcr Vorg\u00e4nge, die die Amtsf\u00fchrung im Allgemeinen betreffen, ist eine Generalakte zu f\u00fchren. Sie enth\u00e4lt insbesondere <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Schriftverkehr mit den Aufsichtsbeh\u00f6rden, insbesondere zu Nebent\u00e4tigkeiten, Verhinderungsf\u00e4llen und Vertretungsbestellungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Berichte \u00fcber die Pr\u00fcfung der Amtsf\u00fchrung und den dazugeh\u00f6rigen Schriftverkehr,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Schriftverkehr mit der Notarkammer sowie der Notarkasse und der L\u00e4ndernotarkasse,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Unterlagen \u00fcber die Einhaltung der datenschutzrechtlichen Vorgaben,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Unterlagen \u00fcber die Einhaltung der geldw\u00e4scherechtlichen Vorgaben,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Originale oder Kopien der Unterlagen \u00fcber die Berufshaftpflichtversicherung einschlie\u00dflich des Versicherungsscheins und der Belege \u00fcber die Pr\u00e4mienzahlung, soweit nicht eine Gruppenberufshaftpflichtversicherung nach \u00a7 113 Absatz 3 Nummer 3 der Bundesnotarordnung besteht,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Niederschriften \u00fcber Verpflichtungen nach \u00a7 26 der Bundesnotarordnung,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Vertr\u00e4ge im Sinne des \u00a7 26a Absatz 3 der Bundesnotarordnung und Nachweise \u00fcber Verpflichtungen im Sinne des \u00a7 26a Absatz 6 Satz 1 der Bundesnotarordnung,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Anzeigen nach \u00a7 27 der Bundesnotarordnung,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>Pr\u00fcfzeugnisse, Bescheinigungen und vergleichbare Erkl\u00e4rungen,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>mit einer Zertifizierung verbundene Schriftst\u00fccke und</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>generelle Bestimmungen \u00fcber die Verl\u00e4ngerung der Aufbewahrungsfrist von Nebenakten.</LA></DD></DL></P><P>(2) Die Generalakte ist entweder nach Sachgebieten geordnet zu gliedern oder mit fortlaufenden Seitenzahlen und einem Inhaltsverzeichnis zu versehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004800000",
+        "name": "\u00a7 47",
+        "title": "Elektronische F\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000800000"
+        },
+        "body": "<P>(1) Soll die Generalakte teilweise in Papierform und teilweise elektronisch gef\u00fchrt werden, so ist die jeweilige Form auf ganze Jahrg\u00e4nge, ganze Sachgebiete oder ganze Jahrg\u00e4nge ganzer Sachgebiete zu erstrecken.</P><P>(2) Im \u00dcbrigen gilt f\u00fcr die elektronische F\u00fchrung der Generalakte \u00a7 43 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG000901000",
+        "name": "Abschnitt 9",
+        "title": "Sonstige Aufzeichnungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE004901000",
+        "name": "\u00a7 48",
+        "title": "Hilfsmittel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000901000"
+        },
+        "body": "<P>Hilfsmittel d\u00fcrfen so lange wie die dazugeh\u00f6rigen Unterlagen aufbewahrt werden. F\u00fcr die \u00dcbergabe elektronisch gef\u00fchrter Hilfsmittel gilt \u00a7 4 Absatz 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005000000",
+        "name": "\u00a7 49",
+        "title": "Ersatzaufzeichnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG000901000"
+        },
+        "body": "<P>(1) Ist ein Zugriff auf das Elektronische Urkundenarchiv oder auf andere f\u00fcr die elektronische Verzeichnisf\u00fchrung verwendete Systeme nicht m\u00f6glich, so sind die f\u00fcr diese Systeme bestimmten Aufzeichnungen ersatzweise in Papierform oder in elektronischer Form vorzunehmen.</P><P>(2) Sobald ein Zugriff auf das Elektronische Urkundenarchiv oder auf andere f\u00fcr die elektronische Verzeichnisf\u00fchrung verwendete Systeme wieder m\u00f6glich ist, sind die ersatzweise vorgenommenen Aufzeichnungen unverz\u00fcglich nachzutragen und anschlie\u00dfend zu vernichten oder zu l\u00f6schen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG001001000",
+        "name": "Abschnitt 10",
+        "title": "Aufbewahrungsfristen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005103125",
+        "name": "\u00a7 50",
+        "title": "Aufbewahrungsfristen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001001000"
+        },
+        "body": "<P>(1) F\u00fcr Unterlagen, die ab dem 1. Januar 2022 erstellt werden, gelten folgende Aufbewahrungsfristen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr Eintragungen im Urkundenverzeichnis 100 Jahre,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr Eintragungen im Verwahrungsverzeichnis 30 Jahre,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Urkundensammlung verwahrten Dokumente 30 Jahre,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Erbvertragssammlung verwahrten Dokumente 100 Jahre,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der elektronischen Urkundensammlung verwahrten Dokumente 100 Jahre,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Sondersammlung verwahrten Dokumente 100 Jahre,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Nebenakte verwahrten Dokumente 7 Jahre,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Sammelakte f\u00fcr Wechsel- und Scheckproteste verwahrten Dokumente 7 Jahre und</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Generalakte verwahrten Dokumente 30 Jahre.</LA></DD></DL>Satz 1 Nummer 3 bis 6 ist auf vom 1. Januar bis zum 30. Juni 2022 erstellte Unterlagen nicht anzuwenden.</P><P>(2) Die Aufbewahrungsfristen beginnen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr Eintragungen im Urkundenverzeichnis mit dem Kalenderjahr, das auf die Eintragung folgt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr Eintragungen im Verwahrungsverzeichnis mit dem Kalenderjahr, das auf den Abschluss des Verwahrungsgesch\u00e4fts folgt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr Dokumente, die in der Urkundensammlung, der Erbvertragssammlung, der elektronischen Urkundensammlung, der Sondersammlung oder der Sammelakte f\u00fcr Wechsel- und Scheckproteste verwahrt werden, mit dem Kalenderjahr, das auf die Beurkundung oder die sonstige Amtshandlung folgt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Nebenakte verwahrten Dokumente mit dem Kalenderjahr, das auf den Abschluss des Amtsgesch\u00e4fts folgt, zu dem die Nebenakte gef\u00fchrt wurde, und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Generalakte verwahrten Dokumente mit dem Kalenderjahr, das auf das Erl\u00f6schen des Amtes des Notars oder die Verlegung seines Amtssitzes in einen anderen Amtsgerichtsbezirk folgt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005202125",
+        "name": "\u00a7 51",
+        "title": "Aufbewahrungsfristen f\u00fcr Altbest\u00e4nde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001001000"
+        },
+        "body": "<P>(1) F\u00fcr Unterlagen, die vom 1. Januar 1950 bis zum 31. Dezember 2021 erstellt wurden, gelten folgende Aufbewahrungsfristen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr die Urkundenrolle, das Erbvertragsverzeichnis und das Namensverzeichnis zur Urkundenrolle 100 Jahre,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr das Verwahrungsbuch, das Massenbuch, das Namensverzeichnis zum Massenbuch und die Anderkontenliste 30 Jahre,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Urkundensammlung verwahrten Dokumente einschlie\u00dflich der gesondert aufbewahrten Erbvertr\u00e4ge 100 Jahre,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Nebenakte verwahrten Dokumente 7 Jahre,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>f\u00fcr die in Sammelb\u00e4nden f\u00fcr Wechsel- und Scheckproteste verwahrten Dokumente 7 Jahre und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Generalakte verwahrten Dokumente 30 Jahre.</LA></DD></DL>Satz 1 Nummer 3 gilt auch f\u00fcr die dort bezeichneten Dokumente, die vom 1. Januar bis zum 30. Juni 2022 erstellt wurden.</P><P>(2) Die Aufbewahrungsfristen beginnen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr die Urkundenrolle, das Erbvertragsverzeichnis, das Namensverzeichnis, das Verwahrungsbuch, das Massenbuch, das Namensverzeichnis zum Massenbuch und die Anderkontenliste mit dem Kalenderjahr, das auf das Kalenderjahr folgt, f\u00fcr das sie gef\u00fchrt wurden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Urkundensammlung verwahrten Dokumente einschlie\u00dflich der gesondert aufbewahrten Erbvertr\u00e4ge mit dem Kalenderjahr, das auf die Beurkundung folgt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Nebenakte verwahrten Dokumente mit dem Kalenderjahr, das auf den Abschluss des Amtsgesch\u00e4fts folgt, zu dem die Nebenakte gef\u00fchrt wurde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr die in Sammelb\u00e4nden f\u00fcr Wechsel- und Scheckproteste verwahrten Dokumente mit dem Kalenderjahr, das auf die Amtshandlung folgt, und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>f\u00fcr die in der Generalakte verwahrten Dokumente mit dem Kalenderjahr, das auf das Erl\u00f6schen des Amtes des Notars oder die Verlegung seines Amtssitzes in einen anderen Amtsgerichtsbezirk folgt.</LA></DD></DL></P><P>(3) Werden bei den Nebenakten beglaubigte Abschriften von Verf\u00fcgungen von Todes wegen aufbewahrt, die auf Wunsch des Erblassers oder der Vertragsschlie\u00dfenden zur\u00fcckbehalten wurden und von denen keine beglaubigte Abschrift in der Urkundensammlung verwahrt wird, so gelten f\u00fcr diese abweichend von Absatz 1 Nummer 4 und Absatz 2 Nummer 3 die Bestimmungen des Absatzes 1 Nummer 3 und des Absatzes 2 Nummer 2 entsprechend.</P><P>(4) Vor dem 1. Januar 1950 entstandene Unterlagen sind dauernd aufzubewahren. Eine Pflicht zur Konservierung besteht nicht. Werden solche Unterlagen nach \u00a7 119 der Bundesnotarordnung in die elektronische Form \u00fcbertragen, sind die elektronischen Dokumente dauernd aufzubewahren. F\u00fcr die \u00fcbertragenen Dokumente gelten die Fristen, die anwendbar w\u00e4ren, wenn die Dokumente zum Zeitpunkt der \u00dcbertragung erstmals zu den Unterlagen der verwahrenden Stelle gelangt w\u00e4ren. Die Landesjustizverwaltung kann abweichend von Satz 1 eine Aufbewahrungsfrist anordnen, wenn die Belange der Rechtspflege und die Rechte der Betroffenen gewahrt sind. Die Aufbewahrungsfrist darf nicht vor dem Ablauf des 31. Dezember 2049 enden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005301125",
+        "name": "\u00a7 52",
+        "title": "Sonderbestimmungen f\u00fcr Nebenakten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001001000"
+        },
+        "body": "<P>(1) Werden die Nebenakten f\u00fcr mehrere Amtsgesch\u00e4fte gemeinsam gef\u00fchrt, darf ihr gesamter Inhalt bis zum Ablauf der Aufbewahrungsfrist des letzten Amtsgesch\u00e4fts aufbewahrt werden.</P><P>(2) Der Notar kann im Einzelfall, f\u00fcr einzelne Arten von Rechtsgesch\u00e4ften oder f\u00fcr einzelne Arten von Amtsgesch\u00e4ften eine l\u00e4ngere Aufbewahrungsfrist f\u00fcr die Nebenakten bestimmen, wenn er hieran ein berechtigtes Interesse hat oder ein berechtigtes Interesse der Beteiligten oder des Rechtsverkehrs anzunehmen ist. Der Notar hat eine solche Aufbewahrungsfrist nach pflichtgem\u00e4\u00dfem Ermessen zu bestimmen; sie darf h\u00f6chstens 30 Jahre betragen. Eine nachfolgend f\u00fcr die Verwahrung zust\u00e4ndige Stelle ist an die Bestimmung einer l\u00e4ngeren Aufbewahrungsfrist gebunden.</P><P>(3) Ordnet der Notar nach \u00a7 35 Absatz 6 Satz 3 der Bundesnotarordnung an, dass eine Nebenakte nach Ablauf der Aufbewahrungsfrist im Einzelfall weiter aufzubewahren ist, so ist dies mit dem Grund der weiteren Aufbewahrung auf der Akte zu vermerken. Wird die Nebenakte elektronisch gef\u00fchrt, sind die Anordnung der weiteren Aufbewahrung und der Grund f\u00fcr die Anordnung in einer dem Vermerk gleichwertigen Form zu dokumentieren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005400000",
+        "name": "\u00a7 53",
+        "title": "Sonderbestimmungen beim \u00dcbergang der Verwahrzust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001001000"
+        },
+        "body": "<P>Ist die Zust\u00e4ndigkeit f\u00fcr die Verwahrung von Akten und Verzeichnissen auf eine andere Stelle \u00fcbergegangen, so darf diese die Akten und Verzeichnisse mindestens bis zum Ende des siebten Kalenderjahres aufbewahren, das auf die \u00dcbernahme der Verwahrzust\u00e4ndigkeit f\u00fcr diese Akten und Verzeichnisse folgt. Satz 1 gilt nicht <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr Akten und Verzeichnisse, die im elektronischen Urkundenarchiv gef\u00fchrt werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr andere elektronisch gef\u00fchrten Akten und Verzeichnisse, zu denen die Aufbewahrungsfristen so strukturiert erfasst wurden, dass eine L\u00f6schung ohne gr\u00f6\u00dferen Aufwand m\u00f6glich ist, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr den Fall, dass die Zust\u00e4ndigkeit an die Stelle zur\u00fcckf\u00e4llt, die urspr\u00fcnglich f\u00fcr die Verwahrung zust\u00e4ndig war.</LA></DD></DL>F\u00e4llt die Zust\u00e4ndigkeit an eine sonstige Stelle zur\u00fcck, die bereits einmal f\u00fcr die Verwahrung zust\u00e4ndig war, so reduziert sich f\u00fcr diese die Frist nach Satz 1 um die Zeit, die sie bereits f\u00fcr die Verwahrung zust\u00e4ndig war.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG001100125",
+        "name": "Abschnitt 11",
+        "title": "Elektronisches Urkundenarchiv und Elektronischer Notariatsaktenspeicher",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG001200125",
+        "name": "Unterabschnitt 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001100125"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005500125",
+        "name": "\u00a7 54",
+        "title": "Funktionen des Elektronischen Urkundenarchivs und des Elektronischen Notariatsaktenspeichers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001200125"
+        },
+        "body": "<P>(1) Das Elektronische Urkundenarchiv erm\u00f6glicht <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>diejenigen Eintragungen in das Urkundenverzeichnis und das Verwahrungsverzeichnis, zu denen die zust\u00e4ndige Stelle verpflichtet ist, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Aufnahme derjenigen elektronischen Dokumente, die die zust\u00e4ndige Stelle in der elektronischen Urkundensammlung aufzubewahren hat.</LA></DD></DL>Die Bundesnotarkammer kann weitere Eintragungen in das Urkundenverzeichnis und das Verwahrungsverzeichnis sowie die Aufnahme weiterer elektronischer Dokumente in die elektronische Urkundensammlung zulassen.</P><P>(2) Die Bundesnotarkammer kann \u00fcber die Funktion des Elektronischen Notariatsaktenspeichers nach \u00a7\u00a078k Absatz 1 der Bundesnotarordnung hinaus weitere erg\u00e4nzende Funktionen anbieten, insbesondere <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die \u00dcberleitung der gespeicherten Inhalte bei einer \u00c4nderung der Verwahrungszust\u00e4ndigkeit, ohne dass es der \u00dcbergabe eines physischen Datentr\u00e4gers bedarf,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die strukturierte Speicherung derjenigen Akten und Verzeichnisse, zu deren F\u00fchrung eine Verpflichtung besteht,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die strukturierte Speicherung von Hilfsmitteln (\u00a7 35 Absatz 2 Satz 2 der Bundesnotarordnung),</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Erhaltung des Beweiswerts der gespeicherten elektronischen Dokumente, ohne dass es einer erneuten Signatur durch die verwahrende Stelle bedarf, und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die \u00dcbermittlung von gespeicherten elektronischen Dokumenten durch und an die f\u00fcr die Verwahrung elektronischer Aufzeichnungen zust\u00e4ndige Stelle sowie die sichere M\u00f6glichkeit der Einsichtnahme durch befugte Dritte.</LA></DD></DL></P><P>(3) Die Gestaltung des Elektronischen Urkundenarchivs und des Elektronischen Notariatsaktenspeichers einschlie\u00dflich des Zugangs zu diesen soll die Anforderungen der Barrierefreiheit im Sinne der Barrierefreie-Informationstechnik-Verordnung ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005600125",
+        "name": "\u00a7 55",
+        "title": "Technische Zugangsberechtigung zum Elektronischen Urkundenarchiv und zum Elektronischen Notariatsaktenspeicher",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001200125"
+        },
+        "body": "<P>(1) Dem Notar ist eine technische Zugangsberechtigung f\u00fcr diejenigen elektronischen Aufzeichnungen zu gew\u00e4hren, f\u00fcr deren Verwahrung er zust\u00e4ndig ist. Gleiches gilt f\u00fcr den Notariatsverwalter.</P><P>(2) Der Notarvertretung ist eine technische Zugangsberechtigung f\u00fcr diejenigen elektronischen Aufzeichnungen einzur\u00e4umen, f\u00fcr deren Verwahrung der vertretene Notar zust\u00e4ndig ist.</P><P>(3) Den Personen, die die Notarkammer bei der Erteilung von Ausfertigungen und beglaubigten Abschriften vertreten, ist eine technische Zugangsberechtigung f\u00fcr diejenigen elektronischen Aufzeichnungen zu gew\u00e4hren, f\u00fcr deren Verwahrung die Notarkammer zust\u00e4ndig ist.</P><P>(4) Sonstigen Personen, die bei einer f\u00fcr die Verwahrung elektronischer Aufzeichnungen zust\u00e4ndigen Stelle besch\u00e4ftigt sind, kann eine technische Zugangsberechtigung f\u00fcr die von dieser Stelle verwahrten Aufzeichnungen einger\u00e4umt werden. Technische Zugangsberechtigungen nach Satz 1 k\u00f6nnen in ihrem Umfang eingeschr\u00e4nkt werden.</P><P>(5) F\u00fcr Personen nach den Abs\u00e4tzen 3 und 4 gilt \u00a7 5 Absatz 3 und 4 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005700125",
+        "name": "\u00a7 56",
+        "title": "Sicherungsma\u00dfnahmen gegen Missbrauch",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001200125"
+        },
+        "body": "<P>Die Bundesnotarkammer hat geeignete technische und organisatorische Ma\u00dfnahmen zur Verhinderung der missbr\u00e4uchlichen Einr\u00e4umung, \u00dcberleitung, Entziehung oder Aus\u00fcbung von technischen Zugangsberechtigungen zu treffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005800125",
+        "name": "\u00a7 57",
+        "title": "Sichere informationstechnische Netze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001200125"
+        },
+        "body": "<P>Das Elektronische Urkundenarchiv und der Elektronische Notariatsaktenspeicher sind nur \u00fcber solche informationstechnischen Netze zug\u00e4nglich, die durch eine staatliche Stelle oder im Auftrag einer staatlichen Stelle oder einer juristischen Person des \u00f6ffentlichen Rechts betrieben werden und die mit dem Elektronischen Urkundenarchiv oder dem Elektronischen Notariatsaktenspeicher gesichert verbunden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG001300125",
+        "name": "Unterabschnitt 2",
+        "title": "Elektronisches Urkundenarchiv",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001100125"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE005900125",
+        "name": "\u00a7 58",
+        "title": "Einr\u00e4umung und \u00dcberleitung der technischen Zugangsberechtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001300125"
+        },
+        "body": "<P>(1) Die technische Zugangsberechtigung zum Elektronischen Urkundenarchiv nach \u00a7\u00a055 Absatz 1 soll in dem Fall, in dem zuvor eine andere Stelle f\u00fcr die Verwahrung der elektronischen Aufzeichnungen zust\u00e4ndig war, von dieser Stelle \u00fcbergeleitet werden.</P><P>(2) Die technische Zugangsberechtigung nach \u00a7 55 Absatz 2 soll von der nach \u00a7 55 Absatz 1 zugangsberechtigten Person einger\u00e4umt werden.</P><P>(3) Die technische Zugangsberechtigung nach \u00a7 55 Absatz 3 soll von der zuvor f\u00fcr die Verwahrung der elektronischen Aufzeichnungen zust\u00e4ndigen Stelle \u00fcbergeleitet werden.</P><P>(4) Die technische Zugangsberechtigung nach \u00a7 55 Absatz 4 ist durch die f\u00fcr die Verwahrung der elektronischen Aufzeichnungen zust\u00e4ndige Stelle einzur\u00e4umen. Diese Stelle kann den bei ihr besch\u00e4ftigten Personen auch die Befugnis einr\u00e4umen, weitere technische Zugangsberechtigungen zu erteilen. Befugnisse nach Satz 2 k\u00f6nnen in ihrem Umfang eingeschr\u00e4nkt werden.</P><P>(5) Wird die technische Zugangsberechtigung in den F\u00e4llen des \u00a7\u00a055 Absatz 1 bis 3 nicht durch die in den Abs\u00e4tzen 1 bis 3 bezeichneten Stellen \u00fcbergeleitet oder einger\u00e4umt, so ist sie durch die Notarkammer einzur\u00e4umen. Die Einr\u00e4umung erfolgt in den F\u00e4llen, in denen ein Zugang zu denjenigen elektronischen Aufzeichnungen einger\u00e4umt wird, f\u00fcr deren Verwahrung zuvor eine andere Stelle zust\u00e4ndig war, aufgrund eines Beschlusses des Vorstands der Notarkammer. Kann ein Beschluss des Vorstands nicht rechtzeitig herbeigef\u00fchrt werden, so entscheidet der Pr\u00e4sident der Notarkammer. In diesem Fall ist die Entscheidung des Vorstands unverz\u00fcglich nachzuholen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006000125",
+        "name": "\u00a7 59",
+        "title": "Wegfall und Entziehung der technischen Zugangsberechtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001300125"
+        },
+        "body": "<P>(1) Die Bundesnotarkammer hat im Zusammenwirken mit den Notarkammern sicherzustellen, dass eine technische Zugangsberechtigung endet, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>im Fall des \u00a7 55 Absatz 1 das Amt erlischt oder der Amtssitz in einen anderen Amtsgerichtsbezirk verlegt wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>im Fall des \u00a7\u00a055 Absatz 2 oder 3 die Vertretung endet und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>im Fall des \u00a7 55 Absatz 4 die f\u00fcr die Verwahrung der elektronischen Aufzeichnungen zust\u00e4ndige Stelle wechselt.</LA></DD></DL></P><P>(2) Die technische Zugangsberechtigung nach \u00a7 55 Absatz 2 soll im Fall einer st\u00e4ndigen Vertretung von der nach \u00a7\u00a055 Absatz 1 zugangsberechtigten Person vor\u00fcbergehend entzogen werden, solange keine Amtsbefugnis nach \u00a7\u00a044 Absatz 1 Satz 1 der Bundesnotarordnung besteht.</P><P>(3) Eine technische Zugangsberechtigung nach \u00a7 55 Absatz 4 kann jederzeit durch die f\u00fcr die Verwahrung der elektronischen Aufzeichnungen zust\u00e4ndige Stelle oder eine von dieser entsprechend befugte Person entzogen werden.</P><P>(4) Wird der Notar vorl\u00e4ufig seines Amtes enthoben, ohne dass sich die Zust\u00e4ndigkeit f\u00fcr die Verwahrung der amtlichen Best\u00e4nde \u00e4ndert, so hat ihm die Notarkammer die technische Zugangsberechtigung zu entziehen, soweit nicht ausnahmsweise ein Zugang geboten ist. Weitere technische Zugangsberechtigungen und Befugnisse im Sinne des \u00a7\u00a055 Absatz 4 und des \u00a7\u00a058 Absatz 4 Satz 2 bleiben von der Entziehung der Zugangsberechtigung nach Satz 1 unber\u00fchrt. Sie k\u00f6nnen von dem Notar nicht mehr ge\u00e4ndert oder widerrufen werden.</P><P>(5) Die Bundesnotarkammer oder die Notarkammer k\u00f6nnen einer Person die technische Zugangsberechtigung vor\u00fcbergehend entziehen, wenn die Gefahr einer missbr\u00e4uchlichen Verwendung besteht. Die vor\u00fcbergehende Entziehung ist unverz\u00fcglich zu beenden, wenn diese Gefahr nicht mehr besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006100125",
+        "name": "\u00a7 60",
+        "title": "Dokumentation der technischen Zugangsberechtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001300125"
+        },
+        "body": "<P>(1) Die Bundesnotarkammer hat im Hinblick auf die Einr\u00e4umung, die \u00dcberleitung und die Entziehung der technischen Zugangsberechtigungen zum Elektronischen Urkundenarchiv den jeweiligen Zeitpunkt und die jeweils beteiligten Personen und Notarkammern zu dokumentieren. Die Bundesnotarkammer kann weitere Dokumentationstatbest\u00e4nde vorsehen. Die Dokumentation nach Satz 1 ist f\u00fcr 100 Jahre aufzubewahren und sodann unverz\u00fcglich zu l\u00f6schen.</P><P>(2) Die Bundesnotarkammer kann den f\u00fcr die Verwahrung elektronischer Aufzeichnungen zust\u00e4ndigen Stellen und den Notarkammern Informationen \u00fcber die erteilten technischen Zugangsberechtigungen \u00fcbermitteln. Soweit die Dokumentation nach Absatz 1 f\u00fcr eine rechtliche \u00dcberpr\u00fcfung dahingehend erforderlich ist, welche Person welche Eintragungen vorgenommen hat, hat die Bundesnotarkammer der f\u00fcr die \u00dcberpr\u00fcfung zust\u00e4ndigen Stelle die notwendigen Informationen zur Verf\u00fcgung zu stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006200125",
+        "name": "\u00a7 61",
+        "title": "Datenschutz, Datensicherheit und Vertraulichkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001300125"
+        },
+        "body": "<P>(1) Zum Schutz und zur Gew\u00e4hrleistung der Sicherheit und Vertraulichkeit der im Elektronischen Urkundenarchiv gespeicherten und zu speichernden Daten, der damit verbundenen Daten\u00fcbermittlungen sowie der elektronischen Kommunikation hat die Bundesnotarkammer insbesondere sicherzustellen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Anmeldung zum Elektronischen Urkundenarchiv mit mindestens zwei voneinander unabh\u00e4ngigen Sicherungsmitteln erfolgt, wobei f\u00fcr den Zugang zur elektronischen Urkundensammlung ein auf einer kryptographischen Hardwarekomponente gespeicherter Schl\u00fcssel zu verwenden ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die im Elektronischen Urkundenarchiv gespeicherten Daten f\u00fcr die Dauer der in dieser Verordnung bestimmten Aufbewahrungsfristen verf\u00fcgbar sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr den Fall, dass Eintragungen im Urkundenverzeichnis oder im Verwahrungsverzeichnis ge\u00e4ndert werden, Inhalt und Datum der \u00c4nderung nachvollziehbar bleiben,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr den Fall, dass Dokumente aus der elektronischen Urkundensammlung vor Ablauf der Aufbewahrungsfrist gel\u00f6scht werden sollen, <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Dokumente unverz\u00fcglich gesperrt und 150\u00a0Tage nach Erteilung des L\u00f6schungsbefehls gel\u00f6scht werden und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die Tatsache der L\u00f6schung und deren Datum nachvollziehbar bleiben,</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die im Elektronischen Urkundenarchiv gespeicherten Daten in angemessenen Intervallen in Datensicherungen aufgenommen werden, welche ohne Anbindung an informationstechnische Netze aufbewahrt werden, und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Zuverl\u00e4ssigkeit der mit dem technischen Betrieb des Elektronischen Urkundenarchivs befassten Personen gew\u00e4hrleistet ist, insbesondere wenn f\u00fcr diese die M\u00f6glichkeit zur Kenntnisnahme der im Urkundenverzeichnis oder im Verwahrungsverzeichnis gespeicherten Daten besteht.</LA></DD></DL></P><P>(2) Die Bundesnotarkammer hat ein Funktions- und Sicherheitskonzept zu erstellen und umzusetzen. In diesem sind die nach \u00a7\u00a054 Absatz 1 Satz 2 zugelassenen weiteren Aufzeichnungen zu bestimmen. Zudem sind in ihm die einzelnen technischen und organisatorischen Ma\u00dfnahmen festzulegen, die nach dem Stand der Technik Folgendes gew\u00e4hrleisten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Datenschutz,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Datensicherheit,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Wahrung der Integrit\u00e4t, Authentizit\u00e4t, Verkehrsf\u00e4higkeit, Verf\u00fcgbarkeit, Lesbarkeit und Vertraulichkeit sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Umsetzung der Vorgaben dieser Verordnung.</LA></DD></DL>Das Funktions- und Sicherheitskonzept und dessen Umsetzung sind durch die Bundesnotarkammer regelm\u00e4\u00dfig zu \u00fcberpr\u00fcfen.</P><P>(3) Die Bundesnotarkammer hat in dem Funktions- und Sicherheitskonzept geeignete technische und organisatorische Ma\u00dfnahmen festzulegen, um die \u00dcbermittlung und Speicherung der im Elektronischen Urkundenarchiv zu speichernden Daten zu erm\u00f6glichen. Bei der Festlegung der Struktur, der technischen Architektur, der Datenformate, der maximalen Dateigr\u00f6\u00dfen, der Schnittstellen und der Speichermedien f\u00fcr das Elektronische Urkundenarchiv hat die Bundesnotarkammer insbesondere zu ber\u00fccksichtigen, welche Auswirkungen die genannten Faktoren auf die Daten\u00fcbermittlung und die Funktionsf\u00e4higkeit des Elektronischen Urkundenarchivs sowie auf die Transparenz, die dauerhafte Verf\u00fcgbarkeit, die Integrit\u00e4t, die Authentizit\u00e4t und die Verkehrsf\u00e4higkeit der gespeicherten Daten haben. Hat die Bundesnotarkammer in dem Funktions- und Sicherheitskonzept bestimmte Dateiformate oder maximale Dateigr\u00f6\u00dfen oder damit verbundene Verfahren f\u00fcr das Elektronische Urkundenarchiv festgelegt, so sind diese Vorgaben im Verk\u00fcndungsblatt der Bundesnotarkammer bekanntzumachen. Die von der Bundesnotarkammer bekanntgemachten Vorgaben sind bei der Nutzung des Elektronischen Urkundenarchivs zu beachten.</P><P>(4) Daten zu \u00c4nderungen und L\u00f6schungen nach Absatz 1 Nummer 3 und 4 sind von der Bundesnotarkammer so lange zu speichern, wie die entsprechende Eintragung aufzubewahren ist und sodann unverz\u00fcglich zu l\u00f6schen. Daten, die nicht zu den gesetzlich vorgeschriebenen Inhalten des Elektronischen Urkundenarchivs geh\u00f6ren, k\u00f6nnen von der Speicherung ausgenommen werden.</P><P>(5) Die Bundesnotarkammer ist f\u00fcr die technischen und organisatorischen Ma\u00dfnahmen der Datensicherheit verantwortlich. Im \u00dcbrigen ist die f\u00fcr die Verwahrung elektronischer Aufzeichnungen zust\u00e4ndige Stelle datenschutzrechtlich verantwortlich. Personen nach Absatz 1 Nummer 6 sind befugt, auf die im Elektronischen Urkundenarchiv gespeicherten Daten zuzugreifen, wenn dies zur Durchf\u00fchrung von Wartungsarbeiten oder zur Beseitigung von St\u00f6rungen des technischen Systems erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006300125",
+        "name": "\u00a7 62",
+        "title": "Ma\u00dfnahmen bei technischer Handlungsunf\u00e4higkeit der Notarkammern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001300125"
+        },
+        "body": "<P>Sind bei einer Notarkammer die technischen Voraussetzungen f\u00fcr die Wahrnehmung ihrer Aufgaben im Zusammenhang mit dem Elektronischen Urkundenarchiv nicht mehr gegeben, so trifft die Bundesnotarkammer die zur Wiederherstellung der technischen Handlungsf\u00e4higkeit der Notarkammer notwendigen Ma\u00dfnahmen. Diese Ma\u00dfnahmen sollen in dem Funktions- und Sicherheitskonzept nach \u00a7 61 Absatz 2 beschrieben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR224610020BJNG001400125",
+        "name": "Unterabschnitt 3",
+        "title": "Elektronischer Notariatsaktenspeicher",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001100125"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006400125",
+        "name": "\u00a7 63",
+        "title": "Nutzungsverh\u00e4ltnis und technische Zugangsberechtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001400125"
+        },
+        "body": "<P>(1) F\u00fcr den Elektronischen Notariatsaktenspeicher kann die Bundesnotarkammer ein Nutzungsverh\u00e4ltnis nur mit Notaren, Notariatsverwaltern oder Notarkammern begr\u00fcnden. Das Nutzungsverh\u00e4ltnis ist auf die amtlichen T\u00e4tigkeiten der Nutzenden beschr\u00e4nkt.</P><P>(2) Die Bundesnotarkammer hat den Nutzenden eine technische Zugangsberechtigung zum Elektronischen Notariatsaktenspeicher einzur\u00e4umen.</P><P>(3) \u00a7\u00a058 Absatz 2 und 4 sowie \u00a7\u00a059 gelten entsprechend. Im Fall des \u00a7\u00a054 Absatz 2 Nummer 1 gilt zudem \u00a7 58 Absatz 1 und 3 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006500125",
+        "name": "\u00a7 64",
+        "title": "Zugang",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001400125"
+        },
+        "body": "<P>(1) Der Zugang zu den im Elektronischen Notariatsaktenspeicher gespeicherten Aufzeichnungen steht ausschlie\u00dflich der f\u00fcr die Verwahrung der elektronischen Aufzeichnungen zust\u00e4ndigen Stelle zu. Die Bundesnotarkammer hat hierzu geeignete technische und organisatorische Ma\u00dfnahmen zu treffen.</P><P>(2) Abweichend von Absatz 1 kann die f\u00fcr die Verwahrung der elektronischen Aufzeichnungen zust\u00e4ndige Stelle Beteiligten oder von diesen erm\u00e4chtigten Personen sowie der Notarkasse oder der L\u00e4ndernotarkasse einen zeitlich beschr\u00e4nkten Zugang zu einzelnen im Elektronischen Notariatsaktenspeicher gespeicherten Aufzeichnungen einr\u00e4umen. Abweichend von \u00a7\u00a057 muss der Zugang in diesem Fall nicht \u00fcber sichere informationstechnische Netze erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006600125",
+        "name": "\u00a7 65",
+        "title": "Dokumentation der technischen Zugangsberechtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001400125"
+        },
+        "body": "<P>Die Bundesnotarkammer kann vorsehen, dass die Einr\u00e4umung, die \u00dcberleitung und die Entziehung der technischen Zugangsberechtigungen zum Elektronischen Notariatsaktenspeicher dokumentiert werden. Im Fall des Satzes 1 gilt \u00a7\u00a060 Absatz 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR224610020BJNE006700125",
+        "name": "\u00a7 66",
+        "title": "Datenschutz, Datensicherheit und Vertraulichkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR224610020BJNG001400125"
+        },
+        "body": "<P>(1) Die Bundesnotarkammer hat ein Funktions- und Sicherheitskonzept f\u00fcr den Elektronischen Notariatsaktenspeicher zu erstellen und umzusetzen. In diesem sind die im Rahmen des \u00a7\u00a054 Absatz 2 bereitgestellten Funktionen zu bestimmen. Zudem sind in ihm die einzelnen technischen und organisatorischen Ma\u00dfnahmen festzulegen, die nach dem Stand der Technik Folgendes gew\u00e4hrleisten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Datenschutz,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Datensicherheit,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Wahrung der Integrit\u00e4t, Authentizit\u00e4t, Verkehrsf\u00e4higkeit, Verf\u00fcgbarkeit, Lesbarkeit und Vertraulichkeit sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Umsetzung der Vorgaben dieser Verordnung.</LA></DD></DL></P><P>(2) \u00a7\u00a061 Absatz 1 Nummer 5 und 6, Absatz 2 Satz 4 sowie Absatz 3 gilt entsprechend. \u00a7 61 Absatz 1 Nummer 1 gilt au\u00dfer in den F\u00e4llen des \u00a7\u00a064 Absatz 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

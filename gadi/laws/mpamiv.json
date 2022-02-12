@@ -1,0 +1,233 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR083310021",
+    "firstPublished": "2021-04-21",
+    "sourceTimestamp": "20210525212102",
+    "titleShort": "Medizinprodukte-Anwendermelde- und Informationsverordnung",
+    "titleLong": "Verordnung \u00fcber die Meldung von mutma\u00dflichen schwerwiegenden Vorkommnissen bei Medizinprodukten sowie zum Informationsaustausch der zust\u00e4ndigen Beh\u00f6rden",
+    "abbreviation": "MPAMIV",
+    "slug": "mpamiv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2021, 833",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 2 V v. 21.4.2021 I 833",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 26.5.2021 +++)<BR /><BR /></pre>Die V wurde als Artikel 1 der V v. 21.4.2021 I 833 vom Bundesministerium f\u00fcr Gesundheit mit Zustimmung des Bundesrates im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie, mit dem Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit, mit dem Bundesministerium des Innern, f\u00fcr Bau und Heimat und mit dem Bundesministerium f\u00fcr Arbeit und Soziales und im Benehmen mit dem Bundesministerium f\u00fcr Bildung und Forschung beschlossen. Sie tritt gem. Art. 9 Abs. 1 Satz 1 dieser V am 26.5.2021 in Kraft. <BR />(+++ Zur Anwendung vgl. \u00a7 1 Satz 2 u. \u00a7 7 Abs. 5 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR083310021BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Anwendungsbereich; Meldeverfahren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000100000"
+        },
+        "body": "<P>Diese Rechtsverordnung ist anzuwenden auf Produkte im Anwendungsbereich der Verordnung (EU) 2017/745 des Europ\u00e4ischen Parlaments und des Rates vom 5. April 2017 \u00fcber Medizinprodukte, zur \u00c4nderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien <NB>90/385/EWG</NB> und 93/42/EWG des Rates (ABl. L 117 vom 5.5.2017, S. 1; L 117 vom 3.5.2019, S. 9; L 334 vom 27.12.2019, S. 165), die durch die Verordnung (EU) 2020/561 (ABl. L 130 vom 24.4.2020, S. 18) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung. F\u00fcr In-vitro-Diagnostika ist bis einschlie\u00dflich 25. Mai 2022 die Medizinprodukte-Sicherheitsplanverordnung vom 24. Juni 2002 (BGBl. I S. 2131) in der bis einschlie\u00dflich 25. Mai 2021 geltenden Fassung anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Erg\u00e4nzende Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000100000"
+        },
+        "body": "<P>Erg\u00e4nzend zu Artikel 2 der Verordnung (EU) <NB>2017/745</NB> bezeichnet im Sinne dieser Rechtsverordnung der Ausdruck \u201emutma\u00dfliches schwerwiegendes Vorkommnis\u201c ein Vorkommnis, bei dem nicht ausgeschlossen ist, dass es auf einer unerw\u00fcnschten Nebenwirkung eines Produktes, auf einer Fehlfunktion, einer Verschlechterung der Eigenschaften oder der Leistung eines Produktes, einschlie\u00dflich Anwendungsfehlern aufgrund ergonomischer Merkmale oder einer Unzul\u00e4nglichkeit der vom Hersteller bereitgestellten Informationen beruht und das direkt oder indirekt eine der nachstehenden Folgen hatte oder h\u00e4tte haben k\u00f6nnen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Tod eines Patienten, Anwenders oder einer anderen Person,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die vor\u00fcbergehende oder dauerhafte schwerwiegende Verschlechterung des Gesundheitszustands eines Patienten, Anwenders oder einer anderen Person oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine schwerwiegende Gefahr f\u00fcr die \u00f6ffentliche Gesundheit.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Meldepflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000100000"
+        },
+        "body": "<P>Wer Produkte beruflich oder gewerblich betreibt oder anwendet, hat dabei aufgetretene mutma\u00dfliche schwerwiegende Vorkommnisse unverz\u00fcglich der zust\u00e4ndigen Bundesoberbeh\u00f6rde zu melden. Satz 1 gilt entsprechend f\u00fcr \u00c4rzte und Zahn\u00e4rzte, denen in Aus\u00fcbung ihrer beruflichen T\u00e4tigkeit mutma\u00dfliche schwerwiegende Vorkommnisse bekannt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Patientenmeldungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000100000"
+        },
+        "body": "<P>Patienten oder deren Angeh\u00f6rige sollen \u00fcber mutma\u00dfliche schwerwiegende Vorkommnisse mit Produkten, von denen sie betroffen sind, den behandelnden Arzt oder Zahnarzt oder den H\u00e4ndler, der das Produkt bereitgestellt hat, informieren. Sie k\u00f6nnen mutma\u00dfliche schwerwiegende Vorkommnisse auch der zust\u00e4ndigen Bundesoberbeh\u00f6rde direkt melden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Hinweise durch die Bundesoberbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000100000"
+        },
+        "body": "<P>Die zust\u00e4ndigen Bundesoberbeh\u00f6rden ver\u00f6ffentlichen jeweils Hinweise zur \u00dcbermittlung der Meldungen nach den \u00a7\u00a7 3 und 4 Satz 2 auf ihren Internetseiten; die Barrierefreiheit nach \u00a7 12a des Behindertengleichstellungsgesetzes ist zu gew\u00e4hrleisten. Die zust\u00e4ndigen Bundesoberbeh\u00f6rden f\u00f6rdern durch geeignete Ma\u00dfnahmen das Verst\u00e4ndnis der \u00d6ffentlichkeit f\u00fcr die Bedeutung der Patientenmeldungen mit dem Ziel der Verbesserung der Mitwirkungsbereitschaft in der Bev\u00f6lkerung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Erfassung der Meldungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000100000"
+        },
+        "body": "<P>(1) Die Meldungen nach \u00a7 3 erfolgen zur zentralen Erfassung \u00fcber das Deutsche Medizinprodukteinformations- und Datenbanksystem nach \u00a7\u00a086 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes. Die Meldungen nach \u00a7\u00a04 Satz 2 k\u00f6nnen zur zentralen Erfassung \u00fcber das Deutsche Medizinprodukteinformations- und Datenbanksystem nach \u00a7\u00a086 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes erfolgen.</P><P>(2) Sofern die Meldungen nach \u00a7\u00a04 Satz 2 nicht \u00fcber das Deutsche Medizinprodukteinformations- und Datenbanksystem nach \u00a7\u00a086 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes erfolgt sind, stellt die zust\u00e4ndige Bundesoberbeh\u00f6rde sicher, dass die Meldungen nach \u00a7\u00a04 Satz 2 im Deutschen Medizinprodukteinformations- und Datenbanksystem nach \u00a7\u00a086 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes erfasst werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Erg\u00e4nzende Verfahrensregelungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000100000"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Bundesoberbeh\u00f6rde best\u00e4tigt den nach \u00a7\u00a03 oder \u00a7\u00a04 Satz 2 meldenden Personen oder Stellen den Eingang der Meldung.</P><P>(2) Unabh\u00e4ngig von der unverz\u00fcglichen Einleitung des Verfahrens nach Artikel 87 Absatz 11 der Verordnung (EU) 2017/745 pr\u00fcft die zust\u00e4ndige Bundesoberbeh\u00f6rde, ob unmittelbarer Handlungsbedarf zur Gefahrenabwehr besteht.</P><P>(3) Eine nach Artikel 87 Absatz 11 Unterabsatz 3 der Verordnung (EU) 2017/745 notwendige Begr\u00fcndung wird vom Hersteller \u00fcber das Deutsche Medizinprodukteinformations- und Datenbanksystem nach \u00a7 86 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes innerhalb von 15\u00a0Tagen vorgelegt. Die zust\u00e4ndige Bundesoberbeh\u00f6rde teilt dem Hersteller innerhalb von zehn Tagen mit, ob sie mit seiner Begr\u00fcndung \u00fcbereinstimmt oder verlangt eine Meldung nach Artikel 87 Absatz 1 bis 5 der Verordnung (EU) 2017/745.</P><P>(4) Sofern die zust\u00e4ndige Bundesoberbeh\u00f6rde mit der nach Absatz 3 Satz 1 vom Hersteller vorgelegten Begr\u00fcndung \u00fcbereinstimmt, informiert sie die nach \u00a7 3 oder \u00a7 4 Satz 2 meldenden Personen oder Stellen dar\u00fcber und teilt diesen die Begr\u00fcndung des Herstellers mit.</P><P>(5) Nach Eingang der nach Absatz 3 Satz 2 von der zust\u00e4ndigen Bundesoberbeh\u00f6rde verlangten Meldung nach Artikel 87 Absatz 1 bis 5 der Verordnung (EU) 2017/745 findet das Verfahren nach den \u00a7\u00a7 71 bis 74 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes Anwendung.</P><P>(6) Die zust\u00e4ndige Bundesoberbeh\u00f6rde teilt das Ergebnis ihrer abschlie\u00dfenden Risikobewertung der nach \u00a7 3 oder \u00a7 4 Satz 2 meldenden Person oder Stelle mit. Das Ergebnis der abschlie\u00dfenden Risikobewertung nach Satz 1 ist den nach \u00a7 4 Satz 2 meldenden Personen soweit erforderlich in laienverst\u00e4ndlicher Weise zu \u00fcbermitteln. Die abschlie\u00dfende Risikobewertung beinhaltet, soweit bereits vorhanden, eine Bewertung des Abschlussberichts des Herstellers nach Artikel 89 Absatz 5 der Verordnung (EU) 2017/745 oder eine Bewertung der vom Hersteller nach Absatz 3 Satz 1 vorgelegten Begr\u00fcndung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR083310021BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Unterrichtungspflichten und Informationsaustausch der zust\u00e4ndigen Beh\u00f6rden; Ver\u00f6ffentlichung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Informationsaustausch zwischen der zust\u00e4ndigen Bundesoberbeh\u00f6rde und den zust\u00e4ndigen Landesbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000200000"
+        },
+        "body": "<P>\u00dcber eingehende Meldungen von schwerwiegenden Vorkommnissen, mutma\u00dflichen schwerwiegenden Vorkommnissen, schwerwiegenden Gefahren und Sicherheitskorrekturma\u00dfnahmen im Feld sowie \u00fcber den Abschluss und das Ergebnis der durchgef\u00fchrten Risikobewertung, einschlie\u00dflich angeordneter Ma\u00dfnahmen, informiert die zust\u00e4ndige Bundesoberbeh\u00f6rde \u00fcber das Deutsche Medizinprodukteinformations- und Datenbanksystem nach \u00a7\u00a086 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die f\u00fcr den Sitz des Herstellers oder seines Bevollm\u00e4chtigten zust\u00e4ndige Beh\u00f6rde und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die f\u00fcr den Ort des schwerwiegenden Vorkommnisses oder mutma\u00dflichen schwerwiegenden Vorkommnisses zust\u00e4ndige Beh\u00f6rde.</LA></DD></DL>Haben die in Satz 1 Nummer 1 genannten Personen ihren Sitz nicht in Deutschland und ist eine in Deutschland ans\u00e4ssige, vom Hersteller autorisierte Vertriebsorganisation bekannt, erfolgt die Information nach Satz 1 an die f\u00fcr den Sitz der Vertriebsorganisation zust\u00e4ndige Beh\u00f6rde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE000900000",
+        "name": "\u00a7 9",
+        "title": "Unterrichtung des Bundesministeriums f\u00fcr Gesundheit durch die zust\u00e4ndige Bundesoberbeh\u00f6rde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000200000"
+        },
+        "body": "<P>Die zust\u00e4ndige Bundesoberbeh\u00f6rde informiert das Bundesministerium f\u00fcr Gesundheit unverz\u00fcglich \u00fcber alle eingehenden Meldungen, die schwerwiegende Vorkommnisse mit Todesfolge oder sonstige besonders bedeutsame schwerwiegende Vorkommnisse betreffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE001000000",
+        "name": "\u00a7 10",
+        "title": "Unterrichtung sonstiger Beh\u00f6rden, Organisationen und Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000200000"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Bundesoberbeh\u00f6rde unterrichtet \u00fcber eingehende Meldungen von schwerwiegenden Vorkommnissen, Sicherheitskorrekturma\u00dfnahmen im Feld, schwerwiegenden Gefahren und mutma\u00dflichen schwerwiegenden Vorkommnissen sowie \u00fcber den Abschluss und das Ergebnis der durchgef\u00fchrten Risikobewertungen, einschlie\u00dflich angeordneter Ma\u00dfnahmen, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit sowie das Bundesamt f\u00fcr Strahlenschutz, soweit Fragen des Schutzes vor ionisierender oder nichtionisierender Strahlung betroffen oder Medizinprodukte betroffen sind, bei deren Herstellung radioaktive Stoffe oder ionisierende Strahlen verwendet werden, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Robert Koch-Institut, soweit Produkte betroffen sind, die zu Desinfektionszwecken bestimmt sind.</LA></DD></DL></P><P>(2) Die zust\u00e4ndige Bundesoberbeh\u00f6rde unterrichtet das Bundesministerium der Verteidigung und die f\u00fcr Benannte Stellen zust\u00e4ndige Beh\u00f6rde \u00fcber eingehende Meldungen von schwerwiegenden Vorkommnissen und Sicherheitskorrekturma\u00dfnahmen im Feld sowie \u00fcber den Abschluss und das Ergebnis der durchgef\u00fchrten Risikobewertungen, einschlie\u00dflich angeordneter Ma\u00dfnahmen. Die zust\u00e4ndige Bundesoberbeh\u00f6rde unterrichtet die betroffene Benannte Stelle, sofern diese ihren Sitz im Geltungsbereich dieser Rechtsverordnung hat, \u00fcber Sicherheitskorrekturma\u00dfnahmen im Feld sowie \u00fcber den Abschluss und das Ergebnis der durchgef\u00fchrten Risikobewertungen, einschlie\u00dflich angeordneter Ma\u00dfnahmen. Die Unterrichtung kann auch durch Gew\u00e4hrung des Zugriffs auf Daten erfolgen, die im Deutschen Medizinprodukteinformations- und Datenbanksystem nach \u00a7\u00a086 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes gespeichert sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE001100000",
+        "name": "\u00a7 11",
+        "title": "\u00dcbermittlung personenbezogener Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000200000"
+        },
+        "body": "<P>Beim Informationsaustausch nach \u00a7 8 und bei der Unterrichtung nach den \u00a7\u00a7\u00a09 und 10 d\u00fcrfen nur anonymisierte Daten \u00fcbermittelt werden. Soweit dies zur Aufgabenerf\u00fcllung der in den \u00a7\u00a7\u00a08 bis 10 genannten Stellen erforderlich ist, d\u00fcrfen abweichend von Satz 1 und unter den in \u00a7 86 Absatz 7 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes genannten Voraussetzungen personenbezogene Daten ausnahmsweise in pseudonymisierter Form \u00fcbermittelt und verarbeitet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE001200000",
+        "name": "\u00a7 12",
+        "title": "Erreichbarkeit der zust\u00e4ndigen Beh\u00f6rden au\u00dferhalb der Dienstzeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000200000"
+        },
+        "body": "<P>(1) Die zust\u00e4ndigen Bundesoberbeh\u00f6rden machen unter Angabe ihrer Zust\u00e4ndigkeitsbereiche, ihrer Postanschriften und der Telekommunikationsnummern die f\u00fcr die Risikoerfassung und -bewertung bei ihnen zust\u00e4ndigen Organisationseinheiten sowie Hinweise zu deren Erreichbarkeit au\u00dferhalb der \u00fcblichen Dienstzeiten auf ihren Internetseiten bekannt.</P><P>(2) Die zust\u00e4ndigen Beh\u00f6rden teilen die Angaben zur Erreichbarkeit au\u00dferhalb der \u00fcblichen Dienstzeiten den zust\u00e4ndigen Bundesoberbeh\u00f6rden mit. Die zust\u00e4ndigen Bundesoberbeh\u00f6rden machen diese Angaben auf ihren Internetseiten bekannt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE001300000",
+        "name": "\u00a7 13",
+        "title": "Ver\u00f6ffentlichung von Informationen \u00fcber das Internet",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000200000"
+        },
+        "body": "<P>Die zust\u00e4ndige Bundesoberbeh\u00f6rde kann \u00fcber durchgef\u00fchrte Sicherheitskorrekturma\u00dfnahmen im Feld, einschlie\u00dflich der Sicherheitsanweisungen im Feld, sowie \u00fcber Empfehlungen und Ergebnisse der wissenschaftlichen Aufarbeitung nach \u00a7 71 Absatz 7 des Medizinprodukterecht-Durchf\u00fchrungsgesetzes auf ihrer Internetseite informieren. Die Information erfolgt nach \u00a7 12a des Behindertengleichstellungsgesetzes barrierefrei. Die Informationen nach Satz 1 d\u00fcrfen keine personenbezogenen Daten enthalten; davon abweichend d\u00fcrfen Sicherheitsanweisungen im Feld die personenbezogenen Daten enthalten, die der Hersteller nach Artikel 89 Absatz 8 der Verordnung (EU) 2017/745 bereitstellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR083310021BJNE001400000",
+        "name": "\u00a7 14",
+        "title": "Routinesitzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR083310021BJNG000200000"
+        },
+        "body": "<P>Das Bundesinstitut f\u00fcr Arzneimittel und Medizinprodukte f\u00fchrt in Abstimmung mit dem Paul-Ehrlich-<NB>Institut</NB> regelm\u00e4\u00dfige Besprechungen (Routinesitzungen) \u00fcber die Grundlagen und das Verfahren der Risikoerfassung und -bewertung sowie \u00fcber F\u00e4lle von allgemeinem Interesse durch. Bei Abstimmungsbedarf zu speziellen Fragen soll die zust\u00e4ndige Bundesoberbeh\u00f6rde zu einer Sondersitzung einladen. Die Gelegenheit zur Teilnahme an den Routinesitzungen erhalten die f\u00fcr Medizinprodukte zust\u00e4ndigen obersten Bundes- und Landesbeh\u00f6rden sowie die f\u00fcr Benannte Stellen zust\u00e4ndige Beh\u00f6rde. Soweit erforderlich k\u00f6nnen der Medizinische Dienst Bund, Vertreter der Heilberufe und der Krankenh\u00e4user, die Verb\u00e4nde der Medizinprodukte-Industrie sowie sonstige betroffene Beh\u00f6rden und Organisationen beteiligt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR120500993",
+    "firstPublished": "1993-07-19",
+    "sourceTimestamp": "20130405131203",
+    "titleShort": "Heimpersonalverordnung",
+    "titleLong": "Verordnung \u00fcber personelle Anforderungen f\u00fcr Heime",
+    "abbreviation": "HeimPersV",
+    "slug": "heimpersv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1993, 1205",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 1 V v. 22.6.1998 I 1506",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 1.10.1993 +++)</P><P><BR /> \u00dcberschrift: IdF d. Art. 1 Nr. 1 V v. 22.6.1998 I 1506 mWv 27.6.1998</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000100307",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 3 des Heimgesetzes in der Fassung der Bekanntmachung vom 23. April 1990 (BGBl. I S. 763) in Verbindung mit II. des Organisationserlasses des Bundeskanzlers vom 23. Januar 1991 (BGBl. I S. 530) verordnet das Bundesministerium f\u00fcr Familie und Senioren im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und dem Bundesministerium f\u00fcr Raumordnung, Bauwesen und St\u00e4dtebau:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000200307",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"60*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"10*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Mindestanforderungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 1</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Eignung des Heimleiters</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 2</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pers\u00f6nliche Ausschlu\u00dfgr\u00fcnde</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 3</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Eignung der Besch\u00e4ftigten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 4</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besch\u00e4ftigte f\u00fcr betreuende T\u00e4tigkeiten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 5</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Fachkr\u00e4fte</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 6</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Heime f\u00fcr behinderte Vollj\u00e4hrige</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 7</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Fort- und Weiterbildung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 8</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ordnungswidrigkeiten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 9</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbergangsregelungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 10</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Befreiungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 11</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Streichung von Vorschriften</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 12</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Inkrafttreten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 13</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000300307",
+        "name": "\u00a7 1",
+        "title": "Mindestanforderungen",
+        "parent": null,
+        "body": "<P>Der Tr\u00e4ger eines Heims im Sinne des \u00a7 1 Abs. 1 des Heimgesetzes darf nur Personen besch\u00e4ftigen, die die Mindestanforderungen der \u00a7\u00a7 2 bis 7 erf\u00fcllen, soweit nicht in den \u00a7\u00a7 10 und 11 etwas anderes bestimmt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000400307",
+        "name": "\u00a7 2",
+        "title": "Eignung des Heimleiters",
+        "parent": null,
+        "body": "<P>(1) Wer ein Heim leitet, mu\u00df hierzu pers\u00f6nlich und fachlich geeignet sein. Er mu\u00df nach seiner Pers\u00f6nlichkeit, seiner Ausbildung und seinem beruflichen Werdegang die Gew\u00e4hr daf\u00fcr bieten, da\u00df das jeweilige Heim entsprechend den Interessen und Bed\u00fcrfnissen seiner Bewohner sachgerecht und wirtschaftlich geleitet wird.</P><P>(2) Als Heimleiter ist fachlich geeignet, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ausbildung zu einer Fachkraft im Gesundheits- oder Sozialwesen oder in einem kaufm\u00e4nnischen Beruf oder in der \u00f6ffentlichen Verwaltung mit staatlich anerkanntem Abschlu\u00df nachweisen kann und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch eine mindestens zweij\u00e4hrige hauptberufliche T\u00e4tigkeit in einem Heim oder in einer vergleichbaren Einrichtung die weiteren f\u00fcr die Leitung des Heims erforderlichen Kenntnisse und F\u00e4higkeiten erworben hat. Die Wahrnehmung geeigneter Weiterbildungsangebote ist zu ber\u00fccksichtigen.</LA></DD> </DL> </P><P>(3) Wird das Heim von mehreren Personen geleitet, so mu\u00df jede dieser Personen die Anforderungen des Absatzes 1 erf\u00fcllen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000500307",
+        "name": "\u00a7 3",
+        "title": "Pers\u00f6nliche Ausschlu\u00dfgr\u00fcnde",
+        "parent": null,
+        "body": "<P>(1) In der Person des Heimleiters d\u00fcrfen keine Tatsachen vorliegen, die die Annahme rechtfertigen, da\u00df er f\u00fcr die Leitung eines Heims ungeeignet ist. Ungeeignet ist insbesondere, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wer<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen eines Verbrechens oder wegen einer Straftat gegen das Leben, die sexuelle Selbstbestimmung oder die pers\u00f6nliche Freiheit, wegen vors\u00e4tzlicher K\u00f6rperverletzung, wegen Erpressung, Urkundenf\u00e4lschung, Untreue, Diebstahls, Unterschlagung, Betrugs oder Hehlerei oder wegen einer gemeingef\u00e4hrlichen Straftat oder einer Konkursstraftat zu einer Freiheitsstrafe oder Ersatzfreiheitsstrafe von mindestens drei Monaten, sofern die Tilgung im Zentralregister noch nicht erledigt ist,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">in den letzten f\u00fcnf Jahren, l\u00e4ngstens jedoch bis zum Eintritt der Tilgungsreife der Eintragung der Verurteilung im Zentralregister, wegen einer Straftat nach den \u00a7\u00a7 29 bis 30b des Bet\u00e4ubungsmittelgesetzes oder wegen einer sonstigen Straftat, die bef\u00fcrchten l\u00e4\u00dft, da\u00df er die Vorschriften des Heimgesetzes oder eine auf Grund dieses Gesetzes erlassene Rechtsverordnung nicht beachten wird,</LA></DD> </DL></LA><LA Size=\"normal\">rechtskr\u00e4ftig verurteilt worden ist,</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">derjenige, gegen den wegen einer Ordnungswidrigkeit nach \u00a7 17 des Heimgesetzes mehr als zweimal eine Geldbu\u00dfe rechtskr\u00e4ftig festgesetzt worden ist, soweit nicht f\u00fcnf Jahre seit Rechtskraft des letzten Bu\u00dfgeldbescheids vergangen sind.</LA></DD> </DL> </P><P>(2) Absatz 1 Satz 2 gilt nicht f\u00fcr Straftaten und Ordnungswidrigkeiten, die vor Inkrafttreten der Verordnung begangen worden sind. Absatz 1 Satz 1 bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000600307",
+        "name": "\u00a7 4",
+        "title": "Eignung der Besch\u00e4ftigten",
+        "parent": null,
+        "body": "<P>(1) Besch\u00e4ftigte in Heimen m\u00fcssen die erforderliche pers\u00f6nliche und fachliche Eignung f\u00fcr die von ihnen ausge\u00fcbte Funktion und T\u00e4tigkeit besitzen.</P><P>(2) Als Leiter des Pflegedienstes ist geeignet, wer eine Ausbildung zu einer Fachkraft im Gesundheits- oder Sozialwesen mit staatlich anerkanntem Abschlu\u00df nachweisen kann. \u00a7 2 Abs. 2 Nr. 2, \u00a7 3 Abs. 1 Satz 2 Nr. 1 gelten entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000700307",
+        "name": "\u00a7 5",
+        "title": "Besch\u00e4ftigte f\u00fcr betreuende T\u00e4tigkeiten",
+        "parent": null,
+        "body": "<P>(1) Betreuende T\u00e4tigkeiten d\u00fcrfen nur durch Fachkr\u00e4fte oder unter angemessener Beteiligung von Fachkr\u00e4ften wahrgenommen werden. Hierbei mu\u00df mindestens einer, bei mehr als 20 nicht pflegebed\u00fcrftigen Bewohnern oder mehr als vier pflegebed\u00fcrftigen Bewohnern mindestens jeder zweite weitere Besch\u00e4ftigte eine Fachkraft sein. In Heimen mit pflegebed\u00fcrftigen Bewohnern mu\u00df auch bei Nachtwachen mindestens eine Fachkraft st\u00e4ndig anwesend sein.</P><P>(2) Von den Anforderungen des Absatzes 1 kann mit Zustimmung der zust\u00e4ndigen Beh\u00f6rde abgewichen werden, wenn dies f\u00fcr eine fachgerechte Betreuung der Heimbewohner erforderlich oder ausreichend ist.</P><P>(3) Pflegebed\u00fcrftig im Sinne der Verordnung ist, wer f\u00fcr die gew\u00f6hnlichen und regelm\u00e4\u00dfig wiederkehrenden Verrichtungen im Ablauf des t\u00e4glichen Lebens in erheblichem Umfang der Pflege nicht nur vor\u00fcbergehend bedarf.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000800307",
+        "name": "\u00a7 6",
+        "title": "Fachkr\u00e4fte",
+        "parent": null,
+        "body": "<P>Fachkr\u00e4fte im Sinne dieser Verordnung m\u00fcssen eine Berufsausbildung abgeschlossen haben, die Kenntnisse und F\u00e4higkeiten zur selbst\u00e4ndigen und eigenverantwortlichen Wahrnehmung der von ihnen ausge\u00fcbten Funktion und T\u00e4tigkeit vermittelt. Altenpflegehelferinnen und Altenpflegehelfer, Krankenpflegehelferinnen und Krankenpflegehelfer sowie vergleichbare Hilfskr\u00e4fte sind keine Fachkr\u00e4fte im Sinne der Verordnung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE000900307",
+        "name": "\u00a7 7",
+        "title": "Heime f\u00fcr behinderte Vollj\u00e4hrige",
+        "parent": null,
+        "body": "<P>In Heimen f\u00fcr behinderte Vollj\u00e4hrige sind bei der Festlegung der Mindestanforderungen nach den \u00a7\u00a7 2 bis 6 auch die Aufgaben bei der Betreuung, F\u00f6rderung und Eingliederung behinderter Menschen und die besonderen Bed\u00fcrfnisse der Bewohner, die sich insbesondere aus Art und Schwere der Behinderung ergeben, zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE001000307",
+        "name": "\u00a7 8",
+        "title": "Fort- und Weiterbildung",
+        "parent": null,
+        "body": "<P>(1) Der Tr\u00e4ger des Heims ist verpflichtet, dem Leiter des Heims und den Besch\u00e4ftigten Gelegenheit zur Teilnahme an Veranstaltungen berufsbegleitender Fort- und Weiterbildung zu geben. Mehrj\u00e4hrig Besch\u00e4ftigten, die die Anforderungen des \u00a7 6 nicht erf\u00fcllen, ist Gelegenheit zur Nachqualifizierung zu geben.</P><P>(2) Die Verpflichtung nach Absatz 1 besteht nur, wenn sich die Veranstaltungen insbesondere auf folgende Funktionen und T\u00e4tigkeitsfelder erstrecken: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Heimleitung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohnbereichs- und Pflegedienstleistung sowie entsprechende Leitungsaufgaben,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rehabilitation und Eingliederung sowie F\u00f6rderung und Betreuung Behinderter,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00f6rderung selbst\u00e4ndiger und selbstverantworteter Lebensgestaltung,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">aktivierende Betreuung und Pflege,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflegekonzepte, Pflegeplanung und Pflegedokumentation,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Arbeit mit verwirrten Bewohnern,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zusammenarbeit mit anderen Berufsgruppen sowie mit Einrichtungen und Diensten des Sozial- und Gesundheitswesens,</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Praxisanleitung,</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sterbebegleitung,</LA></DD> <DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">rechtliche Grundlagen der fachlichen Arbeit,</LA></DD> <DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">konzeptionelle Weiterentwicklung der Altenhilfe und der Eingliederungshilfe f\u00fcr Behinderte.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE001100307",
+        "name": "\u00a7 9",
+        "title": "Ordnungswidrigkeiten",
+        "parent": null,
+        "body": "<P>Ordnungswidrig im Sinne des \u00a7 17 Abs. 2 Nr. 1 des Heimgesetzes handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 1 in Verbindung mit \u00a7 2 Abs. 2 Nr. 1 oder \u00a7 3 Abs. 1 Satz 2 Nr. 1 Buchstabe a und b oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 1 in Verbindung mit \u00a7 4 Abs. 2 Satz 1 oder \u00a7 4 Abs. 2 Satz 2 in Verbindung mit \u00a7 3 Abs. 1 Satz 2 Nr. 1 Buchstabe a und b</LA></DD> </DL>Personen besch\u00e4ftigt oder <DL Font=\"normal\" Type=\"arabic\"><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 1 in Verbindung mit \u00a7 5 Abs. 1 Satz 1 betreuende T\u00e4tigkeiten nicht durch Fachkr\u00e4fte oder unter angemessener Beteiligung von Fachkr\u00e4ften wahrnehmen l\u00e4\u00dft, die die Mindestanforderungen nach \u00a7 6 erf\u00fcllen.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE001201320",
+        "name": "\u00a7 10",
+        "title": "\u00dcbergangsregelungen",
+        "parent": null,
+        "body": "<P>(1) Sind bei Inkrafttreten dieser Verordnung die in \u00a7 2 Abs. 2 Nr. 2, \u00a7\u00a7 4 bis 7 genannten Mindestanforderungen nicht erf\u00fcllt, so kann die zust\u00e4ndige Beh\u00f6rde auf Antrag des Heimtr\u00e4gers angemessene Fristen zur Angleichung an die einzelnen Anforderungen einr\u00e4umen. Die Fristen d\u00fcrfen f\u00fcnf Jahre vom Inkrafttreten der Verordnung an nicht \u00fcberschreiten. Der Tr\u00e4ger ist bis zur Entscheidung \u00fcber den Antrag von der Verpflichtung zur Angleichung vorl\u00e4ufig befreit.</P><P>(2) Werden am 1. Oktober 1998 die Voraussetzungen des \u00a7 5 Abs. 1 Satz 2 nicht erf\u00fcllt, kann die zust\u00e4ndige Beh\u00f6rde auf Antrag des Heimtr\u00e4gers eine angemessene Frist zur Angleichung, l\u00e4ngstens bis zum 30. September 2000, einr\u00e4umen. Absatz 1 Satz 3 gilt entsprechend.</P><P>(3) Wer ein Heim bei Inkrafttreten dieser Verordnung leitet, ohne die Anforderungen des \u00a7 2 Abs. 2 Nr. 1 zu erf\u00fcllen, kann das Heim bis zum Ablauf von drei Jahren nach Inkrafttreten der Verordnung weiterhin leiten. Nach diesem Zeitpunkt kann er nur dann Heimleiter sein, wenn er bis dahin nachweisbar an einer Bildungsma\u00dfnahme, die wesentliche Kenntnisse und F\u00e4higkeiten f\u00fcr die Leitung eines Heims vermittelt, erfolgreich teilgenommen hat. Eine entsprechende Bildungsma\u00dfnahme vor Inkrafttreten dieser Verordnung ist zu ber\u00fccksichtigen.</P><P>(4) Absatz 2 gilt nicht f\u00fcr Heimleiter, die ein Heim bei Inkrafttreten dieser Verordnung seit mindestens f\u00fcnf Jahren ununterbrochen leiten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE001300307",
+        "name": "\u00a7 11",
+        "title": "Befreiungen",
+        "parent": null,
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde kann dem Tr\u00e4ger eines Heims aus wichtigem Grund Befreiung von den in den \u00a7 2 Abs. 2 Nr. 1, \u00a7 4 Abs. 1 und Abs. 2 in Verbindung mit \u00a7 2 Abs. 2 Nr. 1 genannten Mindestanforderungen erteilen, wenn die Befreiung mit den Interessen und Bed\u00fcrfnissen der Bewohner vereinbar ist.</P><P>(2) Die Befreiung kann sich auf einzelne Anforderungen erstrecken und neben der Verpflichtung zur Angleichung an andere Anforderungen ausgesprochen werden.</P><P>(3) Die Befreiung wird auf Antrag des Tr\u00e4gers erteilt. Der Tr\u00e4ger ist bis zur Entscheidung \u00fcber den Antrag von der Verpflichtung zur Angleichung vorl\u00e4ufig befreit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE001400307",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE001500307",
+        "name": "\u00a7 13",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am ersten Tage des auf die Verk\u00fcndung folgenden dritten Kalendermonats in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR120500993BJNE001600307",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

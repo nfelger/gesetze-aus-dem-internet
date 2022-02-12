@@ -1,0 +1,61 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR158700995",
+    "firstPublished": "1995-11-21",
+    "sourceTimestamp": "20160701221048",
+    "titleShort": null,
+    "titleLong": "Bekanntmachung zu \u00a7 8 des Markengesetzes",
+    "abbreviation": "MarkenG\u00a78Bek 95",
+    "slug": "markeng_8bek_95",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1995, 1587",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  9.12.1995 +++)</P>"
+    },
+    "attachments": {
+      "bgbl1_1995_j1588_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/markeng_8bek_95/bgbl1_1995_j1588_0010.jpg",
+      "bgbl1_1995_j1587_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/markeng_8bek_95/bgbl1_1995_j1587_0010.jpg"
+    },
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR158700995BJNE000100310",
+        "name": "(XXXX)",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 8 Abs. 2 Nr. 7 des Markengesetzes vom 5. Oktober 1994 (BGBl. I S. 3082; 1995 I S. 156) werden die folgenden amtlichen Pr\u00fcf- und Gew\u00e4hrzeichen bekanntgemacht, die in der Republik Estland eingef\u00fchrt sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kontrollzeichen f\u00fcr Gegenst\u00e4nde aus Edelmetall (Anlage 1),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sicherheitszeichen f\u00fcr elektrische Ger\u00e4te (Anlage 2).</LA></DD></DL>Diese Bekanntmachung ergeht im Anschlu\u00df an die Bekanntmachung vom 13. Dezember 1994 (BGBl. I S. 3920).</P><P><SP>Bundesministerium der Justiz</SP></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR158700995BJNE000200310",
+        "name": "Anlage 1",
+        "title": "Estnisches Kontrollzeichen f\u00fcr Gegenst\u00e4nde aus\nEdelmetall",
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">Fundstelle: BGBl. I 1995, 1587)</kommentar></noindex><BR /><IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_1995_j1587_0010.jpg\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR158700995BJNE000300310",
+        "name": "Anlage 2",
+        "title": "Estnisches Sicherheitszeichen f\u00fcr elektrische\nGer\u00e4te (blau oder schwarz)",
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">Fundstelle: BGBl. I 1995, 1588)</kommentar></noindex><BR /><IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_1995_j1588_0010.jpg\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

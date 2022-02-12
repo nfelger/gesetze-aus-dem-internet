@@ -1,0 +1,48 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR026000014",
+    "firstPublished": "2014-03-26",
+    "sourceTimestamp": "20140401221515",
+    "titleShort": "Beitragssatzgesetz 2014",
+    "titleLong": "Gesetz zur Festsetzung der Beitragss\u00e4tze in der gesetzlichen Rentenversicherung f\u00fcr das Jahr 2014",
+    "abbreviation": "BSG 2014",
+    "slug": "bsg_2014",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2014, 260",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2014 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR026000014BJNE000100000",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Beitragssatz betr\u00e4gt f\u00fcr das Jahr 2014 in der allgemeinen Rentenversicherung 18,9 Prozent und in der knappschaftlichen Rentenversicherung 25,1 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026000014BJNE000200000",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt mit Wirkung vom 1. Januar 2014 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,736 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR011530976",
+    "firstPublished": "1976-05-04",
+    "sourceTimestamp": "20210811212518",
+    "titleShort": "Mitbestimmungsgesetz",
+    "titleLong": "Gesetz \u00fcber die Mitbestimmung der Arbeitnehmer",
+    "abbreviation": "MitbestG",
+    "slug": "mitbestg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1976, 1153",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 7 G v. 24.4.2015 I 642",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 17 G v. 7.8.2021 I 3311 (Nr. 51) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.7.1976 +++)<BR />(+++ Zur Anwendung vgl. \u00a7 40 +++)<BR /> <BR />(+++ Ma\u00dfgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 <BR />Nr. 3 Buchst. a DBuchst. ff G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)</pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000100319",
+        "name": "Erster Teil",
+        "title": "Geltungsbereich",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE001404308",
+        "name": "\u00a7 1",
+        "title": "Erfa\u00dfte Unternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000100319"
+        },
+        "body": "<P>(1) In Unternehmen, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Rechtsform einer Aktiengesellschaft, einer Kommanditgesellschaft auf Aktien, einer Gesellschaft mit beschr\u00e4nkter Haftung oder einer Genossenschaft betrieben werden und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der Regel mehr als 2.000 Arbeitnehmer besch\u00e4ftigen,</LA></DD> </DL>haben die Arbeitnehmer ein Mitbestimmungsrecht nach Ma\u00dfgabe dieses Gesetzes.</P><P>(2) Dieses Gesetz ist nicht anzuwenden auf die Mitbestimmung in Organen von Unternehmen, in denen die Arbeitnehmer nach <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Gesetz \u00fcber die Mitbestimmung der Arbeitnehmer in den Aufsichtsr\u00e4ten und Vorst\u00e4nden der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie vom 21. Mai 1951 (Bundesgesetzbl. I S. 347) - Montan-Mitbestimmungsgesetz -, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Gesetz zur Erg\u00e4nzung des Gesetzes \u00fcber die Mitbestimmung der Arbeitnehmer in den Aufsichtsr\u00e4ten und Vorst\u00e4nden der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie vom 7. August 1956 (Bundesgesetzbl. I S. 707) - Mitbestimmungserg\u00e4nzungsgesetz -</LA></DD> </DL>ein Mitbestimmungsrecht haben.</P><P>(3) Die Vertretung der Arbeitnehmer in den Aufsichtsr\u00e4ten von Unternehmen, in denen die Arbeitnehmer nicht nach Absatz 1 oder nach den in Absatz 2 bezeichneten Gesetzen ein Mitbestimmungsrecht haben, bestimmt sich nach den Vorschriften des Drittelbeteiligungsgesetzes (BGBl. 2004 I S. 974).</P><P>(4) Dieses Gesetz ist nicht anzuwenden auf Unternehmen, die unmittelbar und \u00fcberwiegend <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">politischen, koalitionspolitischen, konfessionellen, karitativen, erzieherischen, wissenschaftlichen oder k\u00fcnstlerischen Bestimmungen oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zwecken der Berichterstattung oder Meinungs\u00e4u\u00dferung, auf die Artikel 5 Abs. 1 Satz 2 des Grundgesetzes anzuwenden ist,</LA></DD> </DL>dienen. Dieses Gesetz ist nicht anzuwenden auf Religionsgemeinschaften und ihre karitativen und erzieherischen Einrichtungen unbeschadet deren Rechtsform.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE001502308",
+        "name": "\u00a7 2",
+        "title": "Anteilseigner",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000100319"
+        },
+        "body": "<P>Anteilseigner im Sinne dieses Gesetzes sind je nach der Rechtsform der in \u00a7 1 Abs. 1 Nr. 1 bezeichneten Unternehmen Aktion\u00e4re, Gesellschafter oder Mitglieder einer Genossenschaft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE001601308",
+        "name": "\u00a7 3",
+        "title": "Arbeitnehmer und Betrieb",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000100319"
+        },
+        "body": "<P>(1) Arbeitnehmer im Sinne dieses Gesetzes sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in \u00a7 5 Abs. 1 des Betriebsverfassungsgesetzes bezeichneten Personen mit Ausnahme der in \u00a7 5 Abs. 3 des Betriebsverfassungsgesetzes bezeichneten leitenden Angestellten,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in \u00a7 5 Abs. 3 des Betriebsverfassungsgesetzes bezeichneten leitenden Angestellten.</LA></DD> </DL>Keine Arbeitnehmer im Sinne dieses Gesetzes sind die in \u00a7 5 Abs. 2 des Betriebsverfassungsgesetzes bezeichneten Personen.</P><P>(2) Betriebe im Sinne dieses Gesetzes sind solche des Betriebsverfassungsgesetzes. \u00a7 4 Abs. 2 des Betriebsverfassungsgesetzes ist anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE001700319",
+        "name": "\u00a7 4",
+        "title": "Kommanditgesellschaft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000100319"
+        },
+        "body": "<P>(1) Ist ein in \u00a7 1 Abs. 1 Nr. 1 bezeichnetes Unternehmen pers\u00f6nlich haftender Gesellschafter einer Kommanditgesellschaft und hat die Mehrheit der Kommanditisten dieser Kommanditgesellschaft, berechnet nach der Mehrheit der Anteile oder der Stimmen, die Mehrheit der Anteile oder der Stimmen in dem Unternehmen des pers\u00f6nlich haftenden Gesellschafters inne, so gelten f\u00fcr die Anwendung dieses Gesetzes auf den pers\u00f6nlich haftenden Gesellschafter die Arbeitnehmer der Kommanditgesellschaft als Arbeitnehmer des pers\u00f6nlich haftenden Gesellschafters, sofern nicht der pers\u00f6nlich haftende Gesellschafter einen eigenen Gesch\u00e4ftsbetrieb mit in der Regel mehr als 500 Arbeitnehmern hat. Ist die Kommanditgesellschaft pers\u00f6nlich haftender Gesellschafter einer anderen Kommanditgesellschaft, so gelten auch deren Arbeitnehmer als Arbeitnehmer des in \u00a7 1 Abs. 1 Nr. 1 bezeichneten Unternehmens. Dies gilt entsprechend, wenn sich die Verbindung von Kommanditgesellschaften in dieser Weise fortsetzt.</P><P>(2) Das Unternehmen kann von der F\u00fchrung der Gesch\u00e4fte der Kommanditgesellschaft nicht ausgeschlossen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE001800319",
+        "name": "\u00a7 5",
+        "title": "Konzern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000100319"
+        },
+        "body": "<P>(1) Ist ein in \u00a7 1 Abs. 1 Nr. 1 bezeichnetes Unternehmen herrschendes Unternehmen eines Konzerns (\u00a7 18 Abs. 1 des Aktiengesetzes), so gelten f\u00fcr die Anwendung dieses Gesetzes auf das herrschende Unternehmen die Arbeitnehmer der Konzernunternehmen als Arbeitnehmer des herrschenden Unternehmens. Dies gilt auch f\u00fcr die Arbeitnehmer eines in \u00a7 1 Abs. 1 Nr. 1 bezeichneten Unternehmens, das pers\u00f6nlich haftender Gesellschafter eines abh\u00e4ngigen Unternehmens (\u00a7 18 Abs. 1 des Aktiengesetzes) in der Rechtsform einer Kommanditgesellschaft ist.</P><P>(2) Ist eine Kommanditgesellschaft, bei der f\u00fcr die Anwendung dieses Gesetzes auf den pers\u00f6nlich haftenden Gesellschafter die Arbeitnehmer der Kommanditgesellschaft nach \u00a7 4 Abs. 1 als Arbeitnehmer des pers\u00f6nlich haftenden Gesellschafters gelten, herrschendes Unternehmen eines Konzerns (\u00a7 18 Abs. 1 des Aktiengesetzes), so gelten f\u00fcr die Anwendung dieses Gesetzes auf den pers\u00f6nlich haftenden Gesellschafter der Kommanditgesellschaft die Arbeitnehmer der Konzernunternehmen als Arbeitnehmer des pers\u00f6nlich haftenden Gesellschafters. Absatz 1 Satz 2 sowie \u00a7 4 Abs. 2 sind entsprechend anzuwenden.</P><P>(3) Stehen in einem Konzern die Konzernunternehmen unter der einheitlichen Leitung eines anderen als eines in Absatz 1 oder 2 bezeichneten Unternehmens, beherrscht aber die Konzernleitung \u00fcber ein in Absatz 1 oder 2 bezeichnetes Unternehmen oder \u00fcber mehrere solcher Unternehmen andere Konzernunternehmen, so gelten die in Absatz 1 oder 2 bezeichneten und der Konzernleitung am n\u00e4chsten stehenden Unternehmen, \u00fcber die die Konzernleitung andere Konzernunternehmen beherrscht, f\u00fcr die Anwendung dieses Gesetzes als herrschende Unternehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000200319",
+        "name": "Zweiter Teil",
+        "title": "Aufsichtsrat",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000300319",
+        "name": "Erster Abschnitt",
+        "title": "Bildung und Zusammensetzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000200319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE001902119",
+        "name": "\u00a7 6",
+        "title": "Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000300319"
+        },
+        "body": "<P>(1) Bei den in \u00a7 1 Abs. 1 bezeichneten Unternehmen ist ein Aufsichtsrat zu bilden, soweit sich dies nicht schon aus anderen gesetzlichen Vorschriften ergibt.</P><P>(2) Die Bildung und die Zusammensetzung des Aufsichtsrats sowie die Bestellung und die Abberufung seiner Mitglieder bestimmen sich nach den \u00a7\u00a7 7 bis 24 dieses Gesetzes und, soweit sich dies nicht schon aus anderen gesetzlichen Vorschriften ergibt, nach \u00a7 96 Absatz 4, den \u00a7\u00a7 97 bis 101 Abs. 1 und 3 und den \u00a7\u00a7 102 bis 106 des Aktiengesetzes mit der Ma\u00dfgabe, da\u00df die W\u00e4hlbarkeit eines Prokuristen als Aufsichtsratsmitglied der Arbeitnehmer nur ausgeschlossen ist, wenn dieser dem zur gesetzlichen Vertretung des Unternehmens befugten Organ unmittelbar unterstellt und zur Aus\u00fcbung der Prokura f\u00fcr den gesamten Gesch\u00e4ftsbereich des Organs erm\u00e4chtigt ist. Andere gesetzliche Vorschriften und Bestimmungen der Satzung (des Gesellschaftsvertrags, des Status) \u00fcber die Zusammensetzung des Aufsichtsrats sowie \u00fcber die Bestellung und die Abberufung seiner Mitglieder bleiben unber\u00fchrt, soweit Vorschriften dieses Gesetzes dem nicht entgegenstehen.</P><P>(3) Auf Genossenschaften sind die \u00a7\u00a7 100, 101 Abs. 1 und 3 und die \u00a7\u00a7 103 und 106 des Aktiengesetzes nicht anzuwenden. Auf die Aufsichtsratsmitglieder der Arbeitnehmer ist \u00a7 9 Abs. 2 des Genossenschaftsgesetzes nicht anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002004126",
+        "name": "\u00a7 7",
+        "title": "Zusammensetzung des Aufsichtsrats",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000300319"
+        },
+        "body": "<P>(1) Der Aufsichtsrat eines Unternehmens <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit in der Regel nicht mehr als 10\u00a0000 Arbeitnehmern setzt sich zusammen aus je sechs Aufsichtsratsmitgliedern der Anteilseigner und der Arbeitnehmer;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit in der Regel mehr als 10\u00a0000, jedoch nicht mehr als 20\u00a0000 Arbeitnehmern setzt sich zusammen aus je acht Aufsichtsratsmitgliedern der Anteilseigner und der Arbeitnehmer;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit in der Regel mehr als 20\u00a0000 Arbeitnehmern setzt sich zusammen aus je zehn Aufsichtsratsmitgliedern der Anteilseigner und der Arbeitnehmer.</LA></DD></DL>Bei den in Satz 1 Nr. 1 bezeichneten Unternehmen kann die Satzung (der Gesellschaftsvertrag) bestimmen, da\u00df Satz 1 Nr. 2 oder 3 anzuwenden ist. Bei den in Satz 1 Nr. 2 bezeichneten Unternehmen kann die Satzung (der Gesellschaftsvertrag) bestimmen, da\u00df Satz 1 Nr. 3 anzuwenden ist.</P><P>(2) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer m\u00fcssen sich befinden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem Aufsichtsrat, dem sechs Aufsichtsratsmitglieder der Arbeitnehmer angeh\u00f6ren, vier Arbeitnehmer des Unternehmens und zwei Vertreter von Gewerkschaften;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem Aufsichtsrat, dem acht Aufsichtsratsmitglieder der Arbeitnehmer angeh\u00f6ren, sechs Arbeitnehmer des Unternehmens und zwei Vertreter von Gewerkschaften;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem Aufsichtsrat, dem zehn Aufsichtsratsmitglieder der Arbeitnehmer angeh\u00f6ren, sieben Arbeitnehmer des Unternehmens und drei Vertreter von Gewerkschaften.</LA></DD></DL></P><P>(3) Unter den Aufsichtsratsmitgliedern der Arbeitnehmer eines in \u00a7 1 Absatz 1 genannten, b\u00f6rsennotierten Unternehmens m\u00fcssen im Fall des \u00a7 96 Absatz 2 Satz 3 des Aktiengesetzes Frauen und M\u00e4nner jeweils mit einem Anteil von mindestens 30 Prozent vertreten sein. Satz 1 gilt auch f\u00fcr ein nicht b\u00f6rsennotiertes Unternehmen mit Mehrheitsbeteiligung des Bundes im Sinne des \u00a7 393a Absatz 1 des Aktiengesetzes oder des \u00a7 77a Absatz 1 des Gesetzes betreffend die Gesellschaften mit beschr\u00e4nkter Haftung.</P><P>(4) Die in Absatz 2 bezeichneten Arbeitnehmer des Unternehmens m\u00fcssen das 18. Lebensjahr vollendet haben und ein Jahr dem Unternehmen angeh\u00f6ren. Auf die einj\u00e4hrige Unternehmensangeh\u00f6rigkeit werden Zeiten der Angeh\u00f6rigkeit zu einem anderen Unternehmen, dessen Arbeitnehmer nach diesem Gesetz an der Wahl von Aufsichtsratsmitgliedern des Unternehmens teilnehmen, angerechnet. Diese Zeiten m\u00fcssen unmittelbar vor dem Zeitpunkt liegen, ab dem die Arbeitnehmer zur Wahl von Aufsichtsratsmitgliedern des Unternehmens berechtigt sind. Die weiteren W\u00e4hlbarkeitsvoraussetzungen des \u00a7 8 Abs. 1 des Betriebsverfassungsgesetzes m\u00fcssen erf\u00fcllt sein.</P><P>(5) Die in Absatz 2 bezeichneten Gewerkschaften m\u00fcssen in dem Unternehmen selbst oder in einem anderen Unternehmen vertreten sein, dessen Arbeitnehmer nach diesem Gesetz an der Wahl von Aufsichtsratsmitgliedern des Unternehmens teilnehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 7 Abs. 1 u. 2: IVm \u00a7 31 mit dem GG vereinbar gem. BVerfGE v. 1.3.1979 I 354 - 1 BvR 532/77, 1 BvR 533/77, 1 BvR 419/78, 1 BvL 21/78 -</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000400319",
+        "name": "Zweiter Abschnitt",
+        "title": "Bestellung der Aufsichtsratsmitglieder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000200319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000500319",
+        "name": "Erster Unterabschnitt",
+        "title": "Aufsichtsratsmitglieder\nder Anteilseigner",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002101308",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000500319"
+        },
+        "body": "<P>(1) Die Aufsichtsratsmitglieder der Anteilseigner werden durch das nach Gesetz, Satzung oder Gesellschaftsvertrag zur Wahl von Mitgliedern des Aufsichtsrats befugte Organ (Wahlorgan) und, soweit gesetzliche Vorschriften dem nicht entgegenstehen, nach Ma\u00dfgabe der Satzung oder des Gesellschaftsvertrags bestellt.</P><P>(2) \u00a7 101 Abs. 2 des Aktiengesetzes bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000600319",
+        "name": "Zweiter Unterabschnitt",
+        "title": "Aufsichtsratsmitglieder\nder Arbeitnehmer, Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002201305",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000600319"
+        },
+        "body": "<P>(1) Die Aufsichtsratsmitglieder der Arbeitnehmer (\u00a7 7 Abs. 2) eines Unternehmens mit in der Regel mehr als 8.000 Arbeitnehmern werden durch Delegierte gew\u00e4hlt, sofern nicht die wahlberechtigten Arbeitnehmer die unmittelbare Wahl beschlie\u00dfen.</P><P>(2) Die Aufsichtsratsmitglieder der Arbeitnehmer (\u00a7 7 Abs. 2) eines Unternehmens mit in der Regel nicht mehr als 8.000 Arbeitnehmern werden in unmittelbarer Wahl gew\u00e4hlt, sofern nicht die wahlberechtigten Arbeitnehmer die Wahl durch Delegierte beschlie\u00dfen.</P><P>(3) Zur Abstimmung dar\u00fcber, ob die Wahl durch Delegierte oder unmittelbar erfolgen soll, bedarf es eines Antrags, der von einem Zwanzigstel der wahlberechtigten Arbeitnehmer des Unternehmens unterzeichnet sein mu\u00df. Die Abstimmung ist geheim. Ein Beschlu\u00df nach Absatz 1 oder 2 kann nur unter Beteiligung von mindestens der H\u00e4lfte der wahlberechtigten Arbeitnehmer und nur mit der Mehrheit der abgegebenen Stimmen gefa\u00dft werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000701305",
+        "name": "Dritter Unterabschnitt",
+        "title": "Wahl der\nAufsichtsratsmitglieder der Arbeitnehmer durch Delegierte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002302308",
+        "name": "\u00a7 10",
+        "title": "Wahl der Delegierten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000701305"
+        },
+        "body": "<P>(1) In jedem Betrieb des Unternehmens w\u00e4hlen die Arbeitnehmer in geheimer Wahl und nach den Grunds\u00e4tzen der Verh\u00e4ltniswahl Delegierte.</P><P>(2) Wahlberechtigt f\u00fcr die Wahl von Delegierten sind die Arbeitnehmer des Unternehmens, die das 18. Lebensjahr vollendet haben. \u00a7 7 Satz 2 des Betriebsverfassungsgesetzes gilt entsprechend.</P><P>(3) Zu Delegierten w\u00e4hlbar sind die in Absatz 2 Satz 1 bezeichneten Arbeitnehmer, die die weiteren W\u00e4hlbarkeitsvoraussetzungen des \u00a7 8 des Betriebsverfassungsgesetzes erf\u00fcllen.</P><P>(4) Wird f\u00fcr einen Wahlgang nur ein Wahlvorschlag gemacht, so gelten die darin aufgef\u00fchrten Arbeitnehmer in der angegebenen Reihenfolge als gew\u00e4hlt. \u00a7 11 Abs. 2 ist anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002403308",
+        "name": "\u00a7 11",
+        "title": "Errechnung der Zahl der Delegierten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000701305"
+        },
+        "body": "<P>(1) In jedem Betrieb entf\u00e4llt auf je 90 wahlberechtigte Arbeitnehmer ein Delegierter. Ergibt die Errechnung nach Satz 1 in einem Betrieb mehr als <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">25 Delegierte, so vermindert sich die Zahl der zu w\u00e4hlenden Delegierten auf die H\u00e4lfte; diese Delegierten erhalten je zwei Stimmen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">50 Delegierte, so vermindert sich die Zahl der zu w\u00e4hlenden Delegierten auf ein Drittel; diese Delegierten erhalten je drei Stimmen;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">75 Delegierte, so vermindert sich die Zahl der zu w\u00e4hlenden Delegierten auf ein Viertel; diese Delegierten erhalten je vier Stimmen;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">100 Delegierte, so vermindert sich die Zahl der zu w\u00e4hlenden Delegierten auf ein F\u00fcnftel; diese Delegierten erhalten je f\u00fcnf Stimmen;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">125 Delegierte, so vermindert sich die Zahl der zu w\u00e4hlenden Delegierten auf ein Sechstel; diese Delegierten erhalten je sechs Stimmen;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">150 Delegierte, so vermindert sich die Zahl der zu w\u00e4hlenden Delegierten auf ein Siebtel; diese Delegierten erhalten je sieben Stimmen.</LA></DD> </DL>Bei der Errechnung der Zahl der Delegierten werden Teilzahlen voll gez\u00e4hlt, wenn sie mindestens die H\u00e4lfte der vollen Zahl betragen.</P><P>(2) Unter den Delegierten m\u00fcssen in jedem Betrieb die in \u00a7 3 Abs. 1 Nr. 1 bezeichneten Arbeitnehmer und die leitenden Angestellten entsprechend ihrem zahlenm\u00e4\u00dfigen Verh\u00e4ltnis vertreten sein. Sind in einem Betrieb mindestens neun Delegierte zu w\u00e4hlen, so entf\u00e4llt auf die in \u00a7 3 Abs. 1 Nr. 1 bezeichneten Arbeitnehmer und die leitenden Angestellten mindestens je ein Delegierter; dies gilt nicht, soweit in dem Betrieb nicht mehr als f\u00fcnf in \u00a7 3 Abs. 1 Nr. 1 bezeichnete Arbeitnehmer oder leitende Angestellte wahlberechtigt sind. Soweit auf die in \u00a7 3 Abs. 1 Nr. 1 bezeichneten Arbeitnehmer und die leitenden Angestellten lediglich nach Satz 2 Delegierte entfallen, vermehrt sich die nach Absatz 1 errechnete Zahl der Delegierten des Betriebs entsprechend.</P><P>(3) Soweit nach Absatz 2 auf die in \u00a7 3 Abs. 1 Nr. 1 bezeichneten Arbeitnehmer und die leitenden Angestellten eines Betriebs nicht mindestens je ein Delegierter entf\u00e4llt, gelten diese f\u00fcr die Wahl der Delegierten als Arbeitnehmer des Betriebs der Hauptniederlassung des Unternehmens. Soweit nach Absatz 2 und nach Satz 1 auf die in \u00a7 3 Abs. 1 Nr. 1 bezeichneten Arbeitnehmer und die leitenden Angestellten des Betriebs der Hauptniederlassung nicht mindestens je ein Delegierter entf\u00e4llt, gelten diese f\u00fcr die Wahl der Delegierten als Arbeitnehmer des nach der Zahl der wahlberechtigten Arbeitnehmer gr\u00f6\u00dften Betriebs des Unternehmens.</P><P>(4) Entf\u00e4llt auf einen Betrieb oder auf ein Unternehmen, dessen Arbeitnehmer nach diesem Gesetz an der Wahl von Aufsichtsratsmitgliedern des Unternehmens teilnehmen, kein Delegierter, so ist Absatz 3 entsprechend anzuwenden.</P><P>(5) Die Eigenschaft eines Delegierten als Delegierter der Arbeitnehmer nach \u00a7 3 Abs. 1 Nr. 1 oder \u00a7 3 Abs. 1 Nr. 2 bleibt bei einem Wechsel der Eigenschaft als Arbeitnehmer nach \u00a7 3 Abs. 1 Nr. 1 oder \u00a7 3 Abs. 1 Nr. 2 erhalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002503308",
+        "name": "\u00a7 12",
+        "title": "Wahlvorschl\u00e4ge f\u00fcr Delegierte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000701305"
+        },
+        "body": "<P>(1) Zur Wahl der Delegierten k\u00f6nnen die wahlberechtigten Arbeitnehmer des Betriebs Wahlvorschl\u00e4ge machen. Jeder Wahlvorschlag muss von einem Zwanzigstel oder 50 der jeweils wahlberechtigten in \u00a7 3 Abs. 1 Nr. 1 bezeichneten Arbeitnehmer oder der leitenden Angestellten des Betriebs unterzeichnet sein.</P><P>(2) Jeder Wahlvorschlag soll mindestens doppelt so viele Bewerber enthalten, wie in dem Wahlgang Delegierte zu w\u00e4hlen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002601305",
+        "name": "\u00a7 13",
+        "title": "Amtszeit der Delegierten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000701305"
+        },
+        "body": "<P>(1) Die Delegierten werden f\u00fcr eine Zeit gew\u00e4hlt, die der Amtszeit der von ihnen zu w\u00e4hlenden Aufsichtsratsmitglieder entspricht. Sie nehmen die ihnen nach den Vorschriften dieses Gesetzes zustehenden Aufgaben und Befugnisse bis zur Einleitung der Neuwahl der Aufsichtsratsmitglieder der Arbeitnehmer wahr.</P><P>(2) In den F\u00e4llen des \u00a7 9 Abs. 1 endet die Amtszeit der Delegierten, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die wahlberechtigten Arbeitnehmer nach \u00a7 9 Abs. 1 die unmittelbare Wahl beschlie\u00dfen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Unternehmen nicht mehr die Voraussetzungen f\u00fcr die Anwendung des \u00a7 9 Abs. 1 erf\u00fcllt, es sei denn, die wahlberechtigten Arbeitnehmer beschlie\u00dfen, da\u00df die Amtszeit bis zu dem in Absatz 1 genannten Zeitpunkt fortdauern soll; \u00a7 9 Abs. 3 ist entsprechend anzuwenden.</LA></DD> </DL> </P><P>(3) In den F\u00e4llen des \u00a7 9 Abs. 2 endet die Amtszeit der Delegierten, wenn die wahlberechtigten Arbeitnehmer die unmittelbare Wahl beschlie\u00dfen; \u00a7 9 Abs. 3 ist anzuwenden.</P><P>(4) Abweichend von Absatz 1 endet die Amtszeit der Delegierten eines Betriebs, wenn nach Eintreten aller Ersatzdelegierten des Wahlvorschlags, dem die zu ersetzenden Delegierten angeh\u00f6ren, die Gesamtzahl der Delegierten des Betriebs unter die im Zeitpunkt ihrer Wahl vorgeschriebene Zahl der auf den Betrieb entfallenden Delegierten gesunken ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002701305",
+        "name": "\u00a7 14",
+        "title": "Vorzeitige Beendigung der Amtszeit oder Verhinderung von\nDelegierten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000701305"
+        },
+        "body": "<P>(1) Die Amtszeit eines Delegierten endet vor dem in \u00a7 13 bezeichneten Zeitpunkt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Niederlegung des Amtes,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Beendigung der Besch\u00e4ftigung des Delegierten in dem Betrieb, dessen Delegierter er ist,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Verlust der W\u00e4hlbarkeit.</LA></DD> </DL> </P><P>(2) Endet die Amtszeit eines Delegierten vorzeitig oder ist er verhindert, so tritt an seine Stelle ein Ersatzdelegierter. Die Ersatzdelegierten werden der Reihe nach aus den nicht gew\u00e4hlten Arbeitnehmern derjenigen Wahlvorschl\u00e4ge entnommen, denen die zu ersetzenden Delegierten angeh\u00f6ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002804308",
+        "name": "\u00a7 15",
+        "title": "Wahl der unternehmensangeh\u00f6rigen Aufsichtsratsmitglieder\nder Arbeitnehmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000701305"
+        },
+        "body": "<P>(1) Die Delegierten w\u00e4hlen die Aufsichtsratsmitglieder, die nach \u00a7 7 Abs. 2 Arbeitnehmer des Unternehmens sein m\u00fcssen, geheim und nach den Grunds\u00e4tzen der Verh\u00e4ltniswahl f\u00fcr die Zeit, die im Gesetz oder in der Satzung (im Gesellschaftsvertrag) f\u00fcr die durch das Wahlorgan der Anteilseigner zu w\u00e4hlenden Mitglieder des Aufsichtsrats bestimmt ist. Dem Aufsichtsrat muss ein leitender Angestellter angeh\u00f6ren.</P><P>(2) Die Wahl erfolgt auf Grund von Wahlvorschl\u00e4gen. Jeder Wahlvorschlag f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufsichtsratsmitglieder der Arbeitnehmer nach \u00a7 3 Abs. 1 Nr. 1 muss von einem F\u00fcnftel oder 100 der wahlberechtigten Arbeitnehmer des Unternehmens unterzeichnet sein;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Aufsichtsratsmitglied der leitenden Angestellten wird auf Grund von Abstimmungsvorschl\u00e4gen durch Beschlu\u00df der wahlberechtigten leitenden Angestellten aufgestellt. Jeder Abstimmungsvorschlag mu\u00df von einem Zwanzigstel oder 50 der wahlberechtigten leitenden Angestellten unterzeichnet sein. Der Beschlu\u00df wird in geheimer Abstimmung gefa\u00dft. Jeder leitende Angestellte hat so viele Stimmen, wie f\u00fcr den Wahlvorschlag nach Absatz 3 Satz 2 Bewerber zu benennen sind. In den Wahlvorschlag ist die nach Absatz 3 Satz 2 vorgeschriebene Anzahl von Bewerbern in der Reihenfolge der auf sie entfallenden Stimmenzahlen aufzunehmen.</LA></DD> </DL> </P><P>(3) Abweichend von Absatz 1 findet Mehrheitswahl statt, soweit nur ein Wahlvorschlag gemacht wird. In diesem Fall muss der Wahlvorschlag doppelt so viele Bewerber enthalten, wie Aufsichtsratsmitglieder auf die Arbeitnehmer nach \u00a7 3 Abs. 1 Nr. 1 und auf die leitenden Angestellten entfallen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE002903119",
+        "name": "\u00a7 16",
+        "title": "Wahl der Vertreter von Gewerkschaften in den Aufsichtsrat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000701305"
+        },
+        "body": "<P>(1) Die Delegierten w\u00e4hlen die Aufsichtsratsmitglieder, die nach \u00a7 7 Abs. 2 Vertreter von Gewerkschaften sind, in geheimer Wahl und nach den Grunds\u00e4tzen der Verh\u00e4ltniswahl f\u00fcr die in \u00a7 15 Abs. 1 bestimmte Zeit.</P><P>(2) Die Wahl erfolgt auf Grund von Wahlvorschl\u00e4gen der Gewerkschaften, die in dem Unternehmen selbst oder in einem anderen Unternehmen vertreten sind, dessen Arbeitnehmer nach diesem Gesetz an der Wahl von Aufsichtsratsmitgliedern des Unternehmens teilnehmen. Wird nur ein Wahlvorschlag gemacht, so findet abweichend von Absatz 1 Mehrheitswahl statt. In diesem Fall mu\u00df der Wahlvorschlag mindestens doppelt so viele Bewerber enthalten, wie Vertreter von Gewerkschaften in den Aufsichtsrat zu w\u00e4hlen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003002119",
+        "name": "\u00a7 17",
+        "title": "Ersatzmitglieder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000701305"
+        },
+        "body": "<P>(1) In jedem Wahlvorschlag kann zusammen mit jedem Bewerber f\u00fcr diesen ein Ersatzmitglied des Aufsichtsrats vorgeschlagen werden. F\u00fcr einen Bewerber, der Arbeitnehmer nach \u00a7 3 Abs. 1 Nr. 1 ist, kann nur ein Arbeitnehmer nach \u00a7 3 Abs. 1 Nr. 1 und f\u00fcr einen leitenden Angestellten nach \u00a7 3 Abs. 1 Nr. 2 nur ein leitender Angestellter als Ersatzmitglied vorgeschlagen werden. Ein Bewerber kann nicht zugleich als Ersatzmitglied vorgeschlagen werden.</P><P>(2) Wird ein Bewerber als Aufsichtsratsmitglied gew\u00e4hlt, so ist auch das zusammen mit ihm vorgeschlagene Ersatzmitglied gew\u00e4hlt.</P><P>(3) Im Fall des \u00a7 96 Absatz 2 Satz 3 des Aktiengesetzes ist das Nachr\u00fccken eines Ersatzmitgliedes ausgeschlossen, wenn dadurch der Anteil von Frauen und M\u00e4nnern unter den Aufsichtsratsmitgliedern der Arbeitnehmer nicht mehr den Vorgaben des \u00a7 7 Absatz 3 entspricht; \u00a7 18a Absatz 2 Satz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG005500319",
+        "name": "Vierter Unterabschnitt",
+        "title": "Unmittelbare Wahl der\nAufsichtsratsmitglieder der Arbeitnehmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003102308",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG005500319"
+        },
+        "body": "<P>Sind nach \u00a7 9 die Aufsichtsratsmitglieder der Arbeitnehmer in unmittelbarer Wahl zu w\u00e4hlen, so sind die Arbeitnehmer des Unternehmens, die das 18. Lebensjahr vollendet haben, wahlberechtigt. \u00a7 7 Satz 2 des Betriebsverfassungsgesetzes gilt entsprechend. F\u00fcr die Wahl sind die \u00a7\u00a7 15 bis 17 mit der Ma\u00dfgabe anzuwenden, da\u00df an die Stelle der Delegierten die wahlberechtigten Arbeitnehmer des Unternehmens treten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG005600119",
+        "name": "F\u00fcnfter Unterabschnitt",
+        "title": "Nichterreichen des Geschlechteranteils durch die Wahl",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE005500119",
+        "name": "\u00a7 18a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG005600119"
+        },
+        "body": "<P>(1) Ergibt im Fall des \u00a7 96 Absatz 2 Satz 3 des Aktiengesetzes die Ausz\u00e4hlung der Stimmen und ihre Verteilung auf die Bewerber, dass die Vorgaben des \u00a7 7 Absatz 3 nicht erreicht worden sind, ist folgendes Geschlechterverh\u00e4ltnis f\u00fcr die Aufsichtsratssitze der Arbeitnehmer herzustellen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>in Aufsichtsr\u00e4ten nach \u00a7 7 Absatz 2 Nummer 1 und 2 m\u00fcssen unter den Aufsichtsratsmitgliedern der Arbeitnehmer nach \u00a7 3 Absatz 1 Nummer 1 jeweils mindestens eine Frau und mindestens ein Mann und unter den Aufsichtsratsmitgliedern der Gewerkschaften jeweils eine Frau und ein Mann vertreten sein;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in einem Aufsichtsrat nach \u00a7 7 Absatz 2 Nummer 3 m\u00fcssen unter den Aufsichtsratsmitgliedern der Arbeitnehmer nach \u00a7 3 Absatz 1 Nummer 1 mindestens zwei Frauen und mindestens zwei M\u00e4nner und unter den Aufsichtsratsmitgliedern der Gewerkschaften eine Frau und ein Mann vertreten sein.</LA></DD></DL></P><P>(2) Um die Verteilung der Geschlechter nach Absatz 1 zu erreichen, ist die Wahl derjenigen Bewerber um einen Aufsichtsratssitz der Arbeitnehmer unwirksam, deren Geschlecht in dem jeweiligen Wahlgang nach der Verteilung der Stimmen auf die Bewerber mehrheitlich vertreten ist und die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei einer Mehrheitswahl in dem jeweiligen Wahlgang nach der Reihenfolge der auf die Bewerber entfallenden Stimmenzahlen die niedrigsten Stimmenzahlen erhalten haben oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei einer Verh\u00e4ltniswahl in dem jeweiligen Wahlgang nach der Reihenfolge der auf die Bewerber entfallenden H\u00f6chstzahlen die niedrigsten H\u00f6chstzahlen erhalten haben.</LA></DD></DL>Die durch unwirksame Wahl nach Satz 1 nicht besetzten Aufsichtsratssitze werden im Wege der gerichtlichen Ersatzbestellung nach \u00a7 104 des Aktiengesetzes oder der Nachwahl besetzt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000801119",
+        "name": "Sechster Unterabschnitt",
+        "title": "Weitere Vorschriften \u00fcber das Wahlverfahren sowie \u00fcber die Bestellung und Abberufung von Aufsichtsratsmitgliedern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003203140",
+        "name": "\u00a7 19",
+        "title": "Bekanntmachung der Mitglieder des Aufsichtsrats",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000801119"
+        },
+        "body": "<P>Das zur gesetzlichen Vertretung des Unternehmens befugte Organ hat die Namen der Mitglieder und der Ersatzmitglieder des Aufsichtsrats unverz\u00fcglich nach ihrer Bestellung in den Betrieben des Unternehmens bekanntzumachen und im Bundesanzeiger zu ver\u00f6ffentlichen. Nehmen an der Wahl der Aufsichtsratsmitglieder des Unternehmens auch die Arbeitnehmer eines anderen Unternehmens teil, so ist daneben das zur gesetzlichen Vertretung des anderen Unternehmens befugte Organ zur Bekanntmachung in seinen Betrieben verpflichtet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003300319",
+        "name": "\u00a7 20",
+        "title": "Wahlschutz und Wahlkosten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000801119"
+        },
+        "body": "<P>(1) Niemand darf die Wahlen nach den \u00a7\u00a7 10, 15, 16 und 18 behindern. Insbesondere darf niemand in der Aus\u00fcbung des aktiven und passiven Wahlrechts beschr\u00e4nkt werden.</P><P>(2) Niemand darf die Wahlen durch Zuf\u00fcgung oder Androhung von Nachteilen oder durch Gew\u00e4hrung oder Versprechen von Vorteilen beeinflussen.</P><P>(3) Die Kosten der Wahlen tr\u00e4gt das Unternehmen. Vers\u00e4umnis von Arbeitszeit, die zur Aus\u00fcbung des Wahlrechts oder der Bet\u00e4tigung im Wahlvorstand erforderlich ist, berechtigt den Arbeitgeber nicht zur Minderung des Arbeitsentgelts.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003402308",
+        "name": "\u00a7 21",
+        "title": "Anfechtung der Wahl von Delegierten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000801119"
+        },
+        "body": "<P>(1) Die Wahl der Delegierten eines Betriebs kann beim Arbeitsgericht angefochten werden, wenn gegen wesentliche Vorschriften \u00fcber das Wahlrecht, die W\u00e4hlbarkeit oder das Wahlverfahren versto\u00dfen worden und eine Berichtigung nicht erfolgt ist, es sei denn, da\u00df durch den Versto\u00df das Wahlergebnis nicht ge\u00e4ndert oder beeinflu\u00dft werden konnte.</P><P>(2) Zur Anfechtung berechtigt sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens drei wahlberechtigte Arbeitnehmer des Betriebs,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Betriebsrat,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Sprecherausschuss,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das zur gesetzlichen Vertretung des Unternehmens befugte Organ.</LA></DD> </DL>Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Bekanntgabe des Wahlergebnisses an gerechnet, zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003503140",
+        "name": "\u00a7 22",
+        "title": "Anfechtung der Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000801119"
+        },
+        "body": "<P>(1) Die Wahl eines Aufsichtsratsmitglieds oder eines Ersatzmitglieds der Arbeitnehmer kann beim Arbeitsgericht angefochten werden, wenn gegen wesentliche Vorschriften \u00fcber das Wahlrecht, die W\u00e4hlbarkeit oder das Wahlverfahren versto\u00dfen worden und eine Berichtigung nicht erfolgt ist, es sei denn, da\u00df durch den Versto\u00df das Wahlergebnis nicht ge\u00e4ndert oder beeinflu\u00dft werden konnte.</P><P>(2) Zur Anfechtung berechtigt sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens drei wahlberechtigte Arbeitnehmer des Unternehmens,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Gesamtbetriebsrat des Unternehmens oder, wenn in dem Unternehmen nur ein Betriebsrat besteht, der Betriebsrat sowie, wenn das Unternehmen herrschendes Unternehmen eines Konzerns ist, der Konzernbetriebsrat, soweit ein solcher besteht,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Gesamt- oder Unternehmenssprecherausschuss des Unternehmens oder, wenn in dem Unternehmen nur ein Sprecherausschuss besteht, der Sprecherausschuss sowie, wenn das Unternehmen herrschendes Unternehmen eines Konzerns ist, der Konzernsprecherausschuss, soweit ein solcher besteht,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Gesamtbetriebsrat eines anderen Unternehmens, dessen Arbeitnehmer nach diesem Gesetz an der Wahl der Aufsichtsratsmitglieder des Unternehmens teilnehmen, oder, wenn in dem anderen Unternehmen nur ein Betriebsrat besteht, der Betriebsrat,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Gesamt- oder Unternehmenssprecherausschuss eines anderen Unternehmens, dessen Arbeitnehmer nach diesem Gesetz an der Wahl der Aufsichtsratsmitglieder des Unternehmens teilnehmen, oder, wenn in dem anderen Unternehmen nur ein Sprecherausschuss besteht, der Sprecherausschuss,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">jede nach \u00a7 16 Abs. 2 vorschlagsberechtigte Gewerkschaft,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">das zur gesetzlichen Vertretung des Unternehmens befugte Organ.</LA></DD></DL>Die Anfechtung ist nur binnen einer Frist von zwei Wochen, vom Tag der Ver\u00f6ffentlichung im Bundesanzeiger an gerechnet, zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003602308",
+        "name": "\u00a7 23",
+        "title": "Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000801119"
+        },
+        "body": "<P>(1) Ein Aufsichtsratsmitglied der Arbeitnehmer kann vor Ablauf der Amtszeit auf Antrag abberufen werden. Antragsberechtigt sind f\u00fcr die Abberufung eines <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufsichtsratsmitglieds der Arbeitnehmer nach \u00a7 3 Abs. 1 Nr. 1 drei Viertel der wahlberechtigten Arbeitnehmer nach \u00a7 3 Abs. 1 Nr. 1,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufsichtsratsmitglieds der leitenden Angestellten drei Viertel der wahlberechtigten leitenden Angestellten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufsichtsratsmitglieds, das nach \u00a7 7 Abs. 2 Vertreter einer Gewerkschaft ist, die Gewerkschaft, die das Mitglied vorgeschlagen hat.</LA></DD> </DL> </P><P>(2) Ein durch Delegierte gew\u00e4hltes Aufsichtsratsmitglied wird durch Beschlu\u00df der Delegierten abberufen. Dieser Beschluss wird in geheimer Abstimmung gefasst; er bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen.</P><P>(3) Ein von den Arbeitnehmern unmittelbar gew\u00e4hltes Aufsichtsratsmitglied wird durch Beschlu\u00df der wahlberechtigten Arbeitnehmer abberufen. Dieser Beschluss wird in geheimer, unmittelbarer Abstimmung gefasst; er bedarf einer Mehrheit von drei Vierteln der abgegebenen Stimmen.</P><P>(4) Die Abs\u00e4tze 1 bis 3 sind f\u00fcr die Abberufung von Ersatzmitgliedern entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003701308",
+        "name": "\u00a7 24",
+        "title": "Verlust der W\u00e4hlbarkeit und \u00c4nderung\nder Zuordnung unternehmensangeh\u00f6riger\nAufsichtsratsmitglieder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000801119"
+        },
+        "body": "<P>(1) Verliert ein Aufsichtsratsmitglied, das nach \u00a7 7 Abs. 2 Arbeitnehmer des Unternehmens sein mu\u00df, die W\u00e4hlbarkeit, so erlischt sein Amt.</P><P>(2) Die \u00c4nderung der Zuordnung eines Aufsichtsratsmitglieds zu den in \u00a7 3 Abs. 1 Nr. 1 oder \u00a7 3 Abs. 1 Nr. 2 genannten Arbeitnehmern f\u00fchrt nicht zum Erl\u00f6schen seines Amtes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG000900319",
+        "name": "Dritter Abschnitt",
+        "title": "Innere Ordnung, Rechte und\nPflichten des Aufsichtsrats",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000200319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003804308",
+        "name": "\u00a7 25",
+        "title": "Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000900319"
+        },
+        "body": "<P>(1) Die innere Ordnung, die Beschlu\u00dffassung sowie die Rechte und Pflichten des Aufsichtsrats bestimmen sich nach den \u00a7\u00a7 27 bis 29, den \u00a7\u00a7 31 und 32 und, soweit diese Vorschriften dem nicht entgegenstehen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Aktiengesellschaften und Kommanditgesellschaften auf Aktien nach dem Aktiengesetz,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Gesellschaften mit beschr\u00e4nkter Haftung nach \u00a7 90 Abs. 3, 4 und 5 Satz 1 und 2, den \u00a7\u00a7 107 bis 116, 118 Abs. 3, \u00a7 125 Abs. 3 und 4 und den \u00a7\u00a7 170, 171 und 268 Abs. 2 des Aktiengesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Genossenschaften nach dem Genossenschaftsgesetz..</LA></DD></DL>\u00a7 4 Abs. 2 des Gesetzes \u00fcber die \u00dcberf\u00fchrung der Anteilsrechte an der Volkswagenwerk Gesellschaft mit beschr\u00e4nkter Haftung in private Hand vom 21. Juli 1960 (Bundesgesetzbl. I S. 585), zuletzt ge\u00e4ndert durch das Zweite Gesetz zur \u00c4nderung des Gesetzes \u00fcber die \u00dcberf\u00fchrung der Anteilsrechte an der Volkswagenwerk Gesellschaft mit beschr\u00e4nkter Haftung in private Hand vom 31. Juli 1970 (Bundesgesetzbl. I S. 1149), bleibt unber\u00fchrt.</P><P>(2) Andere gesetzliche Vorschriften und Bestimmungen der Satzung (des Gesellschaftsvertrags) oder der Gesch\u00e4ftsordnung des Aufsichtsrats \u00fcber die innere Ordnung, die Beschlu\u00dffassung sowie die Rechte und Pflichten des Aufsichtsrats bleiben unber\u00fchrt, soweit Absatz 1 dem nicht entgegensteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE003900319",
+        "name": "\u00a7 26",
+        "title": "Schutz von Aufsichtsratsmitgliedern vor Benachteiligung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000900319"
+        },
+        "body": "<P>Aufsichtsratsmitglieder der Arbeitnehmer d\u00fcrfen in der Aus\u00fcbung ihrer T\u00e4tigkeit nicht gest\u00f6rt oder behindert werden. Sie d\u00fcrfen wegen ihrer T\u00e4tigkeit im Aufsichtsrat eines Unternehmens, dessen Arbeitnehmer sie sind oder als dessen Arbeitnehmer sie nach \u00a7 4 oder \u00a7 5 gelten, nicht benachteiligt werden. Dies gilt auch f\u00fcr ihre berufliche Entwicklung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004000319",
+        "name": "\u00a7 27",
+        "title": "Vorsitz im Aufsichtsrat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000900319"
+        },
+        "body": "<P>(1) Der Aufsichtsrat w\u00e4hlt mit einer Mehrheit von zwei Dritteln der Mitglieder, aus denen er insgesamt zu bestehen hat, aus seiner Mitte einen Aufsichtsratsvorsitzenden und einen Stellvertreter.</P><P>(2) Wird bei der Wahl des Aufsichtsratsvorsitzenden oder seines Stellvertreters die nach Absatz 1 erforderliche Mehrheit nicht erreicht, so findet f\u00fcr die Wahl des Aufsichtsratsvorsitzenden und seines Stellvertreters ein zweiter Wahlgang statt. In diesem Wahlgang w\u00e4hlen die Aufsichtsratsmitglieder der Anteilseigner den Aufsichtsratsvorsitzenden und die Aufsichtsratsmitglieder der Arbeitnehmer den Stellvertreter jeweils mit der Mehrheit der abgegebenen Stimmen.</P><P>(3) Unmittelbar nach der Wahl des Aufsichtsratsvorsitzenden und seines Stellvertreters bildet der Aufsichtsrat zur Wahrnehmung der in \u00a7 31 Abs. 3 Satz 1 bezeichneten Aufgabe einen Ausschu\u00df, dem der Aufsichtsratsvorsitzende, sein Stellvertreter sowie je ein von den Aufsichtsratsmitgliedern der Arbeitnehmer und von den Aufsichtsratsmitgliedern der Anteilseigner mit der Mehrheit der abgegebenen Stimmen gew\u00e4hltes Mitglied angeh\u00f6ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004100319",
+        "name": "\u00a7 28",
+        "title": "Beschlu\u00dff\u00e4higkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000900319"
+        },
+        "body": "<P>Der Aufsichtsrat ist nur beschlu\u00dff\u00e4hig, wenn mindestens die H\u00e4lfte der Mitglieder, aus denen er insgesamt zu bestehen hat, an der Beschlu\u00dffassung teilnimmt. \u00a7 108 Abs. 2 Satz 4 des Aktiengesetzes ist anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004200319",
+        "name": "\u00a7 29",
+        "title": "Abstimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG000900319"
+        },
+        "body": "<P>(1) Beschl\u00fcsse des Aufsichtsrats bed\u00fcrfen der Mehrheit der abgegebenen Stimmen, soweit nicht in Absatz 2 und in den \u00a7\u00a7 27, 31 und 32 etwas anderes bestimmt ist.</P><P>(2) Ergibt eine Abstimmung im Aufsichtsrat Stimmengleichheit, so hat bei einer erneuten Abstimmung \u00fcber denselben Gegenstand, wenn auch sie Stimmengleichheit ergibt, der Aufsichtsratsvorsitzende zwei Stimmen. \u00a7 108 Abs. 3 des Aktiengesetzes ist auch auf die Abgabe der zweiten Stimme anzuwenden. Dem Stellvertreter steht die zweite Stimme nicht zu.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG001000319",
+        "name": "Dritter Teil",
+        "title": "Gesetzliches Vertretungsorgan",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004300319",
+        "name": "\u00a7 30",
+        "title": "Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001000319"
+        },
+        "body": "<P>Die Zusammensetzung, die Rechte und Pflichten des zur gesetzlichen Vertretung des Unternehmens befugten Organs sowie die Bestellung seiner Mitglieder bestimmen sich nach den f\u00fcr die Rechtsform des Unternehmens geltenden Vorschriften, soweit sich aus den \u00a7\u00a7 31 bis 33 nichts anderes ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004400319",
+        "name": "\u00a7 31",
+        "title": "Bestellung und Widerruf",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001000319"
+        },
+        "body": "<P>(1) Die Bestellung der Mitglieder des zur gesetzlichen Vertretung des Unternehmens befugten Organs und der Widerruf der Bestellung bestimmen sich nach den \u00a7\u00a7 84 und 85 des Aktiengesetzes, soweit sich nicht aus den Abs\u00e4tzen 2 bis 5 etwas anderes ergibt. Dies gilt nicht f\u00fcr Kommanditgesellschaften auf Aktien.</P><P>(2) Der Aufsichtsrat bestellt die Mitglieder des zur gesetzlichen Vertretung des Unternehmens befugten Organs mit einer Mehrheit, die mindestens zwei Drittel der Stimmen seiner Mitglieder umfa\u00dft.</P><P>(3) Kommt eine Bestellung nach Absatz 2 nicht zustande, so hat der in \u00a7 27 Abs. 3 bezeichnete Ausschu\u00df des Aufsichtsrats innerhalb eines Monats nach der Abstimmung, in der die in Absatz 2 vorgeschriebene Mehrheit nicht erreicht worden ist, dem Aufsichtsrat einen Vorschlag f\u00fcr die Bestellung zu machen; dieser Vorschlag schlie\u00dft andere Vorschl\u00e4ge nicht aus. Der Aufsichtsrat bestellt die Mitglieder des zur gesetzlichen Vertretung des Unternehmens befugten Organs mit der Mehrheit der Stimmen seiner Mitglieder.</P><P>(4) Kommt eine Bestellung nach Absatz 3 nicht zustande, so hat bei einer erneuten Abstimmung der Aufsichtsratsvorsitzende zwei Stimmen; Absatz 3 Satz 2 ist anzuwenden. Auf die Abgabe der zweiten Stimme ist \u00a7 108 Abs. 3 des Aktiengesetzes anzuwenden. Dem Stellvertreter steht die zweite Stimme nicht zu.</P><P>(5) Die Abs\u00e4tze 2 bis 4 sind f\u00fcr den Widerruf der Bestellung eines Mitglieds des zur gesetzlichen Vertretung des Unternehmens befugten Organs entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004501308",
+        "name": "\u00a7 32",
+        "title": "Aus\u00fcbung von Beteiligungsrechten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001000319"
+        },
+        "body": "<P>(1) Die einem Unternehmen, in dem die Arbeitnehmer nach diesem Gesetz ein Mitbestimmungsrecht haben, auf Grund von Beteiligungen an einem anderen Unternehmen, in dem die Arbeitnehmer nach diesem Gesetz ein Mitbestimmungsrecht haben, zustehenden Rechte bei der Bestellung, dem Widerruf der Bestellung oder der Entlastung von Verwaltungstr\u00e4gern sowie bei der Beschlu\u00dffassung \u00fcber die Aufl\u00f6sung oder Umwandlung des anderen Unternehmens, den Abschlu\u00df von Unternehmensvertr\u00e4gen (\u00a7\u00a7 291, 292 des Aktiengesetzes) mit dem anderen Unternehmen, \u00fcber dessen Fortsetzung nach seiner Aufl\u00f6sung oder \u00fcber die \u00dcbertragung seines Verm\u00f6gens k\u00f6nnen durch das zur gesetzlichen Vertretung des Unternehmens befugte Organ nur auf Grund von Beschl\u00fcssen des Aufsichtsrats ausge\u00fcbt werden. Diese Beschl\u00fcsse bed\u00fcrfen nur der Mehrheit der Stimmen der Aufsichtsratsmitglieder der Anteilseigner; sie sind f\u00fcr das zur gesetzlichen Vertretung des Unternehmens befugte Organ verbindlich.</P><P>(2) Absatz 1 ist nicht anzuwenden, wenn die Beteiligung des Unternehmens an dem anderen Unternehmen weniger als ein Viertel betr\u00e4gt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004601308",
+        "name": "\u00a7 33",
+        "title": "Arbeitsdirektor",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001000319"
+        },
+        "body": "<P>(1) Als gleichberechtigtes Mitglied des zur gesetzlichen Vertretung des Unternehmens befugten Organs wird ein Arbeitsdirektor bestellt. Dies gilt nicht f\u00fcr Kommanditgesellschaften auf Aktien.</P><P>(2) Der Arbeitsdirektor hat wie die \u00fcbrigen Mitglieder des zur gesetzlichen Vertretung des Unternehmens befugten Organs seine Aufgaben im engsten Einvernehmen mit dem Gesamtorgan auszu\u00fcben. Das N\u00e4here bestimmt die Gesch\u00e4ftsordnung.</P><P>(3) Bei Genossenschaften ist auf den Arbeitsdirektor \u00a7 9 Abs. 2 des Genossenschaftsgesetzes nicht anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG001100319",
+        "name": "Vierter Teil",
+        "title": "Seeschiffahrt",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004703308",
+        "name": "\u00a7 34",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001100319"
+        },
+        "body": "<P>(1) Die Gesamtheit der Schiffe eines Unternehmens gilt f\u00fcr die Anwendung dieses Gesetzes als ein Betrieb.</P><P>(2) Schiffe im Sinne dieses Gesetzes sind Kauffahrteischiffe, die nach dem Flaggenrechtsgesetz die Bundesflagge f\u00fchren. Schiffe, die in der Regel binnen 48 Stunden nach dem Auslaufen an den Sitz eines Landbetriebs zur\u00fcckkehren, gelten als Teil dieses Landbetriebs.</P><P>(3) Leitende Angestellte im Sinne des \u00a7 3 Abs. 1 Nr. 2 dieses Gesetzes sind in einem in Absatz 1 bezeichneten Betrieb nur die Kapit\u00e4ne.</P><P>(4) Die Arbeitnehmer eines in Absatz 1 bezeichneten Betriebs nehmen an einer Abstimmung nach \u00a7 9 nicht teil und bleiben f\u00fcr die Errechnung der f\u00fcr die Antragstellung und f\u00fcr die Beschlu\u00dffassung erforderlichen Zahl von Arbeitnehmern au\u00dfer Betracht.</P><P>(5) Werden die Aufsichtsratsmitglieder der Arbeitnehmer durch Delegierte gew\u00e4hlt, so werden abweichend von \u00a7 10 in einem in Absatz 1 bezeichneten Betrieb keine Delegierten gew\u00e4hlt. Abweichend von \u00a7 15 Abs. 1 nehmen die Arbeitnehmer dieses Betriebs unmittelbar an der Wahl der Aufsichtsratsmitglieder der Arbeitnehmer teil mit der Ma\u00dfgabe, da\u00df die Stimme eines dieser Arbeitnehmer als ein Neunzigstel der Stimme eines Delegierten zu z\u00e4hlen ist; \u00a7 11 Abs. 1 Satz 3 ist entsprechend anzuwenden.</P><P>(6) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR011530976BJNG001200319",
+        "name": "F\u00fcnfter Teil",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004801308",
+        "name": "\u00a7 35",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001200319"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE004901308",
+        "name": "\u00a7 36",
+        "title": "Verweisungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001200319"
+        },
+        "body": "<P>(1) Soweit in anderen Vorschriften auf Vorschriften des Betriebsverfassungsgesetzes 1952 \u00fcber die Vertretung der Arbeitnehmer in den Aufsichtsr\u00e4ten von Unternehmen verwiesen wird, gelten diese Verweisungen f\u00fcr die in \u00a7 1 Abs. 1 dieses Gesetzes bezeichneten Unternehmen als Verweisungen auf dieses Gesetz.</P><P>(2) <I>Soweit in anderen Vorschriften f\u00fcr das Gesetz \u00fcber die Mitbestimmung der Arbeitnehmer in den Aufsichtsr\u00e4ten und Vorst\u00e4nden der Unternehmen des Bergbaus und der Eisen und Stahl erzeugenden Industrie vom 21. Mai 1951 (Bundesgesetzbl. I S. 347) die Bezeichnung \"Mitbestimmungsgesetz\" verwendet wird, tritt an ihre Stelle die Bezeichnung \"Montan-Mitbestimmungsgesetz\".</I></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE005002308",
+        "name": "\u00a7 37",
+        "title": "Erstmalige Anwendung des Gesetzes auf ein Unternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001200319"
+        },
+        "body": "<P>(1) Andere als die in \u00a7 97 Abs. 2 Satz 2 des Aktiengesetzes bezeichneten Bestimmungen der Satzung (des Gesellschaftsvertrags), die mit den Vorschriften dieses Gesetzes nicht vereinbar sind, treten mit dem in \u00a7 97 Abs. 2 Satz 2 des Aktiengesetzes bezeichneten Zeitpunkt oder, im Fall einer gerichtlichen Entscheidung, mit dem in \u00a7 98 Abs. 4 Satz 2 des Aktiengesetzes bezeichneten Zeitpunkt au\u00dfer Kraft. Eine Hauptversammlung (Gesellschafterversammlung, Generalversammlung), die bis zu diesem Zeitpunkt stattfindet, kann an Stelle der au\u00dfer Kraft tretenden Satzungsbestimmungen mit einfacher Mehrheit neue Satzungsbestimmungen beschlie\u00dfen.</P><P>(2) Die \u00a7\u00a7 25 bis 29, 31 bis 33 sind erstmalig anzuwenden, wenn der Aufsichtsrat nach den Vorschriften dieses Gesetzes zusammengesetzt ist.</P><P>(3) Die Bestellung eines vor dem Inkrafttreten dieses Gesetzes bestellten Mitglieds des zur gesetzlichen Vertretung befugten Organs eines Unternehmens, auf das dieses Gesetz bereits bei seinem Inkrafttreten anzuwenden ist, kann, sofern die Amtszeit dieses Mitglieds nicht aus anderen Gr\u00fcnden fr\u00fcher endet, nach Ablauf von f\u00fcnf Jahren seit dem Inkrafttreten dieses Gesetzes von dem nach diesem Gesetz gebildeten Aufsichtsrat jederzeit widerrufen werden. F\u00fcr den Widerruf bedarf es der Mehrheit der abgegebenen Stimmen der Aufsichtsratsmitglieder, aller Stimmen der Aufsichtsratsmitglieder der Anteilseigner oder aller Stimmen der Aufsichtsratsmitglieder der Arbeitnehmer. F\u00fcr die Anspr\u00fcche aus dem Anstellungsvertrag gelten die allgemeinen Vorschriften. Bis zum Widerruf bleiben f\u00fcr diese Mitglieder Satzungsbestimmungen \u00fcber die Amtszeit abweichend von Absatz 1 Satz 1 in Kraft. Diese Vorschriften sind entsprechend anzuwenden, wenn dieses Gesetzes auf ein Unternehmen erst nach dem Zeitpunkt des Inkrafttretens dieses Gesetzes erstmalig anzuwenden ist.</P><P>(4) Absatz 3 gilt nicht f\u00fcr pers\u00f6nlich haftende Gesellschafter einer Kommanditgesellschaft auf Aktien.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE005101308",
+        "name": "\u00a7 38",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001200319"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE005203119",
+        "name": "\u00a7 39",
+        "title": "Erm\u00e4chtigung zum Erla\u00df von Rechtsverordnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001200319"
+        },
+        "body": "<P>Die Bundesregierung wird erm\u00e4chtigt, durch Rechtsverordnung Vorschriften \u00fcber das Verfahren f\u00fcr die Wahl und die Abberufung von Aufsichtsratsmitgliedern der Arbeitnehmer zu erlassen, insbesondere \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vorbereitung der Wahl oder Abstimmung, die Bestellung der Wahlvorst\u00e4nde und Abstimmungsvorst\u00e4nde sowie die Aufstellung der W\u00e4hlerlisten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abstimmungen dar\u00fcber, ob die Wahl der Aufsichtsratsmitglieder in unmittelbarer Wahl oder durch Delegierte erfolgen soll,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Frist f\u00fcr die Einsichtnahme in die W\u00e4hlerlisten und die Erhebung von Einspr\u00fcchen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Errechnung der Zahl der Aufsichtsratsmitglieder der Arbeitnehmer sowie ihre Verteilung auf die in \u00a7 3 Abs. 1 Nr. 1 bezeichneten Arbeitnehmer, die leitenden Angestellten und die Gewerkschaftsvertreter sowie das Verfahren zur Ber\u00fccksichtigung der Geschlechter,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Errechnung der Zahl der Delegierten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Wahlvorschl\u00e4ge und die Frist f\u00fcr ihre Einreichung,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausschreibung der Wahl oder der Abstimmung und die Fristen f\u00fcr die Bekanntmachung des Ausschreibens,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Teilnahme von Arbeitnehmern eines in \u00a7 34 Abs. 1 bezeichneten Betriebs an Wahlen und Abstimmungen,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Stimmabgabe,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Feststellung des Ergebnisses der Wahl oder der Abstimmung und die Fristen f\u00fcr seine Bekanntmachung,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufbewahrung der Wahlakten und der Abstimmungsakten.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE005304126",
+        "name": "\u00a7 40",
+        "title": "\u00dcbergangsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001200319"
+        },
+        "body": "<P>(1) Auf Wahlen von Aufsichtsratsmitgliedern der Arbeitnehmer, die bis einschlie\u00dflich 31. M\u00e4rz 2022 abgeschlossen sind, ist dieses Gesetz in der bis zum 11. August 2021 geltenden Fassung anzuwenden.</P><P>(2) Eine Wahl von Aufsichtsratsmitgliedern der Arbeitnehmer gilt als abgeschlossen, wenn die Bekanntmachung der Mitglieder des Aufsichtsrates nach \u00a7 19 Satz 1 durch das zur gesetzlichen Vertretung des Unternehmens befugte Organ erfolgt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011530976BJNE005400319",
+        "name": "\u00a7 41",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR011530976BJNG001200319"
+        },
+        "body": "<P>Dieses Gesetz tritt am 1. Juli 1976 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

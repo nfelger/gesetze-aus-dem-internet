@@ -1,0 +1,587 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR103100002",
+    "firstPublished": "2002-03-06",
+    "sourceTimestamp": "20210902213521",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber die Laufbahn, Ausbildung und Pr\u00fcfung f\u00fcr den mittleren feuerwehrtechnischen Dienst in der Bundeswehr",
+    "abbreviation": "LAP-mftDBwV",
+    "slug": "lap_mftdbwv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2002, 1031",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 59 G v. 20.8.2021 I 3932",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.5.2002 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE004100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 15 Abs. 1 Nr. 2 des Bundesbeamtengesetzes in der Fassung der Bekanntmachung vom 31. M\u00e4rz 1999 (BGBl. I S. 675) in Verbindung mit \u00a7 2 Abs. 4 der Bundeslaufbahnverordnung in der Fassung der Bekanntmachung vom 8. M\u00e4rz 1990 (BGBl. I S. 449, 863), der durch Artikel 1 Nr. 1 Buchstabe b der Verordnung vom 15. April 1999 (BGBl. I S. 706) neu gefasst worden ist, verordnet das Bundesministerium der Verteidigung im Einvernehmen mit dem Bundesministerium des Innern:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000101377",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" colsep=\"0\" rowsep=\"0\">\n\t\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"10*\" />\n\t\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"70*\" />\n\t\t\t<tbody valign=\"top\">\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Kapitel 1</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Laufbahn und Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 1</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Laufbahn\u00e4mter</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 2</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ziel der Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 3</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einstellungsbeh\u00f6rden</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 4</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einstellungsvoraussetzungen</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 5</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausschreibung, Bewerbung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 6</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Auswahlverfahren</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 7</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einstellung in den Vorbereitungsdienst</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 8</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Rechtsstellung w\u00e4hrend des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 9</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Dauer, Verk\u00fcrzung und Verl\u00e4ngerung des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 10</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Urlaub w\u00e4hrend des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 11</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausbildungsakte</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 12</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gliederung des Vorbereitungsdienstes</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 13</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Dienstf\u00fchrerschein der Bundeswehr, Einweisungs- und \u00dcberpr\u00fcfungsfahrt, Standortverwaltung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 14</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Feuerwehrtechnischer Grundlehrgang</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 15</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Praktische Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 16</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verwaltungslehrgang</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 17</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abschlusslehrgang</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 18</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und Ausbilder</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 19</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Leistungsnachweise w\u00e4hrend der fachtheoretischen Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 20</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bewertungen w\u00e4hrend der praktischen Ausbildung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Kapitel 2</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Pr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 21</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pr\u00fcfungsamt</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 22</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pr\u00fcfungskommission</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 23</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Laufbahnpr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 24</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pr\u00fcfungsort, Pr\u00fcfungstermin</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 25</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Praktische Pr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 26</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zulassung zur schriftlichen Pr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 27</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Schriftliche Pr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 28</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zulassung zur m\u00fcndlichen Pr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 29</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">M\u00fcndliche Pr\u00fcfung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 30</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verhinderung, R\u00fccktritt, S\u00e4umnis</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 31</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">T\u00e4uschung, Ordnungsversto\u00df</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 32</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bewertung von Pr\u00fcfungsleistungen</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 33</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gesamtergebnis</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 34</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zeugnis</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 35</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pr\u00fcfungsakten, Einsichtnahme</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 36</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wiederholung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Kapitel 3</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Sonstige Vorschriften</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 37</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anderweitige Zuerkennung der Laufbahnbef\u00e4higung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 38</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbergangsregelung</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 39</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Inkrafttreten</entry>\n\t\t\t\t</row>\n\t\t\t</tbody>\n\t\t</tgroup>\n\t</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR103100002BJNG000100000",
+        "name": "Kapitel 1",
+        "title": "Laufbahn und Ausbildung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Laufbahn\u00e4mter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Die Laufbahn des mittleren feuerwehrtechnischen Dienstes der Bundeswehr umfasst den Vorbereitungsdienst, die Probezeit und alle \u00c4mter dieser Laufbahn.</P><P>(2) Die Beamtinnen und Beamten f\u00fchren in der Laufbahn folgende Dienst- und Amtsbezeichnungen: <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"50*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"30*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Brandmeisteranw\u00e4rterin/ Brandmeisteranw\u00e4rter</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">im Vorbereitungsdienst,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Brandmeisterin zur Anstellung (z. A.)/ Brandmeister zur Anstellung (z. A.)</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">in der Probezeit bis zur Anstellung,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Brandmeisterin/ Brandmeister</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">im Eingangsamt,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Oberbrandmeisterin/ Oberbrandmeister</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">im ersten Bef\u00f6rderungsamt und</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Hauptbrandmeisterin/ Hauptbrandmeister</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">im zweiten Bef\u00f6rderungsamt.</entry></row></tbody></tgroup></table></P><P>(3) Die \u00c4mter der Laufbahn sind regelm\u00e4\u00dfig zu durchlaufen.</P><P>(4) Voraussetzung f\u00fcr die Besetzung der Dienstposten einer Leiterin oder eines Leiters, einer Wachabteilungsleiterin oder eines Wachabteilungsleiters, einer Zugf\u00fchrerin oder eines Zugf\u00fchrers einer Bundeswehr-Feuerwehr sowie einer entsprechenden Stabsdienstfunktion des mittleren feuerwehrtechnischen Dienstes ist die erfolgreiche Teilnahme an einem einschl\u00e4gigen Fortbildungslehrgang.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Ziel der Ausbildung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Die Ausbildung f\u00fchrt zur Berufsbef\u00e4higung. Sie vermittelt den Beamtinnen und Beamten die berufliche Grundbildung, die sie zur Aufgabenerf\u00fcllung in ihrer Laufbahn ben\u00f6tigen. Die Beamtinnen und Beamten werden auf ihre Verantwortung im demokratischen und sozialen Rechtsstaat vorbereitet und auf die Bedeutung einer stabilen gesetzestreuen Verwaltung f\u00fcr die freiheitliche demokratische Grundordnung hingewiesen. Bedeutung und Auswirkungen des europ\u00e4ischen Einigungsprozesses werden ber\u00fccksichtigt; die Beamtinnen und Beamten erwerben europaspezifische Kenntnisse. Allgemeine berufliche F\u00e4higkeiten, insbesondere zur Kommunikation und Zusammenarbeit, zum kritischen \u00dcberpr\u00fcfen des eigenen Handelns und zum selbst\u00e4ndigen und wirtschaftlichen Handeln sowie soziale Kompetenz sind zu f\u00f6rdern.</P><P>(2) Die Beamtinnen und Beamten werden bef\u00e4higt, sich eigenst\u00e4ndig weiterzubilden. Sie sind zum Selbststudium verpflichtet; das Selbststudium ist zu f\u00f6rdern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Einstellungsbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>Einstellungsbeh\u00f6rden sind die Wehrbereichsverwaltungen. Ihnen obliegen die Ausschreibung, die Durchf\u00fchrung des Auswahlverfahrens, die Einstellung und die Betreuung der Anw\u00e4rterinnen und Anw\u00e4rter; sie treffen die Entscheidungen \u00fcber Verk\u00fcrzung und Verl\u00e4ngerung des Vorbereitungsdienstes. Sie sind die f\u00fcr die beamtenrechtlichen Entscheidungen zust\u00e4ndigen Dienstbeh\u00f6rden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000501310",
+        "name": "\u00a7 4",
+        "title": "Einstellungsvoraussetzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>In den Vorbereitungsdienst kann eingestellt werden, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die gesetzlichen Voraussetzungen f\u00fcr die Berufung in das Bundesbeamtenverh\u00e4ltnis erf\u00fcllt und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens den erfolgreichen Besuch einer Hauptschule und eine f\u00f6rderliche abgeschlossene Berufsausbildung (Gesellenpr\u00fcfung, Meisterpr\u00fcfung, Abschlusspr\u00fcfung als staatlich gepr\u00fcfter Techniker) oder einen als gleichwertig anerkannten Bildungsstand nachweisen kann.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Ausschreibung, Bewerbung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Bewerberinnen und Bewerber werden durch Stellenausschreibung ermittelt.</P><P>(2) Bewerbungen sind an die Wehrbereichsverwaltungen zu richten. Der Bewerbung sind beizuf\u00fcgen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein tabellarischer Lebenslauf,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Lichtbild, das nicht \u00e4lter als sechs Monate sein soll,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ablichtung des letzten Schulzeugnisses oder des Nachweises eines gleichwertigen Bildungsstandes,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ablichtungen der Zeugnisse \u00fcber die T\u00e4tigkeiten seit der Schulentlassung sowie der Zeugnisse \u00fcber abgelegte Pr\u00fcfungen sowie</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">gegebenenfalls<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ablichtung des Zulassungs- oder Eingliederungsscheins oder der Best\u00e4tigung nach \u00a7 10 Abs. 4 des Soldatenversorgungsgesetzes und</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ablichtungen der Zeugnisse, die bei Beendigung des Grundwehrdienstes und \u00fcber Wehr\u00fcbungen erteilt wurden.</LA></DD> </DL></LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Auswahlverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Vor der Entscheidung \u00fcber die Einstellung in den Vorbereitungsdienst wird in einem Auswahlverfahren festgestellt, ob die Bewerberinnen und Bewerber auf Grund ihrer Kenntnisse, F\u00e4higkeiten und pers\u00f6nlichen Eigenschaften f\u00fcr die \u00dcbernahme in den Vorbereitungsdienst der Laufbahn geeignet sind.</P><P>(2) Zum Auswahlverfahren wird zugelassen, wer nach den eingereichten Unterlagen die in der Ausschreibung genannten Voraussetzungen erf\u00fcllt. \u00dcbersteigt die Zahl dieser Bewerberinnen und Bewerber das Dreifache der Zahl der Ausbildungspl\u00e4tze, kann die Zahl der am Auswahlverfahren Teilnehmenden bis auf das Dreifache der Zahl der Ausbildungspl\u00e4tze beschr\u00e4nkt werden. Dabei wird zugelassen, wer nach den eingereichten Unterlagen, insbesondere bei Ber\u00fccksichtigung der in den ausbildungsrelevanten F\u00e4chern erzielten Zeugnisnoten, am besten geeignet erscheint. Ehemalige Soldatinnen und Soldaten auf Zeit mit Eingliederungs- oder Zulassungsschein werden, wenn sie die in der Ausschreibung genannten Voraussetzungen erf\u00fcllen, grunds\u00e4tzlich zum Auswahlverfahren zugelassen. Frauen und M\u00e4nner werden in einem ausgewogenen Verh\u00e4ltnis ber\u00fccksichtigt.</P><P>(3) Wer nicht zum Auswahlverfahren zugelassen wird, erh\u00e4lt von den Wehrbereichsverwaltungen die Bewerbungsunterlagen mit einer schriftlichen Ablehnung zur\u00fcck.</P><P>(4) Das Auswahlverfahren wird bei den Wehrbereichsverwaltungen von einer unabh\u00e4ngigen Auswahlkommission durchgef\u00fchrt und besteht aus einem praktischen, einem schriftlichen und einem m\u00fcndlichen Teil.</P><P>(5) Die Auswahlkommission besteht aus <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Beamtin oder einem Beamten des h\u00f6heren allgemeinen Verwaltungsdienstes oder des h\u00f6heren technischen Dienstes in der Bundeswehrverwaltung als Vorsitzender oder Vorsitzendem,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Beamtin oder einem Beamten des gehobenen feuerwehrtechnischen Dienstes der Bundeswehr oder des gehobenen technischen Dienstes in der Bundeswehrverwaltung als Beisitzender oder Beisitzendem und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Beamtin oder einem Beamten des gehobenen oder mittleren feuerwehrtechnischen Dienstes der Bundeswehr als Beisitzender oder Beisitzendem.</LA></DD> </DL>Die Mitglieder sind unabh\u00e4ngig und an Weisungen nicht gebunden. Die Auswahlkommission entscheidet \u00fcber die Eignung mit Stimmenmehrheit. Stimmenthaltung ist nicht zul\u00e4ssig. Bei Bedarf k\u00f6nnen mehrere Kommissionen eingerichtet werden; gleiche Auswahlma\u00dfst\u00e4be sind sicherzustellen. Ersatzmitglieder sind in hinreichender Zahl zu bestellen.</P><P>(6) Die Auswahlkommission bewertet die Ergebnisse und legt f\u00fcr jedes Auswahlverfahren eine Rangfolge der geeigneten Bewerberinnen und Bewerber fest. Sind mehrere Kommissionen eingerichtet, wird eine Rangfolge aller Bewerberinnen und Bewerber festgelegt. Absatz 3 gilt entsprechend.</P><P>(7) Die Wehrbereichsverwaltungen bestellen die Mitglieder und Ersatzmitglieder der Auswahlkommission f\u00fcr die Dauer von drei Jahren; eine Wiederbestellung ist zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000802310",
+        "name": "\u00a7 7",
+        "title": "Einstellung in den Vorbereitungsdienst",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Die Wehrbereichsverwaltungen entscheiden nach dem Ergebnis des Auswahlverfahrens \u00fcber die Einstellung von Bewerberinnen und Bewerbern.</P><P>(2) Vor der Einstellung haben die Bewerberinnen und Bewerber folgende weitere Unterlagen beizubringen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein amts\u00e4rztliches Gesundheitszeugnis oder ein Gesundheitszeugnis einer beamteten Vertrauens\u00e4rztin oder eines beamteten Vertrauensarztes oder einer Personal\u00e4rztin oder eines Personalarztes aus neuester Zeit, in dem auch zur Beamtendienst-, Feuerwehrdienst- und Atemschutztauglichkeit sowie der Kraftfahrverwendungsf\u00e4higkeit in der Bundeswehr Stellung genommen wird,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Ausfertigung der Geburtsurkunde, auf Verlangen auch einen Nachweis der Staatsangeh\u00f6rigkeit,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">gegebenenfalls eine Ausfertigung der Eheurkunde und Ausfertigungen der Geburtsurkunden der Kinder,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein F\u00fchrungszeugnis nach \u00a7 30 des Bundeszentralregistergesetzes zur unmittelbaren Vorlage bei der Einstellungsbeh\u00f6rde,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Erkl\u00e4rung der Bewerberin oder des Bewerbers dar\u00fcber, ob sie oder er<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem Ermittlungs- oder sonstigen Strafverfahren beschuldigt wird und</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">in geordneten wirtschaftlichen Verh\u00e4ltnissen lebt,</LA></DD> </DL></LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">beglaubigte Ablichtungen der Fahrerlaubnis f\u00fcr Bundeswehrkraftfahrzeuge und Leistungsnachweise \u00fcber sportliche Leistungen sowie</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Erste-Hilfe-Bescheinigung zum Dienstf\u00fchrerschein der Bundeswehr.</LA></DD> </DL>Die Kosten des Gesundheitszeugnisses tragen die Wehrbereichsverwaltungen. Anstelle der Kosten\u00fcbernahme kann die Bundeswehrverwaltung die Einstellungsuntersuchung selbst vornehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Rechtsstellung w\u00e4hrend des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Mit ihrer Einstellung werden - unter Berufung in das Beamtenverh\u00e4ltnis auf Widerruf - Bewerberinnen zu Brandmeisteranw\u00e4rterinnen und Bewerber zu Brandmeisteranw\u00e4rtern ernannt.</P><P>(2) Die Anw\u00e4rterinnen und Anw\u00e4rter unterstehen der Dienstaufsicht der Einstellungsbeh\u00f6rde. W\u00e4hrend der Ausbildung an der Zentralen Ausbildungsst\u00e4tte Brandschutz der Bundeswehr und an einer Bundeswehrverwaltungsschule unterstehen sie auch deren Dienstaufsicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001002310",
+        "name": "\u00a7 9",
+        "title": "Dauer, Verk\u00fcrzung und Verl\u00e4ngerung des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Der Vorbereitungsdienst dauert 18 Monate.</P><P>(2) Eine Verk\u00fcrzung des Vorbereitungsdienstes nach \u00a7 16 Absatz 1 der Bundeslaufbahnverordnung ist nur zul\u00e4ssig, wenn das Erreichen des Ausbildungsziels nicht gef\u00e4hrdet erscheint. Dabei k\u00f6nnen der zielgerechten Gestaltung des Vorbereitungsdienstes entsprechende Abweichungen vom Ausbildungsplan zugelassen werden. Die Anw\u00e4rterinnen und Anw\u00e4rter sollen der Ausbildung jedoch nicht innerhalb zusammenh\u00e4ngender Ausbildungsabschnitte entzogen werden.</P><P>(3) Wird die Ausbildung wegen einer Erkrankung oder aus anderen zwingenden Gr\u00fcnden unterbrochen, k\u00f6nnen Ausbildungsabschnitte verk\u00fcrzt oder verl\u00e4ngert und Abweichungen vom Ausbildungsplan zugelassen werden, um eine zielgerechte Fortsetzung des Vorbereitungsdienstes zu erm\u00f6glichen.</P><P>(4) Der Vorbereitungsdienst ist im Einzelfall zu verl\u00e4ngern, wenn die Ausbildung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen einer Erkrankung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen eines Besch\u00e4ftigungsverbots f\u00fcr die Zeit vor oder nach einer Entbindung nach mutterschutzrechtlichen Vorschriften oder wegen einer Elternzeit,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Ableistung des Grundwehrdienstes oder eines Ersatzdienstes oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus anderen zwingenden Gr\u00fcnden</LA></DD></DL>unterbrochen worden und bei Verk\u00fcrzung von Ausbildungsabschnitten die zielgerechte Fortsetzung des Vorbereitungsdienstes nicht gew\u00e4hrleistet ist.</P><P>(5) Der Vorbereitungsdienst kann - nach Anh\u00f6rung der Anw\u00e4rterinnen und Anw\u00e4rter - in den F\u00e4llen des Absatzes 4 Nr. 1 und 4 h\u00f6chstens zweimal um nicht mehr als insgesamt zw\u00f6lf Monate verl\u00e4ngert werden. Die Verl\u00e4ngerung soll so bemessen werden, dass die Laufbahnpr\u00fcfung zusammen mit den Anw\u00e4rterinnen und Anw\u00e4rtern, die zu einem sp\u00e4teren Zeitpunkt eingestellt worden sind, abgelegt werden kann.</P><P>(6) Bei Nichtbestehen der Laufbahnpr\u00fcfung richtet sich die Verl\u00e4ngerung des Vorbereitungsdienstes nach \u00a7 36.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Urlaub w\u00e4hrend des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>Urlaub wird auf den Vorbereitungsdienst angerechnet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Ausbildungsakte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>F\u00fcr die Anw\u00e4rterinnen und Anw\u00e4rter sind Personalteilakten \"Ausbildung\" zu f\u00fchren, in die der Ausbildungsplan, alle Leistungsnachweise und Bewertungen sowie eine Ausfertigung des Pr\u00fcfungszeugnisses aufzunehmen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001301377",
+        "name": "\u00a7 12",
+        "title": "Gliederung des Vorbereitungsdienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Der Vorbereitungsdienst gliedert sich in folgende Abschnitte: <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" colsep=\"0\" rowsep=\"0\">\n\t\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"55*\" />\n\t\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"15*\" />\n\t\t\t<tbody valign=\"top\">\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Erster Ausbildungsabschnitt</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erwerb des Dienstf\u00fchrerscheins der Bundeswehr BE/CE,</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einweisungs- und \u00dcberpr\u00fcfungsfahrt und</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">c)</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einweisung bei einer Standortverwaltung</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">2 1/2 Monate,</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Zweiter Ausbildungsabschnitt feuerwehrtechnischer Grundlehrgang an der Zentralen Ausbildungsst\u00e4tte Brandschutz der Bundeswehr</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">5 1/2 Monate,</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Dritter Ausbildungsabschnitt praktische Ausbildung bei Dienststellen mit Bundeswehrfeuerwehren und Berufsfeuerwehren der Kommunalbeh\u00f6rden</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">6 Monate,</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Vierter Ausbildungsabschnitt Verwaltungslehrgang an einer Bundeswehrverwaltungsschule</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">1 Monat und</entry>\n\t\t\t\t</row>\n\t\t\t\t<row>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5.</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">F\u00fcnfter Ausbildungsabschnitt Abschlusslehrgang an der Zentralen Ausbildungsst\u00e4tte Brandschutz der Bundeswehr</entry>\n\t\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">3 Monate.</entry>\n\t\t\t\t</row>\n\t\t\t</tbody>\n\t\t</tgroup>\n\t</table> <BR />Die Reihenfolge des dritten und vierten Ausbildungsabschnitts kann ge\u00e4ndert werden. Der Verwaltungslehrgang kann in Unterbrechung der praktischen Ausbildung durchgef\u00fchrt werden.</P><P>(2) Die Anw\u00e4rterinnen und Anw\u00e4rter sollen im Rahmen der k\u00f6rperlichen Schulung das Deutsche Sportabzeichen und das Deutsche Rettungsschwimmabzeichen in Bronze erwerben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001401377",
+        "name": "\u00a7 13",
+        "title": "Dienstf\u00fchrerschein der Bundeswehr, Einweisungs- und \u00dcberpr\u00fcfungsfahrt,\nStandortverwaltung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Anw\u00e4rterinnen und Anw\u00e4rter, die nicht im Besitz des Dienstf\u00fchrerscheins der Bundeswehr BE/CE sind, m\u00fcssen diese vor dem feuerwehrtechnischen Grundlehrgang erwerben. F\u00fcr Anw\u00e4rterinnen und Anw\u00e4rter, die den Dienstf\u00fchrerschein der Bundeswehr auch in der Wiederholungspr\u00fcfung nicht erworben haben, endet das Beamtenverh\u00e4ltnis auf Widerruf mit Ablauf des Tages der schriftlichen Bekanntgabe des Pr\u00fcfungsergebnisses.</P><P>(2) W\u00e4hrend der Einweisungsfahrten werden die Anw\u00e4rterinnen und Anw\u00e4rter mit den Dienstfahrzeugen der Bundeswehrfeuerwehren vertraut gemacht. Ausbildungsinhalt ist die sachgem\u00e4\u00dfe Bedienung der Fahrzeuge. Sie schlie\u00dft die theoretische Einweisung, die Einweisung in den technischen Dienst und die praktische Einweisung einschlie\u00dflich des Fahrens im Gel\u00e4nde ein. Die \u00dcberpr\u00fcfungsfahrt dient der Bef\u00e4higungsfeststellung.</P><P>(3) W\u00e4hrend der Einweisung bei der Standortverwaltung werden die Anw\u00e4rterinnen und Anw\u00e4rter mit den Aufgaben und Zust\u00e4ndigkeiten der einzelnen Bereiche sowie deren Zusammenarbeit mit den Nutzern und der Feuerwehr vertraut gemacht. Dar\u00fcber hinaus werden Kenntnisse in Bezug auf die Beschaffung und Verwaltung von liegenschaftsgebundenem Brandschutzger\u00e4t vermittelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "Feuerwehrtechnischer Grundlehrgang",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) Im feuerwehrtechnischen Grundlehrgang werden die Anw\u00e4rterinnen und Anw\u00e4rter als Truppfrau oder Truppmann und Truppf\u00fchrerin oder Truppf\u00fchrer zur Rettung von Menschen und Tieren aus lebensbedrohlichen Lagen, zur Brandbek\u00e4mpfung und f\u00fcr die technische Hilfeleistung ausgebildet. Dabei werden ihnen die einsatztaktischen und einsatztechnischen Grunds\u00e4tze der Brandbek\u00e4mpfung, die Funktion und der Einsatz der Rettungsger\u00e4te sowie Kenntnisse der Fahrzeugtechnik und des feuerl\u00f6schtechnischen Aufbaus der Feuerl\u00f6sch-Kraftfahrzeuge vermittelt. Einzelheiten regelt der Lehrplan.</P><P>(2) Die Anw\u00e4rterinnen und Anw\u00e4rter sollen am Ende des Lehrgangs \u00fcber ein Grundwissen verf\u00fcgen, auf dem die weitere Ausbildung aufbaut.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "Praktische Ausbildung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) In der praktischen Ausbildung werden die Anw\u00e4rterinnen und Anw\u00e4rter mit allen Grundlagen der Zusammenarbeit innerhalb der milit\u00e4rischen Dienststellen und der Feuerwachen sowie dem Zusammenwirken mit anderen Organisationseinheiten vertraut gemacht. Die praktische Ausbildung ist insbesondere auf die Vermittlung praxisorientierter Kenntnisse, Fertigkeiten und F\u00e4higkeiten ausgerichtet. Dar\u00fcber hinaus werden die im feuerwehrtechnischen Grundlehrgang erworbenen Kenntnisse durch praktische \u00dcbungen und Einsatzaufgaben in den anzuwendenden Einsatztechniken vertieft. Einzelheiten regelt der Ausbildungsplan.</P><P>(2) T\u00e4tigkeiten, die nicht dem Ziel der Ausbildung entsprechen, d\u00fcrfen den Anw\u00e4rterinnen und Anw\u00e4rtern nicht \u00fcbertragen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001700000",
+        "name": "\u00a7 16",
+        "title": "Verwaltungslehrgang",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>Im Verwaltungslehrgang werden die Anw\u00e4rterinnen und Anw\u00e4rter mit den gesetzlichen Bestimmungen und Verwaltungsvorschriften, die bei der Erf\u00fcllung ihrer k\u00fcnftigen Aufgaben einschl\u00e4gig sind, vertraut gemacht. Einzelheiten regelt der Lehrplan.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001801377",
+        "name": "\u00a7 17",
+        "title": "Abschlusslehrgang",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>Im Abschlusslehrgang werden die Anw\u00e4rterinnen und Anw\u00e4rter so ausgebildet, dass sie eine taktische Einheit bis zur Staffelst\u00e4rke im Einsatz selbst\u00e4ndig f\u00fchren k\u00f6nnen, Sonderaufgaben im Innendienst wahrnehmen k\u00f6nnen und Grundkenntnisse \u00fcber die Aufgaben der taktischen Einheiten bis zur Zugst\u00e4rke besitzen. Einzelheiten regelt der Lehrplan.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE001900000",
+        "name": "\u00a7 18",
+        "title": "Ausbildungsleitung, Ausbildungsbeauftragte, Ausbilderinnen und\nAusbilder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) In jeder Einstellungsbeh\u00f6rde wird eine Beamtin oder ein Beamter als Ausbildungsleitung bestellt. Die Ausbildungsleitung lenkt und \u00fcberwacht die Ausbildung der Anw\u00e4rterinnen und Anw\u00e4rter.</P><P>(2) Bei den Streitkr\u00e4ften und dem Bundesamt f\u00fcr Wehrtechnik und Beschaffung werden Beamtinnen oder Beamte beziehungsweise Soldatinnen oder Soldaten als Ausbildungsbeauftragte bestellt, die die Ausbildungsleitung fachlich unterst\u00fctzen. Soweit erforderlich, werden die Ausbildungsbeauftragten von anderen Dienstgesch\u00e4ften entlastet. Sie \u00fcberwachen die Ausbildung der Anw\u00e4rterinnen und Anw\u00e4rter ihres Bereichs und stellen eine sorgf\u00e4ltige Ausbildung sicher. Die Ausbildungsbeauftragten f\u00fchren regelm\u00e4\u00dfig Besprechungen mit den Anw\u00e4rterinnen und Anw\u00e4rtern und den Ausbilderinnen und Ausbildern durch und beraten sie in Fragen der Ausbildung. Die Ausbildungsbeauftragten unterrichten die Ausbildungsleitung regelm\u00e4\u00dfig \u00fcber den erreichten Ausbildungsstand.</P><P>(3) Den Ausbilderinnen und Ausbildern d\u00fcrfen nicht mehr Anw\u00e4rterinnen und Anw\u00e4rter zugewiesen werden, als sie mit Sorgfalt ausbilden k\u00f6nnen. Soweit erforderlich, werden sie von anderen Dienstgesch\u00e4ften entlastet. Die Anw\u00e4rterinnen und Anw\u00e4rter werden am Arbeitsplatz unterwiesen.</P><P>(4) Vor Beginn der Ausbildung erstellt die Ausbildungsleitung f\u00fcr jede Anw\u00e4rterin und jeden Anw\u00e4rter einen Ausbildungsplan, aus dem sich die Ausbildungsstationen ergeben; die Anw\u00e4rterinnen und Anw\u00e4rter erhalten eine Ausfertigung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002002116",
+        "name": "\u00a7 19",
+        "title": "Leistungsnachweise w\u00e4hrend der fachtheoretischen Ausbildung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) W\u00e4hrend des feuerwehrtechnischen Grundlehrgangs sind drei schriftliche Arbeiten von jeweils drei Stunden Dauer aus dem Gebiet des Brandschutzes zu fertigen und zwei Arbeitsproben von jeweils 30 Minuten Dauer zu erbringen.</P><P>(2) W\u00e4hrend des Verwaltungslehrgangs sind zwei schriftliche Arbeiten von je drei Stunden Dauer aus dem Gebiet Allgemeine Rechts- und Verwaltungsgrundlagen zu fertigen.</P><P>(3) W\u00e4hrend des Abschlusslehrgangs sind zwei schriftliche Arbeiten von je drei Stunden Dauer aus dem Gebiet des Brandschutzes zu fertigen und zwei praktische Anfahr\u00fcbungen von jeweils 30 Minuten Dauer durchzuf\u00fchren.</P><P>(4) Jeder Leistungsnachweis wird mindestens eine Woche vor der Ausf\u00fchrung angek\u00fcndigt. Der Leistungsnachweis wird von der oder dem jeweiligen Lehrenden nach \u00a7 32 bewertet und schriftlich oder elektronisch best\u00e4tigt; Art des Nachweises, Rangpunkt und Note werden angegeben. Die Anw\u00e4rterinnen und Anw\u00e4rter erhalten eine Ausfertigung der Best\u00e4tigung. Die schriftlichen Arbeiten sind in allen Lehrgangsklassen zum gleichen Zeitpunkt und mit einheitlicher Themenstellung zu fertigen. F\u00fcr die Arbeiten ist ein einheitlicher Bewertungsma\u00dfstab festzulegen.</P><P>(5) F\u00fcr die Arbeitsproben und praktischen \u00dcbungen gilt Absatz 4 entsprechend.</P><P>(6) Wer an einem Leistungsnachweis nicht teilnehmen und ihn nicht innerhalb des jeweiligen Lehrgangs nachholen kann, erh\u00e4lt Gelegenheit, den Leistungsnachweis zu einem sp\u00e4teren Zeitpunkt der Ausbildung zu erbringen. Wird der Leistungsnachweis nicht bis zum ersten Tag der praktischen Pr\u00fcfung (\u00a7 25) erbracht, gilt er als mit \"ungen\u00fcgend\" (Rangpunkt 0) bewertet.</P><P>(7) Zum Abschluss des jeweiligen Lehrgangs werden in einem Zeugnis, das mit der Angabe der nach \u00a7 32 Abs. 1 Satz 2 ermittelten Durchschnittsrangpunktzahl schlie\u00dfen muss, die Leistungen der Anw\u00e4rterinnen und Anw\u00e4rter festgestellt. Dabei werden die Leistungen der drei schriftlichen Arbeiten und der zwei Arbeitsproben w\u00e4hrend des feuerwehrtechnischen Grundlehrgangs mit jeweils 20 vom Hundert bewertet. Die w\u00e4hrend des Abschlusslehrgangs zu erbringenden zwei schriftlichen Arbeiten werden mit jeweils 20 vom Hundert und die zwei praktischen \u00dcbungen mit jeweils 30 vom Hundert bewertet. Die Anw\u00e4rterinnen und Anw\u00e4rter erhalten eine Ausfertigung des jeweiligen Zeugnisses.</P><P>(8) Bei Verhinderung, R\u00fccktritt, S\u00e4umnis, T\u00e4uschungshandlungen und Ordnungsverst\u00f6\u00dfen sind die \u00a7\u00a7 30 und 31 entsprechend anzuwenden. \u00dcber die Folgen entscheidet die Stelle, die die Aufgabe des Leistungsnachweises bestimmt hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002101116",
+        "name": "\u00a7 20",
+        "title": "Bewertungen w\u00e4hrend der praktischen Ausbildung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000100000"
+        },
+        "body": "<P>(1) \u00dcber die Leistungen und den Bef\u00e4higungsstand der Anw\u00e4rterinnen und Anw\u00e4rter w\u00e4hrend der praktischen Ausbildung wird f\u00fcr jedes Ausbildungsgebiet, dem die Anw\u00e4rterinnen und Anw\u00e4rter nach dem Ausbildungsrahmenplan mindestens drei Wochen zugewiesen werden, eine schriftliche oder elektronische Bewertung nach \u00a7 32 abgegeben.</P><P>(2) Die Bewertung nach Absatz 1 wird auf der Grundlage eines Entwurfs mit den Anw\u00e4rterinnen und Anw\u00e4rtern besprochen. Sie ist den Anw\u00e4rterinnen und Anw\u00e4rtern zu er\u00f6ffnen. Diese erhalten eine Ausfertigung der Bewertung und k\u00f6nnen zu ihr schriftlich oder elektronisch Stellung nehmen.</P><P>(3) Zum Abschluss der praktischen Ausbildung erstellt die Ausbildungsleitung ein zusammenfassendes Zeugnis, das die Bewertungen nach Absatz 1 auff\u00fchrt. Dieses schlie\u00dft mit der Angabe der nach \u00a7 32 Abs. 1 Satz 2 ermittelten Durchschnittsrangpunktzahl. Die Anw\u00e4rterinnen und Anw\u00e4rter erhalten eine Ausfertigung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR103100002BJNG000200000",
+        "name": "Kapitel 2",
+        "title": "Pr\u00fcfung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002200000",
+        "name": "\u00a7 21",
+        "title": "Pr\u00fcfungsamt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Dem beim Bundesministerium der Verteidigung eingerichteten Pr\u00fcfungsamt obliegt die Durchf\u00fchrung der Laufbahnpr\u00fcfung; es tr\u00e4gt Sorge f\u00fcr die Entwicklung und gleichm\u00e4\u00dfige Anwendung der Bewertungsma\u00dfst\u00e4be und vollzieht die Entscheidungen der Pr\u00fcfungskommission.</P><P>(2) Die Aufgaben des Pr\u00fcfungsamtes k\u00f6nnen ganz oder teilweise auf andere Beh\u00f6rden \u00fcbertragen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002300000",
+        "name": "\u00a7 22",
+        "title": "Pr\u00fcfungskommission",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Die Laufbahnpr\u00fcfung wird vor einer Pr\u00fcfungskommission abgelegt; f\u00fcr die praktische, schriftliche und m\u00fcndliche Pr\u00fcfung k\u00f6nnen gesonderte Pr\u00fcfungskommissionen eingerichtet werden. Es k\u00f6nnen mehrere Pr\u00fcfungskommissionen eingerichtet werden, wenn die Zahl der zu pr\u00fcfenden Anw\u00e4rterinnen und Anw\u00e4rter und die Zeitplanung zum fristgem\u00e4\u00dfen Abschluss der Pr\u00fcfung oder fachliche Gesichtspunkte in Bezug auf die Bewertung der schriftlichen Pr\u00fcfungsarbeiten es erfordern; die gleichm\u00e4\u00dfige Anwendung der Bewertungsma\u00dfst\u00e4be muss gew\u00e4hrleistet sein. Die Mitglieder und Ersatzmitglieder der Pr\u00fcfungskommissionen bestellt das Pr\u00fcfungsamt; die Spitzenorganisationen der Gewerkschaften und Berufsverb\u00e4nde des \u00f6ffentlichen Dienstes k\u00f6nnen Mitglieder vorschlagen. Die Mitglieder und Ersatzmitglieder werden f\u00fcr die Dauer von h\u00f6chstens drei Jahren bestellt. Eine Wiederbestellung ist zul\u00e4ssig.</P><P>(2) Mitglieder einer Pr\u00fcfungskommission sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die praktische Pr\u00fcfung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des h\u00f6heren feuerwehrtechnischen Dienstes, des h\u00f6heren allgemeinen Verwaltungsdienstes oder des gehobenen feuerwehrtechnischen Dienstes als Vorsitzende oder Vorsitzender,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des gehobenen feuerwehrtechnischen Dienstes als Beisitzende oder Beisitzender und</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des mittleren feuerwehrtechnischen Dienstes als Beisitzende oder Beisitzender,</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die schriftliche Pr\u00fcfung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Bewertung der schriftlichen Arbeit aus dem Pr\u00fcfungsgebiet Allgemeine Rechts- und Verwaltungsgrundlagen<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des gehobenen nichttechnischen Verwaltungsdienstes als Vorsitzende oder Vorsitzender und</LA></DD> <DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens eine Beamtin oder ein Beamter des gehobenen nichttechnischen Verwaltungsdienstes als Beisitzende oder Beisitzender und</LA></DD> </DL></LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Bewertung der schriftlichen Arbeiten aus den Pr\u00fcfungsgebieten Allgemeine mathematische und naturwissenschaftlich-technische Grundlagen und Brandschutz<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des h\u00f6heren oder gehobenen feuerwehrtechnischen Dienstes als Vorsitzende oder als Vorsitzender und</LA></DD> <DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens eine Beamtin oder ein Beamter des gehobenen feuerwehrtechnischen Dienstes als Beisitzende oder Beisitzender sowie</LA></DD> </DL></LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die m\u00fcndliche Pr\u00fcfung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des h\u00f6heren feuerwehrtechnischen Dienstes oder des h\u00f6heren allgemeinen Verwaltungsdienstes als Vorsitzende oder Vorsitzender,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des gehobenen feuerwehrtechnischen Dienstes als Beisitzende oder Beisitzender,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des gehobenen nichttechnischen Verwaltungsdienstes als Beisitzende oder Beisitzender und</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beamtin oder ein Beamter des mittleren feuerwehrtechnischen Dienstes als Beisitzende oder Beisitzender.</LA></DD> </DL></LA></DD> </DL>Wird mit dem Vorsitz der m\u00fcndlichen Pr\u00fcfung eine Beamtin oder ein Beamter des h\u00f6heren allgemeinen Verwaltungsdienstes beauftragt, tritt an die Stelle der oder des Beisitzenden nach Satz 1 Nr. 3 Buchstabe c eine weitere Beamtin oder ein weiterer Beamter des gehobenen feuerwehrtechnischen Dienstes.</P><P>(3) Als Mitglieder und Ersatzmitglieder einer Pr\u00fcfungskommission k\u00f6nnen auch Soldatinnen und Soldaten sowie Angestellte vorgesehen werden, sofern sie \u00fcber ausreichende einschl\u00e4gige Kenntnisse verf\u00fcgen.</P><P>(4) Die Mitglieder der Pr\u00fcfungskommission sind bei ihrer Pr\u00fcfungst\u00e4tigkeit unabh\u00e4ngig und an Weisungen nicht gebunden. Die Vorsitzenden der Pr\u00fcfungskommissionen stellen die Anwendung eines einheitlichen Bewertungsma\u00dfstabs sicher.</P><P>(5) Die Pr\u00fcfungskommission f\u00fcr die m\u00fcndliche Pr\u00fcfung ist beschlussf\u00e4hig, wenn mehr als die H\u00e4lfte, mindestens aber drei Mitglieder, darunter die oder der Vorsitzende, anwesend sind. Sie entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit gibt die Stimme der oder des Vorsitzenden den Ausschlag. Stimmenthaltung ist nicht zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002400000",
+        "name": "\u00a7 23",
+        "title": "Laufbahnpr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) In der Laufbahnpr\u00fcfung ist festzustellen, ob die Anw\u00e4rterinnen und Anw\u00e4rter f\u00fcr die Laufbahn bef\u00e4higt sind.</P><P>(2) Die Laufbahnpr\u00fcfung wird an den Lernzielen ausgerichtet; in ihr sollen die Anw\u00e4rterinnen und Anw\u00e4rter nachweisen, dass sie gr\u00fcndliche Fachkenntnisse erworben haben und f\u00e4hig sind, die Dienstgesch\u00e4fte ihrer Laufbahn ordnungsgem\u00e4\u00df wahrzunehmen. Insoweit ist die Pr\u00fcfung auch auf die Feststellung von Einzelkenntnissen gerichtet.</P><P>(3) Zur Laufbahnpr\u00fcfung ist zugelassen, wer die Ausbildung durchlaufen hat.</P><P>(4) Die Laufbahnpr\u00fcfung besteht aus einem praktischen, einem schriftlichen und einem m\u00fcndlichen Teil.</P><P>(5) Die Pr\u00fcfung ist nicht \u00f6ffentlich. Angeh\u00f6rige des Pr\u00fcfungsamtes k\u00f6nnen teilnehmen. Das Pr\u00fcfungsamt kann Vertreterinnen und Vertretern des Bundesministeriums der Verteidigung und der Wehrbereichsverwaltung, in Ausnahmef\u00e4llen auch anderen mit der Ausbildung befassten Personen die Anwesenheit in der praktischen und m\u00fcndlichen Pr\u00fcfung allgemein oder im Einzelfall gestatten. Bei den Beratungen der Pr\u00fcfungskommission \u00fcber die Bewertung der Pr\u00fcfungsleistungen d\u00fcrfen nur deren Mitglieder anwesend sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002500000",
+        "name": "\u00a7 24",
+        "title": "Pr\u00fcfungsort, Pr\u00fcfungstermin",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Das Pr\u00fcfungsamt setzt Ort und Zeit der praktischen, der schriftlichen und der m\u00fcndlichen Pr\u00fcfung fest.</P><P>(2) Die schriftliche Pr\u00fcfung muss sp\u00e4testens zwei Wochen vor Ablauf des Vorbereitungsdienstes abgeschlossen sein. Die m\u00fcndliche Pr\u00fcfung soll bis zum Ende des Vorbereitungsdienstes abgeschlossen sein.</P><P>(3) Die Einstellungsbeh\u00f6rde teilt den Anw\u00e4rterinnen und Anw\u00e4rtern Ort und Zeit der praktischen, der schriftlichen und der m\u00fcndlichen Pr\u00fcfung rechtzeitig mit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002602116",
+        "name": "\u00a7 25",
+        "title": "Praktische Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Die praktische Pr\u00fcfung erstreckt sich auf den feuerwehrtechnischen Teil der Ausbildung und wird in Form von Anfahr\u00fcbungen durchgef\u00fchrt.</P><P>(2) Die praktische Pr\u00fcfung umfasst die T\u00e4tigkeit als Feuerwehrfrau oder Feuerwehrmann im Einsatz an Feuerl\u00f6schfahrzeugen, Rettungs- und Arbeitsger\u00e4ten, die Bedienung von Hydranten und Feuermeldern, den Einsatz von Mannschaften bis Staffelst\u00e4rke, die Brandbek\u00e4mpfung und die Durchf\u00fchrung von Erste-Hilfe-Ma\u00dfnahmen.</P><P>(3) Die Pr\u00fcfungskommission bewertet die Leistungen nach \u00a7 32; die oder der Fachpr\u00fcfende schl\u00e4gt jeweils die Bewertung vor.</P><P>(4) \u00dcber den Ablauf der Pr\u00fcfung wird ein Protokoll durch die Mitglieder der jeweiligen Pr\u00fcfungskommission schriftlich oder elektronisch gefertigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002700000",
+        "name": "\u00a7 26",
+        "title": "Zulassung zur schriftlichen Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Das Pr\u00fcfungsamt l\u00e4sst Anw\u00e4rterinnen und Anw\u00e4rter zur schriftlichen Pr\u00fcfung zu, wenn sie in der praktischen Pr\u00fcfung mindestens die Durchschnittsrangpunktzahl 5,00 (\u00a7 32 Abs. 1 Satz 2) erreicht haben. Andernfalls ist die Pr\u00fcfung nicht bestanden.</P><P>(2) Das Pr\u00fcfungsamt oder eine von diesem beauftragte Person teilt den Anw\u00e4rterinnen oder Anw\u00e4rtern die Zulassung oder Nichtzulassung rechtzeitig vor der schriftlichen Pr\u00fcfung mit. Dabei sind den zugelassenen Anw\u00e4rterinnen und Anw\u00e4rtern die von ihnen in der praktischen Pr\u00fcfung erzielten Rangpunkte mitzuteilen, wenn sie dies beantragen. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002801116",
+        "name": "\u00a7 27",
+        "title": "Schriftliche Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Die Pr\u00fcfungsaufgaben bestimmt das Pr\u00fcfungsamt. Die Aufgaben der drei schriftlichen Pr\u00fcfungsarbeiten sind aus den folgenden Pr\u00fcfungsgebieten auszuw\u00e4hlen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Allgemeine Rechts- und Verwaltungsgrundlagen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Allgemeine mathematische und naturwissenschaftlich-technische Grundlagen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Brandschutz.</LA></DD></DL></P><P>(2) F\u00fcr die Bearbeitung stehen jeweils drei Zeitstunden zur Verf\u00fcgung. Bei jeder Pr\u00fcfungsaufgabe werden die Hilfsmittel, die benutzt werden d\u00fcrfen, angegeben. Soweit Hilfsmittel ben\u00f6tigt und nicht zur Verf\u00fcgung gestellt werden, wird dies rechtzeitig bekannt gegeben.</P><P>(3) An einem Tag wird nur eine Pr\u00fcfungsaufgabe gestellt. Die schriftlichen Pr\u00fcfungsarbeiten werden an aufeinander folgenden Arbeitstagen geschrieben.</P><P>(4) Pr\u00fcfungsvorschl\u00e4ge und -aufgaben sind geheim zu halten.</P><P>(5) Die Pr\u00fcfungsarbeiten werden anstelle des Namens mit einer Kennziffer versehen. Es wird eine Liste \u00fcber die Kennziffern gefertigt, die geheim zu halten ist. Die Liste darf den Pr\u00fcfenden nicht vor der endg\u00fcltigen Bewertung der Pr\u00fcfungsarbeiten bekannt gegeben werden.</P><P>(6) Die schriftlichen Pr\u00fcfungsarbeiten werden unter Aufsicht gefertigt. Die Aufsichtf\u00fchrenden fertigen ein schriftliches oder elektronisches Protokoll und vermerken darin die Zeitpunkte des Beginns, der Unterbrechung und der Abgabe der Arbeit sowie etwaige besondere Vorkommnisse.</P><P>(7) Jede Aufsichtsarbeit wird von zwei Pr\u00fcfenden unabh\u00e4ngig voneinander nach \u00a7 32 bewertet. Die oder der Zweitpr\u00fcfende kann Kenntnis von der Bewertung der oder des Erstpr\u00fcfenden haben. Weichen die Bewertungen voneinander ab, entscheidet die Pr\u00fcfungskommission mit Stimmenmehrheit. \u00a7 22 Abs. 5 Satz 3 und 4 ist entsprechend anzuwenden. Wird die geforderte Pr\u00fcfungsarbeit nicht oder nicht rechtzeitig abgeliefert, gilt sie als mit \"ungen\u00fcgend\" (Rangpunkt 0) bewertet.</P><P>(8) Erscheinen Anw\u00e4rterinnen oder Anw\u00e4rter versp\u00e4tet zu einer Pr\u00fcfungsarbeit und wird nicht nach \u00a7 30 verfahren, gilt die vers\u00e4umte Zeit als Bearbeitungszeit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE002900000",
+        "name": "\u00a7 28",
+        "title": "Zulassung zur m\u00fcndlichen Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Das Pr\u00fcfungsamt l\u00e4sst Anw\u00e4rterinnen und Anw\u00e4rter zur m\u00fcndlichen Pr\u00fcfung zu, wenn zwei schriftliche Pr\u00fcfungsarbeiten mindestens mit der Note \"ausreichend\" bewertet worden sind. Andernfalls ist die Pr\u00fcfung nicht bestanden.</P><P>(2) Das Pr\u00fcfungsamt oder eine von diesem beauftragte Person teilt den Anw\u00e4rterinnen und Anw\u00e4rtern die Zulassung oder Nichtzulassung rechtzeitig vor der m\u00fcndlichen Pr\u00fcfung mit. Dabei teilt es den zugelassenen Anw\u00e4rterinnen und Anw\u00e4rtern auf Antrag die von ihnen in den einzelnen schriftlichen Pr\u00fcfungsarbeiten erzielten Rangpunkte mit. Die Nichtzulassung bedarf der Schriftform; sie wird mit einer Rechtsbehelfsbelehrung versehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003002116",
+        "name": "\u00a7 29",
+        "title": "M\u00fcndliche Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Die m\u00fcndliche Pr\u00fcfung erstreckt sich auf unterschiedliche Schwerpunkte der Ausbildungsinhalte. Die Pr\u00fcfungskommission w\u00e4hlt den Pr\u00fcfungsstoff insbesondere aus den Gebieten der schriftlichen Pr\u00fcfung (\u00a7 27 Abs. 1) aus.</P><P>(2) Die oder der Vorsitzende der Pr\u00fcfungskommission leitet die Pr\u00fcfung und stellt sicher, dass die Anw\u00e4rterinnen und Anw\u00e4rter in geeigneter Weise gepr\u00fcft werden.</P><P>(3) Die Dauer der m\u00fcndlichen Pr\u00fcfung darf 30 Minuten je Anw\u00e4rterin oder Anw\u00e4rter nicht unterschreiten; sie soll 40 Minuten nicht \u00fcberschreiten. Es sollen nicht mehr als f\u00fcnf Anw\u00e4rterinnen und Anw\u00e4rter gleichzeitig gepr\u00fcft werden.</P><P>(4) Die Pr\u00fcfungskommission bewertet die Leistungen nach \u00a7 32; die oder der Fachpr\u00fcfende schl\u00e4gt jeweils die Bewertung vor. Das Ergebnis der m\u00fcndlichen Pr\u00fcfung ist in einer Durchschnittsrangpunktzahl auszudr\u00fccken, die sich aus der Summe der Rangpunkte, geteilt durch die Anzahl der Einzelbewertungen, ergibt.</P><P>(5) \u00dcber den Ablauf der Pr\u00fcfung wird ein Protokoll durch die Mitglieder der jeweiligen Pr\u00fcfungskommission schriftlich oder elektronisch gefertigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003100000",
+        "name": "\u00a7 30",
+        "title": "Verhinderung, R\u00fccktritt, S\u00e4umnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Wer durch eine Erkrankung oder sonstige nicht zu vertretende Umst\u00e4nde an der Ablegung der Pr\u00fcfung oder Teilen der Pr\u00fcfung verhindert ist, hat dies unverz\u00fcglich in geeigneter Form nachzuweisen. Eine Erkrankung ist durch Vorlage eines amts-, vertrauens- oder personal\u00e4rztlichen Zeugnisses oder eines Zeugnisses einer beamteten \u00c4rztin oder eines beamteten Arztes nachzuweisen; ein privat\u00e4rztliches Zeugnis kann anerkannt werden.</P><P>(2) Aus wichtigem Grund k\u00f6nnen Anw\u00e4rterinnen oder Anw\u00e4rter mit Genehmigung des Pr\u00fcfungsamtes von der Pr\u00fcfung zur\u00fccktreten.</P><P>(3) Bei Verhinderung oder R\u00fccktritt nach den Abs\u00e4tzen 1 und 2 gelten die Pr\u00fcfung oder der betreffende Teil der Pr\u00fcfung als nicht begonnen. Das Pr\u00fcfungsamt bestimmt, zu welchen Zeitpunkten die betreffenden Pr\u00fcfungsteile nachgeholt werden; es entscheidet, ob und wieweit die bereits abgelieferten Arbeiten als Pr\u00fcfungsarbeiten gewertet werden.</P><P>(4) Vers\u00e4umen Anw\u00e4rterinnen oder Anw\u00e4rter die praktische, die schriftliche oder die m\u00fcndliche Pr\u00fcfung ganz oder teilweise ohne ausreichende Entschuldigung, entscheidet das Pr\u00fcfungsamt, ob die nicht erbrachte Pr\u00fcfungsleistung nachgeholt werden kann, mit \"ungen\u00fcgend\" (Rangpunkt 0) bewertet oder die gesamte Pr\u00fcfung f\u00fcr nicht bestanden erkl\u00e4rt wird. Die Entscheidung ist mit einer Rechtsbehelfsbelehrung zu versehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003200000",
+        "name": "\u00a7 31",
+        "title": "T\u00e4uschung, Ordnungsversto\u00df",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Anw\u00e4rterinnen oder Anw\u00e4rtern, die bei einer schriftlichen Pr\u00fcfungsarbeit, in der praktischen oder in der m\u00fcndlichen Pr\u00fcfung eine T\u00e4uschung versuchen oder dazu beitragen oder sonst gegen die Ordnung versto\u00dfen, soll die Fortsetzung der Pr\u00fcfung unter dem Vorbehalt einer Entscheidung des Pr\u00fcfungsamtes oder der Pr\u00fcfungskommission nach Absatz 2 \u00fcber die weitere Fortsetzung der Pr\u00fcfung gestattet werden; bei einer erheblichen St\u00f6rung k\u00f6nnen sie von der weiteren Teilnahme an dem betreffenden Teil der Pr\u00fcfung ausgeschlossen werden.</P><P>(2) \u00dcber das Vorliegen und die Folgen eines T\u00e4uschungsversuchs, eines Beitrags zu einem solchen oder eines sonstigen Ordnungsversto\u00dfes oder einer T\u00e4uschung w\u00e4hrend der praktischen oder m\u00fcndlichen Pr\u00fcfung entscheidet die Pr\u00fcfungskommission. \u00a7 22 Abs. 5 ist entsprechend anzuwenden. \u00dcber das Vorliegen und die Folgen eines T\u00e4uschungsversuchs, eines Beitrags zu einem solchen, eines sonstigen Ordnungsversto\u00dfes oder einer T\u00e4uschung w\u00e4hrend der schriftlichen Pr\u00fcfungsarbeiten oder einer T\u00e4uschung, die nach Abgabe der schriftlichen Pr\u00fcfungsarbeit festgestellt wird, entscheidet das Pr\u00fcfungsamt nach Anh\u00f6rung der oder des Vorsitzenden der Pr\u00fcfungskommission. Die Pr\u00fcfungskommission oder das Pr\u00fcfungsamt k\u00f6nnen nach der Schwere der Verfehlung die Wiederholung einzelner oder mehrerer Pr\u00fcfungsleistungen anordnen, die Pr\u00fcfungsleistung mit \"ungen\u00fcgend\" (Rangpunkt 0) bewerten oder die gesamte Pr\u00fcfung f\u00fcr nicht bestanden erkl\u00e4ren.</P><P>(3) Wird eine T\u00e4uschung erst nach Abschluss der m\u00fcndlichen Pr\u00fcfung bekannt oder kann sie erst nach Abschluss der Pr\u00fcfung nachgewiesen werden, kann das Pr\u00fcfungsamt die Pr\u00fcfung innerhalb einer Frist von f\u00fcnf Jahren nach dem Tage der m\u00fcndlichen Pr\u00fcfung f\u00fcr nicht bestanden erkl\u00e4ren. Der Bescheid ist mit einer Rechtsbehelfsbelehrung zu versehen.</P><P>(4) Betroffene sind vor der Entscheidung nach den Abs\u00e4tzen 2 und 3 zu h\u00f6ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003300000",
+        "name": "\u00a7 32",
+        "title": "Bewertung von Pr\u00fcfungsleistungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Die Leistungen werden mit folgenden Noten und Rangpunkten bewertet: <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"199.87pt\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"350.00pt\" /><tbody valign=\"top\"><row><entry VJ=\"1\">sehr gut (1)<BR />15 bis 14 Punkte</entry><entry VJ=\"1\">eine Leistung, die den Anforderungen in besonderem Ma\u00dfe entspricht,</entry></row><row><entry VJ=\"1\">gut (2)<BR />13 bis 11 Punkte</entry><entry VJ=\"1\">eine Leistung, die den Anforderungen voll entspricht,</entry></row><row><entry VJ=\"1\">befriedigend (3)<BR />10 bis 8 Punkte</entry><entry VJ=\"1\">eine Leistung, die im Allgemeinen den Anforderungen entspricht,</entry></row><row><entry VJ=\"1\">ausreichend (4)<BR />7 bis 5 Punkte</entry><entry VJ=\"1\">eine Leistung, die zwar M\u00e4ngel aufweist, aber im Ganzen den Anforderungen noch entspricht,</entry></row><row><entry VJ=\"1\">mangelhaft (5)<BR />4 bis 2 Punkte</entry><entry VJ=\"1\">eine Leistung, die den Anforderungen nicht entspricht, jedoch erkennen l\u00e4sst, dass die notwendigen Grundkenntnisse vorhanden sind und die M\u00e4ngel in absehbarer Zeit behoben werden k\u00f6nnten,</entry></row><row><entry VJ=\"1\">ungen\u00fcgend (6)<BR />1 bis 0 Punkte</entry><entry VJ=\"1\">eine Leistung, die den Anforderungen nicht entspricht und bei der selbst die Grundkenntnisse so l\u00fcckenhaft sind, dass die M\u00e4ngel in absehbarer Zeit nicht behoben werden k\u00f6nnten.</entry></row></tbody></tgroup></table>Durchschnittsrangpunktzahlen werden aus den Rangpunkten errechnet; sie werden auf zwei Dezimalstellen nach dem Komma ohne Auf- oder Abrundung berechnet.</P><P>(2) Bei der Bewertung schriftlicher Leistungen werden den f\u00fcr die Leistung ma\u00dfgebenden Anforderungen ihrer Anzahl, Zusammensetzung und Schwierigkeit entsprechend Leistungspunkte zugeteilt. Soweit eine Anforderung erf\u00fcllt ist, wird die entsprechende Anzahl von Punkten der Leistung zugerechnet.</P><P>(3) Die Note \"ausreichend\" setzt voraus, dass der Anteil der erreichten Leistungspunkte 50 vom Hundert der erreichbaren Gesamtpunktzahl betr\u00e4gt.</P><P>(4) Die Leistungspunkte werden einer gleichm\u00e4\u00dfigen Steigerung des Anforderungsgrades entsprechend wie folgt nach ihrem Vom-Hundert-Anteil an der erreichbaren Gesamtpunktzahl der Rangpunkte zugeordnet: <BR /><table frame=\"top\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"20*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"35*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"25*\" /><thead valign=\"bottom\"><row rowsep=\"1\"><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Vom-Hundert-Anteil der Leistungspunkte</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Rangpunkte</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">100 bis 93,7</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">15</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">93,7 bis 87,5</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">14</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">87,5 bis 83,4</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">13</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">83,4 bis 79,2</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">12</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">79,2 bis 75,0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">11</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">75,0 bis 70,9</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">10</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">70,9 bis 66,7</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">9</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">66,7 bis 62,5</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">8</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">62,5 bis 58,4</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">7</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">58,4 bis 54,2</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">6</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">54,2 bis 50,0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">5</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">50,0 bis 41,7</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">4</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">41,7 bis 33,4</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">3</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">33,4 bis 25,0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">2</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">25,0 bis 12,5</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">1</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">unter</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">12,5 bis 0</entry><entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">0.</entry></row></tbody></tgroup></table></P><P>(5) Ist nach der Art des Leistungsnachweises oder der Pr\u00fcfungsarbeit die Bewertung nach Absatz 2 nicht durchf\u00fchrbar, werden den Grunds\u00e4tzen der Abs\u00e4tze 3 und 4 entsprechend f\u00fcr den unteren Rangpunkt jeder Note typische Anforderungen festgelegt. Von diesen Anforderungen aus wird die Erteilung des der Leistung entsprechenden Rangpunktes begr\u00fcndet. F\u00fcr die Bewertung m\u00fcndlicher Leistungen gelten diese Grunds\u00e4tze sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003402116",
+        "name": "\u00a7 33",
+        "title": "Gesamtergebnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Im Anschluss an die m\u00fcndliche Pr\u00fcfung setzt die Pr\u00fcfungskommission die Abschlussnote fest. Dabei werden ber\u00fccksichtigt <BR /><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"55*\" /><colspec colname=\"col3\" colnum=\"3\" colwidth=\"30*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">die Durchschnittsrangpunktzahl des feuerwehrtechnischen Grundlehrgangs</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">mit 10 vom Hundert,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">die Durchschnittsrangpunktzahl des Verwaltungslehrgangs</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">mit 5 vom Hundert,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">die Durchschnittsrangpunktzahl der praktischen Ausbildung</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">mit 5 vom Hundert,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">die Durchschnittsrangpunktzahl des Abschlusslehrgangs</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">mit 10 vom Hundert,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">die Rangpunkte der drei schriftlichen Pr\u00fcfungsarbeiten</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">mit jeweils 10 vom Hundert,</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">6.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">die Durchschnittsrangpunktzahl der praktischen Pr\u00fcfung</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">mit 25 vom Hundert und</entry></row><row><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">7.</entry><entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">die Durchschnittsrangpunktzahl der m\u00fcndlichen Pr\u00fcfung</entry><entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">mit 15 vom Hundert.</entry></row></tbody></tgroup></table><BR />Soweit die abschlie\u00dfend errechnete Durchschnittsrangpunktzahl 5 oder mehr betr\u00e4gt, werden Dezimalstellen von 50 bis 99 f\u00fcr die Bildung der Abschlussnote aufgerundet; im \u00dcbrigen bleiben Dezimalstellen f\u00fcr die Bildung von Noten unber\u00fccksichtigt.</P><P>(2) Die Pr\u00fcfung ist bestanden, wenn im Gesamtergebnis nach Absatz 1 und in der m\u00fcndlichen Pr\u00fcfung mindestens die Durchschnittsrangpunktzahl 5 erreicht ist.</P><P>(3) Im Anschluss an die Beratung der Pr\u00fcfungskommission teilt die oder der Vorsitzende den Pr\u00fcfungsteilnehmerinnen und Pr\u00fcfungsteilnehmern die erreichten Rangpunkte mit, die sie oder er auf Wunsch kurz m\u00fcndlich erl\u00e4utert.</P><P>(4) \u00dcber das Gesamtergebnis der Laufbahnpr\u00fcfung ist ein schriftliches oder elektronisches Protokoll zu fertigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003500000",
+        "name": "\u00a7 34",
+        "title": "Zeugnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Das Pr\u00fcfungsamt erteilt den Anw\u00e4rterinnen und Anw\u00e4rtern, die die Laufbahnpr\u00fcfung bestanden haben, ein Pr\u00fcfungszeugnis, das mindestens die Abschlussnote sowie die nach \u00a7 32 Abs. 1 Satz 2 errechnete Durchschnittsrangpunktzahl enth\u00e4lt. Das Zeugnis wird durch Bescheid des Pr\u00fcfungsamtes zugestellt. Ist die Laufbahnpr\u00fcfung nicht bestanden, gibt das Pr\u00fcfungsamt dies den Anw\u00e4rterinnen und Anw\u00e4rtern schriftlich bekannt. Der Bescheid nach Satz 2 und die Bekanntgabe nach Satz 3 werden mit einer Rechtsbehelfsbelehrung versehen. Eine beglaubigte Abschrift des Pr\u00fcfungszeugnisses wird zu den Personalgrundakten genommen. Das Beamtenverh\u00e4ltnis auf Widerruf endet bei Bestehen oder endg\u00fcltigem Nichtbestehen der Laufbahnpr\u00fcfung mit dem Ablauf des Tages der schriftlichen Bekanntgabe des Pr\u00fcfungsergebnisses.</P><P>(2) Wer die Laufbahnpr\u00fcfung endg\u00fcltig nicht bestanden hat, erh\u00e4lt von der Einstellungsbeh\u00f6rde ein Zeugnis, das auch die Dauer der Ausbildung und die Ausbildungsinhalte umfasst.</P><P>(3) Fehler und offensichtliche Unrichtigkeiten bei der Ermittlung oder Mitteilung der Pr\u00fcfungsergebnisse werden durch das Pr\u00fcfungsamt berichtigt. Unrichtige Pr\u00fcfungszeugnisse sind zur\u00fcckzugeben. In den F\u00e4llen des \u00a7 31 Abs. 3 Satz 1 ist das Pr\u00fcfungszeugnis zur\u00fcckzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003600000",
+        "name": "\u00a7 35",
+        "title": "Pr\u00fcfungsakten, Einsichtnahme",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Jeweils eine Ausfertigung der Bewertungen der Ausbildungsabschnitte, der Niederschrift \u00fcber die praktische, schriftliche und m\u00fcndliche Pr\u00fcfung und des Laufbahnpr\u00fcfungszeugnisses ist mit den schriftlichen Pr\u00fcfungsarbeiten zu den Pr\u00fcfungsakten zu nehmen. Die Pr\u00fcfungsakten werden beim Pr\u00fcfungsamt oder der von ihm bestimmten Stelle mindestens f\u00fcnf Jahre aufbewahrt.</P><P>(2) Die Anw\u00e4rterinnen und Anw\u00e4rter k\u00f6nnen nach Abschluss der m\u00fcndlichen Pr\u00fcfung Einsicht in die sie betreffenden Teile der Pr\u00fcfungsakten nehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003700000",
+        "name": "\u00a7 36",
+        "title": "Wiederholung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000200000"
+        },
+        "body": "<P>(1) Wer die Laufbahnpr\u00fcfung nicht bestanden hat, kann diese einmal wiederholen; das Bundesministerium der Verteidigung kann in begr\u00fcndeten F\u00e4llen eine zweite Wiederholung zulassen. Pr\u00fcfungen sind vollst\u00e4ndig zu wiederholen.</P><P>(2) Das Pr\u00fcfungsamt bestimmt auf Vorschlag der Pr\u00fcfungskommission, innerhalb welcher Frist die Pr\u00fcfung wiederholt werden kann, welche Teile der Ausbildung zu wiederholen und welche Leistungsnachweise zu erbringen sind. Die Wiederholungsfrist soll mindestens sechs Monate betragen und ein Jahr nicht \u00fcberschreiten. Die bei der Wiederholung erreichten Rangpunkte und Noten ersetzen die bisherigen. Der Vorbereitungsdienst wird bis zum Ablauf der Wiederholungsfrist verl\u00e4ngert. Die Wiederholungspr\u00fcfung soll zusammen mit den Anw\u00e4rterinnen und Anw\u00e4rtern der n\u00e4chsten Laufbahnpr\u00fcfung abgelegt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR103100002BJNG000300000",
+        "name": "Kapitel 3",
+        "title": "Sonstige Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003801310",
+        "name": "\u00a7 37",
+        "title": "Anderweitige Zuerkennung der Laufbahnbef\u00e4higung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000300000"
+        },
+        "body": "<P>Die anderweitige Zuerkennung der Laufbahnbef\u00e4higung nach \u00a7 19 Absatz 1 der Bundeslaufbahnverordnung durch die oberste Dienstbeh\u00f6rde setzt voraus, dass der verwaltungsexterne berufliche Bildungsgang die Inhalte des Vorbereitungsdienstes vermittelt hat und die abgelegte Pr\u00fcfung mit der Laufbahnpr\u00fcfung gleichwertig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE003900000",
+        "name": "\u00a7 38",
+        "title": "\u00dcbergangsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000300000"
+        },
+        "body": "<P>Ausbildung und Pr\u00fcfung der vor Inkrafttreten dieser Verordnung in den Vorbereitungsdienst eingestellten Anw\u00e4rterinnen und Anw\u00e4rter richten sich nach den bisherigen Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR103100002BJNE004000000",
+        "name": "\u00a7 39",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR103100002BJNG000300000"
+        },
+        "body": "<P>Diese Verordnung tritt am 1. Mai 2002 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

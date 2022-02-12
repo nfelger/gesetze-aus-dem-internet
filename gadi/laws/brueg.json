@@ -1,0 +1,920 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR007340957",
+    "firstPublished": "1957-07-19",
+    "sourceTimestamp": "20150824215510",
+    "titleShort": "Bundesr\u00fcckerstattungsgesetz",
+    "titleLong": "Bundesgesetz zur Regelung der r\u00fcckerstattungsrechtlichen\nGeldverbindlichkeiten des Deutschen Reichs und gleichgestellter Rechtstr\u00e4ger",
+    "abbreviation": "BR\u00fcG",
+    "slug": "brueg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1957, 734",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 21 Abs. 1 G v. 29.6.2015 I 1042",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 6.9.1969 +++)<BR /><BR /></pre>Das G gilt nach Ma\u00dfgabe d. Art. 12 G v. 21.12.1967 63-13; es gilt im Saarland gem. Art. I nach Ma\u00dfgabe d. Art. II G v. 12.1.1967 I 133.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE001300319",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"5\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"70*\" />\n\t\t<colspec colname=\"col5\" colnum=\"5\" colwidth=\"20*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Erster Abschnitt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Allgemeine Vorschriften und Begriffsbestimmungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 1 bis 11</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Zweiter Abschnitt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Neubegr\u00fcndete r\u00fcckerstattungsrechtliche Anspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 12 bis 13</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Dritter Abschnitt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Behandlung der nach diesem Gesetz zu erf\u00fcllenden r\u00fcckerstattungsrechtlichen Anspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 14 bis 26</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Vierter Abschnitt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Anmeldung von r\u00fcckerstattungsrechtlichen Anspr\u00fcchen und weiteres Verfahren</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Erster Titel</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Neubegr\u00fcndete Anspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 27 bis 28</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Zweiter Titel</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Neuer\u00f6ffnung der Anmeldefristen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 29</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Dritter Titel</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gemeinsame Vorschriften</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 30</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">F\u00fcnfter Abschnitt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Zahlungspflicht der Bundesrepublik Deutschland</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Erster Titel</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Lastentragung und Rangfolge der Anspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 31 bis 37</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Zweiter Titel</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verfahren</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 38 bis 43</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Sechster Abschnitt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">H\u00e4rteausgleich</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7 44</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">Siebenter Abschnitt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Schlu\u00dfvorschriften</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"bottom\">\u00a7\u00a7 45 bis 48</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000100319",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeine Vorschriften und\nBegriffsbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE001400319",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>(1) Dieses Gesetz findet auf r\u00fcckerstattungsrechtliche Anspr\u00fcche gegen das Deutsche Reich einschlie\u00dflich der Sonderverm\u00f6gen Deutsche Reichsbahn und Deutsche Reichspost Anwendung.</P><P>(2) Dieses Gesetz findet ferner Anwendung auf r\u00fcckerstattungsrechtliche Anspr\u00fcche gegen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das ehemalige Land Preu\u00dfen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Unternehmen Reichsautobahnen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ehemalige Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), deren Gliederungen, deren angeschlossene Verb\u00e4nde und die sonstigen aufgel\u00f6sten NS-Einrichtungen,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Reichsvereinigung der Juden in Deutschland und den Auswanderungsfonds B\u00f6hmen und M\u00e4hren.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE001500319",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>R\u00fcckerstattungsrechtliche Anspr\u00fcche im Sinne dieses Gesetzes sind Anspr\u00fcche, die nach den Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde (\u00a7 11 Nr. 1) oder nach den Vorschriften dieses Gesetzes R\u00fcckerstattungsberechtigten oder deren Rechtsnachfolgern zustehen und auf einen Geldbetrag oder auf Schadensersatz gerichtet sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE001600319",
+        "name": "\u00a7 2a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>(1) Ein in \u00a7 1 genannter Rechtstr\u00e4ger ist im Sinne der in \u00a7 11 Nr. 1 Buchstabe a genannten Rechtsvorschriften in bezug auf einen feststellbaren Verm\u00f6gensgegenstand r\u00fcckerstattungspflichtig, wenn er sich entgegen rechtsstaatlichen Grunds\u00e4tzen das Eigentum, die Eigent\u00fcmerstellung, den Besitz oder die Verf\u00fcgungsmacht verschafft oder angema\u00dft hat.</P><P>(2) Ein in \u00a7 1 genannter Rechtstr\u00e4ger ist im Sinne des Absatzes 1 insbesondere dann r\u00fcckerstattungspflichtig, wenn er dem Verfolgten auferlegt hat, den feststellbaren Verm\u00f6gensgegenstand an einen bestimmten Erwerber oder an eine Vielzahl bestimmter Erwerber zu ver\u00e4u\u00dfern.</P><P>(3) Die R\u00fcckerstattungspflicht eines der in \u00a7 1 genannten Rechtstr\u00e4ger im Sinne der Abs\u00e4tze 1 und 2 wird nicht dadurch ausgeschlossen, da\u00df der Verfolgte durch Verfolgungsma\u00dfnahmen gezwungen wurde, an der Ver\u00e4u\u00dferung des feststellbaren Verm\u00f6gensgegenstandes mitzuwirken.</P><P>(4) Ein in \u00a7 1 genannter Rechtstr\u00e4ger ist im Sinne der Abs\u00e4tze 1 und 2 nicht schon dann r\u00fcckerstattungspflichtig, wenn der Verfolgte einen feststellbaren Verm\u00f6gensgegenstand ver\u00e4u\u00dfert hat, um rechtswidrige Sonderabgaben bezahlen oder einen Verm\u00f6genstransfer durchf\u00fchren zu k\u00f6nnen.</P><P>(5) Sind im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstaben b und c genannten Rechtsvorschriften feststellbare Verm\u00f6gensgegenst\u00e4nde von einem der in \u00a7 1 genannten Rechtstr\u00e4ger entzogen worden, so ist dieser Rechtstr\u00e4ger schadensersatzpflichtig, wenn die Gegenst\u00e4nde verloren gegangen, besch\u00e4digt, oder in ihrem Wert vermindert worden sind; \u00a7 848 des B\u00fcrgerlichen Gesetzbuches findet Anwendung. Das gleiche gilt, wenn feststellbare Verm\u00f6gensgegenst\u00e4nde von einem der in \u00a7 1 genannten Rechtstr\u00e4ger entzogen worden und nachweislich in den Geltungsbereich der in \u00a7 11 Nr. 1 Buchstaben b und c genannten Rechtsvorschriften gelangt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE001700319",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>Den r\u00fcckerstattungsrechtlichen Anspr\u00fcchen gegen die in \u00a7 1 genannten Rechtstr\u00e4ger werden r\u00fcckerstattungsrechtliche Anspr\u00fcche gleichgestellt, die sich nur auf Grund von Verm\u00f6gens- oder Aufgabennachfolge nach den in \u00a7 1 genannten Rechtstr\u00e4gern gegen den Bund oder einen anderen \u00f6ffentlichen Rechtstr\u00e4ger richten k\u00f6nnten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE001800319",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>Hat ein Dritter feststellbare Verm\u00f6gensgegenst\u00e4nde entzogen, die anders als durch ein entgeltliches Rechtsgesch\u00e4ft auf einen der in \u00a7 1 genannten Rechtstr\u00e4ger \u00fcbergegangen sind, so trifft eine nach den Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde (\u00a7 11 Nr. 1) gegebene Schadensersatzpflicht im Verh\u00e4ltnis zu dem Dritten nur diesen Rechtstr\u00e4ger. Anspr\u00fcche nach den Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde (\u00a7 11 Nr. 1) bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE001900319",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>(1) Sind feststellbare Verm\u00f6gensgegenst\u00e4nde von einem der in \u00a7 1 genannten Rechtstr\u00e4ger au\u00dferhalb des Geltungsbereichs dieses Gesetzes entzogen worden und nach der Entziehung nachweislich in diesen Geltungsbereich gelangt, ohne da\u00df der Ort, an den die Gegenst\u00e4nde gelangt sind, feststeht, so gelten die Gegenst\u00e4nde als in den Geltungsbereich der in \u00a7 11 Nr. 1 Buchstabe d genannten Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde gelangt. Das gleiche gilt, wenn die entzogenen Verm\u00f6gensgegenst\u00e4nde nachweislich in das Gebiet von Berlin innerhalb der in \u00a7 4 der Berliner Verfassung von 1950 festgelegten Grenzen gelangt sind.</P><P>(2) Sind feststellbare Verm\u00f6gensgegenst\u00e4nde von einem der in \u00a7 1 genannten Rechtstr\u00e4ger au\u00dferhalb des Geltungsbereichs der in \u00a7 11 Nr. 1 genannten Rechtsvorschriften und des Saarlandes entzogen worden und nach der Entziehung nachweislich in das Saarland gelangt, ohne da\u00df der Ort, an den die Gegenst\u00e4nde gelangt sind, feststeht, so gelten die Gegenst\u00e4nde als in den Geltungsbereich der in \u00a7 11 Nr. 1 Buchstabe d genannten Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde gelangt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002000319",
+        "name": "\u00a7 5a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>Sind feststellbare Verm\u00f6gensgegenst\u00e4nde, die verlorengegangen sind, durch einen der in \u00a7 1 genannten Rechtstr\u00e4ger innerhalb der in Artikel 4 der Berliner Verfassung von 1950 festgelegten Grenzen, aber au\u00dferhalb des Gebiets der jetzigen Westsektoren von Berlin entzogen worden, so gilt die Entziehung als innerhalb des Geltungsbereichs der in \u00a7 11 Nr. 1 Buchstabe d genannten Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde vorgenommen, wenn die Personen, denen die Verm\u00f6gensgegenst\u00e4nde entzogen worden sind, oder deren Rechtsnachfolger zu irgendeinem Zeitpunkt zwischen dem 30. Januar 1933 und dem 31. Dezember 1961 ihren Wohnsitz oder dauernden Aufenthalt oder ihren Sitz im Geltungsbereich dieses Gesetzes oder in Gebieten hatten, mit deren Regierungen die Bundesrepublik Deutschland am 8. Oktober 1964 diplomatische Beziehungen unterh\u00e4lt. \u00a7 45 Abs. 2 findet entsprechende Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002100319",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>Ist vor Inkrafttreten dieses Gesetzes \u00fcber einen r\u00fcckerstattungsrechtlichen Anspruch (\u00a7\u00a7 1, 3) ganz oder teilweise rechtskr\u00e4ftig entschieden worden oder eine g\u00fctliche Einigung zustande gekommen, so hat die Entscheidung oder die g\u00fctliche Einigung nur die in diesem Gesetz vorgesehene Wirkung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002200319",
+        "name": "\u00a7 6a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>In Verfahren \u00fcber r\u00fcckerstattungsrechtliche Anspr\u00fcche (\u00a7\u00a7 1, 3) kann ein Anspruch ganz oder teilweise durch gerichtliche Entscheidung versagt werden, wenn der Berechtigte sich unlauterer Mittel bedient oder vors\u00e4tzlich oder grob fahrl\u00e4ssig unrichtige oder irref\u00fchrende Angaben \u00fcber Grund oder H\u00f6he des Anspruchs gemacht, veranla\u00dft oder zugelassen hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002300319",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>Auf Grund r\u00fcckerstattungsrechtlicher Anspr\u00fcche (\u00a7\u00a7 1, 3) k\u00f6nnen Leistungen nur nach Ma\u00dfgabe dieses Gesetzes gefordert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002402116",
+        "name": "\u00a7 7a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>(1) In Verfahren \u00fcber r\u00fcckerstattungsrechtliche Anspr\u00fcche (\u00a7\u00a7 1, 3) soll von der Vorlage eines Erbscheins abgesehen werden, wenn die Erbberechtigung auch ohne Vorlage eines Erbscheins nachweisbar ist.</P><P>(2) Verlangt ein Wiedergutmachungsorgan die Vorlage eines Erbscheins, so hat das Nachla\u00dfgericht auf Antrag des Berechtigten einen Erbschein f\u00fcr den R\u00fcckerstattungsanspruch zu erteilen. Soweit nach einer der in \u00a7 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde eine Todesvermutung eingreift oder ein anderer Zeitpunkt des Todes festgestellt worden ist, ist diese Vermutung oder Feststellung f\u00fcr die Erteilung eines solchen Erbscheins ma\u00dfgebend.</P><P>(3) Die Erteilung des Erbscheins f\u00fcr den R\u00fcckerstattungsanspruch einschlie\u00dflich des vorausgegangenen Verfahrens ist geb\u00fchren- und auslagenfrei. Dies gilt nicht f\u00fcr die Abnahme der eidesstattlichen Versicherung nach \u00a7 352 Absatz 3 Satz 3 des Gesetzes \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002500319",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>R\u00fcckerstattungsrechtliche Anspr\u00fcche (\u00a7\u00a7 1, 3) k\u00f6nnen abgetreten, verpf\u00e4ndet oder gepf\u00e4ndet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002600319",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>In Verfahren \u00fcber r\u00fcckerstattungsrechtliche Anspr\u00fcche (\u00a7\u00a7 1, 3) werden die in \u00a7 1 genannten Rechtstr\u00e4ger durch den Bundesminister der Finanzen oder von ihm zu bestimmende nachgeordnete Beh\u00f6rden der Bundesfinanzverwaltung vertreten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002700319",
+        "name": "\u00a7 10",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>Soweit in einem Verfahren \u00fcber r\u00fcckerstattungsrechtliche Anspr\u00fcche (\u00a7\u00a7 1, 3) einer der in \u00a7 1 genannten Rechtstr\u00e4ger verpflichtet worden ist oder verpflichtet wird, dem Berechtigten die Kosten des Verfahrens zu erstatten, richtet sich der Anspruch auf Kostenerstattung gegen den Bund.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002800319",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000100319"
+        },
+        "body": "<P>In diesem Gesetz werden bezeichnet <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Gesetz Nr. 59 vom 10. November 1947 (R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde) der Milit\u00e4rregierung Deutschland - Amerikanisches Kontrollgebiet - (Amtsblatt der Milit\u00e4rregierung Deutschland - Amerikanisches Kontrollgebiet - Ausgabe G vom 10. November 1947 S. 1) in der bei Inkrafttreten dieses Gesetzes geltenden Fassung und seine Durchf\u00fchrungsbestimmungen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">das Gesetz Nr. 59 vom 12. Mai 1949 (R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde an Opfer der nationalsozialistischen Unterdr\u00fcckungsma\u00dfnahmen) der Milit\u00e4rregierung Deutschland - Britisches Kontrollgebiet - (Amtsblatt der Milit\u00e4rregierung Deutschland - Britisches Kontrollgebiet - Nr. 28 S. 1169) in der bei Inkrafttreten dieses Gesetzes geltenden Fassung und seine Durchf\u00fchrungsbestimmungen,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verordnung Nr. 120 vom 10. November 1947 (R\u00fcckerstattung geraubter Verm\u00f6gensobjekte) der Milit\u00e4rregierung Deutschland - Franz\u00f6sisches Kontrollgebiet - (Amtsblatt des franz\u00f6sischen Oberkommandos in Deutschland Nr. 119 vom 14. November 1947 S. 1219) in der bei Inkrafttreten dieses Gesetzes geltenden Fassung und ihre Durchf\u00fchrungsbestimmungen,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anordnung BK/O (49) 180 vom 26. Juli 1949 (R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde an Opfer der nationalsozialistischen Unterdr\u00fcckungsma\u00dfnahmen) der Alliierten Kommandantur Berlin (Verordnungsblatt f\u00fcr Gro\u00df-Berlin Teil I 1949 S. 221) in der bei Inkrafttreten dieses Gesetzes geltenden Fassung und ihre Durchf\u00fchrungsbestimmungen;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Nachfolgeorganisationen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die gem\u00e4\u00df Artikel 13 des Gesetzes Nr. 59 vom 10. November 1947 der Milit\u00e4rregierung Deutschland - Amerikanisches Kontrollgebiet - durch Ausf\u00fchrungsverordnung Nr. 3 bestimmte, ferner gem\u00e4\u00df Artikel 9 der Anordnung BK/O (49) 180 vom 26. Juli 1949 der Alliierten Kommandantur Berlin durch die Anordnung vom 1. Oktober 1949 des Amerikanischen Kommandanten von Berlin und die Anordnung Nr. 58 vom 8. Juni 1950 der franz\u00f6sischen Milit\u00e4rregierung von Berlin ernannte Jewish Restitution Successor Organization (IRSO),</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die gem\u00e4\u00df Artikel 8 des Gesetzes Nr. 59 vom 12. Mai 1949 der Milit\u00e4rregierung Deutschland - Britisches Kontrollgebiet - durch die Siebente Durchf\u00fchrungsverordnung vom 1. August 1950, ferner gem\u00e4\u00df Artikel 9 der Anordnung BK/O (49) 180 vom 26. Juli 1949 der Alliierten Kommandantur Berlin durch die Durchf\u00fchrungsverordnung Nr. 2 bestellte Jewish Trust Corporation for Germany (ITC) und</LA><LA Size=\"normal\">die durch die Achte Durchf\u00fchrungsverordnung vom 15. November 1950 und die Elfte Durchf\u00fchrungsverordnung vom 12. M\u00e4rz 1951 zu dem vorgenannten Gesetz Nr. 59 der britischen Milit\u00e4rregierung und gem\u00e4\u00df Durchf\u00fchrungsverordnung Nr. 4 vom 29. M\u00e4rz 1951 zu Artikel 9 der Anordnung BK/O (49) 180 errichtete Allgemeine Treuhandorganisation (ATO),</LA></DD>  <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die gem\u00e4\u00df Artikel 9 Abs. 2 und Artikel 14 Abs. 1 der Verordnung Nr. 120 vom 10. November 1947 der Milit\u00e4rregierung Deutschland - Franz\u00f6sisches Kontrollgebiet - (in der Fassung der Verordnung Nr. 268 vom 29. September 1951) von den L\u00e4ndern errichteten Gemeinschaftsfonds</LA><LA Size=\"normal\">und</LA><LA Size=\"normal\">die gem\u00e4\u00df der Anordnung Nr. 177 in Durchf\u00fchrung des Artikels 21a der Verordnung Nr. 120 (in der Fassung der Verordnung Nr. 268) benannte franz\u00f6sische Abteilung der Jewish Trust Corporation for Germany;</LA></DD>   </DL></LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Bundesentsch\u00e4digungsgesetz</LA><LA Size=\"normal\">das Bundesgesetz zur Entsch\u00e4digung f\u00fcr Opfer der nationalsozialistischen Verfolgung (Bundesentsch\u00e4digungsgesetz - BEG) in der Fassung des Gesetzes vom 29. Juni 1956 (Bundesgesetzbl. I S. 559);</LA></DD>  <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Umstellungsgesetz</LA><LA Size=\"normal\">das Dritte Gesetz zur Neuordnung des Geldwesens (Umstellungsgesetz) - Gesetz Nr. 63 der amerikanischen und der britischen Milit\u00e4rregierung (Amtsblatt der Milit\u00e4rregierung Deutschland - Amerikanisches Kontrollgebiet - Ausgabe J S. 21 und Amtsblatt der Milit\u00e4rregierung Deutschland - Britisches Kontrollgebiet - S. 862) und Verordnung Nr. 160 des franz\u00f6sischen Oberkommandos (Amtsblatt des franz\u00f6sischen Oberkommandos in Deutschland S. 1537);</LA></DD>  <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Umstellungserg\u00e4nzungsgesetz</LA><LA Size=\"normal\">das Gesetz \u00fcber die Erg\u00e4nzung von Vorschriften des Umstellungsrechts und \u00fcber die Ausstattung der Berliner Altbanken mit Ausgleichsforderungen (Umstellungserg\u00e4nzungsgesetz) vom 21. September 1953 (Bundesgesetzbl. I S. 1439);</LA></DD>  <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Altsparergesetz</LA><LA Size=\"normal\">das Gesetz zur Milderung von H\u00e4rten der W\u00e4hrungsreform (Altsparergesetz) in der Fassung vom 1. April 1959 (Bundesgesetzbl. I S. 169) in Verbindung mit dem Gesetz zu \u00a7 4 Abs. 4 des Altsparergesetzes vom 10. Dezember 1954 (Bundesgesetzblatt I S. 438);</LA></DD>  <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Reichsbewertungsgesetz</LA><LA Size=\"normal\">das Reichsbewertungsgesetz vom 16. Oktober 1934 (Reichsgesetzbl. I S. 1035) in der Fassung des Gesetzes zur Bewertung des Verm\u00f6gens f\u00fcr die Kalenderjahre 1949 bis 1951 (Hauptveranlagung 1949) vom 16. Januar 1952 (Bundesgesetzbl. I S. 22).</LA></DD>  </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000200319",
+        "name": "Zweiter Abschnitt",
+        "title": "Neubegr\u00fcndete r\u00fcckerstattungsrechtliche\nAnspr\u00fcche",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE002900319",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000200319"
+        },
+        "body": "<P>(1) Sind im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstabe c genannten Verordnung Nr. 120 Verm\u00f6gensgegenst\u00e4nde, die im Zeitpunkt der Entziehung feststellbar waren, durch eine im Sinne der Artikel 1 bis 3 dieser Verordnung nichtige oder anfechtbare Verf\u00fcgung von einem der in \u00a7 1 genannten Rechtstr\u00e4ger entzogen worden, so ist dieser Rechtstr\u00e4ger schadensersatzpflichtig, wenn die Gegenst\u00e4nde verlorengegangen, besch\u00e4digt oder in ihrem Wert vermindert worden sind; das gleiche gilt, wenn solche Verm\u00f6gensgegenst\u00e4nde zun\u00e4chst von einem Dritten entzogen und alsdann auf einen der in \u00a7 1 genannten Rechtstr\u00e4ger \u00fcbergegangen sind. Eine Schadensersatzpflicht des Rechtstr\u00e4ger besteht nicht, wenn der Rechtstr\u00e4ger nachweist, da\u00df der Verlust, die Besch\u00e4digung oder die Wertminderung nicht auf seinem Verschulden beruht.</P><P>(2) Ein an die in \u00a7 1 genannten Rechtstr\u00e4ger durch Barzahlung oder auf Grund einer Anweisung zur Zahlung entrichteter Geldbetrag ist nicht als feststellbarer Verm\u00f6gensgegenstand im Sinne des Absatzes 1 anzusehen.</P><P>(3) Ist vor Inkrafttreten dieses Gesetzes in einem Entsch\u00e4digungsverfahren \u00fcber einen Anspruch nach Absatz 1 ganz oder teilweise rechtskr\u00e4ftig entschieden worden oder ist \u00fcber diesen Anspruch eine g\u00fctliche Einigung zustande gekommen, so steht die Entscheidung oder die g\u00fctliche Einigung einer Entscheidung oder einer g\u00fctlichen Einigung im R\u00fcckerstattungsverfahren gleich.</P><P>(4) Eine Schadensersatzpflicht der in \u00a7 1 genannten Rechtstr\u00e4ger nach Absatz 1 besteht gegen\u00fcber Nachfolgeorganisationen nicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003000319",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000200319"
+        },
+        "body": "<P>(1) Ist Umzugsgut in einem au\u00dferhalb des Geltungsbereichs dieses Gesetzes gelegenen europ\u00e4ischen Ort vom Deutschen Reich entzogen worden, so ist das Deutsche Reich nach den Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde oder nach \u00a7 12 schadensersatzpflichtig, wenn der Verfolgte aus dem Geltungsbereich dieses Gesetzes ausgewandert ist oder auszuwandern beabsichtigte und vor der Auswanderung oder vor der Versendung des Umzugsgutes seinen letzten Wohnsitz oder dauernden Aufenthalt im Geltungsbereich dieses Gesetzes gehabt hat. Die Entziehung gilt als an dem Ort erfolgt, an dem der Verfolgte vor der Auswanderung oder vor der Versendung des Umzugsgutes seinen letzten Wohnsitz oder dauernden Aufenthalt im Geltungsbereich dieses Gesetzes gehabt hat.</P><P>(2) Der Anspruch nach Absatz 1 besteht nicht, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Anspruch nach den Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde (\u00a7 11 Nr. 1) oder nach \u00a7 12 gegeben ist oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Umzugsgut am Bestimmungsort zur freien Verf\u00fcgung des Eigent\u00fcmers gelangt war.</LA></DD> </DL> </P><P>(3) Eine Schadensersatzpflicht des Deutschen Reichs nach Absatz 1 besteht gegen\u00fcber Nachfolgeorganisationen nicht.</P><P>(4) Die Schadensersatzpflicht des Deutschen Reichs entf\u00e4llt in dem Umfange, als der Berechtigte Entsch\u00e4digung von einem anderen Staat erhalten hat. Soweit diese Entsch\u00e4digung in fremder W\u00e4hrung geleistet wurde, ist sie zu dem am 1. April 1956 g\u00fcltigen Kurs auf den Schadensersatzbetrag anzurechnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000300319",
+        "name": "Dritter Abschnitt",
+        "title": "Behandlung der nach diesem Gesetz\nzu erf\u00fcllenden r\u00fcckerstattungsrechtlichen Anspr\u00fcche",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003100319",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>(1) Ist vor Inkrafttreten dieses Gesetzes \u00fcber einen r\u00fcckerstattungsrechtlichen Anspruch (\u00a7\u00a7 1, 3) ganz oder teilweise rechtskr\u00e4ftig entschieden worden oder eine g\u00fctliche Einigung rechtsg\u00fcltig zustande gekommen, so gilt die Entscheidung oder die g\u00fctliche Einigung als nach Ma\u00dfgabe der \u00a7\u00a7 15 bis 26 erg\u00e4nzt oder abge\u00e4ndert. Das gleiche gilt, wenn eine vorher ergangene Entscheidung nach Inkrafttreten dieses Gesetzes in Rechtskraft erwachsen oder eine vorher getroffene g\u00fctliche Einigung nach Inkrafttreten dieses Gesetzes rechtsg\u00fcltig geworden ist.</P><P>(2) Ist bei Inkrafttreten dieses Gesetzes \u00fcber einen r\u00fcckerstattungsrechtlichen Anspruch (\u00a7\u00a7 1, 3) noch nicht entschieden worden, so ergeht die Entscheidung nach Ma\u00dfgabe der \u00a7\u00a7 15 bis 26.</P><P>(3) Auf Anspr\u00fcche der Nachfolgeorganisationen oder ihrer Rechtsnachfolger, die unter die zwischen der Bundesrepublik Deutschland und den Nachfolgeorganisationen oder ihren Rechtsnachfolgern geschlossenen Globalvereinbarungen fallen, finden die \u00a7\u00a7 15 bis 26 keine Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003200319",
+        "name": "\u00a7 15",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>(1) R\u00fcckerstattungsrechtliche Anspr\u00fcche auf Zahlung eines Reichsmarkbetrages gelten als im Zeitpunkt der W\u00e4hrungsumstellung im Verh\u00e4ltnis 10:1 auf Deutsche Mark umgestellt.</P><P>(2) Der nach Absatz 1 umgestellte Betrag ist zu verzinsen. Die Zinsen werden durch einen Betrag von 25 vom Hundert des umgestellten Betrags abgegolten.</P><P>(3) Absatz 2 findet keine Anwendung auf r\u00fcckerstattungsrechtliche Anspr\u00fcche, die sich auf Herausgabe des Reinertrags der Nutzungen richten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003300319",
+        "name": "\u00a7 16",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>(1) R\u00fcckerstattungsrechtliche Schadensersatzanspr\u00fcche sind auf Ersatzleistung in Deutscher Mark gerichtet, auch wenn sie nach den Vorschriften des b\u00fcrgerlichen Rechts auf Herstellung des Zustandes gerichtet sind, der bestehen w\u00fcrde, wenn der zum Ersatz verpflichtende Umstand nicht eingetreten w\u00e4re. Bei der Bemessung der H\u00f6he des Schadensersatzbetrags ist der Wiederbeschaffungswert des entzogenen Verm\u00f6gensgegenstandes im Geltungsbereich dieses Gesetzes zugrunde zu legen. Ma\u00dfgebend ist der Wiederbeschaffungswert am 1. April 1956; sind Sachen entzogen worden, so ist deren Zustand im Zeitpunkt der Entziehung zu ber\u00fccksichtigen.</P><P>(2) F\u00fcr Vorteile, die der Gebrauch des entzogenen Verm\u00f6gensgegenstandes gew\u00e4hrt h\u00e4tte, wird ein Ersatz nicht geleistet. Sind sonstige Nutzungen oder Zinsen oder sonstige geldwerte Vorteile entgangen, so wird dem Schadensersatzbetrag nach Absatz 1 ein Betrag von 25 vom Hundert hinzugerechnet; der Zuschlag von 25 vom Hundert erm\u00e4\u00dfigt sich auf 10 vom Hundert, wenn Nutzungen oder sonstige geldwerte Vorteile entzogener Aktien oder sonstiger Beteiligungen entgangen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003400319",
+        "name": "\u00a7 17",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>(1) L\u00e4\u00dft sich der Wiederbeschaffungswert des entzogenen Verm\u00f6gensgegenstandes am 1. April 1956 nicht ermitteln oder liegt er unter dem im Verh\u00e4ltnis 10:1 in Deutsche Mark umgerechneten Wert des Verm\u00f6gensgegenstandes im Zeitpunkt der Entziehung, so gilt der im Verh\u00e4ltnis 10:1 in Deutsche Mark umgerechnete Wert des Verm\u00f6gensgegenstandes im Zeitpunkt der Entziehung als Schadensersatzbetrag.</P><P>(2) \u00a7 16 Abs. 2 findet entsprechende Anwendung. Dies gilt nicht, soweit der Schadensersatzbetrag nach Absatz 1 sich aus den entgangenen Nutzungen oder Zinsen oder sonstigen geldwerten Vorteilen errechnet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003500319",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>Ist vor Inkrafttreten dieses Gesetzes die H\u00f6he des Schadensersatzbetrages durch rechtskr\u00e4ftige Entscheidung oder g\u00fctliche Einigung in Deutscher Mark festgesetzt worden, so gilt der festgesetzte Betrag als Schadensersatzbetrag nach \u00a7 16 oder nach \u00a7 17, es sei denn, da\u00df Ersatz f\u00fcr entzogene Forderungen oder Wertpapiere zu leisten ist; \u00a7 14 Abs. 1 Satz 2 findet entsprechende Anwendung. Ist vor Inkrafttreten dieses Gesetzes die H\u00f6he des Schadensersatzbetrages durch rechtskr\u00e4ftige Entscheidung ohne Ber\u00fccksichtigung der entgangenen Zinsen und Nutzungen und sonstigen geldwerten Vorteile in Deutscher Mark festgesetzt worden, so erh\u00f6ht sich der Schadensersatzbetrag um den in \u00a7 16 Abs. 2 Satz 2 oder in \u00a7 17 Abs. 2 genannten Betrag.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003600319",
+        "name": "\u00a7 19",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>Bei r\u00fcckerstattungsrechtlichen Schadensersatzanspr\u00fcchen auf Zahlung einer Rente werden die bis zum 31. M\u00e4rz 1956 f\u00e4llig gewesenen Betr\u00e4ge mit der Ma\u00dfgabe zusammengerechnet, da\u00df die Reichsmarkbetr\u00e4ge im Verh\u00e4ltnis 10:1 in Deutsche Mark umgerechnet werden. Die ab 1. April 1956 zu zahlende Rente ist zu kapitalisieren. Der Kapitalwert der Rente ist nach den Vorschriften des Reichsbewertungsgesetzes zu errechnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003700319",
+        "name": "\u00a7 20",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>(1) Bei r\u00fcckerstattungsrechtlichen Schadensersatzanspr\u00fcchen wegen der Entziehung einer Reichsmarkforderung, die ohne die Entziehung als Reichsmarkforderung im Sinne des \u00a7 13 Abs. 3 des Umstellungsgesetzes umgestellt worden w\u00e4re, gilt f\u00fcr die Bemessung des Schadensersatzbetrags die Reichsmarkforderung als im Zeitpunkt der W\u00e4hrungsumstellung in dem Verh\u00e4ltnis auf Deutsche Mark umgestellt, in dem die Reichsmarkforderung ohne die Entziehung umgestellt worden w\u00e4re; richtet sich die entzogene Forderung gegen einen der in \u00a7 14 des Umstellungsgesetzes genannten Schuldner, so bemi\u00dft sich die H\u00f6he des Schadensersatzbetrags nach der k\u00fcnftigen gesetzlichen Regelung der Forderung gegen die in \u00a7 14 des Umstellungsgesetzes genannten Schuldner.</P><P>(2) Bei r\u00fcckerstattungsrechtlichen Schadensersatzanspr\u00fcchen wegen der Entziehung eines Guthabens, das ohne die Entziehung als Altgeldguthaben im Sinne des \u00a7 1 Abs. 1 Nr. 1 des Umstellungsgesetzes oder als Uraltguthaben im Sinne des \u00a7 1 Abs. 1 des Umstellungserg\u00e4nzungsgesetzes umgewandelt worden w\u00e4re, gilt f\u00fcr die Bemessung des Schadensersatzbetrags das Guthaben in dem Verh\u00e4ltnis in Deutsche Mark umgewandelt, in dem es ohne die Entziehung umgewandelt worden w\u00e4re.</P><P>(3) \u00a7 16 Abs. 2 findet Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003800319",
+        "name": "\u00a7 21",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>(1) Bei der Bemessung des Schadensersatzbetrags nach \u00a7 20 ist diesem der Betrag der Entsch\u00e4digung nach \u00a7 5 des Altsparergesetzes hinzuzurechnen, wenn der r\u00fcckerstattungsrechtliche Anspruch dem Berechtigten wegen der Entziehung einer Reichsmarkforderung (\u00a7 20 Abs. 1) zusteht, f\u00fcr die dem Berechtigten Entsch\u00e4digung nach dem Altsparergesetz zu gew\u00e4hren sein w\u00fcrde. Die entzogene RM-Forderung wird so behandelt, als h\u00e4tte sie dem Berechtigten vom Zeitpunkt der Entziehung bis zum Zeitpunkt der Umstellung auf Deutsche Mark zugestanden.</P><P>(2) Absatz 1 findet entsprechende Anwendung, sofern der Nachweis erbracht ist, da\u00df f\u00fcr eine entzogene Reichsmarkforderung Entsch\u00e4digung nach dem Altsparergesetz zu gew\u00e4hren sein w\u00fcrde, wenn sie nicht vor der Entziehung aus Verfolgungsgr\u00fcnden im Sinne der Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde in eine Reichsmarkforderung umgewandelt worden w\u00e4re, f\u00fcr die Entsch\u00e4digung nach dem Altsparergesetz nicht gew\u00e4hrt wird.</P><P>(3) Absatz 1 und 2 finden auf die Entziehung eines Guthabens (\u00a7 20 Abs. 2) entsprechende Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE003900319",
+        "name": "\u00a7 22",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>Hat der Berechtigte aus demselben Entziehungstatbestand gegen einen der in \u00a7 1 genannten Rechtstr\u00e4ger sowohl einen r\u00fcckerstattungsrechtlichen Schadensersatzanspruch als auch einen r\u00fcckerstattungsrechtlichen Anspruch auf Zahlung eines Reichsmarkbetrags oder hat er diese Anspr\u00fcche wahlweise, so wird der eine Anspruch durch den anderen nicht ber\u00fchrt; der Berechtigte mu\u00df sich jedoch den Betrag, den er auf Grund des einen Anspruchs erlangt, auf den Betrag, der ihm auf Grund des anderen Anspruchs zusteht, anrechnen lassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004000319",
+        "name": "\u00a7 23",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>Steht dem r\u00fcckerstattungsrechtlichen Anspruch (\u00a7\u00a7 1, 3) ein Gegenanspruch aus demselben Entziehungstatbestand gegen\u00fcber, so vermindert sich der r\u00fcckerstattungsrechtliche Anspruch um den Wert des Gegenanspruchs am 1. April 1956; \u00a7 20 Abs. 1 zweiter Halbsatz findet sinngem\u00e4\u00df Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004100319",
+        "name": "\u00a7 24",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>Steht ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) im Zeitpunkt des Inkrafttretens dieses Gesetzes mehreren Personen zur gesamten Hand oder gemeinschaftlich nach Bruchteilen zu, so ist eine Auseinandersetzung der Gemeinschaft in Ansehung dieses Anspruchs ausgeschlossen. Eine entgegenstehende Vereinbarung ist nichtig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004200319",
+        "name": "\u00a7 25",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>(1) Ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3), auf den ein Land Leistungen bewirkt, geht bis zur H\u00f6he der Leistungen auf das Land \u00fcber. Sind die Leistungen vor Inkrafttreten dieses Gesetzes bewirkt worden, so gilt der Anspruch als im Zeitpunkt der Leistungen \u00fcbergegangen.</P><P>(2) Absatz 1 findet entsprechende Anwendung, wenn ein Land auf Grund anderer gesetzlicher Vorschriften Leistungen bewirkt oder bewirkt hat, die dem Berechtigten auch auf Grund eines r\u00fcckerstattungsrechtlichen Anspruchs zustehen.</P><P>(3) Ein nach Absatz 1 oder 2 \u00fcbergegangener Anspruch kann nach diesem Gesetz nicht geltend gemacht werden, soweit eine Sonderabgabe im Sinne des Bundesentsch\u00e4digungsgesetzes durch Barzahlung oder auf Grund einer Anweisung zur Zahlung entrichtet worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004300319",
+        "name": "\u00a7 26",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000300319"
+        },
+        "body": "<P>Ist ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) teilweise auf einen Dritten \u00fcbergegangen, so kann jeder der Berechtigten den Anspruch im ganzen geltend machen. Der Anspruch kann nur dahin geltend gemacht werden, da\u00df Leistungen an die Berechtigten nach Ma\u00dfgabe ihrer Beteiligung zu bewirken sind. Der Anspruch gilt auch dann als im ganzen geltend gemacht, wenn ein Berechtigter lediglich den auf ihn entfallenden Teil geltend macht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000400319",
+        "name": "Vierter Abschnitt",
+        "title": "Anmeldung von r\u00fcckerstattungsrechtlichen\nAnspr\u00fcchen und weiteres Verfahren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000500319",
+        "name": "Erster Titel",
+        "title": "Neubegr\u00fcndete Anspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004400319",
+        "name": "\u00a7 27",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000500319"
+        },
+        "body": "<P>(1) Im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften sind Anspr\u00fcche nach \u00a7 13 von dem Berechtigten bei dem zust\u00e4ndigen Zentralanmeldeamt anzumelden.</P><P>(2) Die Anmeldung mu\u00df bis zum 1. April 1959 bei dem zust\u00e4ndigen Zentralanmeldeamt eingegangen sein.</P><P>(3) Die Frist des Absatzes 2 gilt als gewahrt, wenn der Berechtigte bis zum 1. April 1959 den Anspruch bei einem nach Absatz 1 unzust\u00e4ndigen Zentralanmeldeamt angemeldet oder durch Klage vor der Restitutionskammer eines unzust\u00e4ndigen Landgerichts geltend gemacht hat.</P><P>(4) Auf das Verfahren bei der Anmeldung und das weitere Verfahren finden die Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde (\u00a7 11 Nr. 1 Buchstaben a, b und d) Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004500319",
+        "name": "\u00a7 28",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000500319"
+        },
+        "body": "<P>(1) Im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstabe c genannten Rechtsvorschriften sind Anspr\u00fcche nach \u00a7\u00a7 12, 13 von dem Berechtigten durch Klage vor der Restitutionskammer des zust\u00e4ndigen Landgerichts geltend zu machen. Sind die Anspr\u00fcche vor Inkrafttreten dieses Gesetzes in einem Entsch\u00e4digungsverfahren geltend gemacht worden, so gilt die Erhebung der Klage zugleich als Antrag an das Entsch\u00e4digungsorgan, die Sache an die Restitutionskammer abzugeben.</P><P>(2) Die Klage mu\u00df bis zum 1. April 1959 erhoben werden.</P><P>(3) \u00a7 27 Abs. 3 gilt sinngem\u00e4\u00df.</P><P>(4) Auf das Verfahren finden die Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde (\u00a7 11 Nr. 1 Buchstabe c) Anwendung. Ein Anwaltszwang besteht nicht.</P><P>(5) Einer Klageerhebung nach Absatz 1 bedarf es nicht, wenn innerhalb der Frist des Absatzes 2 eine g\u00fctliche Einigung zwischen dem Berechtigten und der nach \u00a7 9 zust\u00e4ndigen Beh\u00f6rde dem Vorsitzenden der Restitutionskammer gem\u00e4\u00df den in \u00a7 11 Nr. 1 Buchstabe c genannten Rechtsvorschriften zur Best\u00e4tigung vorgelegt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000600319",
+        "name": "Zweiter Titel",
+        "title": "Neuer\u00f6ffnung der Anmeldefristen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004600319",
+        "name": "\u00a7 29",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000600319"
+        },
+        "body": "<P>(1) Im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften kann ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) von dem Berechtigten bei dem zust\u00e4ndigen Zentralanmeldeamt erneut angemeldet werden, wenn und soweit vor Inkrafttreten dieses Gesetzes <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Anspruch rechtskr\u00e4ftig zur\u00fcckgewiesen worden ist oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Berechtigte den mit der Anmeldung gestellten Antrag zur\u00fcckgenommen oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Berechtigte auf den Anspruch verzichtet hat.</LA></DD> </DL> </P><P>(2) Absatz 1 findet entsprechende Anwendung, wenn der Berechtigte den Anspruch nicht innerhalb der in den Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde bestimmten Frist angemeldet hat.</P><P>(3) Meldet der Berechtigte den Anspruch nach Absatz 1 oder 2 an, so gilt ein \u00dcbergang dieses Anspruchs auf eine Nachfolgeorganisation als nicht erfolgt.</P><P>(4) Im Falle des Absatzes 1 Nr. 1 steht die Rechtskraft einer gerichtlichen Entscheidung dem angemeldeten Anspruch nicht entgegen.</P><P>(5) \u00a7 27 Abs. 2 bis 4 finden Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004700319",
+        "name": "\u00a7 29a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000600319"
+        },
+        "body": "<P>(1) Die Fristen des \u00a7 27 Abs. 2, \u00a7 28 Abs. 2 und \u00a7 29 Abs. 5 gelten als gewahrt, wenn der Berechtigte bis zum 1. April 1959 den r\u00fcckerstattungsrechtlichen Anspruch (\u00a7\u00a7 1, 3) irrt\u00fcmlich bei einer unzust\u00e4ndigen Beh\u00f6rde der Bundesrepublik Deutschland angemeldet oder durch Klage bei einem unzust\u00e4ndigen Gericht der Bundesrepublik Deutschland geltend gemacht hat und aus der Anmeldung die feststellbaren Verm\u00f6gensgegenst\u00e4nde erkennbar sind, f\u00fcr die Ersatz verlangt wird.</P><P>(2) Die Anmeldung nach Absatz 1 wird unwirksam, wenn der Anspruch nicht bis zum 8. Oktober 1965 im R\u00fcckerstattungsverfahren geltend gemacht wird. \u00a7 27 Abs. 4 und \u00a7 28 Abs. 4 finden entsprechende Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004800319",
+        "name": "\u00a7 29b",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000600319"
+        },
+        "body": "<P>(1) Ist ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) wegen der Entziehung von Hausrat in den ehemals besetzten Westgebieten oder wegen der Entziehung von Schmuck- und Edelmetallgegenst\u00e4nden in den ehemals besetzten oder eingegliederten Gebieten rechtskr\u00e4ftig zur\u00fcckgewiesen oder zur\u00fcckgenommen worden, weil nicht nachzuweisen war, da\u00df die entzogenen Verm\u00f6gensgegenst\u00e4nde in den nach \u00a7 5 ma\u00dfgeblichen Bereich gelangt sind, kann der Anspruch erneut im R\u00fcckerstattungsverfahren geltend gemacht werden, wenn solche Verm\u00f6gensgegenst\u00e4nde auf Grund allgemeiner Ma\u00dfnahmen aus dem Entziehungsgebiet ganz oder \u00fcberwiegend in den nach \u00a7 5 ma\u00dfgeblichen Bereich gelangt sind.</P><P>(2) Die in Absatz 1 genannten allgemeinen Ma\u00dfnahmen und die Entziehungsgebiete und Entziehungszeitr\u00e4ume, f\u00fcr die sie getroffen wurden, werden durch Rechtsverordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf, bezeichnet.</P><P>(3) Der Anspruch ist innerhalb eines Jahres nach Inkrafttreten der in Absatz 2 genannten Rechtsverordnung geltend zu machen. \u00a7 27 Abs. 4 und \u00a7 28 Abs. 4 finden entsprechende Anwendung.</P><P>(4) Durch Rechtsverordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf, kann bestimmt werden, da\u00df Abs\u00e4tze 1 bis 3 entsprechend auch f\u00fcr andere als die in Absatz 1 genannten Gegenst\u00e4nde Anwendung finden, wenn solche Gegenst\u00e4nde auf Grund allgemeiner Ma\u00dfnahmen ganz oder \u00fcberwiegend in den nach \u00a7 5 ma\u00dfgeblichen Bereich gelangt sind.</P><P>(5) Rechtsverordnungen nach den Abs\u00e4tzen 2 und 4 k\u00f6nnen nur bis zum 31. Dezember 1965 erlassen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000700319",
+        "name": "Dritter Titel",
+        "title": "Gemeinsame Vorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000400319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE004900319",
+        "name": "\u00a7 30",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000700319"
+        },
+        "body": "<P>(1) Ist im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften ein seiner Rechtsnatur nach r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) irrt\u00fcmlich nach \u00a7\u00a7 189, 231 des Bundesentsch\u00e4digungsgesetzes bis zum 1. April 1958 angemeldet worden, so gilt diese Anmeldung als fristgem\u00e4\u00dfe Anmeldung nach \u00a7\u00a7 27, 29, <I>wenn aus der Anmeldung die feststellbaren Verm\u00f6gensgegenst\u00e4nde erkennbar sind, f\u00fcr die Ersatz verlangt wird;</I> das gleiche gilt auch, wenn die Anmeldung nach Ablauf der Frist des \u00a7 189 des Bundesentsch\u00e4digungsgesetzes bis zum 1. April 1959 erfolgt ist. Durch die Anmeldung gilt auch die Klagefrist des \u00a7 28 Abs. 2 als gewahrt.</P><P>(2) Ist im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstabe c genannten Rechtsvorschriften ein seiner Rechtsnatur nach r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) irrt\u00fcmlich nach \u00a7\u00a7 189, 231 des Bundesentsch\u00e4digungsgesetzes bis zum 1. April 1958 angemeldet worden, so gilt die Klagefrist als gewahrt, <I>wenn aus der Anmeldung die feststellbaren Verm\u00f6gensgegenst\u00e4nde erkennbar sind, f\u00fcr die Ersatz verlangt wird;</I> das gleiche gilt auch, wenn die Anmeldung nach Ablauf der Frist des \u00a7 189 des Bundesentsch\u00e4digungsgesetzes bis zum 1. April 1959 erfolgt ist. Die Anmeldung gilt auch als fristgem\u00e4\u00dfe Anmeldung nach \u00a7\u00a7 27, 29.</P><P>(3) Es wird vermutet, da\u00df die Anmeldung irrt\u00fcmlich im Sinne der Abs\u00e4tze 1 und 2 erfolgt ist, wenn sie eine den r\u00fcckerstattungsrechtlichen Anmeldevorschriften gen\u00fcgende Beschreibung der in Verlust geratenen Verm\u00f6gensgegenst\u00e4nde enth\u00e4lt oder wenn der angemeldete Schaden innerhalb des Reichsgebiets nach dem Stande vom 31. Dezember 1937 eingetreten ist. Die gleiche Vermutung gilt, wenn die Anmeldung vor dem 23. Juli 1957 oder, wenn sie nicht aus dem Geltungsbereich des Gesetzes eingereicht wurde, vor dem 23. Oktober 1957 vorgenommen worden ist. Fehlt es an diesen Voraussetzungen, so liegt eine irrt\u00fcmliche Anmeldung im Sinne der Abs\u00e4tze 1 und 2 nur vor, wenn der Antragsteller nachweist, da\u00df derjenige, der die Anmeldung vorgenommen hat, im Zeitpunkt der Anmeldung die Tatsachen kannte, deren Angabe f\u00fcr eine ordnungsgem\u00e4\u00dfe Anmeldung nach den r\u00fcckerstattungsrechtlichen Vorschriften erforderlich gewesen w\u00e4re; ist die Anmeldung durch einen Vertreter vorgenommen worden, findet \u00a7 166 des B\u00fcrgerlichen Gesetzbuches entsprechend Anwendung.</P><P>(4) Ist ein Entsch\u00e4digungsverfahren anh\u00e4ngig, hat das Entsch\u00e4digungsorgan die Sache auf Antrag \u00fcber das zust\u00e4ndige Zentralanmeldeamt an die zust\u00e4ndige Wiedergutmachungsbeh\u00f6rde zu verweisen. Der Antrag kann nur bis zum 5. September 1970 gestellt werden.</P><P>(5) Ist \u00fcber den Anspruch im Entsch\u00e4digungsverfahren ganz oder teilweise unanfechtbar oder rechtskr\u00e4ftig entschieden worden oder eine g\u00fctliche Einigung rechtsg\u00fcltig zustande gekommen, wird eine Anmeldung nach den Abs\u00e4tzen 1 und 2 unwirksam, wenn der Anspruch nicht innerhalb eines Jahres nach Unanfechtbarkeit oder Rechtskraft der Entscheidung oder Rechtsg\u00fcltigkeit der g\u00fctlichen Einigung im R\u00fcckerstattungsverfahren geltend gemacht wird. Diese Frist endet jedoch nicht vor dem 8. Oktober 1965. \u00a7 27 Abs. 4 und \u00a7 28 Abs. 4 finden entsprechende Anwendung.</P><P>(6) Ist im Saarland ein seiner Rechtsnatur nach r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) irrt\u00fcmlich nach den \u00a7\u00a7 189, 231 des Bundesentsch\u00e4digungsgesetzes in der Fassung des Gesetzes Nr. 658 zur Einf\u00fchrung des Bundesentsch\u00e4digungsgesetzes vom 6. Februar 1959 (Amtsblatt des Saarlandes S. 759) bis zum 31. Dezember 1959 angemeldet worden, so gilt die Klagefrist des \u00a7 28 Abs. 2 als gewahrt, wenn aus der Anmeldung die feststellbaren Verm\u00f6gensgegenst\u00e4nde erkennbar sind, f\u00fcr die Ersatz verlangt wird; die Anmeldung gilt auch als fristgem\u00e4\u00dfe Anmeldung nach den \u00a7\u00a7 27, 29. Die Frist des Absatzes 4 Satz 2 endet in diesem Falle nicht vor dem 31. M\u00e4rz 1968.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P><ABWFORMAT typ=\"A\" />\u00a7 30 Abs. 1 Satz 1 u. Abs. 2 Satz 1: IdF d. Art. I Nr. 9 G v. 2.10.1964 I 809, 930 gem. BVerfGE v. 24.7.1968 I 967 nichtig, soweit er die Einschr\u00e4nkung enth\u00e4lt \"wenn aus der Anmeldung die feststellbaren Gegenst\u00e4nde erkennbar sind, f\u00fcr die Ersatz verlangt wird\" - 1 BvR 537/65 -</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005000319",
+        "name": "\u00a7 30a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000700319"
+        },
+        "body": "<P>(1) Ist ein Verfahren \u00fcber r\u00fcckerstattungsrechtliche Anspr\u00fcche (\u00a7\u00a7 1, 3) bei einer unzust\u00e4ndigen Wiedergutmachungsbeh\u00f6rde anh\u00e4ngig, so ist die Sache auf Antrag des Berechtigten \u00fcber das zust\u00e4ndige Zentralanmeldeamt an die zust\u00e4ndige Wiedergutmachungsbeh\u00f6rde oder, falls eine solche nicht besteht, an das zust\u00e4ndige Wiedergutmachungsgericht 1. Instanz zu verweisen.</P><P>(2) Ist ein solches Verfahren bei einem unzust\u00e4ndigen Wiedergutmachungsgericht anh\u00e4ngig, so ist die Sache auf Antrag des Berechtigten \u00fcber das zust\u00e4ndige Zentralanmeldeamt an die zust\u00e4ndige Wiedergutmachungsbeh\u00f6rde oder an das zust\u00e4ndige Wiedergutmachungsgericht 1. Instanz zu verweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005100319",
+        "name": "\u00a7 30b",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000700319"
+        },
+        "body": "<P>Ist ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) rechtswirksam nach den in \u00a7 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften oder nach den \u00a7\u00a7 27, 29 und 30 angemeldet worden, ohne da\u00df die einzelnen feststellbaren Verm\u00f6gensgegenst\u00e4nde erkennbar sind, f\u00fcr die Ersatz verlangt wird, so wird die Anmeldung unwirksam, soweit nicht bis 5. September 1970 die Beschreibung der einzelnen Gegenst\u00e4nde, f\u00fcr die Ersatz verlangt wird, nachgeholt worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000800319",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Zahlungspflicht der Bundesrepublik\nDeutschland",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG000900319",
+        "name": "Erster Titel",
+        "title": "Lastentragung und Rangfolge der Anspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000800319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005200319",
+        "name": "\u00a7 31",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000900319"
+        },
+        "body": "<P>(1) Die Bundesrepublik Deutschland ist verpflichtet, die r\u00fcckerstattungsrechtlichen Anspr\u00fcche (\u00a7\u00a7 1, 3) nach Ma\u00dfgabe der folgenden Vorschriften zu erf\u00fcllen.</P><P>(2) Die sich aus der Verpflichtung nach Absatz 1 ergebenden Lasten tr\u00e4gt der Bund.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005300319",
+        "name": "\u00a7 32",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000900319"
+        },
+        "body": "<P>(1) Die r\u00fcckerstattungsrechtlichen Anspr\u00fcche (\u00a7\u00a7 1, 3) werden f\u00fcr den einzelnen Berechtigten in einem Bescheid (\u00a7 38) zusammengefa\u00dft und nach den folgenden Vorschriften befriedigt.</P><P>(2) Von dem f\u00fcr den einzelnen Berechtigten insgesamt im Bescheid (\u00a7 38) festgestellten Betrag werden befriedigt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche bis zur H\u00f6he von 40.000 Deutsche Mark und in H\u00f6he von 75 vom Hundert des 40.000 Deutsche Mark \u00fcbersteigenden Betrags;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche in H\u00f6he der restlichen 25 vom Hundert des 40.000 Deutsche Mark \u00fcbersteigenden Betrags<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">ab 1. Januar 1965, wenn der Anspruch einer nat\u00fcrlichen Person zusteht, die das 65. Lebensjahr vollendet hat,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">ab 1. Januar 1966, wenn der Anspruch einer juristischen Person zusteht, die nach ihrer Satzung oder sonstigen Verfassung und nach ihrer tats\u00e4chlichen Gesch\u00e4ftsf\u00fchrung ausschlie\u00dflich und unmittelbar kirchlichen, gemeinn\u00fctzigen oder mildt\u00e4tigen Zwecken dient,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">ab 1. Januar 1967, wenn der Anspruch anderen als den in Buchstaben a und b genannten Personen zusteht.</LA></DD> </DL></LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005400319",
+        "name": "\u00a7 33",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000900319"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005500319",
+        "name": "\u00a7 34",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000900319"
+        },
+        "body": "<P>(1) Der f\u00fcr den einzelnen Berechtigten insgesamt im Bescheid (\u00a7 38) festgestellte Betrag ist, soweit er am 31. Dezember 1967 noch nicht gezahlt ist, ab 1. Januar 1968 zu verzinsen. Die Zinsen betragen 1 vom Hundert f\u00fcr jedes angefangene Vierteljahr.</P><P>(2) Die Geltendmachung eines weiteren Verzugsschadens ist ausgeschlossen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005600319",
+        "name": "\u00a7 35",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000900319"
+        },
+        "body": "<P>Die Vorschriften der \u00a7\u00a7 32, 34 finden keine Anwendung auf die Befriedigung der in \u00a7 14 Abs. 3 genannten r\u00fcckerstattungsrechtlichen Anspr\u00fcche (\u00a7\u00a7 1, 3) der Nachfolgeorganisationen oder ihrer Rechtsnachfolger.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005700319",
+        "name": "\u00a7 36",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000900319"
+        },
+        "body": "<P>Vorleistungen werden auf die von der Bundesrepublik Deutschland nach \u00a7\u00a7 32, 34 zu bewirkenden Leistungen angerechnet. Das gleiche gilt f\u00fcr Darlehen, die mit der Ma\u00dfgabe einer Verrechnung nach Regelung der r\u00fcckerstattungsrechtlichen Geldverbindlichkeiten des Deutschen Reichs gew\u00e4hrt worden sind. Die Anrechnung wird am 1. April 1956 wirksam; hat der Berechtigte Vorleistungen oder Darlehen nach dem 1. April 1956 erhalten, so wird die Anrechnung am Tag der Zahlung wirksam.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005800319",
+        "name": "\u00a7 37",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000900319"
+        },
+        "body": "<P>Ist ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) nach \u00a7 25 teilweise auf ein Land \u00fcbergegangen, so werden die nach \u00a7\u00a7 32, 34 zu leistenden Zahlungen bis zur Befriedigung des \u00fcbergegangenen Anspruchs an das Land bewirkt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG001000319",
+        "name": "Zweiter Titel",
+        "title": "Verfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG000800319"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE005903310",
+        "name": "\u00a7 38",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001000319"
+        },
+        "body": "<P>(1) Das Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen erteilt dem Berechtigten \u00fcber die nach \u00a7 31 von der Bundesrepublik Deutschland zu erf\u00fcllenden r\u00fcckerstattungsrechtlichen Anspr\u00fcche (\u00a7\u00a7 1, 3) einen Bescheid. Im Falle des \u00a7 14 Abs. 1 ist in dem Bescheid auszusprechen, ob und in welchem Umfang die Entscheidung oder die g\u00fctliche Einigung als nach Ma\u00dfgabe der \u00a7\u00a7 15 bis 26 erg\u00e4nzt oder abge\u00e4ndert gilt.</P><P>(2) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006001320",
+        "name": "\u00a7 39",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001000319"
+        },
+        "body": "<P>(1) Der Bescheid soll enthalten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung der erlassenden Beh\u00f6rde,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Personalangaben des Berechtigten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Personalangaben des Verfolgten, soweit dieser mit dem Berechtigten nicht personengleich ist,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung der dem Bescheid zugrunde liegenden Entscheidungen oder g\u00fctlichen Einigungen,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der H\u00f6he der r\u00fcckerstattungsrechtlichen Anspr\u00fcche unter Ber\u00fccksichtigung des \u00a7 23,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der H\u00f6he des insgesamt geschuldeten Geldbetrags,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufteilung des Geldbetrags gem\u00e4\u00df \u00a7 32,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anrechnung von Vorleistungen oder Darlehen (\u00a7 36),</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der Leistungsempf\u00e4nger im Falle des \u00a7 37,</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Hinweis auf die im Rahmen des \u00a7 34 zu zahlenden Zinsen,</LA></DD> <DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gr\u00fcnde f\u00fcr die Aufteilung des Geldbetrags,</LA></DD> <DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Belehrung \u00fcber den Rechtsbehelf,</LA></DD> <DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Datum und die Unterschrift.</LA></DD> </DL> </P><P>(2) Im Falle des \u00a7 38 Abs. 1 Satz 2 soll der Bescheid ferner enthalten die Gr\u00fcnde f\u00fcr die Ab\u00e4nderung oder Erg\u00e4nzung gem\u00e4\u00df \u00a7 14 Abs. 1.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006104310",
+        "name": "\u00a7 40",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001000319"
+        },
+        "body": "<P>(1) Das Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen hat von Amts wegen alle f\u00fcr den Bescheid nach \u00a7 39 Abs. 1 Nr. 5 und 7 erheblichen Tatsachen zu ermitteln; alle Beh\u00f6rden und Gerichte haben ihr unentgeltlich Amts- und Rechtshilfe zu leisten.</P><P>(2) Das Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen kann insbesondere eine Auslandsvertretung der Bundesrepublik, in deren Bezirk ein Berechtigter, ein Zeuge oder ein Sachverst\u00e4ndiger seinen Wohnsitz oder dauernden Aufenthalt hat, um Vernehmung des Berechtigten, Zeugen oder Sachverst\u00e4ndigen ersuchen. Hierbei sind die Tatsachen anzugeben, die Gegenstand der Vernehmung sein sollen.</P><P>(3) Das Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen ist zur Entgegennahme von Versicherungen an Eides Statt befugt.</P><P>(4) Der Berechtigte und sein Bevollm\u00e4chtigter k\u00f6nnen die Akten des Bundesamtes f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen einschlie\u00dflich der von dieser herbeigezogenen Akten einsehen. Sie k\u00f6nnen sich daraus Ausz\u00fcge und Abschriften selbst fertigen oder gegen Erstattung der Kosten erteilen lassen.</P><P>(5) Aus besonderen Gr\u00fcnden kann dem Antragsteller und seinem Bevollm\u00e4chtigten, wenn dieser nicht Rechtsanwalt ist, die Einsicht in die Akten oder in Aktenteile sowie die Fertigung oder Erteilung von Ausz\u00fcgen und Abschriften versagt werden.</P><P>(6) Ein Recht auf Aush\u00e4ndigung der Akten haben nur Rechtsanw\u00e4lte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006202310",
+        "name": "\u00a7 41",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001000319"
+        },
+        "body": "<P>Der Bescheid ist dem Berechtigten zuzustellen. Zustellungen erfolgen nach den Vorschriften des Verwaltungszustellungsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006300319",
+        "name": "\u00a7 42",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001000319"
+        },
+        "body": "<P>(1) Innerhalb einer Frist von drei Monaten nach Zustellung des Bescheids kann der Berechtigte gerichtliche Entscheidung beantragen; der Antrag kann insbesondere darauf gest\u00fctzt werden, da\u00df in dem Bescheid die Aufteilung des Geldbetrags gem\u00e4\u00df \u00a7 32 unzutreffend vorgenommen oder, falls vor Inkrafttreten dieses Gesetzes eine gerichtliche Entscheidung rechtskr\u00e4ftig oder eine g\u00fctliche Einigung rechtsg\u00fcltig geworden ist (\u00a7 14 Abs. 1), die H\u00f6he des geschuldeten Geldbetrags im Bescheid unzutreffend festgesetzt ist. Wohnt der Berechtigte im Ausland, so tritt an die Stelle der Frist von drei Monaten eine Frist von sechs Monaten.</P><P>(2) Die Fristen nach Absatz 1 sind Notfristen und beginnen mit der Zustellung des Bescheids, sofern dieser die Belehrung \u00fcber den Rechtsbehelf nach \u00a7 39 Abs. 1 Nr. 13 enth\u00e4lt.</P><P>(3) Im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstaben a, b und d genannten Rechtsvorschriften ist der Antrag an die Wiedergutmachungskammer des zust\u00e4ndigen Landgerichts zu richten. Im Geltungsbereich der in \u00a7 11 Nr. 1 Buchstabe c genannten Rechtsvorschriften ist die Klage bei der Restitutionskammer des zust\u00e4ndigen Landgerichts einzureichen.</P><P>(4) Zust\u00e4ndig ist das Landgericht, das in dem vorangegangenen R\u00fcckerstattungsverfahren zust\u00e4ndig gewesen ist oder gewesen w\u00e4re. Ist dieses Landgericht f\u00fcr R\u00fcckerstattungsverfahren nicht mehr zust\u00e4ndig, so tritt an seine Stelle das Landgericht, auf das seine Zust\u00e4ndigkeit \u00fcbergegangen ist.</P><P>(5) Auf das Verfahren finden die Rechtsvorschriften zur R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde (\u00a7 11 Nr. 1) Anwendung. Ein Anwaltszwang besteht nicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006400319",
+        "name": "\u00a7 43",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001000319"
+        },
+        "body": "<P>Die Zahlung erfolgt unverz\u00fcglich nach Zustellung des Bescheids in H\u00f6he der nach diesem Bescheid f\u00e4lligen Betr\u00e4ge.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006503310",
+        "name": "\u00a7 43a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001000319"
+        },
+        "body": "<P>(1) Ist ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) durch rechtskr\u00e4ftige Entscheidung oder rechtsg\u00fcltige g\u00fctliche Einigung festgestellt und stellt sich nachtr\u00e4glich heraus, da\u00df der Berechtigte sich unlauterer Mittel bedient oder vors\u00e4tzlich oder grob fahrl\u00e4ssig unrichtige oder irref\u00fchrende Angaben \u00fcber Grund oder H\u00f6he des Anspruchs gemacht, veranla\u00dft oder zugelassen hat, so kann das Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen beantragen, den r\u00fcckerstattungsrechtlichen Anspruch unter Aufhebung der Entscheidung oder der g\u00fctlichen Einigung ganz oder teilweise abzuweisen.</P><P>(2) Ist bereits ein Bescheid ergangen, so kann mit dem Antrag nach Absatz 1 der Antrag verbunden werden, den Bescheid abzu\u00e4ndern und den Berechtigten zur R\u00fcckzahlung der bereits bewirkten Leistungen zu verurteilen.</P><P>(3) Der Antrag nach den Abs\u00e4tzen 1 und 2 kann nur innerhalb einer Frist von 6 Monaten gestellt werden. Die Frist beginnt mit dem Tag, an dem das Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen von den Tatsachen Kenntnis erlangt hat, die den Antrag nach Absatz 1 oder 2 rechtfertigen. Nach Ablauf von 5 Jahren ist der Antrag unstatthaft; diese Frist beginnt mit dem Tag, an dem die Entscheidung rechtskr\u00e4ftig oder die g\u00fctliche Einigung rechtsg\u00fcltig geworden ist, jedoch nicht vor dem 8. Oktober 1964.</P><P>(4) \u00a7 42 Abs. 3 bis 5 findet Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG001100319",
+        "name": "Sechster Abschnitt",
+        "title": "H\u00e4rteausgleich",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006602310",
+        "name": "\u00a7 44",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001100319"
+        },
+        "body": "<P>(1) Nat\u00fcrlichen Personen, denen im Geltungsbereich dieses Gesetzes feststellbare Verm\u00f6gensgegenst\u00e4nde durch einen der in \u00a7 1 genannten Rechtstr\u00e4ger entzogen worden sind, kann auf Antrag zur Milderung einer auf der Entziehung beruhenden Notlage ein H\u00e4rteausgleich gew\u00e4hrt werden.</P><P>(2) Das gleiche gilt f\u00fcr juristische Personen und ihre Rechtsnachfolger, soweit sie gemeinn\u00fctzig im Sinne der Gemeinn\u00fctzigkeitsverordnung sind und der H\u00e4rteausgleich zur Erf\u00fcllung ihrer Aufgaben im Geltungsbereich dieses Gesetzes erforderlich ist.</P><P>(3) Die H\u00e4rteleistungen nach den Abs\u00e4tzen 1 und 2 d\u00fcrfen insgesamt einen Betrag von 10 Millionen Deutsche Mark nicht \u00fcbersteigen.</P><P>(4) Antr\u00e4ge nach Absatz 1 sind bis zum 1. April 1959, Antr\u00e4ge nach Absatz 2 sind bis zum 8. Oktober 1965 bei dem Bundesamt f\u00fcr zentrale Dienste und offene Verm\u00f6gensfragen zu stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006700319",
+        "name": "\u00a7 44a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001100319"
+        },
+        "body": "<P>(1) Ist ein r\u00fcckerstattungsrechtlicher Anspruch (\u00a7\u00a7 1, 3) wegen der Entziehung von Hausrat in den ehemals besetzten Westgebieten oder wegen der Entziehung von Schmuck- und Edelmetallgegenst\u00e4nden in den ehemals besetzten oder eingegliederten Gebieten innerhalb der Frist der \u00a7\u00a7 29, 27 nicht angemeldet worden, kann auf Antrag ein H\u00e4rteausgleich gew\u00e4hrt werden, wenn solche Verm\u00f6gensgegenst\u00e4nde auf Grund allgemeiner Ma\u00dfnahmen aus dem Entziehungsgebiet ganz oder \u00fcberwiegend in den nach \u00a7 5 ma\u00dfgeblichen Bereich gelangt sind. Die in Satz 1 genannten allgemeinen Ma\u00dfnahmen und die Entziehungsgebiete und Entziehungszeitr\u00e4ume, f\u00fcr die sie getroffen worden sind, werden durch Rechtsverordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf, bezeichnet. Durch Rechtsverordnung der Bundesregierung, die der Zustimmung des Bundesrates bedarf, kann bestimmt werden, da\u00df ein H\u00e4rteausgleich auch wegen der Entziehung von anderen als in Satz 1 genannten Gegenst\u00e4nden gew\u00e4hrt werden kann, wenn solche Gegenst\u00e4nde auf Grund allgemeiner Ma\u00dfnahmen aus dem Entziehungsgebiet ganz oder \u00fcberwiegend in den nach \u00a7 5 ma\u00dfgeblichen Bereich gelangt sind; Satz 2 gilt entsprechend. Rechtsverordnungen nach Satz 2 und 3 k\u00f6nnen nur bis zum 31. Dezember 1965 erlassen werden.</P><P>(2) Ein H\u00e4rteausgleich wird nur nat\u00fcrlichen Personen, die im Zeitpunkt der Entziehung Eigent\u00fcmer der entzogenen Gegenst\u00e4nde waren, gew\u00e4hrt. Ist der Eigent\u00fcmer verstorben, wird der H\u00e4rteausgleich dem \u00fcberlebenden Ehegatten und den Kindern des Eigent\u00fcmers gew\u00e4hrt.</P><P>(3) Ein H\u00e4rteausgleich wird nicht gew\u00e4hrt, wenn die nach Absatz 2 empfangsberechtigten Personen am 8. Oktober 1964 ihren Wohnsitz oder dauernden Aufenthalt in Gebieten hatten, mit deren Regierungen die Bundesrepublik Deutschland zu diesem Zeitpunkt keine diplomatischen Beziehungen unterh\u00e4lt. \u00a7 45 Abs. 2 findet entsprechende Anwendung.</P><P>(4) Der Antrag auf H\u00e4rteausgleich kann von den nach Absatz 2 empfangsberechtigten Personen gestellt werden; sind mehrere Personen empfangsberechtigt, so gilt der Antrag eines Empfangsberechtigten zugunsten aller empfangsberechtigten Personen, die der nach Absatz 5 zust\u00e4ndigen Beh\u00f6rde bei der Entscheidung \u00fcber den H\u00e4rteausgleich bekannt sind. Ist ein Antrag von mehreren nach Absatz 2 empfangsberechtigten Personen gestellt oder gilt ein Antrag zugunsten mehrerer Empfangsberechtigter, so wird der H\u00e4rteausgleich ihnen gemeinsam gew\u00e4hrt. Sie sind in den F\u00e4llen des Absatzes 2 Satz 2 im Verh\u00e4ltnis zueinander zu den Anteilen berechtigt, die ihren Anteilen am Nachla\u00df des Eigent\u00fcmers (Absatz 2 Satz 1) entsprechen.</P><P>(5) Die Bundesregierung bestimmt durch Rechtsverordnung, die der Zustimmung des Bundesrates bedarf, die f\u00fcr die Entgegennahme des Antrags und zur Entscheidung \u00fcber den H\u00e4rteausgleich zust\u00e4ndige Beh\u00f6rde. Der Antrag mu\u00df bei der nach Satz 1 zust\u00e4ndigen Beh\u00f6rde binnen eines Jahres nach Inkrafttreten der Rechtsverordnung eingegangen sein.</P><P>(6) Die nach Absatz 5 zust\u00e4ndige Beh\u00f6rde hat von Amts wegen alle f\u00fcr die Gew\u00e4hrung des H\u00e4rteausgleichs erheblichen Tatsachen zu ermitteln; alle Beh\u00f6rden und Gerichte haben ihr unentgeltlich Amts- und Rechtshilfe zu leisten. Die nach Absatz 5 zust\u00e4ndige Beh\u00f6rde ist zur Entgegennahme von Versicherungen an Eides Statt befugt.</P><P>(7) Der H\u00e4rteausgleich betr\u00e4gt bei der Entziehung von Hausrat in den ehemals besetzten Westgebieten 8.000 Deutsche Mark, bei der Entziehung von Schmuck- und Edelmetallgegenst\u00e4nden in den ehemals besetzten oder eingegliederten Gebieten 2.000 Deutsche Mark. Der H\u00e4rteausgleich betr\u00e4gt jedoch h\u00f6chstens zwei Drittel des Wiederbeschaffungswertes (\u00a7 16) der entzogenen Gegenst\u00e4nde.</P><P>(8) Soweit die in Absatz 1 Satz 3 vorgesehene Rechtsverordnung einen H\u00e4rteausgleich auch f\u00fcr andere als in Absatz 1 Satz 1 genannten Gegenst\u00e4nde zul\u00e4\u00dft, kann sie auch bestimmen, welche Vorauszahlungen auf den H\u00e4rteausgleich gezahlt werden; Absatz 7 Satz 2 gilt entsprechend.</P><P>(9) Sind Verm\u00f6gensgegenst\u00e4nde mehreren Mitgliedern einer Familiengemeinschaft entzogen worden, wird der H\u00e4rteausgleich nur einmal gew\u00e4hrt. Die Zahlungen nach Absatz 7 erh\u00f6hen sich in diesem Falle um 20 vom Hundert f\u00fcr den Ehegatten und um 10 vom Hundert f\u00fcr jedes Kind. Der H\u00e4rteausgleich betr\u00e4gt jedoch h\u00f6chstens zwei Drittel des Wiederbeschaffungswertes (\u00a7 16) der der Familiengemeinschaft insgesamt entzogenen Verm\u00f6gensgegenst\u00e4nde. Als Familiengemeinschaften gelten Ehegatten sowie ihre unverheirateten ehelichen Kinder, die das 21. Lebensjahr noch nicht vollendet hatten; ma\u00dfgebend sind Alter und Familienstand im Zeitpunkt der Entziehung.</P><P>(10) Der H\u00e4rteausgleich wird im Falle des Absatzes 9 den Mitgliedern der Familiengemeinschaft gemeinsam gew\u00e4hrt. Sie sind im Verh\u00e4ltnis zueinander entsprechend den Wiederbeschaffungswerten der ihnen entzogenen Gegenst\u00e4nde am H\u00e4rteausgleich beteiligt. Ist ein Mitglied der Familiengemeinschaft verstorben, findet Absatz 2 Satz 2 entsprechende Anwendung.</P><P>(11) Die Durchf\u00fchrung der Bestimmungen der Abs\u00e4tze 1 bis 10 erfolgt im Rahmen der im jeweiligen Haushaltsplan ausgebrachten Mittel.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007340957BJNG001200319",
+        "name": "Siebenter Abschnitt",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006800319",
+        "name": "\u00a7 45",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001200319"
+        },
+        "body": "<P>(1) Anspr\u00fcche nach diesem Gesetz werden nicht befriedigt, solange der Berechtigte seinen Wohnsitz oder dauernden Aufenthalt in Gebieten hat, mit deren Regierungen die Bundesrepublik Deutschland keine diplomatischen Beziehungen unterh\u00e4lt.</P><P>(2) Die Bundesregierung kann bestimmen, welche Staaten, mit deren Regierungen die Bundesrepublik Deutschland keine diplomatischen Beziehungen unterh\u00e4lt, behandelt werden, als ob mit ihnen diplomatische Beziehungen unterhalten w\u00fcrden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE006900319",
+        "name": "\u00a7 46",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001200319"
+        },
+        "body": "<P>(1) Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P><P>(2) Soweit in den \u00a7\u00a7 11, 20 und 21 auf die Vorschriften \u00fcber die Neuordnung des Geldwesens Bezug genommen ist, treten an die Stelle dieser Vorschriften in Berlin die dort geltenden entsprechenden Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE007000319",
+        "name": "\u00a7 47",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001200319"
+        },
+        "body": "<P><I>Dieses Gesetz gilt nicht im Saarland.</I></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007340957BJNE007100319",
+        "name": "\u00a7 48",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007340957BJNG001200319"
+        },
+        "body": "<P>Dieses Gesetz tritt am Tag seiner Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

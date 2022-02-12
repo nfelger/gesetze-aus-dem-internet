@@ -1,0 +1,424 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR162700999",
+    "firstPublished": "1999-07-15",
+    "sourceTimestamp": "20200731212520",
+    "titleShort": "Sozialversicherungs-Rechnungsverordnung",
+    "titleLong": "Verordnung \u00fcber den Zahlungsverkehr, die Buchf\u00fchrung und die Rechnungslegung in der Sozialversicherung",
+    "abbreviation": "SVRV",
+    "slug": "svrv",
+    "extraAbbreviations": [
+      "SVRV 1999"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1999, 1627",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 4 G v. 22.3.2020 I 604",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 24.7.1999 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE000700000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 78 Satz 1 des Vierten Buches Sozialgesetzbuch - Gemeinsame Vorschriften f\u00fcr die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845), der durch Artikel 4 Nr. 23 des Gesetzes vom 24. M\u00e4rz 1997 (BGBl. I S. 594) neugefa\u00dft worden ist, sowie, jeweils in Verbindung mit der eingangs genannten Vorschrift, auf Grund des \u00a7 78 Abs. 3 Satz 3 des F\u00fcnften Buches Sozialgesetzbuch - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes vom 20. Dezember 1988, BGBl. I S. 2477), der zuletzt durch Artikel 4 Nr. 2 des Gesetzes vom 16. Dezember 1997 (BGBl. I S. 2970) ge\u00e4ndert worden ist, des \u00a7 208 Abs. 2 Satz 2 des F\u00fcnften Buches Sozialgesetzbuch, der durch Artikel 1 Nr. 124 Buchstabe b des Gesetzes vom 21. Dezember 1992 (BGBl. I S. 2266) ge\u00e4ndert worden ist, auch in Verbindung mit \u00a7 214 Abs. 1 Satz 2 des F\u00fcnften Buches Sozialgesetzbuch, und des \u00a7 54 Abs. 2 Satz 1 des Gesetzes \u00fcber die Alterssicherung der Landwirte (Artikel 1 des Gesetzes vom 29. Juli 1994, BGBl. I S. 1890), verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR162700999BJNG000100000",
+        "name": "Erster Abschnitt",
+        "title": "Allgemeines",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE000802377",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000100000"
+        },
+        "body": "<P>(1) Diese Verordnung gilt f\u00fcr die Tr\u00e4ger der gesetzlichen Kranken-, Unfall- und Rentenversicherung einschlie\u00dflich der Alterssicherung der Landwirte sowie f\u00fcr die Tr\u00e4ger der sozialen Pflegeversicherung einschlie\u00dflich des Ausgleichsfonds nach \u00a7 65 des Elften Buches Sozialgesetzbuch. Sie gilt entsprechend f\u00fcr die Kassen\u00e4rztlichen und Kassenzahn\u00e4rztlichen Vereinigungen und deren Bundesvereinigungen sowie f\u00fcr die Verb\u00e4nde und die sonstigen Vereinigungen auf dem Gebiet der Sozialversicherung, die K\u00f6rperschaften des \u00f6ffentlichen Rechts sind. Sie gilt ferner nach \u00a7 281 Abs. 2 des F\u00fcnften Buches Sozialgesetzbuch entsprechend f\u00fcr die Medizinischen Dienste der Krankenversicherung.</P><P>(2) F\u00fcr Unfallversicherungstr\u00e4ger nach \u00a7 114 Abs. 1 Nummer 4, 5 und 7 des Siebten Buches Sozialgesetzbuch, deren Rechnungsf\u00fchrung auf die einer Gebietsk\u00f6rperschaft abgestellt ist, und f\u00fcr Feuerwehr-Unfallkassen kann die Aufsichtsbeh\u00f6rde Ausnahmen von den Vorschriften der \u00a7\u00a7 2 bis 17, 19 und 20 zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR162700999BJNG000200000",
+        "name": "Zweiter Abschnitt",
+        "title": "Zahlungsverkehr",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE000900000",
+        "name": "\u00a7 2",
+        "title": "Abwicklung des Zahlungsverkehrs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000200000"
+        },
+        "body": "<P>(1) Der Zahlungsverkehr ist ordnungsgem\u00e4\u00df, sicher und wirtschaftlich durchzuf\u00fchren.</P><P>(2) Ein- und Auszahlungen sind auf Grund von Zahlungsanordnungen anzunehmen oder zu leisten. Bei Einzahlungen kann hiervon ausnahmsweise abgewichen werden, sofern ein sachlicher Grund vorliegt.</P><P>(3) Zur Anordnung oder Feststellung Befugte d\u00fcrfen an der Abwicklung des Zahlungsverkehrs nicht beteiligt sein. In der Kassenordnung k\u00f6nnen Ausnahmen zugelassen werden, wenn dies aus organisatorischen oder personellen Gr\u00fcnden erforderlich ist.</P><P>(4) Der Zahlungsverkehr und die Buchf\u00fchrung sind verschiedenen Bediensteten zu \u00fcbertragen. In der Kassenordnung k\u00f6nnen Ausnahmen zugelassen werden, wenn dies aus organisatorischen oder personellen Gr\u00fcnden erforderlich ist.</P><P>(5) Wird von den Ausnahmem\u00f6glichkeiten der Abs\u00e4tze 3 und 4 Gebrauch gemacht, so mu\u00df sichergestellt sein, da\u00df die Freigabe zur Zahlung oder der Zahlungsauftrag an das Geldinstitut durch einen Bediensteten erfolgt, der weder mit der Anordnung noch mit der Feststellung noch mit der Buchf\u00fchrung befa\u00dft ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001000000",
+        "name": "\u00a7 3",
+        "title": "Kassenordnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000200000"
+        },
+        "body": "<P>Der Vorstand des Versicherungstr\u00e4gers hat zur Sicherheit des Zahlungsverkehrs und der Buchf\u00fchrung eine Kassenordnung aufzustellen. Die Aufsichtsbeh\u00f6rde ist von der Kassenordnung und ihren \u00c4nderungen zu unterrichten. Die Unterrichtung kann unterbleiben, soweit die Kassenordnung mit der Musterkassenordnung \u00fcbereinstimmt, die der zust\u00e4ndige Bundes- oder Landesverband oder die zust\u00e4ndige Bundesvereinigung in Abstimmung mit den f\u00fcr die Sozialversicherung zust\u00e4ndigen obersten Verwaltungsbeh\u00f6rden oder den von diesen bestimmten Stellen aufgestellt hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001100000",
+        "name": "\u00a7 4",
+        "title": "Pr\u00fcfungen der Kasse und der Buchf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000200000"
+        },
+        "body": "<P>(1) Die Kasse und die Buchf\u00fchrung sind, soweit sie Barmittel und Girokonten betreffen, mehrmals im Jahr unvermutet zu pr\u00fcfen. In die Pr\u00fcfung sind Termingelder einzubeziehen, soweit es sich um sofort verf\u00fcgbare Zahlungsmittel handelt. Eine Pr\u00fcfung im Jahr hat sich auch auf die \u00fcbrigen Geldanlagen zu beziehen.</P><P>(2) Betriebskassen, Nebenkassen und Zahlstellen sind j\u00e4hrlich mindestens einmal unvermutet zu pr\u00fcfen, sofern der j\u00e4hrliche Umsatz der Kasse \u00fcber einer in allgemeinen Verwaltungsvorschriften festzulegenden Grenze liegt.</P><P>(3) Wenn durch ein ungew\u00f6hnliches Ereignis ein Schaden entstanden ist oder ein solcher vermutet wird, ist unverz\u00fcglich zu pr\u00fcfen.</P><P>(4) Werden bei einer Pr\u00fcfung M\u00e4ngel von grunds\u00e4tzlicher Bedeutung oder Sch\u00e4den von erheblichem finanziellem Umfang festgestellt, so ist die Aufsichtsbeh\u00f6rde zu unterrichten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR162700999BJNG000300000",
+        "name": "Dritter Abschnitt",
+        "title": "Belege",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001200000",
+        "name": "\u00a7 5",
+        "title": "Belegpflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000300000"
+        },
+        "body": "<P>Alle Buchungen m\u00fcssen belegt sein; bei Er\u00f6ffnungs- und Abschlu\u00dfbuchungen kann von diesem Grundsatz abgewichen werden. Es ist sicherzustellen, da\u00df eine nochmalige Verwendung von Belegen ausgeschlossen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001300000",
+        "name": "\u00a7 6",
+        "title": "Belege f\u00fcr Einzahlungen, Auszahlungen und Buchungen\nohne Zahlungsvorgang",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000300000"
+        },
+        "body": "<P>(1) Belege f\u00fcr Einzahlungen und f\u00fcr Auszahlungen bestehen aus <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Zahlungsanordnung (Annahme- oder Auszahlungsanordnung),</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den sonstigen die Zahlung begr\u00fcndenden Unterlagen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Zahlungsbescheinigung oder der Quittung.</LA></DD> </DL> </P><P>(2) Belege f\u00fcr Buchungen, denen kein Zahlungsvorgang zugrunde liegt, bestehen aus <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Buchungsanordnung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den sonstigen die Buchung begr\u00fcndenden Unterlagen.</LA></DD> </DL> </P><P>(3) Belege im Sinne der Abs\u00e4tze 1 und 2 k\u00f6nnen auch elektronisch erzeugte Dateien oder Datens\u00e4tze sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001405126",
+        "name": "\u00a7 7",
+        "title": "Zahlungsanordnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000300000"
+        },
+        "body": "<P>(1) Die Zahlungsanordnung kann erteilt werden als <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzelanordnung f\u00fcr eine Zahlung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sammelanordnung f\u00fcr mehrere Zahlungen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Daueranordnung f\u00fcr laufende Zahlungen.</LA></DD></DL></P><P>(2) Die Zahlungsanordnung kann auch in abgek\u00fcrzter Form (abgek\u00fcrzte Zahlungsanordnung) oder in allgemeiner Form (allgemeine Zahlungsanordnung) erteilt werden.</P><P>(3) Die Zahlungsanordnung ist von dem zur Anordnung Befugten schriftlich oder im Wege IT-gest\u00fctzter Verfahren zu erteilen.</P><P>(4) In der Zahlungsanordnung d\u00fcrfen die H\u00f6he des Betrages, der anzunehmen oder auszuzahlen ist, und die Bezeichnung des Einzahlers oder des Empf\u00e4ngers sowie die Kontonummer nicht ge\u00e4ndert werden.</P><P>(5) Absatz 1 Nr. 1 und 2 sowie die Abs\u00e4tze 3 und 4 gelten f\u00fcr die Buchungsanordnung entsprechend.</P><P>(6) N\u00e4here Einzelheiten sind in allgemeinen Verwaltungsvorschriften zu regeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001500000",
+        "name": "\u00a7 8",
+        "title": "Quittung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000300000"
+        },
+        "body": "<P>(1) \u00dcber jede Einzahlung, die durch \u00dcbergabe von Zahlungsmitteln geleistet wird, ist eine Quittung mit Durchschrift auszustellen. Auf die Durchschrift kann bei maschinell erstellten Quittungen dann verzichtet werden, wenn im gleichen Arbeitsgang eine Buchung erfolgt. F\u00fcr Einzahlungen, die mittels Scheck erfolgen, wird eine Quittung nur auf Verlangen des Einzahlers ausgestellt. Weitere Ausnahmen von Satz 1 k\u00f6nnen in der Kassenordnung unter dort n\u00e4her zu regelnden Voraussetzungen zugelassen werden.</P><P>(2) \u00dcber jede Auszahlung, die durch \u00dcbergabe von Zahlungsmitteln geleistet wird, ist eine Quittung zu verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001600000",
+        "name": "\u00a7 9",
+        "title": "Feststellung der Belege",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000300000"
+        },
+        "body": "<P>(1) Belege bed\u00fcrfen der sachlichen und rechnerischen Feststellung.</P><P>(2) Auf die sachliche und rechnerische Feststellung von sonstigen die Zahlung begr\u00fcndenden Unterlagen kann bei Unterlagen von Beh\u00f6rden, Gerichten, Sozialversicherungstr\u00e4gern oder ihren Verb\u00e4nden verzichtet werden, soweit die Zahlungen auf Rechtsvorschriften beruhen.</P><P>(3) Die Feststellung durch automatisierte Verfahren kann nach Ma\u00dfgabe allgemeiner Verwaltungsvorschriften vorgenommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR162700999BJNG000400000",
+        "name": "Vierter Abschnitt",
+        "title": "Buchf\u00fchrung und Rechnungslegung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001700000",
+        "name": "\u00a7 10",
+        "title": "Grunds\u00e4tze der Buchf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>(1) Die Grunds\u00e4tze ordnungsm\u00e4\u00dfiger Buchf\u00fchrung sind zu beachten; Buchungen und Aufzeichnungen sind vollst\u00e4ndig, richtig, zeitgerecht, geordnet und nachpr\u00fcfbar vorzunehmen.</P><P>(2) Alle Buchungen m\u00fcssen jederzeit in zeitlicher und sachlicher Ordnung (Zeitbuch/Journal und Sachbuch/Konten) nachweisbar sein.</P><P>(3) Die Betr\u00e4ge sind brutto zu buchen, das hei\u00dft ohne Abzug der Erstattungen mit Ausnahme von Rabatten und Skonti, soweit die Bestimmungen zu einzelnen Positionen des den Buchungen zugrunde zu legenden Kontenrahmens nichts anderes vorschreiben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001805126",
+        "name": "\u00a7 11",
+        "title": "Aktivierung und Bewertung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>(1) Geldanlagen, Beteiligungen, Grundst\u00fccke, Geb\u00e4ude, technische Anlagen sowie Gegenst\u00e4nde der beweglichen Einrichtung, die ohne Umsatzsteuer den Wert von 800 Euro \u00fcbersteigen, sind nach Ma\u00dfgabe allgemeiner Verwaltungsvorschriften mit den Anschaffungs- oder Herstellungskosten zu aktivieren.</P><P>(1a) Abweichend von Absatz 1 kann f\u00fcr Gegenst\u00e4nde der beweglichen Einrichtung, deren Anschaffungs- oder Herstellungskosten ohne Umsatzsteuer den Wert von 250 Euro, aber nicht 1\u00a0000 Euro \u00fcbersteigen, im Jahr der Anschaffung ein Sammelposten gebildet werden. Satz 1 ist f\u00fcr alle in einem Gesch\u00e4ftsjahr angeschafften Gegenst\u00e4nde der beweglichen Einrichtung einheitlich anzuwenden. Ein einmal gew\u00e4hltes Verfahren muss in den folgenden Gesch\u00e4ftsjahren beibehalten werden. Das Verfahren kann nur mit Genehmigung der Aufsichtsbeh\u00f6rde ge\u00e4ndert werden. N\u00e4here Einzelheiten sind in der allgemeinen Verwaltungsvorschrift zu regeln.</P><P>(2) Nachtr\u00e4gliche Anschaffungs- oder Herstellungskosten von Geb\u00e4uden, technischen Anlagen sowie von Gegenst\u00e4nden der beweglichen Einrichtung sind, wenn sie zu einer erheblichen Werterh\u00f6hung f\u00fchren, nach Ma\u00dfgabe allgemeiner Verwaltungsvorschriften zu aktivieren.</P><P>(2a) Selbsterstellte und selbst genutzte Software kann nach Ma\u00dfgabe allgemeiner Verwaltungsvorschriften mit den Herstellungskosten aktiviert werden.</P><P>(3) Geb\u00e4ude, technische Anlagen, Herstellungskosten f\u00fcr selbst erstellte und selbst genutzte Software sowie Gegenst\u00e4nde der beweglichen Einrichtung sind nach Ma\u00dfgabe allgemeiner Verwaltungsvorschriften j\u00e4hrlich linear abzuschreiben.</P><P>(4) Wird der Wert von Grundst\u00fccken, Geb\u00e4uden, technischen Anlagen, aktivierten Herstellungskosten f\u00fcr selbst erstellte und selbst genutzte Software sowie von Gegenst\u00e4nden der beweglichen Einrichtung dauerhaft erheblich gemindert, so ist eine au\u00dferplanm\u00e4\u00dfige Abschreibung nach Ma\u00dfgabe allgemeiner Verwaltungsvorschriften vorzunehmen.</P><P>(5) Technische Anlagen im Sinne der Abs\u00e4tze 1 bis 4 sind alle im Bauwerk eingebauten, daran angeschlossenen oder damit fest verbundenen technischen Anlagen oder Anlagenteile. Hierzu z\u00e4hlen auch technische Anlagen auf dem Grundst\u00fcck einschlie\u00dflich der Ver- und Entsorgung des Bauwerks.</P><P>(6) Gewinne oder Verluste aus Preis- und Kurs\u00e4nderungen sind erst beim Verkauf als au\u00dferordentlicher Aufwand oder Ertrag in Ansatz zu bringen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE001904126",
+        "name": "\u00a7 12",
+        "title": "R\u00fcckstellungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>(1) F\u00fcr eine Verpflichtung aus einer Altersvorsorgezusage f\u00fcr Bedienstete ist eine R\u00fcckstellung zu bilden. Soweit sich aus anderen Rechtsvorschriften nichts Abweichendes ergibt, bestimmt sich der H\u00f6chstwert der R\u00fcckstellungen nach dem f\u00fcr den jeweiligen Versicherungszweig geltenden versicherungsmathematisch ermittelten aktuellen Wert der sp\u00e4teren Zahlungen. Dieser Wert ist bei wesentlichen \u00c4nderungen der Berechnungsgrundlagen, in der Regel alle f\u00fcnf Jahre, zu aktualisieren. Die Altersr\u00fcckstellungen und das Deckungskapital d\u00fcrfen nur zweckentsprechend aufgel\u00f6st werden. F\u00fcr die Krankenkassen mit Ausnahme der landwirtschaftlichen Krankenkasse gelten die S\u00e4tze 1 und 4 entsprechend f\u00fcr Verpflichtungen aus Vereinbarungen \u00fcber die Altersteilzeitarbeit sowie f\u00fcr Verpflichtungen nach \u00a7 7b des Vierten Buches Sozialgesetzbuch. Soweit von den Tr\u00e4gern der gesetzlichen Rentenversicherung und der gesetzlichen Unfallversicherung R\u00fcckstellungen f\u00fcr Verpflichtungen aus Vereinbarungen \u00fcber die Altersteilzeitarbeit sowie f\u00fcr Verpflichtungen nach \u00a7 7b des Vierten Buches Sozialgesetzbuch gebildet werden, gelten die S\u00e4tze 1 und 4 entsprechend.</P><P>(1a) Soweit f\u00fcr Verpflichtungen einer Krankenkasse, f\u00fcr die nach \u00a7 169 Absatz 1 des F\u00fcnften Buches Sozialgesetzbuch der Spitzenverband Bund der Krankenkassen haftet, eine Zuf\u00fchrung zu den R\u00fcckstellungen erforderlich ist, darf dieser Betrag wie das nach \u00a7 170 des F\u00fcnften Buches Sozialgesetzbuch zu bildende Deckungskapital bis sp\u00e4testens zum 31. Dezember 2049 angesammelt werden und muss der Gesamtbetrag des R\u00fcckstellungsbedarfs so lange im Anhang zur Jahresrechnung nach \u00a7 29a der Verordnung \u00fcber das Haushaltswesen in der Sozialversicherung ausgewiesen werden.</P><P>(2) Von den Kassen\u00e4rztlichen und Kassenzahn\u00e4rztlichen Vereinigungen und deren Bundesvereinigungen k\u00f6nnen R\u00fcckstellungen, die zur periodengerechten Zuordnung von Aufwendungen erforderlich sind, gebildet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 12 Abs. 1 Satz 5 und 6, Abs. 1a: Zur Anwendung vgl. \u00a7 20b +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002000000",
+        "name": "\u00a7 13",
+        "title": "F\u00fchrung der B\u00fccher",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>(1) Die gleichzeitige Eintragung in verschiedene B\u00fccher ist zul\u00e4ssig, wenn die B\u00fccher im Durchschreibeverfahren gef\u00fchrt oder andere technische Hilfsmittel verwendet werden.</P><P>(2) Werden die B\u00fccher auf maschinell verwertbaren Datentr\u00e4gern gef\u00fchrt, mu\u00df insbesondere sichergestellt werden, da\u00df die Daten verf\u00fcgbar sind und jederzeit innerhalb angemessener Frist lesbar gemacht und ausgedruckt werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002100000",
+        "name": "\u00a7 14",
+        "title": "Aufbewahrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>(1) Die B\u00fccher und die sonst erforderlichen Aufzeichnungen sind durch geeignete Ma\u00dfnahmen gegen Verlust, Wegnahme und Ver\u00e4nderung w\u00e4hrend der Aufbewahrungsfristen zu sch\u00fctzen.</P><P>(2) Die Aufbewahrungsfristen f\u00fcr die B\u00fccher und f\u00fcr die sonst erforderlichen Aufzeichnungen sowie die Form der Aufbewahrung sind in allgemeinen Verwaltungsvorschriften zu regeln.</P><P>(3) Werden die B\u00fccher und die sonst erforderlichen Aufzeichnungen auf maschinell verwertbaren Datentr\u00e4gern aufbewahrt, so mu\u00df insbesondere sichergestellt werden, da\u00df die Daten w\u00e4hrend der Aufbewahrungsfrist verf\u00fcgbar sind und jederzeit innerhalb angemessener Frist lesbar gemacht und ausgedruckt werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002200000",
+        "name": "\u00a7 15",
+        "title": "Tages- und Monatsabstimmung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>(1) F\u00fcr jeden Tag, an dem Zahlungen angenommen oder geleistet worden sind, ist der buchm\u00e4\u00dfige Bestand der Barmittel und Girokonten mit dem tats\u00e4chlichen Bestand abzustimmen. In die Tagesabstimmung sind Termingelder einzubeziehen, soweit es sich um sofort verf\u00fcgbare Zahlungsmittel handelt.</P><P>(2) Das Sachbuch ist f\u00fcr jeden Monat mit den anderen B\u00fcchern abzustimmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002403126",
+        "name": "\u00a7 16",
+        "title": "Bestandsverzeichnisse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>(1) \u00dcber Grundst\u00fccke, Geb\u00e4ude sowie technische Anlagen nach \u00a7 11 Abs. 5 und Gegenst\u00e4nde der beweglichen Einrichtung, die Eigentum des Versicherungstr\u00e4gers sind, ist ein Verzeichnis zu f\u00fchren. Sind die in Satz 1 genannten Verm\u00f6gensgegenst\u00e4nde vom Versicherungstr\u00e4ger geleast, gemietet oder gepachtet worden, ist ein gesondertes Verzeichnis zu f\u00fchren.</P><P>(2) F\u00fcr Gegenst\u00e4nde der beweglichen Einrichtung, f\u00fcr die nach \u00a7 11 Absatz 1a ein Sammelposten gebildet werden kann, sowie f\u00fcr Gegenst\u00e4nde der beweglichen Einrichtung, die ohne Umsatzsteuer den Wert von 250 Euro nicht \u00fcberschreiten, kann nach Ma\u00dfgabe allgemeiner Verwaltungsvorschriften von der Aufnahme in das Verzeichnis abgesehen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002500000",
+        "name": "\u00a7 17",
+        "title": "Einsatz der automatisierten Datenverarbeitung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>Der hauptamtliche Vertreter des Versicherungstr\u00e4gers hat bei Einsatz der automatisierten Datenverarbeitung zur Sicherheit des Verfahrens eine Dienstanweisung zu erlassen. Die Grunds\u00e4tze ordnungsm\u00e4\u00dfiger Datenverarbeitung sind zu beachten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002602308",
+        "name": "\u00a7 18",
+        "title": "Rechnungslegung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000400000"
+        },
+        "body": "<P>(1) F\u00fcr jedes Gesch\u00e4ftsjahr sind die B\u00fccher abzuschlie\u00dfen.</P><P>(2) In der Jahresrechnung (\u00a7\u00a7 27 bis 30 der Verordnung \u00fcber das Haushaltswesen in der Sozialversicherung vom 21. Dezember 1977, BGBl. I S. 3147) ist nach der Gliederung des geltenden Kontenrahmens Rechnung zu legen.</P><P>(3) Die Tr\u00e4ger der Krankenversicherung und ihre Verb\u00e4nde mit Ausnahme der Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau haben ihrer Jahresrechnung einen Anhang nach \u00a7 29a der Verordnung \u00fcber das Haushaltswesen in der Sozialversicherung beizuf\u00fcgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 18 Abs. 3: Zur Anwendung vgl. \u00a7 20b +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR162700999BJNG000501308",
+        "name": "F\u00fcnfter Abschnitt",
+        "title": "Durchf\u00fchrung von Aufgaben durch Verb\u00e4nde und Dritte",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002702308",
+        "name": "\u00a7 19",
+        "title": "Durchf\u00fchrung von Aufgaben durch Dritte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000501308"
+        },
+        "body": "<P>Soweit sich der Versicherungstr\u00e4ger bei der Erf\u00fcllung seiner gesetzlich vorgeschriebenen Aufgaben zul\u00e4ssigerweise eines Dritten bedient, kann er auch die damit notwendigerweise verbundenen Aufgaben des Rechnungswesens durch diesen Dritten wahrnehmen lassen. Der Versicherungstr\u00e4ger ist f\u00fcr die Einhaltung dieser Verordnung durch den Dritten verantwortlich und hat die Einhaltung dieser Verordnung mindestens einmal j\u00e4hrlich zu pr\u00fcfen. Die Pr\u00fcfrechte der Aufsichtsbeh\u00f6rde und anderer Stellen erstrecken sich auch auf die Einhaltung dieser Verordnung durch den Dritten. Die Wahrnehmung der in Satz 1 genannten Aufgaben durch einen Dritten ist der Aufsichtsbeh\u00f6rde anzuzeigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE003201308",
+        "name": "\u00a7 19a",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000501308"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR162700999BJNG000600000",
+        "name": "Sechster Abschnitt",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002801308",
+        "name": "\u00a7 20",
+        "title": "Ausnahmeregelungen zur Aktivierung und Bewertung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000600000"
+        },
+        "body": "<P>(1) Die gesonderte Aktivierung und Bewertung technischer Anlagen (\u00a7 11) ist erstmals f\u00fcr solche Anlagen vorzunehmen, die nach dem 31. Dezember 1999 angeschafft werden. N\u00e4here Einzelheiten sind in den Kontenrahmen zu regeln.</P><P>(2) Anteile von Tr\u00e4gern der gesetzlichen Rentenversicherung an einem Wohnungsbau-Unternehmen in der Form einer Aktiengesellschaft sind nach einem auf dem Ertragswert berechneten Gesamtwert zu bewerten.</P><P>(3) Beteiligungen von Tr\u00e4gern der gesetzlichen Unfallversicherung an Gemeinschaftseinrichtungen sind j\u00e4hrlich in dem Umfang abzuschreiben, wie sie von den Einrichtungen abgeschrieben werden.</P><P>(4) (weggefallen)</P><P>(5) Die Kassen\u00e4rztlichen und Kassenzahn\u00e4rztlichen Vereinigungen und deren Bundesvereinigungen k\u00f6nnen abweichend von \u00a7 11 Abs. 1 Wertpapiere zum R\u00fcckkaufwert aktivieren, wenn dieser dauerhaft unter den Anschaffungskosten liegt. Die Differenz ist abweichend von \u00a7 11 Abs. 6 als au\u00dferordentlicher Verlust in Ansatz zu bringen. Gleiches gilt, wenn am Jahresende der Kurswert der Wertpapiere unter den Anschaffungskosten liegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE003102308",
+        "name": "\u00a7 20a",
+        "title": "\u00dcbergangsvorschriften zur Ersten Verordnung zur \u00c4nderung der Sozialversicherungs-Rechnungsverordnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000600000"
+        },
+        "body": "<P>\u00a7 16 Absatz 2 kann bis zum 31. Dezember 2010 mit der Ma\u00dfgabe angewendet werden, dass bei Gegenst\u00e4nden der beweglichen Einrichtung, die ohne Umsatzsteuer den Wert von 410 Euro nicht \u00fcbersteigen, nach Ma\u00dfgabe allgemeiner Verwaltungsvorschriften von der Aufnahme in das Verzeichnis abgesehen werden kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE003300308",
+        "name": "\u00a7 20b",
+        "title": "Anwendungsbestimmung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000600000"
+        },
+        "body": "<P>\u00a7 12 Absatz 1 Satz 5 und 6, \u00a7 12 Absatz 1a in der ab dem 14. Dezember 2010 geltenden Fassung und \u00a7 18 Absatz 3 sind erstmals auf die Jahresrechnung f\u00fcr das Gesch\u00e4ftsjahr 2010 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE002900000",
+        "name": "\u00a7 21",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000600000"
+        },
+        "body": "<P>(1) Diese Verordnung tritt am Tage nach der Verk\u00fcndung in Kraft; \u00a7 16 Abs. 1 Satz 2 tritt am 1. Januar 2002 in Kraft.</P><P>(2)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR162700999BJNE003000000",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR162700999BJNG000600000"
+        },
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

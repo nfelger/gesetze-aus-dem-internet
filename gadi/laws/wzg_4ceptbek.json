@@ -1,0 +1,60 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR018800977",
+    "firstPublished": "1977-09-27",
+    "sourceTimestamp": "20160623215505",
+    "titleShort": null,
+    "titleLong": "Bekanntmachung zu \u00a7 4 des Warenzeichengesetzes",
+    "abbreviation": "WZG\u00a74CEPTBek",
+    "slug": "wzg_4ceptbek",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1977, 1880",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  1.10.1977 +++)</P>"
+    },
+    "attachments": {
+      "bgbl1_1977_j1880_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/wzg_4ceptbek/bgbl1_1977_j1880_0010.jpg"
+    },
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR018800977BJNE000100303",
+        "name": "(XXXX)",
+        "title": null,
+        "parent": null,
+        "body": "<P>(1) Auf Grund des \u00a7 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (BGBl. I S. 1, 29) wird bekanntgemacht, da\u00df das in der Anlage aufgef\u00fchrte Kennzeichen der Europ\u00e4ischen Konferenz der Verwaltungen f\u00fcr Post und Fernmeldewesen (CEPT) von der Eintragung als Warenzeichen ausgeschlossen ist.</P><P>(2) Diese Bekanntmachung ergeht im Anschlu\u00df an die Bekanntmachung vom 20. Juli 1977 (BGBl. I S. 1345).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR018800977BJNE000900303",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesminister der Justiz</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR018800977BJNE000200303",
+        "name": "Anlage",
+        "title": "Europ\u00e4ische Konferenz der Verwaltungen f\u00fcr Post und Fernmeldewesen (CEPT)",
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">Fundstelle: BGBl. I 1977, 1880)</kommentar></noindex></P><P>CONFERENCE EUROPEENNE DES ADMINISTRATIONS DES POSTES ET DES TELECOMMUNICATIONS CEPT<IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_1977_j1880_0010.jpg\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

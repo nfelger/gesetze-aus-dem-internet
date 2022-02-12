@@ -1,0 +1,145 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR216500005",
+    "firstPublished": "2005-07-14",
+    "sourceTimestamp": "20170411213601",
+    "titleShort": "Pfandbrief-Barwertverordnung",
+    "titleLong": "Verordnung \u00fcber die Sicherstellung der jederzeitigen Deckung von Hypothekenpfandbriefen, \u00d6ffentlichen Pfandbriefen, Schiffspfandbriefen und Flugzeugpfandbriefen nach dem Barwert und dessen Berechnung bei Pfandbriefbanken",
+    "abbreviation": "PfandBarwertV",
+    "slug": "pfandbarwertv",
+    "extraAbbreviations": [
+      "PfandBarwertV 2005"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2005, 2165",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 130 G v. 29.3.2017 I 626",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 21.7.2005 +++)<BR /><BR /></pre> <BR />\u00dcberschrift: Bezeichnung idF d. Art. 6 Nr. 1 G v. 20.3.2009 I 607 mWv 26.3.2009</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 4 Abs. 6 des Pfandbriefgesetzes vom 22. Mai 2005 (BGBl. I S. 1373) in Verbindung mit \u00a7 1 Nr. 4 der Verordnung zur \u00dcbertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), der zuletzt durch Artikel 11 des Gesetzes vom 22. Mai 2005 (BGBl. I S. 1373) ge\u00e4ndert worden ist, verordnet die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht im Einvernehmen mit dem Bundesministerium der Justiz nach Anh\u00f6rung der Spitzenverb\u00e4nde der Kreditwirtschaft:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Begriffsbestimmungen",
+        "parent": null,
+        "body": "<P>Im Sinne dieser Verordnung ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Barwert\" die Summe aller mittels jeweils markt\u00fcblicher Zinskurven auf den aktuellen Tag abgezinsten Zahlungsstr\u00f6me und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"Wechselkurs\" der Wert einer Fremdw\u00e4hrungseinheit, wie er sich auf der Grundlage der aktuellen, von der Europ\u00e4ischen Zentralbank t\u00e4glich ver\u00f6ffentlichten Euro-Referenzkurse ergibt.</LA></DD> </DL>Bei der Umrechnung von W\u00e4hrungen, f\u00fcr die kein Euro-Referenzkurs ver\u00f6ffentlicht wird, sind die aktuellen Mittelkurse aus feststellbaren An- und Verkaufskursen zugrunde zu legen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000301377",
+        "name": "\u00a7 2",
+        "title": "Barwertdeckungsrechnung",
+        "parent": null,
+        "body": "<P>Die Barwerte der im Umlauf befindlichen Hypothekenpfandbriefe, \u00d6ffentlichen Pfandbriefe, Schiffspfandbriefe und Flugzeugpfandbriefe (Pfandbriefe) und der zu ihrer Deckung verwendeten Werte sind f\u00fcr jede Pfandbriefgattung gesondert bankarbeitst\u00e4glich zu ermitteln und abzugleichen. Der Abgleich ist durch Abzug des Barwertes der im Umlauf befindlichen Pfandbriefe einer Gattung vom Barwert der zu ihrer Deckung verwendeten Werte vorzunehmen. Ergibt sich hieraus ein negativer Betrag, ist dieser unverz\u00fcglich in Form zus\u00e4tzlicher Deckungswerte barwertig auszugleichen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Ermittlung der aktuellen Barwerte",
+        "parent": null,
+        "body": "<P>(1) F\u00fcr die Ermittlung der Barwerte ist die alleinige Verwendung der w\u00e4hrungsspezifischen Zinskurve f\u00fcr Swapgesch\u00e4fte zul\u00e4ssig. Derivate sind abweichend von Satz 1 mit ihrem aktuellen Marktpreis zu ber\u00fccksichtigen, der durch eine vom Handel weisungsunabh\u00e4ngige Stelle, welche alle zur Ermittlung des Marktpreises notwendigen organisatorischen, materiellen und fachlichen Voraussetzungen erf\u00fcllt, zu ermitteln ist.</P><P>(2) Die Barwerte von Fremdw\u00e4hrungspositionen sind zum jeweils aktuellen Wechselkurs in Euro umzurechnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000501377",
+        "name": "\u00a7 4",
+        "title": "Stresstest",
+        "parent": null,
+        "body": "<P>Die Pfandbriefbank hat sicherzustellen, dass die barwertige Deckung nach \u00a7 4 Abs. 1 Satz 1 des Pfandbriefgesetzes auch im Falle von Zins- und W\u00e4hrungskursver\u00e4nderungen gegeben ist. Hierzu hat sie das der Berechnung nach \u00a7 3 Abs. 1 zugrunde liegende Portfolio mindestens w\u00f6chentlich einem Stresstest nach Ma\u00dfgabe der \u00a7\u00a7 5 und 6 zu unterziehen. Ergibt sich bei dem anschlie\u00dfenden betragsm\u00e4\u00dfigen Abgleich des Wertes der im Umlauf befindlichen Pfandbriefe und der zu ihrer Deckung verwendeten Werte auf der Grundlage der in dem jeweiligen Stresstest ermittelten Barwerte eine barwertige Unterdeckung, so ist der h\u00f6chste aus der Gesamtheit der Simulationen resultierende barwertige Fehlbetrag unverz\u00fcglich zus\u00e4tzlich in die Deckungsmasse einzustellen. Eine Verminderung der Deckungsmasse darf nur vorgenommen werden, falls das Ergebnis des Stresstests auch danach keine barwertige Unterdeckung ausweist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000602118",
+        "name": "\u00a7 5",
+        "title": "Simulation der Auswirkung von Zinsver\u00e4nderungen auf die Barwerte",
+        "parent": null,
+        "body": "<P>(1) Zur Abbildung der Auswirkung von Zinsver\u00e4nderungen sind die zur Barwertberechnung verwendeten Zinskurven nach Ma\u00dfgabe eines statischen oder eines dynamischen Ansatzes um jeweils eine bestimmte Anzahl von Basispunkten nach oben und unten zu verschieben; sich ergebende negative Zinss\u00e4tze sind auf null zu setzen. Im Anschluss daran sind f\u00fcr alle Bestandteile des der Berechnung nach \u00a7 3 Abs. 1 zugrunde liegenden Portfolios mittels der sich ergebenden neuen Zinskurven neue Barwerte zu ermitteln. Auf Fremdw\u00e4hrungspositionen ist anschlie\u00dfend \u00a7 6 anzuwenden.<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00fcr den statischen Ansatz betr\u00e4gt die Anzahl der Basispunkte 250.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00fcr den dynamischen Ansatz ist auf der jeweiligen Zinskurve eine dem Umfang und der Struktur des Gesch\u00e4ftes der Pfandbriefbank angemessene Anzahl und Verteilung von Laufzeiten auszuw\u00e4hlen, wobei deren Anzahl mindestens sechs betragen und die Laufzeiten 1 Monat, 1 Jahr, 5 Jahre, 7 Jahre, 10 Jahre und 15 Jahre umfassen muss. F\u00fcr den Zinssatz jeder gew\u00e4hlten Laufzeit ist die Standardabweichung der Tagesdifferenzen der logarithmierten Zinss\u00e4tze auf Basis des historischen Beobachtungszeitraumes der vorherigen 250 Bankarbeitstage zu bestimmen. Die Standardabweichung der jeweiligen Laufzeit ist anschlie\u00dfend unter Zugrundelegung eines einseitigen Konfidenzniveaus von 99 Prozent und einer Haltedauer des Portfolios von 6 Monaten mit dem Faktor 2,33 und der Quadratwurzel aus 125 zu multiplizieren. Die sich ergebenden Werte sind danach mit dem aktuellen Zinssatz der jeweiligen Laufzeit und im Anschluss daran mit Faktor 100 zu multiplizieren. Um die so ermittelte Anzahl von Basispunkten, mindestens jedoch um 100 Basispunkte, ist an der dazugeh\u00f6rigen Laufzeit die zugrunde gelegte Zinskurve nach oben und unten zu verschieben. Zur Konstruktion der neuen Zinskurven werden die derart ermittelten neuen Zinss\u00e4tze interpoliert.</LA></DD></DL></P><P>(2) Abweichend von Absatz 1 darf auch ein Risikowert in Ansatz gebracht werden. Dieser ist mittels eines eigenen Risikomodells zu ermitteln, dessen Eignung die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht (Bundesanstalt) auf Grundlage einer Pr\u00fcfung nach \u00a7 44 Abs. 1 Satz 2 des Kreditwesengesetzes best\u00e4tigt hat. \u00a7 313 Absatz 3 Satz 1 der Solvabilit\u00e4tsverordnung gilt mit den folgenden Ma\u00dfgaben entsprechend:<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zur Anpassung an die Anforderungen des dynamischen Ansatzes m\u00fcssen die gew\u00e4hlten Laufzeiten mindestens die in Absatz 1 Nr. 2 genannten Laufzeiten beinhalten.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Der mittels des Risikomodells gesch\u00e4tzte Risikowert ist von einer Haltedauer von 10 Tagen auf 125 Tage durch Multiplikation mit Quadratwurzel 125 und Division mit Quadratwurzel 10 hochzuskalieren.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">W\u00e4hrungsrisiken, die im Rahmen der Sch\u00e4tzung des Risikowertes nicht mindestens gem\u00e4\u00df den Anforderungen des \u00a7 6 ber\u00fccksichtigt werden, sind entsprechend den dort genannten Anforderungen zus\u00e4tzlich einzubeziehen.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Der nach \u00a7 3 ermittelte Barwert der Deckungsmasse ist um den ermittelten Risikowert zu verringern.</LA></DD></DL></P><P>(3) Das einmal gew\u00e4hlte Verfahren ist durchgehend f\u00fcr alle Berechnungen anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000701360",
+        "name": "\u00a7 6",
+        "title": "Simulation der Auswirkung von W\u00e4hrungsver\u00e4nderungen auf die Barwerte",
+        "parent": null,
+        "body": "<P>(1) F\u00fcr Fremdw\u00e4hrungspositionen gleicher W\u00e4hrung ist ein Nettobarwert zu bestimmen, der der Differenz der gem\u00e4\u00df \u00a7 5 Abs. 1 ermittelten Barwerte der Fremdw\u00e4hrungsaktivpositionen und Fremdw\u00e4hrungspassivpositionen entspricht. Im Falle eines positiven Nettobarwertes sind Abschl\u00e4ge, im Falle eines negativen Nettobarwertes sind Aufschl\u00e4ge nach Ma\u00dfgabe des Absatzes 2 zu ber\u00fccksichtigen.</P><P>(2) Die Berechnung der nach Absatz 1 vorzunehmenden Abschl\u00e4ge oder Aufschl\u00e4ge muss nach einem statischen oder einem dynamischen Ansatz erfolgen. Das einmal gew\u00e4hlte Verfahren ist durchgehend f\u00fcr alle Berechnungen anzuwenden.<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00fcr den statischen Ansatz sind auf die aktuellen Wechselkurse der jeweiligen Fremdw\u00e4hrungseinheit folgende prozentuale Abschl\u00e4ge oder Aufschl\u00e4ge vorzunehmen:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">10 Prozent bei W\u00e4hrungen anderer Mitgliedstaaten der Europ\u00e4ischen Union, anderer Vertragsstaaten des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum und der Schweiz,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">20 Prozent bei den W\u00e4hrungen der Vereinigten Staaten von Amerika, Kanada und Japan,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens 25 Prozent bei W\u00e4hrungen sonstiger Staaten.</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00fcr den dynamischen Ansatz ist die Standardabweichung der Tagesdifferenzen der logarithmierten jeweiligen Wechselkurse auf Basis des historischen Beobachtungszeitraumes der vorherigen 250 Bankarbeitstage zu bestimmen. Die Standardabweichung des jeweiligen Wechselkurses ist anschlie\u00dfend unter Zugrundelegung eines einseitigen Konfidenzniveaus von 99 Prozent und einer Haltedauer des Portfolios von 6 Monaten mit dem Faktor 2,33 und der Quadratwurzel aus 125 zu multiplizieren. Der sich ergebende Wert ist mit dem aktuellen Wechselkurs der jeweiligen Fremdw\u00e4hrung zu multiplizieren. Das Ergebnis entspricht dem Abschlag oder Aufschlag, der auf den aktuellen Wechselkurs vorzunehmen ist.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Dokumentationspflichten",
+        "parent": null,
+        "body": "<P>(1) Jede Pfandbriefbank ist verpflichtet, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren zur Bewertung von Derivaten nach \u00a7 3 Abs. 1 Satz 2 sowie sp\u00e4tere Ver\u00e4nderungen dieses Verfahrens,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren zur Ermittlung der Standardabweichung sowie das Interpolationsverfahren nach \u00a7 5 Abs. 1 Nr. 2,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art und Weise der Ber\u00fccksichtigung oder Einbeziehung der W\u00e4hrungsrisiken nach \u00a7 5 Abs. 2 Nr. 3 und</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren zur Ermittlung der Standardabweichung nach \u00a7 6 Abs. 2 Nr. 2</LA></DD> </DL>zu dokumentieren.</P><P>(2) Die Dokumentationen sind von der Pfandbriefbank dauerhaft aufzubewahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE000901360",
+        "name": "\u00a7 8",
+        "title": "Methodenwechsel",
+        "parent": null,
+        "body": "<P>Die Pfandbriefbank darf das von ihr einmal gew\u00e4hlte Berechnungsverfahren nur mit Zustimmung der Bundesanstalt wechseln. Als Wechsel gilt dabei nicht nur die Wahl eines anderen vorgegebenen Berechnungsverfahrens, sondern ebenso der Wechsel von Parametern und Verfahren innerhalb des jeweils angewandten Berechnungsverfahrens. Bei Verwendung eigener Risikomodelle gilt Satz 2 zweiter Halbsatz mit der Einschr\u00e4nkung, dass unbeschadet des \u00a7 313 der Solvabilit\u00e4tsverordnung eine Zustimmung nur hinsichtlich des Wechsels der in \u00a7 5 Abs. 2 genannten Parameter erforderlich ist. Die Zustimmung kann nur erteilt werden, wenn die Pfandbriefbank nachvollziehbar darlegt, dass die ge\u00e4nderte Methode zu einer Verbesserung der Ergebnisqualit\u00e4t f\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "\u00dcbergangsbestimmungen",
+        "parent": null,
+        "body": "<P>(1) Pfandbriefbanken, die eine Anzeige nach \u00a7 51 des Pfandbriefgesetzes abgegeben haben, haben f\u00fcr die von dieser Anzeige erfassten Pfandbriefe und die zu deren Deckung verwendeten Werte die jeweiligen Vorschriften der Pfandbrief-Barwertverordnung vom 19. Dezember 2003 (BGBl. I S. 2815) oder der Hypothekenpfandbrief-Barwertverordnung vom 19. Dezember 2003 (BGBl. I S. 2818) weiter anzuwenden.</P><P>(2) Pfandbriefbanken, die bereits vor Inkrafttreten des Pfandbriefgesetzes Schiffspfandbriefe oder Kommunalschuldverschreibungen nach \u00a7 1 des Schiffsbankgesetzes begeben haben, d\u00fcrfen die nach \u00a7 4 Abs. 2 Satz 1 des Pfandbriefgesetzes erforderliche Berechnung zur Sicherstellung der jederzeitigen Deckung dieser Pfandbriefe nach dem Barwert noch bis zum 30. November 2005 nach einem anderen geeigneten Verfahren durchf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216500005BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

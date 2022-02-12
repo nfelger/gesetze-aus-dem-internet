@@ -1,0 +1,517 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR014610015",
+    "firstPublished": "2015-02-17",
+    "sourceTimestamp": "20211020214005",
+    "titleShort": "Erneuerbare-Energien-Verordnung",
+    "titleLong": "Verordnung zur Durchf\u00fchrung des Erneuerbare-Energien-Gesetzes und des Windenergie-auf-See-Gesetzes",
+    "abbreviation": "EEV",
+    "slug": "eev",
+    "extraAbbreviations": [
+      "AusglMechV 2015"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2015, 146",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 1 V v. 15.7.2020 I 1696",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 10 G v. 21.12.2020 I 3138 (Nr. 65) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 1 V v. 14.7.2021 I 2860 (Nr. 44) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 11b G v. 16.7.2021 I 3026 (Nr. 47) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 87 G v. 10.8.2021 I 3436 (Nr. 53) mWv 1.1.2024 noch nicht ber\u00fccksichtigt",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 20.2.2015 +++)<BR />(+++ Zur Anwendung vgl. \u00a7\u00a7 8, 12 +++)<BR />(+++ Zur Anwendung vgl. \u00a7 42 GEEV +++)<BR /><BR /></pre>Die V wurde als Artikel 1 der V v. 17.2.2015 I 146 von der Bundesregierung unter Wahrung der Rechte des Bundestages und dem Bundesministerium f\u00fcr Wirtschaft und Energie beschlossen. Sie ist gem. Art. 4 Satz 1 dieser V am 20.2.2015 in Kraft getreten. <BR />Amtliche \u00dcberschrift, Kurz\u00fcberschrift u. Buchstabenabk\u00fcrzung: IdF d. Art. 17 Nr. 1 G v. 13.10.2016 I 2258 mWv 1.1.2017</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR014610015BJNG000100124",
+        "name": "Abschnitt 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001800123",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000100124"
+        },
+        "body": "<P>Diese Verordnung trifft Regelungen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Vermarktung des nach \u00a7 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes verg\u00fcteten oder nach \u00a7 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Stroms durch die \u00dcbertragungsnetzbetreiber nach \u00a7 59 des Erneuerbare-Energien-Gesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Ermittlung und Ver\u00f6ffentlichung der EEG-Umlage nach \u00a7 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Bezug auf Herkunftsnachweise und den Betrieb des Herkunftsnachweisregisters nach \u00a7 79 des Erneuerbare-Energien-Gesetzes und in Bezug auf Regionalnachweise und die Einrichtung und den Betrieb des Regionalnachweisregisters nach \u00a7 79a des Erneuerbare-Energien-Gesetzes,</LA></DD><DT>3a.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Anschlussf\u00f6rderung von G\u00fcllekleinanlagen nach \u00a7 88b des Erneuerbare-Energien-Gesetzes,</LA></DD><DT>3b.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu Anforderungen an Gr\u00fcnen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der EEG-Umlage nach \u00a7 69b des Erneuerbare-Energien-Gesetzes und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur \u00dcbertragung von Erm\u00e4chtigungen zum Erlass von Rechtsverordnungen aufgrund des Erneuerbare-Energien-Gesetzes auf die Bundesnetzagentur und auf das Umweltbundesamt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014610015BJNG000200124",
+        "name": "Abschnitt 2",
+        "title": "EEG-Ausgleichsmechanismus",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE000202118",
+        "name": "\u00a7 2",
+        "title": "Vermarktung durch die \u00dcbertragungsnetzbetreiber",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000200124"
+        },
+        "body": "<P>Die \u00dcbertragungsnetzbetreiber d\u00fcrfen den nach \u00a7 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes verg\u00fcteten oder nach \u00a7 13a Absatz 1a des Energiewirtschaftsgesetzes bilanziell ausgeglichenen Strom nur am Spotmarkt einer Stromb\u00f6rse nach Ma\u00dfgabe der Erneuerbare-Energien-Ausf\u00fchrungsverordnung vermarkten. Sie m\u00fcssen zur bestm\u00f6glichen Vermarktung des Stroms die Sorgfalt eines ordentlichen und gewissenhaften Kaufmanns anwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7\u00a7 2 bis 6: Zur Nichtanwendung vgl. \u00a7 42 Abs. 3 GEEV +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE000307123",
+        "name": "\u00a7 3",
+        "title": "Ermittlung der EEG-Umlage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000200124"
+        },
+        "body": "<P>(1) Die \u00dcbertragungsnetzbetreiber ermitteln die EEG-Umlage nach \u00a7 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes transparent aus <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Differenz zwischen den prognostizierten Einnahmen nach Absatz 3 Nummer 1, 3, 3a, 3b, 6 und 7 sowie Absatz 5 f\u00fcr das folgende Kalenderjahr und den prognostizierten Ausgaben nach Absatz 4 f\u00fcr das folgende Kalenderjahr und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Differenzbetrag zwischen den tats\u00e4chlichen Einnahmen nach Absatz 3 und den tats\u00e4chlichen Ausgaben nach Absatz 4 zum Zeitpunkt der Ermittlung.</LA></DD></DL>Die EEG-Umlage f\u00fcr Strom, f\u00fcr den nach \u00a7 60 oder \u00a7 61 des Erneuerbare-Energien-Gesetzes die EEG-Umlage gezahlt werden muss, ist in Cent pro Kilowattstunde zu ermitteln. Hierbei ist \u00a7 66 Absatz 5 Satz 2 des Erneuerbare-Energien-Gesetzes entsprechend anzuwenden. Die nach Absatz 11 abgegrenzten Einnahmen und Ausgaben d\u00fcrfen bei der Ermittlung nach Satz 1 nicht ber\u00fccksichtigt werden.</P><P>(2) Die Prognosen nach Absatz 1 sind nach dem Stand von Wissenschaft und Technik zu erstellen. F\u00fcr die Prognose der Einnahmen nach Absatz 3 Nummer 1 ist der Durchschnitt der t\u00e4glichen Abrechnungspreise f\u00fcr das Produkt Phelix Baseload Year Future an der Stromb\u00f6rse f\u00fcr das folgende Kalenderjahr zugrunde zu legen. Ma\u00dfgeblich ist dabei der Handelszeitraum vom 16. Juni bis zum 15. September des laufenden Kalenderjahres.</P><P>(3) Einnahmen sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erl\u00f6se aus der Vermarktung nach \u00a7 2,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahlungen der EEG-Umlage,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahlungen nach \u00a7 57 Absatz 3 des Erneuerbare-Energien-Gesetzes, soweit die Saldierung nach \u00a7 57 Absatz 4 des Erneuerbare-Energien-Gesetzes f\u00fcr den \u00dcbertragungsnetzbetreiber einen positiven Saldo ergeben hat,</LA></DD><DT>3a.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahlungen der Bundesrepublik Deutschland an die \u00dcbertragungsnetzbetreiber zur Absenkung der EEG-Umlage nach \u00a7 60 Absatz 1 Satz 1 des Erneuerbare-Energien-Gesetzes,</LA></DD><DT>3b.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahlungen der Bundesrepublik Deutschland an die \u00dcbertragungsnetzbetreiber zur Finanzierung der Anschlussf\u00f6rderung von G\u00fcllekleinanlagen nach Abschnitt 3a,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">positive Differenzbetr\u00e4ge aus Zinsen nach Absatz 5,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erl\u00f6se aus R\u00fcckforderungsanspr\u00fcchen entsprechend den Vorgaben nach \u00a7 57 Absatz 5 oder auf Grund von nachtr\u00e4glichen Korrekturen nach \u00a7 62 des Erneuerbare-Energien-Gesetzes und aus Zahlungsanspr\u00fcchen der \u00dcbertragungsnetzbetreiber nach Absatz 7,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erl\u00f6se aus Versteigerungen von Anbindungskapazit\u00e4ten f\u00fcr Windenergieanlagen auf See nach \u00a7 17d Absatz 4 Satz 5 des Energiewirtschaftsgesetzes,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erl\u00f6se aus der Abrechnung der Ausgleichsenergie f\u00fcr den EEG-Bilanzkreis nach \u00a7 11 der Stromnetzzugangsverordnung,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erl\u00f6se auf Grund von Rechtsverordnungen nach \u00a7 88 oder \u00a7 88a des Erneuerbare-Energien-Gesetzes, die dort als Einnahmen im Sinne dieses Absatzes benannt werden,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">positive Differenzbetr\u00e4ge und Zinsen nach \u00a7 6 Absatz 3 der Erneuerbare-Energien-Ausf\u00fchrungsverordnung,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahlungen nach \u00a7 55 des Erneuerbare-Energien-Gesetzes und nach \u00a7 60 des Windenergie-auf-See-Gesetzes und</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahlungen nach \u00a7\u00a038d Absatz 5 des Erneuerbare-Energien-Gesetzes.</LA></DD></DL></P><P>(3a) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind als Zahlungen nach Absatz 3 Nummer 3a die Haushaltsans\u00e4tze zur Absenkung der EEG-Umlage im Entwurf des Haushaltsgesetzes f\u00fcr das nachfolgende Kalenderjahr zu ber\u00fccksichtigen, den die Bundesregierung nach \u00a7 29 Absatz 1 der Bundeshaushaltsordnung beschlie\u00dft. Sofern im Haushaltsgesetz des dem Kalenderjahr nach Satz 1 vorangehenden Kalenderjahres eine Verpflichtungserm\u00e4chtigung f\u00fcr diesen Zweck veranschlagt wurde, richtet sich die H\u00f6he der Zahlung nach dem Betrag, der von der Bundesrepublik Deutschland in einem Bescheid an die \u00dcbertragungsnetzbetreiber festgesetzt worden ist, wenn der Bescheid den \u00dcbertragungsnetzbetreibern sp\u00e4testens einen Werktag vor der Ver\u00f6ffentlichung der EEG-Umlage nach \u00a7 5 Absatz 1 bekannt gegeben wird; dabei besteht keine Pflicht zum Erlass eines Bescheides.</P><P>(4) Ausgaben sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahlungen nach den \u00a7\u00a7 19 und 50 des Erneuerbare-Energien-Gesetzes und nach den entsprechenden Bestimmungen in fr\u00fcheren Fassungen des Erneuerbare-Energien-Gesetzes, soweit diese Bestimmungen \u00fcbergangsweise nach den \u00a7\u00a7 100 und 101 des Erneuerbare-Energien-Gesetzes oder nach \u00a7 12a dieser Verordnung fortgelten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausgaben auf Grund einer Verordnung nach den \u00a7\u00a7 88 und 88a des Erneuerbare-Energien-Gesetzes, die dort als Ausgaben im Sinne dieses Absatzes benannt werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">negative Differenzbetr\u00e4ge aus Zinsen nach Absatz 5,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">R\u00fcckzahlungen der \u00dcbertragungsnetzbetreiber nach Absatz 7,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">notwendige Kosten der \u00dcbertragungsnetzbetreiber f\u00fcr den untert\u00e4gigen Ausgleich,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">notwendige Kosten der \u00dcbertragungsnetzbetreiber aus der Abrechnung der Ausgleichsenergie f\u00fcr den EEG-Bilanzkreis,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">notwendige Kosten f\u00fcr die Erstellung von Prognosen f\u00fcr die Vermarktung nach \u00a7 2</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausgaben nach \u00a7 6 der Erneuerbare-Energien-Ausf\u00fchrungsverordnung und</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">geleistete Erstattungen nach \u00a7 6 Absatz 5 oder \u00a7 38d Absatz 6 des Erneuerbare-Energien-Gesetzes.</LA></DD></DL></P><P>(5) Differenzbetr\u00e4ge zwischen Einnahmen und Ausgaben sind zu verzinsen. Der Zinssatz betr\u00e4gt f\u00fcr den Kalendermonat 0,3 Prozentpunkte \u00fcber dem Monatsdurchschnitt des Euro Interbank Offered Rate-Satzes f\u00fcr die Beschaffung von Einmonatsgeld von ersten Adressen in den Teilnehmerstaaten der Europ\u00e4ischen W\u00e4hrungsunion (EURIBOR) mit einer Laufzeit von einem Monat. Soweit der tats\u00e4chliche Zinssatz den Zinssatz nach Satz 2 \u00fcbersteigt, sind auch diese Zinseinnahmen als Einnahmen nach Absatz 3 Nummer 4 anzusehen.</P><P>(6) Einnahmen und Ausgaben, die bereits im Rahmen der Bestimmung der Erl\u00f6sobergrenzen nach \u00a7 4 Absatz 2 der Anreizregulierungsverordnung oder einer sp\u00e4teren \u00c4nderung der Erl\u00f6sobergrenzen Ber\u00fccksichtigung gefunden haben, sind bei der Ermittlung nach Absatz 1 nicht anzusetzen. Hiervon ausgenommen sind Einnahmen und Ausgaben, soweit sie auf Grund dieser Verordnung zus\u00e4tzlich entstehen. Zus\u00e4tzliche Einnahmen und Ausgaben im Sinne von Satz 2 sind gegen\u00fcber der Bundesnetzagentur nachzuweisen.</P><P>(7) Entstehen infolge von Abweichungen zwischen den monatlichen Abschlagszahlungen nach \u00a7 60 Absatz 1 Satz 4 des Erneuerbare-Energien-Gesetzes und der Endabrechnung nach \u00a7 73 Absatz 2 des Erneuerbare-Energien-Gesetzes Zahlungsanspr\u00fcche zugunsten oder zulasten der \u00dcbertragungsnetzbetreiber, m\u00fcssen diese bis zum 30. September des auf die Einspeisung folgenden Jahres ausgeglichen werden.</P><P>(8) Die \u00dcbertragungsnetzbetreiber k\u00f6nnen bei der Ermittlung der EEG-Umlage hinsichtlich der Prognose der Einnahmen und Ausgaben nach Absatz 1 Satz 1 Nummer 1 zus\u00e4tzlich eine Liquidit\u00e4tsreserve vorsehen. Sehen die \u00dcbertragungsnetzbetreiber eine Liquidit\u00e4tsreserve nach Satz 1 vor, werden die Einnahmen nach Absatz 3 Nummer 3a und die nach Absatz 11 abgegrenzten Einnahmen und Ausgaben bei der Ermittlung der Differenz nach Absatz 1 Satz 1 Nummer 1 nicht ber\u00fccksichtigt. Die Liquidit\u00e4tsreserve darf 10 Prozent des Differenzbetrages nach Absatz 1 Satz 1 Nummer 1 nicht \u00fcberschreiten.</P><P>(9) Zwischen den \u00dcbertragungsnetzbetreibern und der Bundesrepublik Deutschland, vertreten durch das Bundesministerium f\u00fcr Wirtschaft und Energie, wird vor der Bereitstellung von Zahlungen nach Absatz 3 Nummer 3a im Einvernehmen mit dem Bundesministerium der Finanzen ein \u00f6ffentlich-rechtlicher Vertrag abgeschlossen. Der Vertrag enth\u00e4lt insbesondere Regelungen zur Verteilung der Mittel zwischen den \u00dcbertragungsnetzbetreibern.</P><P>(9a) Zwischen den \u00dcbertragungsnetzbetreibern und der Bundesrepublik Deutschland, vertreten durch das Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft, wird vor der Bereitstellung von Zahlungen nach Absatz 3 Nummer 3b im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie und mit dem Bundesministerium der Finanzen ein \u00f6ffentlich-rechtlicher Vertrag abgeschlossen.</P><P>(10) Weicht im Fall des Absatzes 3a Satz 1 ein dem Entwurf des Haushaltsgesetzes nachfolgend vom Haushaltsgesetzgeber beschlossenes Haushaltsgesetz wesentlich von den Ans\u00e4tzen des Entwurfs des Haushaltsgesetzes ab, legt die Bundesregierung rechtzeitig vor der Ermittlung der n\u00e4chsten EEG-Umlage einen Vorschlag f\u00fcr eine Neugestaltung des Absatzes 3a vor.</P><P>(11) Bei der Ermittlung der EEG-Umlage nach Absatz 1 sind die Einnahmen und Ausgaben nach den Abs\u00e4tzen 3 und 4 f\u00fcr die Vermarktung des nach \u00a7\u00a019 Absatz 1 Nummer 2 in Verbindung mit \u00a7\u00a021 Absatz 1 Nummer 3 des Erneuerbare-Energien-Gesetzes verg\u00fcteten Stroms aus ausgef\u00f6rderten Anlagen einschlie\u00dflich der Zahlungen f\u00fcr diesen Strom mit Ausnahme von im Jahr 2021 geleisteten Aufschl\u00e4gen nach \u00a7\u00a023b Absatz 2 des Erneuerbare-Energien-Gesetzes eindeutig von den sonstigen Einnahmen und Ausgaben nach den Abs\u00e4tzen 3 und 4 abzugrenzen. Die eindeutige Abgrenzung nach Satz 1 ist durch eine gesonderte Buchf\u00fchrung zu gew\u00e4hrleisten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P><ABWFORMAT typ=\"D\" />(+++ \u00a7\u00a7 2 bis 6: Zur Nichtanwendung vgl. \u00a7 42 Abs. 3 GEEV +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001600128",
+        "name": "\u00a7 3a",
+        "title": "Ermittlung des Abzugs f\u00fcr Strom aus ausgef\u00f6rderten Anlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000200124"
+        },
+        "body": "<P>Die \u00dcbertragungsnetzbetreiber ermitteln den Wert des Abzugs f\u00fcr Strom aus ausgef\u00f6rderten Anlagen nach \u00a7 53 Absatz 2 des Erneuerbare-Energien-Gesetzes in entsprechender Anwendung der Bestimmungen nach \u00a7 3. Dabei ist der Wert des Abzugs so zu bestimmen, dass sich die nach \u00a7 3 Absatz 1 Satz 4 bei der Ermittlung der EEG-Umlage nicht ber\u00fccksichtigten Einnahmen und Ausgaben ausgleichen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE000401128",
+        "name": "\u00a7 4",
+        "title": "Beweislast",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000200124"
+        },
+        "body": "<P>Ist die Notwendigkeit oder die H\u00f6he der Aufwendungen nach \u00a7 3 oder \u00a7 3a streitig, trifft die Beweislast die \u00dcbertragungsnetzbetreiber.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P><ABWFORMAT typ=\"D\" />(+++ \u00a7\u00a7 2 bis 6: Zur Nichtanwendung vgl. \u00a7 42 Abs. 3 GEEV +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE000502128",
+        "name": "\u00a7 5",
+        "title": "Ver\u00f6ffentlichung der EEG-Umlage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000200124"
+        },
+        "body": "<P>(1) Die \u00dcbertragungsnetzbetreiber m\u00fcssen bis zum 15. Oktober eines Kalenderjahres die H\u00f6he der EEG-Umlage f\u00fcr das folgende Kalenderjahr auf ihren Internetseiten ver\u00f6ffentlichen. Bei der Ver\u00f6ffentlichung sind in nicht personenbezogener Form auch anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Datengrundlagen, Annahmen, Rechenwege, Berechnungen und Endwerte, die in die Ermittlung nach \u00a7 3 eingeflossen sind, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Prognose, wie sich der Differenzbetrag nach \u00a7 3 Absatz 1 Satz 1 Nummer 1 auf verschiedene Gruppen von Letztverbrauchern verteilt.</LA></DD></DL></P><P>(2) Die Angaben nach Absatz 1 m\u00fcssen einen sachkundigen Dritten in die Lage versetzen, ohne weitere Informationen die Ermittlung der EEG-Umlage vollst\u00e4ndig nachzuvollziehen.</P><P>(3) Die \u00dcbertragungsnetzbetreiber m\u00fcssen die Angaben nach Absatz 1 bis zum 15. Oktober eines Kalenderjahres auch der Bundesnetzagentur nach \u00a7 4 Absatz 4 der Erneuerbare-Energien-Ausf\u00fchrungsverordnung mitteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P><ABWFORMAT typ=\"D\" />(+++ \u00a7\u00a7 2 bis 6: Zur Nichtanwendung vgl. \u00a7 42 Abs. 3 GEEV +++) \u00a7 5 Abs 3: IdF d. Art. 11 Nr. 6 G v. 22.12.2016 I 3106 mWv 1.1.2017</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001700128",
+        "name": "\u00a7 5a",
+        "title": "Ver\u00f6ffentlichung des Abzugs f\u00fcr Strom aus ausgef\u00f6rderten Anlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000200124"
+        },
+        "body": "<P>Die \u00dcbertragungsnetzbetreiber m\u00fcssen bis zum 15. Oktober eines Kalenderjahres den Wert des Abzugs f\u00fcr Strom aus ausgef\u00f6rderten Anlagen nach \u00a7 53 Absatz 2 des Erneuerbare-Energien-Gesetzes f\u00fcr das folgende Kalenderjahr auf ihren Internetseiten ver\u00f6ffentlichen. Im \u00dcbrigen ist \u00a7 5 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE000601123",
+        "name": "\u00a7 6",
+        "title": "Ver\u00f6ffentlichung der EEG-Vorausschau",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000200124"
+        },
+        "body": "<P>(1) Die \u00dcbertragungsnetzbetreiber m\u00fcssen bis zum 15. Oktober eines Kalenderjahres eine Vorausschau f\u00fcr die Entwicklung des Ausbaus der erneuerbaren Energien in den folgenden f\u00fcnf Kalenderjahren erstellen und ver\u00f6ffentlichen. Diese Vorausschau muss mindestens die folgenden Angaben enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine Prognose der Entwicklung <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>der installierten Leistung der Anlagen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>der Volllaststunden,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>der erzeugten Jahresarbeit,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>der an die Anlagenbetreiber zu leistenden Zahlungen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>der Aufteilung der eingespeisten Strommengen auf die Ver\u00e4u\u00dferungsformen nach \u00a7 21b Absatz 1 des Erneuerbare-Energien-Gesetzes und</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>der H\u00f6he der vermiedenen Netzentgelte nach \u00a7 18 der Stromnetzentgeltverordnung sowie</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine Prognose des Letztverbrauchs, aufgegliedert nach <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Letztverbrauch, f\u00fcr den die EEG-Umlage in voller H\u00f6he gezahlt werden muss,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Letztverbrauch, f\u00fcr den die EEG-Umlage in verringerter H\u00f6he gezahlt werden muss, und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Letztverbrauch, f\u00fcr den keine EEG-Umlage gezahlt werden muss.</LA></DD></DL></LA></DD></DL>Die Strommengen, die voraussichtlich direkt vermarktet werden, sind zu ber\u00fccksichtigen.</P><P>(2) Die Angaben nach Absatz 1 Satz 2 Nummer 1 m\u00fcssen f\u00fcr die folgenden Energietr\u00e4ger getrennt ver\u00f6ffentlicht werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wasserkraft,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Windenergie an Land,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Windenergie auf See,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>solare Strahlungsenergie aus Freifl\u00e4chenanlagen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>solare Strahlungsenergie aus sonstigen Anlagen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Geothermie,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Energie aus Biomasse,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Deponiegas,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Kl\u00e4rgas und</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>Grubengas.</LA></DD></DL></P><P>(3) Die Prognose nach Absatz 1 muss nach dem Stand von Wissenschaft und Technik erstellt werden. Die Datengrundlagen und Annahmen, die in die Prognose eingeflossen sind, m\u00fcssen angegeben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P><ABWFORMAT typ=\"D\" />(+++ \u00a7\u00a7 2 bis 6: Zur Nichtanwendung vgl. \u00a7 42 Abs. 3 GEEV +++) \u00a7 6 Abs. 1 Satz 2 Nr. 1 Buchst. d: IdF d. Art. 17 Nr. 4 Buchst. a G v. 13.10.2016 I 2258 mWv 1.1.2017</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001900123",
+        "name": "\u00a7 6a",
+        "title": "Weitere Transparenzpflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000200124"
+        },
+        "body": "<P>Die \u00dcbertragungsnetzbetreiber m\u00fcssen dem Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft ab dem Jahr 2022 j\u00e4hrlich sp\u00e4testens bis zum 30. September die Summe der im jeweils vorangegangenen Kalenderjahr gezahlten Anschlussf\u00f6rderung f\u00fcr G\u00fcllekleinanlagen nach Abschnitt 3a mitteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014610015BJNG000300124",
+        "name": "Abschnitt 3",
+        "title": "Herkunfts- und Regionalnachweise f\u00fcr Strom aus erneuerbaren Energien",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE000702124",
+        "name": "\u00a7 7",
+        "title": "Herkunftsnachweisregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000300124"
+        },
+        "body": "<P>(1) Das Umweltbundesamt betreibt das Herkunftsnachweisregister nach \u00a7 79 Absatz 4 des Erneuerbare-Energien-Gesetzes nach Ma\u00dfgabe der Rechtsverordnung nach \u00a7 14.</P><P>(2) Jede nat\u00fcrliche oder juristische Person und jede Personengesellschaft erh\u00e4lt auf Antrag nach Ma\u00dfgabe der Rechtsverordnung nach \u00a7 14 ein Konto im Herkunftsnachweisregister, in dem die Ausstellung, Inhaberschaft, Anerkennung, \u00dcbertragung, Verwendung und Entwertung von Herkunftsnachweisen registriert werden.</P><P>(3) Das Umweltbundesamt kann nach Ma\u00dfgabe der Rechtsverordnung nach \u00a7 14 bei Vorliegen eines berechtigten Interesses Konten vorl\u00e4ufig sperren oder schlie\u00dfen sowie Kontoinhaber vorl\u00e4ufig oder dauerhaft von der weiteren Nutzung des Herkunftsnachweisregisters ausschlie\u00dfen.</P><P>(4) Das Umweltbundesamt hat bei der Einrichtung und bei dem Betrieb des Herkunftsnachweisregisters die erforderlichen technischen und organisatorischen Ma\u00dfnahmen zur Sicherstellung von Datenschutz und Datensicherheit unter Ber\u00fccksichtigung der einschl\u00e4gigen Standards und Empfehlungen des Bundesamtes f\u00fcr Sicherheit in der Informationstechnik zu treffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 7 Abs. 2 bis 4: Zur Anwendung vgl. \u00a7 8 Abs. 2 +++) <ABWFORMAT typ=\"D\" />Abschnitt 3 (\u00a7\u00a7 7 bis 12) und Abschnitt 4 (\u00dcberschrift vor \u00a7 13): Fr\u00fcher \u00a7\u00a7 7 bis 9 gem. u. idF d. Art. 11 Nr. 7 G v. 22.12.2016 I 3106 mWv 1.1.2017</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE000802124",
+        "name": "\u00a7 8",
+        "title": "Regionalnachweisregister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000300124"
+        },
+        "body": "<P>(1) Das Umweltbundesamt errichtet und betreibt das Regionalnachweisregister nach \u00a7 79a Absatz 4 des Erneuerbare-Energien-Gesetzes nach Ma\u00dfgabe der Rechtsverordnung nach \u00a7 14. Das Bundesministerium f\u00fcr Wirtschaft und Energie macht das Datum der Inbetriebnahme im Bundesanzeiger bekannt.</P><P>(2) \u00a7 7 Absatz 2 bis 4 ist auf das Regionalnachweisregister entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE000903128",
+        "name": "\u00a7 9",
+        "title": "Mindestinhalt von Herkunftsnachweisen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000300124"
+        },
+        "body": "<P>(1) Ein Herkunftsnachweis muss mindestens die folgenden Angaben enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine einmalige Kennnummer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Datum der Ausstellung und den ausstellenden Staat,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zur Stromerzeugung eingesetzten Energien nach Art und wesentlichen Bestandteilen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Beginn und das Ende der Erzeugung des Stroms, f\u00fcr den der Herkunftsnachweis ausgestellt wird,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Standort, den Typ, die installierte Leistung und den Zeitpunkt der Inbetriebnahme der Anlage, in der der Strom erzeugt wurde, sowie</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben dazu, ob, in welcher Art und in welchem Umfang <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Anlage, in der der Strom erzeugt wurde, Investitionsbeihilfen geleistet wurden,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Strommenge in sonstiger Weise eine F\u00f6rderung im Sinne von Artikel 2 Buchstabe k der Richtlinie 2009/28/EG des Europ\u00e4ischen Parlaments und des Rates vom 23. April 2009 zur F\u00f6rderung der Nutzung von Energie aus erneuerbaren Quellen und zur \u00c4nderung und anschlie\u00dfenden Aufhebung der Richtlinien 2001/77/EG und 2003/30/EG (ABl. L 140 vom 5.6.2009, S. 16) gezahlt oder erbracht wurde.</LA></DD></DL></LA></DD></DL></P><P>(2) Ein Herkunftsnachweis f\u00fcr Strom aus erneuerbaren Energien, der in hocheffizienten KWK-Anlagen erzeugt worden ist, muss dar\u00fcber hinaus folgende Angaben enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">thermische Leistung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nutzung der W\u00e4rme,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">unterer Heizwert,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">prozentualer Anteil an Prim\u00e4renergieeinsparung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Menge an Prim\u00e4renergieeinsparung,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">gesamte Prim\u00e4renergieeinsparung,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">erzeugte CO<SUB>2</SUB>-Emissionen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">eingesparte CO<SUB>2</SUB>-Emissionen,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Nutzw\u00e4rme aus KWK,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">elektrischer Wirkungsgrad,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">thermischer Wirkungsgrad und</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben dazu, ob, in welcher Art und in welchem Umfang f\u00fcr die Strommenge eine F\u00f6rderung im Sinn von Artikel 2 Nummer 18 der Richtlinie 2012/27/EU des Europ\u00e4ischen Parlaments und des Rates vom 25. Oktober 2012 zur Energieeffizienz, zur \u00c4nderung der Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 14.11.2012, S. 1) gezahlt oder erbracht wurde.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001200124",
+        "name": "\u00a7 10",
+        "title": "Mindestinhalt von Regionalnachweisen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000300124"
+        },
+        "body": "<P>Ein Regionalnachweis muss mindestens die folgenden Angaben enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine einmalige Kennnummer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Datum der Ausstellung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Beginn und das Ende der Erzeugung des Stroms, f\u00fcr den der Regionalnachweis ausgestellt wird,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Postleitzahlengebiet, in dem sich der physikalische Z\u00e4hlpunkt der Anlage befindet, in der der Strom erzeugt wurde,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben dazu, ob und in welcher Art <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Anlage, in der der Strom erzeugt wurde, Investitionsbeihilfen geleistet wurden,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Anlagenbetreiber f\u00fcr die Strommenge eine Zahlung nach dem Erneuerbare-Energien-Gesetz beansprucht hat.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001301128",
+        "name": "\u00a7 11",
+        "title": "Grunds\u00e4tze f\u00fcr Herkunftsnachweise",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000300124"
+        },
+        "body": "<P>(1) Die Ausstellung, Anerkennung und \u00dcbertragung von Herkunftsnachweisen erfolgen auf Antrag nach Ma\u00dfgabe der Rechtsverordnung nach \u00a7 14.</P><P>(2) Das Umweltbundesamt entwertet Herkunftsnachweise nach ihrer Verwendung, sp\u00e4testens aber 18 Monate nach Erzeugung der entsprechenden Strommenge. Entwertete Herkunftsnachweise d\u00fcrfen nicht mehr verwendet werden. Sie sind unverz\u00fcglich automatisch zu l\u00f6schen, sobald sie zur F\u00fchrung des Herkunftsnachweisregisters nicht mehr erforderlich sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 11: Zur Anwendung vgl. \u00a7 12 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001400124",
+        "name": "\u00a7 12",
+        "title": "Grunds\u00e4tze f\u00fcr Regionalnachweise",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000300124"
+        },
+        "body": "<P>Auf die Ausstellung, \u00dcbertragung und Entwertung von Regionalnachweisen ist \u00a7 11 entsprechend anzuwenden mit der Ma\u00dfgabe, dass das Umweltbundesamt Regionalnachweise nach ihrer Verwendung, sp\u00e4testens aber 24 Monate nach Erzeugung der entsprechenden Strommenge, entwertet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014610015BJNG000500123",
+        "name": "Abschnitt 3a",
+        "title": "Anschlussf\u00f6rderung von G\u00fcllekleinanlagen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002000123",
+        "name": "\u00a7 12a",
+        "title": "Verl\u00e4ngerter Zahlungsanspruch",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000500123"
+        },
+        "body": "<P>F\u00fcr Strom aus Anlagen, in denen Biogas eingesetzt wird, verl\u00e4ngert sich der urspr\u00fcngliche Anspruch auf Zahlung nach der f\u00fcr die Anlage ma\u00dfgeblichen Fassung des Erneuerbare-Energien-Gesetzes einmalig um zehn Jahre (Anschlusszeitraum), wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der urspr\u00fcngliche Anspruch auf Zahlung nach der f\u00fcr die Anlage ma\u00dfgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2025 beendet ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die installierte Leistung der Anlage am Standort der Biogaserzeugungsanlage am 31. M\u00e4rz 2021\u00a0150 Kilowatt nicht \u00fcberschritten hat und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Anlagenbetreiber <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Geltendmachung dieses verl\u00e4ngerten Zahlungsanspruchs dem Netzbetreiber nach Ma\u00dfgabe des \u00a7 12d mitgeteilt hat und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">mit dieser Anlage bis zur Mitteilung an den Netzbetreiber nach \u00a7 12d nicht an Ausschreibungen nach \u00a7 39g des Erneuerbare-Energien-Gesetzes teilgenommen hat.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002100123",
+        "name": "\u00a7 12b",
+        "title": "Zahlungsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000500123"
+        },
+        "body": "<P>Der urspr\u00fcngliche Anspruch auf Zahlung besteht in dem Anschlusszeitraum nach \u00a7 12a nur, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Strom am Standort der Biogaserzeugungsanlage erzeugt wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die installierte Leistung der Anlage am Standort der Biogaserzeugungsanlage nach dem 31. M\u00e4rz 2021 nicht erh\u00f6ht worden ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Strom aus Biogas erzeugt wird, das durch anaerobe Verg\u00e4rung von Biomasse im Sinn der Biomasseverordnung gewonnen worden ist, und zur Erzeugung des Biogases in dem jeweiligen Kalenderjahr durchschnittlich ein Anteil von G\u00fclle mit Ausnahme von Gefl\u00fcgelmist und Gefl\u00fcgeltrockenkot von mindestens 80 Masseprozent eingesetzt wird und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00fcbrigen Voraussetzungen f\u00fcr die Zahlung nach der f\u00fcr die Anlage ma\u00dfgeblichen Fassung des Erneuerbare-Energien-Gesetzes erf\u00fcllt sind.</LA></DD></DL>Wurde ein Anlagenbetreiber aufgrund einer Sperre im Sinn von \u00a7 6 Absatz 1 Nummer 18 des Tiergesundheitsgesetzes im Einsatz von G\u00fclle beeintr\u00e4chtigt und konnte deshalb den vorgesehenen G\u00fcllemindestanteil nicht einhalten, ist der Zeitraum der Sperre zuz\u00fcglich 30 Kalendertagen bei der Berechnung des durchschnittlichen G\u00fclleanteils nach Satz 1 Nummer 3 nicht zu ber\u00fccksichtigen. In diesem Fall entf\u00e4llt der Verg\u00fctungsanspruch f\u00fcr den nicht ber\u00fccksichtigten Zeitraum.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002200123",
+        "name": "\u00a7 12c",
+        "title": "H\u00f6he des Zahlungsanspruchs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000500123"
+        },
+        "body": "<P>(1) In dem Anschlusszeitraum nach \u00a7 12a ist der urspr\u00fcngliche Anspruch auf Zahlung der H\u00f6he nach begrenzt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf die durchschnittliche H\u00f6he des anzulegenden Werts f\u00fcr den in der jeweiligen Anlage erzeugten Strom in Cent pro Kilowattstunde nach dem Erneuerbare-Energien-Gesetz in der f\u00fcr die Anlage ma\u00dfgeblichen Fassung, wobei der Durchschnitt der drei letzten Kalenderjahre des urspr\u00fcnglichen Anspruchszeitraums ma\u00dfgeblich ist, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf h\u00f6chstens <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">15,5 Cent pro Kilowattstunde bis einschlie\u00dflich einer Bemessungsleistung von 75 Kilowatt und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">7,5 Cent pro Kilowattstunde bis einschlie\u00dflich einer Bemessungsleistung von 150 Kilowatt.</LA></DD></DL></LA></DD></DL></P><P>(2) Die H\u00f6he der Anspruchsbegrenzung nach Absatz 1 Nummer 2 verringert sich ab dem Jahr 2022 jeweils zum 1. Januar eines Kalenderjahres f\u00fcr Anlagen, deren Anschlusszeitraum nach \u00a7 12a vor diesem Zeitpunkt noch nicht begonnen hat, um 0,5 Prozent gegen\u00fcber der im jeweils vorangegangenen Kalenderjahr geltenden Anspruchsbegrenzung und wird auf zwei Stellen nach dem Komma gerundet. F\u00fcr die Berechnung der H\u00f6he der Anspruchsbegrenzung aufgrund einer erneuten Anpassung nach Satz 1 sind die ungerundeten Werte zugrunde zu legen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002300123",
+        "name": "\u00a7 12d",
+        "title": "Mitteilungspflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000500123"
+        },
+        "body": "<P>Die Anlagenbetreiber m\u00fcssen dem Netzbetreiber unter Angabe der Nummer, unter der die Anlage im Marktstammdatenregister registriert ist, bis sp\u00e4testens drei Monate vor Beendigung des urspr\u00fcnglichen Anspruchs auf Zahlung nach der f\u00fcr die Anlage ma\u00dfgeblichen Fassung des Erneuerbare-Energien-Gesetzes mitteilen, dass sie den nach \u00a7 12a verl\u00e4ngerten Zahlungsanspruch geltend machen werden. Abweichend von Satz 1 m\u00fcssen Betreiber von Anlagen, deren urspr\u00fcnglicher Anspruch auf Zahlung nach der f\u00fcr die Anlage ma\u00dfgeblichen Fassung des Erneuerbare-Energien-Gesetzes vor dem 1. Januar 2021 beendet war, die Geltendmachung des verl\u00e4ngerten Zahlungsanspruchs dem Netzbetreiber bis zum 30. September 2021 mitteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002400123",
+        "name": "\u00a7 12e",
+        "title": "F\u00e4lligkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000500123"
+        },
+        "body": "<P>(1) Der Anspruch nach \u00a7 12a wird erst f\u00e4llig, nachdem der Anlagenbetreiber der Bundesnetzagentur unter Angabe der Nummer, unter der die Anlage im Marktstammdatenregister registriert ist, mitgeteilt hat, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass er den nach \u00a7 12a verl\u00e4ngerten Zahlungsanspruch geltend machen wird und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr welche installierte Leistung er diesen Zahlungsanspruch geltend machen wird.</LA></DD></DL>Die Bundesnetzagentur kann f\u00fcr die Mitteilung nach Satz 1 Formatvorgaben machen. Die Mitteilung kann von der Bundesnetzagentur auf ein elektronisches Verfahren umgestellt werden.</P><P>(2) Die Bundesnetzagentur ver\u00f6ffentlicht die Anlagen, deren Betreiber eine Mitteilung nach Absatz 1 vorgenommen haben, unter Angabe der Nummern, unter denen die Anlagen im Marktstammdatenregister registriert sind, in nicht personenbezogener Form auf ihrer Internetseite.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002500123",
+        "name": "\u00a7 12f",
+        "title": "Verbot der Teilnahme an Ausschreibungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000500123"
+        },
+        "body": "<P>Anlagen, deren Betreiber die Geltendmachung des verl\u00e4ngerten Zahlungsanspruchs dem Netzbetreiber nach Ma\u00dfgabe des \u00a7 12d mitgeteilt haben, d\u00fcrfen nicht an Ausschreibungen nach \u00a7 39g des Erneuerbare-Energien-Gesetzes teilnehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002600123",
+        "name": "\u00a7 12g",
+        "title": "Evaluierung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000500123"
+        },
+        "body": "<P>Die Bundesregierung evaluiert die Anschlussf\u00f6rderung nach diesem Abschnitt bis zum 31. Dezember 2023 auch mit Blick auf Anlagen, deren urspr\u00fcnglicher Anspruch auf Zahlung nach dem 31. Dezember 2024 endet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014610015BJNG000600123",
+        "name": "Abschnitt 3b",
+        "title": "Herstellung von Gr\u00fcnem Wasserstoff",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002700123",
+        "name": "\u00a7 12h",
+        "title": "Anwendungsbereich dieses Abschnitts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000600123"
+        },
+        "body": "<P>(1) Dieser Abschnitt regelt die Anforderungen an Gr\u00fcnen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach \u00a7 69b des Erneuerbare-Energien-Gesetzes f\u00fcr Strom, der ab dem 1. Januar 2022 in einer Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff verbraucht wird.</P><P>(2) Die Bundesregierung wird die Anforderungen an Gr\u00fcnen Wasserstoff im Anwendungsbereich der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach \u00a7 69b des Erneuerbare-Energien-Gesetzes unverz\u00fcglich, nachdem die Europ\u00e4ische Union die Anforderungen an Gr\u00fcnen Wasserstoff f\u00fcr einen oder mehrere Nutzungspfade n\u00e4her bestimmt hat, \u00fcberarbeiten und an die Anforderungen der Europ\u00e4ischen Union anpassen. Ziel sind Anforderungen, die f\u00fcr alle Nutzungspfade von Gr\u00fcnem Wasserstoff m\u00f6glichst einheitlich sind und zugleich den systemdienlichen Betrieb von Einrichtungen zur Herstellung von Gr\u00fcnem Wasserstoff sicherstellen, insbesondere Anforderungen an den Standort dieser Einrichtungen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002800123",
+        "name": "\u00a7 12i",
+        "title": "Anforderungen an Gr\u00fcnen Wasserstoff",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000600123"
+        },
+        "body": "<P>(1) Gr\u00fcner Wasserstoff im Sinn der gesetzlichen Befreiung von der Zahlung der EEG-Umlage nach \u00a7 69b des Erneuerbare-Energien-Gesetzes ist nur Wasserstoff, der innerhalb der ersten 5\u00a0000 Vollbenutzungsstunden eines Kalenderjahres in der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff elektrochemisch durch den ausschlie\u00dflichen Verbrauch von Strom hergestellt worden ist, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der nachweislich aus Anlagen zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des \u00a7 3 Nummer 21 des Erneuerbare-Energien-Gesetzes stammt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der nachweislich zu einem Anteil von mindestens 80 Prozent aus Anlagen stammt, die ihren Standort in der Preiszone f\u00fcr Deutschland haben, und der nachweislich zu einem Anteil von h\u00f6chstens 20 Prozent aus Anlagen stammt, die ihren Standort in einer Preiszone haben, die mit der Preiszone f\u00fcr Deutschland elektrisch verbunden ist, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den weder eine Zahlung nach dem Erneuerbare-Energien-Gesetz, nach dieser Verordnung oder nach dem Kraft-W\u00e4rme-Kopplungsgesetz in der jeweils f\u00fcr die Anlage ma\u00dfgeblichen Fassung noch eine sonstige F\u00f6rderung im Sinn des \u00a7 9 Nummer 6 Buchstabe b in Anspruch genommen wird.</LA></DD></DL></P><P>(2) Strom, der in einer Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff verbraucht wird, stammt nachweislich aus Anlagen zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des \u00a7 3 Nummer 21 des Erneuerbare-Energien-Gesetzes, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Fall des Verbrauchs von Strom, den ein Elektrizit\u00e4tsversorgungsunternehmen \u00fcber ein Netz an den Betreiber der Einrichtung geliefert hat, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr diesen Strom Herkunftsnachweise f\u00fcr erneuerbare Energien nach \u00a7 30 der Herkunfts- und Regionalnachweis-Durchf\u00fchrungsverordnung entwertet wurden und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">diese Herkunftsnachweise, sofern die Anlage ihren Standort im Bundesgebiet hat, die Angabe zur optionalen Kopplung nach \u00a7 16 Absatz 3 der Herkunfts- und Regionalnachweis-Durchf\u00fchrungsverordnung enthalten, oder</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Fall des Verbrauchs von Strom, der nicht durch ein Netz durchgeleitet wird, der Strom in einer Anlage zur Erzeugung von Strom aus erneuerbaren Energien im Sinn des \u00a7 3 Nummer 21 des Erneuerbare-Energien-Gesetzes erzeugt und zeitgleich bezogen auf jedes 15-Minuten-Intervall in der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff verbraucht wurde.</LA></DD></DL>Eine mess- und eichrechtskonforme Messung der Zeitgleichheit von Erzeugung und Verbrauch ist zur Erf\u00fcllung der Anforderung nach Satz 1 Nummer 2 nur erforderlich, wenn nicht schon anderweitig sichergestellt ist, dass Strom, bezogen auf jedes 15-Minuten-Intervall, h\u00f6chstens bis zur H\u00f6he der tats\u00e4chlichen Erzeugung als Verbrauch der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff als erzeugt und verbraucht in Ansatz gebracht wird.</P><P>(3) Die Vollbenutzungsstunden eines Kalenderjahres im Sinn von Absatz 1 werden durch den Quotienten aus dem gesamten kalenderj\u00e4hrlichen Stromverbrauch und dem maximalen Stromverbrauch der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff im Auslegungszustand w\u00e4hrend einer Betriebsstunde unter normalen Einsatzbedingungen ermittelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE002900123",
+        "name": "\u00a7 12j",
+        "title": "Mitteilungspflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000600123"
+        },
+        "body": "<P>Betreiber von Einrichtungen zur Herstellung von Gr\u00fcnem Wasserstoff und Elektrizit\u00e4tsversorgungsunternehmen, die Strom an Letztverbraucher zur Herstellung von Gr\u00fcnem Wasserstoff liefern, m\u00fcssen im Rahmen ihrer Mitteilung nach \u00a7 74 und \u00a7 74a des Erneuerbare-Energien-Gesetzes dem Netzbetreiber, der zur Erhebung der EEG-Umlage berechtigt ist, durch Vorlage eines Pr\u00fcfungsvermerks eines Wirtschaftspr\u00fcfers, einer Wirtschaftspr\u00fcfungsgesellschaft, eines genossenschaftlichen Pr\u00fcfungsverbandes, eines vereidigten Buchpr\u00fcfers oder einer Buchpr\u00fcfungsgesellschaft nachweisen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den maximalen Stromverbrauch der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff im Auslegungszustand w\u00e4hrend einer Betriebsstunde unter normalen Einsatzbedingungen der maximalen Leistungsaufnahme der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in dem betreffenden Kalenderjahr von der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff verbrauchte Strommenge,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass f\u00fcr das betreffende Kalenderjahr die EEG-Umlage f\u00fcr Strom, der von dem Betreiber selbst verbraucht wurde, nicht nach \u00a7 64a des Erneuerbare-Energien-Gesetzes begrenzt ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einhaltung der Voraussetzungen des \u00a7 12i im Fall des Verbrauchs von Strom in den F\u00e4llen des <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 12i Absatz 2 Satz 1 Nummer 1 durch Vorlage von Entwertungsnachweisen f\u00fcr den Betreiber der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff nach \u00a7 30 Absatz 3 Satz 2 und 3 der Herkunfts- und Regionalnachweis-Durchf\u00fchrungsverordnung aus dem Herkunftsnachweisregister sowie der Angabe der Nummern, unter denen die Anlagen, f\u00fcr deren erzeugten Strom die Herkunftsnachweise ausgestellt wurden, im Marktstammdatenregister registriert sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 12i Absatz 2 Satz 1 Nummer 2 durch die Angabe der Nummern, unter denen die Anlagen im Marktstammdatenregister registriert sind.</LA></DD></DL></LA></DD></DL>Sobald die nach Satz 1 Nummer 4 Buchstabe a vorzulegenden Entwertungsnachweise im Wege einer automatisierten Bescheinigung des Herkunftsnachweisregisters nachgewiesen werden k\u00f6nnen, tritt diese automatisierte Bescheinigung an die Stelle des Entwertungsnachweises nach Satz 1 Nummer 4 Buchstabe a.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE003000123",
+        "name": "\u00a7 12k",
+        "title": "Verringerung der EEG-Umlage bei Versto\u00df gegen Mitteilungspflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000600123"
+        },
+        "body": "<P>Der nach \u00a7 69b des Erneuerbare-Energien-Gesetzes verringerte Anspruch auf Zahlung der EEG-Umlage erh\u00f6ht sich auf 100 Prozent, soweit der Betreiber der Einrichtung zur Herstellung von Gr\u00fcnem Wasserstoff oder das Elektrizit\u00e4tsversorgungsunternehmen f\u00fcr das jeweilige Kalenderjahr die Mitteilungspflichten nach \u00a7 74 oder \u00a7 74a des Erneuerbare-Energien-Gesetzes in Verbindung mit \u00a7 12j nicht erf\u00fcllt hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE003100123",
+        "name": "\u00a7 12l",
+        "title": "Berichtspflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000600123"
+        },
+        "body": "<P>(1) Das Bundesministerium f\u00fcr Wirtschaft und Energie pr\u00fcft m\u00f6gliche Auswirkungen von Einrichtungen zur Herstellung von Gr\u00fcnem Wasserstoff auf das Stromnetz, insbesondere auf das Ausma\u00df von Netzengpasssituationen und den Bedarf an Netzreserve, und legt dem Bundestag hierzu bis zum 31. Dezember 2023 einen Bericht vor.</P><P>(2) Das Umweltbundesamt legt der Bundesregierung bis zum 31. Dezember 2021 einen Bericht dazu vor, wie die Vorschriften zur optionalen Kopplung von Herkunftsnachweisen nach \u00a7 16 Absatz 3 der Herkunfts- und Regionalnachweis-Durchf\u00fchrungsverordnung im Hinblick auf bisherige Erfahrungen mit diesem Instrument sowie die zuk\u00fcnftige Nutzung dieses Instruments f\u00fcr die Zwecke des marktg\u00e4ngigen und flexiblen Nachweises der Anforderungen an Gr\u00fcnen Wasserstoff nach dieser Verordnung einschlie\u00dflich f\u00fcr Anlagen mit Standort au\u00dferhalb des Bundesgebiets angepasst werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014610015BJNG000400124",
+        "name": "Abschnitt 4",
+        "title": "\u00dcbertragung von Verordnungserm\u00e4chtigungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001005128",
+        "name": "\u00a7 13",
+        "title": "Subdelegation an die Bundesnetzagentur",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000400124"
+        },
+        "body": "<P>Die Bundesnetzagentur wird erm\u00e4chtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie zu regeln: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anforderungen an die Vermarktung der Strommengen nach \u00a7 2, insbesondere den Handelsplatz, die Prognoseerstellung, die Beschaffung der Ausgleichsenergie, die Mitteilungs- und Ver\u00f6ffentlichungspflichten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bestimmung der Positionen, die als Einnahmen oder Ausgaben nach \u00a7 3 gelten, und des anzuwendenden Zinssatzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anreize zur bestm\u00f6glichen Vermarktung des Stroms,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcbertragung der Aufgabe der Vermarktung auf Dritte in einem transparenten und diskriminierungsfreien Verfahren, insbesondere die Einzelheiten der Ausschreibung und die Rechtsbeziehungen der Dritten zu den \u00dcbertragungsnetzbetreibern,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen, unter denen die \u00dcbertragungsnetzbetreiber berechtigt werden k\u00f6nnen, <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">mit Anlagenbetreibern vertragliche Vereinbarungen zu treffen, die unter angemessener Ber\u00fccksichtigung des Einspeisevorrangs der Optimierung der Vermarktung des Stroms dienen; dies schlie\u00dft die Ber\u00fccksichtigung der durch solche Vereinbarungen entstehenden Kosten als Ausgaben nach \u00a7 3 Absatz 4 ein, sofern sie volkswirtschaftlich angemessen sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anlagen, die nach dem 31. Dezember 2015 in Betrieb genommen werden und deren Strom nach \u00a7 19 Absatz 1 Nummer 2 des Erneuerbare-Energien-Gesetzes verg\u00fctet wird, abzuregeln, wenn der Spotmarktpreis nach \u00a7 3 Nummer 42a des Erneuerbare-Energien-Gesetzes andauernd negativ ist und</LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">n\u00e4here Bestimmungen zur Zahlung der EEG-Umlage nach \u00a7 61 des Erneuerbare-Energien-Gesetzes, auch unter Einbeziehung der Netzbetreiber, die nicht \u00dcbertragungsnetzbetreiber sind, und die notwendigen Anpassungen bei den Mitteilungs- und Ver\u00f6ffentlichungspflichten.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001102118",
+        "name": "\u00a7 14",
+        "title": "Subdelegation an das Umweltbundesamt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000400124"
+        },
+        "body": "<P>(1) Das Umweltbundesamt wird erm\u00e4chtigt, durch Rechtsverordnung im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie und dem Bundesministerium der Justiz und f\u00fcr Verbraucherschutz <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">weitere Anforderungen an den Inhalt, die G\u00fcltigkeitsdauer und die Form der Herkunftsnachweise und der Regionalnachweise sowie die verwendeten Datenformate und Schnittstellen zu anderen informationstechnischen Systemen festzulegen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anforderungen zu regeln an <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausstellung, \u00dcbertragung, Entwertung und Verwendung von Herkunftsnachweisen und Regionalnachweisen und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anerkennung von Herkunftsnachweisen f\u00fcr Strom aus erneuerbaren Energien aus dem Ausland nach \u00a7 79 Absatz 3 des Erneuerbare-Energien-Gesetzes,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Voraussetzungen f\u00fcr die vorl\u00e4ufige oder dauerhafte Sperrung von Konten und den Ausschluss von Kontoinhabern von der Nutzung des Herkunftsnachweisregisters und des Regionalnachweisregisters festzulegen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Verfahren f\u00fcr die Ausstellung, Anerkennung, \u00dcbertragung, Entwertung und Verwendung von Herkunftsnachweisen und die Ausstellung, \u00dcbertragung, Entwertung und Verwendung von Regionalnachweisen zu regeln sowie festzulegen, wie Antragsteller dabei die Einhaltung der Anforderungen nach Nummer 2 nachweisen m\u00fcssen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die weitere Ausgestaltung des Herkunftsnachweisregisters und des Regionalnachweisregisters zu regeln sowie festzulegen, welche Angaben an das Herkunftsnachweisregister und das Regionalnachweisregister \u00fcbermittelt werden m\u00fcssen, wer zur \u00dcbermittlung verpflichtet ist und in welchem Umfang Netzbetreiber vom Umweltbundesamt Auskunft \u00fcber die Ausstellung, \u00dcbertragung und Entwertung von Regionalnachweisen verlangen k\u00f6nnen; dies schlie\u00dft Regelungen zum Schutz personenbezogener Daten ein, in denen Art, Umfang und Zweck der Speicherung sowie L\u00f6schungsfristen festgelegt werden m\u00fcssen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Anwendungsbereich von \u00a7 79a Absatz 6 des Erneuerbare-Energien-Gesetzes zu regeln und zu ver\u00f6ffentlichen, welche Postleitzahlengebiete jeweils eine Region f\u00fcr die regionale Gr\u00fcnstromkennzeichnung um ein oder mehrere Postleitzahlengebiete, in denen Strom verbraucht wird, bilden,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Strom aus Anlagen au\u00dferhalb des Bundesgebiets, die einen Zuschlag in einer Ausschreibung nach \u00a7 5 Absatz 2 Satz 2 des Erneuerbare-Energien-Gesetzes erhalten haben: <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">zu bestimmen, welche Gebiete in den betreffenden Staaten von der jeweiligen Region f\u00fcr die regionale Gr\u00fcnstromkennzeichnung nach \u00a7 79a Absatz 6 des Erneuerbare-Energien-Gesetzes umfasst sind und die Ver\u00f6ffentlichung dieser Gebiete zu regeln,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anforderungen zu regeln an die Ausstellung, \u00dcbertragung und Entwertung von Regionalnachweisen f\u00fcr Strom aus Anlagen in Gebieten nach Buchstabe a,</LA></DD></DL></LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Anwendungsbereich von \u00a7 79a Absatz 5 Satz 3 des Erneuerbare-Energien-Gesetzes Bestimmungen zum Nachweis zu treffen, dass die \u00dcbertragung von Regionalnachweisen nur entlang der vertraglichen Lieferkette erfolgt ist, sowie</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">die konkrete Gestaltung der Ausweisung der regionalen Herkunft nach \u00a7 79a des Erneuerbare-Energien-Gesetzes in der Stromkennzeichnung zu regeln, insbesondere die textliche und grafische Darstellung.</LA></DD></DL></P><P>(2) Das Umweltbundesamt wird erm\u00e4chtigt, durch Rechtsverordnung die f\u00fcr Amtshandlungen des Umweltbundesamtes im Zusammenhang mit der Ausstellung, Anerkennung, \u00dcbertragung und Entwertung von Herkunftsnachweisen und der Ausstellung, \u00dcbertragung und Entwertung von Regionalnachweisen sowie f\u00fcr die Nutzung des Herkunftsnachweisregisters und des Regionalnachweisregisters geb\u00fchrenpflichtigen Tatbest\u00e4nde und Geb\u00fchrens\u00e4tze sowie die erstattungsf\u00e4higen Auslagen nach \u00a7 87 des Erneuerbare-Energien-Gesetzes zu bestimmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE001500124",
+        "name": "\u00a7 15",
+        "title": "Subdelegation an das Bundesamt f\u00fcr Seeschifffahrt und Hydrographie",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000400124"
+        },
+        "body": "<P>Das Bundesamt f\u00fcr Seeschifffahrt und Hydrographie wird erm\u00e4chtigt, durch Rechtsverordnung nach \u00a7 12 Absatz 5 Satz 1 des Windenergie-auf-See-Gesetzes f\u00fcr Fl\u00e4chen in der ausschlie\u00dflichen Wirtschaftszone festzulegen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Ergebnis der Eignungspr\u00fcfung, dass die Fl\u00e4che zur Ausschreibung nach Teil 3 Abschnitt 2 des Windenergie-auf-See-Gesetzes geeignet ist, einschlie\u00dflich der Vorgaben f\u00fcr das sp\u00e4tere Vorhaben nach \u00a7 12 Absatz 5 Satz 2 des Windenergie-auf-See-Gesetzes, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die zu installierende Leistung auf dieser Fl\u00e4che.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR014610015BJNG000700123",
+        "name": "Abschnitt 5",
+        "title": "\u00dcbergangsbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR014610015BJNE003200123",
+        "name": "\u00a7 16",
+        "title": "Beihilferechtlicher Genehmigungsvorbehalt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR014610015BJNG000700123"
+        },
+        "body": "<P>Die Abschnitte 3a und 3b d\u00fcrfen erst nach der beihilferechtlichen Genehmigung durch die Europ\u00e4ische Kommission und nur nach Ma\u00dfgabe dieser Genehmigung angewendet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

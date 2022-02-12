@@ -1,0 +1,115 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR013130973",
+    "firstPublished": "1973-09-11",
+    "sourceTimestamp": "20131008093526",
+    "titleShort": null,
+    "titleLong": "Zweite Wassersicherstellungsverordnung",
+    "abbreviation": "2. WasSV",
+    "slug": "2_wassv",
+    "extraAbbreviations": [
+      "WasSV 2"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1973, 1313",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 1 V v. 25.4.1978 I 583",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.4.1978 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR013130973BJNE000100304",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 3 Nr. 3 des Wassersicherstellungsgesetzes vom 24. August 1965 (Bundesgesetzblatt I S. 1225), ge\u00e4ndert durch das Einf\u00fchrungsgesetz zum Gesetz \u00fcber Ordnungswidrigkeiten vom 24. Mai 1968 (Bundesgesetzbl. I S. 503), verordnet die Bundesregierung mit Zustimmung des Bundesrates:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR013130973BJNE000200304",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "body": "<P>Die Bestimmungen dieser Verordnung gelten f\u00fcr Brunnen und Quellfassungen, die als selbst\u00e4ndig zu betreibende Einzelanlagen zur <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckung des lebensnotwendigen Bedarfs an Trinkwasser,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versorgung mit Betriebswasser im unentbehrlichen Umfang,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckung des Bedarfs an L\u00f6schwasser</LA></DD> </DL>nach dem Wassersicherstellungsgesetz gebaut oder umgebaut werden. Sie gelten nicht f\u00fcr Brunnen und Quellfassungen der zentralen Wasserversorgung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR013130973BJNE000300304",
+        "name": "\u00a7 2",
+        "title": "Allgemeine Anforderungen",
+        "parent": null,
+        "body": "<P>Brunnen und Quellfassungen sind nach den allgemein anerkannten Regeln der Technik zu bauen oder umzubauen, soweit diese Verordnung nichts anderes bestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR013130973BJNE000400304",
+        "name": "\u00a7 3",
+        "title": "Bauweise, Baustoffe und Bestandteile von Brunnen",
+        "parent": null,
+        "body": "<P>(1) Bauweise und Baustoffe von Brunnen m\u00fcssen so beschaffen sein, da\u00df sie elektrolytischen und chemischen Einwirkungen f\u00fcr eine m\u00f6glichst lange Zeit widerstehen. Die Bauweise der Brunnen mu\u00df den hydrogeologischen Verh\u00e4ltnissen entsprechen.</P><P>(2) Brunnenschacht und Brunnenkopf m\u00fcssen so hergestellt werden, da\u00df das Wasser f\u00fcr seine vorgesehene Verwendung nicht durch Einwirkung von au\u00dfen, insbesondere durch radioaktive Niederschl\u00e4ge oder biologische oder chemische Kampfmittel, beeintr\u00e4chtigt werden kann.</P><P>(3) Art und Ausbildung der F\u00f6rderanlage werden bestimmt durch die hydrogeologischen Verh\u00e4ltnisse und die Wasserbereitstellung. Bei ausreichendem Grundwasserstand und einer Wasserbereitstellung bis <ABWFORMAT typ=\"A\" />3 cbm/h sind weitgehend Handpumpen einzusetzen. In allen anderen F\u00e4llen soll die F\u00f6rderanlage aus Pumpe und Motor bestehen; Abweichungen d\u00fcrfen in begr\u00fcndeten F\u00e4llen vorgesehen werden. Entsprechend der Konstruktion kann ein Hydrant mit Schl\u00fcssel und Standrohr zur F\u00f6rderanlage geh\u00f6ren. F\u00fcr Pumpen mit Elektromotor ist au\u00dfer dem Netzanschlu\u00df der Anschlu\u00df f\u00fcr ein Notstromaggregat oder eine gleichwertige Einrichtung vorzusehen.</P><P>(4) Die unmittelbare Umgebung von Brunnen ist so zu befestigen, da\u00df sie jederzeit befahrbar ist und das anfallende Niederschlagswasser oberirdisch abflie\u00dfen kann. Werden Pumpen mit Verbrennungsmotoren eingesetzt, mu\u00df der Standplatz so gew\u00e4hlt oder hergerichtet werden, da\u00df Mineral\u00f6l weder versickern noch in das abzugebende Wasser gelangen kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR013130973BJNE000500304",
+        "name": "\u00a7 4",
+        "title": "Besondere Anforderungen f\u00fcr Trinkwasser-Notbrunnen",
+        "parent": null,
+        "body": "<P>(1) Neu zu bauende Brunnen, die zur Versorgung mit Trinkwasser bestimmt sind, m\u00fcssen in der Regel als Bohrbrunnen gebaut werden. Sie m\u00fcssen aus folgenden Teilen bestehen: <DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\">Sumpfrohr mit Boden, Filterrohr, Aufsatzrohr, Brunnenkopf, F\u00f6rderleitung und Brunnenschacht mit tagwasserdichter Schachtabdeckung.</LA></DD> </DL>Abweichungen d\u00fcrfen nur in begr\u00fcndeten Ausnahmef\u00e4llen vorgesehen werden. Es sind F\u00f6rderanlagen nach \u00a7 3 Abs. 3 vorzusehen.</P><P>(2) Umzubauende Brunnen, die zur Versorgung mit Trinkwasser bestimmt sind, m\u00fcssen mindestens eine tagwasserdichte Abdeckung sowie eine F\u00f6rderanlage nach \u00a7 3 Abs. 3 haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR013130973BJNE000600304",
+        "name": "\u00a7 5",
+        "title": "Festigkeitsnachweis",
+        "parent": null,
+        "body": "<P>Die Bauteile eines Brunnens m\u00fcssen folgenden Anforderungen gen\u00fcgen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Brunnenschacht<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Es ist ein kreisf\u00f6rmiger Querschnitt mit m\u00f6glichst kleinem Durchmesser zu w\u00e4hlen.</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Nacheinander sind folgende Lastf\u00e4lle anzusetzen:<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine gleichm\u00e4\u00dfig verteilte senkrechte Gebrauchslast in Gel\u00e4ndeh\u00f6he von <ABWFORMAT typ=\"A\" />200 kN/qm,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">ein gleichm\u00e4\u00dfig verteilter Au\u00dfendruck (Kreisringdruck) von <ABWFORMAT typ=\"A\" />150 kN/qm.</LA></DD></DL></LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Der Kreisringquerschnitt mu\u00df unter einem horizontal in einer Richtung wirkenden Bodendruck <ABWFORMAT typ=\"A\" />\"p\" (kN/qm)</LA><LA Size=\"normal\">entweder<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Verformung von 1% seines Durchmessers ohne \u00dcberschreitung der zul\u00e4ssigen Spannungen aufnehmen</LA><LA Size=\"normal\">oder</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr ein Biegemoment</LA></DD></DL></LA></DD></DL></LA></DD></DL><BR /><pre xml:space=\"preserve\">                         a(tief)a(hoch)2<BR />            <ABWFORMAT typ=\"A\" />M = p(tief)o --------------- (kN x m)<BR />                               2</pre><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\">bemessen werden</LA><LA Size=\"normal\">oder</LA></DD><DT>cc)</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Scheiteldrucklast von</LA></DD></DL></LA></DD></DL></LA></DD></DL><BR /><pre xml:space=\"preserve\">                                 a(tief)a(hoch)2 x Pi<BR />            <ABWFORMAT typ=\"A\" />P = 1,7 x p(tief)o x --------------------- (kN/m)<BR />                                     2 x a(tief)i</pre><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\">aufnehmen.</LA></DD></DL></LA><LA Size=\"normal\">Hierbei bedeuten:</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />P(tief)o = 50 (kN/qm)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />a(tief)a = Au\u00dfenradius (m)</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />a(tief)i = Innenradius (m).</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Brunnenrohre und Brunnenkopf</LA><LA Size=\"normal\">Die als Brunnenelemente verwendeten Rohre sind nacheinander f\u00fcr folgende Lastf\u00e4lle zu bemessen:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">einen gleichm\u00e4\u00dfig verteilten Au\u00dfendruck (Kreisringdruck) von <ABWFORMAT typ=\"A\" />200 kN/qm</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">unter einem horizontal in einer Richtung wirkenden Bodendruck <ABWFORMAT typ=\"A\" />\"p\" (kN/qm) mu\u00df eine Verformung von 1% des Durchmessers ohne \u00dcberschreitung der zul\u00e4ssigen Spannungen aufgenommen werden k\u00f6nnen.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR013130973BJNE000700304",
+        "name": "\u00a7 6",
+        "title": "Bauweise, Baustoffe und Bestandteile von\nQuellfassungen",
+        "parent": null,
+        "body": "<P>(1) Quellfassungen d\u00fcrfen nur dann gebaut oder umgebaut werden, wenn eine ausreichende Quellsch\u00fcttung gew\u00e4hrleistet ist.</P><P>(2) Bauweise und Baustoffe von Quellfassungen m\u00fcssen sich nach Art der Quelle und nach den \u00f6rtlichen Verh\u00e4ltnissen richten. Die Quellfassungen m\u00fcssen so beschaffen sein, da\u00df sie elektrolytischen und chemischen Einwirkungen f\u00fcr eine m\u00f6glichst lange Zeit widerstehen.</P><P>(3) Quellfassungen m\u00fcssen die Bauteile enthalten, die zur Wasserfassung und Wasserabgabe erforderlich sind. Die Quellfassungen und der Sammelschacht sind entsprechend der vorgesehenen Verwendung des Wassers gegen unter- und oberirdische Verunreinigung abzudichten. \u00dcber der Sickerleitung soll eine Deckschicht von mindestens 3 m liegen. \u00dcbersch\u00fcssiges Quellwasser mu\u00df ungehindert und ohne Schaden f\u00fcr die Umgebung abflie\u00dfen k\u00f6nnen.</P><P>(4) Eine Pumpanlage ist nur vorzuhalten, wenn sie zur Wasserf\u00f6rderung f\u00fcr einen notwendigen Druck des Wassers an der Verteilerstelle erforderlich ist. Die Art der Pumpanlage richtet sich nach der Quellsch\u00fcttung und nach dem F\u00f6rderverm\u00f6gen der Zuleitung bis zur Verteilerstelle. Bei Quellen mit einer Sch\u00fcttung bis zu <ABWFORMAT typ=\"A\" />3 cbm/h sind weitgehend Handpumpen, in allen anderen F\u00e4llen Motorpumpen zu verwenden. F\u00fcr Pumpen mit Elektromotor ist au\u00dfer dem Netzanschlu\u00df der Anschlu\u00df f\u00fcr ein Notstromaggregat vorzusehen.</P><P>(5) Die unmittelbare Umgebung der Wasserentnahmestelle ist so zu befestigen, da\u00df sie begehbar ist. Bei Pumpen mit Verbrennungsmotor mu\u00df der Standplatz so hergerichtet werden, da\u00df Mineral\u00f6l weder versickern noch in das abzugebende Wasser gelangen kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR013130973BJNE000800304",
+        "name": "\u00a7 7",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tage nach ihrer Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR009469969",
+    "firstPublished": "1969-07-27",
+    "sourceTimestamp": "20120808043346",
+    "titleShort": null,
+    "titleLong": "Gesetz \u00fcber die Fortzahlung des Arbeitsentgelts im Krankheitsfall und\n\u00fcber \u00c4nderungen des Rechts der gesetzlichen Krankenversicherung",
+    "abbreviation": "LFZ/KVR\u00c4ndG",
+    "slug": "lfz_kvraendg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1969, 946",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 22 Nr. 6 G v. 22.12.1983 I 1532",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 1.1.1970 +++)</P><P><BR /> Art. 1: LFZG 800-19-2</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE000500311",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009469969BJNG000100311",
+        "name": "Art 1",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009469969BJNG000200311",
+        "name": "Art 2",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009469969BJNG000300311",
+        "name": "Art 3",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009469969BJNG000400311",
+        "name": "Art 4",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE000600311",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE000700311",
+        "name": "\u00a7 2",
+        "title": "Abweichende Vereinbarungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": "<P>Im Zeitpunkt des Inkrafttretens dieses Gesetzes bestehende, von seinen Vorschriften abweichende Vereinbarungen bleiben unber\u00fchrt, soweit sie nach \u00a7 2 Abs. 3 und \u00a7 9 des Lohnfortzahlungsgesetzes zul\u00e4ssig sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE000800311",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE000900311",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE001000311",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE001101306",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE001200311",
+        "name": "\u00a7 7",
+        "title": "Verweisungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": "<P><I>Soweit in anderen Bestimmungen auf Vorschriften verwiesen wird oder Bezeichnungen verwendet werden, die durch dieses Gesetz aufgehoben oder ge\u00e4ndert werden, treten an ihre Stelle die entsprechenden Vorschriften oder Bezeichnungen dieses Gesetzes.</I></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE001300311",
+        "name": "\u00a7 8",
+        "title": "Berlin-Klausel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": "<P>Dieses Gesetz gilt mit Ausnahme des Artikels 3 \u00a7 5 nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzblatt I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach \u00a7 14 des dritten \u00dcberleitungsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009469969BJNE001400311",
+        "name": "\u00a7 9",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009469969BJNG000400311"
+        },
+        "body": "<P>(1) Dieses Gesetz tritt am 1. Januar 1970 in Kraft. Artikel 2 Nr. 2, 3, 5, 6 Buchstaben b und c, Nr. 12, 13 und 16 treten am 1. August 1969 in Kraft.</P><P>(2)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

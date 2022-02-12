@@ -1,0 +1,118 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR177800019",
+    "firstPublished": "2019-11-18",
+    "sourceTimestamp": "20200130213030",
+    "titleShort": "FKS-Datenverordnung",
+    "titleLong": "Verordnung zur Bestimmung weiterer Daten, die im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit gespeichert werden",
+    "abbreviation": "FKSDVO",
+    "slug": "fksdvo",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2019, 1778",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 29.11.2019 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 16 Absatz 2 Satz 2 des Schwarzarbeitsbek\u00e4mpfungsgesetzes, der durch Artikel 1 Nummer 11 des Gesetzes vom 6. M\u00e4rz 2017 (BGBl. I S. 399) neu gefasst worden ist, verordnet das Bundesministerium der Finanzen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Speicherung von Daten zu Personen, die t\u00e4tig oder scheinbar t\u00e4tig sind",
+        "parent": null,
+        "body": "<P>(1) \u00dcber Arbeitnehmer und Arbeitnehmerinnen, Selbstst\u00e4ndige, scheinbar t\u00e4tige sowie scheinbar selbstst\u00e4ndige Personen, die von Pr\u00fcfungen nach \u00a7 2 Absatz\u00a01 des Schwarzarbeitsbek\u00e4mpfungsgesetzes betroffen sind, k\u00f6nnen im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit folgende personenbezogene Daten gespeichert werden, sofern dies zur Aufgabenerf\u00fcllung erforderlich ist: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Alias-Personalien,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Personenbeziehungen zu <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Verwandten in gerader Linie bis zum dritten Grad oder in der Seitenlinie bis zum vierten Grad,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Verschw\u00e4gerten in gerader Linie bis zum ersten Grad oder in der Seitenlinie bis zum zweiten Grad und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Verlobten, Ehegatten oder geschiedenen Ehegatten,</LA></DD></DL>soweit diese Personen bereits im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit erfasst sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eines der folgenden Kontaktdaten: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Telefonnummer,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Mobiltelefonnummer oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>E-Mail-Adresse,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Orte von Unterk\u00fcnften zur Pr\u00fcfung nach \u00a7 2 Absatz 1 Nummer 6 des Schwarzarbeitsbek\u00e4mpfungsgesetzes,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>zur \u00dcberpr\u00fcfung des gesetzlichen Entgeltanspruchs oder der H\u00f6he der abzuf\u00fchrenden Sozialabgaben: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Steuerklasse,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Steuerfreibetrag,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Anzahl der Kinder und</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>etwaiges Bestehen und H\u00f6he einer Kirchensteuerpflicht und</LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>folgende Zuordnungsmerkmale von Zusammenarbeitsbeh\u00f6rden: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>AZR-Nummer bis zur Erteilung einer Niederlassungserlaubnis oder einer Erlaubnis zum Daueraufenthalt-EU,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Kundennummer der Tr\u00e4ger nach dem Zweiten oder dem Dritten Buch Sozialgesetzbuch und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Steueridentifikationsnummer.</LA></DD></DL></LA></DD></DL></P><P>(2) Dar\u00fcber hinaus k\u00f6nnen zu den in Absatz 1 genannten Personen folgende Daten zu ihren T\u00e4tigkeiten zum Zwecke der Wahrnehmung der in \u00a7 2 Absatz 1 des Schwarzarbeitsbek\u00e4mpfungsgesetzes genannten Pr\u00fcfauftr\u00e4ge gespeichert werden, sofern dies zur Aufgabenerf\u00fcllung erforderlich ist: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Daten zum Arbeitslohn und zu Arbeitszeiten f\u00fcr den Zeitraum, den die Pr\u00fcfung umfasst,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Arbeitsorte,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>folgende Status von besch\u00e4ftigten oder selbstst\u00e4ndigen Personen: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Arbeitnehmer oder Arbeitnehmerin,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Bezieher oder Bezieherin von Leistungen nach dem Zweiten oder dem Dritten Buch Sozialgesetzbuch,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Arbeitsloser oder Arbeitslose ohne Leistungsbezug,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Beamter oder Beamtin,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>Soldat oder Soldatin,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>Hausmann oder Hausfrau,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA>Praktikant oder Praktikantin,</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA>Rentner oder Rentnerin wegen Alters oder wegen Erwerbsminderung,</LA></DD><DT>i)</DT><DD Font=\"normal\"><LA>Sch\u00fcler oder Sch\u00fclerin,</LA></DD><DT>j)</DT><DD Font=\"normal\"><LA>Student oder Studentin,</LA></DD><DT>k)</DT><DD Font=\"normal\"><LA>Selbstst\u00e4ndiger oder Selbstst\u00e4ndige oder</LA></DD><DT>l)</DT><DD Font=\"normal\"><LA>selbstst\u00e4ndiger Landwirt oder selbstst\u00e4ndige Landwirtin,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Meldedaten nach \u00a7 28a des Vierten Buches Sozialgesetzbuch f\u00fcr den Zeitraum, den die Pr\u00fcfung umfasst,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>einzelne Mitgliedschaften bei einer oder mehreren konkret benannten gesetzlichen Krankenkassen f\u00fcr den Zeitraum, den die Pr\u00fcfung umfasst,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>H\u00f6he und Zeitraum eines Leistungsbezuges nach dem Zweiten oder dem Dritten Buch Sozialgesetzbuch sowie Angaben zu Hinzuverdiensten f\u00fcr den Zeitraum, den die Pr\u00fcfung umfasst,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Vorliegen einer Bedarfsgemeinschaft und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>vertragliche, handelsrechtliche, gesellschaftsrechtliche oder gewerberechtliche Beziehungen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Speicherung von Daten zu Arbeitgebern, Entleihern und Auftraggebern",
+        "parent": null,
+        "body": "<P>(1) \u00dcber Arbeitgeber, Entleiher und Auftraggeber, die von Pr\u00fcfungen nach \u00a7 2 Absatz 1 des Schwarzarbeitsbek\u00e4mpfungsgesetzes betroffen sind, k\u00f6nnen im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit folgende personenbezogene Daten gespeichert werden, sofern dies zur Aufgabenerf\u00fcllung erforderlich ist: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Unternehmensbezeichnungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Alias-Personalien,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Personenbeziehungen zu <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Verwandten in gerader Linie bis zum dritten Grad oder in der Seitenlinie bis zum vierten Grad,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Verschw\u00e4gerten in gerader Linie bis zum ersten Grad oder in der Seitenlinie bis zum zweiten Grad und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Verlobten, Ehegatten oder geschiedenen Ehegatten,</LA></DD></DL>soweit diese Personen bereits im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit erfasst sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>eines der folgenden Kontaktdaten: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Telefonnummer,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Mobiltelefonnummer oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>E-Mail-Adresse,</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Internetadressen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Orte, an denen Gesch\u00e4ftsunterlagen aufbewahrt werden, soweit diese von der Meldeanschrift oder dem Betriebssitz abweichen,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>H\u00f6he und Zeitraum eines Leistungsbezuges nach dem Zweiten oder dem Dritten Buch Sozialgesetzbuch sowie Angaben zu Hinzuverdiensten f\u00fcr den Zeitraum, den die Pr\u00fcfung umfasst,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Vorliegen einer Bedarfsgemeinschaft,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>vertragliche, handelsrechtliche, gesellschaftsrechtliche oder gewerberechtliche Beziehungen,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>Fahrzeugdaten und Halterdaten der betrieblich genutzten Kraftfahrzeuge und</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>folgende Zuordnungsmerkmale von Zusammenarbeitsbeh\u00f6rden: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Kundennummer der Tr\u00e4ger nach dem Zweiten oder dem Dritten Buch Sozialgesetzbuch und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Steueridentifikationsnummer, Wirtschafts-Identifikationsnummer oder Umsatzsteuer-Identifikationsnummer.</LA></DD></DL></LA></DD></DL></P><P>(2) Dar\u00fcber hinaus k\u00f6nnen zu den in Absatz 1 genannten Personen folgende Daten zu ihrer betrieblichen T\u00e4tigkeit gespeichert werden, sofern dies zur Aufgabenerf\u00fcllung erforderlich ist: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Daten zu T\u00e4tigkeitsfeldern des Betriebes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Anzahl der Besch\u00e4ftigten sowie Angaben zu deren Besch\u00e4ftigungsumfang oder Anzahl der beauftragten Personen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Daten zu Betriebsverm\u00f6gen, Betriebsmitteln, Materialkosten, Lohnkosten, Fremdleistungen, Fremdarbeiten, Gewinnen oder Verlusten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Rechtsstellung oder Angaben, die zur Feststellung dieser Rechtsstellung erforderlich sind: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Arbeitgeber oder Arbeitgeberin,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Auftraggeber oder Auftraggeberin,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Auftragnehmer oder Auftragnehmerin,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Entleiher oder Entleiherin,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>Verleiher oder Verleiherin,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>Generalunternehmer oder Generalunternehmerin,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA>Nachunternehmer oder Nachunternehmerin,</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA>Mieter oder Mieterin,</LA></DD><DT>i)</DT><DD Font=\"normal\"><LA>Vermieter oder Vermieterin und</LA></DD><DT>j)</DT><DD Font=\"normal\"><LA>Mitglied einer Arbeitsgemeinschaft zur gemeinsamen Ausf\u00fchrung eines Auftrags,</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Angaben zur Herstellung oder Nutzung unrichtiger Rechnungen, die geeignet sind, Schwarzarbeit oder illegale Besch\u00e4ftigung zu verschleiern oder zu finanzieren,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Angaben zu Handlungen, die eine Geldbewegung oder eine sonstige Verm\u00f6gensverschiebung bezwecken oder bewirken, sofern diese atypisch sind und vom \u00fcblichen Gesch\u00e4ftsablauf abweichen,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Orte der Betriebsst\u00e4tten oder der Arbeitsst\u00e4tten und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Daten zu Betriebs\u00fcbertragung und Betriebs\u00fcbergang.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Speicherung von Daten zu Unternehmen",
+        "parent": null,
+        "body": "<P>(1) Zu Unternehmen k\u00f6nnen die in den \u00a7\u00a7 1 und 2 genannten Daten auch dann im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit gespeichert werden, wenn es sich um Daten gem\u00e4\u00df \u00a7 67 Absatz 2 Satz 2 des Zehnten Buches Sozialgesetzbuch handelt und dies zur Aufgabenerf\u00fcllung erforderlich ist.</P><P>(2) Personenbezogene Daten zu Mitgliedern von Genossenschaften oder von Vereinen oder zu Gesellschaftern, die in den \u00a7\u00a7 1 und 2 genannt sind, k\u00f6nnen ebenfalls im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit gespeichert werden, wenn dies zur Aufgabenerf\u00fcllung erforderlich ist.</P><P>(3) Zu Personen, die zur Vertretung der Unternehmen berechtigt sind, k\u00f6nnen im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit die Daten nach \u00a7 2 Absatz 1 Nummer 2 bis 4 gespeichert werden, wenn dies zur Aufgabenerf\u00fcllung erforderlich ist.</P><P>(4) Sofern gegen vertretungsberechtigte Organe oder faktisch Vertretende des Unternehmens strafrechtliche Ermittlungen gef\u00fchrt werden, k\u00f6nnen im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit folgende Daten zu Unternehmen gespeichert werden, sofern dies zur Aufgabenerf\u00fcllung erforderlich ist: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Art und H\u00f6he von Verm\u00f6genswerten f\u00fcr die Zwecke von vorl\u00e4ufigen Sicherungsma\u00dfnahmen nach den \u00a7\u00a7 111b bis 111q der Strafprozessordnung sowie Einziehungsma\u00dfnahmen in den F\u00e4llen des \u00a7 73b des Strafgesetzbuches und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Angaben zu Handlungen, die eine Geldbewegung oder eine sonstige Verm\u00f6gensverschiebung bezwecken oder bewirken.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Speicherung von Daten aus Hinweisen",
+        "parent": null,
+        "body": "<P>Aus Hinweisen, welche der Finanzkontrolle Schwarzarbeit zu Sachverhalten und etwaigen Verst\u00f6\u00dfen mitgeteilt werden, k\u00f6nnen im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit personenbezogene Daten oder dem Schutz nach \u00a7 67 Absatz 2 Satz 2 des Zehnten Buches Sozialgesetzbuch unterliegende Daten gespeichert werden. Die Daten m\u00fcssen zur Aufgabenerf\u00fcllung erforderlich sein und den in \u00a7 16 Absatz 2 Satz 1 des Schwarzarbeitsbek\u00e4mpfungsgesetzes oder den in den \u00a7\u00a7 1 bis 3 oder in den \u00a7\u00a7 5 bis 7 dieser Rechtsverordnung genannten Daten entsprechen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Speicherung von weiteren Ortsangaben",
+        "parent": null,
+        "body": "<P>Im Rahmen von Pr\u00fcfungen k\u00f6nnen im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit neben den nach den \u00a7\u00a7 1 bis 4 speicherbaren Daten auch Angaben zu Orten einer Pr\u00fcfung nach \u00a7 2 Absatz 1 Nummer 8 des Schwarzarbeitsbek\u00e4mpfungsgesetzes gespeichert werden, sofern dies zur Aufgabenerf\u00fcllung erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Speicherung von Daten zu Beschuldigten und Betroffenen",
+        "parent": null,
+        "body": "<P>Neben den nach den \u00a7\u00a7 1, 2 und 3 Absatz 3 speicherbaren Daten k\u00f6nnen im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit zu Beschuldigten im Rahmen von strafrechtlichen Ermittlungen und zu Betroffenen sowie Beteiligten im Ordnungswidrigkeitenverfahren folgende Daten gespeichert werden, sofern dies zur Aufgabenerf\u00fcllung erforderlich ist: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Angaben zum Gegenstand des Vorwurfs: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Bezeichnung der Straftaten oder der Ordnungswidrigkeiten, deren sie verd\u00e4chtig sind,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>der dem Ermittlungsverfahren zugrundeliegende Sachverhalt, insbesondere Angaben zu Tat\u00f6rtlichkeit, Tatmittel, erlangtem oder erstrebtem Gut und Beteiligten und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>die Tatbegehungsweisen,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Zeitpunkt und Art der Erledigung von Ordnungswidrigkeitenverfahren durch die Beh\u00f6rden der Zollverwaltung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Daten zu strafprozessualen Ma\u00dfnahmen, insbesondere zur Vorbereitung und Durchf\u00fchrung von Durchsuchungen, Beschlagnahmen sowie Sicherstellungen von beweglichen und unbeweglichen Sachen, zur Vorbereitung und Durchf\u00fchrung von vorl\u00e4ufigen Sicherungsma\u00dfnahmen sowie zur Vorbereitung und Durchf\u00fchrung der Anordnung von Einziehungen und zur Durchf\u00fchrung von Beschlagnahmen von Verm\u00f6gen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Angaben zu Handlungen, die eine Geldbewegung oder eine sonstige Verm\u00f6gensverschiebung bezwecken oder bewirken,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Art und H\u00f6he von Verm\u00f6genswerten,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>folgende Kommunikationsmittel, sofern diese bei der Tat verwendet wurden oder werden: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Telefonnummern,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Mobiltelefonnummern,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Telefaxnummern und</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>E-Mail-Adressen,</LA></DD></DL></LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Aufenthaltsorte und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>staatsanwaltschaftliche und gerichtliche Aktenzeichen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Speicherung von Daten zu Zeugen",
+        "parent": null,
+        "body": "<P>Neben den nach den \u00a7\u00a7 1, 2 und 3 Absatz 2 speicherbaren Daten k\u00f6nnen im zentralen Informationssystem f\u00fcr die Finanzkontrolle Schwarzarbeit zu Zeugen folgende Daten gespeichert werden, sofern dies zur Aufgabenerf\u00fcllung erforderlich ist: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eines der folgenden Kontaktdaten: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Telefonnummer,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Mobiltelefonnummer oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>E-Mail-Adresse und</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Aufenthaltsort.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR177800019BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}
