@@ -1,0 +1,131 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR009499974",
+    "firstPublished": "1974-04-17",
+    "sourceTimestamp": "20120808043346",
+    "titleShort": "Verm\u00f6gensteuerreformgesetz",
+    "titleLong": "Gesetz zur Reform des Verm\u00f6gensteuerrechts und zur \u00c4nderung anderer\nSteuergesetze",
+    "abbreviation": "VStRG",
+    "slug": "vstrg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1974, 949",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>Art. 1: VStG 1974 611-6-3-2 <BR />(+++ Textnachweis ab:  1. 1.1974 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR009499974BJNG000100306",
+        "name": "Art 1",
+        "title": "Verm\u00f6gensteuergesetz (VStG)",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009499974BJNG000200306",
+        "name": "Art 2 bis 5",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009499974BJNG000300306",
+        "name": "Art 6",
+        "title": "Grunderwerbsteuer",
+        "parent": null,
+        "body": "<P>Artikel 1 Abs. 1 Satz 2 des Gesetzes zur \u00c4nderung bewertungsrechtlicher und anderer steuerrechtlicher Vorschriften vom 27. Juli 1971 (BGBl. I S. 1157) gilt nicht f\u00fcr die Grunderwerbsteuer.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009499974BJNG000400306",
+        "name": "Art 7",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009499974BJNG000500306",
+        "name": "Art 8",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009499974BJNG000600306",
+        "name": "Art 9",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR009499974BJNG000700306",
+        "name": "Art 10",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009499974BJNE000800306",
+        "name": "\u00a7 1",
+        "title": "Berlin-Klausel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009499974BJNG000700306"
+        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 12 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (BGBl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009499974BJNE000900306",
+        "name": "\u00a7 2",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009499974BJNG000700306"
+        },
+        "body": "<P>Dieses Gesetz tritt mit Wirkung vom 1. Januar 1974 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009499974BJNE001000306",
+        "name": "\u00a7 3",
+        "title": "Au\u00dferkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009499974BJNG000700306"
+        },
+        "body": "<P>Dieses Gesetz gilt letztmals f\u00fcr die Verm\u00f6gensteuer, die Gewerbesteuer, die Ermittlung des Nutzungswertes der selbstgenutzten Wohnung im eigenen Einfamilienhaus sowie die Grunderwerbsteuer des Kalenderjahres, das dem Kalenderjahr vorausgeht, auf dessen Beginn f\u00fcr Grundst\u00fccke (\u00a7 70 des Bewertungsgesetzes) und Betriebsgrundst\u00fccke im Sinne des \u00a7 99 Abs. 1 Nr. 1 des Bewertungsgesetzes nicht mehr 140 vom Hundert der auf den Wertverh\u00e4ltnissen am 1. Januar 1964 beruhenden Einheitswerte anzusetzen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

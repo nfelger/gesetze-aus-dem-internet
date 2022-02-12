@@ -1,0 +1,163 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR166700017",
+    "firstPublished": "2017-06-14",
+    "sourceTimestamp": "20211130213138",
+    "titleShort": "Kundendatenauskunftsverordnung",
+    "titleLong": "Verordnung \u00fcber das automatisierte Verfahren zur Auskunft \u00fcber Kundendaten nach \u00a7 112 des Telekommunikationsgesetzes",
+    "abbreviation": "KDAV",
+    "slug": "kdav",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2017, 1667 (3343)",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "\u00c4nderung durch Art. 46 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"BJNR005400009_01_BJNR166700017\" Pos=\"exp\" Postfix=\")\"><noindex>Notifiziert gem\u00e4\u00df der Richtlinie (EU) 2015/1535 des Europ\u00e4ischen Parlaments und des Rates vom 9. September 2015 \u00fcber ein Informationsverfahren auf dem Gebiet der technischen Vorschriften und der Vorschriften f\u00fcr die Dienste der Informationsgesellschaft (ABI. L 241 vom 17.9.2015, S. 1).</noindex></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 21.6.2017 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Notifizierung gem\u00e4\u00df der<BR />       EURL 2015/1535   (CELEX Nr: 32015L1535) +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 112 Absatz 3 des Telekommunikationsgesetzes vom 22. Juni 2004 (BGBl. I S. 1190), der zuletzt durch Artikel 1 des Gesetzes vom 10. November 2016 (BGBl. I S. 2473) ge\u00e4ndert worden ist, in Verbindung mit \u00a7 1 Absatz 2 des Zust\u00e4ndigkeitsanpassungsgesetzes vom 16. August 2002 (BGBl. I S. 3165) und dem Organisationserlass vom 17. Dezember 2013 (BGBl. I S. 4310) verordnet das Bundesministerium f\u00fcr Wirtschaft und Energie im Einvernehmen mit dem Bundeskanzleramt, dem Bundesministerium des Innern, dem Bundesministerium der Justiz und f\u00fcr Verbraucherschutz, dem Bundesministerium der Finanzen, dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur sowie dem Bundesministerium der Verteidigung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich, Verpflichtete",
+        "parent": null,
+        "body": "<P>Diese Verordnung gilt f\u00fcr diejenigen Erbringer von \u00f6ffentlich zug\u00e4nglichen Telekommunikationsdiensten, die dabei Rufnummern vergeben und mehr als 10\u00a0000 Teilnehmer haben (Verpflichtete).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000301119",
+        "name": "\u00a7 2",
+        "title": "Ersuchen",
+        "parent": null,
+        "body": "<P>(1) Ein Ersuchen, das der Bundesnetzagentur im automatisierten Auskunftsverfahren von einer ersuchenden Stelle nach \u00a7 173 Absatz 4 des Telekommunikationsgesetzes vorgelegt wird, kann personenbasiert, nummernbasiert oder anschriftenbasiert erfolgen. Das Ersuchen muss folgende Angaben enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die genaue Bezeichnung der ersuchenden Stelle,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Kennung, die der ersuchenden Stelle von der Bundesnetzagentur zur Verwendung im automatisierten Auskunftsverfahren zugeteilt wurde,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das Aktenzeichen, welches dem Verfahren oder dem sonstigen Vorgang von der ersuchenden Stelle zur Erf\u00fcllung ihrer gesetzlichen Aufgaben zugeordnet wurde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>ein Datum, dass die Bearbeiterin oder den Bearbeiter des Ersuchens eindeutig bezeichnet, und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>das aktuelle Kalenderdatum.</LA></DD></DL></P><P>(2) Ersuchen d\u00fcrfen nicht ausschlie\u00dflich selbstt\u00e4tig von einem IT-System erzeugt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Personenbasiertes Ersuchen",
+        "parent": null,
+        "body": "<P>(1) Ein personenbasiertes Ersuchen muss neben den Angaben nach \u00a7 2 Absatz 1 in der Regel folgende Angaben enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Namen, und zwar <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>bei nat\u00fcrlichen Personen den Vor- und Nachnamen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>bei juristischen Personen den Namen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>bei Kaufleuten die Firma,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Stra\u00dfe und Hausnummer oder das Postfach und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Postleitzahl und den Ort.</LA></DD></DL>Abweichend von Satz 1 kann auf eine der folgenden Angaben verzichtet werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei nat\u00fcrlichen Personen auf den Vornamen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei nat\u00fcrlichen Personen auf den Nachnamen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>auf die Hausnummer,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>auf die Postleitzahl oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>auf den Ort.</LA></DD></DL></P><P>(2) Ein personenbasiertes Ersuchen kann folgende Angaben enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Datum eines ermittlungsrelevanten Stichtags oder die Angabe des ermittlungsrelevanten Zeitraums,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Geburtsdatum bei nat\u00fcrlichen Personen oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>einen Geburtszeitraum von h\u00f6chstens 20 Jahren.</LA></DD></DL>Liegt das Geburtsdatum vor, so kann neben der Angabe nach Absatz 1 Satz 2 zus\u00e4tzlich auf die Angabe des Vornamens oder des Nachnamens oder der Stra\u00dfe und der Hausnummer oder des Postfachs verzichtet werden. Liegt die Angabe des Geburtszeitraums von h\u00f6chstens 20 Jahren vor, so kann neben der Angabe nach Absatz 1 Satz 2 zus\u00e4tzlich auf die Angabe des Vornamens, des Nachnamens oder der Hausnummer verzichtet werden.</P><P>(3) Unbekannte Zeichen in den Angaben zum Personen-, Stra\u00dfen- oder Ortsnamen nach Absatz 1 k\u00f6nnen durch die Platzhalter <Citation>\"?\"</Citation>, <Citation>\"[ ]\"</Citation> oder <Citation>\"*\"</Citation> ersetzt werden. Dabei steht <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA><Citation>\"?\"</Citation> f\u00fcr genau ein beliebiges Zeichen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA><Citation>\"[ ]\"</Citation> f\u00fcr genau eines der in der Klammer vorgegebenen Zeichen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA><Citation>\"*\"</Citation> f\u00fcr beliebig viele Zeichen.</LA></DD></DL>Die Platzhalter d\u00fcrfen in einer Angabe nicht als einziges Zeichen gesetzt werden. In einem Ersuchen d\u00fcrfen die Platzhalter <Citation>\"?\"</Citation> oder \u201e*\u201c jeweils einmal in unterschiedlichen Angaben verwendet werden. Der Platzhalter <Citation>\"[ ]\"</Citation> darf in einer Angabe mehrfach verwendet werden. Der Platzhalter <Citation>\"*\"</Citation> darf nicht am Anfang einer der in Satz 1 genannten Angaben eingesetzt werden.</P><P>(4) Eine phonetische Suche kann bei unterschiedlichen Schreibweisen der Angaben zum Personen-, Stra\u00dfen- oder Ortsnamen nach Absatz 1 verwendet werden. Dabei werden mittels eines sprachwissenschaftlich anerkannten Verfahrens diese Angaben in die Suche und das Suchergebnis mit einbezogen, soweit sie eine phonetische \u00c4hnlichkeit zum gesuchten Begriff aufweisen. Die Bundesnetzagentur legt in der Technischen Richtlinie das sprachwissenschaftliche Verfahren fest, das f\u00fcr die deutsche Sprache am besten geeignet ist. Es ist von allen Verpflichteten gleicherma\u00dfen anzuwenden.</P><P>(5) Die phonetische Suche darf in einem Ersuchen nur einmal verwendet werden, es sei denn, sie bezieht sich auf die Angabe des Vor- und Nachnamens. Bei der Angabe des Vor- und Nachnamens ist eine mehrfache Verwendung der phonetischen Suche zul\u00e4ssig. Die phonetische Suche ist bei der Suche durch den Verpflichteten als letzte M\u00f6glichkeit zu verwenden.</P><P>(6) Die Platzhaltersuche und die phonetische Suche d\u00fcrfen in einem Ersuchen nicht gleichzeitig verwendet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Nummernbasiertes Ersuchen",
+        "parent": null,
+        "body": "<P>Ein nummernbasiertes Ersuchen muss neben den Angaben nach \u00a7 2 Absatz 1 die vollst\u00e4ndige Rufnummer enthalten. Die Rufnummer muss mit vorangestellter internationaler L\u00e4nderkennung und einer nationalen Ortsnetz- oder Dienstekennzahl angegeben werden. Das nummernbasierte Ersuchen kann zus\u00e4tzlich das Datum eines ermittlungsrelevanten Stichtags oder die Angabe des ermittlungsrelevanten Zeitraums enthalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Anschriftenbasiertes Ersuchen",
+        "parent": null,
+        "body": "<P>Wenn es zur Ermittlung von Rufnummern zu einer bestimmten Anschrift erforderlich ist, kann auch ein anschriftenbasiertes Ersuchen erfolgen. Das Ersuchen muss neben den Angaben nach \u00a7 2 Absatz 1 folgende zus\u00e4tzliche Angaben enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Stra\u00dfe und die Hausnummer oder das Postfach,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Postleitzahl und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>den Ort.</LA></DD></DL>Das anschriftenbasierte Ersuchen kann zus\u00e4tzlich das Datum eines ermittlungsrelevanten Stichtags oder die Angabe des ermittlungsrelevanten Zeitraums enthalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Abfrage der Daten",
+        "parent": null,
+        "body": "<P>(1) Die Bundesnetzagentur \u00fcbernimmt aus dem Ersuchen die Daten ohne die Angaben nach \u00a7 2 Absatz 1 und leitet die Daten unverz\u00fcglich an die in Betracht kommenden Verpflichteten weiter.</P><P>(2) Der Verpflichtete muss seine technischen Systeme jederzeit zum Empfang von Abfragen der Bundesnetzagentur bereithalten. Zur Empfangsbereitschaft geh\u00f6ren insbesondere die Einrichtung und die laufende Bereitstellung eines geeigneten Telekommunikationsanschlusses.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000801119",
+        "name": "\u00a7 7",
+        "title": "Daten\u00fcbermittlung durch den Verpflichteten",
+        "parent": null,
+        "body": "<P>(1) Auf Grund einer Abfrage hat der Verpflichtete unverz\u00fcglich die Gesamtheit der aktuellen Kundendaten zum ermittlungsrelevanten Stichtag oder zum ermittlungsrelevanten Zeitraum, die zu einer Rufnummer nach \u00a7 172 Absatz 1 Satz 1 und Absatz 3 des Telekommunikationsgesetzes erhoben wurden und in der Kundendatei nach \u00a7 173 Absatz 1 Satz 1 bis 3 des Telekommunikationsgesetzes gespeichert sind, an die Bundesnetzagentur zu \u00fcbermitteln. Die \u00dcbermittlung der aktuellen Kundendaten umfasst auch die \u00dcbermittlung der Angabe anderer Anschlusskennungen sowie die \u00dcbermittlung der Kennungen elektronischer Postf\u00e4cher, die von dem Verpflichteten vergeben wurden. Die Bundesnetzagentur legt in der Technischen Richtlinie fest, welche Anschlusskennungen von den Verpflichteten zu beauskunften sind.</P><P>(2) Werden mehr als 40 Anschlussinhaber ermittelt <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr ein personenbasiertes Ersuchen, das nicht alle Angaben nach \u00a7 3 Absatz 1 Satz 1 enth\u00e4lt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei der Verwendung einer Platzhaltersuche,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>bei der Verwendung einer phonetischen Suche oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr ein anschriftenbasiertes Ersuchen,</LA></DD></DL>teilt der Verpflichtete der Bundesnetzagentur als Antwort ausschlie\u00dflich die Anzahl der gefundenen Datens\u00e4tze mit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Daten\u00fcbermittlung durch die Bundesnetzagentur",
+        "parent": null,
+        "body": "<P>Die Bundesnetzagentur leitet die erhaltenen Antworten als Ergebnis an die ersuchende Stelle weiter. Die ersuchende Stelle soll ihre Empfangseinrichtungen jederzeit zum Empfang von Daten bereithalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE001001119",
+        "name": "\u00a7 9",
+        "title": "Sicherheitsanforderungen",
+        "parent": null,
+        "body": "<P>(1) Die zu \u00fcbermittelnden Daten sowie die \u00dcbertragungswege zwischen den am automatisierten Auskunftsverfahren Beteiligten sind mit geeigneten Ma\u00dfnahmen zur Sicherstellung der Verf\u00fcgbarkeit, Vertraulichkeit und Integrit\u00e4t zu sch\u00fctzen. Diese Ma\u00dfnahmen haben fortw\u00e4hrend dem Stand der Technik zu entsprechen.</P><P>(2) Plant der Verpflichtete technische Wartungs- und Instandhaltungsma\u00dfnahmen oder andere Ma\u00dfnahmen, die Auswirkungen auf die Verf\u00fcgbarkeit haben k\u00f6nnen, hat er diese Ma\u00dfnahmen der Bundesnetzagentur rechtzeitig vor der Durchf\u00fchrung anzuzeigen.</P><P>(3) Der Verpflichtete hat die ihm von der Bundesnetzagentur zu Testzwecken vorgegebenen Datens\u00e4tze in seine Kundendateien nach \u00a7 173 Absatz 1 Satz 1 des Telekommunikationsgesetzes aufzunehmen und diese Datens\u00e4tze verf\u00fcgbar zu halten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Evaluierung",
+        "parent": null,
+        "body": "<P>(1) Die Anwendung der Vorschriften dieser Verordnung ist vom Bundesministerium f\u00fcr Wirtschaft und Energie unter Einbeziehung der betroffenen Kreise innerhalb von drei Jahren nach ihrem Inkrafttreten zu evaluieren. Der Evaluationszeitraum betr\u00e4gt drei Jahre. \u00dcber das Ergebnis der Evaluierung ist dem Verordnungsgeber Bericht zu erstatten.</P><P>(2) Zu evaluieren sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Beauskunftung anderer Anschlusskennungen und Kennungen elektronischer Postf\u00e4cher,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das anschriftenbasierte Ersuchen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die H\u00f6chstgrenze der zu \u00fcbermittelnden Datens\u00e4tze.</LA></DD></DL>Hierbei ist die Weiterentwicklung der Kommunikationstechnik zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR166700017BJNE001300000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR129810020",
+    "firstPublished": "2020-06-17",
+    "sourceTimestamp": "20200721213007",
+    "titleShort": "Eisenbahn-Sicherheitsverordnung",
+    "titleLong": "Verordnung \u00fcber die Sicherheit des Eisenbahnsystems",
+    "abbreviation": "ESiV",
+    "slug": "esiv",
+    "extraAbbreviations": [
+      "ESiV 2020"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2020, 1298",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ersetzt V 930-9-12 v. 5.7.2007 I 1305, 1318 (ESiV)",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 24.6.2020 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Umsetzung der<BR />       EURL 2016/798            (CELEX Nr: 32016L0798) vgl. <BR />                                           V v. 17.6.2020 I 1298 +++)<BR /><BR /></pre>Die V wurde als Artikel 1 der V v. 17.6.2020 I 1298 vom Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur mit Zustimmung des Bundesrates erlassen. Sie ist gem. Art. 4 Satz 1 dieser V am 24.6.2020 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR129810020BJNG000100000",
+        "name": "Teil 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000100000"
+        },
+        "body": "<P>(1) Diese Verordnung gilt f\u00fcr das \u00f6ffentliche Eisenbahnsystem im \u00fcbergeordneten Netz nach \u00a7 2b des Allgemeinen Eisenbahngesetzes.</P><P>(2) Diese Verordnung gilt nicht <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr Eisenbahnen, die auf Eisenbahninfrastrukturen nach \u00a7 2b Absatz 1 Nummer 1 bis 4 des Allgemeinen Eisenbahngesetzes bis in einen \u00dcbergangsbahnhof des \u00fcbergeordneten Netzes ohne Sicherheitsbescheinigung am Eisenbahnbetrieb teilnehmen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr Eisenbahnen, soweit sie Fahrzeuge, die ausschlie\u00dflich zu historischen oder touristischen Zwecken genutzt werden, betreiben.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000100000"
+        },
+        "body": "<P>Im Sinne dieser Verordnung ist oder sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u201egemeinsame Sicherheitsmethoden\u201c die Methoden zur Beschreibung der Art und Weise, wie die Sicherheitsniveaus, die Erreichung der Sicherheitsziele und die Einhaltung der anderen Sicherheitsanforderungen beurteilt werden;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u201eSicherheitsvorschriften\u201c alle verbindlichen Vorschriften, die Anforderungen zur Gew\u00e4hrleistung der Eisenbahnbetriebssicherheit enthalten und die f\u00fcr mehr als eine Eisenbahn oder f\u00fcr Dritte gelten, unabh\u00e4ngig davon, welche Stelle diese Vorschriften festlegt, mit Ausnahme der durch die Vorschriften der Europ\u00e4ischen Union oder der durch die internationalen Vorschriften festgelegten Anforderungen; Schienennetz-Nutzungsbedingungen und Nutzungsbedingungen f\u00fcr Serviceeinrichtungen sind keine Sicherheitsvorschriften im Sinne dieser Verordnung, auch wenn sie Sicherheitsvorschriften enthalten;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>\u201eTechnische Spezifikationen f\u00fcr die Interoperabilit\u00e4t\u201c Spezifikationen im Sinne des Kapitels II der Richtlinie (EU) 2016/797 des Europ\u00e4ischen Parlaments und des Rates vom 11. Mai 2016 \u00fcber die Interoperabilit\u00e4t des Eisenbahnsystems der Europ\u00e4ischen Union (ABl. L 138 vom 26.5.2016, S. 44) in der jeweils geltenden Fassung, der Richtlinie 2008/57/EG des Europ\u00e4ischen Parlaments und des Rates vom 17. Juni 2008 \u00fcber die Interoperabilit\u00e4t des Eisenbahnsystems in der Gemeinschaft (Neufassung) (ABl. L\u00a0191 vom 18.7.2008, S.\u00a01; L 103 vom 22.4.2015, S. 11), die zuletzt durch die Richtlinie 2014/106/EU (ABl. L 355 vom 12.12.2014, S. 42) ge\u00e4ndert worden ist, der Richtlinie 96/48/EG des Rates vom 23. Juli 1996 \u00fcber die Interoperabilit\u00e4t des transeurop\u00e4ischen Hochgeschwindigkeitsbahnsystems (ABl. L 235 vom 17.9.1996, S. 6) oder der Richtlinie 2001/16/EG des Europ\u00e4ischen Parlaments und des Rates vom 19. M\u00e4rz 2001 \u00fcber die Interoperabilit\u00e4t des konventionellen transeurop\u00e4ischen Eisenbahnsystems (ABl. L 110 vom 20.4.2001, S. 1), die jeweils zuletzt durch die Richtlinie 2007/32/EG (ABl. L 141 vom 2.6.2007, S. 63) ge\u00e4ndert worden sind, die f\u00fcr jedes Teilsystem oder f\u00fcr Teile davon im Hinblick auf die Erf\u00fcllung der grundlegenden Anforderungen gelten und die Interoperabilit\u00e4t gew\u00e4hrleisten;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>\u201ezentrale Anlaufstelle\u201c das Informations- und Kommunikationssystem im Sinne des Artikels 12 der Verordnung (EU) 2016/796 des Europ\u00e4ischen Parlaments und des Rates vom 11. Mai 2016 \u00fcber die Eisenbahnagentur der Europ\u00e4ischen Union und zur Aufhebung der Verordnung (EG) Nr. 881/2004 (ABl. L 138 vom 26.5.2016, S. 1) in der jeweils geltenden Fassung.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Notifizierung von Sicherheitsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000100000"
+        },
+        "body": "<P>(1) Sicherheitsvorschriften d\u00fcrfen nur dann erlassen oder herausgegeben werden, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>wenn die Sicherheitsvorschrift noch nicht abgedeckt ist durch <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>eine Technische Spezifikation f\u00fcr die Interoperabilit\u00e4t,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>eine gemeinsame Sicherheitsmethode oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>die Richtlinie 2007/59/EG des Europ\u00e4ischen Parlaments und des Rates vom 23. Oktober 2007 \u00fcber die Zertifizierung von Triebfahrzeugf\u00fchrern, die Lokomotiven und Z\u00fcge im Eisenbahnsystem in der Gemeinschaft f\u00fchren (ABl. L 315 vom 3.12.2007, S. 51), die zuletzt durch die Verordnung (EU) 2019/554 (ABl. L 97 vom 8.4.2019, S. 1) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung oder</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>wenn es zur Gew\u00e4hrleistung oder Wiederherstellung der Eisenbahnsicherheit dringend erforderlich ist.</LA></DD></DL>Ausgenommen von den Anforderungen nach Satz 1 sind bereits notifizierte Sicherheitsvorschriften, die aus rechtlichen oder tats\u00e4chlichen Gr\u00fcnden angepasst werden m\u00fcssen.</P><P>(2) Eisenbahnen und Sektororganisationen haben der Sicherheitsbeh\u00f6rde den Entwurf einer Sicherheitsvorschrift einschlie\u00dflich einer Begr\u00fcndung ihrer Notwendigkeit sp\u00e4testens vier Monate vor der geplanten Ver\u00f6ffentlichung der Sicherheitsvorschrift zur Pr\u00fcfung vorzulegen.</P><P>(3) Die Sicherheitsbeh\u00f6rde notifiziert der Kommission und der Eisenbahnagentur der Europ\u00e4ischen Union (Agentur) sp\u00e4testens drei Monate vor der geplanten Ver\u00f6ffentlichung der Sicherheitsvorschrift im Einvernehmen mit dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Entw\u00fcrfe von Sicherheitsvorschriften nach Absatz 2 und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Entw\u00fcrfe von Sicherheitsvorschriften, die die Sicherheitsbeh\u00f6rde selbst erl\u00e4sst.</LA></DD></DL></P><P>(4) Die Sicherheitsbeh\u00f6rde ver\u00f6ffentlicht die Listen der zu notifizierenden Sicherheitsvorschriften auf ihrer Internetseite. Sie \u00e4ndert bei Bedarf nach Anh\u00f6rung der betroffenen Wirtschaftskreise die jeweilige Liste der zu notifizierenden Sicherheitsvorschriften.</P><P>(5) Bei dringlichen Pr\u00e4ventionsma\u00dfnahmen k\u00f6nnen Sicherheitsvorschriften sofort angewendet werden. Bei Sicherheitsvorschriften nach Absatz 2 bedarf es der Zustimmung der Sicherheitsbeh\u00f6rde. Die Sicherheitsbeh\u00f6rde notifiziert die Sicherheitsvorschrift umgehend nach Erlass und begr\u00fcndet deren Dringlichkeit. Das Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur erh\u00e4lt die notifizierte Sicherheitsvorschrift zur Kenntnis.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR129810020BJNG000200000",
+        "name": "Teil 2",
+        "title": "Einheitliche Sicherheitsbescheinigung und Sicherheitsgenehmigung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR129810020BJNG000300000",
+        "name": "Kapitel 1",
+        "title": "Einheitliche Sicherheitsbescheinigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Voraussetzungen f\u00fcr die Erteilung einer einheitlichen Sicherheitsbescheinigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>Die einheitliche Sicherheitsbescheinigung (Sicherheitsbescheinigung) ist f\u00fcr nach Art, Umfang und r\u00e4umliche Ausdehnung festgelegte Eisenbahnverkehrsdienste f\u00fcr die betreffenden Schienennetze oder Schienenwege \u00f6ffentlicher Eisenbahninfrastrukturunternehmen zu erteilen, wenn das Eisenbahnverkehrsunternehmen den Nachweis erbringt, dass es <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>ein Sicherheitsmanagementsystem eingerichtet hat, das die Anforderungen des Artikels 9 Absatz 1 bis 5 der Richtlinie (EU) 2016/798 des Europ\u00e4ischen Parlaments und des Rates vom 11. Mai 2016 \u00fcber Eisenbahnsicherheit (ABl. L 138 vom 26.5.2016, S. 102; L 59 vom 7.3.2017, S. 41; L 110 vom 30.4.2018, S. 141) in der jeweils geltenden Fassung erf\u00fcllt, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Anforderungen erf\u00fcllt, die in den Sicherheitsvorschriften niedergelegt sind.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Sicherheitsbescheinigungsstelle",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>(1) Die Sicherheitsbescheinigungsstelle erteilt Sicherheitsbescheinigungen nach der Durchf\u00fchrungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 \u00fcber die praktischen Festlegungen f\u00fcr die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gem\u00e4\u00df der Richtlinie (EU) 2016/798 des Europ\u00e4ischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission (ABl. L 129 vom 25.5.2018, S. 49) in der jeweils geltenden Fassung.</P><P>(2) Die Sicherheitsbescheinigungsstelle ist die Agentur, wenn die G\u00fcter- oder Personenverkehrsdienste des Antragstellers grenz\u00fcberschreitend sind. Der Antragsteller kann die Agentur oder die Sicherheitsbeh\u00f6rde als Sicherheitsbescheinigungsstelle bestimmen, wenn die G\u00fcter- oder Personenverkehrsdienste des Antragstellers auf das Hoheitsgebiet der Bundesrepublik Deutschland begrenzt sind.</P><P>(3) F\u00fcr eine \u00c4nderung einer Sicherheitsbescheinigung, die das geografische T\u00e4tigkeitsgebiet erweitert, ist die Beh\u00f6rde zust\u00e4ndig, die die Sicherheitsbescheinigung erstmals erteilt hat. Soll das geografische T\u00e4tigkeitsgebiet auf einen anderen Mitgliedstaat der Europ\u00e4ischen Union ausgeweitet werden, so ist abweichend von Satz 1 ausschlie\u00dflich die Agentur f\u00fcr die \u00c4nderung der Sicherheitsbescheinigung zust\u00e4ndig.</P><P>(4) Ist die Agentur Sicherheitsbescheinigungsstelle, bewertet die Sicherheitsbeh\u00f6rde, ob das Eisenbahnverkehrsunternehmen die jeweils einschl\u00e4gigen Sicherheitsvorschriften erf\u00fcllt. Stimmt die Agentur der Bewertung der Sicherheitsbeh\u00f6rde nicht zu, ist das Verfahren nach Artikel 10 Absatz 7 der Richtlinie (EU) 2016/798 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Antrag auf Erteilung einer Sicherheitsbescheinigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>(1) Eisenbahnverkehrsunternehmen haben eine Sicherheitsbescheinigung bei der Sicherheitsbescheinigungsstelle \u00fcber die zentrale Anlaufstelle zu beantragen. Der Antrag kann auf eine erstmalige Erteilung, auf eine Erneuerung oder auf eine \u00c4nderung einer Sicherheitsbescheinigung gerichtet sein.</P><P>(2) Ist die Sicherheitsbeh\u00f6rde Sicherheitsbescheinigungsstelle, sind der Antrag und die f\u00fcr den Antrag erforderlichen Unterlagen in deutscher Sprache vorzulegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Erweiterung des geografischen T\u00e4tigkeitsgebiets",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>(1) Wenn das Eisenbahnverkehrsunternehmen eine Erweiterung des geografischen T\u00e4tigkeitsgebiets beabsichtigt, hat es die \u00c4nderung der Sicherheitsbescheinigung zu beantragen. Mit dem Antrag sind die Nachweise nach \u00a7 4 bezogen auf das zus\u00e4tzliche geografische T\u00e4tigkeitsgebiet einzureichen.</P><P>(2) Eine Erweiterung des geografischen T\u00e4tigkeitsgebiets liegt nicht vor, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Eisenbahnverkehrsunternehmen beabsichtigt, am Eisenbahnbetrieb bis in Bahnh\u00f6fe von Grenzbetriebsstrecken benachbarter Mitgliedstaaten der Europ\u00e4ischen Union mit \u00e4hnlichen Netzmerkmalen und \u00e4hnlichen Betriebsvorschriften teilzunehmen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Einvernehmen mit den zust\u00e4ndigen Sicherheitsbeh\u00f6rden der betroffenen Mitgliedstaaten der Europ\u00e4ischen Union hergestellt worden ist oder eine entsprechende Vereinbarung mit dem Nachbarstaat besteht.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "\u00dcberpr\u00fcfung nach Artikel 14 der Durchf\u00fchrungsverordnung (EU) 2018/763",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>(1) Hat die Sicherheitsbescheinigungsstelle einem Antrag auf Erteilung einer Sicherheitsbescheinigung nicht oder nicht vollst\u00e4ndig entsprochen, kann der Antragsteller innerhalb eines Monats nach Eingang der ablehnenden Entscheidung eine \u00dcberpr\u00fcfung nach Artikel 14 der Durchf\u00fchrungsverordnung (EU) 2018/763 beantragen.</P><P>(2) Die \u00dcberpr\u00fcfung erfolgt innerhalb von zwei Monaten nach Eingang des \u00dcberpr\u00fcfungsantrags.</P><P>(3) Wird die ablehnende Entscheidung der Agentur best\u00e4tigt, so kann der Antragsteller bei der Beschwerdekammer nach Artikel 55 der Verordnung (EU) 2016/796 Beschwerde einlegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE000900000",
+        "name": "\u00a7 9",
+        "title": "\u00c4nderung einer Sicherheitsbescheinigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>(1) Wenn sich Art und Umfang der Eisenbahnverkehrsdienste wesentlich \u00e4ndern, hat das Eisenbahnverkehrsunternehmen unverz\u00fcglich die \u00c4nderung der Sicherheitsbescheinigung zu beantragen.</P><P>(2) Die Sicherheitsbescheinigungsstelle kann im Fall wesentlicher \u00c4nderungen von Rechtsvorschriften \u00fcber die Betriebssicherheit eine \u00dcberpr\u00fcfung der Sicherheitsbescheinigung durchf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 9: Zur Geltung vgl. \u00a7 16 Abs. 4 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001000000",
+        "name": "\u00a7 10",
+        "title": "Widerruf einer Sicherheitsbescheinigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>(1) Die Sicherheitsbescheinigung kann ganz oder teilweise widerrufen werden, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Bescheinigung nicht in der vorgeschriebenen Weise genutzt wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Bescheinigung nicht vor Ablauf eines Jahres nach ihrer Ausstellung genutzt wird, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sich die Rechtsvorschriften \u00fcber die Betriebssicherheit wesentlich ge\u00e4ndert haben.</LA></DD></DL></P><P>(2) Wird eine Sicherheitsbescheinigung ganz oder teilweise widerrufen, kann der Inhaber der Sicherheitsbescheinigung eine \u00dcberpr\u00fcfung entsprechend \u00a7 8 verlangen.</P><P>(3) Im \u00dcbrigen bleiben die verwaltungsverfahrensrechtlichen Vorschriften \u00fcber die Aufhebung von Verwaltungsakten unber\u00fchrt, wenn die Sicherheitsbeh\u00f6rde Sicherheitsbescheinigungsstelle war.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 10 Abs. 1 und 3: Zur Geltung vgl. \u00a7 16 Abs. 4 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001100000",
+        "name": "\u00a7 11",
+        "title": "Widerruf einer Sicherheitsbescheinigung der Agentur",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>(1) Die Sicherheitsbeh\u00f6rde kann bei der Agentur beantragen, die Sicherheitsbescheinigung ganz oder teilweise zu widerrufen, wenn die Sicherheitsbeh\u00f6rde <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>festgestellt hat, dass das Eisenbahnverkehrsunternehmen, dem die Agentur die Sicherheitsbescheinigung erteilt hat, die Voraussetzungen f\u00fcr die Erteilung der Sicherheitsbescheinigung nicht mehr erf\u00fcllt, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>gegen das Eisenbahnverkehrsunternehmen, dem die Agentur die Sicherheitsbescheinigung erteilt hat, Ma\u00dfnahmen nach \u00a7 5a Absatz 2 Satz 1 des Allgemeinen Eisenbahngesetzes getroffen hat, die l\u00e4nger als drei Monate wirksam sind, um ein schwerwiegendes Sicherheitsrisiko abzuwehren.</LA></DD></DL></P><P>(2) Bei Meinungsverschiedenheiten zwischen der Agentur und der Sicherheitsbeh\u00f6rde im Sinne des Artikels 17 Absatz 5 Unterabsatz 2 der Richtlinie (EU) 2016/798 gilt das Verfahren nach Artikel 10 Absatz 7 der Richtlinie (EU) 2016/798 entsprechend. Ma\u00dfnahmen, die die Sicherheitsbeh\u00f6rde nach \u00a7 5a Absatz 2 Satz 1 des Allgemeinen Eisenbahngesetzes getroffen hat, werden ausgesetzt, wenn die Sicherheitsbescheinigung nach Durchf\u00fchrung des Verfahrens nicht widerrufen oder nur teilweise widerrufen wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001200000",
+        "name": "\u00a7 12",
+        "title": "Unverh\u00e4ltnism\u00e4\u00dfige Ma\u00dfnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>H\u00e4lt die Agentur im Fall des \u00a7 5a Absatz 2 Satz 1 des Allgemeinen Eisenbahngesetzes die von der Sicherheitsbeh\u00f6rde getroffenen Ma\u00dfnahmen f\u00fcr unverh\u00e4ltnism\u00e4\u00dfig, findet das Verfahren nach Artikel 17 Absatz 6 Unterabsatz 3 der Richtlinie (EU) 2016/798 Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001300000",
+        "name": "\u00a7 13",
+        "title": "Unterrichtungspflichten der Sicherheitsbeh\u00f6rde \u00fcber Sicherheitsbescheinigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000300000"
+        },
+        "body": "<P>(1) Die Sicherheitsbeh\u00f6rde unterrichtet die Agentur \u00fcber die zentrale Anlaufstelle unverz\u00fcglich, bei erstmaliger Erteilung sp\u00e4testens innerhalb von zwei Wochen, \u00fcber die erstmalige Erteilung, die Erneuerung, die \u00c4nderung oder den Widerruf einer Sicherheitsbescheinigung.</P><P>(2) Die Unterrichtung enth\u00e4lt <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Name und Anschrift des Eisenbahnverkehrsunternehmens, dem eine Sicherheitsbescheinigung erstmalig erteilt, erneuert, ge\u00e4ndert oder widerrufen worden ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Angaben zu Art und Umfang der Eisenbahnverkehrsdienste,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das Ausstellungsdatum der Sicherheitsbescheinigung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die G\u00fcltigkeitsdauer der Sicherheitsbescheinigung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Bezeichnung des von der Sicherheitsbescheinigung erfassten geografischen T\u00e4tigkeitsgebiets sowie</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>im Fall eines Widerrufs der Sicherheitsbescheinigung die Gr\u00fcnde f\u00fcr den Widerruf.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR129810020BJNG000400000",
+        "name": "Kapitel 2",
+        "title": "Sicherheitsgenehmigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001400000",
+        "name": "\u00a7 14",
+        "title": "Voraussetzungen f\u00fcr die Erteilung einer Sicherheitsgenehmigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000400000"
+        },
+        "body": "<P>Die Sicherheitsgenehmigung ist f\u00fcr bestimmte Schienennetze oder Schienenwege des \u00fcbergeordneten Netzes zu erteilen, wenn das Eisenbahninfrastrukturunternehmen den Nachweis erbringt, dass es <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>ein Sicherheitsmanagementsystem eingerichtet hat, das mindestens die Anforderungen des Artikels 9 Absatz 1 bis 5 der Richtlinie (EU) 2016/798 erf\u00fcllt, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die besonderen Anforderungen f\u00fcr eine sichere Planung, Instandhaltung und einen sicheren Betrieb der Schienenwege einschlie\u00dflich der Steuerungs- und Sicherungssysteme erf\u00fcllt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001500000",
+        "name": "\u00a7 15",
+        "title": "Antrag auf Erteilung einer Sicherheitsgenehmigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000400000"
+        },
+        "body": "<P>(1) Eisenbahninfrastrukturunternehmen haben eine Sicherheitsgenehmigung bei der Sicherheitsbeh\u00f6rde zu beantragen. Der Antrag kann auf eine erstmalige Erteilung, auf eine Erneuerung oder auf eine \u00c4nderung einer Sicherheitsgenehmigung gerichtet sein.</P><P>(2) Antr\u00e4ge auf Erteilung einer Sicherheitsgenehmigung und die f\u00fcr den Antrag erforderlichen Unterlagen sind in deutscher Sprache vorzulegen.</P><P>(3) Die Sicherheitsbeh\u00f6rde stellt den Antragstellern einen Leitfaden zur Verf\u00fcgung, in dem die Anforderungen f\u00fcr Sicherheitsgenehmigungen erl\u00e4utert sowie die f\u00fcr die Entscheidung erforderlichen Unterlagen aufgelistet sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001600000",
+        "name": "\u00a7 16",
+        "title": "Verfahren f\u00fcr die Erteilung einer Sicherheitsgenehmigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000400000"
+        },
+        "body": "<P>(1) Die Sicherheitsbeh\u00f6rde entscheidet \u00fcber einen Antrag auf Erteilung einer Sicherheitsgenehmigung unverz\u00fcglich nach Vorlage der f\u00fcr die Entscheidung erforderlichen Unterlagen, sp\u00e4testens jedoch vier Monate nach Vorlage.</P><P>(2) Stellt die Sicherheitsbeh\u00f6rde vor Ablauf der Frist M\u00e4ngel der vorgelegten Unterlagen fest, hat sie dem Antragsteller Gelegenheit zur Beseitigung der M\u00e4ngel zu geben. Gibt die Sicherheitsbeh\u00f6rde dem Antragsteller Gelegenheit, M\u00e4ngeln der vorgelegten Unterlagen abzuhelfen, so ist die Frist nach Absatz 1 bis zur Behebung der M\u00e4ngel gehemmt.</P><P>(3) Die Sicherheitsgenehmigung gilt f\u00fcnf Jahre. Sie kann erneuert werden. Soweit ihre Erneuerung bis sp\u00e4testens sechs Monate vor Ablauf der Geltungsdauer beantragt wird, gilt die jeweilige Sicherheitsgenehmigung bis zur Unanfechtbarkeit der Entscheidung \u00fcber den Verl\u00e4ngerungsantrag als weiterhin erteilt.</P><P>(4) F\u00fcr \u00c4nderungen und den Widerruf einer Sicherheitsgenehmigung gelten die \u00a7\u00a7 9 und 10 Absatz 1 und 3 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001700000",
+        "name": "\u00a7 17",
+        "title": "Unterrichtungspflichten der Sicherheitsbeh\u00f6rde \u00fcber Sicherheitsgenehmigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000400000"
+        },
+        "body": "<P>(1) Die Sicherheitsbeh\u00f6rde unterrichtet die Agentur \u00fcber die erstmalige Erteilung, die Erneuerung, die \u00c4nderung oder den Widerruf einer Sicherheitsgenehmigung. Die Unterrichtung hat innerhalb von zwei Wochen nach der erstmaligen Erteilung, der Erneuerung, der \u00c4nderung oder dem Widerruf einer Sicherheitsgenehmigung zu erfolgen.</P><P>(2) Die Unterrichtung enth\u00e4lt <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Name und Anschrift des Eisenbahninfrastrukturunternehmens, dem eine Sicherheitsgenehmigung erstmalig erteilt, erneuert, ge\u00e4ndert oder widerrufen worden ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Bezeichnung des Geltungsbereichs der Sicherheitsgenehmigung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das Ausstellungsdatum der Sicherheitsgenehmigung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die G\u00fcltigkeitsdauer der Sicherheitsgenehmigung sowie</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>im Fall des Widerrufs der Sicherheitsgenehmigung die Gr\u00fcnde f\u00fcr den Widerruf.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR129810020BJNG000500000",
+        "name": "Teil 3",
+        "title": "Pflichten der Eisenbahnen, der Halter von Eisenbahnfahrzeugen, der f\u00fcr die Instandhaltung zust\u00e4ndigen Stellen und der sonstigen Verantwortlichen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001800000",
+        "name": "\u00a7 18",
+        "title": "Pflicht, Voraussetzungen einer Sicherheitsbescheinigung und einer Sicherheitsgenehmigung zu erf\u00fcllen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000500000"
+        },
+        "body": "<P>Eisenbahnen haben sicherzustellen, dass die Voraussetzungen, die f\u00fcr die Erteilung einer Sicherheitsbescheinigung oder einer Sicherheitsgenehmigung gegolten haben, auch nach der Erteilung erf\u00fcllt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE001900000",
+        "name": "\u00a7 19",
+        "title": "Pflichten der f\u00fcr die Instandhaltung zust\u00e4ndigen Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000500000"
+        },
+        "body": "<P>(1) Die f\u00fcr die Instandhaltung zust\u00e4ndigen Stellen stellen sicher, dass sich die Instandhaltung richtet nach <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Instandhaltungsunterlagen jedes Eisenbahnfahrzeugs nach Artikel 14 Absatz 3 Satz 1 Buchstabe b der Richtlinie (EU) 2016/798 und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den anwendbaren Anforderungen, einschlie\u00dflich der Regelungen zur Fahrzeuginstandhaltung und der Technischen Spezifikationen f\u00fcr die Interoperabilit\u00e4t.</LA></DD></DL></P><P>(2) \u00a7 20 Absatz 2 Satz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE002000000",
+        "name": "\u00a7 20",
+        "title": "Ma\u00dfnahmen zur Risikobegrenzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000500000"
+        },
+        "body": "<P>(1) Eisenbahnen verpflichten bei \u00c4nderungen am Eisenbahnsystem gegebenenfalls die Halter von Eisenbahnfahrzeugen und die sonstigen Verantwortlichen nach \u00a7 2 Absatz 22 des Allgemeinen Eisenbahngesetzes vertraglich dazu, Ma\u00dfnahmen zur Risikobegrenzung nach der Durchf\u00fchrungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 \u00fcber die gemeinsame Sicherheitsmethode f\u00fcr die Evaluierung und Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr. 352/2009 (ABl. L 121 vom 3.5.2013, S. 8), die durch die Durchf\u00fchrungsverordnung (EU) 2015/1136 (ABl. L 185 vom 14.7.2015, S. 6; L 70 vom 16.3.2016, S. 38) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung durchzuf\u00fchren.</P><P>(2) Eisenbahnen sorgen daf\u00fcr, dass ihre Auftragnehmer Ma\u00dfnahmen zur Risikobegrenzung durchf\u00fchren und hierzu die gemeinsamen Sicherheitsmethoden f\u00fcr die Kontrolle nach Artikel 6 Absatz 1 Buchstabe c der Richtlinie (EU) 2016/798 anwenden und dass das in den vertraglichen Vereinbarungen vorgeschrieben wird. Die vertraglichen Vereinbarungen sind auf Verlangen der Agentur oder der Sicherheitsbeh\u00f6rde vorzulegen.</P><P>(3) Halter von Eisenbahnfahrzeugen und sonstige Verantwortliche nach \u00a7 2 Absatz 22 des Allgemeinen Eisenbahngesetzes m\u00fcssen auch ohne vertragliche Vereinbarung daf\u00fcr sorgen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>dass die erforderlichen Ma\u00dfnahmen zur Risikobegrenzung, gegebenenfalls in Zusammenarbeit mit anderen betroffenen Verantwortlichen durchgef\u00fchrt werden, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>dass die von ihnen gelieferten Teilsysteme, Zubeh\u00f6rteile und Ausr\u00fcstungen sowie erbrachten Dienstleistungen den vorgegebenen Anforderungen und Einsatzbedingungen f\u00fcr den sicheren Betrieb von Eisenbahnen entsprechen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 20 Abs. 2 Satz 2: Zur Geltung vgl. \u00a7 19 Abs. 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE002100000",
+        "name": "\u00a7 21",
+        "title": "Beseitigungs- und Informationspflicht bei Sicherheitsrisiken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000500000"
+        },
+        "body": "<P>(1) Erkennen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Eisenbahnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Halter von Eisenbahnfahrzeugen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die f\u00fcr die Instandhaltung zust\u00e4ndigen Stellen oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>sonstige Verantwortliche nach \u00a7 2 Absatz 22 des Allgemeinen Eisenbahngesetzes</LA></DD></DL>ein Sicherheitsrisiko aufgrund von M\u00e4ngeln an der Bauweise oder an der technischen Ausr\u00fcstung der strukturellen Teilsysteme unter Ber\u00fccksichtigung der anwendbaren Betriebsarten, oder erhalten sie Kenntnis davon, m\u00fcssen sie im Rahmen ihrer jeweiligen Befugnisse erforderliche Ma\u00dfnahmen ergreifen, um das Sicherheitsrisiko unverz\u00fcglich zu beseitigen.</P><P>(2) Die nach Absatz 1 Verpflichteten m\u00fcssen das erkannte Sicherheitsrisiko anderen betroffenen Verantwortlichen unverz\u00fcglich melden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE002200000",
+        "name": "\u00a7 22",
+        "title": "Informationspflicht im Fall eines Fahrzeugaustausches",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000500000"
+        },
+        "body": "<P>Tauschen Eisenbahnverkehrsunternehmen untereinander ein Fahrzeug aus, \u00fcbermitteln die nach \u00a7 21 Absatz 1 verpflichteten Betroffenen einander alle f\u00fcr einen sicheren Betrieb relevanten Informationen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR129810020BJNG000600000",
+        "name": "Teil 4",
+        "title": "Berichtspflichten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE002300000",
+        "name": "\u00a7 23",
+        "title": "Sicherheitsbericht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000600000"
+        },
+        "body": "<P>Eisenbahnverkehrsunternehmen und Eisenbahninfrastrukturunternehmen sind verpflichtet, der Sicherheitsbeh\u00f6rde zum 31. Mai jedes Jahres einen schriftlichen Sicherheitsbericht vorzulegen, der sich auf das vorangegangene Kalenderjahr bezieht, nach Ma\u00dfgabe des Anhangs I Nummer 4.5.1.2 oder des Anhangs II Nummer 4.5.1.2 der Delegierten Verordnung (EU) 2018/762 der Kommission vom 8. M\u00e4rz 2018 \u00fcber gemeinsame Sicherheitsmethoden bez\u00fcglich der Anforderungen an Sicherheitsmanagementsysteme gem\u00e4\u00df der Richtlinie (EU) 2016/798 des Europ\u00e4ischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EU) Nr. 1158/2010 und (EU) Nr. 1169/2010 (ABl. L 129 vom 25.5.2018, S. 26) in der jeweils geltenden Fassung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE002400000",
+        "name": "\u00a7 24",
+        "title": "Jahresbericht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000600000"
+        },
+        "body": "<P>(1) Die Sicherheitsbeh\u00f6rde ver\u00f6ffentlicht jedes Jahr einen Bericht \u00fcber ihre T\u00e4tigkeiten des Vorjahres. Sie \u00fcbermittelt den Bericht der Agentur sp\u00e4testens bis zum 30. September jedes Jahres.</P><P>(2) Der Bericht enth\u00e4lt Angaben \u00fcber: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Entwicklung der Eisenbahnsicherheit einschlie\u00dflich einer Zusammenstellung der gemeinsamen Sicherheitsindikatoren nach Anhang I der Richtlinie (EU) 2016/798;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Erfahrungen der Eisenbahnen mit der Anwendung der gemeinsamen Sicherheitsmethoden;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>wichtige \u00c4nderungen von Rechts- und Verwaltungsvorschriften im Bereich der Eisenbahnsicherheit;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>den Vollzug der Vorschriften \u00fcber Sicherheitsbescheinigungen sowie \u00fcber Sicherheitsgenehmigungen in allgemeiner Form;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Befreiungen vom Erfordernis einer Instandhaltungsstellen-Bescheinigung nach \u00a7 7g Absatz 2a des Allgemeinen Eisenbahngesetzes und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Durchf\u00fchrung der Eisenbahnaufsicht in allgemeiner Form.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR129810020BJNG000700000",
+        "name": "Teil 5",
+        "title": "Schlussbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE002500000",
+        "name": "\u00a7 25",
+        "title": "Ordnungswidrigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000700000"
+        },
+        "body": "<P>Ordnungswidrig im Sinne des \u00a7 28 Absatz 1 Nummer 6 Buchstabe b des Allgemeinen Eisenbahngesetzes handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig entgegen \u00a7 23 einen Sicherheitsbericht nicht, nicht richtig, nicht vollst\u00e4ndig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vorlegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR129810020BJNE002600000",
+        "name": "\u00a7 26",
+        "title": "\u00dcbergangsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR129810020BJNG000700000"
+        },
+        "body": "<P>Eisenbahnen sind verpflichtet, der Sicherheitsbeh\u00f6rde den Sicherheitsbericht f\u00fcr das Jahr 2019 nach \u00a7 6 der Eisenbahn-Sicherheitsverordnung in der Fassung vom 26. November 2019 (BGBl. I S. 1958) vorzulegen. \u00a7 23 ist erstmals f\u00fcr den Sicherheitsbericht f\u00fcr das Jahr 2020 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

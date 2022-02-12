@@ -1,0 +1,895 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR019220979",
+    "firstPublished": "1979-11-12",
+    "sourceTimestamp": "20211026213522",
+    "titleShort": null,
+    "titleLong": "Verordnung zur Durchf\u00fchrung der Vorschriften \u00fcber Steuerberater, Steuerbevollm\u00e4chtigte und Steuerberatungsgesellschaften<FnR ID=\"F0192209792_01_BJNR019220979\" />",
+    "abbreviation": "DVStB",
+    "slug": "dvstb",
+    "extraAbbreviations": [
+      "StBDV"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1979, 1922",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuk\u00fcnftige amtl. Lang\u00fcberschrift: Verordnung zur Durchf\u00fchrung der Vorschriften \u00fcber Steuerberater, Steuerbevollm\u00e4chtigte und Berufsaus\u00fcbungsgesellschaften (ab 1.8.2022; 2021 I 2363)",
+        "category": "Sonst"
+      },
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 5 G v. 7.7.2021 I 2363",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"F0192209792_01_BJNR019220979\" Pos=\"normal\" Postfix=\")\"><noindex>Nichtamtlicher Hinweis: Die amtl. Lang\u00fcberschrift wurde gem. Art. 5 Nr. 1 G v. 9.7.2021 I 2363 mWv 1.8.2022 wie folgt gefasst:</noindex><BR /><B>Verordnung zur Durchf\u00fchrung der Vorschriften \u00fcber Steuerberater, Steuerbevollm\u00e4chtigte und Berufsaus\u00fcbungsgesellschaften</B></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 16.11.1979 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE000700314",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 158 des Steuerberatungsgesetzes in der Fassung der Bekanntmachung vom 4. November 1975 (BGBl. I S. 2735) verordnet die Bundesregierung nach Anh\u00f6ren der Bundessteuerberaterkammer mit Zustimmung des Bundesrates:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019220979BJNG000100314",
+        "name": "Erster Teil",
+        "title": "Pr\u00fcfungsordnung f\u00fcr Steuerberater\nund Steuerbevollm\u00e4chtigte",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE000804140",
+        "name": "\u00a7 1",
+        "title": "Zulassungsverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) \u00dcber die Antr\u00e4ge auf Zulassung zur Steuerberaterpr\u00fcfung entscheidet die zust\u00e4ndige Steuerberaterkammer.</P><P>(2) Die Antr\u00e4ge auf Zulassung zur Pr\u00fcfung sind bis zu einem von der zust\u00e4ndigen Steuerberaterkammer zu bestimmenden Zeitpunkt einzureichen. Der Antrag kann nur f\u00fcr die Teilnahme an der n\u00e4chsten Pr\u00fcfung gestellt werden.</P><P>(3) Die zust\u00e4ndige Steuerberaterkammer pr\u00fcft die Angaben der Bewerber auf Vollst\u00e4ndigkeit und Richtigkeit. Sie kann vor einer Entscheidung erforderlichenfalls weitere Ermittlungen anstellen.</P><P>(4) \u00dcber die Entscheidung hat die zust\u00e4ndige Steuerberaterkammer einen schriftlichen Bescheid zu erteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE000902301",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001001301",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001103301",
+        "name": "\u00a7 4",
+        "title": "Antrag auf Zulassung zur Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Der Antrag auf Zulassung zur Pr\u00fcfung ist nach amtlich vorgeschriebenem Vordruck zu stellen.</P><P>(2) Der Bewerber mu\u00df in dem Antrag angeben <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen, Wohnsitz oder vorwiegenden Aufenthalt und Anschrift sowie Beruf und Ort der vorwiegend beruflichen T\u00e4tigkeit,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Ort der beabsichtigten beruflichen Niederlassung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob und bei welcher Stelle er bereits fr\u00fcher einen Antrag auf Zulassung zur Pr\u00fcfung eingereicht hat,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">welche Staatsangeh\u00f6rigkeit er besitzt.</LA></DD> </DL> </P><P>(3) Dem Antrag sind beizuf\u00fcgen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Lebenslauf mit genauen Angaben \u00fcber die Person und den beruflichen Werdegang,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">beglaubigte Abschrift der Pr\u00fcfungszeugnisse, Diplome und Bef\u00e4higungsnachweise \u00fcber die gesetzlichen Vorbildungsvoraussetzungen f\u00fcr die Pr\u00fcfung als Steuerberater,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">beglaubigte Abschrift der Zeugnisse \u00fcber die bisherige berufliche T\u00e4tigkeit des Bewerbers, insbesondere mit Angaben \u00fcber Art und Umfang der T\u00e4tigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbeh\u00f6rden verwalteten Steuern, und \u00fcber bisher von ihm abgelegte einschl\u00e4gige Pr\u00fcfungen; Nachweise \u00fcber die Arbeitszeit,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Pa\u00dfbild.</LA></DD> </DL> </P><P>(4) u. (5) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001208377",
+        "name": "\u00a7 5",
+        "title": "Sonstige Nachweise",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) In den F\u00e4llen des \u00a7 37a Abs. 1 des Gesetzes ist dem Antrag eine Bescheinigung der nach den Vorschriften der Wirtschaftspr\u00fcferordnung zust\u00e4ndigen Stelle dar\u00fcber beizuf\u00fcgen, dass der Bewerber Wirtschaftspr\u00fcfer oder vereidigter Buchpr\u00fcfer ist oder die Pr\u00fcfung als Wirtschaftspr\u00fcfer oder vereidigter Buchpr\u00fcfer bestanden hat.</P><P>(2) In den F\u00e4llen des \u00a7 37a Abs. 2 des Gesetzes sind dem Antrag zus\u00e4tzlich zu den in \u00a7 4 Absatz 3 Nummer 1, 2 und 4 genannten Unterlagen beizuf\u00fcgen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Bescheinigung der zust\u00e4ndigen Stelle eines Mitgliedstaats der Europ\u00e4ischen Union oder eines Vertragsstaats des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum (Mitgliedstaat oder Vertragsstaat) oder der Schweiz, durch die nachgewiesen wird, dass der Bewerber ein Diplom erlangt hat, mit dem er in diesem Mitgliedstaat oder Vertragsstaat oder der Schweiz zur Hilfe in Steuersachen berechtigt ist, oder eine Bescheinigung im Sinne des \u00a7 37a Absatz 3 Satz 3 und 4 des Gesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit erforderlich ein Nachweis \u00fcber die einj\u00e4hrige T\u00e4tigkeit in einem Umfang von mindestens 16 Wochenstunden im steuerberatenden Beruf sowie ein oder mehrere Ausbildungsnachweise im Sinne des Artikels 7 Abs. 2 Buchstabe c der Richtlinie 2005/36/EG des Europ\u00e4ischen Parlaments und des Rates vom 7. September 2005 \u00fcber die Anerkennung von Berufsqualifikationen (ABl. EU Nr. L 255 S. 22) in der jeweils geltenden Fassung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Bescheinigung \u00fcber eine mindestens dreij\u00e4hrige Berufsaus\u00fcbung in einem Umfang von mindestens 16 Wochenstunden in einem Mitgliedstaat oder Vertragsstaat oder in der Schweiz, sofern dieser Staat ein Diplom, ein Pr\u00fcfungszeugnis oder einen sonstigen Bef\u00e4higungsnachweis eines Drittlandes anerkannt hat,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bestimmung der Pr\u00fcfungsgebiete, die bei der Pr\u00fcfung gem\u00e4\u00df \u00a7 37a Abs. 4 Satz 4 des Gesetzes entfallen sollen, sowie ein Nachweis \u00fcber die f\u00fcr diese Pr\u00fcfungsgebiete erlangten Kenntnisse.</LA></DD></DL>Der Antrag und die beizuf\u00fcgenden Unterlagen, soweit sie vom Bewerber stammen, sind in deutscher Sprache einzureichen; sonstige Unterlagen sind mit einer beglaubigten \u00dcbersetzung vorzulegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001303140",
+        "name": "\u00a7 6",
+        "title": "Zulassung zur Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die Zulassung gilt nur f\u00fcr die Teilnahme an der n\u00e4chsten Pr\u00fcfung. F\u00fcr eine sp\u00e4tere Pr\u00fcfung bedarf es einer erneuten Zulassung.</P><P>(2) Hat der Bewerber die Zulassungsvoraussetzung einer mehrj\u00e4hrigen praktischen T\u00e4tigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbeh\u00f6rden verwalteten Steuern im Zeitpunkt der Entscheidung noch nicht voll erf\u00fcllt, so kann die Zulassung unter der Bedingung ausgesprochen werden, da\u00df der Bewerber diese Zulassungsvoraussetzung sp\u00e4testens bei Beginn der schriftlichen Pr\u00fcfung erf\u00fcllt hat. Der Nachweis ist bis zu dem von der zust\u00e4ndigen Steuerberaterkammer zu bestimmenden Zeitpunkt zu erbringen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001403301",
+        "name": "\u00a7 7",
+        "title": "Antrag auf Erteilung einer verbindlichen Auskunft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Der Antrag auf Erteilung einer verbindlichen Auskunft ist nach amtlich vorgeschriebenem Vordruck zu stellen.</P><P>(2) Die verbindliche Auskunft bedarf der Schriftform. In die Auskunft ist ein Hinweis auf die m\u00f6gliche Rechtsfolge nach Absatz 4 aufzunehmen.</P><P>(3) Betrifft die Auskunft eine noch nicht erf\u00fcllte Voraussetzung, so ist sie nur dann verbindlich, wenn sich der sp\u00e4ter verwirklichte Sachverhalt mit dem der Auskunft zugrunde gelegten deckt.</P><P>(4) Die Auskunft verliert ihre Verbindlichkeit, wenn die Rechtsvorschriften, auf denen sie beruht, ge\u00e4ndert werden.</P><P>(5) F\u00fcr das Verfahren sind die \u00a7\u00a7 1, 4, 5 und 8 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001502301",
+        "name": "\u00a7 8",
+        "title": "Antrag auf Befreiung von der Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) \u00a7 1 Abs. 1 und \u00a7 4 gelten sinngem\u00e4\u00df f\u00fcr einen Antrag auf Befreiung von der Pr\u00fcfung nach \u00a7 38 des Gesetzes mit der Ma\u00dfgabe, da\u00df der Bewerber in der Erkl\u00e4rung nach \u00a7 4 Abs. 2 Nr. 3 \u00fcber etwaige fr\u00fchere Antr\u00e4ge auf Zulassung zur Pr\u00fcfung oder auf Befreiung von der Pr\u00fcfung Auskunft zu geben hat.</P><P>(2) Der Bewerber hat dem Antrag auf Befreiung von der Pr\u00fcfung an Stelle der in \u00a7 4 Abs. 3 Nr. 2 und 3 genannten Nachweise beizuf\u00fcgen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 38 Abs. 1 Nr. 1 des Gesetzes die Bescheinigung einer deutschen Hochschule, der er angeh\u00f6rt oder angeh\u00f6rt hat, \u00fcber Art und Dauer seiner Lehrt\u00e4tigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbeh\u00f6rden verwalteten Steuern;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 38 Abs. 1 Nr. 2 bis 4 des Gesetzes eine Bescheinigung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der letzten Dienstbeh\u00f6rde oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Fraktionsvorstands, wenn er bei einer Fraktion des Deutschen Bundestages angestellt gewesen ist,</LA></DD> </DL></LA><LA Size=\"normal\">\u00fcber Art und Dauer seiner T\u00e4tigkeit auf dem Gebiet der von den Bundes- oder Landesfinanzbeh\u00f6rden verwalteten Steuern.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001601301",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001704140",
+        "name": "\u00a7 10",
+        "title": "Pr\u00fcfungsausschu\u00df",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die Mitglieder des Pr\u00fcfungsausschusses und ihre Stellvertreter sind durch die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde grunds\u00e4tzlich f\u00fcr drei Jahre zu berufen. Sie k\u00f6nnen nur aus wichtigem Grund abberufen werden. Im Falle des vorzeitigen Ausscheidens oder der Abberufung wird der Nachfolger nur f\u00fcr den Rest der Amtszeit des ausgeschiedenen oder abberufenen Mitglieds oder Stellvertreters berufen. Vor der Berufung oder Abberufung von Steuerberatern ist die Steuerberaterkammer zu h\u00f6ren, deren Mitglied der jeweilige Steuerberater ist; vor der Berufung oder Abberufung eines Vertreters der Wirtschaft ist die f\u00fcr die Wirtschaft zust\u00e4ndige oberste Landesbeh\u00f6rde zu h\u00f6ren. Bei der Berufung von Stellvertretern ist eine Einzelzuordnung zwischen Stellvertreter und Mitglied des Pr\u00fcfungsausschusses nicht erforderlich. Mitglieder und Stellvertreter k\u00f6nnen w\u00e4hrend ihrer Amtszeit begonnene Verfahren auch nach Ablauf ihrer Amtszeit fortf\u00fchren.</P><P>(2) Der Ausschu\u00df entscheidet mit Stimmenmehrheit. Bei Stimmengleichheit ist die Stimme des Vorsitzenden entscheidend.</P><P>(3) Die Mitglieder des Pr\u00fcfungsausschusses haben das Recht, die Zulassungs- und Pr\u00fcfungsunterlagen einzusehen. Sie haben \u00fcber die Tatsachen, die ihnen bei ihrer T\u00e4tigkeit bekannt geworden sind, Verschwiegenheit zu wahren.</P><P>(4) Die Mitglieder des Pr\u00fcfungsausschusses, die nicht Beamte oder Angestellte der Finanzverwaltung sind, sind vom Vorsitzenden des Ausschusses auf gewissenhafte Erf\u00fcllung ihrer Obliegenheiten zu verpflichten.</P><P>(5) Die Mitglieder des Pr\u00fcfungsausschusses sind nicht weisungsgebunden. Sie sind aus dem Geb\u00fchrenaufkommen zu entsch\u00e4digen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001801301",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE001901301",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002001301",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002103140",
+        "name": "\u00a7 14",
+        "title": "Durchf\u00fchrung der Pr\u00fcfungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde setzt, in der Regel j\u00e4hrlich einmal, die Pr\u00fcfung der zugelassenen Bewerber durch den Pr\u00fcfungsausschuss im Einvernehmen mit den \u00fcbrigen f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rden an.</P><P>(2) Die Pr\u00fcfungen und die Beratungen des Pr\u00fcfungsausschusses sind nicht \u00f6ffentlich. An der m\u00fcndlichen Pr\u00fcfung k\u00f6nnen Vertreter der f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rde und des Vorstandes der zust\u00e4ndigen Steuerberaterkammer teilnehmen. Anderen Personen kann der Vorsitzende des Pr\u00fcfungsausschusses die Anwesenheit gestatten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002202301",
+        "name": "\u00a7 15",
+        "title": "Pr\u00fcfungsnoten, Gesamtnoten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) F\u00fcr die Bewertung der einzelnen Pr\u00fcfungsleistungen werden sechs Notenstufen gebildet. Es bedeuten <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"40*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"60*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Note 1 sehr gut</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">eine hervorragende Leistung,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Note 2 gut</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">eine erheblich \u00fcber dem Durchschnitt liegende Leistung,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Note 3 befriedigend</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">eine Leistung, die in jeder Hinsicht durchschnittlichen Anforderungen gerecht wird,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Note 4 ausreichend</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">eine Leistung, die, abgesehen von einzelnen M\u00e4ngeln, durchschnittlichen Anforderungen entspricht,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Note 5 mangelhaft</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">eine an erheblichen M\u00e4ngeln leidende, im ganzen nicht mehr brauchbare Leistung,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Note 6 ungen\u00fcgend</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">eine v\u00f6llig unbrauchbare Leistung.</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> <BR />Die Bewertung mit halben Zwischennoten ist zul\u00e4ssig.</P><P>(2) Gesamtnoten errechnen sich aus der Summe der einzelnen Noten, geteilt durch deren Zahl. Das Ergebnis ist auf zwei Dezimalstellen zu berechnen; die dritte Dezimalstelle bleibt unber\u00fccksichtigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002302301",
+        "name": "\u00a7 16",
+        "title": "Schriftliche Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die schriftliche Pr\u00fcfung besteht aus drei Aufsichtsarbeiten.</P><P>(2) Zwei Aufsichtsarbeiten sind den Pr\u00fcfungsgebieten nach \u00a7 37 Abs. 3 Nr. 1 bis 4 des Gesetzes und eine Aufsichtsarbeit den Gebieten der Buchf\u00fchrung und des Bilanzwesens zu entnehmen. Die Aufsichtsarbeiten k\u00f6nnen sich daneben jeweils auch auf andere Pr\u00fcfungsgebiete erstrecken.</P><P>(3) In der Steuerberaterpr\u00fcfung in Sonderf\u00e4llen (\u00a7 37a des Gesetzes) sind die Aufsichtsarbeiten den Pr\u00fcfungsgebieten nach \u00a7 37 Abs. 3 Nr. 1 bis 4 des Gesetzes zu entnehmen. Absatz 2 Satz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002402140",
+        "name": "\u00a7 17",
+        "title": "Ladung zur schriftlichen Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>Die zust\u00e4ndige Steuerberaterkammer l\u00e4dt die Bewerber, die Aufsichtsarbeiten zu fertigen haben, sp\u00e4testens einen Monat vor dem Tag der ersten Aufsichtsarbeit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002505140",
+        "name": "\u00a7 18",
+        "title": "Fertigung der Aufsichtsarbeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die Pr\u00fcfungsaufgaben der Aufsichtsarbeiten werden von der f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rde im Einvernehmen mit den \u00fcbrigen f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rden gestellt. Sie bestimmt die zul\u00e4ssigen Hilfsmittel und die Bearbeitungszeit. Die Bearbeitungszeit soll f\u00fcr jede Arbeit mindestens vier und h\u00f6chstens sechs Stunden betragen. Die zust\u00e4ndige Steuerberaterkammer bestimmt in der Ladung zur schriftlichen Pr\u00fcfung, ob die Arbeiten mit der Anschrift und der Unterschrift des Bewerbers oder mit der zugeteilten Kennzahl zu versehen sind.</P><P>(2) Die Pr\u00fcfungsaufgaben sind geheim zu halten. Sie sind von der zust\u00e4ndigen Steuerberaterkammer an den jeweiligen Pr\u00fcfungstagen dem Aufsichtsf\u00fchrenden in der erforderlichen Anzahl zur Verteilung an die erschienenen Bewerber auszuh\u00e4ndigen.</P><P>(3) Auf Antrag hat die zust\u00e4ndige Steuerberaterkammer k\u00f6rperbehinderten Personen f\u00fcr die Fertigung der Aufsichtsarbeiten der Behinderung entsprechende Erleichterungen zu gew\u00e4hren. Der Antrag soll mit dem Antrag auf Zulassung zur Pr\u00fcfung gestellt werden. Die zust\u00e4ndige Steuerberaterkammer kann die Vorlage eines amts\u00e4rztlichen Zeugnisses verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002602140",
+        "name": "\u00a7 19",
+        "title": "Aufsicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Steuerberaterkammer veranla\u00dft, da\u00df die Aufsichtsarbeiten unter st\u00e4ndiger Aufsicht angefertigt werden.</P><P>(2) Der Aufsichtf\u00fchrende stellt am Pr\u00fcfungstag die Personalien der erschienenen Bewerber fest. Sodann gibt er an jeden Bewerber die Pr\u00fcfungsaufgabe aus. Er gibt den Beginn und das Ende der Bearbeitungszeit bekannt und hat darauf zu achten, da\u00df die Arbeit sp\u00e4testens am Ende der Bearbeitungszeit abgegeben wird und da\u00df sie mit der Anschrift und der Unterschrift des Bewerbers oder mit der Kennzahl versehen ist.</P><P>(3) Der Aufsichtf\u00fchrende hat darauf zu achten, da\u00df Bewerber sich nicht unerlaubter Hilfsmittel bedienen oder eines sonstigen T\u00e4uschungsversuchs schuldig machen.</P><P>(4) Der Aufsichtf\u00fchrende kann Bewerber wegen ungeb\u00fchrlichen Verhaltens aus dem Pr\u00fcfungsraum weisen. Der Bewerber ist von der Fortsetzung der an diesem Pr\u00fcfungstag anzufertigenden Aufsichtsarbeit ausgeschlossen.</P><P>(5) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002703140",
+        "name": "\u00a7 20",
+        "title": "Verhalten w\u00e4hrend der schriftlichen Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die Bewerber haben die Aufsichtsarbeiten selbst\u00e4ndig zu fertigen. W\u00e4hrend der Bearbeitungszeit d\u00fcrfen sie mit anderen Bewerbern nicht sprechen oder sich mit ihnen in anderer Weise verst\u00e4ndigen. Sie d\u00fcrfen nur die von der f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rde zugelassenen Hilfsmittel benutzen. Die zust\u00e4ndige Steuerberaterkammer kann anordnen, dass nur von ihr zur Verf\u00fcgung gestellte Ausgaben der zugelassenen Hilfsmittel benutzt werden d\u00fcrfen.</P><P>(2) Am Ende der Bearbeitungszeit haben die Bewerber die Arbeit abzugeben, auch wenn sie unvollendet ist. Die Arbeit ist mit der Anschrift und der Unterschrift des Bewerbers oder mit der Kennzahl zu versehen.</P><P>(3) Die Bewerber haben Anordnungen des Aufsichtf\u00fchrenden, die sich auf das Verhalten w\u00e4hrend der Pr\u00fcfung beziehen, nachzukommen.</P><P>(4) Einwendungen gegen den Ablauf der Pr\u00fcfung wegen St\u00f6rungen, die durch \u00e4u\u00dfere Einwirkungen verursacht worden sind, sind unverz\u00fcglich, sp\u00e4testens bis zum Ende der Bearbeitungszeit der jeweiligen Aufsichtsarbeit, durch Erkl\u00e4rung gegen\u00fcber dem Aufsichtf\u00fchrenden geltend zu machen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002802140",
+        "name": "\u00a7 21",
+        "title": "R\u00fccktritt von der Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Der Bewerber kann bis zum Ende der Bearbeitungszeit der letzten Aufsichtsarbeit durch Erkl\u00e4rung gegen\u00fcber der zust\u00e4ndigen Steuerberaterkammer oder dem Aufsichtsf\u00fchrenden von der Pr\u00fcfung zur\u00fccktreten. Als R\u00fccktritt gilt auch, wenn der Bewerber zu einer der Aufsichtsarbeiten nicht erscheint. In diesem Fall gilt die Pr\u00fcfung als nicht abgelegt.</P><P>(2) Im Falle des R\u00fccktritts ist die gesamte Pr\u00fcfung erneut abzulegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE002901301",
+        "name": "\u00a7 22",
+        "title": "Niederschrift \u00fcber die Aufsichtsarbeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>Der Aufsichtf\u00fchrende hat an jedem Pr\u00fcfungstag jeweils eine Niederschrift zu fertigen, in der insbesondere zu vermerken sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Beginn und das Ende der Bearbeitungszeit,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">etwa beobachtete T\u00e4uschungsversuche und sonstige Unregelm\u00e4\u00dfigkeiten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Namen der Bewerber, die nicht erschienen sind, wegen ungeb\u00fchrlichen Verhaltens aus dem Pr\u00fcfungsraum gewiesen worden sind oder keine Arbeit abgegeben haben,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">etwaige Einwendungen wegen St\u00f6rung des Pr\u00fcfungsablaufs (\u00a7 20 Abs. 4) und eine Stellungnahme hierzu,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">etwaige R\u00fccktritte von Bewerbern,</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003001301",
+        "name": "\u00a7 23",
+        "title": "T\u00e4uschungsversuche, Ordnungsverst\u00f6\u00dfe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Unternimmt es ein Bewerber, das Ergebnis einer schriftlichen Arbeit durch T\u00e4uschung oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, so kann der Pr\u00fcfungsausschu\u00df die Arbeit mit ungen\u00fcgend bewerten. In schweren F\u00e4llen kann er den Bewerber von der Pr\u00fcfung ausschlie\u00dfen.</P><P>(2) In F\u00e4llen schweren ungeb\u00fchrlichen Verhaltens kann der Pr\u00fcfungsausschu\u00df den Bewerber von der Pr\u00fcfung ausschlie\u00dfen.</P><P>(3) Im Fall des Ausschlusses gilt die Pr\u00fcfung als nicht bestanden, auch wenn der Bewerber von der Pr\u00fcfung zur\u00fcckgetreten ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003102140",
+        "name": "\u00a7 24",
+        "title": "Bewertung der Aufsichtsarbeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) F\u00fcr die Bewertung der Aufsichtsarbeiten kann der Pr\u00fcfungsausschu\u00df mit Stimmenmehrheit auch Pr\u00fcfer bestimmen, die stellvertretende Mitglieder des Pr\u00fcfungsausschusses sind.</P><P>(2) Jede Aufsichtsarbeit ist von mindestens zwei Pr\u00fcfern (Erst- und Zweitpr\u00fcfer) pers\u00f6nlich zu bewerten. Dem Zweitpr\u00fcfer kann die Bewertung des Erstpr\u00fcfers mitgeteilt werden; dies gilt entsprechend, wenn weitere Pr\u00fcfer bestimmt sind.</P><P>(3) Weichen die Bewertungen einer Arbeit nicht voneinander ab, gilt der von den Pr\u00fcfern \u00fcbereinstimmend ermittelte Notenvorschlag als Note des Pr\u00fcfungsausschusses. Bei Abweichungen sind die Pr\u00fcfer gehalten, sich auf \u00fcbereinstimmende Notenvorschl\u00e4ge zu einigen.</P><P>(4) K\u00f6nnen sich die Pr\u00fcfer nicht auf einen gemeinsamen Notenvorschlag einigen, setzt der Pr\u00fcfungsausschu\u00df die Note fest.</P><P>(5) Abweichend von den Abs\u00e4tzen 3 und 4 kann der Pr\u00fcfungsausschu\u00df in allen F\u00e4llen die Note festsetzen.</P><P>(6) Eine vom Bewerber nicht abgegebene Arbeit ist mit \"ungen\u00fcgend\" zu bewerten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003204140",
+        "name": "\u00a7 25",
+        "title": "Ergebnis der schriftlichen Pr\u00fcfung, Ausschlu\u00df von der m\u00fcndlichen Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) F\u00fcr die schriftliche Pr\u00fcfung wird eine Gesamtnote gebildet.</P><P>(2) Der Bewerber ist von der m\u00fcndlichen Pr\u00fcfung ausgeschlossen, wenn die Gesamtnote f\u00fcr die schriftliche Pr\u00fcfung die Zahl 4,5 \u00fcbersteigt; er hat die Pr\u00fcfung nicht bestanden.</P><P>(3) Die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde, vertreten durch die zust\u00e4ndige Steuerberaterkammer, hat Bewerber, die die Pr\u00fcfung nach Absatz 2 nicht bestanden haben, schriftlich zu bescheiden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003304140",
+        "name": "\u00a7 26",
+        "title": "M\u00fcndliche Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Steuerberaterkammer hat die Bewerber, die an der m\u00fcndlichen Pr\u00fcfung teilnehmen, hierzu sp\u00e4testens zwei Wochen vorher zu laden. Mit der Ladung k\u00f6nnen die Teilnoten der schriftlichen Pr\u00fcfung mitgeteilt werden.</P><P>(2) Der Vorsitzende des Pr\u00fcfungsausschusses leitet die m\u00fcndliche Pr\u00fcfung. Er ist berechtigt, jederzeit in die Pr\u00fcfung einzugreifen.</P><P>(3) Die m\u00fcndliche Pr\u00fcfung besteht aus einem kurzen Vortrag des Bewerbers \u00fcber einen Gegenstand der in \u00a7 37 Abs. 3 des Gesetzes genannten Pr\u00fcfungsgebiete und aus sechs Pr\u00fcfungsabschnitten. In den Pr\u00fcfungsabschnitten sind an den Bewerber Fragen aus den Pr\u00fcfungsgebieten zu stellen. Pr\u00fcfungsabschnitt ist jeweils die gesamte Pr\u00fcfungst\u00e4tigkeit eines Mitglieds des Pr\u00fcfungsausschusses w\u00e4hrend der m\u00fcndlichen Pr\u00fcfung.</P><P>(4) In der Steuerberaterpr\u00fcfung in verk\u00fcrzter Form (\u00a7 37a Abs. 1 des Gesetzes) sind der Gegenstand des Vortrags und die Fragen an die Bewerber den in \u00a7 37 Abs. 3 Nr. 1 bis 4 und 8 des Gesetzes genannten Pr\u00fcfungsgebieten zu entnehmen.</P><P>(5) In der Eignungspr\u00fcfung (\u00a7 37a Abs. 2 des Gesetzes) sind der Gegenstand des Vortrags und die Fragen an den Bewerber den in \u00a7 37 Abs. 3 des Gesetzes genannten Pr\u00fcfungsgebieten zu entnehmen, soweit sie nicht gem\u00e4\u00df \u00a7 37a Abs. 4 Satz 4 des Gesetzes entfallen.</P><P>(6) F\u00fcr den Vortrag \u00fcber den Fachgegenstand werden dem Bewerber eine halbe Stunde vor Beginn der Pr\u00fcfung drei Themen zur Wahl gestellt.</P><P>(7) Die auf jeden Bewerber entfallende Pr\u00fcfungszeit soll neunzig Minuten nicht \u00fcberschreiten.</P><P>(8) Einwendungen gegen den Ablauf der Vorbereitung auf den Vortrag oder der m\u00fcndlichen Pr\u00fcfung wegen St\u00f6rungen, die durch \u00e4u\u00dfere Einwirkungen verursacht worden sind, sind unverz\u00fcglich, sp\u00e4testens bis zum Ende der m\u00fcndlichen Pr\u00fcfung, durch Erkl\u00e4rung gegen\u00fcber dem Aufsichtf\u00fchrenden oder dem Vorsitzenden des Pr\u00fcfungsausschusses geltend zu machen. \u00a7 23 ist auf die m\u00fcndliche Pr\u00fcfung entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003400314",
+        "name": "\u00a7 27",
+        "title": "Bewertung der m\u00fcndlichen Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) In der m\u00fcndlichen Pr\u00fcfung werden der Vortrag und jeder Pr\u00fcfungsabschnitt gesondert bewertet.</P><P>(2) Die Noten werden vom Pr\u00fcfungsausschu\u00df festgesetzt.</P><P>(3) F\u00fcr die m\u00fcndliche Pr\u00fcfung wird eine Gesamtnote gebildet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003502140",
+        "name": "\u00a7 28",
+        "title": "Ergebnis der Pr\u00fcfung, Wiederholung der Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Im unmittelbaren Anschlu\u00df an die m\u00fcndliche Pr\u00fcfung ber\u00e4t der Pr\u00fcfungsausschu\u00df \u00fcber das Ergebnis der Pr\u00fcfung. Die Pr\u00fcfung ist bestanden, wenn die durch zwei geteilte Summe aus den Gesamtnoten f\u00fcr die schriftliche und die m\u00fcndliche Pr\u00fcfung die Zahl 4,15 nicht \u00fcbersteigt. Der Vorsitzende er\u00f6ffnet hierauf den Bewerbern, ob sie die Pr\u00fcfung nach der Entscheidung des Pr\u00fcfungsausschusses bestanden haben; er handelt insoweit als Vertreter der f\u00fcr die Finanzverwaltung zust\u00e4ndigen obersten Landesbeh\u00f6rde. Noten werden nicht erteilt.</P><P>(2) Hat der Bewerber die Pr\u00fcfung nicht bestanden, kann er eine Bekanntgabe der tragenden Gr\u00fcnde der Entscheidung verlangen.</P><P>(3) F\u00fcr die Wiederholung bedarf es einer erneuten Zulassung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006901140",
+        "name": "\u00a7 29",
+        "title": "\u00dcberdenken der Pr\u00fcfungsbewertung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die Pr\u00fcfer sind verpflichtet, ihre Bewertung der Pr\u00fcfungsleistungen zu \u00fcberdenken, wenn dies von einem Bewerber, der die Pr\u00fcfung nicht bestanden hat, mit begr\u00fcndeten Einwendungen bei der zust\u00e4ndigen Steuerberaterkammer schriftlich beantragt wird und die Entscheidung \u00fcber das Ergebnis der Pr\u00fcfung noch nicht bestandskr\u00e4ftig ist. Die Frist zur Erhebung einer Anfechtungsklage nach \u00a7 47 der Finanzgerichtsordnung wird dadurch nicht ber\u00fchrt.</P><P>(2) Das Ergebnis des \u00dcberdenkens teilt die zust\u00e4ndige Steuerberaterkammer dem Antragsteller schriftlich mit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003601301",
+        "name": "\u00a7 30",
+        "title": "Nichtteilnahme an der m\u00fcndlichen Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die m\u00fcndliche Pr\u00fcfung gilt als nicht abgelegt, wenn der Bewerber aus einem von ihm nicht zu vertretenden Grund an der Ablegung der Pr\u00fcfung verhindert ist. Eine Erkrankung ist auf Verlangen durch ein amts\u00e4rztliches Zeugnis nachzuweisen.</P><P>(2) Hat ein Bewerber aus einem von ihm nicht zu vertretenden Grund nicht an der m\u00fcndlichen Pr\u00fcfung teilgenommen, so kann sie nachgeholt werden.</P><P>(3) Vers\u00e4umt ein Bewerber die m\u00fcndliche Pr\u00fcfung ohne ausreichende Entschuldigung, so gilt die Pr\u00fcfung als nicht bestanden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003701301",
+        "name": "\u00a7 31",
+        "title": "Niederschrift \u00fcber die m\u00fcndliche Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) \u00dcber die Pr\u00fcfung ist eine Niederschrift zu fertigen. Aus ihr m\u00fcssen ersichtlich sein <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Namen der Beteiligten,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Ergebnis der Pr\u00fcfung und seine Bekanntgabe an die Bewerber,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Begehren nach \u00a7 28 Abs. 2 und die Behandlung des Begehrens durch den Pr\u00fcfungsausschuss,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">besondere Vorkommnisse.</LA></DD> </DL> </P><P>(2) Ein Auszug aus der Niederschrift ist zu den Akten des Bewerbers zu nehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE003904140",
+        "name": "\u00a7 32",
+        "title": "Aufbewahrungsfristen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": "<P>(1) Die Aufsichtsarbeiten sind bei der zust\u00e4ndigen Steuerberaterkammer f\u00fcr die Dauer von mindestens zwei Jahren nach Eintritt der Bestandskraft der Pr\u00fcfungsentscheidung aufzubewahren. In den F\u00e4llen des \u00a7 21 Absatz 1 besteht keine Aufbewahrungspflicht.</P><P>(2) Die Antr\u00e4ge auf Zulassung, auf Befreiung, auf verbindliche Auskunft, die Pr\u00fcfungsunterlagen der einzelnen Bewerber und die Unterlagen zu den Entscheidungen \u00fcber die Antr\u00e4ge und Pr\u00fcfungen sind bei der zust\u00e4ndigen Steuerberaterkammer f\u00fcr die Dauer von mindestens zehn Jahren nach Eintritt der Bestandskraft der Verwaltungsentscheidung aufzubewahren.</P><P>(3) Ein Nachweis \u00fcber das Bestehen oder \u00fcber die Befreiung von der Pr\u00fcfung ist bei der zust\u00e4ndigen Steuerberaterkammer f\u00fcr die Dauer von mindestens 50 Jahren nach Eintritt der Bestandskraft der Verwaltungsentscheidung aufzubewahren.</P><P>(4) Unterlagen k\u00f6nnen auch in elektronischer Form aufbewahrt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004001301",
+        "name": "\u00a7 33",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019220979BJNG000200314",
+        "name": "Zweiter Teil",
+        "title": "Bestellung als Steuerberater oder\nSteuerbevollm\u00e4chtigter",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004104140",
+        "name": "\u00a7 34",
+        "title": "Bestellungsverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000200314"
+        },
+        "body": "<P>(1) \u00dcber den Antrag auf Bestellung als Steuerberater entscheidet die zust\u00e4ndige Steuerberaterkammer.</P><P>(2) Der Antrag auf Bestellung ist nach amtlich vorgeschriebenem Vordruck zu stellen.</P><P>(3) Der Bewerber muss in dem Antrag angeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name, Wohnsitz oder vorwiegenden Aufenthalt und Anschrift sowie Beruf und Ort der beruflichen T\u00e4tigkeit,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Ort der beabsichtigten beruflichen Niederlassung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wann und bei welcher Stelle er die Steuerberaterpr\u00fcfung bestanden hat bzw. von der Pr\u00fcfung befreit wurde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob und bei welcher Stelle er bereits fr\u00fcher einen Antrag auf Bestellung eingereicht hat,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob er sich in geordneten wirtschaftlichen Verh\u00e4ltnissen befindet,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob er innerhalb der letzten zw\u00f6lf Monate strafgerichtlich verurteilt worden ist und ob gegen ihn ein gerichtliches Strafverfahren oder ein Ermittlungsverfahren anh\u00e4ngig ist; Entsprechendes gilt f\u00fcr berufsgerichtliche Verfahren sowie f\u00fcr Bu\u00dfgeldverfahren nach der Abgabenordnung und nach dem Steuerberatungsgesetz,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob und gegebenenfalls welche T\u00e4tigkeit er nach seiner Bestellung neben dem Beruf als Steuerberater weiter aus\u00fcben oder \u00fcbernehmen will,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">dass er bei der Meldebeh\u00f6rde die Erteilung eines F\u00fchrungszeugnisses zur Vorlage bei der zust\u00e4ndigen Steuerberaterkammer beantragt hat.</LA></DD></DL>Ein Bewerber, der nach \u00a7 38 Abs. 1 des Gesetzes von der Pr\u00fcfung befreit wurde, muss au\u00dferdem eine Erkl\u00e4rung dar\u00fcber abgeben, ob innerhalb der letzten zw\u00f6lf Monate disziplinarrechtliche Ma\u00dfnahmen gegen ihn verh\u00e4ngt worden sind und ob disziplinarrechtliche Ermittlungen gegen ihn anh\u00e4ngig sind oder innerhalb der letzten zw\u00f6lf Monate anh\u00e4ngig waren.</P><P>(4) Dem Antrag sind beizuf\u00fcgen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine beglaubigte Abschrift der Bescheinigung der zust\u00e4ndigen Stelle \u00fcber die erfolgreich abgelegte Steuerberaterpr\u00fcfung oder die Befreiung von dieser Pr\u00fcfung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Passbild.</LA></DD></DL>Ist der Bewerber Rechtsanwalt, niedergelassener europ\u00e4ischer Rechtsanwalt, Wirtschaftspr\u00fcfer oder vereidigter Buchpr\u00fcfer, so hat er au\u00dferdem eine Bescheinigung der f\u00fcr ihn zust\u00e4ndigen Berufsorganisation oder sonst zust\u00e4ndigen Stelle beizuf\u00fcgen, dass keine Tatsachen bekannt sind, die die R\u00fccknahme oder den Widerruf der Zulassung oder Bestellung oder die Einleitung eines berufsgerichtlichen Verfahrens gegen ihn rechtfertigen.</P><P>(5) Die Steuerberaterkammer pr\u00fcft die Angaben des Bewerbers auf Vollst\u00e4ndigkeit und Richtigkeit. Sie kann vor einer Entscheidung erforderlichenfalls weitere Ermittlungen anstellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004202301",
+        "name": "\u00a7 35",
+        "title": "Berufsurkunde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000200314"
+        },
+        "body": "<P>Die Berufsurkunde enth\u00e4lt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung der bestellenden Steuerberaterkammer,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ort und Datum der Ausstellung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen, Geburtsort und Geburtsdatum des Bewerbers,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erkl\u00e4rung, da\u00df der Bewerber als Steuerberater oder Steuerbevollm\u00e4chtigter bestellt wird,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Dienstsiegel und</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterschrift.</LA></DD> </DL>Weitere Berufsbezeichnungen des Bewerbers sind in die Berufsurkunde nicht aufzunehmen. Akademische Grade oder staatlich verliehene Graduierungen sind nur aufzunehmen, wenn sie nachgewiesen worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004301301",
+        "name": "\u00a7 36",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000200314"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004403301",
+        "name": "\u00a7 37",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000200314"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004503301",
+        "name": "\u00a7 38",
+        "title": "Wiederbestellung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000200314"
+        },
+        "body": "<P>(1) \u00dcber den Antrag auf Wiederbestellung als Steuerberater oder Steuerbevollm\u00e4chtigter entscheidet die zust\u00e4ndige Steuerberaterkammer.</P><P>(2) Der Antrag auf Wiederbestellung ist nach amtlich vorgeschriebenem Vordruck zu stellen. \u00a7 34 Abs. 3 bis 5 gilt entsprechend.</P><P>(3) Die bestellende Steuerberaterkammer pr\u00fcft, ob die Voraussetzungen des \u00a7 40 Abs. 2 und 3 des Gesetzes gegeben sind. Vor der Entscheidung ist die Steuerberaterkammer zu h\u00f6ren, der der Bewerber im Zeitpunkt des Erl\u00f6schens oder des Widerrufs der Bestellung angeh\u00f6rt hat. \u00a7 40 Abs. 4 des Gesetzes ist sinngem\u00e4\u00df anzuwenden.</P><P>(4) Unter den Voraussetzungen des \u00a7 48 des Gesetzes k\u00f6nnen auch Personen wiederbestellt werden, die ohne nochmalige Bestellung die Eigenschaft als Steuerberater oder Steuerbevollm\u00e4chtigter erlangt hatten (\u00a7 154 Abs. 1 und 3 des Gesetzes in der bis zum 30. Juni 2000 geltenden Fassung).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004601301",
+        "name": "\u00a7 39",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000200314"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019220979BJNG000300314",
+        "name": "Dritter Teil",
+        "title": "Anerkennung als Steuerberatungsgesellschaft",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004702301",
+        "name": "\u00a7 40",
+        "title": "Verfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000300314"
+        },
+        "body": "<P>(1) Der Antrag auf Anerkennung als Steuerberatungsgesellschaft ist schriftlich bei der Steuerberaterkammer einzureichen, in deren Kammerbezirk die Gesellschaft ihren Sitz hat. In dem Antrag sind Name, Beruf und berufliche Niederlassung der Personen anzugeben, die die Gesellschaft verantwortlich f\u00fchren (\u00a7 32 Abs. 3 Satz 2 des Gesetzes) sowie Name, Beruf und berufliche Niederlassung der sonst zur Vertretung berechtigten Personen (\u00a7 50 Abs. 2 und 3 des Gesetzes).</P><P>(2) Die zust\u00e4ndige Steuerberaterkammer pr\u00fcft anhand des Gesellschaftsvertrages oder der Satzung, ob der Nachweis der verantwortlichen F\u00fchrung der Gesellschaft durch Steuerberater nach \u00a7 32 Abs. 3 Satz 2 des Gesetzes erbracht ist und ob die Voraussetzungen der \u00a7\u00a7 49 bis 53 des Gesetzes f\u00fcr die Anerkennung als Steuerberatungsgesellschaft gegeben sind.</P><P>(3) Liegen die Voraussetzungen f\u00fcr die Anerkennung vor, hat die zust\u00e4ndige Steuerberaterkammer die Gesellschaft durch Ausstellung einer Urkunde nach \u00a7 41 als Steuerberatungsgesellschaft anzuerkennen. Vor Eintragung in das Handels- oder Partnerschaftsregister kann die zust\u00e4ndige Steuerberaterkammer bereits best\u00e4tigen, da\u00df bis auf die Eintragung in das Handels- oder Partnerschaftsregister alle Voraussetzungen f\u00fcr die Anerkennung vorliegen. \u00dcber die Ablehnung des Antrags auf Anerkennung ist ein schriftlicher Bescheid zu erteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE004803301",
+        "name": "\u00a7 41",
+        "title": "Anerkennungsurkunde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000300314"
+        },
+        "body": "<P>Die Anerkennungsurkunde enth\u00e4lt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung der anerkennenden Steuerberaterkammer,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ort und Datum der Anerkennung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Firma oder Name der Gesellschaft,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anerkennung als Steuerberatungsgesellschaft,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Dienstsiegel und</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterschrift.</LA></DD> </DL>Au\u00dfer der Firma oder dem Namen sind keine weiteren Bezeichnungen der Gesellschaft in die Anerkennungsurkunde aufzunehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019220979BJNG000401301",
+        "name": "Vierter Teil",
+        "title": "Verleihung der Berechtigung zur F\u00fchrung\nder Bezeichnung \"Landwirtschaftliche Buchstelle\"",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE007000301",
+        "name": "\u00a7 42",
+        "title": "Nachweis der besonderen Sachkunde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000401301"
+        },
+        "body": "<P>(1) Der Antrag auf Verleihung der Berechtigung zur F\u00fchrung der Bezeichnung \"Landwirtschaftliche Buchstelle\" ist bei der Steuerberaterkammer zu stellen, in deren Kammerbezirk sich die berufliche Niederlassung des Antragstellers befindet.</P><P>(2) Der Antrag muss genaue Angaben \u00fcber den beruflichen Werdegang und die bisherige berufliche T\u00e4tigkeit des Antragstellers enthalten. In dem Antrag ist anzugeben, ob der Antragsteller die besondere Sachkunde durch eine m\u00fcndliche Pr\u00fcfung vor dem Sachkunde-Ausschuss nachweisen oder von dieser Pr\u00fcfung befreit werden will; erforderliche Nachweise sind dem Antrag beizuf\u00fcgen.</P><P>(3) Die m\u00fcndliche Pr\u00fcfung erstreckt sich auf folgende Gebiete: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">steuerliche Besonderheiten der Land- und Forstwirtschaft,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00f6ferecht (Anerbenrecht) bzw. erbrechtliche Bestimmungen des B\u00fcrgerlichen Gesetzbuchs,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Landpachtrecht,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundst\u00fccksverkehrsrecht,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundlagen des Agrarkreditwesens,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">landwirtschaftliche Betriebswirtschaft einschlie\u00dflich Rechnungswesen und Statistik.</LA></DD> </DL>Nicht erforderlich ist, dass alle Gebiete Gegenstand der Pr\u00fcfung sind. Die auf jeden Antragsteller entfallende Pr\u00fcfungszeit soll sechzig Minuten nicht \u00fcbersteigen.</P><P>(4) Die Steuerberaterkammer hat die Antragsteller, die an der m\u00fcndlichen Pr\u00fcfung teilnehmen, hierzu sp\u00e4testens zwei Wochen vorher zu laden.</P><P>(5) Die m\u00fcndliche Pr\u00fcfung wird vom Vorsitzenden des Sachkunde-Ausschusses geleitet. Er ist berechtigt, jederzeit in die Pr\u00fcfung einzugreifen. Im unmittelbaren Anschluss an die m\u00fcndliche Pr\u00fcfung ber\u00e4t der Sachkunde-Ausschuss \u00fcber das Ergebnis der Pr\u00fcfung. Der Vorsitzende er\u00f6ffnet hierauf den Antragstellern, ob sie die Pr\u00fcfung nach der Entscheidung des Sachkunde-Ausschusses bestanden haben; eine Note wird nicht erteilt.</P><P>(6) F\u00fcr die Befreiung von der m\u00fcndlichen Pr\u00fcfung hat der Antragsteller neben einer einschl\u00e4gigen Ausbildung nachzuweisen, dass er vor der Antragstellung mindestens f\u00fcnf buchf\u00fchrende land- und forstwirtschaftliche Betriebe drei Jahre lang steuerlich beraten hat. Die steuerliche Beratung kann auch im Rahmen einer T\u00e4tigkeit als Angestellter nach \u00a7 58 des Gesetzes erfolgt sein.</P><P>(7) Einschl\u00e4gig im Sinne des \u00a7 44 Abs. 2 Satz 2 des Gesetzes ist eine Ausbildung, die Kenntnisse auf den in Absatz 3 genannten Gebieten vermittelt. Dazu rechnen insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein erfolgreich abgeschlossenes Hochschulstudium der Agrarwissenschaften oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Ausbildungsg\u00e4nge im Sinne des Satzes 1, die mit einer Pr\u00fcfung abgeschlossen werden.</LA></DD> </DL>Die Teilnahme an einem fachbezogenen Seminar bzw. Lehrgang ohne Abschlusspr\u00fcfung oder sonstigen Leistungsnachweis der einzelnen Teilnehmer reicht nicht aus.</P><P>(8) Nachweise \u00fcber eine einschl\u00e4gige Ausbildung und \u00fcber die praktische T\u00e4tigkeit im Sinne des \u00a7 44 Abs. 2 Satz 2 des Gesetzes sind dem Antrag beizuf\u00fcgen. Antrag und Nachweise hat die Steuerberaterkammer der f\u00fcr die Landwirtschaft zust\u00e4ndigen obersten Landesbeh\u00f6rde oder der von ihr benannten Beh\u00f6rde und, soweit der Antragsteller Rechtsanwalt oder niedergelassener europ\u00e4ischer Rechtsanwalt ist, der f\u00fcr die berufliche Niederlassung zust\u00e4ndigen Rechtsanwaltskammer zur Stellungnahme zuzuleiten.</P><P>(9) \u00dcber die Ablehnung eines Antrags auf Befreiung von der m\u00fcndlichen Pr\u00fcfung ist ein schriftlicher Bescheid zu erteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005002301",
+        "name": "\u00a7 43",
+        "title": "Sachkunde-Ausschuss",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000401301"
+        },
+        "body": "<P>(1) Die m\u00fcndliche Pr\u00fcfung wird vor einem Sachkunde-Ausschuss abgelegt, der bei der Steuerberaterkammer zu bilden ist.</P><P>(2) Die Pr\u00fcfung kann auch einem Sachkunde-Ausschuss \u00fcbertragen werden, der bei einer anderen Steuerberaterkammer besteht. Die mit der Abnahme der m\u00fcndlichen Pr\u00fcfung verbundenen Aufgaben werden im Falle der \u00dcbertragung nach Satz 1 von der anderen Steuerberaterkammer wahrgenommen. Diese erh\u00e4lt auch die Geb\u00fchr nach \u00a7 44 Abs. 8 des Gesetzes.</P><P>(3) Dem Sachkunde-Ausschuss geh\u00f6ren an</P><P><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zwei Vertreter der Steuerberaterkammer, davon einer als Vorsitzender,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Vertreter der f\u00fcr die Landwirtschaft zust\u00e4ndigen obersten Landesbeh\u00f6rde oder einer von ihr benannten Beh\u00f6rde.</LA></DD> </DL> </P><P>(4) Die Steuerberaterkammer beruft die Mitglieder des Sachkunde-Ausschusses und ihre Stellvertreter grunds\u00e4tzlich f\u00fcr drei Jahre; sie k\u00f6nnen aus wichtigem Grund abberufen werden. Im Falle des vorzeitigen Ausscheidens oder der Abberufung wird der Nachfolger nur f\u00fcr den Rest der Amtszeit des ausgeschiedenen oder abberufenen Mitglieds oder Vertreters berufen. Vor der Berufung oder Abberufung ist bei dem Vertreter der f\u00fcr die Landwirtschaft zust\u00e4ndigen obersten Landesbeh\u00f6rde diese oder die von ihr benannte Beh\u00f6rde zu h\u00f6ren. \u00a7 10 Abs. 4 bis 6 gilt sinngem\u00e4\u00df.</P><P>(5) Der Ausschuss entscheidet mit Stimmenmehrheit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005102301",
+        "name": "\u00a7 44",
+        "title": "Verleihung, Verleihungsurkunde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000401301"
+        },
+        "body": "<P>(1) \u00dcber die Verleihung der Berechtigung zur F\u00fchrung der Bezeichnung \"Landwirtschaftliche Buchstelle\" ist eine Urkunde auszustellen.</P><P>(2) Die Urkunde enth\u00e4lt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung der verleihenden Steuerberaterkammer,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen und Berufsbezeichnung des Empf\u00e4ngers der Urkunde,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erkl\u00e4rung, da\u00df dem in der Urkunde Bezeichneten die Berechtigung verliehen wird, als Zusatz zur Berufsbezeichnung die Bezeichnung \"Landwirtschaftliche Buchstelle\" zu f\u00fchren,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ort und Datum der Verleihung,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Dienstsiegel und</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterschrift.</LA></DD> </DL> </P><P>(3) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019220979BJNG000500314",
+        "name": "F\u00fcnfter Teil",
+        "title": "Berufsregister",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005202301",
+        "name": "\u00a7 45",
+        "title": "Registerf\u00fchrende Stelle",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000500314"
+        },
+        "body": "<P>(1) Das Berufsregister wird durch die zust\u00e4ndige Steuerberaterkammer gef\u00fchrt. Die Steuerberaterkammern k\u00f6nnen sich bei der F\u00fchrung des Berufsregisters einer nach \u00a7 84 des Gesetzes gebildeten Arbeitsgemeinschaft bedienen.</P><P>(2) Alle Eintragungen und L\u00f6schungen im Berufsregister sind den Beteiligten mitzuteilen. Die L\u00f6schung von Steuerberatungsgesellschaften ist ferner dem zust\u00e4ndigen Registergericht mitzuteilen.</P><P>(3) Die Einsicht in das Berufsregister ist jedem gestattet, der ein berechtigtes Interesse darlegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005306377",
+        "name": "\u00a7 46",
+        "title": "Eintragung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000500314"
+        },
+        "body": "<P>In das Berufsregister sind einzutragen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Steuerberater und Steuerbevollm\u00e4chtigte, wenn sie in dem Bezirk, f\u00fcr den das Register gef\u00fchrt wird (Registerbezirk), bestellt werden oder wenn sie ihre berufliche Niederlassung in den Registerbezirk verlegen, und zwar<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Name, Vorname, Geburtstag, Geburtsort,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag der Bestellung und die Beh\u00f6rde oder die Steuerberaterkammer, die die Bestellung vorgenommen hat,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Befugnis zur F\u00fchrung der Bezeichnung \"Landwirtschaftliche Buchstelle\" und von Bezeichnungen nach der Fachberaterordnung,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift der beruflichen Niederlassung und die gesch\u00e4ftliche E-Mail-Adresse,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">berufliche Zusammenschl\u00fcsse im Sinne von \u00a7 56 Abs. 1 bis 3 des Gesetzes,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">s\u00e4mtliche weiteren Beratungsstellen und die Namen der die weiteren Beratungsstellen leitenden Personen,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des Zustellungsbevollm\u00e4chtigten im Sinne von \u00a7 46 Abs. 2 Nr. 5 des Gesetzes,</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bestehen eines Berufs- oder Vertretungsverbotes im Sinne von \u00a7 90 Absatz 1 Nummer 4 oder \u00a7 134 des Gesetzes und, sofern ein Vertreter bestellt ist, die Vertreterbestellung unter Angabe von Familiennamen und Vornamen des Vertreters</LA></DD></DL></LA><LA Size=\"normal\">sowie alle Ver\u00e4nderungen zu den Buchstaben a und c bis h;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Steuerberatungsgesellschaften, wenn sie im Registerbezirk anerkannt werden oder wenn sie ihren Sitz in den Registerbezirk verlegen, und zwar <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Firma oder Name und Rechtsform,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Tag der Anerkennung als Steuerberatungsgesellschaft und die f\u00fcr die Finanzverwaltung zust\u00e4ndige oberste Landesbeh\u00f6rde oder die Steuerberaterkammer, die die Anerkennung ausgesprochen hat,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Befugnis zur F\u00fchrung der Bezeichnung \"Landwirtschaftliche Buchstelle\",</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Sitz und Anschrift und die gesch\u00e4ftliche E-Mail-Adresse,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">berufliche Zusammenschl\u00fcsse im Sinne von \u00a7 56 Abs. 2 des Gesetzes,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen der Mitglieder des zur gesetzlichen Vertretung berufenen Organs sowie der vertretungsberechtigten Gesellschafter und Partner,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">s\u00e4mtliche weiteren Beratungsstellen und die Namen der die weiteren Beratungsstellen leitenden Personen</LA></DD></DL>sowie alle Ver\u00e4nderungen zu den Buchstaben a und c bis g;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">weitere Beratungsstellen von Steuerberatern und Steuerbevollm\u00e4chtigten, wenn sie im Registerbezirk errichtet werden, und zwar<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen und Ort der beruflichen Niederlassung des Steuerberaters oder Steuerbevollm\u00e4chtigten,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Befugnis zur F\u00fchrung der Bezeichnung \"Landwirtschaftliche Buchstelle\",</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift der weiteren Beratungsstelle,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen der die weitere Beratungsstelle leitenden Person</LA></DD></DL></LA><LA Size=\"normal\">sowie alle Ver\u00e4nderungen zu den Buchstaben a bis d;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">weitere Beratungsstellen von Steuerberatungsgesellschaften, wenn sie im Registerbezirk errichtet werden, und zwar<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Firma, Sitz und Rechtsform der Steuerberatungsgesellschaft,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Befugnis zur F\u00fchrung der Bezeichnung \"Landwirtschaftliche Buchstelle\",</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift der weiteren Beratungsstelle,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Namen der die weitere Beratungsstelle leitenden Person</LA></DD></DL></LA><LA Size=\"normal\">sowie alle Ver\u00e4nderungen zu den Buchstaben a bis d.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005403140",
+        "name": "\u00a7 47",
+        "title": "L\u00f6schung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000500314"
+        },
+        "body": "<P>(1) Im Berufsregister sind zu l\u00f6schen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Steuerberater und Steuerbevollm\u00e4chtigte,<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die Bestellung erloschen oder vollziehbar zur\u00fcckgenommen oder widerrufen ist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die berufliche Niederlassung aus dem Registerbezirk verlegt wird;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Steuerberatungsgesellschaften,<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die Anerkennung erloschen oder vollziehbar zur\u00fcckgenommen oder widerrufen ist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Sitz aus dem Registerbezirk verlegt wird;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">weitere Beratungsstellen, wenn die Beratungsstelle aufgel\u00f6st ist.</LA></DD></DL></P><P>(2) Die Eintragung \u00fcber die Befugnis zur F\u00fchrung der Bezeichnung \"Landwirtschaftliche Buchstelle\" ist zu l\u00f6schen, wenn bei einer Steuerberatungsgesellschaft die in \u00a7 44 Abs. 3 des Gesetzes bezeichneten Voraussetzungen weggefallen sind. Die Eintragung von Bezeichnungen nach der Fachberaterordnung ist zu l\u00f6schen, wenn die Bezeichnung nicht mehr gef\u00fchrt werden darf.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005501301",
+        "name": "\u00a7 48",
+        "title": "Mitteilungspflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000500314"
+        },
+        "body": "<P>(1) Die in das Berufsregister einzutragenden Tatsachen sind der zust\u00e4ndigen Steuerberaterkammer mitzuteilen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in F\u00e4llen des \u00a7 46 Nr. 1 von dem einzutragenden Steuerberater oder Steuerbevollm\u00e4chtigten;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle des \u00a7 46 Nr. 2 von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der einzutragenden Steuerberatungsgesellschaft;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle des \u00a7 46 Nr. 3 von dem Steuerberater oder Steuerbevollm\u00e4chtigten, der die weitere Beratungsstelle errichtet hat;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle des \u00a7 46 Nr. 4 von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der Steuerberatungsgesellschaft, die die ausw\u00e4rtige Beratungsstelle errichtet hat.</LA></DD> </DL> </P><P>(2) Die im Berufsregister zu l\u00f6schenden Tatsachen sind der zust\u00e4ndigen Steuerberaterkammer mitzuteilen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle des \u00a7 47 Abs. 1 Nr. 1 Buchstabe b von dem Steuerberater oder Steuerbevollm\u00e4chtigten, der seine berufliche Niederlassung verlegt;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 47 Abs. 1 Nr. 2 Buchstabe b von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der Steuerberatungsgesellschaft;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 47 Abs. 1 Nr. 3 von den in Absatz 1 Nr. 3 oder 4 genannten Personen;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 47 Abs. 2 von den Mitgliedern des zur gesetzlichen Vertretung berufenen Organs oder den vertretungsberechtigten Gesellschaftern der Steuerberatungsgesellschaft.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005601301",
+        "name": "\u00a7 49",
+        "title": "Vereine, Personenvereinigungen und K\u00f6rperschaften,\ndie zur F\u00fchrung der Bezeichnung \"Landwirtschaftliche Buchstelle\"\nbefugt sind",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000500314"
+        },
+        "body": "<P>(1) In das Berufsregister sind ferner einzutragen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vereine, die nach \u00a7 44 Abs. 4 des Gesetzes befugt sind, die Bezeichnung \"Landwirtschaftliche Buchstelle\" als Zusatz zum Namen zu f\u00fchren, wenn sie ihren Sitz im Registerbezirk haben,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Buchstellen von K\u00f6rperschaften des \u00f6ffentlichen Rechts und Personenvereinigungen, f\u00fcr die nach \u00a7 44 Abs. 5 des Gesetzes die Bezeichnung \"Landwirtschaftliche Buchstelle\" gef\u00fchrt werden darf, wenn die Buchstellen im Registerbezirk gelegen sind.</LA></DD> </DL> </P><P>(2) Die Eintragung nach Absatz 1 ist zu l\u00f6schen, <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Verein im Sinne des \u00a7 44 Abs. 4 des Gesetzes oder die Buchstelle der Personenvereinigung oder K\u00f6rperschaft im Sinne des \u00a7 44 Abs. 5 des Gesetzes aufgel\u00f6st ist,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die in \u00a7 44 Abs. 4 oder 5 des Gesetzes bezeichneten Voraussetzungen weggefallen sind,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Sitz des Vereins im Sinne des \u00a7 44 Abs. 4 des Gesetzes oder die Buchstelle der Personenvereinigung oder K\u00f6rperschaft im Sinne des \u00a7 44 Abs. 5 des Gesetzes aus dem Registerbezirk verlegt wird.</LA></DD> </DL> </P><P>(3) Die Eintragung oder L\u00f6schung ist von den Vertretungsberechtigten des Vereins, Personenvereinigung oder K\u00f6rperschaft zu beantragen. Die L\u00f6schung kann auch von Amts wegen vorgenommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005703140",
+        "name": "\u00a7 50",
+        "title": "Anzeigepflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000500314"
+        },
+        "body": "<P>(1) Allj\u00e4hrlich im Monat Januar haben die Mitglieder des zur gesetzlichen Vertretung berufenen Organs oder die vertretungsberechtigten Gesellschafter einer Steuerberatungsgesellschaft sowie die Gesellschafter einer Gesellschaft b\u00fcrgerlichen Rechts im Sinne des \u00a7 50a Abs. 2 Satz 1 des Gesetzes eine von ihnen unterschriebene Liste der Gesellschafter, aus welcher Name, Vorname, Beruf, Wohnort und berufliche Niederlassung der Gesellschafter, ihre Aktien, Stammeinlagen oder Beteiligungsverh\u00e4ltnisse zu ersehen sind, bei der zust\u00e4ndigen Steuerberaterkammer einzureichen. Sind seit Einreichung der letzten Liste Ver\u00e4nderungen hinsichtlich der Person oder des Berufs der Gesellschafter und des Umfangs der Beteiligung nicht eingetreten, so gen\u00fcgt die Einreichung einer entsprechenden Erkl\u00e4rung.</P><P>(2) Absatz 1 gilt entsprechend in den F\u00e4llen des \u00a7 154 Abs. 2 Satz 1 des Gesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019220979BJNG000700301",
+        "name": "Sechster Teil",
+        "title": "Berufshaftpflichtversicherung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006104140",
+        "name": "\u00a7 51",
+        "title": "Versicherungspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "body": "<P>(1) Selbst\u00e4ndige Steuerberater und Steuerbevollm\u00e4chtigte sowie Steuerberatungsgesellschaften sind verpflichtet, sich gegen die sich aus ihrer Berufst\u00e4tigkeit (\u00a7\u00a7 33, 57 Absatz 3 Nummer 2 und 3 des Gesetzes) ergebenden Haftpflichtgefahren f\u00fcr Verm\u00f6genssch\u00e4den zu versichern und die Versicherung w\u00e4hrend der Dauer ihrer Bestellung oder Anerkennung aufrechtzuerhalten. Satz 1 gilt sinngem\u00e4\u00df f\u00fcr Partnerschaftsgesellschaften, auch solche mit beschr\u00e4nkter Berufshaftung nach \u00a7 8 Absatz 4 des Partnerschaftsgesellschaftsgesetzes. Der Versicherungsschutz muss sich auch auf solche Verm\u00f6genssch\u00e4den erstrecken, f\u00fcr die der Versicherungsnehmer nach \u00a7 278 oder \u00a7 831 des B\u00fcrgerlichen Gesetzbuchs einzustehen hat.</P><P>(2) Selbst\u00e4ndige Steuerberater und Steuerbevollm\u00e4chtigte, die ausschlie\u00dflich als freie Mitarbeiter f\u00fcr Auftraggeber, die die Voraussetzungen des \u00a7 3 des Gesetzes erf\u00fcllen, t\u00e4tig sind, gen\u00fcgen der Versicherungspflicht nach Absatz 1, wenn die sich aus der freien Mitarbeit sowie aus \u00a7 63 des Gesetzes ergebenden Haftpflichtgefahren f\u00fcr Verm\u00f6genssch\u00e4den durch die beim Auftraggeber bestehende Versicherung gedeckt sind. Der entsprechende Versicherungsschutz ist durch eine Best\u00e4tigung der Versicherung des Auftraggebers nachzuweisen. Satz 1 gilt nicht, wenn neben der freien Mitarbeit eigene Mandate betreut werden.</P><P>(3) Absatz 2 gilt sinngem\u00e4\u00df auch f\u00fcr Steuerberater und Steuerbevollm\u00e4chtigte, die ausschlie\u00dflich als Angestellte nach \u00a7 58 des Gesetzes t\u00e4tig sind, sowie f\u00fcr Partner einer Partnerschaftsgesellschaft mit beschr\u00e4nkter Berufshaftung nach \u00a7 8 Absatz 4 des Partnerschaftsgesellschaftsgesetzes, die ausschlie\u00dflich f\u00fcr die Partnerschaftsgesellschaft t\u00e4tig sind.</P><P>(4) Die Versicherung mu\u00df bei einem im Inland zum Gesch\u00e4ftsbetrieb befugten Versicherungsunternehmen zu den nach Ma\u00dfgabe des Versicherungsaufsichtsgesetzes eingereichten allgemeinen Versicherungsbedingungen genommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006202140",
+        "name": "\u00a7 52",
+        "title": "Mindestversicherungssumme",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "body": "<P>(1) Die Mindestversicherungssumme mu\u00df f\u00fcr den einzelnen Versicherungsfall zweihundertf\u00fcnfzigtausend Euro betragen.</P><P>(2) Ein Selbstbehalt von eintausendf\u00fcnfhundert Euro ist zul\u00e4ssig. Der Selbstbehalt ist auszuschlie\u00dfen f\u00fcr den Fall, da\u00df bei Geltendmachung des Schadens durch einen Dritten die Bestellung des Steuerberaters oder Steuerbevollm\u00e4chtigten oder die Anerkennung der Steuerberatungsgesellschaft erloschen ist.</P><P>(3) Wird eine Jahresh\u00f6chstleistung f\u00fcr alle in einem Versicherungsjahr verursachten Sch\u00e4den vereinbart, mu\u00df sie mindestens eine Million Euro betragen.</P><P>(4) Die Abs\u00e4tze 1 und 3 gelten f\u00fcr Partnerschaftsgesellschaften mit beschr\u00e4nkter Berufshaftung nach \u00a7 8 Absatz 4 des Partnerschaftsgesellschaftsgesetzes mit der Ma\u00dfgabe, dass die Mindestversicherungssumme f\u00fcr den einzelnen Versicherungsfall eine Million Euro und die Jahresh\u00f6chstleistung f\u00fcr alle in einem Versicherungsjahr verursachten Sch\u00e4den mindestens vier Millionen Euro betragen muss.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006302301",
+        "name": "\u00a7 53",
+        "title": "Weiterer Inhalt des Versicherungsvertrages",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "body": "<P>(1) Der Versicherungsvertrag mu\u00df vorsehen, da\u00df <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Versicherungsschutz f\u00fcr jede einzelne, w\u00e4hrend der Geltung des Versicherungsvertrages begangene Pflichtverletzung besteht, die gesetzliche Haftpflichtanspr\u00fcche privatrechtlichen Inhalts zur Folge haben k\u00f6nnte,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Versicherungsschutz f\u00fcr einen allgemeinen Vertreter, einen Praxisabwickler oder einen Praxistreuh\u00e4nder f\u00fcr die Dauer ihrer Bestellung sowie f\u00fcr einen Vertreter w\u00e4hrend der Dauer eines Berufs- oder Vertretungsverbots aufrechterhalten bleibt, soweit die Mitversicherten nicht durch eine eigene Versicherung Deckung erhalten, und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen des Versicherers f\u00fcr das mitversicherte Auslandsrisiko im Inland in Euro zu erbringen sind.</LA></DD> </DL> </P><P>(2) Im Versicherungsvertrag ist der Versicherer zu verpflichten, der zust\u00e4ndigen Steuerberaterkammer den Beginn und die Beendigung oder K\u00fcndigung des Versicherungsvertrages sowie jede \u00c4nderung des Versicherungsvertrages, die den vorgeschriebenen Versicherungsschutz beeintr\u00e4chtigt, unverz\u00fcglich mitzuteilen.</P><P>(3) Der Versicherungsvertrag kann vorsehen, da\u00df die Versicherungssumme den H\u00f6chstbetrag der dem Versicherer in jedem einzelnen Schadenfall obliegenden Leistung darstellt, und zwar mit der Ma\u00dfgabe, da\u00df nur eine einmalige Leistung der Versicherungssumme in Frage kommt, <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">gegen\u00fcber mehreren entsch\u00e4digungspflichtigen Personen, auf welche sich der Versicherungsschutz erstreckt,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bez\u00fcglich eines aus mehreren Verst\u00f6\u00dfen stammenden einheitlichen Schadens,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">bez\u00fcglich s\u00e4mtlicher Folgen eines Versto\u00dfes. Dabei gilt mehrfaches, auf gleicher oder gleichartiger Fehlerquelle beruhendes Tun oder Unterlassen als einheitlicher Versto\u00df, wenn die betreffenden Angelegenheiten miteinander in rechtlichem oder wirtschaftlichem Zusammenhang stehen. In diesem Fall kann die Leistung des Versicherers auf das F\u00fcnffache der Mindestversicherungssumme begrenzt werden.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006802140",
+        "name": "\u00a7 53a",
+        "title": "Ausschl\u00fcsse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "body": "<P>(1) Von der Versicherung kann die Haftung ausgeschlossen werden f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ersatzanspr\u00fcche wegen wissentlicher Pflichtverletzung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ersatzanspr\u00fcche wegen Sch\u00e4den, die durch Fehlbetr\u00e4ge bei der Kassenf\u00fchrung, durch Verst\u00f6\u00dfe beim Zahlungsakt oder durch Veruntreuung durch das Personal, Angeh\u00f6rige oder Sozien des Versicherungsnehmers entstehen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ersatzanspr\u00fcche, die aus T\u00e4tigkeiten entstehen, die \u00fcber Niederlassungen, Zweigniederlassungen oder weitere Beratungsstellen im Ausland ausge\u00fcbt werden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ersatzanspr\u00fcche wegen Verletzung oder Nichtbeachtung des Rechts au\u00dfereurop\u00e4ischer Staaten mit Ausnahme der T\u00fcrkei,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ersatzanspr\u00fcche, die vor Gerichten in den L\u00e4ndern Albanien, Armenien, Aserbaidschan, Bosnien-Herzegowina, Bulgarien, Estland, Georgien, Jugoslawien (Serbien und Montenegro), Kroatien, Lettland, Litauen, Mazedonien, Moldau, Polen, Rum\u00e4nien, Russische F\u00f6deration, Slowakische Republik, Slowenien, Tschechische Republik, Ukraine und Wei\u00dfru\u00dfland sowie vor Gerichten in au\u00dfereurop\u00e4ischen L\u00e4ndern mit Ausnahme der T\u00fcrkei geltend gemacht werden.</LA></DD></DL></P><P>(2) Von der Versicherung kann die Haftung f\u00fcr Ersatzanspr\u00fcche wegen Verletzung oder Nichtbeachtung des Rechts der L\u00e4nder Albanien, Armenien, Aserbaidschan, Bosnien-Herzegowina, Bulgarien, Estland, Georgien, Jugoslawien (Serbien und Montenegro), Kroatien, Lettland, Litauen, Mazedonien, Moldau, Polen, Rum\u00e4nien, Russische F\u00f6deration, Slowakische Republik, Slowenien, Tschechische Republik, Ukraine und Wei\u00dfru\u00dfland nur insoweit ausgeschlossen werden, als die Anspr\u00fcche nicht bei der das Abgabenrecht dieser Staaten betreffenden gesch\u00e4ftsm\u00e4\u00dfigen Hilfeleistung in Steuersachen entstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006404377",
+        "name": "\u00a7 54",
+        "title": "Anerkennung anderer Berufshaftpflichtversicherungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "body": "<P>(1) Ist eine versicherungspflichtige Person zugleich als Rechtsanwalt, niedergelassener europ\u00e4ischer Rechtsanwalt, Wirtschaftspr\u00fcfer oder vereidigter Buchpr\u00fcfer bestellt oder ist eine versicherungspflichtige Gesellschaft zugleich als Rechtsanwaltsgesellschaft, Wirtschaftspr\u00fcfungsgesellschaft oder Buchpr\u00fcfungsgesellschaft anerkannt, wird der Versicherungspflicht auch mit einer diesen Berufen vorgeschriebenen Berufshaftpflichtversicherung gen\u00fcgt, sofern der Versicherungsvertrag die Voraussetzungen der \u00a7\u00a7 52 bis 53a erf\u00fcllt.</P><P>(2) Erfolgt die Bestellung zum Steuerberater auf Grund des Bestehens einer Eignungspr\u00fcfung im Sinne des \u00a7 37a Abs. 2 des Gesetzes, so sind Bescheinigungen \u00fcber eine abgeschlossene Berufshaftpflichtversicherung, die von den Versicherungsunternehmen eines anderen Mitgliedstaates der Europ\u00e4ischen Union oder eines Vertragsstaates des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum oder der Schweiz ausgestellt worden sind, als gleichwertig mit den in Deutschland ausgestellten Bescheinigungen anzuerkennen, sofern sie in Bezug auf Deckungsbedingungen und -umfang den in Deutschland geltenden Rechts- und Verwaltungsvorschriften gen\u00fcgen. Die zum Nachweis vorgelegten Unterlagen sind mit einer beglaubigten \u00dcbersetzung vorzulegen, wenn sie nicht in deutscher Sprache abgefasst sind. Die Bescheinigungen d\u00fcrfen bei ihrer Vorlage nicht \u00e4lter als drei Monate sein.</P><P>(3) Ist im Falle des Absatzes 2 die Erf\u00fcllung der Verpflichtung des \u00a7 53 Abs. 2 durch das Versicherungsunternehmen nicht sichergestellt, so haben die in Deutschland beruflich niedergelassenen selbst\u00e4ndigen Steuerberater der zust\u00e4ndigen Steuerberaterkammer j\u00e4hrlich eine Bescheinigung des Versicherers vorzulegen, aus der sich die Versicherungsbedingungen und der Deckungsumfang ergeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006502140",
+        "name": "\u00a7 55",
+        "title": "Nachweis des Versicherungsabschlusses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "body": "<P>(1) Bewerber, die ihre Bestellung zum Steuerberater oder zum Steuerbevollm\u00e4chtigten beantragen und den Beruf selbst\u00e4ndig aus\u00fcben wollen, m\u00fcssen der bestellenden Steuerberaterkammer den Abschlu\u00df einer dieser Verordnung entsprechenden Berufshaftpflichtversicherung durch eine Best\u00e4tigung des Versicherers nachweisen oder eine entsprechende vorl\u00e4ufige Deckungszusage vorlegen, in der sich der Versicherer verpflichtet, den Widerruf der Deckungszusage unverz\u00fcglich der zust\u00e4ndigen Steuerberaterkammer mitzuteilen. Bei Vorlage einer vorl\u00e4ufigen Deckungszusage ist nach der Bestellung der zust\u00e4ndigen Steuerberaterkammer unverz\u00fcglich der Abschlu\u00df der Berufshaftpflichtversicherung durch eine Best\u00e4tigung des Versicherers oder eine beglaubigte Abschrift des Versicherungsscheines nachzuweisen.</P><P>(2) Absatz 1 gilt sinngem\u00e4\u00df f\u00fcr die Anerkennung als Steuerberatungsgesellschaft.</P><P>(3) Absatz 1 gilt sinngem\u00e4\u00df f\u00fcr Partnerschaftsgesellschaften mit der Ma\u00dfgabe, dass eine entsprechende Versicherungsbescheinigung mit der Anmeldung zum Partnerschaftsregister der Steuerberaterkammer, in deren Bezirk die Partnerschaftsgesellschaft ihren Sitz hat, vorzulegen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006601140",
+        "name": "\u00a7 56",
+        "title": "Anzeige von Ver\u00e4nderungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "body": "<P>(1) Die Beendigung oder K\u00fcndigung des Versicherungsvertrages, jede \u00c4nderung des Versicherungsvertrages, die den nach dieser Verordnung vorgeschriebenen Versicherungsschutz beeintr\u00e4chtigt, der Wechsel des Versicherers, der Beginn und die Beendigung der Versicherungspflicht infolge einer \u00c4nderung der Form der beruflichen T\u00e4tigkeit und der Widerruf einer vorl\u00e4ufigen Deckungszusage sind der gem\u00e4\u00df \u00a7 67 des Gesetzes zust\u00e4ndigen Steuerberaterkammer von dem Versicherungspflichtigen unverz\u00fcglich anzuzeigen.</P><P>(2) Der Versicherer ist befugt, der zust\u00e4ndigen Steuerberaterkammer Beginn und Ende des Versicherungsvertrags, jede \u00c4nderung des Versicherungsvertrags, die den nach dieser Verordnung vorgeschriebenen Versicherungsschutz beeintr\u00e4chtigt, und den Widerruf einer vorl\u00e4ufigen Deckungszusage mitzuteilen. Die zust\u00e4ndige Steuerberaterkammer ist berechtigt, entsprechende Ausk\u00fcnfte bei dem Versicherer einzuholen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006702301",
+        "name": "\u00a7 57",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR019220979BJNG000601301",
+        "name": "Siebter Teil",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000700301"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE005803140",
+        "name": "\u00a7 58",
+        "title": "\u00dcbergangsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000601301"
+        },
+        "body": "<P>(1) Die Vorschriften dieser Verordnung \u00fcber die Zulassung zur Pr\u00fcfung in der ab dem 1. Juli 2000 geltenden Fassung sind erstmals auf die Zulassung zur Pr\u00fcfung im Jahre 2001 anzuwenden.</P><P>(2) Auf Pr\u00fcfungen, die vor dem 1. November 2000 begonnen haben, sind die Vorschriften dieser Verordnung in der bis zum 30. Juni 2000 geltenden Fassung weiter anzuwenden.</P><P>(3) Die den Steuerberaterkammern zugewiesenen Aufgaben des Zweiten und Vierten Teils dieser Verordnung in der ab dem 1. Juli 2000 geltenden Fassung werden bis zum 31. Dezember 2000 von den bisher zust\u00e4ndigen Beh\u00f6rden der Finanzverwaltung wahrgenommen.</P><P>(4) Die Vorschriften dieser Verordnung in der ab 12. April 2008 geltenden Fassung \u00fcber die Zulassung zur Pr\u00fcfung, die Befreiung von der Pr\u00fcfung, die organisatorische Durchf\u00fchrung der Pr\u00fcfung und die Abnahme der Pr\u00fcfung sind erstmals f\u00fcr Pr\u00fcfungen anzuwenden, die nach dem 31. Dezember 2008 beginnen und f\u00fcr Antr\u00e4ge auf Befreiung von der Pr\u00fcfung oder auf Erteilung einer verbindlichen Auskunft \u00fcber die Erf\u00fcllung einzelner Voraussetzungen f\u00fcr die Zulassung zur Pr\u00fcfung oder \u00fcber die Befreiung von der Pr\u00fcfung, die nach dem 31. Dezember 2008 gestellt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR019220979BJNE006002301",
+        "name": "\u00a7 59",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR019220979BJNG000601301"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

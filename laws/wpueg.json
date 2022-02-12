@@ -1,0 +1,1133 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR382210001",
+    "firstPublished": "2001-12-20",
+    "sourceTimestamp": "20211213213605",
+    "titleShort": null,
+    "titleLong": "Wertpapiererwerbs- und \u00dcbernahmegesetz",
+    "abbreviation": "Wp\u00dcG",
+    "slug": "wpueg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2001, 3822",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 3 G v. 19.3.2020 I 529",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 7 Abs. 5 G v. 12.5.2021 I 990 (Nr. 23) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 20 G v. 3.6.2021 I 1568 (Nr. 30) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 58 G v. 10.8.2021 I 3436 (Nr. 53) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2002 +++)<BR />(+++ Zur Anwendung vgl. \u00a7 68 +++)<BR />(+++ Zur Anwendung vgl. \u00a7 108 Abs. 5 KAGB +++)<BR /><BR /></pre>Das G wurde als Artikel 1 G 4110-7/1 v. 20.12.2001 I 3822 vom Bundestag erlassen. Es ist gem. Art. 12 Satz 1 dieses G am 1.1.2002 in Kraft getreten. Vorschriften, die zum Erlass von Rechtsverordnungen erm\u00e4chtigen, sind am 23.12.2001 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000108360",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"0.10*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"1.00*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 1</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Allgemeine Vorschriften</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 1</entry><entry VJ=\"1\">Anwendungsbereich</entry></row><row><entry VJ=\"1\">\u00a7 2</entry><entry VJ=\"1\">Begriffsbestimmungen</entry></row><row><entry VJ=\"1\">\u00a7 3</entry><entry VJ=\"1\">Allgemeine Grunds\u00e4tze</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 2</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Zust\u00e4ndigkeit der Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 4</entry><entry VJ=\"1\">Aufgaben und Befugnisse</entry></row><row><entry VJ=\"1\">\u00a7 5</entry><entry VJ=\"1\">(weggefallen)</entry></row><row><entry VJ=\"1\">\u00a7 6</entry><entry VJ=\"1\">(weggefallen)</entry></row><row><entry VJ=\"1\">\u00a7 7</entry><entry VJ=\"1\">Zusammenarbeit mit Aufsichtsbeh\u00f6rden im Inland</entry></row><row><entry VJ=\"1\">\u00a7 8</entry><entry VJ=\"1\">Zusammenarbeit mit zust\u00e4ndigen Stellen im Ausland</entry></row><row><entry VJ=\"1\">\u00a7 9</entry><entry VJ=\"1\">Verschwiegenheitspflicht</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 3</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Angebote zum Erwerb von Wertpapieren</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 10</entry><entry VJ=\"1\">Ver\u00f6ffentlichung der Entscheidung zur Abgabe eines Angebots</entry></row><row><entry VJ=\"1\">\u00a7 11</entry><entry VJ=\"1\">Angebotsunterlage</entry></row><row><entry VJ=\"1\">\u00a7 11a</entry><entry VJ=\"1\">Europ\u00e4ischer Pass</entry></row><row><entry VJ=\"1\">\u00a7 12</entry><entry VJ=\"1\">Haftung f\u00fcr die Angebotsunterlage</entry></row><row><entry VJ=\"1\">\u00a7 13</entry><entry VJ=\"1\">Finanzierung des Angebots</entry></row><row><entry VJ=\"1\">\u00a7 14</entry><entry VJ=\"1\">\u00dcbermittlung und Ver\u00f6ffentlichung der Angebotsunterlage</entry></row><row><entry VJ=\"1\">\u00a7 15</entry><entry VJ=\"1\">Untersagung des Angebots</entry></row><row><entry VJ=\"1\">\u00a7 16</entry><entry VJ=\"1\">Annahmefristen; Einberufung der Hauptversammlung</entry></row><row><entry VJ=\"1\">\u00a7 17</entry><entry VJ=\"1\">Unzul\u00e4ssigkeit der \u00f6ffentlichen Aufforderung zur Abgabe von Angeboten</entry></row><row><entry VJ=\"1\">\u00a7 18</entry><entry VJ=\"1\">Bedingungen; Unzul\u00e4ssigkeit des Vorbehalts des R\u00fccktritts und des Widerrufs</entry></row><row><entry VJ=\"1\">\u00a7 19</entry><entry VJ=\"1\">Zuteilung bei einem Teilangebot</entry></row><row><entry VJ=\"1\">\u00a7 20</entry><entry VJ=\"1\">Handelsbestand</entry></row><row><entry VJ=\"1\">\u00a7 21</entry><entry VJ=\"1\">\u00c4nderung des Angebots</entry></row><row><entry VJ=\"1\">\u00a7 22</entry><entry VJ=\"1\">Konkurrierende Angebote</entry></row><row><entry VJ=\"1\">\u00a7 23</entry><entry VJ=\"1\">Ver\u00f6ffentlichungspflichten des Bieters nach Abgabe des Angebots</entry></row><row><entry VJ=\"1\">\u00a7 24</entry><entry VJ=\"1\">Grenz\u00fcberschreitende Angebote</entry></row><row><entry VJ=\"1\">\u00a7 25</entry><entry VJ=\"1\">Beschluss der Gesellschafterversammlung des Bieters</entry></row><row><entry VJ=\"1\">\u00a7 26</entry><entry VJ=\"1\">Sperrfrist</entry></row><row><entry VJ=\"1\">\u00a7 27</entry><entry VJ=\"1\">Stellungnahme des Vorstands und Aufsichtsrats der Zielgesellschaft</entry></row><row><entry VJ=\"1\">\u00a7 28</entry><entry VJ=\"1\">Werbung</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 4</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">\u00dcbernahmeangebote</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 29</entry><entry VJ=\"1\">Begriffsbestimmungen</entry></row><row><entry VJ=\"1\">\u00a7 30</entry><entry VJ=\"1\">Zurechnung von Stimmrechten; Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\">\u00a7 31</entry><entry VJ=\"1\">Gegenleistung</entry></row><row><entry VJ=\"1\">\u00a7 32</entry><entry VJ=\"1\">Unzul\u00e4ssigkeit von Teilangeboten</entry></row><row><entry VJ=\"1\">\u00a7 33</entry><entry VJ=\"1\">Handlungen des Vorstands der Zielgesellschaft</entry></row><row><entry VJ=\"1\">\u00a7 33a</entry><entry VJ=\"1\">Europ\u00e4isches Verhinderungsverbot</entry></row><row><entry VJ=\"1\">\u00a7 33b</entry><entry VJ=\"1\">Europ\u00e4ische Durchbrechungsregel</entry></row><row><entry VJ=\"1\">\u00a7 33c</entry><entry VJ=\"1\">Vorbehalt der Gegenseitigkeit</entry></row><row><entry VJ=\"1\">\u00a7 33d</entry><entry VJ=\"1\">Verbot der Gew\u00e4hrung ungerechtfertigter Leistungen</entry></row><row><entry VJ=\"1\">\u00a7 34</entry><entry VJ=\"1\">Anwendung der Vorschriften des Abschnitts 3</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 5</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Pflichtangebote</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 35</entry><entry VJ=\"1\">Verpflichtung zur Ver\u00f6ffentlichung und zur Abgabe eines Angebots</entry></row><row><entry VJ=\"1\">\u00a7 36</entry><entry VJ=\"1\">Nichtber\u00fccksichtigung von Stimmrechten</entry></row><row><entry VJ=\"1\" valign=\"top\">\u00a7 37</entry><entry VJ=\"1\">Befreiung von der Verpflichtung zur Ver\u00f6ffentlichung und zur Abgabe eines Angebots</entry></row><row><entry VJ=\"1\">\u00a7 38</entry><entry VJ=\"1\">Anspruch auf Zinsen</entry></row><row><entry VJ=\"1\">\u00a7 39</entry><entry VJ=\"1\">Anwendung der Vorschriften des Abschnitts 3 und 4</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 5a</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Ausschluss, Andienungsrecht</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 39a</entry><entry VJ=\"1\">Ausschluss der \u00fcbrigen Aktion\u00e4re</entry></row><row><entry VJ=\"1\">\u00a7 39b</entry><entry VJ=\"1\">Ausschlussverfahren</entry></row><row><entry VJ=\"1\">\u00a7 39c</entry><entry VJ=\"1\">Andienungsrecht</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 6</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Verfahren</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 40</entry><entry VJ=\"1\">Ermittlungsbefugnisse der Bundesanstalt</entry></row><row><entry VJ=\"1\">\u00a7 41</entry><entry VJ=\"1\">Widerspruchsverfahren</entry></row><row><entry VJ=\"1\">\u00a7 42</entry><entry VJ=\"1\">Sofortige Vollziehbarkeit</entry></row><row><entry VJ=\"1\">\u00a7 43</entry><entry VJ=\"1\">Bekanntgabe und Zustellung</entry></row><row><entry VJ=\"1\">\u00a7 44</entry><entry VJ=\"1\">Ver\u00f6ffentlichungsrecht der Bundesanstalt</entry></row><row><entry VJ=\"1\">\u00a7 45</entry><entry VJ=\"1\">Mitteilungen an die Bundesanstalt</entry></row><row><entry VJ=\"1\">\u00a7 46</entry><entry VJ=\"1\">Zwangsmittel</entry></row><row><entry VJ=\"1\">\u00a7 47</entry><entry VJ=\"1\">(weggefallen)</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 7</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Rechtsmittel</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 48</entry><entry VJ=\"1\">Statthaftigkeit, Zust\u00e4ndigkeit</entry></row><row><entry VJ=\"1\">\u00a7 49</entry><entry VJ=\"1\">Aufschiebende Wirkung</entry></row><row><entry VJ=\"1\">\u00a7 50</entry><entry VJ=\"1\">Anordnung der sofortigen Vollziehung</entry></row><row><entry VJ=\"1\">\u00a7 51</entry><entry VJ=\"1\">Frist und Form</entry></row><row><entry VJ=\"1\">\u00a7 52</entry><entry VJ=\"1\">Beteiligte am Beschwerdeverfahren</entry></row><row><entry VJ=\"1\">\u00a7 53</entry><entry VJ=\"1\">Anwaltszwang</entry></row><row><entry VJ=\"1\">\u00a7 54</entry><entry VJ=\"1\">M\u00fcndliche Verhandlung</entry></row><row><entry VJ=\"1\">\u00a7 55</entry><entry VJ=\"1\">Untersuchungsgrundsatz</entry></row><row><entry VJ=\"1\">\u00a7 56</entry><entry VJ=\"1\">Beschwerdeentscheidung; Vorlagepflicht</entry></row><row><entry VJ=\"1\">\u00a7 57</entry><entry VJ=\"1\">Akteneinsicht</entry></row><row><entry VJ=\"1\" valign=\"top\">\u00a7 58</entry><entry VJ=\"1\">Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 8</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Sanktionen</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 59</entry><entry VJ=\"1\">Rechtsverlust</entry></row><row><entry VJ=\"1\">\u00a7 60</entry><entry VJ=\"1\">Bu\u00dfgeldvorschriften</entry></row><row><entry VJ=\"1\">\u00a7 61</entry><entry VJ=\"1\">Zust\u00e4ndige Verwaltungsbeh\u00f6rde</entry></row><row><entry VJ=\"1\">\u00a7 62</entry><entry VJ=\"1\">Zust\u00e4ndigkeit des Oberlandesgerichts im gerichtlichen Verfahren</entry></row><row><entry VJ=\"1\">\u00a7 63</entry><entry VJ=\"1\">Rechtsbeschwerde zum Bundesgerichtshof</entry></row><row><entry VJ=\"1\">\u00a7 64</entry><entry VJ=\"1\">Wiederaufnahme gegen Bu\u00dfgeldbescheid</entry></row><row><entry VJ=\"1\">\u00a7 65</entry><entry VJ=\"1\">Gerichtliche Entscheidung bei der Vollstreckung</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Abschnitt 9</entry></row><row><entry VJ=\"1\" align=\"center\" nameend=\"col2\" namest=\"col1\">Gerichtliche Zust\u00e4ndigkeit; \u00dcbergangsregelungen</entry></row><row><entry VJ=\"1\" align=\"center\" colsep=\"1\" nameend=\"col2\" namest=\"col1\" /></row><row><entry VJ=\"1\">\u00a7 66</entry><entry VJ=\"1\">Gerichte f\u00fcr Wertpapiererwerbs- und \u00dcbernahmesachen</entry></row><row><entry VJ=\"1\" valign=\"top\">\u00a7 67</entry><entry VJ=\"1\">Senat f\u00fcr Wertpapiererwerbs- und \u00dcbernahmesachen beim Oberlandesgericht</entry></row><row><entry VJ=\"1\">\u00a7 68</entry><entry VJ=\"1\">\u00dcbergangsregelungen</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG000200000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006901377",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000200000"
+        },
+        "body": "<P>(1) Dieses Gesetz ist anzuwenden auf Angebote zum Erwerb von Wertpapieren, die von einer Zielgesellschaft ausgegeben wurden und zum Handel an einem organisierten Markt zugelassen sind.</P><P>(2) Auf \u00dcbernahme- und Pflichtangebote zum Erwerb von Aktien einer Zielgesellschaft im Sinne des \u00a7 2 Abs. 3 Nr. 1, deren stimmberechtigte Aktien nicht im Inland, jedoch in einem anderen Staat des Europ\u00e4ischen Wirtschaftsraums zum Handel an einem organisierten Markt zugelassen sind, ist dieses Gesetz nur anzuwenden, soweit es die Kontrolle, die Verpflichtung zur Abgabe eines Angebots und hiervon abweichende Regelungen, die Unterrichtung der Arbeitnehmer der Zielgesellschaft oder des Bieters, Handlungen des Vorstands der Zielgesellschaft, durch die der Erfolg eines Angebots verhindert werden k\u00f6nnte, oder andere gesellschaftsrechtliche Fragen regelt.</P><P>(3) Auf Angebote zum Erwerb von Wertpapieren einer Zielgesellschaft im Sinne des \u00a7 2 Abs. 3 Nr. 2 ist dieses Gesetz vorbehaltlich \u00a7 11a nur unter folgenden Voraussetzungen anzuwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">es handelt sich um ein europ\u00e4isches Angebot zum Erwerb stimmberechtigter Wertpapiere, und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die stimmberechtigten Wertpapiere sind nur im Inland zum Handel an einem organisierten Markt zugelassen, oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die stimmberechtigten Wertpapiere sind sowohl im Inland als auch in einem anderen Staat des Europ\u00e4ischen Wirtschaftsraums, jedoch nicht in dem Staat, in dem die Zielgesellschaft ihren Sitz hat, zum Handel an einem organisierten Markt zugelassen, und<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zulassung erfolgte zuerst zum Handel an einem organisierten Markt im Inland, oder</LA></DD> <DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zulassungen erfolgten gleichzeitig, und die Zielgesellschaft hat sich f\u00fcr die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht (Bundesanstalt) als zust\u00e4ndige Aufsichtsbeh\u00f6rde entschieden.</LA></DD> </DL></LA></DD> </DL></LA></DD> </DL>Liegen die in Satz 1 genannten Voraussetzungen vor, ist dieses Gesetz nur anzuwenden, soweit es Fragen der Gegenleistung, des Inhalts der Angebotsunterlage und des Angebotsverfahrens regelt.</P><P>(4) Das Bundesministerium der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, n\u00e4here Bestimmungen dar\u00fcber, in welchem Umfang Vorschriften dieses Gesetzes in den F\u00e4llen des Absatzes 2 und des Absatzes 3 anwendbar sind, zu erlassen.</P><P>(5) Eine Zielgesellschaft im Sinne des \u00a7 2 Abs. 3 Nr. 2, deren stimmberechtigte Wertpapiere gleichzeitig im Inland und in einem anderen Staat des Europ\u00e4ischen Wirtschaftsraums, jedoch nicht in dem Staat, in dem sie ihren Sitz hat, zum Handel an einem organisierten Markt zugelassen worden sind, hat zu entscheiden, welche der betroffenen Aufsichtsstellen f\u00fcr die Beaufsichtigung eines europ\u00e4ischen Angebots zum Erwerb stimmberechtigter Wertpapiere zust\u00e4ndig sein soll. Sie hat ihre Entscheidung der Bundesanstalt mitzuteilen und zu ver\u00f6ffentlichen. Das Bundesministerium der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, n\u00e4here Bestimmungen \u00fcber den Zeitpunkt sowie Inhalt und Form der Mitteilung und der Ver\u00f6ffentlichung nach Satz 2 zu erlassen. Das Bundesministerium der Finanzen kann die Erm\u00e4chtigung durch Rechtsverordnung auf die Bundesanstalt \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000202377",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000200000"
+        },
+        "body": "<P>(1) Angebote sind freiwillige oder auf Grund einer Verpflichtung nach diesem Gesetz erfolgende \u00f6ffentliche Kauf- oder Tauschangebote zum Erwerb von Wertpapieren einer Zielgesellschaft.</P><P>(1a) Europ\u00e4ische Angebote sind Angebote zum Erwerb von Wertpapieren einer Zielgesellschaft im Sinne des Absatzes 3 Nr. 2, die nach dem Recht des Staates des Europ\u00e4ischen Wirtschaftsraums, in dem die Zielgesellschaft ihren Sitz hat, als Angebote im Sinne des Artikels 2 Abs. 1 Buchstabe a der Richtlinie 2004/25/EG des Europ\u00e4ischen Parlaments und des Rates vom 21. April 2004 betreffend \u00dcbernahmeangebote (ABl. EU Nr. L 142 S. 12) gelten.</P><P>(2) Wertpapiere sind, auch wenn f\u00fcr sie keine Urkunden ausgestellt sind, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aktien, mit diesen vergleichbare Wertpapiere und Zertifikate, die Aktien vertreten,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">andere Wertpapiere, die den Erwerb von Aktien, mit diesen vergleichbaren Wertpapieren oder Zertifikaten, die Aktien vertreten, zum Gegenstand haben.</LA></DD> </DL> </P><P>(3) Zielgesellschaften sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aktiengesellschaften oder Kommanditgesellschaften auf Aktien mit Sitz im Inland und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesellschaften mit Sitz in einem anderen Staat des Europ\u00e4ischen Wirtschaftsraums.</LA></DD> </DL> </P><P>(4) Bieter sind nat\u00fcrliche oder juristische Personen oder Personengesellschaften, die allein oder gemeinsam mit anderen Personen ein Angebot abgeben, ein solches beabsichtigen oder zur Abgabe verpflichtet sind.</P><P>(5) Gemeinsam handelnde Personen sind nat\u00fcrliche oder juristische Personen, die ihr Verhalten im Hinblick auf ihren Erwerb von Wertpapieren der Zielgesellschaft oder ihre Aus\u00fcbung von Stimmrechten aus Aktien der Zielgesellschaft mit dem Bieter auf Grund einer Vereinbarung oder in sonstiger Weise abstimmen. Mit der Zielgesellschaft gemeinsam handelnde Personen sind nat\u00fcrliche oder juristische Personen, die Handlungen zur Verhinderung eines \u00dcbernahme- oder Pflichtangebots mit der Zielgesellschaft auf Grund einer Vereinbarung oder in sonstiger Weise abstimmen. Tochterunternehmen gelten mit der sie kontrollierenden Person und untereinander als gemeinsam handelnde Personen.</P><P>(6) Tochterunternehmen sind Unternehmen, die als Tochterunternehmen im Sinne des \u00a7 290 des Handelsgesetzbuchs gelten oder auf die ein beherrschender Einfluss ausge\u00fcbt werden kann, ohne dass es auf die Rechtsform oder den Sitz ankommt.</P><P>(7) Organisierter Markt sind der regulierte Markt an einer B\u00f6rse im Inland und der geregelte Markt im Sinne des Artikels 4 Abs. 1 Nr. 14 der Richtlinie 2004/39/EG des Europ\u00e4ischen Parlaments und des Rates vom 21. April 2004 \u00fcber M\u00e4rkte f\u00fcr Finanzinstrumente, zur \u00c4nderung der Richtlinien 85/611/EWG und 93/6/EWG des Rates und der Richtlinie 2000/12/EG des Europ\u00e4ischen Parlaments und des Rates und zur Aufhebung der Richtlinie 93/22/EWG des Rates (ABl. EU Nr. L 145 S. 1) in einem anderen Staat des Europ\u00e4ischen Wirtschaftsraums.</P><P>(8) Der Europ\u00e4ische Wirtschaftsraum umfasst die Staaten der Europ\u00e4ischen Gemeinschaften sowie die Staaten des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Allgemeine Grunds\u00e4tze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000200000"
+        },
+        "body": "<P>(1) Inhaber von Wertpapieren der Zielgesellschaft, die derselben Gattung angeh\u00f6ren, sind gleich zu behandeln.</P><P>(2) Inhaber von Wertpapieren der Zielgesellschaft m\u00fcssen \u00fcber gen\u00fcgend Zeit und ausreichende Informationen verf\u00fcgen, um in Kenntnis der Sachlage \u00fcber das Angebot entscheiden zu k\u00f6nnen.</P><P>(3) Vorstand und Aufsichtsrat der Zielgesellschaft m\u00fcssen im Interesse der Zielgesellschaft handeln.</P><P>(4) Der Bieter und die Zielgesellschaft haben das Verfahren rasch durchzuf\u00fchren. Die Zielgesellschaft darf nicht \u00fcber einen angemessenen Zeitraum hinaus in ihrer Gesch\u00e4ftst\u00e4tigkeit behindert werden.</P><P>(5) Beim Handel mit Wertpapieren der Zielgesellschaft, der Bietergesellschaft oder anderer durch das Angebot betroffener Gesellschaften d\u00fcrfen keine Marktverzerrungen geschaffen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG000301377",
+        "name": "Abschnitt 2",
+        "title": "Zust\u00e4ndigkeit der Bundesanstalt f\u00fcr\nFinanzdienstleistungsaufsicht",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000402377",
+        "name": "\u00a7 4",
+        "title": "Aufgaben und Befugnisse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000301377"
+        },
+        "body": "<P>(1) Die Bundesanstalt \u00fcbt die Aufsicht bei Angeboten nach den Vorschriften dieses Gesetzes aus. Sie hat im Rahmen der ihr zugewiesenen Aufgaben Missst\u00e4nden entgegenzuwirken, welche die ordnungsm\u00e4\u00dfige Durchf\u00fchrung des Verfahrens beeintr\u00e4chtigen oder erhebliche Nachteile f\u00fcr den Wertpapiermarkt bewirken k\u00f6nnen. Die Bundesanstalt kann Anordnungen treffen, die geeignet und erforderlich sind, diese Missst\u00e4nde zu beseitigen oder zu verhindern.</P><P>(2) Die Bundesanstalt nimmt die ihr nach diesem Gesetz zugewiesenen Aufgaben und Befugnisse nur im \u00f6ffentlichen Interesse wahr.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000507360",
+        "name": "\u00a7 5",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000301377"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000603360",
+        "name": "\u00a7 6",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000301377"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000704360",
+        "name": "\u00a7 7",
+        "title": "Zusammenarbeit mit Aufsichtsbeh\u00f6rden im Inland",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000301377"
+        },
+        "body": "<P>(1) Das Bundeskartellamt und die Bundesanstalt haben einander die f\u00fcr die Erf\u00fcllung ihrer Aufgaben erforderlichen Informationen mitzuteilen. Die Bundesanstalt \u00fcbermittelt dem Bundesministerium f\u00fcr Wirtschaft und Energie die ihr nach \u00a7 10 Abs. 2 Satz 1 Nr. 3 und \u00a7 35 Abs. 1 Satz 4 mitgeteilten Informationen und auf Ersuchen dieser Beh\u00f6rde die ihr nach \u00a7 14 Abs. 1 Satz 1 oder \u00a7 35 Abs. 2 Satz 1 \u00fcbermittelte Angebotsunterlage. Bei der \u00dcbermittlung personenbezogener Daten ist \u00a7 25 Absatz 1 und 3 des Bundesdatenschutzgesetzes anzuwenden.</P><P>(2) Die Bundesanstalt kann sich bei der Durchf\u00fchrung ihrer Aufgaben nach diesem Gesetz privater Personen und Einrichtungen bedienen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000803360",
+        "name": "\u00a7 8",
+        "title": "Zusammenarbeit mit zust\u00e4ndigen Stellen im Ausland",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000301377"
+        },
+        "body": "<P>(1) Der Bundesanstalt obliegt die Zusammenarbeit mit den f\u00fcr die \u00dcberwachung von Angeboten zum Erwerb von Wertpapieren, B\u00f6rsen oder anderen Wertpapier- oder Derivatem\u00e4rkten sowie den Handel in Wertpapieren und Derivaten zust\u00e4ndigen Stellen anderer Staaten.</P><P>(2) Im Rahmen der Zusammenarbeit nach Absatz 1 darf die Bundesanstalt Tatsachen \u00fcbermitteln, die f\u00fcr die \u00dcberwachung von Angeboten zum Erwerb von Wertpapieren oder damit zusammenh\u00e4ngender Verwaltungs oder Gerichtsverfahren erforderlich sind; hierbei kann sie von ihren Befugnissen nach \u00a7 40 Abs. 1 und 2 Gebrauch machen. Bei der \u00dcbermittlung personenbezogener Daten hat die Bundesanstalt den Zweck zu bestimmen, f\u00fcr den diese verarbeitet werden d\u00fcrfen. Der Empf\u00e4nger ist darauf hinzuweisen, dass die Daten nur zu dem Zweck verarbeitet werden d\u00fcrfen, zu dessen Erf\u00fcllung sie \u00fcbermittelt wurden. Eine \u00dcbermittlung unterbleibt, soweit Grund zu der Annahme besteht, dass durch sie gegen den Zweck eines deutschen Gesetzes versto\u00dfen wird. Die \u00dcbermittlung unterbleibt au\u00dferdem, wenn durch sie schutzw\u00fcrdige Interessen der betroffenen Person beeintr\u00e4chtigt w\u00fcrden, insbesondere wenn im Empf\u00e4ngerland ein angemessener Datenschutzstandard nicht gew\u00e4hrleistet w\u00e4re. Die \u00dcbermittlung personenbezogener Daten an Drittl\u00e4nder und internationale Organisationen muss im Einklang mit Kapitel V der Verordnung (EU) 2016/679 des Europ\u00e4ischen Parlaments und des Rates vom 27. April 2016 zum Schutz nat\u00fcrlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L\u00a0119 vom 4.5.2016, S.\u00a01; L\u00a0314 vom 22.11.2016, S.\u00a072; L\u00a0127 vom 23.5.2018, S. 2) in der jeweils geltenden Fassung und mit den sonstigen allgemeinen datenschutzrechtlichen Vorschriften stehen.</P><P>(3) Werden der Bundesanstalt von einer Stelle eines anderen Staates personenbezogene Daten mitgeteilt, so d\u00fcrfen diese nur unter Beachtung der Zweckbestimmung durch diese Stelle verarbeitet werden. Die Bundesanstalt darf die Daten unter Beachtung der Zweckbestimmung den B\u00f6rsenaufsichtsbeh\u00f6rden und den Handels\u00fcberwachungsstellen der B\u00f6rsen mitteilen.</P><P>(4) Die Regelungen \u00fcber die internationale Rechtshilfe in Strafsachen bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE000906360",
+        "name": "\u00a7 9",
+        "title": "Verschwiegenheitspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000301377"
+        },
+        "body": "<P>(1) Die bei der Bundesanstalt und bei Einrichtungen nach \u00a7 7 Abs. 2 Besch\u00e4ftigten und die Personen, derer sich die Bundesanstalt nach \u00a7 7 Abs. 2 bedient, d\u00fcrfen ihnen bei ihrer T\u00e4tigkeit bekannt gewordene Tatsachen, deren Geheimhaltung im Interesse eines nach diesem Gesetz Verpflichteten, der zust\u00e4ndigen Beh\u00f6rden oder eines Dritten liegt, insbesondere Gesch\u00e4fts- und Betriebsgeheimnisse, sowie personenbezogene Daten auch nach Beendigung ihres Dienstverh\u00e4ltnisses oder ihrer T\u00e4tigkeit nicht unbefugt offenbaren oder verwerten. Dies gilt auch f\u00fcr andere Personen, die durch dienstliche Berichterstattung Kenntnis von den in Satz 1 bezeichneten Tatsachen erhalten. Ein unbefugtes Offenbaren oder Verwerten im Sinne des Satzes 1 liegt insbesondere nicht vor, wenn Tatsachen weitergegeben werden an <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Strafverfolgungsbeh\u00f6rden oder f\u00fcr Straf und Bu\u00df-geldsachen zust\u00e4ndige Gerichte,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Stellen, die kraft Gesetzes oder im \u00f6ffentlichen Auftrag mit der Bek\u00e4mpfung von Wettbewerbsbeschr\u00e4nkungen, der \u00dcberwachung von Angeboten zum Erwerb von Wertpapieren oder der \u00dcberwachung von B\u00f6rsen oder anderen Wertpapier- oder Derivatem\u00e4rkten, des Wertpapier- oder Derivatehandels, von Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten, Investmentgesellschaften, Finanzunternehmen oder Versicherungsunternehmen betraut sind, sowie von solchen Stellen beauftragte Personen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesministerium f\u00fcr Wirtschaft und Energie,</LA></DD></DL>soweit die Tatsachen f\u00fcr die Erf\u00fcllung der Aufgaben dieser Stellen oder Personen erforderlich sind. F\u00fcr die bei den in Satz 3 genannten Stellen besch\u00e4ftigten oder von ihnen beauftragten Personen gilt die Verschwiegenheitspflicht nach den S\u00e4tzen 1 bis 3 entsprechend. An eine ausl\u00e4ndische Stelle d\u00fcrfen die Tatsachen nur weitergegeben werden, wenn diese Stelle und die von ihr beauftragten Personen einer den S\u00e4tzen 1 bis 3 entsprechenden Verschwiegenheitspflicht unterliegen.</P><P>(2) Die \u00a7\u00a7 93, 97 und 105 Absatz 1, \u00a7 111 Absatz 5 in Verbindung mit \u00a7 105 Absatz 1 sowie \u00a7 116 Absatz 1 der Abgabenordnung gelten f\u00fcr die in Absatz 1 Satz 1 und 2 bezeichneten Personen nur, soweit die Finanzbeh\u00f6rden die Kenntnisse f\u00fcr die Durchf\u00fchrung eines Verfahrens wegen einer Steuerstraftat sowie eines damit zusammenh\u00e4ngenden Besteuerungsverfahrens ben\u00f6tigen. Die in Satz 1 genannten Vorschriften sind jedoch nicht anzuwenden, soweit Tatsachen betroffen sind, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die den in Absatz 1 Satz 1 oder Satz 2 bezeichneten Personen durch eine Stelle eines anderen Staates im Sinne von Absatz 1 Satz 3 Nummer 2 oder durch von dieser Stelle beauftragte Personen mitgeteilt worden sind oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">von denen bei der Bundesanstalt besch\u00e4ftigte Personen dadurch Kenntnis erlangen, dass sie an der Aufsicht \u00fcber direkt von der Europ\u00e4ischen Zentralbank beaufsichtigte Institute mitwirken, insbesondere in gemeinsamen Aufsichtsteams nach Artikel 2 Nummer 6 der Verordnung (EU) Nr. 468/2014 der Europ\u00e4ischen Zentralbank vom 16. April 2014 zur Einrichtung eines Rahmenwerks f\u00fcr die Zusammenarbeit zwischen der Europ\u00e4ischen Zentralbank und den nationalen zust\u00e4ndigen Beh\u00f6rden und den nationalen benannten Beh\u00f6rden innerhalb des einheitlichen Aufsichtsmechanismus (SSM-Rahmenverordnung) (EZB/2014/17) (ABl. L 141 vom 14.5.2014, S. 1), und die nach den Regeln der Europ\u00e4ischen Zentralbank geheim sind.</LA></DD></DL></P><P>(3) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG000400000",
+        "name": "Abschnitt 3",
+        "title": "Angebote zum Erwerb von Wertpapieren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001006360",
+        "name": "\u00a7 10",
+        "title": "Ver\u00f6ffentlichung der Entscheidung zur Abgabe eines Angebots",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Der Bieter hat seine Entscheidung zur Abgabe eines Angebots unverz\u00fcglich gem\u00e4\u00df Absatz 3 Satz 1 zu ver\u00f6ffentlichen. Die Verpflichtung nach Satz 1 besteht auch, wenn f\u00fcr die Entscheidung nach Satz 1 der Beschluss der Gesellschafterversammlung des Bieters erforderlich ist und ein solcher Beschluss noch nicht erfolgt ist. Die Bundesanstalt kann dem Bieter auf Antrag abweichend von Satz 2 gestatten, eine Ver\u00f6ffentlichung erst nach dem Beschluss der Gesellschafterversammlung vorzunehmen, wenn der Bieter durch geeignete Vorkehrungen sicherstellt, dass dadurch Marktverzerrungen nicht zu bef\u00fcrchten sind.</P><P>(2) Der Bieter hat die Entscheidung nach Absatz 1 Satz 1 vor der Ver\u00f6ffentlichung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Gesch\u00e4ftsf\u00fchrungen der B\u00f6rsen, an denen Wertpapiere des Bieters, der Zielgesellschaft und anderer durch das Angebot unmittelbar betroffener Gesellschaften zum Handel zugelassen sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Gesch\u00e4ftsf\u00fchrungen der B\u00f6rsen, an denen Derivate im Sinne des \u00a7 2 Absatz 3 des Wertpapierhandelsgesetzes gehandelt werden, sofern die Wertpapiere Gegenstand der Derivate sind, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bundesanstalt</LA></DD></DL>mitzuteilen. Die Gesch\u00e4ftsf\u00fchrungen d\u00fcrfen die ihnen nach Satz 1 mitgeteilten Entscheidungen vor der Ver\u00f6ffentlichung nur zum Zwecke der Entscheidung verwenden, ob die Feststellung des B\u00f6rsenpreises auszusetzen oder einzustellen ist. Die Bundesanstalt kann gestatten, dass Bieter mit Wohnort oder Sitz im Ausland die Mitteilung nach Satz 1 gleichzeitig mit der Ver\u00f6ffentlichung vornehmen, wenn dadurch die Entscheidungen der Gesch\u00e4ftsf\u00fchrungen \u00fcber die Aussetzung oder Einstellung der Feststellung des B\u00f6rsenpreises nicht beeintr\u00e4chtigt werden.</P><P>(3) Die Ver\u00f6ffentlichung der Entscheidung nach Absatz 1 Satz 1 ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">durch Bekanntgabe im Internet und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber ein elektronisch betriebenes Informationsverbreitungssystem, das bei Kreditinstituten, Finanzdienstleistungsinstituten, Wertpapierinstituten, nach \u00a7 53 Abs. 1 des Gesetzes \u00fcber das Kreditwesen t\u00e4tigen Unternehmen, anderen Unternehmen, die ihren Sitz im Inland haben und an einer inl\u00e4ndischen B\u00f6rse zur Teilnahme am Handel zugelassen sind, und Versicherungsunternehmen weit verbreitet ist,</LA></DD></DL>in deutscher Sprache vorzunehmen. Dabei hat der Bieter auch die Adresse anzugeben, unter der die Ver\u00f6ffentlichung der Angebotsunterlage im Internet nach \u00a7 14 Abs. 3 Satz 1 Nr. 1 erfolgen wird. Eine Ver\u00f6ffentlichung in anderer Weise darf nicht vor der Ver\u00f6ffentlichung nach Satz 1 vorgenommen werden.</P><P>(4) Der Bieter hat die Ver\u00f6ffentlichung nach Absatz 3 Satz 1 unverz\u00fcglich den Gesch\u00e4ftsf\u00fchrungen der in Absatz 2 Satz 1 Nr. 1 und 2 erfassten B\u00f6rsen und der Bundesanstalt zu \u00fcbersenden. Dies gilt nicht, soweit die Bundesanstalt nach Absatz 2 Satz 3 gestattet hat, die Mitteilung nach Absatz 2 Satz 1 gleichzeitig mit der Ver\u00f6ffentlichung vorzunehmen.</P><P>(5) Der Bieter hat dem Vorstand der Zielgesellschaft unverz\u00fcglich nach der Ver\u00f6ffentlichung nach Absatz 3 Satz 1 die Entscheidung zur Abgabe eines Angebots schriftlich mitzuteilen. Der Vorstand der Zielgesellschaft unterrichtet den zust\u00e4ndigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar die Arbeitnehmer, unverz\u00fcglich \u00fcber die Mitteilung nach Satz 1. Der Bieter hat die Entscheidung zur Abgabe eines Angebots ebenso seinem zust\u00e4ndigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern unverz\u00fcglich nach der Ver\u00f6ffentlichung nach Absatz 3 Satz 1 mitzuteilen.</P><P>(6) Artikel 17 der Verordnung (EU) Nr. 596/2014 des Europ\u00e4ischen Parlaments und des Rates vom 16. April 2014 \u00fcber Marktmissbrauch (Marktmissbrauchsverordnung) und zur Aufhebung der Richtlinie 2003/6/EG des Europ\u00e4ischen Parlaments und des Rates und der Richtlinien 2003/124/EG, 2003/125/EG und 2004/72/EG der Kommission (ABl. L 173 vom 12.6.2014, S. 1) in der jeweils geltenden Fassung gilt nicht f\u00fcr Entscheidungen zur Abgabe eines Angebots, soweit letztere unter Beachtung des Artikels 2 Absatz 1 der Durchf\u00fchrungsverordnung (EU) 2016/1055 der Kommission vom 29. Juni 2016 zur Festlegung technischer Durchf\u00fchrungsstandards hinsichtlich der technischen Mittel f\u00fcr die angemessene Bekanntgabe von Insiderinformationen und f\u00fcr den Aufschub der Bekanntgabe von Insiderinformationen gem\u00e4\u00df Verordnung (EU) Nr. 596/2014 des Europ\u00e4ischen Parlaments und des Rates (ABl. L 173 vom 30.6.2016, S. 47) in der jeweils geltenden Fassung und des \u00a7 3a der Wertpapierhandelsanzeigeverordnung ver\u00f6ffentlicht wurden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001102377",
+        "name": "\u00a7 11",
+        "title": "Angebotsunterlage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Der Bieter hat eine Unterlage \u00fcber das Angebot (Angebotsunterlage) zu erstellen und zu ver\u00f6ffentlichen. Die Angebotsunterlage muss die Angaben enthalten, die notwendig sind, um in Kenntnis der Sachlage \u00fcber das Angebot entscheiden zu k\u00f6nnen. Die Angaben m\u00fcssen richtig und vollst\u00e4ndig sein. Die Angebotsunterlage ist in deutscher Sprache und in einer Form abzufassen, die ihr Verst\u00e4ndnis und ihre Auswertung erleichtert. Sie ist von dem Bieter zu unterzeichnen.</P><P>(2) Die Angebotsunterlage hat den Inhalt des Angebots und erg\u00e4nzende Angaben zu enthalten. Angaben \u00fcber den Inhalt des Angebots sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name oder Firma und Anschrift oder Sitz sowie, wenn es sich um eine Gesellschaft handelt, die Rechtsform des Bieters,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Firma, Sitz und Rechtsform der Zielgesellschaft,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Wertpapiere, die Gegenstand des Angebots sind,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art und H\u00f6he der f\u00fcr die Wertpapiere der Zielgesellschaft gebotenen Gegenleistung,</LA></DD> <DT>4a.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he der f\u00fcr den Entzug von Rechten gebotenen Entsch\u00e4digung nach \u00a7 33b Abs. 4,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bedingungen, von denen die Wirksamkeit des Angebots abh\u00e4ngt,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Beginn und das Ende der Annahmefrist.</LA></DD> </DL>Erg\u00e4nzende Angaben sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zu den notwendigen Ma\u00dfnahmen, die sicherstellen, dass dem Bieter die zur vollst\u00e4ndigen Erf\u00fcllung des Angebots notwendigen Mittel zur Verf\u00fcgung stehen, und zu den erwarteten Auswirkungen eines erfolgreichen Angebots auf die Verm\u00f6gens-, Finanz- und Ertragslage des Bieters,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber die Absichten des Bieters im Hinblick auf die k\u00fcnftige Gesch\u00e4ftst\u00e4tigkeit der Zielgesellschaft sowie, soweit von dem Angebot betroffen, des Bieters, insbesondere den Sitz und den Standort wesentlicher Unternehmensteile, die Verwendung des Verm\u00f6gens, k\u00fcnftige Verpflichtungen, die Arbeitnehmer und deren Vertretungen, die Mitglieder der Gesch\u00e4ftsf\u00fchrungsorgane und wesentliche \u00c4nderungen der Besch\u00e4ftigungsbedingungen einschlie\u00dflich der insoweit vorgesehenen Ma\u00dfnahmen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber Geldleistungen oder andere geldwerte Vorteile, die Vorstands- oder Aufsichtsratsmitgliedern der Zielgesellschaft gew\u00e4hrt oder in Aussicht gestellt werden,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Best\u00e4tigung nach \u00a7 13 Abs. 1 Satz 2 unter Angabe von Firma, Sitz und Rechtsform des Wertpapierdienstleistungsunternehmens.</LA></DD> </DL>(3) Die Angebotsunterlage muss Namen und Anschrift, bei juristischen Personen oder Gesellschaften Firma, Sitz und Rechtsform, der Personen oder Gesellschaften auff\u00fchren, die f\u00fcr den Inhalt der Angebotsunterlage die Verantwortung \u00fcbernehmen; sie muss eine Erkl\u00e4rung dieser Personen oder Gesellschaften enthalten, dass ihres Wissens die Angaben richtig und keine wesentlichen Umst\u00e4nde ausgelassen sind.</P><P>(4) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">n\u00e4here Bestimmungen \u00fcber die Gestaltung und die in die Angebotsunterlage aufzunehmenden Angaben erlassen und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">weitere erg\u00e4nzende Angaben vorschreiben, soweit dies notwendig ist, um den Empf\u00e4ngern des Angebots ein zutreffendes und vollst\u00e4ndiges Urteil \u00fcber den Bieter, die mit ihm gemeinsam handelnden Personen und das Angebot zu erm\u00f6glichen.</LA></DD> </DL> </P><P>(5) Das Bundesministerium der Finanzen kann die Erm\u00e4chtigung nach Absatz 4 durch Rechtsverordnung auf die Bundesanstalt \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE007000377",
+        "name": "\u00a7 11a",
+        "title": "Europ\u00e4ischer Pass",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>Die von der zust\u00e4ndigen Aufsichtsstelle eines anderen Staates des Europ\u00e4ischen Wirtschaftsraums gebilligte Angebotsunterlage \u00fcber ein europ\u00e4isches Angebot zum Erwerb von Wertpapieren einer Zielgesellschaft im Sinne des \u00a7 2 Abs. 3 Nr. 2, deren Wertpapiere auch im Inland zum Handel an einem organisierten Markt zugelassen sind, wird im Inland ohne zus\u00e4tzliches Billigungsverfahren anerkannt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001202123",
+        "name": "\u00a7 12",
+        "title": "Haftung f\u00fcr die Angebotsunterlage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Sind f\u00fcr die Beurteilung des Angebots wesentliche Angaben der Angebotsunterlage unrichtig oder unvollst\u00e4ndig, so kann derjenige, der das Angebot angenommen hat oder dessen Aktien dem Bieter nach \u00a7 39a \u00fcbertragen worden sind, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">von denjenigen, die f\u00fcr die Angebotsunterlage die Verantwortung \u00fcbernommen haben, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">von denjenigen, von denen der Erlass der Angebotsunterlage ausgeht,</LA></DD></DL>als Gesamtschuldnern den Ersatz des ihm aus der Annahme des Angebots oder \u00dcbertragung der Aktien entstandenen Schadens verlangen.</P><P>(2) Nach Absatz 1 kann nicht in Anspruch genommen werden, wer nachweist, dass er die Unrichtigkeit oder Unvollst\u00e4ndigkeit der Angaben der Angebotsunterlage nicht gekannt hat und die Unkenntnis nicht auf grober Fahrl\u00e4ssigkeit beruht.</P><P>(3) Der Anspruch nach Absatz 1 besteht nicht, sofern <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Annahme des Angebots nicht auf Grund der Angebotsunterlage erfolgt ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">derjenige, der das Angebot angenommen hat, die Unrichtigkeit oder Unvollst\u00e4ndigkeit der Angaben der Angebotsunterlage bei der Abgabe der Annahmeerkl\u00e4rung kannte oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">vor der Annahme des Angebots in einer Ver\u00f6ffentlichung nach Artikel 17 der Verordnung (EU) Nr. 596/2014 oder einer vergleichbaren Bekanntmachung eine deutlich gestaltete Berichtigung der unrichtigen oder unvollst\u00e4ndigen Angaben im Inland ver\u00f6ffentlicht wurde.</LA></DD></DL></P><P>(4) Der Anspruch nach Absatz 1 verj\u00e4hrt in einem Jahr seit dem Zeitpunkt, zu dem derjenige, der das Angebot angenommen hat oder dessen Aktien dem Bieter nach \u00a7 39a \u00fcbertragen worden sind, von der Unrichtigkeit oder Unvollst\u00e4ndigkeit der Angaben der Angebotsunterlage Kenntnis erlangt hat, sp\u00e4testens jedoch in drei Jahren seit der Ver\u00f6ffentlichung der Angebotsunterlage.</P><P>(5) Eine Vereinbarung, durch die der Anspruch nach Absatz 1 im Voraus erm\u00e4\u00dfigt oder erlassen wird, ist unwirksam.</P><P>(6) Weitergehende Anspr\u00fcche, die nach den Vorschriften des b\u00fcrgerlichen Rechts auf Grund von Vertr\u00e4gen oder vors\u00e4tzlichen unerlaubten Handlungen erhoben werden k\u00f6nnen, bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001300000",
+        "name": "\u00a7 13",
+        "title": "Finanzierung des Angebots",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Der Bieter hat vor der Ver\u00f6ffentlichung der Angebotsunterlage die notwendigen Ma\u00dfnahmen zu treffen, um sicherzustellen, dass ihm die zur vollst\u00e4ndigen Erf\u00fcllung des Angebots notwendigen Mittel zum Zeitpunkt der F\u00e4lligkeit des Anspruchs auf die Gegenleistung zur Verf\u00fcgung stehen. F\u00fcr den Fall, dass das Angebot als Gegenleistung die Zahlung einer Geldleistung vorsieht, ist durch ein vom Bieter unabh\u00e4ngiges Wertpapierdienstleistungsunternehmen schriftlich zu best\u00e4tigen, dass der Bieter die notwendigen Ma\u00dfnahmen getroffen hat, um sicherzustellen, dass die zur vollst\u00e4ndigen Erf\u00fcllung des Angebots notwendigen Mittel zum Zeitpunkt der F\u00e4lligkeit des Anspruchs auf die Geldleistung zur Verf\u00fcgung stehen.</P><P>(2) Hat der Bieter die nach Absatz 1 Satz 2 notwendigen Ma\u00dfnahmen nicht getroffen und stehen ihm zum Zeitpunkt der F\u00e4lligkeit des Anspruchs auf die Geldleistung aus diesem Grunde die notwendigen Mittel nicht zur Verf\u00fcgung, so kann derjenige, der das Angebot angenommen hat, von dem Wertpapierdienstleistungsunternehmen, das die schriftliche Best\u00e4tigung erteilt hat, den Ersatz des ihm aus der nicht vollst\u00e4ndigen Erf\u00fcllung entstandenen Schadens verlangen.</P><P>(3) \u00a7 12 Abs. 2 bis 6 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001404360",
+        "name": "\u00a7 14",
+        "title": "\u00dcbermittlung und Ver\u00f6ffentlichung der Angebotsunterlage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Der Bieter hat die Angebotsunterlage innerhalb von vier Wochen nach der Ver\u00f6ffentlichung der Entscheidung zur Abgabe eines Angebots der Bundesanstalt zu \u00fcbermitteln. Die Bundesanstalt best\u00e4tigt dem Bieter den Tag des Eingangs der Angebotsunterlage. Die Bundesanstalt kann die Frist nach Satz 1 auf Antrag um bis zu vier Wochen verl\u00e4ngern, wenn dem Bieter die Einhaltung der Frist nach Satz 1 auf Grund eines grenz\u00fcberschreitenden Angebots oder erforderlicher Kapitalma\u00dfnahmen nicht m\u00f6glich ist.</P><P>(2) Die Angebotsunterlage ist gem\u00e4\u00df Absatz 3 Satz 1 unverz\u00fcglich zu ver\u00f6ffentlichen, wenn die Bundesanstalt die Ver\u00f6ffentlichung gestattet hat oder wenn seit dem Eingang der Angebotsunterlage zehn Werktage verstrichen sind, ohne dass die Bundesanstalt das Angebot untersagt hat. Vor der Ver\u00f6ffentlichung nach Satz 1 darf die Angebotsunterlage nicht bekannt gegeben werden. Die Bundesanstalt kann vor einer Untersagung des Angebots die Frist nach Satz 1 um bis zu f\u00fcnf Werktage verl\u00e4ngern, wenn die Angebotsunterlage nicht vollst\u00e4ndig ist oder sonst den Vorschriften dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung nicht entspricht.</P><P>(3) Die Angebotsunterlage ist zu ver\u00f6ffentlichen durch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bekanntgabe im Internet und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bekanntgabe im Bundesanzeiger oder durch Bereithalten zur kostenlosen Ausgabe bei einer geeigneten Stelle im Inland; im letzteren Fall ist im Bundesanzeiger bekannt zu machen, bei welcher Stelle die Angebotsunterlage bereit gehalten wird und unter welcher Adresse die Ver\u00f6ffentlichung der Angebotsunterlage im Internet nach Nummer 1 erfolgt ist.</LA></DD></DL>Der Bieter hat der Bundesanstalt die Ver\u00f6ffentlichung nach Satz 1 Nr. 2 unverz\u00fcglich mitzuteilen.</P><P>(4) Der Bieter hat die Angebotsunterlage dem Vorstand der Zielgesellschaft unverz\u00fcglich nach der Ver\u00f6ffentlichung nach Absatz 3 Satz 1 zu \u00fcbermitteln. Der Vorstand der Zielgesellschaft hat die Angebotsunterlage unverz\u00fcglich dem zust\u00e4ndigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern zu \u00fcbermitteln. Der Bieter hat die Angebotsunterlage ebenso seinem zust\u00e4ndigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern unverz\u00fcglich nach der Ver\u00f6ffentlichung nach Absatz 3 Satz 1 zu \u00fcbermitteln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001502360",
+        "name": "\u00a7 15",
+        "title": "Untersagung des Angebots",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Die Bundesanstalt untersagt das Angebot, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angebotsunterlage nicht die Angaben enth\u00e4lt, die nach \u00a7 11 Abs. 2 oder einer auf Grund des \u00a7 11 Abs. 4 erlassenen Rechtsverordnung erforderlich sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die in der Angebotsunterlage enthaltenen Angaben offensichtlich gegen Vorschriften dieses Gesetzes oder einer auf Grund dieses Gesetzes erlassenen Rechtsverordnung versto\u00dfen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bieter entgegen \u00a7 14 Abs. 1 Satz 1 der Bundesanstalt keine Angebotsunterlage \u00fcbermittelt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bieter entgegen \u00a7 14 Abs. 2 Satz 1 die Angebotsunterlage nicht ver\u00f6ffentlicht hat oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ver\u00f6ffentlichung der Angebotsunterlage gegen die Sperrfristen nach \u00a7 26 Absatz 1 oder 2 verst\u00f6\u00dft oder der Bieter entgegen \u00a7 26 Absatz 1 oder 2 die Entscheidung zur Ver\u00f6ffentlichung eines Angebots nach \u00a7 10 Absatz 3 Satz 1 ver\u00f6ffentlicht hat.</LA></DD></DL></P><P>(2) Die Bundesanstalt kann das Angebot untersagen, wenn der Bieter die Ver\u00f6ffentlichung nicht in der in \u00a7 14 Abs. 3 Satz 1 vorgeschriebenen Form vornimmt.</P><P>(3) Ist das Angebot nach Absatz 1 oder 2 untersagt worden, so ist die Ver\u00f6ffentlichung der Angebotsunterlage verboten. Ein Rechtsgesch\u00e4ft auf Grund eines nach Absatz 1 oder 2 untersagten Angebots ist nichtig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001606360",
+        "name": "\u00a7 16",
+        "title": "Annahmefristen; Einberufung der Hauptversammlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Die Frist f\u00fcr die Annahme des Angebots (Annahmefrist) darf nicht weniger als vier Wochen und unbeschadet der Vorschriften des \u00a7 21 Abs. 5 und \u00a7 22 Abs. 2 nicht mehr als zehn Wochen betragen. Die Annahmefrist beginnt mit der Ver\u00f6ffentlichung der Angebotsunterlage gem\u00e4\u00df \u00a7 14 Abs. 3 Satz 1.</P><P>(2) Bei einem \u00dcbernahmeangebot k\u00f6nnen die Aktion\u00e4re der Zielgesellschaft, die das Angebot nicht angenommen haben, das Angebot innerhalb von zwei Wochen nach der in \u00a7 23 Abs. 1 Satz 1 Nr. 2 genannten Ver\u00f6ffentlichung (weitere Annahmefrist) annehmen. Satz 1 gilt nicht, wenn der Bieter das Angebot von dem Erwerb eines Mindestanteils der Aktien abh\u00e4ngig gemacht hat und dieser Mindestanteil nach Ablauf der Annahmefrist nicht erreicht wurde.</P><P>(3) Wird im Zusammenhang mit dem Angebot nach der Ver\u00f6ffentlichung der Angebotsunterlage eine Hauptversammlung der Zielgesellschaft einberufen, betr\u00e4gt die Annahmefrist unbeschadet der Vorschriften des \u00a7 21 Abs. 5 und \u00a7 22 Abs. 2 zehn Wochen ab der Ver\u00f6ffentlichung der Angebotsunterlage. Der Vorstand der Zielgesellschaft hat die Einberufung der Hauptversammlung der Zielgesellschaft unverz\u00fcglich dem Bieter und der Bundesanstalt mitzuteilen. Der Bieter hat die Mitteilung nach Satz 2 unter Angabe des Ablaufs der Annahmefrist unverz\u00fcglich im Bundesanzeiger zu ver\u00f6ffentlichen. Er hat der Bundesanstalt unverz\u00fcglich die Ver\u00f6ffentlichung mitzuteilen.</P><P>(4) Die Hauptversammlung nach Absatz 3 ist mindestens 14 Tage vor der Versammlung einzuberufen. Der Tag der Einberufung ist nicht mitzurechnen. \u00a7 121 Abs. 7 des Aktiengesetzes gilt entsprechend. Abweichend von \u00a7 121 Abs. 5 des Aktiengesetzes und etwaigen Bestimmungen der Satzung ist die Gesellschaft bei der Wahl des Versammlungsortes frei. Wird die Frist des \u00a7 123 Abs. 1 des Aktiengesetzes unterschritten, so m\u00fcssen zwischen Anmeldung und Versammlung mindestens vier Tage liegen und sind Mitteilungen nach \u00a7 125 Abs. 1 Satz 1 des Aktiengesetzes unverz\u00fcglich zu machen; \u00a7 121 Abs. 7, \u00a7 123 Abs. 2 Satz 4 und \u00a7 125 Abs. 1 Satz 2 des Aktiengesetzes gelten entsprechend. Die Gesellschaft hat den Aktion\u00e4ren die Erteilung von Stimmrechtsvollmachten soweit nach Gesetz und Satzung m\u00f6glich zu erleichtern. Mitteilungen an die Aktion\u00e4re, ein Bericht nach \u00a7 186 Abs. 4 Satz 2 des Aktiengesetzes und fristgerecht eingereichte Antr\u00e4ge von Aktion\u00e4ren sind allen Aktion\u00e4ren zug\u00e4nglich und in Kurzfassung bekannt zu machen. Die Zusendung von Mitteilungen kann unterbleiben, wenn zur \u00dcberzeugung des Vorstands mit Zustimmung des Aufsichtsrats der rechtzeitige Eingang bei den Aktion\u00e4ren nicht wahrscheinlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001700000",
+        "name": "\u00a7 17",
+        "title": "Unzul\u00e4ssigkeit der \u00f6ffentlichen Aufforderung zur Abgabe von Angeboten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>Eine \u00f6ffentliche auf den Erwerb von Wertpapieren der Zielgesellschaft gerichtete Aufforderung des Bieters zur Abgabe von Angeboten durch die Inhaber der Wertpapiere ist unzul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001800000",
+        "name": "\u00a7 18",
+        "title": "Bedingungen; Unzul\u00e4ssigkeit des Vorbehalts des R\u00fccktritts und des\nWiderrufs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Ein Angebot darf vorbehaltlich \u00a7 25 nicht von Bedingungen abh\u00e4ngig gemacht werden, deren Eintritt der Bieter, mit ihm gemeinsam handelnde Personen oder deren Tochterunternehmen oder im Zusammenhang mit dem Angebot f\u00fcr diese Personen oder Unternehmen t\u00e4tige Berater ausschlie\u00dflich selbst herbeif\u00fchren k\u00f6nnen.</P><P>(2) Ein Angebot, das unter dem Vorbehalt des Widerrufs oder des R\u00fccktritts abgegeben wird, ist unzul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE001900000",
+        "name": "\u00a7 19",
+        "title": "Zuteilung bei einem Teilangebot",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>Ist bei einem Angebot, das auf den Erwerb nur eines bestimmten Anteils oder einer bestimmten Anzahl der Wertpapiere gerichtet ist, der Anteil oder die Anzahl der Wertpapiere, die der Bieter erwerben kann, h\u00f6her als der Anteil oder die Anzahl der Wertpapiere, die der Bieter zu erwerben sich verpflichtet hat, so sind die Annahmeerkl\u00e4rungen grunds\u00e4tzlich verh\u00e4ltnism\u00e4\u00dfig zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002001377",
+        "name": "\u00a7 20",
+        "title": "Handelsbestand",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Die Bundesanstalt l\u00e4sst auf schriftlichen Antrag des Bieters zu, dass Wertpapiere der Zielgesellschaft bei den erg\u00e4nzenden Angaben nach \u00a7 11 Abs. 4 Nr. 2, den Ver\u00f6ffentlichungspflichten nach \u00a7 23, der Berechnung des Stimmrechtsanteils nach \u00a7 29 Abs. 2 und der Bestimmung der Gegenleistung nach \u00a7 31 Abs. 1, 3 und 4 und der Geldleistung nach \u00a7 31 Abs. 5 unber\u00fccksichtigt bleiben.</P><P>(2) Ein Befreiungsantrag nach Absatz 1 kann gestellt werden, wenn der Bieter, die mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die betreffenden Wertpapiere halten oder zu halten beabsichtigen, um bestehende oder erwartete Unterschiede zwischen dem Erwerbspreis und dem Ver\u00e4u\u00dferungspreis kurzfristig zu nutzen und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">darlegen, dass mit dem Erwerb der Wertpapiere, soweit es sich um stimmberechtigte Aktien handelt, nicht beabsichtigt ist, auf die Gesch\u00e4ftsf\u00fchrung der Gesellschaft Einfluss zu nehmen.</LA></DD> </DL> </P><P>(3) Stimmrechte aus Aktien, die auf Grund einer Befreiung nach Absatz 1 unber\u00fccksichtigt bleiben, k\u00f6nnen nicht ausge\u00fcbt werden, wenn im Falle ihrer Ber\u00fccksichtigung ein Angebot als \u00dcbernahmeangebot abzugeben w\u00e4re oder eine Verpflichtung nach \u00a7 35 Abs. 1 Satz 1 und Abs. 2 Satz 1 best\u00fcnde.</P><P>(4) Beabsichtigt der Bieter Wertpapiere, f\u00fcr die eine Befreiung nach Absatz 1 erteilt worden ist, nicht mehr zu den in Absatz 1 Nr. 1 genannten Zwecken zu halten oder auf die Gesch\u00e4ftsf\u00fchrung der Gesellschaft Einfluss zu nehmen, ist dies der Bundesanstalt unverz\u00fcglich mitzuteilen. Die Bundesanstalt kann die Befreiung nach Absatz 1 au\u00dfer nach den Vorschriften des Verwaltungsverfahrensgesetzes widerrufen, wenn die Verpflichtung nach Satz 1 nicht erf\u00fcllt worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002100000",
+        "name": "\u00a7 21",
+        "title": "\u00c4nderung des Angebots",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Der Bieter kann bis zu einem Werktag vor Ablauf der Annahmefrist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gegenleistung erh\u00f6hen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wahlweise eine andere Gegenleistung anbieten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Mindestanteil oder die Mindestzahl der Wertpapiere oder den Mindestanteil der Stimmrechte, von dessen Erwerb der Bieter die Wirksamkeit seines Angebots abh\u00e4ngig gemacht hat, verringern oder</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Bedingungen verzichten.</LA></DD> </DL>F\u00fcr die Wahrung der Frist nach Satz 1 ist auf die Ver\u00f6ffentlichung der \u00c4nderung nach Absatz 2 abzustellen.</P><P>(2) Der Bieter hat die \u00c4nderung des Angebots unter Hinweis auf das R\u00fccktrittsrecht nach Absatz 4 unverz\u00fcglich gem\u00e4\u00df \u00a7 14 Abs. 3 Satz 1 zu ver\u00f6ffentlichen. \u00a7 14 Abs. 3 Satz 2 und Abs. 4 gilt entsprechend.</P><P>(3) \u00a7 11 Abs. 1 Satz 2 bis 5, Abs. 3, \u00a7\u00a7 12, 13 und 15 Abs.1 Nr. 2 gelten entsprechend.</P><P>(4) Im Falle einer \u00c4nderung des Angebots k\u00f6nnen die Inhaber von Wertpapieren der Zielgesellschaft, die das Angebot vor Ver\u00f6ffentlichung der \u00c4nderung nach Absatz 2 angenommen haben, von dem Vertrag bis zum Ablauf der Annahmefrist zur\u00fccktreten.</P><P>(5) Im Falle einer \u00c4nderung des Angebots verl\u00e4ngert sich die Annahmefrist um zwei Wochen, sofern die Ver\u00f6ffentlichung der \u00c4nderung innerhalb der letzten zwei Wochen vor Ablauf der Angebotsfrist erfolgt. Dies gilt auch, falls das ge\u00e4nderte Angebot gegen Rechtsvorschriften verst\u00f6\u00dft.</P><P>(6) Eine erneute \u00c4nderung des Angebots innerhalb der in Absatz 5 genannten Frist von zwei Wochen ist unzul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002200000",
+        "name": "\u00a7 22",
+        "title": "Konkurrierende Angebote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Konkurrierende Angebote sind Angebote, die w\u00e4hrend der Annahmefrist eines Angebots von einem Dritten abgegeben werden.</P><P>(2) L\u00e4uft im Falle konkurrierender Angebote die Annahmefrist f\u00fcr das Angebot vor Ablauf der Annahmefrist f\u00fcr das konkurrierende Angebot ab, bestimmt sich der Ablauf der Annahmefrist f\u00fcr das Angebot nach dem Ablauf der Annahmefrist f\u00fcr das konkurrierende Angebot. Dies gilt auch, falls das konkurrierende Angebot ge\u00e4ndert oder untersagt wird oder gegen Rechtsvorschriften verst\u00f6\u00dft.</P><P>(3) Inhaber von Wertpapieren der Zielgesellschaft, die das Angebot angenommen haben, k\u00f6nnen bis zum Ablauf der Annahmefrist vom Vertrag zur\u00fccktreten, sofern der Vertragsschluss vor Ver\u00f6ffentlichung der Angebotsunterlage des konkurrierenden Angebots erfolgte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002304123",
+        "name": "\u00a7 23",
+        "title": "Ver\u00f6ffentlichungspflichten des Bieters nach Abgabe des Angebots",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Der Bieter ist verpflichtet, die Anzahl s\u00e4mtlicher ihm, den mit ihm gemeinsam handelnden Personen und deren Tochterunternehmen zustehenden Wertpapiere der Zielgesellschaft einschlie\u00dflich der H\u00f6he der jeweiligen Anteile und der ihm zustehenden und nach \u00a7 30 zuzurechnenden Stimmrechtsanteile und die H\u00f6he der nach den \u00a7\u00a7 38 und 39 des Wertpapierhandelsgesetzes mitzuteilenden Stimmrechtsanteile sowie die sich aus den ihm zugegangenen Annahmeerkl\u00e4rungen ergebende Anzahl der Wertpapiere, die Gegenstand des Angebots sind, einschlie\u00dflich der H\u00f6he der Wertpapier- und Stimmrechtsanteile <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Ver\u00f6ffentlichung der Angebotsunterlage w\u00f6chentlich sowie in der letzten Woche vor Ablauf der Annahmefrist t\u00e4glich,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">unverz\u00fcglich nach Ablauf der Annahmefrist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">unverz\u00fcglich nach Ablauf der weiteren Annahmefrist und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">unverz\u00fcglich nach Erreichen der f\u00fcr einen Ausschluss nach \u00a7 39a Abs. 1 und 2 erforderlichen Beteiligungsh\u00f6he</LA></DD></DL>gem\u00e4\u00df \u00a7 14 Abs. 3 Satz 1 zu ver\u00f6ffentlichen und der Bundesanstalt mitzuteilen. \u00a7 14 Abs. 3 Satz 2 und \u00a7 31 Abs. 6 gelten entsprechend.</P><P>(2) Erwerben bei \u00dcbernahmeangeboten, bei denen der Bieter die Kontrolle \u00fcber die Zielgesellschaft erlangt hat, und bei Pflichtangeboten der Bieter, mit ihm gemeinsam handelnde Personen oder deren Tochterunternehmen nach der Ver\u00f6ffentlichung der Angebotsunterlage und vor Ablauf eines Jahres nach der Ver\u00f6ffentlichung gem\u00e4\u00df Absatz 1 Nr. 2 au\u00dferhalb des Angebotsverfahrens Aktien der Zielgesellschaft, so hat der Bieter die H\u00f6he der erworbenen Aktien- und Stimmrechtsanteile unter Angabe der Art und H\u00f6he der f\u00fcr jeden Anteil gew\u00e4hrten Gegenleistung unverz\u00fcglich gem\u00e4\u00df \u00a7 14 Abs. 3 Satz 1 zu ver\u00f6ffentlichen und der Bundesanstalt mitzuteilen. \u00a7 31 Abs. 6 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002401377",
+        "name": "\u00a7 24",
+        "title": "Grenz\u00fcberschreitende Angebote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>Hat der Bieter bei grenz\u00fcberschreitenden Angeboten zugleich die Vorschriften eines anderen Staates au\u00dferhalb des Europ\u00e4ischen Wirtschaftsraums einzuhalten und ist dem Bieter deshalb ein Angebot an alle Inhaber von Wertpapieren unzumutbar, kann die Bundesanstalt dem Bieter auf Antrag gestatten, bestimmte Inhaber von Wertpapieren mit Wohnsitz, Sitz oder gew\u00f6hnlichem Aufenthalt in dem Staat von dem Angebot auszunehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002500000",
+        "name": "\u00a7 25",
+        "title": "Beschluss der Gesellschafterversammlung des Bieters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>Hat der Bieter das Angebot unter der Bedingung eines Beschlusses seiner Gesellschafterversammlung abgegeben, hat er den Beschluss unverz\u00fcglich, sp\u00e4testens bis zum f\u00fcnften Werktag vor Ablauf der Annahmefrist, herbeizuf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002602360",
+        "name": "\u00a7 26",
+        "title": "Sperrfrist",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Ist ein Angebot nach \u00a7 15 Absatz 1 oder 2 untersagt worden, ist ein weiteres Angebot an die Aktion\u00e4re der Zielgesellschaft sowie die Ver\u00f6ffentlichung einer Entscheidung zur Abgabe eines solchen Angebots gem\u00e4\u00df \u00a7 10 Absatz 3 Satz 1 vor Ablauf eines Jahres durch folgende Personen unzul\u00e4ssig: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Bieter (des untersagten Angebots),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine zum Zeitpunkt der Untersagung mit dem Bieter gemeinsam handelnde Person oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Person, die zum Zeitpunkt der Ver\u00f6ffentlichung nach \u00a7 10 Absatz 3 Satz 1 gemeinsam mit dem Bieter oder einer Person nach Nummer 2 gemeinsam handelt.</LA></DD></DL></P><P>(2) Hat der Bieter ein Angebot von dem Erwerb eines Mindestanteils der Wertpapiere abh\u00e4ngig gemacht und scheitert dieses Angebot, weil dieser Mindestanteil nach Ablauf der Annahmefrist nicht erreicht wurde, ist ein weiteres Angebot an die Aktion\u00e4re der Zielgesellschaft sowie die Ver\u00f6ffentlichung einer Entscheidung zur Abgabe eines solchen Angebots gem\u00e4\u00df \u00a7 10 Absatz 3 Satz 1 vor Ablauf eines Jahres durch folgende Personen unzul\u00e4ssig: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Bieter (des gescheiterten Angebots),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine Person, die zwischen der Ver\u00f6ffentlichung des gescheiterten Angebots nach \u00a7 10 Absatz 3 Satz 1 und dem Ablauf der Annahmefrist mit dem Bieter gemeinsam handelte, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Person, die zum Zeitpunkt der Ver\u00f6ffentlichung nach \u00a7 10 Absatz 3 Satz 1 gemeinsam mit dem Bieter oder einer Person nach Nummer 2 gemeinsam handelt.</LA></DD></DL></P><P>(3) Die Jahresfrist nach Absatz 1 beginnt mit dem Tag der Bekanntgabe des Untersagungsbescheides. Die Jahresfrist nach Absatz 2 beginnt mit dem Tag nach Ablauf der Annahmefrist des gescheiterten Angebots.</P><P>(4) Die Abs\u00e4tze 1 und 2 gelten nicht, wenn der jeweilige Bieter zur Ver\u00f6ffentlichung nach \u00a7 35 Absatz 1 Satz 1 und zur Abgabe eines Angebots nach \u00a7 35 Absatz 2 Satz 1 verpflichtet ist.</P><P>(5) Die Bundesanstalt kann den jeweiligen Bieter auf schriftlichen Antrag von dem Verbot nach den Abs\u00e4tzen 1 oder 2 befreien, wenn die Zielgesellschaft der Befreiung zustimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002702377",
+        "name": "\u00a7 27",
+        "title": "Stellungnahme des Vorstands und Aufsichtsrats der Zielgesellschaft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>(1) Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben eine begr\u00fcndete Stellungnahme zu dem Angebot sowie zu jeder seiner \u00c4nderungen abzugeben. Die Stellungnahme muss insbesondere eingehen auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art und H\u00f6he der angebotenen Gegenleistung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die voraussichtlichen Folgen eines erfolgreichen Angebots f\u00fcr die Zielgesellschaft, die Arbeitnehmer und ihre Vertretungen, die Besch\u00e4ftigungsbedingungen und die Standorte der Zielgesellschaft,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die vom Bieter mit dem Angebot verfolgten Ziele,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Absicht der Mitglieder des Vorstands und des Aufsichtsrats, soweit sie Inhaber von Wertpapieren der Zielgesellschaft sind, das Angebot anzunehmen.</LA></DD> </DL> </P><P>(2) \u00dcbermitteln der zust\u00e4ndige Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar die Arbeitnehmer der Zielgesellschaft dem Vorstand eine Stellungnahme zu dem Angebot, hat der Vorstand unbeschadet seiner Verpflichtung nach Absatz 3 Satz 1 diese seiner Stellungnahme beizuf\u00fcgen.</P><P>(3) Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben die Stellungnahme unverz\u00fcglich nach \u00dcbermittlung der Angebotsunterlage und deren \u00c4nderungen durch den Bieter gem\u00e4\u00df \u00a7 14 Abs. 3 Satz 1 zu ver\u00f6ffentlichen. Sie haben die Stellungnahme gleichzeitig dem zust\u00e4ndigen Betriebsrat oder, sofern ein solcher nicht besteht, unmittelbar den Arbeitnehmern zu \u00fcbermitteln. Der Vorstand und der Aufsichtsrat der Zielgesellschaft haben der Bundesanstalt unverz\u00fcglich die Ver\u00f6ffentlichung gem\u00e4\u00df \u00a7 14 Abs. 3 Satz 1 Nr. 2 mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002802360",
+        "name": "\u00a7 28",
+        "title": "Werbung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000400000"
+        },
+        "body": "<P>Um Missst\u00e4nden bei der Werbung im Zusammenhang mit Angeboten zum Erwerb von Wertpapieren zu begegnen, kann die Bundesanstalt bestimmte Arten der Werbung untersagen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG000500000",
+        "name": "Abschnitt 4",
+        "title": "\u00dcbernahmeangebote",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE002902119",
+        "name": "\u00a7 29",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>(1) \u00dcbernahmeangebote sind Angebote, die auf den Erwerb der Kontrolle gerichtet sind.</P><P>(2) Kontrolle ist das Halten von mindestens 30 Prozent der Stimmrechte an der Zielgesellschaft aus dem Bieter geh\u00f6renden Aktien der Zielgesellschaft oder dem Bieter nach \u00a7 30 zugerechneten Stimmrechten an der Zielgesellschaft. Stimmrechte aus Aktien, die zu einem von einer Kapitalverwaltungsgesellschaft verwalteten Sonderverm\u00f6gen geh\u00f6ren, das kein Spezialsonderverm\u00f6gen ist und dessen Verm\u00f6gensgegenst\u00e4nde im Miteigentum der Anleger stehen, gelten f\u00fcr die Anwendung von Satz 1 als Stimmrechte der Kapitalverwaltungsgesellschaft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003007123",
+        "name": "\u00a7 30",
+        "title": "Zurechnung von Stimmrechten; Verordnungserm\u00e4chtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>(1) Stimmrechten des Bieters stehen Stimmrechte aus Aktien der Zielgesellschaft gleich, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die einem Tochterunternehmen des Bieters geh\u00f6ren,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die einem Dritten geh\u00f6ren und von ihm f\u00fcr Rechnung des Bieters gehalten werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die der Bieter einem Dritten als Sicherheit \u00fcbertragen hat, es sei denn, der Dritte ist zur Aus\u00fcbung der Stimmrechte aus diesen Aktien befugt und bekundet die Absicht, die Stimmrechte unabh\u00e4ngig von den Weisungen des Bieters auszu\u00fcben,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">an denen zugunsten des Bieters ein Nie\u00dfbrauch bestellt ist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die der Bieter durch eine Willenserkl\u00e4rung erwerben kann,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die dem Bieter anvertraut sind oder aus denen er die Stimmrechte als Bevollm\u00e4chtigter aus\u00fcben kann, sofern er die Stimmrechte aus diesen Aktien nach eigenem Ermessen aus\u00fcben kann, wenn keine besonderen Weisungen des Aktion\u00e4rs vorliegen,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus denen der Bieter die Stimmrechte auf Grund einer Vereinbarung, die eine zeitweilige \u00dcbertragung der Stimmrechte ohne die damit verbundenen Aktien gegen Gegenleistung vorsieht, aus\u00fcben kann,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die bei dem Bieter als Sicherheit verwahrt werden, sofern dieser die Stimmrechte h\u00e4lt und die Absicht bekundet, sie auszu\u00fcben.</LA></DD></DL>F\u00fcr die Zurechnung nach Satz 1 Nummer 2 bis 8 stehen dem Bieter Tochterunternehmen des Bieters gleich. Stimmrechte des Tochterunternehmens werden dem Bieter in voller H\u00f6he zugerechnet.</P><P>(2) Dem Bieter werden auch Stimmrechte eines Dritten aus Aktien der Zielgesellschaft in voller H\u00f6he zugerechnet, mit dem der Bieter oder sein Tochterunternehmen sein Verhalten in Bezug auf die Zielgesellschaft auf Grund einer Vereinbarung oder in sonstiger Weise abstimmt; ausgenommen sind Vereinbarungen in Einzelf\u00e4llen. Ein abgestimmtes Verhalten setzt voraus, dass der Bieter oder sein Tochterunternehmen und der Dritte sich \u00fcber die Aus\u00fcbung von Stimmrechten verst\u00e4ndigen oder mit dem Ziel einer dauerhaften und erheblichen \u00c4nderung der unternehmerischen Ausrichtung der Zielgesellschaft in sonstiger Weise zusammenwirken. F\u00fcr die Berechnung des Stimmrechtsanteils des Dritten gilt Absatz 1 entsprechend.</P><P>(3) F\u00fcr die Zurechnung nach dieser Vorschrift gilt ein Wertpapierdienstleistungsunternehmen hinsichtlich der Beteiligungen, die von ihm im Rahmen einer Wertpapierdienstleistung nach \u00a7 2 Absatz 8 Satz 1 Nummer 7 des Wertpapierhandelsgesetzes verwaltet werden, unter den folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne des \u00a7 2 Absatz 6: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Wertpapierdienstleistungsunternehmen \u00fcbt die Stimmrechte, die mit den betreffenden Aktien verbunden sind, unabh\u00e4ngig vom Bieter aus,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Wertpapierdienstleistungsunternehmen <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">darf die Stimmrechte nur aufgrund von in schriftlicher Form oder \u00fcber elektronische Hilfsmittel erteilten Weisungen aus\u00fcben oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">stellt durch geeignete Vorkehrungen sicher, dass die Finanzportfolioverwaltung unabh\u00e4ngig von anderen Dienstleistungen und unter Bedingungen erfolgt, die gleichwertig sind denen der Richtlinie 2009/65/EG des Europ\u00e4ischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen f\u00fcr gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32) in der jeweils geltenden Fassung,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bieter teilt der Bundesanstalt den Namen des Wertpapierdienstleistungsunternehmens und die f\u00fcr dessen \u00dcberwachung zust\u00e4ndige Beh\u00f6rde oder das Fehlen einer solchen Beh\u00f6rde mit und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bieter erkl\u00e4rt gegen\u00fcber der Bundesanstalt, dass die Voraussetzungen der Nummer 1 erf\u00fcllt sind.</LA></DD></DL></P><P>(4) F\u00fcr die Zurechnung nach dieser Vorschrift gelten Kapitalverwaltungsgesellschaften im Sinne des \u00a7 17 Absatz 1 des Kapitalanlagegesetzbuchs und EU-Verwaltungsgesellschaften im Sinne des \u00a7 1 Absatz 17 des Kapitalanlagegesetzbuchs hinsichtlich der Beteiligungen, die zu den von ihnen verwalteten Investmentverm\u00f6gen geh\u00f6ren, unter den folgenden Voraussetzungen nicht als Tochterunternehmen im Sinne des \u00a7 2 Absatz 6: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verwaltungsgesellschaft \u00fcbt ihre Stimmrechte unabh\u00e4ngig vom Bieter aus,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zum verwalteten Investmentverm\u00f6gen geh\u00f6renden Beteiligungen im Sinne der \u00a7\u00a7 29 und 30 werden nach Ma\u00dfgabe der Richtlinie 2009/65/EG des Europ\u00e4ischen Parlaments und des Rates vom 13. Juli 2009 zur Koordinierung der Rechts- und Verwaltungsvorschriften betreffend bestimmte Organismen f\u00fcr gemeinsame Anlagen in Wertpapieren (OGAW) (ABl. L 302 vom 17.11.2009, S. 32), die zuletzt durch die Richtlinie 2014/91/EU (ABl. L 257 vom 28.8.2014, S. 186) ge\u00e4ndert worden ist, verwaltet,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Mutterunternehmen teilt der Bundesanstalt den Namen dieser Verwaltungsgesellschaft und die f\u00fcr deren \u00dcberwachung zust\u00e4ndige Beh\u00f6rde oder das Fehlen einer solchen mit und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Mutterunternehmen erkl\u00e4rt gegen\u00fcber der Bundesanstalt, dass die Voraussetzungen der Nummer 1 erf\u00fcllt sind.</LA></DD></DL></P><P>(5) Ein Unternehmen mit Sitz in einem Drittstaat, das nach \u00a7 32 Absatz 1 Satz 1 in Verbindung mit \u00a7 1 Absatz 1a Satz 2 Nummer 3 des Kreditwesengesetzes einer Zulassung f\u00fcr die Finanzportfolioverwaltung oder einer Erlaubnis nach \u00a7 20 oder \u00a7 113 des Kapitalanlagegesetzbuchs bed\u00fcrfte, wenn es seinen Sitz oder seine Hauptverwaltung im Inland h\u00e4tte, gilt nicht als Tochterunternehmen im Sinne dieses Abschnitts, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Unternehmen bez\u00fcglich seiner Unabh\u00e4ngigkeit Anforderungen gen\u00fcgt, die denen nach Absatz 3 oder Absatz 4, auch in Verbindung mit einer Rechtsverordnung nach Absatz 7, jeweils gleichwertig sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bieter der Bundesanstalt den Namen dieses Unternehmens und die f\u00fcr dessen \u00dcberwachung zust\u00e4ndige Beh\u00f6rde oder das Fehlen einer solchen Beh\u00f6rde mitteilt und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bieter gegen\u00fcber der Bundesanstalt erkl\u00e4rt, dass die Voraussetzungen der Nummer 1 erf\u00fcllt sind.</LA></DD></DL></P><P>(6) Abweichend von den Abs\u00e4tzen 3 bis 5 gelten Wertpapierdienstleistungsunternehmen und Verwaltungsgesellschaften jedoch dann als Tochterunternehmen im Sinne des \u00a7 2 Absatz 6, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bieter oder ein anderes Tochterunternehmen des Bieters seinerseits Anteile an der von dem Unternehmen verwalteten Beteiligung h\u00e4lt und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Unternehmen die Stimmrechte, die mit diesen Beteiligungen verbunden sind, nicht nach freiem Ermessen, sondern nur auf Grund unmittelbarer oder mittelbarer Weisungen aus\u00fcben kann, die ihm vom Bieter oder von einem anderen Tochterunternehmen des Bieters erteilt werden.</LA></DD></DL></P><P>(7) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, n\u00e4here Bestimmungen erlassen \u00fcber die Umst\u00e4nde, unter denen in den F\u00e4llen der Abs\u00e4tze 3 bis 6 eine Unabh\u00e4ngigkeit des Unternehmens vom Bieter gegeben ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003102377",
+        "name": "\u00a7 31",
+        "title": "Gegenleistung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>(1) Der Bieter hat den Aktion\u00e4ren der Zielgesellschaft eine angemessene Gegenleistung anzubieten. Bei der Bestimmung der angemessenen Gegenleistung sind grunds\u00e4tzlich der durchschnittliche B\u00f6rsenkurs der Aktien der Zielgesellschaft und Erwerbe von Aktien der Zielgesellschaft durch den Bieter, mit ihm gemeinsam handelnder Personen oder deren Tochterunternehmen zu ber\u00fccksichtigen.</P><P>(2) Die Gegenleistung hat in einer Geldleistung in Euro oder in liquiden Aktien zu bestehen, die zum Handel an einem organisierten Markt zugelassen sind. Werden Inhabern stimmberechtigter Aktien als Gegenleistung Aktien angeboten, m\u00fcssen diese Aktien ebenfalls ein Stimmrecht gew\u00e4hren.</P><P>(3) Der Bieter hat den Aktion\u00e4ren der Zielgesellschaft eine Geldleistung in Euro anzubieten, wenn er, mit ihm gemeinsam handelnde Personen oder deren Tochterunternehmen in den sechs Monaten vor der Ver\u00f6ffentlichung gem\u00e4\u00df \u00a7 10 Abs. 3 Satz 1 bis zum Ablauf der Annahmefrist insgesamt mindestens 5 Prozent der Aktien oder Stimmrechte an der Zielgesellschaft gegen Zahlung einer Geldleistung erworben haben.</P><P>(4) Erwerben der Bieter, mit ihm gemeinsam handelnde Personen oder deren Tochterunternehmen nach Ver\u00f6ffentlichung der Angebotsunterlage und vor der Ver\u00f6ffentlichung gem\u00e4\u00df \u00a7 23 Abs. 1 Satz 1 Nr. 2 Aktien der Zielgesellschaft und wird hierf\u00fcr wertm\u00e4\u00dfig eine h\u00f6here als die im Angebot genannte Gegenleistung gew\u00e4hrt oder vereinbart, erh\u00f6ht sich die den Angebotsempf\u00e4ngern der jeweiligen Aktiengattung geschuldete Gegenleistung wertm\u00e4\u00dfig um den Unterschiedsbetrag.</P><P>(5) Erwerben der Bieter, mit ihm gemeinsam handelnde Personen oder deren Tochterunternehmen innerhalb eines Jahres nach der Ver\u00f6ffentlichung gem\u00e4\u00df \u00a7 23 Abs. 1 Satz 1 Nr. 2 au\u00dferhalb der B\u00f6rse Aktien der Zielgesellschaft und wird hierf\u00fcr wertm\u00e4\u00dfig eine h\u00f6here als die im Angebot genannte Gegenleistung gew\u00e4hrt oder vereinbart, ist der Bieter gegen\u00fcber den Inhabern der Aktien, die das Angebot angenommen haben, zur Zahlung einer Geldleistung in Euro in H\u00f6he des Unterschiedsbetrages verpflichtet. Satz 1 gilt nicht f\u00fcr den Erwerb von Aktien im Zusammenhang mit einer gesetzlichen Verpflichtung zur Gew\u00e4hrung einer Abfindung an Aktion\u00e4re der Zielgesellschaft und f\u00fcr den Erwerb des Verm\u00f6gens oder von Teilen des Verm\u00f6gens der Zielgesellschaft durch Verschmelzung, Spaltung oder Verm\u00f6gens\u00fcbertragung.</P><P>(6) Dem Erwerb im Sinne der Abs\u00e4tze 3 bis 5 gleichgestellt sind Vereinbarungen, auf Grund derer die \u00dcbereignung von Aktien verlangt werden kann. Als Erwerb gilt nicht die Aus\u00fcbung eines gesetzlichen Bezugsrechts auf Grund einer Erh\u00f6hung des Grundkapitals der Zielgesellschaft.</P><P>(7) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, n\u00e4here Bestimmungen \u00fcber die Angemessenheit der Gegenleistung nach Absatz 1, insbesondere die Ber\u00fccksichtigung des durchschnittlichen B\u00f6rsenkurses der Aktien der Zielgesellschaft und der Erwerbe von Aktien der Zielgesellschaft durch den Bieter, mit ihm gemeinsam handelnder Personen oder deren Tochterunternehmen und die hierbei ma\u00dfgeblichen Zeitr\u00e4ume sowie \u00fcber Ausnahmen von dem in Absatz 1 Satz 2 genannten Grundsatz und die Ermittlung des Unterschiedsbetrages nach den Abs\u00e4tzen 4 und 5 erlassen. Das Bundesministerium der Finanzen kann die Erm\u00e4chtigung durch Rechtsverordnung auf die Bundesanstalt \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003200000",
+        "name": "\u00a7 32",
+        "title": "Unzul\u00e4ssigkeit von Teilangeboten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>Ein \u00dcbernahmeangebot, das sich nur auf einen Teil der Aktien der Zielgesellschaft erstreckt, ist unbeschadet der Vorschrift des \u00a7 24 unzul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003301377",
+        "name": "\u00a7 33",
+        "title": "Handlungen des Vorstands der Zielgesellschaft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>(1) Nach Ver\u00f6ffentlichung der Entscheidung zur Abgabe eines Angebots bis zur Ver\u00f6ffentlichung des Ergebnisses nach \u00a7 23 Abs. 1 Satz 1 Nr. 2 darf der Vorstand der Zielgesellschaft keine Handlungen vornehmen, durch die der Erfolg des Angebots verhindert werden k\u00f6nnte. Dies gilt nicht f\u00fcr Handlungen, die auch ein ordentlicher und gewissenhafter Gesch\u00e4ftsleiter einer Gesellschaft, die nicht von einem \u00dcbernahmeangebot betroffen ist, vorgenommen h\u00e4tte, f\u00fcr die Suche nach einem konkurrierenden Angebot sowie f\u00fcr Handlungen, denen der Aufsichtsrat der Zielgesellschaft zugestimmt hat.</P><P>(2) Erm\u00e4chtigt die Hauptversammlung den Vorstand vor dem in Absatz 1 Satz 1 genannten Zeitraum zur Vornahme von Handlungen, die in die Zust\u00e4ndigkeit der Hauptversammlung fallen, um den Erfolg von \u00dcbernahmeangeboten zu verhindern, sind diese Handlungen in der Erm\u00e4chtigung der Art nach zu bestimmen. Die Erm\u00e4chtigung kann f\u00fcr h\u00f6chstens 18 Monate erteilt werden. Der Beschluss der Hauptversammlung bedarf einer Mehrheit, die mindestens drei Viertel des bei der Beschlussfassung vertretenen Grundkapitals umfasst; die Satzung kann eine gr\u00f6\u00dfere Kapitalmehrheit und weitere Erfordernisse bestimmen. Handlungen des Vorstands auf Grund einer Erm\u00e4chtigung nach Satz 1 bed\u00fcrfen der Zustimmung des Aufsichtsrats.</P><P>(3) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE007100377",
+        "name": "\u00a7 33a",
+        "title": "Europ\u00e4isches Verhinderungsverbot",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>(1) Die Satzung einer Zielgesellschaft kann vorsehen, dass \u00a7 33 keine Anwendung findet. In diesem Fall gelten die Bestimmungen des Absatzes 2.</P><P>(2) Nach Ver\u00f6ffentlichung der Entscheidung zur Abgabe eines Angebots bis zur Ver\u00f6ffentlichung des Ergebnisses nach \u00a7 23 Abs. 1 Satz 1 Nr. 2 d\u00fcrfen Vorstand und Aufsichtsrat der Zielgesellschaft keine Handlungen vornehmen, durch die der Erfolg des Angebots verhindert werden k\u00f6nnte. Dies gilt nicht f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Handlungen, zu denen die Hauptversammlung den Vorstand oder Aufsichtsrat nach Ver\u00f6ffentlichung der Entscheidung zur Abgabe eines Angebots erm\u00e4chtigt hat,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Handlungen innerhalb des normalen Gesch\u00e4ftsbetriebs,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Handlungen au\u00dferhalb des normalen Gesch\u00e4ftsbetriebs, sofern sie der Umsetzung von Entscheidungen dienen, die vor der Ver\u00f6ffentlichung der Entscheidung zur Abgabe eines Angebots gefasst und teilweise umgesetzt wurden, und</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Suche nach einem konkurrierenden Angebot.</LA></DD> </DL> </P><P>(3) Der Vorstand der Zielgesellschaft hat die Bundesanstalt sowie die Aufsichtsstellen der Staaten des Europ\u00e4ischen Wirtschaftsraums, in denen Wertpapiere der Gesellschaft zum Handel an einem organisierten Markt zugelassen sind, unverz\u00fcglich davon zu unterrichten, dass die Zielgesellschaft eine Satzungsbestimmung nach Absatz 1 Satz 1 beschlossen hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE007200377",
+        "name": "\u00a7 33b",
+        "title": "Europ\u00e4ische Durchbrechungsregel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>(1) Die Satzung einer Zielgesellschaft kann vorsehen, dass Absatz 2 Anwendung findet.</P><P>(2) Nach Ver\u00f6ffentlichung der Angebotsunterlage nach \u00a7 14 Abs. 3 Satz 1 gelten die folgenden Bestimmungen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">w\u00e4hrend der Annahmefrist eines \u00dcbernahmeangebots gelten satzungsm\u00e4\u00dfige, zwischen der Zielgesellschaft und Aktion\u00e4ren oder zwischen Aktion\u00e4ren vereinbarte \u00dcbertragungsbeschr\u00e4nkungen von Aktien nicht gegen\u00fcber dem Bieter,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">w\u00e4hrend der Annahmefrist eines \u00dcbernahmeangebots entfalten in einer Hauptversammlung, die \u00fcber Abwehrma\u00dfnahmen beschlie\u00dft, Stimmbindungsvertr\u00e4ge keine Wirkung und Mehrstimmrechtsaktien berechtigen zu nur einer Stimme und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in der ersten Hauptversammlung, die auf Verlangen des Bieters einberufen wird, um die Satzung zu \u00e4ndern oder \u00fcber die Besetzung der Leitungsorgane der Gesellschaft zu entscheiden, entfalten, sofern der Bieter nach dem Angebot \u00fcber mindestens 75 Prozent der Stimmrechte der Zielgesellschaft verf\u00fcgt, Stimmbindungsvertr\u00e4ge sowie Entsendungsrechte keine Wirkung und Mehrstimmrechtsaktien berechtigen zu nur einer Stimme.</LA></DD> </DL>Satz 1 gilt nicht f\u00fcr Vorzugsaktien ohne Stimmrecht sowie f\u00fcr vor dem 22. April 2004 zwischen der Zielgesellschaft und Aktion\u00e4ren oder zwischen Aktion\u00e4ren vereinbarten \u00dcbertragungsbeschr\u00e4nkungen und Stimmbindungen.</P><P>(3) Der Vorstand der Zielgesellschaft hat die Bundesanstalt sowie die Aufsichtsstellen der Staaten des Europ\u00e4ischen Wirtschaftsraums, in denen Wertpapiere der Gesellschaft zum Handel an einem organisierten Markt zugelassen sind, unverz\u00fcglich davon zu unterrichten, dass die Zielgesellschaft eine Satzungsbestimmung nach Absatz 1 beschlossen hat.</P><P>(4) F\u00fcr die Einberufung und Durchf\u00fchrung der Hauptversammlung im Sinne des Absatzes 2 Satz 1 Nr. 3 gilt \u00a7 16 Abs. 4 entsprechend.</P><P>(5) Werden Rechte auf der Grundlage des Absatzes 1 entzogen, ist der Bieter zu einer angemessenen Entsch\u00e4digung in Geld verpflichtet, soweit diese Rechte vor der Ver\u00f6ffentlichung der Entscheidung zur Abgabe des Angebots nach \u00a7 10 Abs. 1 Satz 1 begr\u00fcndet wurden und der Zielgesellschaft bekannt sind. Der Anspruch auf Entsch\u00e4digung nach Satz 1 kann nur bis zum Ablauf von zwei Monaten seit dem Entzug der Rechte gerichtlich geltend gemacht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE007201377",
+        "name": "\u00a7 33c",
+        "title": "Vorbehalt der Gegenseitigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>(1) Die Hauptversammlung einer Zielgesellschaft, deren Satzung die Anwendbarkeit des \u00a7 33 ausschlie\u00dft, kann beschlie\u00dfen, dass \u00a7 33 gilt, wenn der Bieter oder ein ihn beherrschendes Unternehmen einer dem \u00a7 33a Abs. 2 entsprechenden Regelung nicht unterliegt.</P><P>(2) Die Hauptversammlung einer Zielgesellschaft, deren Satzung eine Bestimmung nach \u00a7 33b Abs. 1 enth\u00e4lt, kann beschlie\u00dfen, dass diese Bestimmung keine Anwendung findet, wenn der Bieter oder ein ihn beherrschendes Unternehmen einer dieser Bestimmung entsprechenden Regelung nicht unterliegt.</P><P>(3) Der Vorbehalt der Gegenseitigkeit gem\u00e4\u00df den Abs\u00e4tzen 1 und 2 kann in einem Beschluss gefasst werden. Der Beschluss der Hauptversammlung gilt f\u00fcr h\u00f6chstens 18 Monate. Der Vorstand der Zielgesellschaft hat die Bundesanstalt und die Aufsichtsstellen der Staaten des Europ\u00e4ischen Wirtschaftsraums, in denen stimmberechtigte Aktien der Gesellschaft zum Handel an einem organisierten Markt zugelassen sind, unverz\u00fcglich von der Erm\u00e4chtigung zu unterrichten. Die Erm\u00e4chtigung ist unverz\u00fcglich auf der Internetseite der Zielgesellschaft zu ver\u00f6ffentlichen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE007202377",
+        "name": "\u00a7 33d",
+        "title": "Verbot der Gew\u00e4hrung ungerechtfertigter Leistungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>Dem Bieter und mit ihm gemeinsam handelnden Personen ist es verboten, Vorstands- oder Aufsichtsratsmitgliedern der Zielgesellschaft im Zusammenhang mit dem Angebot ungerechtfertigte Geldleistungen oder andere ungerechtfertigte geldwerte Vorteile zu gew\u00e4hren oder in Aussicht zu stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003400000",
+        "name": "\u00a7 34",
+        "title": "Anwendung der Vorschriften des Abschnitts 3",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000500000"
+        },
+        "body": "<P>F\u00fcr \u00dcbernahmeangebote gelten die Vorschriften des Abschnitts 3, soweit sich aus den vorstehenden Vorschriften nichts anderes ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG000600000",
+        "name": "Abschnitt 5",
+        "title": "Pflichtangebote",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003501377",
+        "name": "\u00a7 35",
+        "title": "Verpflichtung zur Ver\u00f6ffentlichung und zur Abgabe eines Angebots",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000600000"
+        },
+        "body": "<P>(1) Wer unmittelbar oder mittelbar die Kontrolle \u00fcber eine Zielgesellschaft erlangt, hat dies unter Angabe der H\u00f6he seines Stimmrechtsanteils unverz\u00fcglich, sp\u00e4testens innerhalb von sieben Kalendertagen, gem\u00e4\u00df \u00a7 10 Abs. 3 Satz 1 und 2 zu ver\u00f6ffentlichen. Die Frist beginnt mit dem Zeitpunkt, zu dem der Bieter Kenntnis davon hat oder nach den Umst\u00e4nden haben musste, dass er die Kontrolle \u00fcber die Zielgesellschaft erlangt hat. In der Ver\u00f6ffentlichung sind die nach \u00a7 30 zuzurechnenden Stimmrechte f\u00fcr jeden Zurechnungstatbestand getrennt anzugeben. \u00a7 10 Abs. 2, 3 Satz 3 und Abs. 4 bis 6 gilt entsprechend.</P><P>(2) Der Bieter hat innerhalb von vier Wochen nach der Ver\u00f6ffentlichung der Erlangung der Kontrolle \u00fcber eine Zielgesellschaft der Bundesanstalt eine Angebotsunterlage zu \u00fcbermitteln und nach \u00a7 14 Abs. 2 Satz 1 ein Angebot zu ver\u00f6ffentlichen. \u00a7 14 Abs. 2 Satz 2, Abs. 3 und 4 gilt entsprechend. Ausgenommen von der Verpflichtung nach Satz 1 sind eigene Aktien der Zielgesellschaft, Aktien der Zielgesellschaft, die einem abh\u00e4ngigen oder im Mehrheitsbesitz stehenden Unternehmen der Zielgesellschaft geh\u00f6ren, und Aktien der Zielgesellschaft, die einem Dritten geh\u00f6ren, jedoch f\u00fcr Rechnung der Zielgesellschaft, eines abh\u00e4ngigen oder eines im Mehrheitsbesitz stehenden Unternehmens der Zielgesellschaft gehalten werden.</P><P>(3) Wird die Kontrolle \u00fcber die Zielgesellschaft auf Grund eines \u00dcbernahmeangebots erworben, besteht keine Verpflichtung nach Absatz 1 Satz 1 und Absatz 2 Satz 1.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003601377",
+        "name": "\u00a7 36",
+        "title": "Nichtber\u00fccksichtigung von Stimmrechten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000600000"
+        },
+        "body": "<P>Die Bundesanstalt l\u00e4sst auf schriftlichen Antrag zu, dass Stimmrechte aus Aktien der Zielgesellschaft bei der Berechnung des Stimmrechtsanteils unber\u00fccksichtigt bleiben, wenn die Aktien erlangt wurden durch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erbgang, Erbauseinandersetzung oder unentgeltliche Zuwendung unter Ehegatten, Lebenspartnern oder Verwandten in gerader Linie und bis zum dritten Grade oder durch Verm\u00f6gensauseinandersetzung aus Anlass der Aufl\u00f6sung einer Ehe oder Lebenspartnerschaft,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Rechtsformwechsel oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Umstrukturierungen innerhalb eines Konzerns.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003701377",
+        "name": "\u00a7 37",
+        "title": "Befreiung von der Verpflichtung zur Ver\u00f6ffentlichung und zur Abgabe\neines Angebots",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000600000"
+        },
+        "body": "<P>(1) Die Bundesanstalt kann auf schriftlichen Antrag den Bieter von den Verpflichtungen nach \u00a7 35 Abs.1 Satz 1 und Abs. 2 Satz 1 befreien, sofern dies im Hinblick auf die Art der Erlangung, die mit der Erlangung der Kontrolle beabsichtigte Zielsetzung, ein nach der Erlangung der Kontrolle erfolgendes Unterschreiten der Kontrollschwelle, die Beteiligungsverh\u00e4ltnisse an der Zielgesellschaft oder die tats\u00e4chliche M\u00f6glichkeit zur Aus\u00fcbung der Kontrolle unter Ber\u00fccksichtigung der Interessen des Antragstellers und der Inhaber der Aktien der Zielgesellschaft gerechtfertigt erscheint.</P><P>(2) Das Bundesministerium der Finanzen kann durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, n\u00e4here Bestimmungen \u00fcber die Befreiung von den Verpflichtungen nach \u00a7 35 Abs. 1 Satz 1, Abs.2 Satz 1 erlassen. Das Bundesministerium der Finanzen kann die Erm\u00e4chtigung durch Rechtsverordnung auf die Bundesanstalt \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003801377",
+        "name": "\u00a7 38",
+        "title": "Anspruch auf Zinsen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000600000"
+        },
+        "body": "<P>Der Bieter ist den Aktion\u00e4ren der Zielgesellschaft f\u00fcr die Dauer des Versto\u00dfes zur Zahlung von Zinsen auf die Gegenleistung in H\u00f6he von f\u00fcnf Prozentpunkten auf das Jahr \u00fcber dem jeweiligen Basiszinssatz nach \u00a7 247 des B\u00fcrgerlichen Gesetzbuchs verpflichtet, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">er entgegen \u00a7 35 Abs. 1 Satz 1 keine Ver\u00f6ffentlichung gem\u00e4\u00df \u00a7 10 Abs. 3 Satz 1 vornimmt,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">er entgegen \u00a7 35 Abs. 2 Satz 1 kein Angebot gem\u00e4\u00df \u00a7 14 Abs. 3 Satz 1 abgibt oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihm ein Angebot im Sinne des \u00a7 35 Abs. 2 Satz 1 nach \u00a7 15 Abs. 1 Nr. 1, 2 oder 3 untersagt worden ist.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE003900000",
+        "name": "\u00a7 39",
+        "title": "Anwendung der Vorschriften des Abschnitts 3 und 4",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000600000"
+        },
+        "body": "<P>F\u00fcr Angebote nach \u00a7 35 Abs. 2 Satz 1 gelten mit Ausnahme von \u00a7 10 Abs. 1 Satz 1, \u00a7 14 Abs. 1 Satz 1, \u00a7 16 Abs. 2, \u00a7 18 Abs. 1, \u00a7\u00a7 19, 25, 26 und 34 die Vorschriften der Abschnitte 3 und 4 sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG001100377",
+        "name": "Abschnitt 5a",
+        "title": "Ausschluss, Andienungsrecht",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE007301140",
+        "name": "\u00a7 39a",
+        "title": "Ausschluss der \u00fcbrigen Aktion\u00e4re",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG001100377"
+        },
+        "body": "<P>(1) Nach einem \u00dcbernahme- oder Pflichtangebot sind dem Bieter, dem Aktien der Zielgesellschaft in H\u00f6he von mindestens 95 Prozent des stimmberechtigten Grundkapitals geh\u00f6ren, auf seinen Antrag die \u00fcbrigen stimmberechtigten Aktien gegen Gew\u00e4hrung einer angemessenen Abfindung durch Gerichtsbeschluss zu \u00fcbertragen. Geh\u00f6ren dem Bieter zugleich Aktien in H\u00f6he von 95 Prozent des Grundkapitals der Zielgesellschaft, sind ihm auf Antrag auch die \u00fcbrigen Vorzugsaktien ohne Stimmrecht zu \u00fcbertragen.</P><P>(2) F\u00fcr die Feststellung der erforderlichen Beteiligungsh\u00f6he nach Absatz 1 gilt \u00a7 16 Abs. 2 und 4 des Aktiengesetzes entsprechend.</P><P>(3) Die Art der Abfindung hat der Gegenleistung des \u00dcbernahme- oder Pflichtangebots zu entsprechen. Eine Geldleistung ist stets wahlweise anzubieten. Die im Rahmen des \u00dcbernahme- oder Pflichtangebots gew\u00e4hrte Gegenleistung ist als angemessene Abfindung anzusehen, wenn der Bieter auf Grund des Angebots Aktien in H\u00f6he von mindestens 90 Prozent des vom Angebot betroffenen Grundkapitals erworben hat. Die Annahmequote ist f\u00fcr stimmberechtigte Aktien und stimmrechtslose Aktien getrennt zu ermitteln.</P><P>(4) Ein Antrag auf \u00dcbertragung der Aktien nach Absatz 1 muss innerhalb von drei Monaten nach Ablauf der Annahmefrist gestellt werden. Der Bieter kann den Antrag stellen, wenn das \u00dcbernahme- oder Pflichtangebot in einem Umfang angenommen worden ist, dass ihm beim sp\u00e4teren Vollzug des Angebots Aktien in H\u00f6he des zum Ausschluss mindestens erforderlichen Anteils am stimmberechtigten oder am gesamten Grundkapital der Zielgesellschaft geh\u00f6ren werden.</P><P>(5) \u00dcber den Antrag entscheidet ausschlie\u00dflich das Landgericht Frankfurt am Main.</P><P>(6) Die \u00a7\u00a7 327a bis 327f des Aktiengesetzes finden nach Stellung eines Antrags bis zum rechtskr\u00e4ftigen Abschluss des Ausschlussverfahrens keine Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE007403301",
+        "name": "\u00a7 39b",
+        "title": "Ausschlussverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG001100377"
+        },
+        "body": "<P>(1) Auf das Verfahren f\u00fcr den Ausschluss nach \u00a7 39a ist das Gesetz \u00fcber das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit anzuwenden, soweit in den nachfolgenden Abs\u00e4tzen nichts anderes bestimmt ist.</P><P>(2) Das Landgericht hat den Antrag auf Ausschluss nach \u00a7 39a in den Gesellschaftsbl\u00e4ttern bekannt zu machen.</P><P>(3) Das Landgericht entscheidet durch einen mit Gr\u00fcnden versehenen Beschluss. Der Beschluss darf fr\u00fchestens einen Monat seit Bekanntmachung der Antragstellung im Bundesanzeiger und erst dann ergehen, wenn der Bieter glaubhaft gemacht hat, dass ihm Aktien in H\u00f6he des zum Ausschluss mindestens erforderlichen Anteils am stimmberechtigten oder am gesamten Grundkapital der Zielgesellschaft geh\u00f6ren. Gegen die Entscheidung des Landgerichts findet die Beschwerde statt; sie hat aufschiebende Wirkung.</P><P>(4) Das Landgericht hat seine Entscheidung dem Antragsteller und der Zielgesellschaft sowie den \u00fcbrigen Aktion\u00e4ren der Gesellschaft, sofern diese im Beschlussverfahren angeh\u00f6rt wurden, zuzustellen. Es hat die Entscheidung ferner ohne Gr\u00fcnde in den Gesellschaftsbl\u00e4ttern bekannt zu geben. Die Beschwerde steht dem Antragsteller und den \u00fcbrigen Aktion\u00e4ren der Zielgesellschaft zu. Die Beschwerdefrist beginnt mit der Bekanntmachung im Bundesanzeiger, f\u00fcr den Antragsteller und f\u00fcr die \u00fcbrigen Aktion\u00e4re, denen die Entscheidung zugestellt wurde, jedoch nicht vor Zustellung der Entscheidung.</P><P>(5) Die Entscheidung ist erst mit Rechtskraft wirksam. Sie wirkt f\u00fcr und gegen alle Aktion\u00e4re. Mit rechtskr\u00e4ftiger Entscheidung gehen alle Aktien der \u00fcbrigen Aktion\u00e4re auf den zum Ausschluss berechtigten Aktion\u00e4r \u00fcber. Sind \u00fcber diese Aktien Aktienurkunden ausgegeben, so verbriefen sie bis zu ihrer Aush\u00e4ndigung nur den Anspruch auf eine angemessene Abfindung. Der Vorstand der Zielgesellschaft hat die rechtskr\u00e4ftige Entscheidung unverz\u00fcglich zum Handelsregister einzureichen.</P><P>(6) Das Gericht ordnet an, dass die Kosten der Antragsgegner, die zur zweckentsprechenden Erledigung der Angelegenheit notwendig waren, ganz oder zum Teil vom Antragsteller zu erstatten sind, wenn dies der Billigkeit entspricht. Gerichtskosten f\u00fcr das Verfahren erster Instanz k\u00f6nnen dem Antragsgegner nicht auferlegt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE007500377",
+        "name": "\u00a7 39c",
+        "title": "Andienungsrecht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG001100377"
+        },
+        "body": "<P>Nach einem \u00dcbernahme- oder Pflichtangebot k\u00f6nnen die Aktion\u00e4re einer Zielgesellschaft, die das Angebot nicht angenommen haben, das Angebot innerhalb von drei Monaten nach Ablauf der Annahmefrist annehmen, sofern der Bieter berechtigt ist, einen Antrag nach \u00a7 39a zu stellen. Erf\u00fcllt der Bieter seine Verpflichtungen nach \u00a7 23 Abs. 1 Satz 1 Nr. 4 oder Satz 2 nicht, beginnt die in Satz 1 genannte Dreimonatsfrist erst mit der Erf\u00fcllung der Verpflichtungen zu laufen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG000700000",
+        "name": "Abschnitt 6",
+        "title": "Verfahren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004002377",
+        "name": "\u00a7 40",
+        "title": "Ermittlungsbefugnisse der Bundesanstalt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000700000"
+        },
+        "body": "<P>(1) Die Bundesanstalt kann von jedermann Ausk\u00fcnfte, die Vorlage von Unterlagen und die \u00dcberlassung von Kopien verlangen sowie Personen laden und vernehmen, soweit dies auf Grund von Anhaltspunkten f\u00fcr die \u00dcberwachung der Einhaltung eines Gebots oder Verbots dieses Gesetzes erforderlich ist. Sie kann insbesondere die Angabe von Bestandsver\u00e4nderungen in Finanzinstrumenten sowie Ausk\u00fcnfte \u00fcber die Identit\u00e4t weiterer Personen, insbesondere der Auftraggeber und der aus Gesch\u00e4ften berechtigten oder verpflichteten Personen, verlangen. Gesetzliche Auskunfts- oder Aussageverweigerungsrechte sowie gesetzliche Verschwiegenheitspflichten bleiben unber\u00fchrt.</P><P>(2) W\u00e4hrend der \u00fcblichen Arbeitszeit ist Bediensteten der Bundesanstalt und den von ihr beauftragten Personen, soweit dies zur Wahrnehmung ihrer Aufgaben nach diesem Gesetz erforderlich ist, das Betreten der Grundst\u00fccke und Gesch\u00e4ftsr\u00e4ume der nach Absatz 1 auskunftspflichtigen Personen zu gestatten. Das Betreten au\u00dferhalb dieser Zeit oder das Betreten von Gesch\u00e4ftsr\u00e4umen, die sich in einer Wohnung befinden, ist ohne Einverst\u00e4ndnis nur zul\u00e4ssig und insoweit zu dulden, wie dies zur Verh\u00fctung von dringenden Gefahren f\u00fcr die \u00f6ffentliche Sicherheit und Ordnung erforderlich ist und bei der auskunftspflichtigen Person Anhaltspunkte f\u00fcr einen Versto\u00df gegen ein Verbot oder Gebot dieses Gesetzes vorliegen. Das Grundrecht des Artikels 13 des Grundgesetzes wird insoweit eingeschr\u00e4nkt.</P><P>(3) Der zur Erteilung einer Auskunft Verpflichtete kann die Auskunft auf solche Fragen verweigern, deren Beantwortung ihn selbst oder einen der in \u00a7 383 Abs. 1 Nr. 1 bis 3 der Zivilprozessordnung bezeichneten Angeh\u00f6rigen der Gefahr strafgerichtlicher Verfolgung oder eines Verfahrens nach dem Gesetz \u00fcber Ordnungswidrigkeiten aussetzen w\u00fcrde. Der Verpflichtete ist \u00fcber sein Recht zur Verweigerung der Auskunft zu belehren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004102360",
+        "name": "\u00a7 41",
+        "title": "Widerspruchsverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000700000"
+        },
+        "body": "<P>(1) Vor Einlegung der Beschwerde sind Rechtm\u00e4\u00dfigkeit und Zweckm\u00e4\u00dfigkeit der Verf\u00fcgungen der Bundesanstalt in einem Widerspruchsverfahren nachzupr\u00fcfen. Einer solchen Nachpr\u00fcfung bedarf es nicht, wenn der Abhilfebescheid oder der Widerspruchsbescheid erstmalig eine Beschwer enth\u00e4lt. F\u00fcr das Widerspruchsverfahren gelten die \u00a7\u00a7 68 bis 73 der Verwaltungsgerichtsordnung, soweit in diesem Gesetz nichts Abweichendes geregelt ist.</P><P>(2) Die Bundesanstalt trifft ihre Entscheidung innerhalb einer Frist von zwei Wochen ab Eingang des Widerspruchs. Bei besonderen tats\u00e4chlichen oder rechtlichen Schwierigkeiten oder bei einer Vielzahl von Widerspruchsverfahren kann die Bundesanstalt die Frist durch unanfechtbaren Beschluss verl\u00e4ngern.</P><P>(3) Die Beteiligten haben an der Aufkl\u00e4rung des Sachverhaltes mitzuwirken, wie es einem auf F\u00f6rderung und raschen Abschluss des Verfahrens bedachten Vorgehen entspricht. Den Beteiligten k\u00f6nnen Fristen gesetzt werden, nach deren Ablauf weiterer Vortrag unbeachtet bleibt.</P><P>(4) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004202377",
+        "name": "\u00a7 42",
+        "title": "Sofortige Vollziehbarkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000700000"
+        },
+        "body": "<P>Der Widerspruch gegen Ma\u00dfnahmen der Bundesanstalt nach \u00a7 4 Abs. 1 Satz 3, \u00a7 15 Abs. 1 oder 2, \u00a7 28 Abs. 1 oder \u00a7 40 Abs. 1 und 2 hat keine aufschiebende Wirkung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004303360",
+        "name": "\u00a7 43",
+        "title": "Bekanntgabe und Zustellung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000700000"
+        },
+        "body": "<P>(1) Verf\u00fcgungen, die gegen\u00fcber einer Person mit Wohnsitz oder einem Unternehmen mit Sitz au\u00dferhalb des Geltungsbereichs dieses Gesetzes ergehen, gibt die Bundesanstalt der Person bekannt, die als Bevollm\u00e4chtigte benannt wurde. Ist kein Bevollm\u00e4chtigter benannt, so erfolgt die Bekanntgabe durch \u00f6ffentliche Bekanntmachung im Bundesanzeiger.</P><P>(2) Ist die Verf\u00fcgung zuzustellen, so erfolgt die Zustellung bei Personen mit Wohnsitz oder Unternehmen mit Sitz au\u00dferhalb des Geltungsbereichs dieses Gesetzes an die Person, die als Bevollm\u00e4chtigte benannt wurde. Ist kein Bevollm\u00e4chtigter benannt, so erfolgt die Zustellung durch \u00f6ffentliche Bekanntmachung im Bundesanzeiger.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004404360",
+        "name": "\u00a7 44",
+        "title": "Ver\u00f6ffentlichungsrecht der Bundesanstalt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000700000"
+        },
+        "body": "<P>Die Bundesanstalt kann ihre Verf\u00fcgungen nach \u00a7 4 Absatz 1 Satz 3, \u00a7 10 Absatz 2 Satz 3, \u00a7 15 Absatz 1 und 2, \u00a7 20 Absatz 1, \u00a7 28, \u00a7 36 oder \u00a7 37 Absatz 1, auch in Verbindung mit einer Rechtsverordnung nach Absatz 2, auf ihrer Internetseite ver\u00f6ffentlichen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004501377",
+        "name": "\u00a7 45",
+        "title": "Mitteilungen an die Bundesanstalt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000700000"
+        },
+        "body": "<P>Antr\u00e4ge und Mitteilungen an die Bundesanstalt haben in schriftlicher Form zu erfolgen. Eine \u00dcbermittlung im Wege der elektronischen Datenfern\u00fcbertragung ist zul\u00e4ssig, sofern der Absender zweifelsfrei zu erkennen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004601377",
+        "name": "\u00a7 46",
+        "title": "Zwangsmittel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000700000"
+        },
+        "body": "<P>Die Bundesanstalt kann Verf\u00fcgungen, die nach diesem Gesetz ergehen, mit Zwangsmitteln nach den Bestimmungen des Verwaltungs-Vollstreckungsgesetzes durchsetzen. Sie kann auch Zwangsmittel gegen juristische Personen des \u00f6ffentlichen Rechts anwenden. Widerspruch und Beschwerde gegen die Androhung und Festsetzung der Zwangsmittel nach den \u00a7\u00a7 13 und 14 des Verwaltungs-Vollstreckungsgesetzes haben keine aufschiebende Wirkung. Die H\u00f6he des Zwangsgeldes betr\u00e4gt abweichend von \u00a7 11 des Verwaltungs-Vollstreckungsgesetzes bis zu 500.000 Euro.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004704123",
+        "name": "\u00a7 47",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000700000"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG000800000",
+        "name": "Abschnitt 7",
+        "title": "Rechtsmittel",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004801377",
+        "name": "\u00a7 48",
+        "title": "Statthaftigkeit, Zust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>(1) Gegen Verf\u00fcgungen der Bundesanstalt ist die Beschwerde statthaft. Sie kann auch auf neue Tatsachen und Beweismittel gest\u00fctzt werden.</P><P>(2) Die Beschwerde steht den am Verfahren vor der Bundesanstalt Beteiligten zu.</P><P>(3) Die Beschwerde ist auch gegen die Unterlassung einer beantragten Verf\u00fcgung der Bundesanstalt statthaft, auf deren Vornahme der Antragsteller ein Recht zu haben behauptet. Als Unterlassung gilt es auch, wenn die Bundesanstalt den Antrag auf Vornahme der Verf\u00fcgung ohne zureichenden Grund in angemessener Frist nicht beschieden hat. Die Unterlassung ist dann einer Ablehnung gleich zu erachten.</P><P>(4) \u00dcber die Beschwerde entscheidet ausschlie\u00dflich das f\u00fcr den Sitz der Bundesanstalt in Frankfurt am Main zust\u00e4ndige Oberlandesgericht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE004900000",
+        "name": "\u00a7 49",
+        "title": "Aufschiebende Wirkung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>Die Beschwerde hat aufschiebende Wirkung, soweit durch die angefochtene Verf\u00fcgung eine Befreiung nach \u00a7 10 Abs. 1 Satz 3 oder \u00a7 37 Abs. 1, auch in Verbindung mit einer Rechtsverordnung nach Abs. 2, oder eine Nichtber\u00fccksichtigung von Stimmrechtsanteilen nach \u00a7 36 widerrufen wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005001377",
+        "name": "\u00a7 50",
+        "title": "Anordnung der sofortigen Vollziehung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>(1) Die Bundesanstalt kann in den F\u00e4llen des \u00a7 49 die sofortige Vollziehung der Verf\u00fcgung anordnen, wenn dies im \u00f6ffentlichen Interesse oder im \u00fcberwiegenden Interesse eines Beteiligten geboten ist.</P><P>(2) Die Anordnung nach Absatz 1 kann bereits vor der Einreichung der Beschwerde getroffen werden.</P><P>(3) Auf Antrag kann das Beschwerdegericht die aufschiebende Wirkung von Widerspruch oder Beschwerde ganz oder teilweise anordnen oder wiederherstellen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Voraussetzungen f\u00fcr die Anordnung nach Absatz 1 nicht vorgelegen haben oder nicht mehr vorliegen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ernstliche Zweifel an der Rechtm\u00e4\u00dfigkeit der angefochtenen Verf\u00fcgung bestehen oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vollziehung f\u00fcr den Betroffenen eine unbillige, nicht durch \u00fcberwiegende \u00f6ffentliche Interessen gebotene H\u00e4rte zur Folge h\u00e4tte.</LA></DD> </DL> </P><P>(4) Der Antrag nach Absatz 3 ist schon vor Einreichung der Beschwerde zul\u00e4ssig. Die Tatsachen, auf die der Antrag gest\u00fctzt wird, sind vom Antragsteller glaubhaft zu machen. Ist die Verf\u00fcgung im Zeitpunkt der Entscheidung schon vollzogen, kann das Gericht auch die Aufhebung der Vollziehung anordnen. Die Anordnung der aufschiebenden Wirkung kann von der Leistung einer Sicherheit oder von anderen Auflagen abh\u00e4ngig gemacht werden. Sie kann auch befristet werden.</P><P>(5) Beschl\u00fcsse \u00fcber Antr\u00e4ge nach Absatz 3 k\u00f6nnen jederzeit ge\u00e4ndert oder aufgehoben werden. Soweit durch sie den Antr\u00e4gen entsprochen ist, sind sie unanfechtbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005101377",
+        "name": "\u00a7 51",
+        "title": "Frist und Form",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>(1) Die Beschwerde ist binnen einer Notfrist von einem Monat bei dem Beschwerdegericht schriftlich einzureichen. Die Frist beginnt mit der Bekanntgabe oder der Zustellung des Widerspruchsbescheides der Bundesanstalt.</P><P>(2) Ergeht auf einen Antrag keine Verf\u00fcgung, so ist die Beschwerde an keine Frist gebunden.</P><P>(3) Die Beschwerde ist zu begr\u00fcnden. Die Frist f\u00fcr die Beschwerdebegr\u00fcndung betr\u00e4gt einen Monat; sie beginnt mit der Einlegung der Beschwerde und kann auf Antrag von dem Vorsitzenden des Beschwerdegerichts verl\u00e4ngert werden.</P><P>(4) Die Beschwerdebegr\u00fcndung muss enthalten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erkl\u00e4rung, inwieweit die Verf\u00fcgung angefochten und ihre Ab\u00e4nderung oder Aufhebung beantragt wird, und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der Tatsachen und Beweismittel, auf die sich die Beschwerde st\u00fctzt.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005201377",
+        "name": "\u00a7 52",
+        "title": "Beteiligte am Beschwerdeverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>An dem Verfahren vor dem Beschwerdegericht sind der Beschwerdef\u00fchrer und die Bundesanstalt beteiligt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005302310",
+        "name": "\u00a7 53",
+        "title": "Anwaltszwang",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>Vor dem Beschwerdegericht m\u00fcssen die Beteiligten sich durch einen Rechtsanwalt oder Rechtslehrer an einer deutschen Hochschule im Sinne des Hochschulrahmengesetzes mit Bef\u00e4higung zum Richteramt als Bevollm\u00e4chtigten vertreten lassen. Die Bundesanstalt kann sich durch einen Beamten auf Lebenszeit mit Bef\u00e4higung zum Richteramt vertreten lassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005400000",
+        "name": "\u00a7 54",
+        "title": "M\u00fcndliche Verhandlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>(1) Das Beschwerdegericht entscheidet \u00fcber die Beschwerde auf Grund m\u00fcndlicher Verhandlung; mit Einverst\u00e4ndnis der Beteiligten kann ohne m\u00fcndliche Verhandlung entschieden werden.</P><P>(2) Sind die Beteiligten in dem Verhandlungstermin trotz rechtzeitiger Benachrichtigung nicht erschienen oder geh\u00f6rig vertreten, so kann gleichwohl in der Sache verhandelt und entschieden werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005500000",
+        "name": "\u00a7 55",
+        "title": "Untersuchungsgrundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>(1) Das Beschwerdegericht erforscht den Sachverhalt von Amts wegen.</P><P>(2) Das Gericht hat darauf hinzuwirken, dass Formfehler beseitigt, unklare Antr\u00e4ge erl\u00e4utert, sachdienliche Antr\u00e4ge gestellt, ungen\u00fcgende tats\u00e4chliche Angaben erg\u00e4nzt, ferner alle f\u00fcr die Feststellung und Beurteilung des Sachverhalts wesentlichen Erkl\u00e4rungen abgegeben werden.</P><P>(3) Das Beschwerdegericht kann den Beteiligten aufgeben, sich innerhalb einer zu bestimmenden Frist \u00fcber aufkl\u00e4rungsbed\u00fcrftige Punkte zu \u00e4u\u00dfern, Beweismittel zu bezeichnen und in ihren H\u00e4nden befindliche Urkunden sowie andere Beweismittel vorzulegen. Bei Vers\u00e4umung der Frist kann nach Lage der Sache ohne Ber\u00fccksichtigung der nicht beigebrachten Beweismittel entschieden werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005601377",
+        "name": "\u00a7 56",
+        "title": "Beschwerdeentscheidung; Vorlagepflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>(1) Das Beschwerdegericht entscheidet durch Beschluss nach seiner freien, aus dem Gesamtergebnis des Verfahrens gewonnenen \u00dcberzeugung. Der Beschluss darf nur auf Tatsachen und Beweismittel gest\u00fctzt werden, zu denen die Beteiligten sich \u00e4u\u00dfern konnten. Das Beschwerdegericht kann hiervon abweichen, soweit Beigeladenen aus berechtigten Interessen der Beteiligten oder dritter Personen Akteneinsicht nicht gew\u00e4hrt und der Akteninhalt aus diesen Gr\u00fcnden auch nicht vorgetragen worden ist. Dies gilt nicht f\u00fcr solche Beigeladene, die an dem streitigen Rechtsverh\u00e4ltnis derart beteiligt sind, dass die Entscheidung auch ihnen gegen\u00fcber nur einheitlich ergehen kann.</P><P>(2) H\u00e4lt das Beschwerdegericht die Verf\u00fcgung der Bundesanstalt f\u00fcr unzul\u00e4ssig oder unbegr\u00fcndet, so hebt es die Verf\u00fcgung auf. Hat sich die Verf\u00fcgung vorher durch Zur\u00fccknahme oder auf andere Weise erledigt, so spricht das Beschwerdegericht auf Antrag aus, dass die Verf\u00fcgung der Bundesanstalt unzul\u00e4ssig oder unbegr\u00fcndet gewesen ist, wenn der Beschwerdef\u00fchrer ein berechtigtes Interesse an dieser Feststellung hat.</P><P>(3) H\u00e4lt das Beschwerdegericht die Ablehnung oder Unterlassung der Verf\u00fcgung f\u00fcr unzul\u00e4ssig oder unbegr\u00fcndet, so spricht es die Verpflichtung der Bundesanstalt aus, die beantragte Verf\u00fcgung vorzunehmen.</P><P>(4) Die Verf\u00fcgung ist auch dann unzul\u00e4ssig oder unbegr\u00fcndet, wenn die Bundesanstalt von ihrem Ermessen fehlerhaft Gebrauch gemacht hat, insbesondere wenn sie die gesetzlichen Grenzen des Ermessens \u00fcberschritten oder durch die Ermessensentscheidung Sinn und Zweck dieses Gesetzes verletzt hat.</P><P>(5) Der Beschluss ist zu begr\u00fcnden und den Beteiligten zuzustellen.</P><P>(6) Will das Beschwerdegericht von einer Entscheidung eines Oberlandesgerichts oder des Bundesgerichtshofs abweichen, so legt es die Sache dem Bundesgerichtshof vor. Der Bundesgerichtshof entscheidet anstelle des Oberlandesgerichts.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005701377",
+        "name": "\u00a7 57",
+        "title": "Akteneinsicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>(1) Die in \u00a7 52 bezeichneten Beteiligten k\u00f6nnen die Akten des Beschwerdegerichts einsehen und sich durch die Gesch\u00e4ftsstelle auf ihre Kosten Ausfertigungen, Ausz\u00fcge und Abschriften erteilen lassen. \u00a7 299 Abs. 3 der Zivilprozessordnung gilt entsprechend.</P><P>(2) Einsicht in Vorakten, Beiakten, Gutachten und Unterlagen \u00fcber Ausk\u00fcnfte ist nur mit Zustimmung der Stellen zul\u00e4ssig, denen die Akten geh\u00f6ren oder die die \u00c4u\u00dferung eingeholt haben. Die Bundesanstalt hat die Zustimmung zur Einsicht in die ihr geh\u00f6rigen Unterlagen zu versagen, soweit dies aus wichtigen Gr\u00fcnden, insbesondere zur Wahrung von berechtigten Interessen Beteiligter oder dritter Personen, geboten ist. Wird die Einsicht abgelehnt oder ist sie unzul\u00e4ssig, d\u00fcrfen diese Unterlagen der Entscheidung nur insoweit zugrunde gelegt werden, als ihr Inhalt vorgetragen worden ist. Das Beschwerdegericht kann die Offenlegung von Tatsachen oder Beweismitteln, deren Geheimhaltung aus wichtigen Gr\u00fcnden, insbesondere zur Wahrung von berechtigten Interessen Beteiligter oder Dritter verlangt wird, nach Anh\u00f6rung des von der Offenlegung Betroffenen durch Beschluss anordnen, soweit es f\u00fcr die Entscheidung auf diese Tatsachen oder Beweismittel ankommt, andere M\u00f6glichkeiten der Sachaufkl\u00e4rung nicht bestehen und nach Abw\u00e4gung aller Umst\u00e4nde des Einzelfalles die Bedeutung der Sache f\u00fcr die Sicherung eines ordnungsgem\u00e4\u00dfen Verfahrens das Interesse des Betroffenen an der Geheimhaltung \u00fcberwiegt. Der Beschluss ist zu begr\u00fcnden. In dem Verfahren nach Satz 4 muss sich der Betroffene nicht anwaltlich vertreten lassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005800000",
+        "name": "\u00a7 58",
+        "title": "Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der\nZivilprozessordnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000800000"
+        },
+        "body": "<P>Im Verfahren vor dem Beschwerdegericht gelten, soweit nichts anderes bestimmt ist, entsprechend <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vorschriften der \u00a7\u00a7 169 bis 197 des Gerichtsverfassungsgesetzes \u00fcber \u00d6ffentlichkeit, Sitzungspolizei, Gerichtssprache, Beratung und Abstimmung und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vorschriften der Zivilprozessordnung \u00fcber Ausschlie\u00dfung und Ablehnung eines Richters, \u00fcber Prozessbevollm\u00e4chtigte und Beist\u00e4nde, \u00fcber die Zustellung von Amts wegen, \u00fcber Ladungen, Termine und Fristen, \u00fcber die Anordnung des pers\u00f6nlichen Erscheinens der Parteien, \u00fcber die Verbindung mehrerer Prozesse, \u00fcber die Erledigung des Zeugen- und Sachverst\u00e4ndigenbeweises sowie \u00fcber die sonstigen Arten des Beweisverfahrens, \u00fcber die Wiedereinsetzung in den vorigen Stand gegen die Vers\u00e4umung einer Frist.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG000900000",
+        "name": "Abschnitt 8",
+        "title": "Sanktionen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE005901119",
+        "name": "\u00a7 59",
+        "title": "Rechtsverlust",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000900000"
+        },
+        "body": "<P>Rechte aus Aktien, die dem Bieter, mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen geh\u00f6ren oder aus denen ihm, mit ihm gemeinsam handelnden Personen oder deren Tochterunternehmen Stimmrechte gem\u00e4\u00df \u00a7 30 Absatz 1 und 2 zugerechnet werden, bestehen nicht f\u00fcr die Zeit, f\u00fcr welche die Pflichten nach \u00a7 35 Abs. 1 oder 2 nicht erf\u00fcllt werden. Dies gilt nicht f\u00fcr Anspr\u00fcche nach \u00a7 58 Abs. 4 des Aktiengesetzes und \u00a7 271 des Aktiengesetzes, wenn die Ver\u00f6ffentlichung oder das Angebot nach \u00a7 35 Abs. 1 Satz 1 oder Abs. 2 Satz 1 nicht vors\u00e4tzlich unterlassen wurde und nachgeholt worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006004360",
+        "name": "\u00a7 60",
+        "title": "Bu\u00dfgeldvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000900000"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder leichtfertig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 10 Abs. 1 Satz 1, \u00a7 14 Abs. 2 Satz 1 oder \u00a7 35 Abs.1 Satz 1 oder Abs. 2 Satz 1,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 21 Abs. 2 Satz 1, \u00a7 23 Abs. 1 Satz 1 oder Abs. 2 Satz 1 oder \u00a7 27 Abs. 3 Satz 1 oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 1 Abs. 5 Satz 2 in Verbindung mit einer Rechtsverordnung nach \u00a7 1 Abs. 5 Satz 3</LA></DD></DL></LA><LA Size=\"normal\">eine Ver\u00f6ffentlichung nicht, nicht richtig, nicht vollst\u00e4ndig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 10 Abs. 2 Satz 1, auch in Verbindung mit \u00a7 35 Abs.1 Satz 4, \u00a7 14 Abs. 1 Satz 1 oder \u00a7 35 Abs. 2 Satz 1,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 10 Abs. 5, auch in Verbindung mit \u00a7 35 Abs. 1 Satz 4, oder \u00a7 14 Abs. 4, auch in Verbindung mit \u00a7 21 Abs. 2 Satz 2 oder \u00a7 35 Abs. 2 Satz 2, oder</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 27 Abs. 3 Satz 2</LA></DD></DL></LA><LA Size=\"normal\">eine Mitteilung, Unterrichtung oder \u00dcbermittlung nicht, nicht richtig, nicht vollst\u00e4ndig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 10 Abs. 3 Satz 3, auch in Verbindung mit \u00a7 35 Abs. 1 Satz 4, oder \u00a7 14 Abs. 2 Satz 2, auch in Verbindung mit \u00a7 35 Abs. 2 Satz 2, eine Ver\u00f6ffentlichung vornimmt oder eine Angebotsunterlage bekannt gibt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 10 Abs. 4 Satz 1, auch in Verbindung mit \u00a7 35 Abs. 1 Satz 4, eine Ver\u00f6ffentlichung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig \u00fcbersendet,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 14 Abs. 3 Satz 2, auch in Verbindung mit \u00a7 21 Abs. 2 Satz 2, \u00a7 23 Abs. 1 Satz 2 oder \u00a7 35 Abs. 2 Satz 2, oder entgegen \u00a7 27 Abs. 3 Satz 3 eine Mitteilung nicht, nicht richtig oder nicht rechtzeitig macht,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 15 Abs. 3 eine Ver\u00f6ffentlichung vornimmt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 26 Absatz 1 oder 2 ein Angebot abgibt,</LA></DD><DT>7a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 26 Absatz 1 oder 2 seine Absicht, ein Angebot abzugeben, gem\u00e4\u00df \u00a7 10 Absatz 3 Satz 1 ver\u00f6ffentlicht,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 33 Abs. 1 Satz 1 oder \u00a7 33a Abs. 2 Satz 1 eine dort genannte Handlung vornimmt,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 33a Abs. 3, \u00a7 33b Abs. 3 oder \u00a7 33c Abs. 3 Satz 3 eine Unterrichtung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig vornimmt oder</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 33c Abs. 3 Satz 4 eine Ver\u00f6ffentlichung nicht, nicht richtig, nicht vollst\u00e4ndig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig vornimmt.</LA></DD></DL></P><P>(2) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 28 Abs. 1 oder \u00a7 40 Abs. 1 Satz 1 zuwiderhandelt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 40 Abs. 2 Satz 1 oder 2 ein Betreten nicht gestattet oder nicht duldet.</LA></DD></DL></P><P>(3) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nummer 1 Buchstabe a, Nummer 3, 6 bis 8 mit einer Geldbu\u00dfe bis zu f\u00fcnf Millionen Euro, in den F\u00e4llen des Absatzes 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe a und Nummer 4 mit einer Geldbu\u00dfe bis zu zweieinhalb Millionen Euro und in den \u00fcbrigen F\u00e4llen mit einer Geldbu\u00dfe bis zu einer Million Euro geahndet werden.</P><P>(4) Gegen\u00fcber einer juristischen Person oder Personenvereinigung kann \u00fcber Absatz 3 hinaus eine h\u00f6here Geldbu\u00dfe verh\u00e4ngt werden; diese darf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des Absatzes 1 Nummer 1 Buchstabe a, Nummer 3, 6 bis 8 den h\u00f6heren der Betr\u00e4ge von zehn Millionen Euro und 5 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Beh\u00f6rdenentscheidung vorausgegangenen Gesch\u00e4ftsjahr erzielt hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des Absatzes 1 Nummer 1 Buchstabe b, Nummer 2 Buchstabe a und Nummer 4 den h\u00f6heren der Betr\u00e4ge von f\u00fcnf Millionen Euro und 2 Prozent des Gesamtumsatzes, den die juristische Person oder Personenvereinigung im der Beh\u00f6rdenentscheidung vorangegangenen Gesch\u00e4ftsjahr erzielt hat, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den \u00fcbrigen F\u00e4llen zwei Millionen Euro</LA></DD></DL>nicht \u00fcberschreiten.</P><P>(5) \u00dcber die in den Abs\u00e4tzen 3 und 4 genannten Betr\u00e4ge hinaus kann die Ordnungswidrigkeit mit einer Geldbu\u00dfe bis zum Zweifachen des aus dem Versto\u00df gezogenen wirtschaftlichen Vorteils geahndet werden. Der wirtschaftliche Vorteil umfasst erzielte Gewinne und vermiedene Verluste und kann gesch\u00e4tzt werden.</P><P>(6) Gesamtumsatz im Sinne des Absatzes 4 ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle von Kreditinstituten, Zahlungsinstituten, Wertpapierinstituten und Finanzdienstleistungsinstituten im Sinne des \u00a7 340 des Handelsgesetzbuchs der Gesamtbetrag, der sich aus dem auf das Institut anwendbaren nationalen Recht im Einklang mit Artikel 27 Nummer 1, 3, 4, 6 und 7 oder Artikel 28 Nummer B1, B2, B3, B4 und B7 der Richtlinie 86/635/EWG des Rates vom 8. Dezember 1986 \u00fcber den Jahresabschluss und den konsolidierten Abschluss von Banken und anderen Finanzinstituten (ABl. L 372 vom 31.12.1986, S. 1; L 316 vom 23.11.1988, S. 51), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) ge\u00e4ndert worden ist, ergibt, abz\u00fcglich der Umsatzsteuer und sonstiger direkt auf diese Ertr\u00e4ge erhobener Steuern,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle von Versicherungsunternehmen der Gesamtbetrag, der sich aus dem auf das Versicherungsunternehmen anwendbaren nationalen Recht im Einklang mit Artikel 63 der Richtlinie 91/674/EWG des Rates vom 19. Dezember 1991 \u00fcber den Jahresabschluss und den konsolidierten Abschluss von Versicherungsunternehmen (ABl. L 374 vom 31.12.1991, S. 7), die zuletzt durch die Richtlinie 2006/46/EG (ABl. L 224 vom 16.8.2006, S. 1) ge\u00e4ndert worden ist, ergibt, abz\u00fcglich der Umsatzsteuer und sonstiger direkt auf diese Ertr\u00e4ge erhobener Steuern,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im \u00dcbrigen der Betrag der Nettoumsatzerl\u00f6se nach Ma\u00dfgabe des auf das Unternehmen anwendbaren nationalen Rechts im Einklang mit Artikel 2 Nummer 5 der Richtlinie 2013/34/EU des Europ\u00e4ischen Parlaments und des Rates vom 26. Juni 2013 \u00fcber den Jahresabschluss, den konsolidierten Abschluss und damit verbundene Berichte von Unternehmen bestimmter Rechtsformen und zur \u00c4nderung der Richtlinie 2006/43/EG des Europ\u00e4ischen Parlaments und des Rates und zur Aufhebung der Richtlinien 78/660/EWG und 83/349/EWG des Rates (ABl. L 182 vom 29.6.2013, S. 19; L 369 vom 24.12.2014, S. 79), die zuletzt durch die Richtlinie 2014/102/EU (ABl. L 334 vom 21.11.2014, S. 86) ge\u00e4ndert worden ist.</LA></DD></DL></P><P>(7) Handelt es sich bei der juristischen Person oder Personenvereinigung nach Absatz 4 um ein Mutterunternehmen oder um eine Tochtergesellschaft, so ist anstelle des Gesamtumsatzes der juristischen Person oder Personenvereinigung der jeweilige Gesamtbetrag in dem Konzernabschluss des Mutterunternehmens ma\u00dfgeblich, der f\u00fcr den gr\u00f6\u00dften Kreis von Unternehmen aufgestellt wird. Wird der Konzernabschluss f\u00fcr den gr\u00f6\u00dften Kreis von Unternehmen nicht nach den in Absatz 6 genannten Vorschriften aufgestellt, ist der Gesamtumsatz nach Ma\u00dfgabe der den in Absatz 6 Nummer 1 bis 3 vergleichbaren Posten des Konzernabschlusses zu ermitteln. Ist ein Jahresabschluss oder Konzernabschluss f\u00fcr das ma\u00dfgebliche Gesch\u00e4ftsjahr nicht verf\u00fcgbar, ist der Jahres- oder Konzernabschluss f\u00fcr das unmittelbar vorausgehende Gesch\u00e4ftsjahr ma\u00dfgeblich; ist auch dieser nicht verf\u00fcgbar, kann der Gesamtumsatz gesch\u00e4tzt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006101377",
+        "name": "\u00a7 61",
+        "title": "Zust\u00e4ndige Verwaltungsbeh\u00f6rde",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000900000"
+        },
+        "body": "<P>Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Abs. 1 Nr. 1 des Gesetzes \u00fcber Ordnungswidrigkeiten ist die Bundesanstalt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006201377",
+        "name": "\u00a7 62",
+        "title": "Zust\u00e4ndigkeit des Oberlandesgerichts im gerichtlichen Verfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000900000"
+        },
+        "body": "<P>(1) Im gerichtlichen Verfahren wegen einer Ordnungswidrigkeit nach \u00a7 60 entscheidet das f\u00fcr den Sitz der Bundesanstalt in Frankfurt am Main zust\u00e4ndige Oberlandesgericht; es entscheidet auch \u00fcber einen Antrag auf gerichtliche Entscheidung (\u00a7 62 des Gesetzes \u00fcber Ordnungswidrigkeiten) in den F\u00e4llen des \u00a7 52 Abs. 2 Satz 3 und des \u00a7 69 Abs. 1 Satz 2 des Gesetzes \u00fcber Ordnungswidrigkeiten. \u00a7 140 Abs. 1 Nr. 1 der Strafprozessordnung in Verbindung mit \u00a7 46 Abs. 1 des Gesetzes \u00fcber Ordnungswidrigkeiten findet keine Anwendung.</P><P>(2) Das Oberlandesgericht entscheidet in der Besetzung von drei Mitgliedern mit Einschluss des vorsitzenden Mitglieds.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006300000",
+        "name": "\u00a7 63",
+        "title": "Rechtsbeschwerde zum Bundesgerichtshof",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000900000"
+        },
+        "body": "<P>\u00dcber die Rechtsbeschwerde (\u00a7 79 des Gesetzes \u00fcber Ordnungswidrigkeiten) entscheidet der Bundesgerichtshof. Hebt er die angefochtene Entscheidung auf, ohne in der Sache selbst zu entscheiden, so verweist er die Sache an das Oberlandesgericht, dessen Entscheidung aufgehoben wird, zur\u00fcck.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006401377",
+        "name": "\u00a7 64",
+        "title": "Wiederaufnahme gegen Bu\u00dfgeldbescheid",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000900000"
+        },
+        "body": "<P>Im Wiederaufnahmeverfahren gegen den Bu\u00dfgeldbescheid der Bundesanstalt (\u00a7 85 Abs. 4 des Gesetzes \u00fcber Ordnungswidrigkeiten) entscheidet das nach \u00a7 62 Abs. 1 zust\u00e4ndige Gericht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006500000",
+        "name": "\u00a7 65",
+        "title": "Gerichtliche Entscheidung bei der Vollstreckung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG000900000"
+        },
+        "body": "<P>Die bei der Vollstreckung notwendig werdenden gerichtlichen Entscheidungen (\u00a7 104 des Gesetzes \u00fcber Ordnungswidrigkeiten) werden von dem nach \u00a7 62 Abs. 1 zust\u00e4ndigen Gericht erlassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR382210001BJNG001000000",
+        "name": "Abschnitt 9",
+        "title": "Gerichtliche Zust\u00e4ndigkeit;\n\u00dcbergangsregelungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006601377",
+        "name": "\u00a7 66",
+        "title": "Gerichte f\u00fcr Wertpapiererwerbs und \u00dcbernahmesachen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG001000000"
+        },
+        "body": "<P>(1) F\u00fcr b\u00fcrgerliche Rechtsstreitigkeiten, die sich aus diesem Gesetz ergeben, sind ohne R\u00fccksicht auf den Wert des Streitgegenstandes die Landgerichte ausschlie\u00dflich zust\u00e4ndig. Satz 1 gilt auch f\u00fcr die in \u00a7 12 Abs. 6 genannten Anspr\u00fcche und f\u00fcr den Fall, dass die Entscheidung eines Rechtsstreits ganz oder teilweise von einer Entscheidung abh\u00e4ngt, die nach diesem Gesetz zu treffen ist. F\u00fcr Klagen, die auf Grund dieses Gesetzes oder wegen der in \u00a7 12 Abs. 6 genannten Anspr\u00fcche erhoben werden, ist auch das Landgericht zust\u00e4ndig, in dessen Bezirk die Zielgesellschaft ihren Sitz hat.</P><P>(2) Die Rechtsstreitigkeiten sind Handelssachen im Sinne der \u00a7\u00a7 93 bis 114 des Gerichtsverfassungsgesetzes.</P><P>(3) Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung b\u00fcrgerliche Rechtsstreitigkeiten, f\u00fcr die nach Absatz 1 ausschlie\u00dflich die Landgerichte zust\u00e4ndig sind, einem Landgericht f\u00fcr die Bezirke mehrerer Landgerichte zuzuweisen, wenn eine solche Zusammenfassung der Rechtspflege in Wertpapiererwerbs- und \u00dcbernahmesachen dienlich ist. Sie werden ferner erm\u00e4chtigt, die Entscheidungen \u00fcber Berufungen und Beschwerden gegen Entscheidungen der nach Absatz 1 zust\u00e4ndigen Landgerichte in b\u00fcrgerlichen Rechtsstreitigkeiten einem oder einigen der Oberlandesgerichte zuzuweisen, wenn in einem Land mehrere Oberlandesgerichte errichtet sind. Die Landesregierungen k\u00f6nnen die Erm\u00e4chtigungen auf die Landesjustizverwaltungen \u00fcbertragen. Durch Staatsvertr\u00e4ge zwischen den L\u00e4ndern kann die Zust\u00e4ndigkeit eines Landgerichts f\u00fcr einzelne Bezirke oder das gesamte Gebiet mehrerer L\u00e4nder begr\u00fcndet werden.</P><P>(4) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006700000",
+        "name": "\u00a7 67",
+        "title": "Senat f\u00fcr Wertpapiererwerbs- und \u00dcbernahmesachen beim\nOberlandesgericht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG001000000"
+        },
+        "body": "<P>In den ihm nach \u00a7 48 Abs. 4, \u00a7 62 Abs. 1, \u00a7\u00a7 64 und 65 zugewiesenen Rechtssachen entscheidet das Oberlandesgericht durch einen Wertpapiererwerbs- und \u00dcbernahmesenat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR382210001BJNE006805360",
+        "name": "\u00a7 68",
+        "title": "\u00dcbergangsregelungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR382210001BJNG001000000"
+        },
+        "body": "<P>(1) Auf Angebote, die vor dem 14. Juli 2006 ver\u00f6ffentlicht worden sind, findet dieses Gesetz in der vor dem 14. Juli 2006 geltenden Fassung Anwendung.</P><P>(2) F\u00fcr Zielgesellschaften im Sinne des \u00a7 2 Abs. 3 Nr. 2, deren stimmberechtigte Wertpapiere am 20. Mai 2006 zum Handel an einem organisierten Markt zugelassen waren, ist \u00a7 1 Abs. 3 mit der Ma\u00dfgabe anzuwenden, dass in Nummer 2 Buchstabe b Doppelbuchstabe bb an die Stelle der Entscheidung der Zielgesellschaft die Entscheidung der betroffenen Aufsichtsstellen tritt.</P><P>(3) Wird die Kontrolle \u00fcber die Zielgesellschaft dadurch erlangt, dass ein vor dem 19. August 2008 abgestimmtes Verhalten auf Grund der Neufassung des \u00a7 30 Abs. 2 ab dem 19. August 2008 zu einer Zurechnung von Stimmrechten f\u00fchrt, besteht keine Verpflichtung nach \u00a7 35 Abs. 1 Satz 1 und Abs. 2 Satz 1.</P><P>(4) Auf Angebote, die vor dem 19. August 2008 nach \u00a7 14 Abs. 2 Satz 1 ver\u00f6ffentlicht worden sind, findet dieses Gesetz in der vor dem 19. August 2008 geltenden Fassung Anwendung.</P><P>(5) \u00a7 16 Abs. 4 in der Fassung des Gesetzes zur Umsetzung der Aktion\u00e4rsrechterichtlinie vom 30. Juli 2009 (BGBl. I S. 2479) ist nicht auf Hauptversammlungen anzuwenden, zu denen vor dem 1. September 2009 einberufen wurde.</P><P>(6) Auf Widerspr\u00fcche, die vor dem 11. Juni 2021 eingelegt wurden, finden dieses Gesetz sowie die Wp\u00dcG-Widerspruchsausschuss-Verordnung in der vor dem 11. Juni 2021 geltenden Fassung Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

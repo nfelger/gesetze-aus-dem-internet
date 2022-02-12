@@ -1,0 +1,318 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR001490936",
+    "firstPublished": "1936-03-08",
+    "sourceTimestamp": "20120625154050",
+    "titleShort": null,
+    "titleLong": "Gesetz \u00fcber den Grunderwerb f\u00fcr die Kanalisierung der Mittelweser",
+    "abbreviation": "MittelweserG",
+    "slug": "mittelweserg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1936, 149",
+        "periodical": "RGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 103 G v. 8.12.2010 I 1864",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR001490936BJNG000100304",
+        "name": "-",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE000600304",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000100304"
+        },
+        "body": "<P>(1) F\u00fcr die beim Ausbau der Mittelweser von Minden bis Bremen herzustellenden Schleusenkan\u00e4le samt Nebenanlagen sowie zur Beschaffung von Entsch\u00e4digungsland f\u00fcr landwirtschaftliche Betriebe kann das <I>Reich</I> das Grundeigentum und Rechte am Grundeigentum gegen angemessene Entsch\u00e4digung entziehen oder beschr\u00e4nken.</P><P>(2) Von der Befugnis zur Beschaffung von Entsch\u00e4digungsland darf unbeschadet der Bestimmung in \u00a7 14 Abs. 2 nur in dem zwischen den Schleusenkan\u00e4len und den bisherigen Weserstrecken liegenden Gebiet und auf der anderen Seite der Schleusenkan\u00e4le nur bis zu einer zwei Kilometer seitlich der Mittellinie der Schleusenkan\u00e4le verlaufenden Grenze Gebrauch gemacht werden.</P><P>(3) Durch die Entziehung oder Beschr\u00e4nkung von Grundeigentum zur Beschaffung von Entsch\u00e4digungsland d\u00fcrfen <I>Erbh\u00f6fe und andere</I> Betriebe in ihrem Bestand nicht gef\u00e4hrdet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 1 Abs. 3 Kursivdruck u. Abs. 3 fr\u00fcherer Satz 2: Vgl. KRG Nr. 45 ABl. S. 256 (Aufhebung der Erbhofgesetze)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE000701308",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000100304"
+        },
+        "body": "<P>(1) Das preu\u00dfische Enteignungsgesetz vom 11. Juni 1874 (Preu\u00df. Gesetzsamml. S. 221) und das preu\u00dfische Gesetz \u00fcber ein vereinfachtes Enteignungsverfahren vom 26. Juli 1922 (Preu\u00df. Gesetzsamml. S. 211) finden Anwendung, soweit die Vorschriften dieses Gesetzes nichts anderes bestimmen.</P><P>(2) Die endg\u00fcltige Entscheidung \u00fcber die Art der Durchf\u00fchrung und den Umfang der Enteignung der Fl\u00e4chen f\u00fcr die Schleusenkan\u00e4le und ihre Nebenanlagen sowie \u00fcber die Zul\u00e4ssigkeit der Inanspruchnahme von fremden Grundst\u00fccken zur Ausf\u00fchrung von Vorarbeiten trifft der Bundesminister f\u00fcr Verkehr, Bau und Stadtentwicklung nach Anh\u00f6rung der zust\u00e4ndigen Landesbeh\u00f6rden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE000800304",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000100304"
+        },
+        "body": "<P>Die Entsch\u00e4digung f\u00fcr entzogenes oder beschr\u00e4nktes Grundeigentum wird in Land gew\u00e4hrt, soweit geeignetes Land f\u00fcr diesen Zweck zur Verf\u00fcgung steht und eine Entsch\u00e4digung in Land tunlich erscheint.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE000901305",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000100304"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001490936BJNG000200304",
+        "name": "-",
+        "title": "Besondere Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001490936BJNG000300304",
+        "name": "I.",
+        "title": "Enteignung mit Landentsch\u00e4digungsplan",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000200304"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001000304",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>(1) Das <I>Reich</I> legt als Tr\u00e4ger des Unternehmens der Enteignungsbeh\u00f6rde einen Landentsch\u00e4digungsplan vor, der die zur Entsch\u00e4digung in Land bestimmten Grundst\u00fccke sowie Vorschl\u00e4ge f\u00fcr ihre Zuteilung und Herrichtung f\u00fcr den landwirtschaftlichen Betrieb enth\u00e4lt.</P><P>(2) Den Landentsch\u00e4digungsplan stellt der <I>Preu\u00dfische</I> Kulturamtsvorsteher nach Anh\u00f6rung der Beteiligten <I>und des Landesbauernf\u00fchrers</I> auf.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001100304",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>Der Kulturamtsvorsteher hat zur Durchf\u00fchrung seiner Aufgaben die ihm <I>im preu\u00dfischen Umlegungsverfahren</I> zustehenden amtlichen Befugnisse. Er ist zur Beurkundung von Rechtsgesch\u00e4ften, die der Durchf\u00fchrung des Unternehmens dienen, mit Ausnahme der Auflassung befugt. Die von ihm vorgenommenen Beurkundungen stehen gerichtlichen Urkunden gleich, wenn sie in der f\u00fcr die Gerichte vorgeschriebenen Form und unter Bezugnahme auf diese Bestimmung aufgenommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 6 Kursivdruck: Vgl. \u00a7 155 Flurbereinigungsgesetz 7815-1</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001200304",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>(1) Ausz\u00fcge aus dem Landentsch\u00e4digungsplan nebst Beilagen sind in den durch die Enteignung betroffenen Gemeinden zwei Wochen lang von der Enteignungsbeh\u00f6rde zur Einsicht der Beteiligten auszulegen.</P><P>(2) Zeit und Ort der Auslegung sind orts\u00fcblich bekanntzumachen.</P><P>(3) Bis zu einer Woche nach Ablauf der Auslegungszeit kann jeder Beteiligte Einwendungen gegen den Landentsch\u00e4digungsplan erheben.</P><P>(4) Die Bekanntmachung hat die Stelle zu bezeichnen, bei der die Einwendungen schriftlich einzureichen oder m\u00fcndlich zu Protokoll zu geben sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001300304",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>(1) Nach Ablauf der Frist entscheidet die Enteignungsbeh\u00f6rde nach vorheriger m\u00fcndlicher Verhandlung \u00fcber die Einwendungen und stellt den Landentsch\u00e4digungsplan fest.</P><P>(2) Der festgestellte Landentsch\u00e4digungsplan ist den Beteiligten auszugsweise zuzustellen. Die Berechtigten werden mit dem darin bestimmten Zeitpunkt in den Besitz des ihnen zugeteilten Landes eingewiesen.</P><P>(3) Der Kulturamtsvorsteher kann die Entsch\u00e4digungsberechtigten schon vor Zustellung des Landentsch\u00e4digungsplans in den Besitz des Entsch\u00e4digungslands vorl\u00e4ufig einweisen. Wird durch den festgestellten Landentsch\u00e4digungsplan die der vorl\u00e4ufigen Besitzeinweisung zugrunde gelegte Landentsch\u00e4digung ge\u00e4ndert, so ist den Entsch\u00e4digungsberechtigten der hierdurch entstehende Schaden angemessen zu ersetzen. Die Entsch\u00e4digung wird von der Enteignungsbeh\u00f6rde festgesetzt, gegen deren Entscheidungen den Beteiligten der Rechtsweg nach den Bestimmungen des \u00a7 30 des preu\u00dfischen Enteignungsgesetzes offensteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001400304",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>In der Entscheidung \u00fcber die Entsch\u00e4digung legt die Enteignungsbeh\u00f6rde, soweit eine Landentsch\u00e4digung vorgesehen ist, der Feststellung der Enteignungsentsch\u00e4digung (\u00a7\u00a7 24ff. des preu\u00dfischen Enteignungsgesetzes) den festgestellten Landentsch\u00e4digungsplan zugrunde und entscheidet, ob und gegebenenfalls in welcher H\u00f6he neben der Landentsch\u00e4digung eine zus\u00e4tzliche Entsch\u00e4digung in Geld zu gew\u00e4hren ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001500304",
+        "name": "\u00a7 10",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>Den Beteiligten bleibt der nach \u00a7 30 des preu\u00dfischen Enteignungsgesetzes vorgesehene Rechtsweg offen. Im Rechtsweg kann, und zwar unter Ber\u00fccksichtigung der etwa gew\u00e4hrten Landentsch\u00e4digung, nur \u00fcber eine Entsch\u00e4digung in Geld entschieden werden. Bei der Bemessung der Geldentsch\u00e4digung sind die Gerichte in der Bewertung der Landentsch\u00e4digung frei.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001600304",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>Die Enteignung der Grundst\u00fccke und der Rechte an Grundst\u00fccken wird auf Antrag des Unternehmers von der Enteignungsbeh\u00f6rde ausgesprochen, sobald die Entscheidung \u00fcber die Entsch\u00e4digung den zu Enteignenden zugestellt ist und die in ihr festgestellten Geldentsch\u00e4digungen gezahlt oder hinterlegt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001700304",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>(1) \u00a7 45 Abs. 2 des preu\u00dfischen Enteignungsgesetzes gilt auch f\u00fcr die Landentsch\u00e4digung. Von dem \u00dcbergang der Rechte Dritter auf das Entsch\u00e4digungsland sind jedoch Erbbaurechte, Dienstbarkeiten und solche Reallasten ausgeschlossen, die nicht auf eine Geldleistung gerichtet sind. Ein Altenteil geht, wenn in dem Beschlu\u00df nichts anderes bestimmt ist, auf das Entsch\u00e4digungsland \u00fcber.</P><P>(2) Die Enteignungsbeh\u00f6rde ersucht das Grundbuchamt um Eintragung der aus dem Landentsch\u00e4digungsplan ersichtlichen Rechts\u00e4nderungen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001800304",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000300304"
+        },
+        "body": "<P>(1) Gesch\u00e4fte und Verhandlungen, die der Durchf\u00fchrung der Landbeschaffung und der Landentsch\u00e4digung nach Ma\u00dfgabe dieses Gesetzes dienen, sind von allen Steuern und Geb\u00fchren des <I>Reichs,</I> der L\u00e4nder, der Gemeinden und der Gemeindeverb\u00e4nde befreit. Die Befreiung gilt nicht f\u00fcr die Grunderwerbsteuer (einschlie\u00dflich Zuschl\u00e4ge), f\u00fcr die Wertzuwachssteuer und f\u00fcr die Verfolgung von Anspr\u00fcchen im ordentlichen Rechtsweg.</P><P>(2) Die Steuer- und Geb\u00fchrenfreiheit kann durch die zust\u00e4ndige Beh\u00f6rde ohne weitere Nachpr\u00fcfung zugestanden werden, wenn der Kulturamtsvorsteher versichert, da\u00df die betreffende Rechtshandlung dem in Absatz 1 genannten Zweck dient.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001490936BJNG000400304",
+        "name": "II.",
+        "title": "Umlegung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000200304"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE001900304",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000400304"
+        },
+        "body": "<P>(1) Dem <I>Umlegungsverfahren</I> unterliegen die Grundst\u00fccke innerhalb der in \u00a7 1 Abs. 2 angegebenen Begrenzung insoweit, als ihre Einbeziehung zur Aufbringung des durch den Schleusenkanal und seine Nebenanlagen eintretenden Fl\u00e4chenverlusts und zur Erzielung einer wirtschaftlich zweckm\u00e4\u00dfigen Planung erforderlich ist. Der Fl\u00e4chenverlust ist von den Verfahrensteilnehmern in einem f\u00fcr jeden Teilnehmer wirtschaftlich tragbaren Ma\u00df aufzubringen.</P><P>(2) Das gleiche gilt f\u00fcr Grundst\u00fccke au\u00dferhalb der in \u00a7 1 Abs. 2 angegebenen Begrenzung, die zur Erzielung einer wirtschaftlich zweckm\u00e4\u00dfigen Planung zugezogen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 14 Abs. 1 Kursivdruck: Vgl. \u00a7 155 Flurbereinigungsgesetz 7815-1</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE002000304",
+        "name": "\u00a7 15",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000400304"
+        },
+        "body": "<P>Die beteiligten Grundeigent\u00fcmer m\u00fcssen auch eine Ver\u00e4nderung der bisherigen Art ihres Wirtschaftsbetriebs dulden. Ist f\u00fcr die Ver\u00e4nderung ein Geb\u00e4ude umzubauen oder neu zu errichten, so gelten die Kosten als Folgeeinrichtungskosten (\u00a7 16).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE002100304",
+        "name": "\u00a7 16",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000400304"
+        },
+        "body": "<P>S\u00e4mtliche durch das <I>Umlegungsverfahren</I> entstehenden Kosten einschlie\u00dflich der Neben- und Folgeeinrichtungskosten hat der Unternehmer zu tragen, soweit die <I>Umlegung</I> in dem in \u00a7 1 Abs. 2 bezeichneten Gebiet erfolgt (\u00a7 14 Abs. 1). <I>Artikel 2 \u00a7 2, Artikel 3 des preu\u00dfischen Gesetzes vom 21. April 1934 (Preu\u00df. Gesetzsamml. S. 253) zur Ab\u00e4nderung der Umlegungsordnung vom 21. September 1920 (Preu\u00df. Gesetzsamml. S. 453) finden keine Anwendung.</I></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 16 Kursivdruck: Vgl. \u00a7 155 Flurbereinigungsgesetz 7815-1</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001490936BJNG000500304",
+        "name": "-",
+        "title": "Schlu\u00dfbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE002200304",
+        "name": "\u00a7 17",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000500304"
+        },
+        "body": "<P>Dieses Gesetz findet auch auf die zur Zeit des Inkrafttretens eingeleiteten Enteignungen Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001490936BJNE002301305",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001490936BJNG000500304"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

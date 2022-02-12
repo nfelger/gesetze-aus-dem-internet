@@ -1,0 +1,504 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR245210999",
+    "firstPublished": "1999-12-17",
+    "sourceTimestamp": "20161107221051",
+    "titleShort": "Verkehrsstatistikgesetz",
+    "titleLong": "Gesetz \u00fcber die Statistik der See- und Binnenschifffahrt, des G\u00fcterkraftverkehrs, des Luftverkehrs sowie des Schienenverkehrs und des gewerblichen Stra\u00dfen-Personenverkehrs",
+    "abbreviation": "VerkStatG",
+    "slug": "verkstatg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1999, 2452",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 20. 2.2004 I 318;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 8 G v. 24.5.2016 I 1217",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2000 +++)<BR />(+++ Amtliche Hinweise des Normgebers auf EG-Recht:<BR />     Umsetzung der<BR />       EGRL 64/95  (CELEX Nr: 395L0064)<BR />     Beachtung der<BR />       EGV 1172/98 (CELEX Nr: 398R1172) +++)<BR /><BR /></pre>Das G wurde als Artikel 1 des G v. 17.12.1999 I 2452 vom Bundestag mit Zustimmung beschlossen. Es ist gem. Art. 6 Satz 1 dieses G mWv 1.1.2000 in Kraft getreten.</P><P><BR /> Die Regelungen des 2. Abschnitts dienen der Umsetzung der Richtlinie 95/64/EG des Rates vom 8. Dezember 1995 \u00fcber die statistische Erfassung des G\u00fcter- und Personenseeverkehrs (ABl. EG Nr. L 320, S. 25). <BR />Die Regelungen f\u00fcr die G\u00fcterkraftverkehrsstatistik ber\u00fccksichtigen die Verordnung 1172/98 (EG) des Rates vom 25. Mai 1998 \u00fcber die statistische Erfassung des G\u00fcterkraftverkehrs (ABl. EG Nr. L 163, S. 1). <BR />\u00dcberschrift: IdF d. Art. 1 Nr. 1 G v. 12.12.2003 I 2518 mWv 1.1.2004</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE000502310",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"80*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 1</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Allgemeine Vorschrift</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 1</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anordnung als Bundesstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 2</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Statistik der See- und Binnenschifffahrt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 2</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erhebungsbereich</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 3</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Schifffahrtsstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 4</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unternehmensstatistik der Binnenschifffahrt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 5</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anschriften\u00fcbermittlung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 3</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Statistik des G\u00fcterkraftverkehrs</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 6</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erhebungsbereich</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 7</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">G\u00fcterkraftverkehrsstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 8</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unternehmensstatistik des G\u00fcterkraftverkehrs</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 9</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Kennzeichen\u00fcbermittlung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 10</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Vernichtung von Erhebungsunterlagen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 4</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Statistik des Luftverkehrs</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 11</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erhebungsbereich</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 12</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Luftverkehrsstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 13</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unternehmensstatistik der Luftfahrt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 14</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Berichtszeitraum</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 15</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anschriften\u00fcbermittlung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 5</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Statistik des Schienenverkehrs und des gewerblichen Stra\u00dfen-Personenverkehrs</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 16</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erhebungsbereich</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 17</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Personenverkehrsstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 18</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Schienen-Personenfernverkehrsstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 19</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Schienen-G\u00fcterverkehrsstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 20</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Schieneninfrastrukturstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 21</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Schienenverkehrsunfallstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 22</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Statistik der Verkehrsstr\u00f6me im Eisenbahnnetz</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 23</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Berichtszeitraum</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 24</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anschriften\u00fcbermittlung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col1\" valign=\"top\">Abschnitt 6</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col3\" namest=\"col2\" valign=\"top\">Durchf\u00fchrungsbestimmungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 25</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Hilfsmerkmale</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 26</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Auskunftspflicht</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 27</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Durchf\u00fchrung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 28</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbermittlungsregelung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 29</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ver\u00f6ffentlichung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 30</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verordnungserm\u00e4chtigung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col2\" namest=\"col1\" valign=\"top\">\u00a7 31</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zust\u00e4ndigkeit f\u00fcr die Verfolgung und Ahndung von Ordnungswidrigkeiten</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR245210999BJNG000102310",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Vorschrift",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE000602310",
+        "name": "\u00a7 1",
+        "title": "Anordnung als Bundesstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000102310"
+        },
+        "body": "<P>Zur Beurteilung der Struktur und der Entwicklung des See- und Binnenschiffsverkehrs, des G\u00fcterkraftverkehrs, des Luftverkehrs sowie des Schienenverkehrs und des gewerblichen Stra\u00dfen-Personenverkehrs werden statistische Erhebungen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Schiffs-, G\u00fcter- und Personenverkehr in der Seeschifffahrt und den Schiffs- und G\u00fcterverkehr in der Binnenschifffahrt (Schifffahrtsstatistik),</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unternehmen der Binnenschifffahrt (Unternehmensstatistik der Binnenschifffahrt),</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den G\u00fcterkraftverkehr (G\u00fcterkraftverkehrsstatistik),</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unternehmen des G\u00fcterkraftverkehrs (Unternehmensstatistik des G\u00fcterkraftverkehrs),</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Luftverkehr (Luftverkehrsstatistik),</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unternehmen der Luftfahrt (Unternehmensstatistik der Luftfahrt),</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Personennahverkehr mit Eisenbahnen, Stra\u00dfenbahnen und Omnibussen und den Personenfernverkehr mit Omnibussen (Personenverkehrsstatistik),</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Schienen-Personenfernverkehr (Schienen-Personenfernverkehrsstatistik),</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Schienen-G\u00fcterverkehr (Schienen-G\u00fcterverkehrsstatistik),</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Schieneninfrastruktur (Schieneninfrastrukturstatistik),</LA></DD> <DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Schienenverkehrsunf\u00e4lle (Schienenverkehrsunfallstatistik),</LA></DD> <DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verkehrsstr\u00f6me im Eisenbahnnetz</LA></DD> </DL>als Bundesstatistik durchgef\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR245210999BJNG000202310",
+        "name": "Abschnitt 2",
+        "title": "Statistik der\nSee- und Binnenschifffahrt",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE000701310",
+        "name": "\u00a7 2",
+        "title": "Erhebungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000202310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 1 erfasst, sofern Satz 2 nichts anderes bestimmt, alle Binnen- oder Seeschiffe zur gewerbsm\u00e4\u00dfigen G\u00fcterbef\u00f6rderung sowie alle Seeschiffe zur gewerbsm\u00e4\u00dfigen Personenbef\u00f6rderung, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in K\u00fcsten- und Binnenh\u00e4fen innerhalb des Geltungsbereichs dieses Gesetzes ankommen und abgehen oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Binnenschifffahrtsstra\u00dfen im Geltungsbereich dieses Gesetzes benutzen und keinen Hafen im Geltungsbereich dieses Gesetzes anlaufen (Durchgangsverkehr).</LA></DD> </DL>Ausgenommen sind Schiffe in der Seeschifffahrt mit einer Bruttoraumzahl von weniger als 100 und Schiffe in der Binnenschifffahrt mit einer Tragf\u00e4higkeit von weniger als 50 Tonnen.</P><P>(2) Die Erhebung nach \u00a7 1 Nr. 2 erfasst alle Unternehmen, die Binnenschifffahrt betreiben, mit Ausnahme derjenigen Unternehmen, die in der Binnenschifffahrt ausschlie\u00dflich F\u00e4hr- und Hafenverkehr betreiben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE000801310",
+        "name": "\u00a7 3",
+        "title": "Schifffahrtsstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000202310"
+        },
+        "body": "<P>Die Erhebung nach \u00a7 1 Nr. 1 erfasst laufend folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Schiffe:</LA><LA Size=\"normal\">Art, Flagge und Tragf\u00e4higkeit, in der Seeschifffahrt zus\u00e4tzlich Bruttoraumzahl;</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Fahrten:</LA><LA Size=\"normal\">Meldehafen, Ankunfts- und Abgangstag, in der Binnenschifffahrt zus\u00e4tzlich der Fahrtweg;</LA></DD>  <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die eingeladenen oder ausgeladenen sowie im Durchgangsverkehr bef\u00f6rderten G\u00fcter und Ladungseinheiten:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ein- und Ausladehafen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bruttogewicht nach G\u00fcter- und Ladungsart,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl und Beladungszustand nach Gr\u00f6\u00dfe der Container und Art der RoRo-Einheiten;</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die in der Seeschifffahrt bef\u00f6rderten Personen:</LA><LA Size=\"normal\">Zahl nach Zu- und Ausstiegshafen.</LA></DD>  </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE000901310",
+        "name": "\u00a7 4",
+        "title": "Unternehmensstatistik der Binnenschifffahrt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000202310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 2 erfasst j\u00e4hrlich folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schwerpunkt der wirtschaftlichen T\u00e4tigkeit des Unternehmens,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art der Binnenschifffahrtst\u00e4tigkeit,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der in der Binnenschifffahrt Besch\u00e4ftigten nach Stellung im Beruf und Art der ausge\u00fcbten T\u00e4tigkeit,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Umsatz aus Binnenschifffahrtst\u00e4tigkeit nach Arten,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl, Lade- und Platzkapazit\u00e4t sowie Maschinenleistung der f\u00fcr die Binnenschifffahrt verf\u00fcgbaren Schiffe nach Art der Schiffe.</LA></DD> </DL> </P><P>(2) Die Erhebungsmerkmale nach Absatz 1 Nr. 1, 2 und 4 werden f\u00fcr das Berichtsjahr, die Erhebungsmerkmale nach Absatz 1 Nr. 3 und 5 werden f\u00fcr den Juni des Berichtsjahres erfasst. Berichtsjahr ist das dem Zeitpunkt der Erhebung vorangegangene Kalenderjahr oder das letzte abgeschlossene Gesch\u00e4ftsjahr.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001003116",
+        "name": "\u00a7 5",
+        "title": "Anschriften\u00fcbermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000202310"
+        },
+        "body": "<P>(1) F\u00fcr die Durchf\u00fchrung der Erhebung nach \u00a7 1 Nr. 1 \u00fcbermitteln den statistischen \u00c4mtern der L\u00e4nder und dem Statistischen Bundesamt jeweils f\u00fcr deren Zust\u00e4ndigkeitsbereich auf Anforderung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nat\u00fcrlichen Personen und die juristischen Personen des \u00f6ffentlichen und privaten Rechts, welche die H\u00e4fen verwalten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Betreiber der in den H\u00e4fen vorhandenen Umschlagseinrichtungen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Betreiber der in den H\u00e4fen vorhandenen Einrichtungen zur Personenabfertigung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Grenzzollstellen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Wasserstra\u00dfen- und Schifffahrtsverwaltung des Bundes</LA></DD></DL>Bezeichnung und Anschrift des Auskunftspflichtigen, sofern sie nach \u00a7 26 Abs. 3 Satz 1 und 2 zum Angebot der \u00dcbermittlung der Angaben f\u00fcr die Schifffahrtsstatistik verpflichtet sind und der Auskunftspflichtige dieses Angebot nicht annimmt.</P><P>(2) F\u00fcr die Durchf\u00fchrung der Erhebung nach \u00a7 1 Nr. 2 \u00fcbermitteln dem Statistischen Bundesamt auf Anforderung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Berufsgenossenschaft Verkehrswirtschaft Post-Logistik Telekommunikation Name und Anschrift von Binnenschifffahrt betreibenden Unternehmen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 9 Abs. 1 des Binnenschifffahrtsaufgabengesetzes zust\u00e4ndige Stelle Name und Anschrift derjenigen Eigent\u00fcmer von Binnenschiffen, die ihren Gesch\u00e4ftssitz im Geltungsbereich dieses Gesetzes haben; dieses Gesetz ist in der Fassung der Bekanntmachung vom 4. August 1986 (BGBl. I S. 1270), das zuletzt durch Artikel 3 des Gesetzes vom 17. Dezember 1999 (BGBl. I S. 2452) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung anzuwenden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Generaldirektion Wasserstra\u00dfen und Schifffahrt Name und Anschrift der inl\u00e4ndischen Eigent\u00fcmer der geeichten Schiffe,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vermieter von Binnenschiffen Name und Anschrift derjenigen Mieter oder P\u00e4chter, die ihren Gesch\u00e4ftssitz im Geltungsbereich dieses Gesetzes haben.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR245210999BJNG000302310",
+        "name": "Abschnitt 3",
+        "title": "Statistik des G\u00fcterkraftverkehrs",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001102310",
+        "name": "\u00a7 6",
+        "title": "Erhebungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000302310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 3 erfasst Verkehrsleistungen des gewerblichen G\u00fcterkraftverkehrs und des Werkverkehrs. Sie erstreckt sich auf im Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes nach \u00a7 33 Abs. 1 und 2 des Stra\u00dfenverkehrsgesetzes enthaltene Lastkraftfahrzeuge (Lastkraftwagen und Sattelzugmaschinen), deren zul\u00e4ssiges Gesamtgewicht 6 Tonnen oder deren Nutzlast 3,5 Tonnen \u00fcbersteigt, sowie die von diesen Lastkraftfahrzeugen gezogenen Anh\u00e4nger und Sattelauflieger. In die Erhebung einbezogen wird je Berichtszeitraum eine repr\u00e4sentative Auswahl von h\u00f6chstens f\u00fcnf Promille der Erhebungseinheiten nach Satz 2.</P><P>(2) Die Erhebung nach \u00a7 1 Nr. 4 erfasst den gewerblichen G\u00fcterkraftverkehr und den Werkverkehr. Sie erstreckt sich auf eine repr\u00e4sentative Auswahl von h\u00f6chstens 10 vom Hundert der Unternehmen, die G\u00fcterkraftverkehr als Haupt-, Neben- oder Hilfst\u00e4tigkeit aus\u00fcben und die Lastkraftfahrzeuge mit mehr als 3,5 Tonnen zul\u00e4ssigem Gesamtgewicht einsetzen. Auswahlgrundlage f\u00fcr die Erhebung ist: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den gewerblichen G\u00fcterkraftverkehr die Unternehmensdatei nach \u00a7 15 des G\u00fcterkraftverkehrsgesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Werkverkehr die Werkverkehrsdatei nach \u00a7 15a des G\u00fcterkraftverkehrsgesetzes.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001201310",
+        "name": "\u00a7 7",
+        "title": "G\u00fcterkraftverkehrsstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000302310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 3 erfasst laufend folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Fahrzeuge:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Alter des Kraftfahrzeuges (Lastkraftwagen oder Sattelzugmaschinen) in Jahren (seit der ersten Zulassung),</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">zul\u00e4ssiges Gesamtgewicht und Nutzlast in 100 Kilogramm,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Motorleistung,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Radachsenkonfiguration (Zahl der Achsen),</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Fahrzeug- und Aufbauart,</LA></DD> <DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bundesland der Zulassung,</LA></DD> <DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirtschaftszweig des Fahrzeughalters,</LA></DD> <DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">Einsetzbarkeit im Kombinierten Verkehr,</LA></DD> <DT>i)</DT><DD Font=\"normal\"><LA Size=\"normal\">Schadstoffemissionen nach Emissionsklassen;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr s\u00e4mtliche im Berichtszeitraum beginnenden Fahrten bis zu ihrem Fahrtende:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Verkehrsart,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Stand des Kilometerz\u00e4hlers am Anfang und am Ende des Berichtszeitraumes,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Art des bef\u00f6rderten Gutes,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der Bef\u00f6rderung gef\u00e4hrlicher G\u00fcter die Gefahrklasse gem\u00e4\u00df der Richtlinie 94/55/EG des Rates vom 21. November 1994 und zus\u00e4tzlich die Angabe, ob die G\u00fcter dem \u00a7 7 der Gefahrgutverordnung Stra\u00dfe unterliegen,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Gewicht des Gutes (Bruttogewicht in 100 Kilogramm je G\u00fcterart),</LA></DD> <DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Leerfahrten Ort und Staat des Fahrtantritts und -endes sowie die zur\u00fcckgelegte Entfernung,</LA></DD> <DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Ladungsfahrten f\u00fcr jede Be- und Entladestelle jeweils Ort und Staat sowie die zwischen den jeweiligen Orten zur\u00fcckgelegte Entfernung,</LA></DD> <DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">Stelle (Ort und Staat) der Verladung und Abladung des G\u00fcterkraftfahrzeuges (Lastkraftwagen, Lastzug, Sattelkraftfahrzeug) oder seiner Bestandteile (Anh\u00e4nger, Sattelauflieger, Wechselaufbau) oder Ladeeinheit (Container, Wechselbeh\u00e4lter) auf ein anderes und von einem anderen Transportmittel sowie die Art des Transportmittels,</LA></DD> <DT>i)</DT><DD Font=\"normal\"><LA Size=\"normal\">Frachtart,</LA></DD> <DT>j)</DT><DD Font=\"normal\"><LA Size=\"normal\">Auslastungsgrad des Rauminhalts,</LA></DD> <DT>k)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Transit durchquerte L\u00e4nder.</LA></DD> </DL> </LA></DD> </DL></P><P>(2) Berichtszeitraum der Erhebung ist die Halbwoche von Sonntag 22.00 Uhr bis Mittwoch 24.00 Uhr und von Donnerstag 0.00 Uhr bis Sonntag 22.00 Uhr.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001303310",
+        "name": "\u00a7 8",
+        "title": "Unternehmensstatistik des G\u00fcterkraftverkehrs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000302310"
+        },
+        "body": "<P>(1) F\u00fcr die Erhebung nach \u00a7 1 Nr. 4 werden j\u00e4hrlich folgende Erhebungsmerkmale erfasst: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Unternehmen:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wirtschaftliche T\u00e4tigkeit und deren Schwerpunkt,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beteiligung am G\u00fcterkraftverkehr nach Verkehrsarten und Hauptverkehrsbeziehungen,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Fahrzeuge zur G\u00fcterbef\u00f6rderung, ausgenommen Personenkraftwagen, nach Fahrzeug- und Aufbauarten sowie deren Nutzlast und zul\u00e4ssiges Gesamtgewicht;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der im G\u00fcterkraftverkehr Besch\u00e4ftigten nach Stellung im Beruf und Art der ausge\u00fcbten T\u00e4tigkeit.</LA></DD></DL></P><P>(2) Die Erhebung wird, beginnend mit dem Jahr 2010, alle f\u00fcnf Jahre nach dem Stand des letzten Werktages im Oktober (Zeitpunkt der Erhebung) durchgef\u00fchrt. Dies gilt nicht f\u00fcr die Erhebungsmerkmale nach Absatz 1 Nr. 1 Buchstabe b. Diese werden jeweils f\u00fcr das dem Zeitpunkt der Erhebung vorangegangene Kalenderjahr oder das letzte abgeschlossene Gesch\u00e4ftsjahr erhoben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001402310",
+        "name": "\u00a7 9",
+        "title": "Kennzeichen\u00fcbermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000302310"
+        },
+        "body": "<P>(1) Zur Durchf\u00fchrung der G\u00fcterkraftverkehrsstatistik nach \u00a7 1 Nr. 3 \u00fcbermittelt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Kraftfahrt-Bundesamt aus dem Zentralen Fahrzeugregister die amtlichen Kennzeichen der im Stichprobenverfahren ermittelten Lastkraftfahrzeuge sowie die Namen und Anschriften der Fahrzeughalter an die f\u00fcr die G\u00fcterkraftverkehrsstatistik zust\u00e4ndige Stelle im Kraftfahrt-Bundesamt;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die G\u00fcterkraftverkehrsstatistik zust\u00e4ndige Stelle im Kraftfahrt-Bundesamt die von den Unternehmen mitgeteilten amtlichen Kennzeichen der Lastkraftfahrzeuge und der Kraftfahrzeuganh\u00e4nger an das Zentrale Fahrzeugregister des Kraftfahrt-Bundesamtes, das dieser Stelle die anhand der Kennzeichen aus dem Zentralen Fahrzeugregister ermittelten fahrzeugbezogenen Merkmale nach \u00a7 7 Abs. 1 Nr. 1 mitteilt.</LA></DD></DL></P><P>(2) Zur Durchf\u00fchrung der Unternehmensstatistik des G\u00fcterkraftverkehrs nach \u00a7 1 Nr. 4 \u00fcbermittelt die im Bundesamt f\u00fcr G\u00fcterverkehr zust\u00e4ndige Stelle die von den Unternehmen des gewerblichen G\u00fcterkraftverkehrs und des Werkverkehrs mitgeteilten amtlichen Kennzeichen der Lastkraftfahrzeuge und Kraftfahrzeuganh\u00e4nger dem Zentralen Fahrzeugregister des Kraftfahrt-Bundesamtes, das an diese Stelle die anhand der Kennzeichen aus dem Zentralen Fahrzeugregister ermittelten fahrzeugbezogenen Merkmale nach \u00a7 8 Abs. 1 Nr. 2 mitteilt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001502310",
+        "name": "\u00a7 10",
+        "title": "Vernichtung von Erhebungsunterlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000302310"
+        },
+        "body": "<P>(1) Jeweils sp\u00e4testens drei Monate nach Ver\u00f6ffentlichung eines Bef\u00f6rderungsmonats sind beim Kraftfahrt-Bundesamt die Erhebungsunterlagen zur Erhebung nach \u00a7 1 Nr. 3 zu vernichten.</P><P>(2) Jeweils sp\u00e4testens ein Jahr nach dem Erhebungsstichtag sind beim Bundesamt f\u00fcr G\u00fcterverkehr die Erhebungsunterlagen zur Erhebung nach \u00a7 1 Nr. 4 zu vernichten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR245210999BJNG000501310",
+        "name": "Abschnitt 4",
+        "title": "Statistik des Luftverkehrs",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002301310",
+        "name": "\u00a7 11",
+        "title": "Erhebungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000501310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 5 erfasst den gewerblichen und nichtgewerblichen Luftverkehr auf Flugpl\u00e4tzen.</P><P>(2) Die Erhebung nach \u00a7 1 Nr. 6 erfasst alle Unternehmen, die gewerbsm\u00e4\u00dfig Luftverkehr zur G\u00fcter- und Personenbef\u00f6rderung betreiben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002401310",
+        "name": "\u00a7 12",
+        "title": "Luftverkehrsstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000501310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 5 zum gewerblichen Luftverkehr erfasst auf Flugpl\u00e4tzen mit mehr als 150.000 Fluggasteinheiten im Vorjahr bei Start und Landung laufend folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Luftfahrzeug:</LA><LA Size=\"normal\">Halter, Muster und Kennzeichen sowie angebotene Sitzplatz- und Nutzlastkapazit\u00e4t,</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Flug:</LA><LA Size=\"normal\">Flugnummer, Datum, Flugweg und Flugart,</LA></DD>  <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Flugg\u00e4ste:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der ein- oder aussteigenden sowie der durchreisenden Flugg\u00e4ste,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Streckenherkunfts-, Streckenziel- und Endzielflugpl\u00e4tze der ein- oder aussteigenden Flugg\u00e4ste,</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Fracht- und Postg\u00fcter:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bruttogewicht der ein- oder ausgeladenen sowie der durchgehenden Fracht- und Postg\u00fcter,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Herkunfts- und Zielflugpl\u00e4tze der ein- oder ausgeladenen Fracht- und Postg\u00fcter.</LA></DD> </DL> </LA></DD> </DL></P><P>(2) Die Erhebung nach \u00a7 1 Nr. 5 zum gewerblichen Luftverkehr erfasst auf Flugpl\u00e4tzen mit bis zu 150.000 Fluggasteinheiten im Vorjahr j\u00e4hrlich folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Starts und Landungen von Luftfahrzeugen nach Flugarten und Luftfahrzeugmustern,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der ein- und aussteigenden Flugg\u00e4ste,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bruttogewicht der ein- und ausgeladenen Fracht- und Postg\u00fcter.</LA></DD> </DL> </P><P>(3) Die Erhebung nach \u00a7 1 Nr. 5 zum Werkverkehr und zum sonstigen nichtgewerblichen Luftverkehr erfasst auf allen Flugpl\u00e4tzen j\u00e4hrlich die Zahl der Starts und Landungen von Luftfahrzeugen nach Flugarten und Luftfahrzeugmustern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002501310",
+        "name": "\u00a7 13",
+        "title": "Unternehmensstatistik der Luftfahrt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000501310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 6 erfasst j\u00e4hrlich folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wirtschaftliche T\u00e4tigkeit und Schwerpunkt der wirtschaftlichen T\u00e4tigkeit des Unternehmens,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der verf\u00fcgbaren Luftfahrzeuge nach Luftfahrzeugmuster und Startgewicht,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der in der Luftfahrt Besch\u00e4ftigten nach Stellung im Beruf und Art der ausge\u00fcbten T\u00e4tigkeit,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Umsatz aus Luftverkehrst\u00e4tigkeiten nach Arten.</LA></DD> </DL> </P><P>(2) Die Erhebungsmerkmale nach Absatz 1 Nr. 1 bis 3 werden nach dem Stand vom 30. Juni des Berichtsjahres, die Erhebungsmerkmale nach Absatz 1 Nr. 4 werden f\u00fcr das Berichtsjahr erfasst.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002601310",
+        "name": "\u00a7 14",
+        "title": "Berichtszeitraum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000501310"
+        },
+        "body": "<P>Berichtsjahr f\u00fcr die j\u00e4hrlichen Erhebungen nach \u00a7 1 Nr. 5 und 6 ist das dem Zeitpunkt der Erhebung vorangegangene Kalenderjahr oder das im vorangegangenen Kalenderjahr abgelaufene Gesch\u00e4ftsjahr.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002701310",
+        "name": "\u00a7 15",
+        "title": "Anschriften\u00fcbermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000501310"
+        },
+        "body": "<P>F\u00fcr die Durchf\u00fchrung der Erhebung nach \u00a7 1 Nr. 6 \u00fcbermitteln das Luftfahrt-Bundesamt und die auf Landesebene zust\u00e4ndigen Beh\u00f6rden auf Anforderung dem Statistischen Bundesamt Namen und Anschriften von Luftverkehr betreibenden Unternehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR245210999BJNG000601310",
+        "name": "Abschnitt 5",
+        "title": "Statistik des Schienenverkehrs und des\ngewerblichen Stra\u00dfen-Personenverkehrs",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002801310",
+        "name": "\u00a7 16",
+        "title": "Erhebungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 7 wird durchgef\u00fchrt bei Unternehmen, die als Betriebsf\u00fchrer oder beauftragte Bef\u00f6rderer \u00f6ffentlichen Personennahverkehr mit Eisenbahnen oder Stra\u00dfenbahnen (Schienennahverkehr) oder Personennah- oder Personenfernverkehr mit Omnibussen betreiben, und zwar bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unternehmen, die mindestens 250.000 Fahrg\u00e4ste im Jahr bef\u00f6rdert haben, nach \u00a7 17 Abs. 1,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">h\u00f6chstens 2.500 Unternehmen, die weniger als 250.000 Fahrg\u00e4ste im Jahr bef\u00f6rdert haben, nach \u00a7 17 Abs. 2,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">allen Unternehmen nach \u00a7 17 Abs. 3.</LA></DD> </DL>Ob die Schwellenwerte nach Satz 1 Nr. 1 und 2 erreicht sind, beurteilt sich nach den Ergebnissen der Erhebung nach Satz 1 Nr. 3.</P><P>(2) Die Erhebung nach \u00a7 1 Nr. 8 wird durchgef\u00fchrt bei Unternehmen, die Schienen-Personenfernverkehr betreiben.</P><P>(3) Die Erhebung nach \u00a7 1 Nr. 9 wird durchgef\u00fchrt bei Unternehmen, die G\u00fcterverkehr auf dem inl\u00e4ndischen Schienennetz des \u00f6ffentlichen Verkehrs betreiben, und zwar bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unternehmen, die im Vorjahr eine Bef\u00f6rderungsleistung von mindestens 10 Millionen Tonnenkilometer insgesamt oder 1 Million Tonnenkilometer im kombinierten Verkehr erbracht haben, nach \u00a7 19 Abs. 1 und 3,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Unternehmen, die im Vorjahr eine Bef\u00f6rderungsleistung von weniger als 10 Millionen Tonnenkilometer insgesamt oder 1 Million Tonnenkilometer im kombinierten Verkehr erbracht haben, nach \u00a7 19 Abs. 2 und 3.</LA></DD> </DL> </P><P>(4) Die Erhebungen nach \u00a7 1 Nr. 10 und 11 werden durchgef\u00fchrt bei Unternehmen, die Schienenstrecken des \u00f6ffentlichen Verkehrs betreiben.</P><P>(5) Die Erhebung nach \u00a7 1 Nr. 12 wird durchgef\u00fchrt bei Unternehmen, die Eisenbahnstrecken des \u00f6ffentlichen Verkehrs betreiben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002901310",
+        "name": "\u00a7 17",
+        "title": "Personenverkehrsstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 7 in Verbindung mit \u00a7 16 Abs. 1 Satz 1 Nr. 1 erfasst folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">viertelj\u00e4hrlich:</LA><LA Size=\"normal\">Zahl der Fahrg\u00e4ste und Bef\u00f6rderungsleistung im Schienennahverkehr nach Art des Verkehrsmittels und im Liniennah- und Linienfernverkehr mit Omnibussen;</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">j\u00e4hrlich:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Land des Unternehmenssitzes und Eigentumsverh\u00e4ltnisse am Unternehmen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Fahrg\u00e4ste, Bef\u00f6rderungsleistung, Fahrleistung und Bef\u00f6rderungsangebot im Schienen- und Liniennahverkehr nach Art des Verkehrsmittels und im Gelegenheitsnahverkehr,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Fahrg\u00e4ste im Ausbildungsverkehr nach Art des Verkehrsmittels und nach Art des Ausbildungsverkehrs,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">direkte Bef\u00f6rderungseinnahmen und Einnahmen aus den Bef\u00f6rderungen im Ausbildungsverkehr, die im Schienen- und Liniennahverkehr sowie im freigestellten Omnibusverkehr erfolgen,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Fahrleistung im st\u00e4dtischen Verkehr sowie Fahrleistung im Auftragsverkehr im Schienen- und Liniennahverkehr nach Art des Verkehrsmittels,</LA></DD> <DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Fernverkehr mit Omnibussen nach Linien- und Gelegenheitsverkehr die Zahl der Fahrg\u00e4ste und die Bef\u00f6rderungsleistung nach Hauptverkehrsverbindungen, die Fahrleistung und das Bef\u00f6rderungsangebot nach In- und Ausland,</LA></DD> <DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Fahrg\u00e4ste nach Art der Reisen im Gelegenheitsfernverkehr,</LA></DD> <DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bef\u00f6rderungsleistung im Schienen- und Liniennahverkehr nach L\u00e4ndern,</LA></DD> <DT>i)</DT><DD Font=\"normal\"><LA Size=\"normal\">Fahrleistung im Schienen- und Liniennahverkehr nach Kreisen.</LA></DD> </DL> </LA></DD> </DL></P><P>(2) Die Erhebung nach \u00a7 1 Nr. 7 in Verbindung mit \u00a7 16 Abs. 1 Satz 1 Nr. 2 erfasst j\u00e4hrlich die in Absatz 1 Nr. 2 Buchstabe a bis g genannten Erhebungsmerkmale.</P><P>(3) Die Erhebung nach \u00a7 1 Nr. 7 in Verbindung mit \u00a7 16 Abs. 1 Satz 1 Nr. 3 erfasst f\u00fcnfj\u00e4hrlich die in Absatz 1 Nr. 2 genannten Erhebungsmerkmale und zus\u00e4tzlich folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Linienl\u00e4ngen des Nahverkehrs nach Art des Verkehrsmittels und nach L\u00e4ndern,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Linien des Nahverkehrs nach Art des Verkehrsmittels,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl und Platzkapazit\u00e4t der Schienenfahrzeuge nach Art der Fahrzeuge sowie Zahl und Platzkapazit\u00e4t der Omnibusse nach Einsatzarten,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Besch\u00e4ftigten nach Art des Verkehrsmittels und nach Einsatzarten.</LA></DD> </DL> </P><P>(4) Die Erhebungsmerkmale nach Absatz 1 Nr. 2 Buchstabe a und Absatz 3 werden nach dem Stand vom 31. Dezember des Berichtsjahres erfasst. Die Erhebungen nach Absatz 1 Nr. 2 und Absatz 2 entfallen in den Jahren, in denen die f\u00fcnfj\u00e4hrliche Erhebung nach Absatz 3 durchgef\u00fchrt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE003001310",
+        "name": "\u00a7 18",
+        "title": "Schienen-Personenfernverkehrsstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 8 in Verbindung mit \u00a7 16 Abs. 2 erfasst folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">viertelj\u00e4hrlich:</LA><LA Size=\"normal\">Zahl der Fahrg\u00e4ste und Bef\u00f6rderungsleistung;</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">j\u00e4hrlich:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Land des Unternehmenssitzes und Eigentumsverh\u00e4ltnisse am Unternehmen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Fahrg\u00e4ste und Bef\u00f6rderungsleistung nach Hauptverkehrsverbindungen, Fahrleistung in Zugkilometern und Bef\u00f6rderungsangebot nach In- und Ausland,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Fahrg\u00e4ste im internationalen Verkehr nach dem Staat des Einstiegs und dem Staat des Ausstiegs;</LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcnfj\u00e4hrlich:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl und Platzkapazit\u00e4t der Schienenfahrzeuge nach Art der Fahrzeuge,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Besch\u00e4ftigten nach Einsatzart,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Fahrg\u00e4ste nach Ein- und Aussteigeregion nach der NUTS-2-Regionalgliederung von Anhang I der Verordnung (EG) Nr. 1059/2003 des Europ\u00e4ischen Parlaments und des Rates vom 26. Mai 2003 \u00fcber die Schaffung einer gemeinsamen Klassifikation der Gebietseinheiten f\u00fcr die Statistik (NUTS) (ABl. EU Nr. L 154 S. 1) in der jeweils geltenden Fassung.</LA></DD> </DL> </LA></DD> </DL></P><P>(2) Die Erhebungsmerkmale nach Absatz 1 Nr. 2 Buchstabe a sowie Nr. 3 Buchstabe a und b werden nach dem Stand vom 31. Dezember des Berichtsjahres erfasst.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE003101310",
+        "name": "\u00a7 19",
+        "title": "Schienen-G\u00fcterverkehrsstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>(1) Die Erhebung nach \u00a7 1 Nr. 9 in Verbindung mit \u00a7 16 Abs. 3 Nr. 1 erfasst folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">monatlich:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">bef\u00f6rderte G\u00fcter (ohne kombinierten Verkehr) nach Menge, Bef\u00f6rderungsleistung, G\u00fcterart und Kreis der Be- und Entladung,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bef\u00f6rderte G\u00fcter im kombinierten Verkehr nach Menge, Bef\u00f6rderungsleistung, Art der Ladeeinheit und Kreis der Be- und Entladung,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">bef\u00f6rderte Ladeeinheiten des kombinierten Verkehrs nach Anzahl, Art, Ladezustand sowie Kreis der Be- und Entladung;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">j\u00e4hrlich:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">bef\u00f6rderte G\u00fcter nach Menge, Bef\u00f6rderungsleistung und Art der Bef\u00f6rderung (Ganzzug, Waggonladung),</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">bef\u00f6rderte Gefahrg\u00fcter nach Menge, Bef\u00f6rderungsleistung, Gefahrgutklassen und Hauptverkehrsverbindungen,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Fahrleistung in Zugkilometern,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Land des Unternehmenssitzes und Eigentumsverh\u00e4ltnisse am Unternehmen.</LA></DD> </DL> </LA></DD> </DL></P><P>(2) Die Erhebung nach \u00a7 1 Nr. 9 in Verbindung mit \u00a7 16 Abs. 3 Nr. 2 erfasst j\u00e4hrlich folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bef\u00f6rderte G\u00fcter ohne kombinierten Verkehr und im kombinierten Verkehr jeweils nach Menge, Bef\u00f6rderungsleistung und Hauptverkehrsverbindungen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Land des Unternehmenssitzes und Eigentumsverh\u00e4ltnisse am Unternehmen.</LA></DD> </DL> </P><P>(3) Die Erhebung nach \u00a7 1 Nr. 9 in Verbindung mit \u00a7 16 Abs. 3 Nr. 1 und 2 erfasst f\u00fcnfj\u00e4hrlich folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl und Ladekapazit\u00e4t der Fahrzeuge nach Art der Fahrzeuge,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Besch\u00e4ftigten nach Einsatzart.</LA></DD> </DL> </P><P>(4) Die Erhebungsmerkmale nach Absatz 1 Nr. 2 Buchstabe d, Absatz 2 Nr. 2 und Absatz 3 werden nach dem Stand vom 31. Dezember des Berichtsjahres erfasst.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE003201310",
+        "name": "\u00a7 20",
+        "title": "Schieneninfrastrukturstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>Die Erhebung nach \u00a7 1 Nr. 10 in Verbindung mit \u00a7 16 Abs. 4 erfasst folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">j\u00e4hrlich:</LA><LA Size=\"normal\">L\u00e4nge der im Berichtsjahr in Betrieb genommenen neu gebauten oder reaktivierten Strecken sowie der stillgelegten Strecken nach Art der Betriebsordnung, Gleise oder Spuren und nach L\u00e4ndern;</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcnfj\u00e4hrlich:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Strecken\u00fcberg\u00e4nge nach Art der \u00dcberg\u00e4nge und L\u00e4ndern,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Bahnh\u00f6fe, Haltestellen und Haltepunkte des Schienen-Personenverkehrs nach Art der Betriebsordnung der Strecken und L\u00e4ndern,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Bahn\u00fcberg\u00e4nge nach der Eisenbahn-Bau- und Betriebsordnung vom 8. Mai 1967 (BGBl. 1967 II S. 1563), zuletzt ge\u00e4ndert durch Artikel 7 des Gesetzes vom 21. Juni 2002 (BGBl. I S. 2191), in der jeweils geltenden Fassung, nach Art der kreuzenden Stra\u00dfen und Wege, Art der Sicherung, nach Ortslage und L\u00e4ndern,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">L\u00e4nge des Streckenbestandes nach der Spurbreite, Art des Bahnk\u00f6rpers, zul\u00e4ssiger Geschwindigkeit des Zugverkehrs und Art der verkehrlichen Nutzung,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">L\u00e4nge des Strecken-, Gleis- und Spurbestandes nach Art der Betriebsordnung, Elektrifizierung, Gleise und Spuren und nach L\u00e4ndern.</LA></DD> </DL></LA></DD> </DL>Die Erhebungsmerkmale werden nach dem Stand vom 31. Dezember des Berichtsjahres erfasst.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE003301310",
+        "name": "\u00a7 21",
+        "title": "Schienenverkehrsunfallstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>Die Erhebung nach \u00a7 1 Nr. 11 in Verbindung mit \u00a7 16 Abs. 4 erfasst j\u00e4hrlich f\u00fcr Verkehrsunf\u00e4lle auf Schienenstrecken des \u00f6ffentlichen Verkehrs, an denen mindestens ein bewegtes - beim Zusammenprall auch haltendes - Schienenfahrzeug im Fahrbetrieb beteiligt war, folgende Erhebungsmerkmale: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Unf\u00e4lle mit Personen- oder Sachschaden und Zahl der Verungl\u00fcckten nach Art des Schienenverkehrsmittels und nach der Unfallart; Zahl der Verungl\u00fcckten auch nach der Verletzungsschwere und mit Todesfolge (Get\u00f6tete), nach dem Personenkreis und nach der Art der Verkehrsbeteiligung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Unf\u00e4lle beim Transport gef\u00e4hrlicher G\u00fcter nach Unf\u00e4llen mit Personen- oder Sachschaden; Zahl der Unf\u00e4lle mit Gefahrgutaustritt auch nach der Unfallart.</LA></DD> </DL>Zus\u00e4tzlich wird die Zahl der Unf\u00e4lle erfasst, die durch Brand ausgel\u00f6st wurden (wie z. B. durch Selbstentz\u00fcndung) und keine Verkehrsunf\u00e4lle darstellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE003401310",
+        "name": "\u00a7 22",
+        "title": "Statistik der Verkehrsstr\u00f6me im Eisenbahnnetz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>Die Erhebung nach \u00a7 1 Nr. 12 in Verbindung mit \u00a7 16 Abs. 5 erfasst f\u00fcnfj\u00e4hrlich die Zahl der Z\u00fcge im Personen- und im G\u00fcterverkehr nach Netzabschnitten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE003501310",
+        "name": "\u00a7 23",
+        "title": "Berichtszeitraum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>(1) Berichtszeitraum f\u00fcr die Erhebungen nach \u00a7 1 Nr. 7 bis 12 ist f\u00fcr die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">monatlichen Erhebungen der dem Zeitpunkt der Erhebungen vorangegangene Kalendermonat,</LA></DD> <DT>*2.</DT><DD Font=\"normal\"><LA Size=\"normal\">viertelj\u00e4hrlichen Erhebungen das dem Zeitpunkt der Erhebung vorangegangene Kalenderquartal,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">j\u00e4hrlichen und f\u00fcnfj\u00e4hrlichen Erhebungen das dem Zeitpunkt der Erhebungen vorangegangene Kalenderjahr oder das vorangegangene Gesch\u00e4ftsjahr.</LA></DD> </DL> </P><P>(2) Die f\u00fcnfj\u00e4hrlichen Erhebungen werden erstmals f\u00fcr das Jahr 2005 durchgef\u00fchrt, mit Ausnahme der Erhebung nach \u00a7 16 Abs. 1 Satz 1 Nr. 3 in Verbindung mit \u00a7 17 Abs. 3, die erstmals f\u00fcr das Jahr 2004 durchgef\u00fchrt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE003601310",
+        "name": "\u00a7 24",
+        "title": "Anschriften\u00fcbermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000601310"
+        },
+        "body": "<P>(1) Die Genehmigungsbeh\u00f6rden nach \u00a7 11 des Personenbef\u00f6rderungsgesetzes und die f\u00fcr die Eisenbahnen des Bundes und f\u00fcr die \u00fcbrigen Eisenbahnunternehmen zust\u00e4ndigen Genehmigungsbeh\u00f6rden des Bundes und der L\u00e4nder \u00fcbermitteln den statistischen \u00c4mtern der L\u00e4nder und dem Statistischen Bundesamt jeweils f\u00fcr deren Zust\u00e4ndigkeitsbereich f\u00fcr die Durchf\u00fchrung der Erhebungen nach \u00a7 1 Nr. 7 bis 12 Namen und Anschriften der Unternehmen, denen eine Genehmigung zur Personenbef\u00f6rderung mit Eisenbahnen, Stra\u00dfenbahnen oder Omnibussen oder zum Schienen-G\u00fcterverkehr erteilt oder entzogen oder denen die Betriebsf\u00fchrung \u00fcbertragen worden ist oder denen eine Genehmigung f\u00fcr den Betrieb einer Schieneninfrastruktur des \u00f6ffentlichen Verkehrs erteilt oder entzogen worden ist, sowie die Art der Genehmigung und den Termin des Ablaufs einer befristeten Genehmigung.</P><P>(2) Die Schieneninfrastruktur des \u00f6ffentlichen Verkehrs im Inland betreibenden Unternehmen \u00fcbermitteln den statistischen \u00c4mtern der L\u00e4nder und dem Statistischen Bundesamt jeweils f\u00fcr deren Zust\u00e4ndigkeitsbereich f\u00fcr die Durchf\u00fchrung der Erhebungen nach \u00a7 1 Nr. 7 bis 12 Namen und Anschriften der Unternehmen, die auf dem \u00f6ffentlichen Schienennetz der Schieneninfrastrukturbetreiber Personenverkehr mit Eisenbahnen oder Stra\u00dfenbahnen oder Schienen-G\u00fcterverkehr durchf\u00fchren; von den Unternehmen mit Sitz im Ausland \u00fcbermitteln sie Namen und Anschriften der die Verkehre durchf\u00fchrenden inl\u00e4ndischen Betriebe dieser Unternehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR245210999BJNG000402310",
+        "name": "Abschnitt 6",
+        "title": "Durchf\u00fchrungsbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001602310",
+        "name": "\u00a7 25",
+        "title": "Hilfsmerkmale",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000402310"
+        },
+        "body": "<P>Hilfsmerkmale der Erhebungen nach \u00a7 1 Nr. 1 bis 12 sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Rufnummer oder sonstige Kennungen von Telekommunikationsanschl\u00fcssen der f\u00fcr R\u00fcckfragen zur Verf\u00fcgung stehenden Person f\u00fcr die Erhebungen nach \u00a7 1 Nr. 1 bis 12,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des Auskunftspflichtigen f\u00fcr die Erhebungen nach \u00a7 1 Nr. 1, 3 bis 5 sowie die Angaben nach \u00a7 26 Abs. 2 Satz 1 Nr. 3 zweiter Halbsatz,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schiffsname und Unterscheidungssignal oder amtliche Schiffsnummer sowie Name und Anschrift der in \u00a7 26 Abs. 3 genannten Stellen f\u00fcr die Erhebung nach \u00a7 1 Nr. 1,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des Unternehmens f\u00fcr die Erhebung nach \u00a7 1 Nr. 2 und 6 bis 12,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des mittelbaren Fahrzeugbesitzers im Sinne von \u00a7 868 des B\u00fcrgerlichen Gesetzbuchs f\u00fcr die Erhebung nach \u00a7 1 Nr. 3,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name des Unternehmens und Anschrift des Unternehmenssitzes f\u00fcr die Erhebung nach \u00a7 1 Nr. 4,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Datum des Fahrtantritts f\u00fcr die Erhebung nach \u00a7 1 Nr. 3,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Postleitzahl des Ortes der Be- und Entladestelle f\u00fcr die Erhebung nach \u00a7 1 Nr. 3,</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">amtliche Kennzeichen der Fahrzeuge zur G\u00fcterbef\u00f6rderung, ausgenommen Personenkraftwagen, f\u00fcr die Erhebungen nach \u00a7 1 Nr. 3 und 4.</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Datum des Fluges f\u00fcr die Erhebung nach \u00a7 1 Nr. 5.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001703116",
+        "name": "\u00a7 26",
+        "title": "Auskunftspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000402310"
+        },
+        "body": "<P>(1) F\u00fcr die Erhebungen nach \u00a7 1 besteht hinsichtlich der Erhebungs- und Hilfsmerkmale nach den \u00a7\u00a7 3, 4, 7, 8, 12, 13, 17 bis 22 und 25 Auskunftspflicht. Die Angaben zu \u00a7 25 Nr. 1 sind freiwillig.</P><P>(2) Auskunftspflichtig sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebung nach \u00a7 1 Nr. 1 die Frachtf\u00fchrer, Verfrachter, Schiffsf\u00fchrer, f\u00fcr die Angaben zu \u00a7 3 Nr. 3 auch die Absender und Empf\u00e4nger oder jeweils deren \u00f6rtlich bevollm\u00e4chtigter Vertreter,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebungen nach \u00a7 1 Nr. 2, 4 und 6 die Inhaberinnen oder Inhaber oder die f\u00fcr die Leitung beziehungsweise die f\u00fcr die Gesch\u00e4ftsf\u00fchrung verantwortlichen Personen der Unternehmen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebung nach \u00a7 1 Nr. 3 der Fahrzeughalter oder unmittelbare Fahrzeugbesitzer; der Fahrzeughalter und mittelbare Fahrzeugbesitzer im Sinne des \u00a7 868 des B\u00fcrgerlichen Gesetzbuchs sind verpflichtet, Namen, Anschrift, Rufnummer, sonstige Kennungen von Telekommunikationsanschl\u00fcssen des unmittelbaren Fahrzeugbesitzers anzugeben,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebung nach \u00a7 1 Nr. 5<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die in- und ausl\u00e4ndischen Luftverkehrsunternehmen, die auf deutschen Flugpl\u00e4tzen landen oder starten, oder jeweils deren bevollm\u00e4chtigte \u00f6rtliche Vertreter,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die F\u00fchrer der Luftfahrzeuge, wenn Luftfahrtunternehmen nicht bestehen oder diese auf dem Flugplatz keine st\u00e4ndige Vertretung unterhalten,</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebungen nach \u00a7 1 Nr. 7 und 8 die Inhaberinnen oder Inhaber oder die f\u00fcr die Leitung beziehungsweise die f\u00fcr die Gesch\u00e4ftsf\u00fchrung verantwortlichen Personen der Unternehmen, die als Betriebsf\u00fchrer oder beauftragte Bef\u00f6rderer \u00f6ffentliche Personenbef\u00f6rderung mit Eisenbahnen, Stra\u00dfenbahnen oder Omnibussen durchf\u00fchren,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebung nach \u00a7 1 Nr. 9 die Inhaberinnen oder Inhaber oder die f\u00fcr die Leitung beziehungsweise die f\u00fcr die Gesch\u00e4ftsf\u00fchrung verantwortlichen Personen der Unternehmen, die als Frachtf\u00fchrer oder als ausf\u00fchrendes Schienenverkehrsunternehmen G\u00fcterverkehr auf dem inl\u00e4ndischen Schienennetz des \u00f6ffentlichen Verkehrs durchf\u00fchren,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebung nach \u00a7 1 Nr. 10 die Inhaberinnen oder Inhaber oder die f\u00fcr die Leitung beziehungsweise die f\u00fcr die Gesch\u00e4ftsf\u00fchrung verantwortlichen Personen der Unternehmen, die Schieneninfrastruktur des \u00f6ffentlichen Verkehrs im Inland betreiben,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebung nach \u00a7 1 Nr. 11<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Inhaberinnen oder Inhaber oder die f\u00fcr die Leitung beziehungsweise die f\u00fcr die Gesch\u00e4ftsf\u00fchrung verantwortlichen Personen der Unternehmen, die Schieneninfrastruktur des \u00f6ffentlichen Verkehrs im Inland betreiben,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr das Erhebungsmerkmal Zahl der Verungl\u00fcckten mit Todesfolge (Get\u00f6tete) die Inhaberinnen oder Inhaber oder die f\u00fcr die Leitung beziehungsweise die f\u00fcr die Gesch\u00e4ftsf\u00fchrung verantwortlichen Personen der Unternehmen, die als Betriebsf\u00fchrer oder beauftragte Bef\u00f6rderer \u00f6ffentliche Personenbef\u00f6rderung mit Eisenbahnen oder Stra\u00dfenbahnen beziehungsweise als Frachtf\u00fchrer oder als ausf\u00fchrendes Schienenverkehrsunternehmen G\u00fcterverkehr auf dem inl\u00e4ndischen Schienennetz des \u00f6ffentlichen Verkehrs durchf\u00fchren; die Auskunftspflicht ist erf\u00fcllt, wenn sie die Angaben an die Unternehmen weitergeleitet haben, die Schieneninfrastruktur des \u00f6ffentlichen Verkehrs im Inland betreiben,</LA></DD></DL></LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Erhebung nach \u00a7 1 Nr. 12 die Inhaberinnen oder Inhaber oder die f\u00fcr die Leitung beziehungsweise die f\u00fcr die Gesch\u00e4ftsf\u00fchrung verantwortlichen Personen der Unternehmen, die Schieneninfrastruktur der \u00f6ffentlichen Eisenbahnen im Inland betreiben.</LA></DD></DL>Werden inl\u00e4ndische Verkehre von Unternehmen durchgef\u00fchrt, die ihren Sitz im Ausland haben, so sind f\u00fcr die Erhebungen nach \u00a7 1 Nr. 7, 8, 9 und 11 die f\u00fcr die Abwicklung der Verkehre im Inland verantwortlichen Personen auskunftspflichtig.</P><P>(3) Die nat\u00fcrlichen Personen und juristischen Personen des \u00f6ffentlichen und privaten Rechts, welche die H\u00e4fen und Flugpl\u00e4tze verwalten, sowie f\u00fcr den Bereich des Durchgangsverkehrs in der Binnenschifffahrt die Grenzzollstellen und die Wasserstra\u00dfen- und Schifffahrtsverwaltung des Bundes sind verpflichtet, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Auskunftspflichtigen auf die Auskunftspflicht f\u00fcr die Erhebungen nach \u00a7 1 Nr. 1 und 5 hinzuweisen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihnen die Erhebungsunterlagen zur Verf\u00fcgung zu stellen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ihnen anzubieten, ihre Angaben an die statistischen \u00c4mter der L\u00e4nder und an das Statistische Bundesamt jeweils f\u00fcr deren Zust\u00e4ndigkeitsbereich zu \u00fcbermitteln.</LA></DD></DL>Sind die Auskunftspflichtigen f\u00fcr die in Satz 1 genannten Stellen nicht oder nur mit einem unverh\u00e4ltnism\u00e4\u00dfig gro\u00dfen Aufwand erreichbar, so k\u00f6nnen die statistischen \u00c4mter der L\u00e4nder und das Statistische Bundesamt die Betreiber der in den H\u00e4fen vorhandenen Umschlagseinrichtungen oder der Einrichtungen zur Personenabfertigung sowie die Betreiber der auf den Flugpl\u00e4tzen vorhandenen Einrichtungen zur Personen- oder G\u00fcterabfertigung zu den in Satz 1 genannten Aufgaben verpflichten. Die in den S\u00e4tzen 1 und 2 genannten Stellen k\u00f6nnen von den dort genannten Pflichten entbunden werden, falls das jeweils f\u00fcr die Erhebung zust\u00e4ndige statistische Amt mit den Auskunftspflichtigen eine Sonderregelung \u00fcber die Daten\u00fcbermittlung vereinbart hat.</P><P>(4) Die Daten\u00fcbermittlung erfolgt in elektronischer Form, soweit dies f\u00fcr die beteiligte Stelle zumutbar ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001803310",
+        "name": "\u00a7 27",
+        "title": "Durchf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000402310"
+        },
+        "body": "<P>(1) Die Erhebungen nach \u00a7 1 Nr. 1 in Verbindung mit \u00a7 2 Abs. 1 Satz 1 Nr. 2 (Schifffahrtsstatistik, Durchgangsverkehr), nach \u00a7 1 Nr. 2 in Verbindung mit \u00a7 4 (Unternehmensstatistik der Binnenschifffahrt), nach \u00a7 1 Nr. 5 in Verbindung mit \u00a7 12 (Luftverkehrsstatistik), nach \u00a7 1 Nr. 6 in Verbindung mit \u00a7 13 (Unternehmensstatistik der Luftfahrt), nach \u00a7 1 Nr. 8 in Verbindung mit \u00a7 18 (Schienen-Personenfernverkehrsstatistik), nach \u00a7 1 Nr. 9 in Verbindung mit \u00a7 19 (Schienen-G\u00fcterverkehrsstatistik), nach \u00a7 1 Nr. 10 in Verbindung mit \u00a7 20 (Schieneninfrastrukturstatistik), nach \u00a7 1 Nr. 11 in Verbindung mit \u00a7 21 (Schienenverkehrsunfallstatistik) und nach \u00a7 1 Nr. 12 in Verbindung mit \u00a7 22 (Statistik der Verkehrsstr\u00f6me im Eisenbahnnetz) werden vom Statistischen Bundesamt durchgef\u00fchrt.</P><P>(2) Die Erhebung und Aufbereitung der Daten nach \u00a7 1 Nr. 3 in Verbindung mit \u00a7 7 (G\u00fcterkraftverkehrsstatistik) wird vom Kraftfahrt-Bundesamt durchgef\u00fchrt.</P><P>(3) Die Erhebung nach \u00a7 1 Nr. 4 in Verbindung mit \u00a7 8 (Unternehmensstatistik des G\u00fcterkraftverkehrs) wird vom Bundesamt f\u00fcr G\u00fcterverkehr durchgef\u00fchrt.</P><P>(4) Die Erhebungen nach \u00a7 1 Nr. 3 und 4 werden hinsichtlich der methodischen Fragen im Benehmen mit dem Statistischen Bundesamt durchgef\u00fchrt.</P><P>(5) Die Erhebungen nach \u00a7 1 Nr. 3 und 4 werden im Kraftfahrt-Bundesamt und im Bundesamt f\u00fcr G\u00fcterverkehr in Organisationseinheiten durchgef\u00fchrt, die r\u00e4umlich, organisatorisch und personell von anderen Aufgabenbereichen der Bundes\u00e4mter getrennt sind. Die in diesen Organisationseinheiten t\u00e4tigen Personen m\u00fcssen Amtstr\u00e4ger oder f\u00fcr den \u00f6ffentlichen Dienst besonders Verpflichtete sein. Sie d\u00fcrfen die aus ihrer T\u00e4tigkeit gewonnenen Erkenntnisse \u00fcber Auskunftspflichtige nicht f\u00fcr andere Aufgaben verwenden.</P><P>(6) Die Auswahl der Unternehmen zur Erhebung nach \u00a7 1 Nr. 7 in Verbindung mit \u00a7 16 Abs. 1 Satz 1 Nr. 2 (Personenverkehrsstatistik) wird nach einem mathematisch-statistischen Auswahlverfahren vom Statistischen Bundesamt durchgef\u00fchrt. Die f\u00fcr die Auswahl erforderlichen Einzelangaben \u00fcbermitteln die statistischen \u00c4mter der L\u00e4nder dem Statistischen Bundesamt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE001902310",
+        "name": "\u00a7 28",
+        "title": "\u00dcbermittlungsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000402310"
+        },
+        "body": "<P>(1) An oberste Bundes- oder Landesbeh\u00f6rden d\u00fcrfen f\u00fcr die Verwendung gegen\u00fcber den gesetzgebenden K\u00f6rperschaften und f\u00fcr Zwecke der Planung, nicht jedoch zur Regelung von Einzelf\u00e4llen, vom Statistischen Bundesamt, den statistischen \u00c4mtern der L\u00e4nder, dem Kraftfahrt-Bundesamt und dem Bundesamt f\u00fcr G\u00fcterverkehr Tabellen mit statistischen Ergebnissen aus den Erhebungen nach \u00a7 1 Nr. 1 bis 12 \u00fcbermittelt werden, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. Zur Vorbereitung von Planungs- und Gesetzgebungsverfahren k\u00f6nnen die in Satz 1 genannten Tabellen an die von den obersten Bundes- und Landesbeh\u00f6rden beauftragten Gutachter \u00fcbermittelt werden. Die Gutachter m\u00fcssen Amtstr\u00e4ger oder f\u00fcr den \u00f6ffentlichen Dienst besonders Verpflichtete sein. Sie d\u00fcrfen die in Satz 1 genannten Tabellen nur f\u00fcr die Zwecke verwenden, f\u00fcr die sie \u00fcbermittelt worden sind. Sie sind, soweit es sich nicht um offenkundige Tatsachen handelt, von den Gutachtern geheim zu halten. Die \u00dcbermittlungen sind vom Statistischen Bundesamt, vom Kraftfahrt-Bundesamt und vom Bundesamt f\u00fcr G\u00fcterverkehr nach Ma\u00dfgabe des \u00a7 16 Abs. 9 des Bundesstatistikgesetzes aufzuzeichnen. Die Aufzeichnungen sind mindestens f\u00fcnf Jahre aufzubewahren.</P><P>(2) Das Bundesamt f\u00fcr G\u00fcterverkehr und das Kraftfahrt-Bundesamt \u00fcbermitteln dem Statistischen Bundesamt auf Ersuchen aus den Erhebungen nach \u00a7 1 Nr. 3 und 4 Einzelangaben in der angeforderten sachlichen und regionalen Gliederungstiefe, soweit dies f\u00fcr die methodische Weiterentwicklung der Statistiken verkehrstr\u00e4ger\u00fcbergreifender Ergebnisdarstellungen und f\u00fcr die Erf\u00fcllung von Aufgaben im supra- und internationalen Bereich erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002003310",
+        "name": "\u00a7 29",
+        "title": "Ver\u00f6ffentlichung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000402310"
+        },
+        "body": "<P>(1) Es ver\u00f6ffentlichen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Kraftfahrt-Bundesamt die Ergebnisse der Erhebung nach \u00a7 1 Nr. 3 in Verbindung mit \u00a7 7 (G\u00fcterkraftverkehrsstatistik),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesamt f\u00fcr G\u00fcterverkehr die Ergebnisse der Erhebung nach \u00a7 1 Nr. 4 in Verbindung mit \u00a7 8 (Unternehmensstatistik des G\u00fcterkraftverkehrs).</LA></DD></DL></P><P>(2) Das Statistische Bundesamt ver\u00f6ffentlicht Ergebnisse nach Absatz 1 f\u00fcr verkehrstr\u00e4ger\u00fcbergreifende Darstellungen.</P><P>(3) Die Ergebnisse der Schifffahrtsstatistik nach \u00a7 1 Nr. 1 und der Luftverkehrsstatistik nach \u00a7 1 Nr. 5 d\u00fcrfen nach H\u00e4fen und Flugpl\u00e4tzen gegliedert ver\u00f6ffentlicht werden, auch soweit sie Einzelangaben enthalten, wenn der Name der auskunftspflichtigen Unternehmen nicht ver\u00f6ffentlicht wird.</P><P>(4) Die Ergebnisse der Erhebungen nach \u00a7 1 Nr. 7 und 9 bis 11 d\u00fcrfen nach Kreisen gegliedert ver\u00f6ffentlicht werden, auch soweit sie Einzelangaben enthalten, wenn der Name der auskunftspflichtigen Unternehmen nicht ver\u00f6ffentlicht wird.</P><P>(5) Die Ergebnisse der Erhebung nach \u00a7 1 Nr. 8 d\u00fcrfen nach den in Anhang I der Verordnung (EG) Nr. 1059/2003 des Europ\u00e4ischen Parlaments und des Rates vom 26. Mai 2003 \u00fcber die Schaffung einer gemeinsamen Klassifikation der Gebietseinheiten f\u00fcr die Statistik (NUTS) (ABl. EU Nr. L 154 S. 1) in der jeweils geltenden Fassung festgelegten Gebietseinheiten der NUTS-Ebene 2 ver\u00f6ffentlicht werden, auch soweit sie Einzelangaben enthalten, wenn der Name der auskunftspflichtigen Unternehmen nicht ver\u00f6ffentlicht wird.</P><P>(6) Die Ergebnisse der Erhebung nach \u00a7 1 Nr. 12 d\u00fcrfen nach Netzabschnitten gegliedert ver\u00f6ffentlicht werden, auch soweit sie Einzelangaben enthalten, wenn der Name der auskunftspflichtigen Unternehmen nicht ver\u00f6ffentlicht wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002104116",
+        "name": "\u00a7 30",
+        "title": "Verordnungserm\u00e4chtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000402310"
+        },
+        "body": "<P>Das Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates f\u00fcr Zwecke der Beobachtung des internationalen Schiffsverkehrs, der Vorbereitung von Gesetzgebungsvorhaben sowie f\u00fcr Zwecke der Verkehrsplanung eine Statistik \u00fcber den Vor- und Nachlauf mit Seeschiffen (Feederverkehr), mit Erhebungs- und Hilfsmerkmalen entsprechend den \u00a7\u00a7 3 und 25 Nr. 1 bis 3, mit Auskunftspflichten entsprechend \u00a7 26 und einer \u00dcbermittlungsregelung entsprechend \u00a7 28 anzuordnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR245210999BJNE002202310",
+        "name": "\u00a7 31",
+        "title": "Zust\u00e4ndigkeit f\u00fcr die Verfolgung und Ahndung von\nOrdnungswidrigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR245210999BJNG000402310"
+        },
+        "body": "<P>Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Abs. 1 Nr. 1 des Gesetzes \u00fcber Ordnungswidrigkeiten ist f\u00fcr die Verfolgung und Ahndung von Ordnungswidrigkeiten nach \u00a7 23 Abs. 1 des Bundesstatistikgesetzes das Bundesamt f\u00fcr G\u00fcterverkehr, soweit Auskunftspflichten nach \u00a7 26 Abs. 1 Satz 1 und Abs. 2 Satz 1 Nr. 2 und 3 f\u00fcr die Statistiken nach \u00a7 1 Nr. 3 und 4 betroffen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

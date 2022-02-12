@@ -1,0 +1,125 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR285510020",
+    "firstPublished": "2020-12-09",
+    "sourceTimestamp": "20211020214012",
+    "titleShort": "Regelbedarfsermittlungsgesetz",
+    "titleLong": "Gesetz zur Ermittlung der Regelbedarfe nach \u00a7 28 des Zw\u00f6lften Buches Sozialgesetzbuch ab dem Jahr 2021",
+    "abbreviation": "RBEG",
+    "slug": "rbeg",
+    "extraAbbreviations": [
+      "RBEG 2021"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2020, 2855",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ersetzt G 8601-8 v. 22.12.2016 I 3159 (RBEG 2017)",
+        "category": "Sonst"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2021 +++)<BR /> <BR /><BR /> <BR />Das G wurde als Artikel 1 des G v. 9.12.2020 I 2855 vom Bundestag mit <BR />Zustimmung des Bundesrates beschlossen. Es ist gem. Art. 11 Abs. 1 Satz 1 <BR />dieses G am 1.1.2021 in Kraft getreten.<BR />       <BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Grundsatz",
+        "parent": null,
+        "body": "<P>(1) Zur Ermittlung pauschalierter Bedarfe f\u00fcr bedarfsabh\u00e4ngige und existenzsichernde bundesgesetzliche Leistungen werden entsprechend \u00a7 28 Absatz 1 bis 3 des Zw\u00f6lften Buches Sozialgesetzbuch Sonderauswertungen der Einkommens- und Verbrauchsstichprobe 2018 zur Ermittlung der durchschnittlichen Verbrauchsausgaben einkommensschwacher Haushalte nach den \u00a7\u00a7 2 bis 4 vorgenommen.</P><P>(2) Auf der Grundlage der Sonderauswertungen nach Absatz 1 werden entsprechend \u00a7 28 Absatz 4 und 5 des Zw\u00f6lften Buches Sozialgesetzbuch f\u00fcr das Zw\u00f6lfte und das Zweite Buch Sozialgesetzbuch die Regelbedarfsstufen nach den \u00a7\u00a7 5 bis 8 ermittelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Zugrundeliegende Haushaltstypen",
+        "parent": null,
+        "body": "<P>Der Ermittlung der Regelbedarfsstufen nach der Anlage zu \u00a7 28 des Zw\u00f6lften Buches Sozialgesetzbuch liegen die Verbrauchsausgaben folgender Haushaltstypen zugrunde: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Haushalte, in denen eine erwachsene Person allein lebt (Einpersonenhaushalte) und</LA></DD><DT>2</DT><DD Font=\"normal\"><LA>Haushalte, in denen ein Paar mit einem minderj\u00e4hrigen Kind lebt (Familienhaushalte).</LA></DD></DL>Die Familienhaushalte werden nach Altersgruppen der Kinder differenziert. Die Altersgruppen umfassen die Zeit bis zur Vollendung des sechsten Lebensjahres, vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres sowie vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Auszuschlie\u00dfende Haushalte",
+        "parent": null,
+        "body": "<P>(1) Von den Haushalten nach \u00a7 2 sind vor der Bestimmung der Referenzhaushalte diejenigen Haushalte auszuschlie\u00dfen, in denen Leistungsberechtigte leben, die im Erhebungszeitraum eine der folgenden Leistungen bezogen haben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Hilfe zum Lebensunterhalt nach dem Dritten Kapitel des Zw\u00f6lften Buches Sozialgesetzbuch,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Grundsicherung im Alter und bei Erwerbsminderung nach dem Vierten Kapitel des Zw\u00f6lften Buches Sozialgesetzbuch,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Arbeitslosengeld II oder Sozialgeld nach dem Zweiten Buch Sozialgesetzbuch,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Leistungen nach dem Asylbewerberleistungsgesetz.</LA></DD></DL></P><P>(2) Nicht auszuschlie\u00dfen sind Haushalte, in denen Leistungsberechtigte leben, die im Erhebungszeitraum zus\u00e4tzlich zu den Leistungen nach Absatz 1 Nummer 1 bis 4 Erwerbseinkommen bezogen haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Bestimmung der Referenzhaushalte; Referenzgruppen",
+        "parent": null,
+        "body": "<P>(1) Zur Bestimmung der Referenzhaushalte werden die nach dem Ausschluss von Haushalten nach \u00a7 3 verbleibenden Haushalte je Haushaltstyp nach \u00a7 2 Satz 1 Nummer 1 und 2 nach ihrem Nettoeinkommen aufsteigend gereiht. Als Referenzhaushalte werden ber\u00fccksichtigt: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>von den Einpersonenhaushalten die unteren 15 Prozent der Haushalte und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>von den Familienhaushalten jeweils die unteren 20 Prozent der Haushalte.</LA></DD></DL></P><P>(2) Die Referenzhaushalte eines Haushaltstyps bilden jeweils eine Referenzgruppe.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Regelbedarfsrelevante Verbrauchsausgaben der Einpersonenhaushalte",
+        "parent": null,
+        "body": "<P>(1) Von den Verbrauchsausgaben der Referenzgruppe der Einpersonenhaushalte nach \u00a7 4 Absatz 1 Satz 2 Nummer 1 werden f\u00fcr die Ermittlung des Regelbedarfs folgende Verbrauchsausgaben der einzelnen Abteilungen aus der Sonderauswertung f\u00fcr Einpersonenhaushalte der Einkommens- und Verbrauchsstichprobe 2018 f\u00fcr den Regelbedarf ber\u00fccksichtigt (regelbedarfsrelevant): <table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"145*\" /><colspec align=\"right\" colname=\"col2\" colwidth=\"25*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 1 und 2 (Nahrungsmittel, Getr\u00e4nke, Tabakwaren)</entry><entry VJ=\"1\" colname=\"col2\" valign=\"bottom\">150,93 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 3 (Bekleidung und Schuhe)</entry><entry VJ=\"1\" colname=\"col2\">36,09 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 4 (Wohnungsmieten, Energie und Wohnungsinstandhaltung)</entry><entry VJ=\"1\" colname=\"col2\" valign=\"bottom\">36,87 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 5 (Innenausstattung, Haushaltsger\u00e4te und -gegenst\u00e4nde, laufende Haushaltsf\u00fchrung)</entry><entry VJ=\"1\" colname=\"col2\" valign=\"bottom\">26,49 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 6 (Gesundheitspflege)</entry><entry VJ=\"1\" colname=\"col2\">16,60 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 7 (Verkehr)</entry><entry VJ=\"1\" colname=\"col2\">39,01 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 8 (Post und Telekommunikation)</entry><entry VJ=\"1\" colname=\"col2\" valign=\"bottom\">38,89 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 9 (Freizeit, Unterhaltung und Kultur)</entry><entry VJ=\"1\" colname=\"col2\" valign=\"bottom\">42,44 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 10 (Bildungswesen)</entry><entry VJ=\"1\" colname=\"col2\">1,57 Euro</entry></row><row><entry VJ=\"1\" colname=\"col1\">Abteilung 11 (Beherbergungs- und Gastst\u00e4ttendienstleistungen)</entry><entry VJ=\"1\" colname=\"col2\" valign=\"bottom\">11,36 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 12 (Andere Waren und Dienstleistungen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">34,71 Euro</entry></row></tbody></tgroup></table></P><P>(2) Die Summe der regelbedarfsrelevanten Verbrauchsausgaben der Einpersonenhaushalte nach Absatz 1 betr\u00e4gt 434,96 Euro.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Regelbedarfsrelevante Verbrauchsausgaben der Familienhaushalte",
+        "parent": null,
+        "body": "<P>(1) Von den Verbrauchsausgaben der Referenzgruppen der Familienhaushalte nach \u00a7 4 Absatz 1 Satz 2 Nummer 2 werden bei Kindern und Jugendlichen folgende Verbrauchsausgaben der einzelnen Abteilungen aus den Sonderauswertungen f\u00fcr Familienhaushalte der Einkommens- und Verbrauchsstichprobe 2018 als regelbedarfsrelevant ber\u00fccksichtigt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kinder bis zur Vollendung des sechsten Lebensjahres: <table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"145*\" /><colspec align=\"right\" colname=\"col2\" colwidth=\"25*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 1 und 2 (Nahrungsmittel, Getr\u00e4nke, Tabakwaren)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">90,52 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 3 (Bekleidung und Schuhe)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">44,15 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 4 (Wohnungsmieten, Energie und Wohnungsinstandhaltung)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">8,63 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 5 (Innenausstattung, Haushaltsger\u00e4te und -gegenst\u00e4nde, laufende Haushaltsf\u00fchrung)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">15,83 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 6 (Gesundheitspflege)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">8,06 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 7 (Verkehr)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">25,39 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 8 (Post und Telekommunikation)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">24,14 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 9 (Freizeit, Unterhaltung und Kultur)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">44,16 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 10 (Bildungswesen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">1,49 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 11 (Beherbergungs- und Gastst\u00e4ttendienstleistungen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">3,11 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 12 (Andere Waren und Dienstleistungen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">10,37 Euro</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kinder vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres: <table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"145*\" /><colspec align=\"right\" colname=\"col2\" colwidth=\"25*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 1 und 2 (Nahrungsmittel, Getr\u00e4nke, Tabakwaren)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">118,02 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 3 (Bekleidung und Schuhe)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">36,49 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 4 (Wohnungsmieten, Energie und Wohnungsinstandhaltung)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">13,90 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 5 (Innenausstattung, Haushaltsger\u00e4te und -gegenst\u00e4nde, laufende Haushaltsf\u00fchrung)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">12,89 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 6 (Gesundheitspflege)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">7,94 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 7 (Verkehr)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">23,99 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 8 (Post und Telekommunikation)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">26,10 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 9 (Freizeit, Unterhaltung und Kultur)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">43,13 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 10 (Bildungswesen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">1,56 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 11 (Beherbergungs- und Gastst\u00e4ttendienstleistungen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">6,81 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 12 (Andere Waren und Dienstleistungen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">10,34 Euro</entry></row></tbody></tgroup></table></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Jugendliche vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres: <table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"145*\" /><colspec align=\"right\" colname=\"col2\" colwidth=\"25*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 1 und 2 (Nahrungsmittel, Getr\u00e4nke, Tabakwaren)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">160,38 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 3 (Bekleidung und Schuhe)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">43,38 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 4 (Wohnungsmieten, Energie und Wohnungsinstandhaltung)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">19,73 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 5 (Innenausstattung, Haushaltsger\u00e4te und -gegenst\u00e4nde, laufende Haushaltsf\u00fchrung)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">16,59 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 6 (Gesundheitspflege)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">10,73 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 7 (Verkehr)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">22,92 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 8 (Post und Telekommunikation)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">26,05 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 9 (Freizeit, Unterhaltung und Kultur)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">38,19 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 10 (Bildungswesen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\">0,64 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 11 (Beherbergungs- und Gastst\u00e4ttendienstleistungen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">10,26 Euro</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\" colsep=\"1\" rowsep=\"1\">Abteilung 12 (Andere Waren und Dienstleistungen)</entry><entry VJ=\"1\" align=\"right\" colname=\"col2\" colsep=\"1\" rowsep=\"1\" valign=\"bottom\">14,60 Euro</entry></row></tbody></tgroup></table></LA></DD></DL></P><P>(2) Die Summe der regelbedarfsrelevanten Verbrauchsausgaben, die im Familienhaushalt Kindern und Jugendlichen zugerechnet werden, betr\u00e4gt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Absatz 1 Nummer 1 f\u00fcr Kinder bis zur Vollendung des sechsten Lebensjahres 275,85 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Absatz 1 Nummer 2 f\u00fcr Kinder vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres 301,17 Euro und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach Absatz 1 Nummer 3 f\u00fcr Jugendliche vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres 363,47 Euro.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Fortschreibung der regelbedarfsrelevanten Verbrauchsausgaben",
+        "parent": null,
+        "body": "<P>(1) Die Summen der f\u00fcr das Jahr 2018 ermittelten regelbedarfsrelevanten Verbrauchsausgaben nach \u00a7 5 Absatz 2 und \u00a7 6 Absatz 2 werden entsprechend der Fortschreibung der Regelbedarfsstufen nach \u00a7 28a des Zw\u00f6lften Buches Sozialgesetzbuch fortgeschrieben.</P><P>(2) Abweichend von \u00a7 28a des Zw\u00f6lften Buches Sozialgesetzbuch bestimmt sich die Ver\u00e4nderungsrate des Mischindex f\u00fcr die Fortschreibung zum 1. Januar 2021 aus der Entwicklung der regelbedarfsrelevanten Preise und der Nettol\u00f6hne und -geh\u00e4lter je Arbeitnehmer nach den Volkswirtschaftlichen Gesamtrechnungen vom Zeitraum Januar bis Dezember 2018 bis zum Zeitraum Juli 2019 bis Juni 2020. Die entsprechende Ver\u00e4nderungsrate betr\u00e4gt 2,57 Prozent.</P><P>(3) Aufgrund der Fortschreibung nach Absatz 2 und in Anwendung der Rundungsregelung nach \u00a7 28 Absatz 5 Satz 3 des Zw\u00f6lften Buches Sozialgesetzbuch bel\u00e4uft sich die Summe der regelbedarfsrelevanten Verbrauchsausgaben f\u00fcr Einpersonenhaushalte nach \u00a7 5 Absatz 2 auf 446 Euro.</P><P>(4) Aufgrund der Fortschreibung nach Absatz 2 und in Anwendung der Rundungsregelung nach \u00a7 28 Absatz 5 Satz 3 des Zw\u00f6lften Buches Sozialgesetzbuch bel\u00e4uft sich die Summe der regelbedarfsrelevanten Verbrauchsausgaben f\u00fcr Kinder und Jugendliche <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bis zur Vollendung des sechsten Lebensjahres nach \u00a7 6 Absatz 2 Nummer 1 auf 283 Euro,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres nach \u00a7 6 Absatz 2 Nummer 2 auf 309 Euro und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres nach \u00a7\u00a06 Absatz\u00a02 Nummer\u00a03 auf 373 Euro.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Regelbedarfsstufen",
+        "parent": null,
+        "body": "<P>Die Regelbedarfsstufen nach der Anlage zu \u00a7 28 des Zw\u00f6lften Buches Sozialgesetzbuch belaufen sich zum 1. Januar 2021 <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>in der Regelbedarfsstufe 1 auf 446 Euro f\u00fcr jede erwachsene Person, die in einer Wohnung nach \u00a7 42a Absatz 2 Satz 2 des Zw\u00f6lften Buches Sozialgesetzbuch lebt und f\u00fcr die nicht Nummer 2 gilt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>in der Regelbedarfsstufe 2 auf 401 Euro f\u00fcr jede erwachsene Person, die <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>in einer Wohnung nach \u00a7 42a Absatz 2 Satz 2 des Zw\u00f6lften Buches Sozialgesetzbuch mit einem Ehegatten oder Lebenspartner oder in ehe\u00e4hnlicher oder lebenspartnerschafts\u00e4hnlicher Gemeinschaft mit einem Partner zusammenlebt oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>nicht in einer Wohnung lebt, weil ihr allein oder mit einer weiteren Person ein pers\u00f6nlicher Wohnraum und mit weiteren Personen zus\u00e4tzliche R\u00e4umlichkeiten nach \u00a7 42a Absatz 2 Satz 3 des Zw\u00f6lften Buches Sozialgesetzbuch zur gemeinschaftlichen Nutzung \u00fcberlassen sind,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>in der Regelbedarfsstufe 3 auf 357 Euro f\u00fcr eine erwachsene Person, deren notwendiger Lebensunterhalt sich nach \u00a7\u00a027b des Zw\u00f6lften Buches Sozialgesetzbuch bestimmt (Unterbringung in einer station\u00e4ren Einrichtung),</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>in der Regelbedarfsstufe 4 auf 373 Euro f\u00fcr eine Jugendliche oder einen Jugendlichen vom Beginn des 15. bis zur Vollendung des 18. Lebensjahres,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>in der Regelbedarfsstufe 5 auf 309 Euro f\u00fcr ein Kind vom Beginn des siebten bis zur Vollendung des 14. Lebensjahres und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>in der Regelbedarfsstufe 6 auf 283 Euro f\u00fcr ein Kind bis zur Vollendung des sechsten Lebensjahres.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR285510020BJNE000900000",
+        "name": "\u00a7 9",
+        "title": "Ausstattung mit pers\u00f6nlichem Schulbedarf",
+        "parent": null,
+        "body": "<P>Der Teilbetrag f\u00fcr Ausstattung mit pers\u00f6nlichem Schulbedarf bel\u00e4uft sich <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr das im Kalenderjahr 2021 beginnende erste Schulhalbjahr auf 103 Euro und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr das im Kalenderjahr 2021 beginnende zweite Schulhalbjahr auf 51,50 Euro.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

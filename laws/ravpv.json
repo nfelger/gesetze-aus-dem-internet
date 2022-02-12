@@ -1,0 +1,531 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR216700016",
+    "firstPublished": "2016-09-23",
+    "sourceTimestamp": "20211231214731",
+    "titleShort": "Rechtsanwaltsverzeichnis- und -postfachverordnung",
+    "titleLong": "Verordnung \u00fcber die Rechtsanwaltsverzeichnisse und die besonderen elektronischen Anwaltspostf\u00e4cher",
+    "abbreviation": "RAVPV",
+    "slug": "ravpv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2016, 2167",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 2 G v. 7.7.2021 I 2363",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 6 V v. 17.12.2021 I 5219 (Nr. 85) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 28.9.2016 +++)<BR />(+++ Zur Anwendung vgl. \u00a7 17 Abs. 2 +++)<BR /><BR /></pre>\u00a7 2 Abs. 6 Satz 3, Abs. 7 bis 9, \u00a7 7 Abs. 1 Satz 2 Nr. 5 und 6, \u00a7 20 Abs. 3 sowie \u00a7 23 Abs. 3 Satz 5 treten gem. \u00a7 32 Abs. 2 am 1. Januar 2018 in Kraft</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 31c der Bundesrechtsanwaltsordnung in Verbindung mit <DL Type=\"Dash\"><DT>\u2013</DT><DD Font=\"normal\"><LA>den \u00a7\u00a7 31 bis 31b der Bundesrechtsanwaltsordnung, die durch Artikel 1 Nummer 1 des Gesetzes vom 21. Dezember 2015 (BGBl. I S. 2517) ge\u00e4ndert worden sind,</LA></DD><DT>\u2013</DT><DD Font=\"normal\"><LA>\u00a7 207 Absatz 2 Satz 1 der Bundesrechtsanwaltsordnung, der zuletzt durch Artikel 1 Nummer 63 Buchstabe b des Gesetzes vom 30. Juli 2009 (BGBl. I S. 2449) ge\u00e4ndert worden ist,</LA></DD><DT>\u2013</DT><DD Font=\"normal\"><LA>\u00a7 209 Absatz 1 Satz 3 der Bundesrechtsanwaltsordnung, der zuletzt durch Artikel 1 Nummer 66 Buchstabe a des Gesetzes vom 30. Juli 2009 (BGBl. I S. 2449) ge\u00e4ndert worden ist, sowie</LA></DD><DT>\u2013</DT><DD Font=\"normal\"><LA>\u00a7 6 Absatz 1 des Gesetzes \u00fcber die T\u00e4tigkeit europ\u00e4ischer Rechtsanw\u00e4lte in Deutschland, der durch Artikel 2 Nummer 3 des Gesetzes vom 21. Dezember 2015 (BGBl. I S. 2517) ge\u00e4ndert worden ist,</LA></DD></DL>verordnet das Bundesministerium der Justiz und f\u00fcr Verbraucherschutz:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000202125",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<Ident Class=\"S0\">Teil 1</Ident><Title Align=\"auto\" Class=\"S0\">Elektronische Verzeichnisse<BR /> der Rechtsanwaltskammern</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"9*\" /><colspec align=\"justify\" colname=\"col2\" colwidth=\"71*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\">Verzeichnis und einzutragende Personen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\">Inhalt des Verzeichnisses</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\">Eintragungen in das Verzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\">Berichtigungen des Verzeichnisses</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\">Sperrung und L\u00f6schung von Eintragungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\">Einsichtnahme in das Verzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">Suchfunktion</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a08</entry><entry VJ=\"1\" colname=\"col2\">Datensicherheit und Einsehbarkeit</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Teil 2</Ident><Title Align=\"auto\" Class=\"S0\">Gesamtverzeichnis<BR /> der Bundesrechtsanwaltskammer</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"9*\" /><colspec align=\"justify\" colname=\"col2\" colwidth=\"71*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\">F\u00fchrung des Gesamtverzeichnisses</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\">Inhalt des Gesamtverzeichnisses</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\">Eintragungen in das Gesamtverzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\">Berichtigung des Gesamtverzeichnisses</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\">Einsichtnahme in das Gesamtverzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\">Suchfunktion</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">Datensicherheit und Einsehbarkeit</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Teil 3</Ident><Title Align=\"auto\" Class=\"S0\">Europ\u00e4isches Rechtsanwaltsverzeichnis</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"9*\" /><colspec align=\"justify\" colname=\"col2\" colwidth=\"71*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Abruf von Angaben \u00fcber das Europ\u00e4ische Rechtsanwaltsverzeichnis</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17</entry><entry VJ=\"1\" colname=\"col2\">Abrufbare Angaben</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 18</entry><entry VJ=\"1\" colname=\"col2\">Abrufbarkeit</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Teil 4</Ident><Title Align=\"auto\" Class=\"S0\">Besonderes elektronisches Anwaltspostfach</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"9*\" /><colspec align=\"justify\" colname=\"col2\" colwidth=\"71*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 19</entry><entry VJ=\"1\" colname=\"col2\">Besonderes elektronisches Anwaltspostfach</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 20</entry><entry VJ=\"1\" colname=\"col2\">F\u00fchrung der besonderen elektronischen Postf\u00e4cher</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 21</entry><entry VJ=\"1\" colname=\"col2\">Einrichtung eines Postfachs</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 22</entry><entry VJ=\"1\" colname=\"col2\">Erstanmeldung am Postfach</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23</entry><entry VJ=\"1\" colname=\"col2\">Weitere Zugangsberechtigungen zum Postfach</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 24</entry><entry VJ=\"1\" colname=\"col2\">Zugang zum Postfach</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25</entry><entry VJ=\"1\" colname=\"col2\">Vertretungen, Abwickler und Zustellungsbevollm\u00e4chtigte</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 26</entry><entry VJ=\"1\" colname=\"col2\">Datensicherheit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 27</entry><entry VJ=\"1\" colname=\"col2\">Automatisches L\u00f6schen von Nachrichten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 28</entry><entry VJ=\"1\" colname=\"col2\">Aufhebung der Zugangsberechtigung und Sperrung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 29</entry><entry VJ=\"1\" colname=\"col2\">L\u00f6schung des Postfachs</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Teil 5</Ident><Title Align=\"auto\" Class=\"S0\">Schlussvorschriften</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"9*\" /><colspec align=\"justify\" colname=\"col2\" colwidth=\"71*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 30</entry><entry VJ=\"1\" colname=\"col2\">Die Rechtsanwaltschaft bei dem Bundesgerichtshof</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 31</entry><entry VJ=\"1\" colname=\"col2\">(weggefallen)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 32</entry><entry VJ=\"1\" colname=\"col2\">Inkrafttreten</entry></row></tbody></tgroup></table>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR216700016BJNG000100000",
+        "name": "Teil 1",
+        "title": "Elektronische Verzeichnisse der Rechtsanwaltskammern",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000301311",
+        "name": "\u00a7 1",
+        "title": "Verzeichnis und einzutragende Personen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000100000"
+        },
+        "body": "<P>Jede Rechtsanwaltskammer f\u00fchrt ein elektronisches Verzeichnis der in ihrem Bezirk zugelassenen Rechtsanw\u00e4lte einschlie\u00dflich der Syndikusrechtsanw\u00e4lte. In ihr Verzeichnis sind zudem die folgenden Personen einzutragen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>von ihr aufgenommene niedergelassene europ\u00e4ische Rechtsanw\u00e4lte einschlie\u00dflich der niedergelassenen europ\u00e4ischen Syndikusrechtsanw\u00e4lte nach \u00a7 2 Absatz 1 des Gesetzes \u00fcber die T\u00e4tigkeit europ\u00e4ischer Rechtsanw\u00e4lte in Deutschland;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>von ihr aufgenommene Rechtsanw\u00e4lte aus anderen Staaten einschlie\u00dflich der Syndikusrechtsanw\u00e4lte aus anderen Staaten nach \u00a7 206 Absatz 1 Satz 1, Absatz 2 Satz 1 der Bundesrechtsanwaltsordnung;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>von ihr aufgenommene Inhaber einer Erlaubnis zur gesch\u00e4ftsm\u00e4\u00dfigen Rechtsbesorgung nach \u00a7 209 Absatz 1 Satz 1 der Bundesrechtsanwaltsordnung;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>dienstleistende europ\u00e4ische Rechtsanw\u00e4lte einschlie\u00dflich dienstleistender europ\u00e4ischer Syndikusrechtsanw\u00e4lte, sofern f\u00fcr diese ein besonderes elektronisches Anwaltspostfach einzurichten und dies nach \u00a7 27a Absatz 1 Satz 1 in Verbindung mit \u00a7 32 Absatz 4 des Gesetzes \u00fcber die T\u00e4tigkeit europ\u00e4ischer Rechtsanw\u00e4lte in Deutschland bei ihr zu beantragen ist.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000406125",
+        "name": "\u00a7 2",
+        "title": "Inhalt des Verzeichnisses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000100000"
+        },
+        "body": "<P>(1) Als Zusatz zum Familiennamen werden, soweit von der eingetragenen Person gef\u00fchrt und mitgeteilt, akademische Grade und Ehrengrade sowie die Bezeichnung \u201eProfessor\u201c eingetragen. Nicht-juristische Grade und Bezeichnungen m\u00fcssen als solche erkennbar sein. Die Rechtsanwaltskammer kann die Eintragung davon abh\u00e4ngig machen, dass die Berechtigung zum F\u00fchren des akademischen Grades, des Ehrengrades oder der Bezeichnung \u201eProfessor\u201c nachgewiesen wird.</P><P>(2) F\u00fchrt die eingetragene Person einen Berufsnamen und teilt sie diesen mit, wird auch dieser eingetragen.</P><P>(3) Verf\u00fcgt eine eingetragene Person \u00fcber mehrere Vornamen, so sind diese nur insoweit einzutragen, als sie im Rahmen der Berufsaus\u00fcbung \u00fcblicherweise verwendet werden.</P><P>(4) Als Name der Kanzlei oder Zweigstelle ist die Bezeichnung einzutragen, unter der die eingetragene Person am jeweiligen Standort beruflich auftritt. Sofern bei einer gemeinschaftlichen Berufsaus\u00fcbung eine Kurzbezeichnung gef\u00fchrt wird, ist diese als Name einzutragen. Bei Syndikusrechtsanw\u00e4lten ist als Name der Arbeitgeber einzutragen. Wird eine weitere Kanzlei eingetragen, muss sich deren Name von dem Namen anderer f\u00fcr die Person eingetragener Kanzleien unterscheiden.</P><P>(5) An Telekommunikationsdaten werden, soweit von der eingetragenen Person mitgeteilt, jeweils eine Telefon- und eine Telefaxnummer sowie eine E-Mail-Adresse je Kanzlei und Zweigstelle eingetragen. Zudem wird, soweit von der eingetragenen Person mitgeteilt, eine Internetadresse je Kanzlei und Zweigstelle eingetragen.</P><P>(6) Als Zeitpunkt der Zulassung ist der Zeitpunkt der erstmaligen Zulassung zur Rechtsanwaltschaft in der Bundesrepublik Deutschland einzutragen, sofern die eingetragene Person seitdem ununterbrochen Mitglied einer Rechtsanwaltskammer gewesen ist. Anderenfalls ist der Zeitpunkt der letzten Aufnahme in die Rechtsanwaltskammer einzutragen. Weist die eingetragene Person im Fall des Satzes 2 der Rechtsanwaltskammer den Zeitpunkt ihrer ersten Zulassung zur Rechtsanwaltschaft in der Bundesrepublik Deutschland nach, so ist auch dieser einzutragen. Bei nach \u00a7 1 Satz 2 in das Verzeichnis eingetragenen Personen tritt an die Stelle der Zulassung die Aufnahme in die Rechtsanwaltskammer.</P><P>(7) Vollziehbare Berufs-, Berufsaus\u00fcbungs- und Vertretungsverbote sind unter Angabe des Zeitpunkts des Beginns sowie der Dauer des Verbots einzutragen. Betrifft das Verbot nur einen Teilbereich der beruflichen T\u00e4tigkeit, ist auch der Umfang des Verbots einzutragen. Bei der Eintragung eines Berufsaus\u00fcbungsverbots ist zu vermerken, dass dieses f\u00fcr die Dauer einer T\u00e4tigkeit im \u00f6ffentlichen Dienst oder einer \u00dcbernahme eines \u00f6ffentlichen Amtes besteht. Wurde nach \u00a7 14 Absatz 4 Satz 1 der Bundesrechtsanwaltsordnung die sofortige Vollziehung der R\u00fccknahme oder des Widerrufs der Zulassung angeordnet, so ist auch diese Ma\u00dfnahme unter Angabe des Zeitpunkts des Beginns einzutragen; Absatz 6 Satz 4 gilt entsprechend.</P><P>(8) Die Eintragung einer Vertretung muss den Zeitraum erkennen lassen, f\u00fcr den diese bestellt ist.</P><P>(9) Im Fall der Befreiung von der Kanzleipflicht sind auch der Zeitpunkt des Beginns der Befreiung und bestehende Auflagen einzutragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 2 Abs. 1 bis 4 Satz 1 u. 2: Zur Anwendung vgl. \u00a7 17 Abs. 2 +++) <BR />(+++ \u00a7 2 Abs. 5: Zur Anwendung vgl. \u00a7 17 Abs. 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000501311",
+        "name": "\u00a7 3",
+        "title": "Eintragungen in das Verzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000100000"
+        },
+        "body": "<P>Die Eintragung der nach \u00a7 1 in das Verzeichnis einzutragenden Personen erfolgt unverz\u00fcglich nach ihrer Aufnahme in die Rechtsanwaltskammer. Im Fall des \u00a7 1 Satz 2 Nummer 4 erfolgt die Eintragung unverz\u00fcglich nach der Feststellung der Voraussetzungen f\u00fcr die Einrichtung des besonderen elektronischen Anwaltspostfachs. Im \u00dcbrigen nimmt die Rechtsanwaltskammer Eintragungen unverz\u00fcglich vor, nachdem sie von den einzutragenden Umst\u00e4nden Kenntnis erlangt hat und ihr erforderliche Nachweise vorgelegt wurden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000600000",
+        "name": "\u00a7 4",
+        "title": "Berichtigungen des Verzeichnisses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000100000"
+        },
+        "body": "<P>(1) Stellt die Rechtsanwaltskammer fest, dass Eintragungen in ihrem Verzeichnis unrichtig oder unvollst\u00e4ndig sind, hat sie diese unverz\u00fcglich zu berichtigen. Insbesondere sind nicht mehr bestehende Berufs-, Berufsaus\u00fcbungs- oder Vertretungsverbote unverz\u00fcglich aus dem Verzeichnis zu l\u00f6schen. Bestehen Zweifel an der Richtigkeit oder Vollst\u00e4ndigkeit des Verzeichnisses, hat die Rechtsanwaltskammer Ausk\u00fcnfte einzuholen und gegebenenfalls die Vorlage von Nachweisen durch die eingetragene Person zu verlangen.</P><P>(2) Stellt eine andere Rechtsanwaltskammer oder die Bundesrechtsanwaltskammer Umst\u00e4nde fest, die die Unrichtigkeit oder Unvollst\u00e4ndigkeit eines von einer Rechtsanwaltskammer gef\u00fchrten Verzeichnisses nahelegen, unterrichtet sie die f\u00fcr die F\u00fchrung des Verzeichnisses zust\u00e4ndige Rechtsanwaltskammer hiervon.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000701311",
+        "name": "\u00a7 5",
+        "title": "Sperrung und L\u00f6schung von Eintragungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000100000"
+        },
+        "body": "<P>(1) Scheidet eine in das Verzeichnis eingetragene Person aus der das Verzeichnis f\u00fchrenden Rechtsanwaltskammer aus, sperrt die Rechtsanwaltskammer unverz\u00fcglich s\u00e4mtliche zu der Person eingetragenen Angaben. Die Rechtsfolge des Satzes 1 gilt sinngem\u00e4\u00df f\u00fcr die gesonderte Eintragung eines Syndikusrechtsanwalts nach \u00a7 46c Absatz 5 Satz 2 der Bundesrechtsanwaltsordnung, soweit dessen Zulassung widerrufen wird. F\u00fcr dienstleistende europ\u00e4ische Rechtsanw\u00e4lte gilt Satz 1 mit der Ma\u00dfgabe nach \u00a7 27a Absatz 1 Satz 3 des Gesetzes \u00fcber die T\u00e4tigkeit europ\u00e4ischer Rechtsanw\u00e4lte in Deutschland sinngem\u00e4\u00df.</P><P>(2) Gesperrte Eintragungen d\u00fcrfen nicht durch Einsichtnahme in das Register ersichtlich sein.</P><P>(3) Gesperrte Eintragungen werden sp\u00e4testens zwei Jahre nach der Sperrung gel\u00f6scht, soweit nicht die eingetragene Person einer l\u00e4ngeren Speicherung ausdr\u00fccklich zustimmt. Auf Antrag der eingetragenen Person sind gesperrte Eintragungen unverz\u00fcglich zu l\u00f6schen. \u00a7 31 Absatz 5 Satz 5 der Bundesrechtsanwaltsordnung bleibt unber\u00fchrt.</P><P>(4) Eine zu Unrecht erfolgte Sperrung ist unverz\u00fcglich r\u00fcckg\u00e4ngig zu machen.</P><P>(5) Ist f\u00fcr die Abwicklung einer Kanzlei ein Abwickler bestellt, so ist im Verzeichnis zu vermerken, dass die eingetragene Person nicht mehr Mitglied der Rechtsanwaltskammer ist und dass ein Abwickler bestellt wurde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000803125",
+        "name": "\u00a7 6",
+        "title": "Einsichtnahme in das Verzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000100000"
+        },
+        "body": "<P>(1) Die Einsichtnahme in das Verzeichnis der Rechtsanwaltskammer ist ausschlie\u00dflich \u00fcber das Internet m\u00f6glich. Eine Einsichtnahme muss jederzeit kostenfrei und ohne vorherige Registrierung m\u00f6glich sein.</P><P>(2) Eine anstelle der Kanzleianschrift in das Verzeichnis eingetragene zustellf\u00e4hige Anschrift ist nicht einsehbar.</P><P>(3) Eintragungen nach \u00a7 1 Satz 2 Nummer 4 sind nicht einsehbar.</P><P>(4) Die Ausgestaltung der M\u00f6glichkeit zur Einsichtnahme soll die Anforderungen der Barrierefreiheit im Sinne der Barrierefreie-Informationstechnik-Verordnung ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 6: Zur Anwendung vgl. \u00a7 13 Abs. 1 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE000902125",
+        "name": "\u00a7 7",
+        "title": "Suchfunktion",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000100000"
+        },
+        "body": "<P>(1) Die Rechtsanwaltskammern haben die Einsichtnahme in ihr Verzeichnis \u00fcber eine Suchfunktion zu gew\u00e4hrleisten. Die Suchfunktion hat die alternative und die kumulative Suche anhand folgender Angaben zu erm\u00f6glichen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienname; ist als Zusatz hierzu ein Berufsname eingetragen, muss auch dieser bei der Suche gefunden werden k\u00f6nnen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorname;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anschrift von Kanzlei oder Zweigstelle;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kanzleiname oder Name der Zweigstelle;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Berufsbezeichnung;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fachanwaltsbezeichnung;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Interesse an der \u00dcbernahme von Pflichtverteidigungen.</LA></DD></DL></P><P>(2) Die Nutzung der Suchfunktion kann von der Eingabe eines auf der Internetseite angegebenen Sicherheitscodes abh\u00e4ngig gemacht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001000000",
+        "name": "\u00a7 8",
+        "title": "Datensicherheit und Einsehbarkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000100000"
+        },
+        "body": "<P>(1) Die das Verzeichnis f\u00fchrende Rechtsanwaltskammer hat zu gew\u00e4hrleisten, dass Eintragungen, Berichtigungen, Sperrungen, Entsperrungen und L\u00f6schungen allein durch sie selbst vorgenommen werden k\u00f6nnen. Zudem muss nachtr\u00e4glich \u00fcberpr\u00fcft und festgestellt werden k\u00f6nnen, wer diese Ma\u00dfnahmen innerhalb der Rechtsanwaltskammer zu welchem Zeitpunkt vorgenommen hat.</P><P>(2) Jede Rechtsanwaltskammer hat durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Ma\u00dfnahmen sicherzustellen, dass die in das Verzeichnis aufgenommenen Angaben jederzeit einsehbar sind.</P><P>(3) Jede Rechtsanwaltskammer hat durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Ma\u00dfnahmen Vorkehrungen zu treffen, dass sie von auftretenden Fehlfunktionen des von ihr zu f\u00fchrenden Verzeichnisses unverz\u00fcglich Kenntnis erlangt. Schwerwiegende Fehlfunktionen hat sie unverz\u00fcglich, andere Fehlfunktionen hat sie zeitnah zu beheben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR216700016BJNG000200000",
+        "name": "Teil 2",
+        "title": "Gesamtverzeichnis der Bundesrechtsanwaltskammer",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001100000",
+        "name": "\u00a7 9",
+        "title": "F\u00fchrung des Gesamtverzeichnisses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000200000"
+        },
+        "body": "<P>Die Bundesrechtsanwaltskammer f\u00fchrt ein elektronisches Gesamtverzeichnis aller in den Verzeichnissen der Rechtsanwaltskammern eingetragenen Personen. Es tr\u00e4gt die Bezeichnung \u201eBundesweites Amtliches Anwaltsverzeichnis\u201c.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001202311",
+        "name": "\u00a7 10",
+        "title": "Inhalt des Gesamtverzeichnisses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000200000"
+        },
+        "body": "<P>Das Gesamtverzeichnis enth\u00e4lt zu den einzutragenden Personen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die in den Verzeichnissen der Rechtsanwaltskammern enthaltenen Angaben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Angabe der Kammer, der sie angeh\u00f6ren oder die sonst f\u00fcr sie zust\u00e4ndig ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die von der Bundesrechtsanwaltskammer zus\u00e4tzlich eingetragenen Angaben und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Sprachkenntnisse und die T\u00e4tigkeitsschwerpunkte, die die eingetragenen Personen selbst eingetragen haben.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001302125",
+        "name": "\u00a7 11",
+        "title": "Eintragungen in das Gesamtverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000200000"
+        },
+        "body": "<P>(1) Sofern die Rechtsanwaltskammern die in ihren Verzeichnissen enthaltenen Angaben im automatisierten Verfahren in das Gesamtverzeichnis eingeben, sind die zu \u00fcbertragenden Daten zumindest mit einer fortgeschrittenen elektronischen Signatur zu versehen.</P><P>(2) Die Bundesrechtsanwaltskammer tr\u00e4gt zu den eingetragenen Personen die Bezeichnung ihres besonderen elektronischen Anwaltspostfachs in das Gesamtverzeichnis ein. Wurde f\u00fcr eine Vertretung, einen Abwickler oder einen Zustellungsbevollm\u00e4chtigten ein besonderes elektronisches Anwaltspostfach eingerichtet, ist auch dessen Bezeichnung bei der eingetragenen Person einzutragen.</P><P>(3) Die Bundesrechtsanwaltskammer erm\u00f6glicht den in \u00a7 16 Satz 2 genannten Personen durch geeignete technische Vorkehrungen f\u00fcr die Zwecke der Suche nach diesen Angaben \u00fcber das Europ\u00e4ische Rechtsanwaltsverzeichnis die Eintragung von Sprachkenntnissen und T\u00e4tigkeitsschwerpunkten in das Gesamtverzeichnis. Dabei sind nur folgende T\u00e4tigkeitsschwerpunkte eintragungsf\u00e4hig: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Insolvenzrecht;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wirtschaftsrecht;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verbraucherrecht;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Strafrecht;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Arbeitsrecht;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Umweltrecht;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Recht der Europ\u00e4ischen Union (EU);</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Familienrecht;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Menschen- und B\u00fcrgerrechte;</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Immigrations- und Asylrecht;</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gewerblicher Rechtsschutz und Urheberrecht;</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Recht der Informationstechnologie (IT);</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">Prozessvertretung, Mediation und Schiedsverfahren;</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schadensersatzrecht;</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">Eigentumsrecht;</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00d6ffentliches Recht;</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sozialrecht;</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erbrecht;</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">Steuerrecht;</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verkehrs- und Transportrecht.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001400000",
+        "name": "\u00a7 12",
+        "title": "Berichtigung des Gesamtverzeichnisses",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000200000"
+        },
+        "body": "<P>(1) Sofern die Rechtsanwaltskammern in ihren Verzeichnissen enthaltene Angaben in das Gesamtverzeichnis eingegeben haben, erfolgen Berichtigungen, Sperrungen, Entsperrungen und L\u00f6schungen dieser Angaben durch die Rechtsanwaltskammern im automatisierten Verfahren. Zu diesem Zweck zu \u00fcbertragende Daten sind zumindest mit einer fortgeschrittenen elektronischen Signatur zu versehen.</P><P>(2) Erlangt die Bundesrechtsanwaltskammer Kenntnis von einer von ihr zu verantwortenden Unrichtigkeit der Bezeichnung eines besonderen elektronischen Anwaltspostfachs, berichtigt sie diese unverz\u00fcglich und unterrichtet den Postfachinhaber hier\u00fcber. Stellt eine Rechtsanwaltskammer Umst\u00e4nde fest, die eine Unrichtigkeit im Sinne des Satzes 1 nahelegen, so unterrichtet sie die Bundesrechtsanwaltskammer hiervon.</P><P>(3) Die Bundesrechtsanwaltskammer erm\u00f6glicht den eingetragenen Personen die Berichtigung und L\u00f6schung der jeweiligen von ihnen im Gesamtverzeichnis eingetragenen Sprachkenntnisse und T\u00e4tigkeitsschwerpunkte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001500000",
+        "name": "\u00a7 13",
+        "title": "Einsichtnahme in das Gesamtverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000200000"
+        },
+        "body": "<P>(1) \u00a7 6 gilt entsprechend.</P><P>(2) In das Gesamtverzeichnis eingetragene Sprachkenntnisse und T\u00e4tigkeitsschwerpunkte sind ausschlie\u00dflich \u00fcber das Europ\u00e4ische Rechtsanwaltsverzeichnis einsehbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001600000",
+        "name": "\u00a7 14",
+        "title": "Suchfunktion",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000200000"
+        },
+        "body": "<P>Die Einsichtnahme in das Gesamtverzeichnis erfolgt \u00fcber eine Suchfunktion. \u00a7 7 gilt mit der Ma\u00dfgabe entsprechend, dass auch eine Suche nach der Kammerzugeh\u00f6rigkeit zu erm\u00f6glichen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001701311",
+        "name": "\u00a7 15",
+        "title": "Datensicherheit und Einsehbarkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000200000"
+        },
+        "body": "<P>(1) Die Bundesrechtsanwaltskammer gew\u00e4hrleistet, dass die von den Rechtsanwaltskammern vorzunehmenden Eingaben in das Gesamtverzeichnis allein durch die jeweils zust\u00e4ndige Rechtsanwaltskammer erfolgen. Von der Bundesrechtsanwaltskammer vorzunehmende Eintragungen d\u00fcrfen nur durch diese erfolgen. Die Bundesrechtsanwaltskammer gew\u00e4hrleistet zudem, dass Sprachkenntnisse und T\u00e4tigkeitsschwerpunkte nur von der eingetragenen Person eingetragen, berichtigt und gel\u00f6scht werden k\u00f6nnen.</P><P>(2) Die Rechtsanwaltskammern gew\u00e4hrleisten, dass hinsichtlich der von ihnen vorgenommenen Eingaben in das Gesamtverzeichnis nachtr\u00e4glich \u00fcberpr\u00fcft und festgestellt werden kann, wer diese vorgenommen hat. Gleiches gilt f\u00fcr die Bundesrechtsanwaltskammer hinsichtlich der von ihr in das Gesamtverzeichnis eingetragenen Angaben.</P><P>(3) Die Bundesrechtsanwaltskammer stellt durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Ma\u00dfnahmen sicher, dass die <NB>in das</NB> Gesamtverzeichnis aufgenommenen Angaben st\u00e4ndig einsehbar sind. Sie hat durch solche Ma\u00dfnahmen zudem Vorkehrungen zu treffen, dass sie von auftretenden Fehlfunktionen des von ihr zu f\u00fchrenden Verzeichnisses unverz\u00fcglich Kenntnis erlangt. Schwerwiegende Fehlfunktionen hat sie unverz\u00fcglich, andere Fehlfunktionen hat sie zeitnah zu beheben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR216700016BJNG000300000",
+        "name": "Teil 3",
+        "title": "Europ\u00e4isches Rechtsanwaltsverzeichnis",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001801311",
+        "name": "\u00a7 16",
+        "title": "Abruf von Angaben \u00fcber das Europ\u00e4ische Rechtsanwaltsverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000300000"
+        },
+        "body": "<P>Die Bundesrechtsanwaltskammer stellt die in \u00a7 17 genannten Angaben des Gesamtverzeichnisses f\u00fcr die Einsichtnahme \u00fcber das auf den Internetseiten der Europ\u00e4ischen Kommission unter der Bezeichnung \u201eFind a lawyer\u201c betriebene elektronische Suchsystem, das im Deutschen die Bezeichnung \u201eEurop\u00e4isches Rechtsanwaltsverzeichnis\u201c tr\u00e4gt, abrufbereit zur Verf\u00fcgung. Der Abruf ist bez\u00fcglich des in \u00a7 1 Satz 1 und 2 Nummer 1 bis 3 genannten Personenkreises mit Ausnahme der Syndikusrechtsanw\u00e4lte, der niedergelassenen europ\u00e4ischen Syndikusrechtsanw\u00e4lte und der Syndikusrechtsanw\u00e4lte aus anderen Staaten zu erm\u00f6glichen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE001901311",
+        "name": "\u00a7 17",
+        "title": "Abrufbare Angaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000300000"
+        },
+        "body": "<P>(1) Die Bundesrechtsanwaltskammer erm\u00f6glicht \u00fcber das Europ\u00e4ische Rechtsanwaltsverzeichnis den Abruf der folgenden im Gesamtverzeichnis eingetragenen Angaben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Familienname und Vorname oder Vornamen des Rechtsanwalts;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Berufsbezeichnung;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Name der Kanzlei und deren Anschrift;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Telefon- und Telefaxnummer sowie E-Mail-Adresse der Kanzlei;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Internetadresse der Kanzlei;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Kammerzugeh\u00f6rigkeit.</LA></DD></DL></P><P>(2) \u00a7 2 Absatz 1 bis 4 Satz 1 und 2 sowie Absatz 5 ist entsprechend anwendbar.</P><P>(3) Die Bundesrechtsanwaltskammer stellt zudem die Informationen abrufbereit zur Verf\u00fcgung, die f\u00fcr eine Suche nach Fachanwaltsbezeichnungen, Sprachkenntnissen und T\u00e4tigkeitsschwerpunkten erforderlich sind.</P><P>(4) Der Abruf von weiteren, in den Abs\u00e4tzen 1 bis 3 nicht genannten Eintragungen im Gesamtverzeichnis darf \u00fcber das Europ\u00e4ische Rechtsanwaltsverzeichnis nicht erm\u00f6glicht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002001125",
+        "name": "\u00a7 18",
+        "title": "Abrufbarkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000300000"
+        },
+        "body": "<P>(1) Die Bundesrechtsanwaltskammer stellt durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Ma\u00dfnahmen sicher, dass in ihrem Verantwortungsbereich alle Voraussetzungen daf\u00fcr erf\u00fcllt sind, dass die in \u00a7 17 genannten Angaben des Gesamtverzeichnisses jederzeit \u00fcber das Europ\u00e4ische Rechtsanwaltsverzeichnis abrufbar sind.</P><P>(2) Die Bundesrechtsanwaltskammer hat durch geeignete organisatorische und dem aktuellen Stand entsprechende technische Ma\u00dfnahmen zu gew\u00e4hrleisten, dass sie von in ihrem Verantwortungsbereich auftretenden Fehlfunktionen beim Abruf \u00fcber das Europ\u00e4ische Rechtsanwaltsverzeichnis unverz\u00fcglich Kenntnis erlangt. Entsprechende schwerwiegende Fehlfunktionen hat sie unverz\u00fcglich, entsprechende andere Fehlfunktionen hat sie zeitnah zu beheben. \u00dcber sonstige ihr bekannt werdende Fehlfunktionen des Europ\u00e4ischen Rechtsanwaltsverzeichnisses hat sie den f\u00fcr dessen F\u00fchrung Verantwortlichen unverz\u00fcglich zu unterrichten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR216700016BJNG000400000",
+        "name": "Teil 4",
+        "title": "Besonderes elektronisches Anwaltspostfach",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002102125",
+        "name": "\u00a7 19",
+        "title": "Besonderes elektronisches Anwaltspostfach",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Das besondere elektronische Anwaltspostfach dient der elektronischen Kommunikation der in das Gesamtverzeichnis eingetragenen Mitglieder der Rechtsanwaltskammern, der Rechtsanwaltskammern und der Bundesrechtsanwaltskammer mit den Gerichten auf einem sicheren \u00dcbermittlungsweg. Ebenso dient es der elektronischen Kommunikation der Mitglieder der Rechtsanwaltskammern, der Rechtsanwaltskammern und der Bundesrechtsanwaltskammer untereinander.</P><P>(2) Das besondere elektronische Anwaltspostfach kann auch der elektronischen Kommunikation mit anderen Personen oder Stellen dienen.</P><P>(3) Die Bundesrechtsanwaltskammer hat den Mitgliedern der Rechtsanwaltskammern, den Rechtsanwaltskammern und sich selbst zum Zweck des Versendens von Nachrichten \u00fcber das besondere elektronische Anwaltspostfach die elektronische Suche nach allen Personen und Stellen zu erm\u00f6glichen, die \u00fcber das Postfach erreichbar sind. Die Bundesrechtsanwaltskammer hat zudem die Daten, die eine Suche im Sinne des Satzes 1 erm\u00f6glichen, auch den Gerichten zug\u00e4nglich zu machen. Sie kann sie auch anderen Personen und Stellen zug\u00e4nglich machen, mit denen sie nach Absatz 2 eine Kommunikation erm\u00f6glicht.</P><P>(4) Vertretungen, Abwickler und Zustellungsbevollm\u00e4chtigte, die nicht bereits von Absatz 1 Satz 1 erfasst sind, sowie nach \u00a7 1 Satz 2 Nummer 4 eingetragene Personen stehen den Mitgliedern der Rechtsanwaltskammern nach den Abs\u00e4tzen 1 bis 3 gleich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002201000",
+        "name": "\u00a7 20",
+        "title": "F\u00fchrung der besonderen elektronischen Postf\u00e4cher",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Die Bundesrechtsanwaltskammer hat die besonderen elektronischen Anwaltspostf\u00e4cher auf der Grundlage des Protokollstandards \u201eOnline Services Computer Interface \u2013 OSCI\u201c oder einem k\u00fcnftig nach dem Stand der Technik an dessen Stelle tretenden Standard zu betreiben. Die Bundesrechtsanwaltskammer hat fortlaufend zu gew\u00e4hrleisten, dass die in \u00a7 19 Absatz 1 genannten Personen und Stellen miteinander sicher elektronisch kommunizieren k\u00f6nnen.</P><P>(2) Der Zugang zum besonderen elektronischen Anwaltspostfach soll barrierefrei im Sinne der Barrierefreie-Informationstechnik-Verordnung sein.</P><P>(3) Die Bundesrechtsanwaltskammer hat zu gew\u00e4hrleisten, dass bei einem Versand nicht-qualifiziert signierter elektronischer Dokumente durch einen Rechtsanwalt auf einem sicheren \u00dcbermittlungsweg f\u00fcr den Empf\u00e4nger feststellbar ist, dass die Nachricht von dem Rechtsanwalt selbst versandt wurde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002301311",
+        "name": "\u00a7 21",
+        "title": "Einrichtung eines Postfachs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Die Rechtsanwaltskammern unterrichten die Bundesrechtsanwaltskammer \u00fcber die bevorstehende Eintragung einer Person in das Gesamtverzeichnis. Die Bundesrechtsanwaltskammer richtet unverz\u00fcglich nach der Eintragung einer Person in das Gesamtverzeichnis f\u00fcr diese ein besonderes elektronisches Anwaltspostfach empfangsbereit ein.</P><P>(2) Absatz 1 gilt nicht, wenn die eingetragene Person von einer Rechtsanwaltskammer in eine andere wechselt.</P><P>(3) F\u00fcr weitere besondere elektronische Anwaltspostf\u00e4cher gelten die \u00a7\u00a7 19, 20 und 22 bis 30 entsprechend.</P><P>(4) Beantragt ein dienstleistender europ\u00e4ischer Rechtsanwalt die Einrichtung eines besonderen elektronischen Anwaltspostfachs, so hat er eine h\u00f6chstens einen Monat alte Bescheinigung dar\u00fcber vorzulegen, dass er zur Aus\u00fcbung des Berufs des Rechtsanwalts in seinem Niederlassungsstaat berechtigt ist. Verliert ein dienstleistender europ\u00e4ischer Rechtsanwalt, f\u00fcr den ein besonderes elektronisches Anwaltspostfach eingerichtet wurde, seine Zulassung, ist er verpflichtet, der f\u00fcr ihn zust\u00e4ndigen Rechtsanwaltskammer diesen Verlust unverz\u00fcglich mitzuteilen. Hier\u00fcber ist er von der Rechtsanwaltskammer zu belehren. Die Rechtsanwaltskammer hat zudem die f\u00fcr die Zulassung des Rechtsanwalts in seinem Niederlassungsstaat zust\u00e4ndige Stelle darum zu bitten, ihr einen Verlust der Zulassung unverz\u00fcglich mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002400000",
+        "name": "\u00a7 22",
+        "title": "Erstanmeldung am Postfach",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Die Erstanmeldung des Postfachinhabers an seinem besonderen elektronischen Anwaltspostfach erfolgt unter Verwendung eines f\u00fcr ihn zu diesem Zweck erzeugten und auf einer Hardwarekomponente gespeicherten Zertifikats, das die eindeutige Bezeichnung des Postfachs enth\u00e4lt, sowie unter Verwendung der zugeh\u00f6rigen Zertifikats-PIN. Eine Hardwarekomponente im Sinne des Satzes 1 und des \u00a7 23 muss vergleichbaren Anforderungen gen\u00fcgen, wie sie nach dem Anhang II der Verordnung (EU) Nr. 910/2014 des Europ\u00e4ischen Parlaments und des Rates vom 23. Juli 2014 \u00fcber elektronische Identifizierung und Vertrauensdienste f\u00fcr elektronische Transaktionen im Binnenmarkt und zur Aufhebung der Richtlinie 1999/93/EG (ABl. L 257 vom 28.8.2014, S. 73) f\u00fcr qualifizierte elektronische Signaturerstellungseinheiten gelten.</P><P>(2) Der Postfachinhaber erlangt das zur Erstanmeldung erforderliche Zertifikat und die zugeh\u00f6rige Zertifikats-PIN durch Bestellung des Zertifikats bei der Bundesrechtsanwaltskammer oder einer von ihr bestimmten Stelle. Der Postfachinhaber kann auch mehrere zur Erstanmeldung geeignete Zertifikate bestellen.</P><P>(3) Die Ausgabe des zur Erstanmeldung erforderlichen Zertifikats und die Zuteilung der zugeh\u00f6rigen Zertifikats-PIN haben in einem Verfahren zu erfolgen, das gew\u00e4hrleistet, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Postfachinhaber das Zertifikat und die Zertifikats-PIN unverz\u00fcglich, jedoch getrennt voneinander erlangt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das besondere elektronische Anwaltspostfach dem Zertifikat zweifelsfrei zugeordnet ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>keine unbefugte Inbesitznahme des Zertifikats durch Dritte erfolgt und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>keine unbefugte Kenntnisnahme Dritter von der Zertifikats-PIN erfolgt.</LA></DD></DL></P><P>(4) Die Bundesrechtsanwaltskammer hat sich in geeigneter Weise davon zu \u00fcberzeugen, dass das zur Erstanmeldung erforderliche Zertifikat dem Postfachinhaber zugegangen ist. Hierzu kann sie sich einer anderen \u00f6ffentlichen Stelle bedienen.</P><P>(5) Die Bundesrechtsanwaltskammer hat das zur Erstanmeldung erteilte Zertifikat unverz\u00fcglich zu sperren, wenn Anhaltspunkte daf\u00fcr bestehen, dass die Voraussetzungen nach Absatz 3 Nummer 2 bis 4 nicht erf\u00fcllt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002502125",
+        "name": "\u00a7 23",
+        "title": "Weitere Zugangsberechtigungen zum Postfach",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Der Postfachinhaber kann mit einem auf einer Hardwarekomponente gespeicherten Zertifikat weitere ihm zugeordnete Zertifikate berechtigen, ihm Zugang zu seinem besonderen elektronischen Anwaltspostfach zu gew\u00e4hren. Diese Zertifikate m\u00fcssen nicht auf einer Hardwarekomponente gespeichert sein. Zu ihnen muss jedoch ebenfalls eine Zertifikats-PIN geh\u00f6ren. Zudem m\u00fcssen sie von einem von der Bundesrechtsanwaltskammer anerkannten Zertifizierungsdiensteanbieter authentifiziert sein.</P><P>(2) Der Postfachinhaber kann auch anderen Personen Zugang zu seinem besonderen elektronischen Anwaltspostfach gew\u00e4hren. Verf\u00fcgen die anderen Personen nicht \u00fcber ein eigenes besonderes elektronisches Anwaltspostfach, hat der Postfachinhaber f\u00fcr sie ein Zugangskonto anzulegen. Der Zugang der anderen Personen \u00fcber ihr Zugangskonto erfolgt unter Verwendung eines ihnen zugeordneten Zertifikats und einer zugeh\u00f6rigen Zertifikats-PIN. Der Postfachinhaber kann hierzu mit einem auf einer Hardwarekomponente gespeicherten Zertifikat weitere Zertifikate berechtigen, anderen Personen Zugang zu seinem Postfach zu gew\u00e4hren. F\u00fcr diese Zertifikate gilt Absatz 1 Satz 2 bis 4 entsprechend.</P><P>(3) Der Postfachinhaber kann, wenn er mit einem auf einer Hardwarekomponente gespeicherten Zertifikat angemeldet ist, anderen Personen unterschiedlich weit reichende Zugangsberechtigungen zu seinem besonderen elektronischen Anwaltspostfach erteilen. Er kann anderen Personen, deren Zertifikat auf einer Hardwarekomponente gespeichert ist, auch die Befugnis einr\u00e4umen, weitere Zugangsberechtigungen zu erteilen. F\u00fcr die Erteilung weiterer Zugangsberechtigungen durch entsprechend erm\u00e4chtigte andere Personen gelten die Abs\u00e4tze 1 und 2 entsprechend. Der Postfachinhaber kann anderen Personen zudem die Befugnis einr\u00e4umen, Nachrichten zu versenden. Das Recht, nicht-qualifiziert elektronisch signierte Dokumente auf einem sicheren \u00dcbermittlungsweg zu versenden, kann er jedoch nicht auf andere Personen \u00fcbertragen. Satz 5 gilt nicht f\u00fcr die Befugnis von Vertretungen und Zustellungsbevollm\u00e4chtigten, elektronische Empfangsbekenntnisse abzugeben.</P><P>(4) Der Postfachinhaber und die von ihm entsprechend erm\u00e4chtigten anderen Personen k\u00f6nnen erteilte Zugangsberechtigungen jederzeit \u00e4ndern und widerrufen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002600000",
+        "name": "\u00a7 24",
+        "title": "Zugang zum Postfach",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Die Anmeldung des Inhabers an seinem besonderen elektronischen Anwaltspostfach erfolgt mit einem ihm zugeordneten Zertifikat und der zugeh\u00f6rigen Zertifikats-PIN. Hat der Inhaber die Nutzung des Postfachs beendet, hat er sich abzumelden. Die Bundesrechtsanwaltskammer hat f\u00fcr den Fall, dass der aktivierte Zugang f\u00fcr eine bestimmte Zeitdauer nicht genutzt wird, eine automatische Abmeldung des Postfachinhabers durch das System vorzusehen. Bei der Bemessung der Zeitdauer sind die Belange des Datenschutzes gegen den Aufwand f\u00fcr die erneute Anmeldung abzuw\u00e4gen.</P><P>(2) Die Anmeldung anderer Personen an einem besonderen elektronischen Anwaltspostfach erfolgt mit einem ihnen zugeordneten Zertifikat und der zugeh\u00f6rigen Zertifikats-PIN; Absatz 1 Satz 2 bis 4 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002701125",
+        "name": "\u00a7 25",
+        "title": "Vertretungen, Abwickler und Zustellungsbevollm\u00e4chtigte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Verf\u00fcgt eine Person, die f\u00fcr eine im Gesamtverzeichnis eingetragene Person von der Rechtsanwaltskammer als Vertretung oder Abwickler bestellt wird, nicht \u00fcber ein besonderes elektronisches Anwaltspostfach, unterrichtet die f\u00fcr die eingetragene Person zust\u00e4ndige Rechtsanwaltskammer die Bundesrechtsanwaltskammer \u00fcber deren Bestellung oder Benennung. Sie \u00fcbermittelt hierzu die Angaben zur Identit\u00e4t der eingetragenen Person sowie den Familiennamen, die Vornamen und eine zustellf\u00e4hige Anschrift der Person, f\u00fcr die das Postfach einzurichten ist. Die Bundesrechtsanwaltskammer richtet daraufhin f\u00fcr die bestellte oder benannte Person f\u00fcr die Dauer ihrer T\u00e4tigkeit ein besonderes elektronisches Anwaltspostfach ein.</P><P>(2) Die Rechtsanwaltskammern teilen der Bundesrechtsanwaltskammer mit, wenn aufgrund ver\u00e4nderter Umst\u00e4nde die Voraussetzungen f\u00fcr die Einrichtung eines besonderen elektronischen Anwaltspostfachs im Sinne des Absatzes 1 entfallen sind.</P><P>(3) Bestellt die Rechtsanwaltskammer eine Vertretung oder einen Abwickler, so r\u00e4umt die Bundesrechtsanwaltskammer dieser Person f\u00fcr die Dauer ihrer Bestellung einen auf die \u00dcbersicht der eingegangenen Nachrichten beschr\u00e4nkten Zugang zum besonderen elektronischen Anwaltspostfach der Person ein, f\u00fcr die sie bestellt wurde. Dabei m\u00fcssen f\u00fcr die Vertretung oder den Abwickler der Absender und der Eingangszeitpunkt der Nachricht einsehbar sein; der Betreff, der Text und die Anh\u00e4nge der Nachricht d\u00fcrfen nicht einsehbar sein. Die zur Einr\u00e4umung des Zugangs erforderliche \u00dcbermittlung von Daten durch die Rechtsanwaltskammer an die Bundesrechtsanwaltskammer erfolgt im automatisierten Verfahren. Zu diesem Zweck zu \u00fcbertragende Daten sind zumindest mit einer fortgeschrittenen elektronischen Signatur zu versehen.</P><P>(4) Hat es ein Rechtsanwalt in den F\u00e4llen des \u00a7 30, des \u00a7 46c Absatz 6 oder des \u00a7 54 Absatz 2 der Bundesrechtsanwaltsordnung unterlassen, einem von ihm benannten Zustellungsbevollm\u00e4chtigten oder einer von ihm bestellten Vertretung einen Zugang zu seinem besonderen elektronischen Anwaltspostfach einzur\u00e4umen, so kann die Bundesrechtsanwaltskammer dieser Person f\u00fcr die Dauer ihrer Benennung oder Bestellung einen auf die \u00dcbersicht der eingegangenen Nachrichten beschr\u00e4nkten Zugang zum besonderen elektronischen Anwaltspostfach des Rechtsanwalts einr\u00e4umen, f\u00fcr den sie benannt oder bestellt wurde. Absatz 3 Satz 2 bis 4 gilt entsprechend. Der Antrag auf Einr\u00e4umung eines Zugangs nach Satz 1 ist bei der Rechtsanwaltskammer zu stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002800000",
+        "name": "\u00a7 26",
+        "title": "Datensicherheit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Die Inhaber eines f\u00fcr sie erzeugten Zertifikats d\u00fcrfen dieses keiner weiteren Person \u00fcberlassen und haben die dem Zertifikat zugeh\u00f6rige Zertifikats-PIN geheim zu halten.</P><P>(2) Der Postfachinhaber hat unverz\u00fcglich alle erforderlichen Ma\u00dfnahmen zu ergreifen, um einen unbefugten Zugriff auf sein Postfach zu verhindern, sofern Anhaltspunkte daf\u00fcr bestehen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>ein Zertifikat in den Besitz einer unbefugten Person gelangt ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die einem Zertifikat zugeh\u00f6rige Zertifikats-PIN einer unbefugten Person bekannt geworden ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>ein Zertifikat unbefugt kopiert wurde oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>sonst von einer Person mittels eines Zertifikats auf das besondere elektronische Anwaltspostfach unbefugt zugegriffen werden k\u00f6nnte.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE002900000",
+        "name": "\u00a7 27",
+        "title": "Automatisches L\u00f6schen von Nachrichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>Nachrichten d\u00fcrfen fr\u00fchestens 90 Tage nach ihrem Eingang automatisch in den Papierkorb des besonderen elektronischen Anwaltspostfachs verschoben werden. Im Papierkorb befindliche Nachrichten d\u00fcrfen fr\u00fchestens nach 30 Tagen automatisch gel\u00f6scht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE003000000",
+        "name": "\u00a7 28",
+        "title": "Aufhebung der Zugangsberechtigung und Sperrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>(1) Die Bundesrechtsanwaltskammer sperrt ein besonderes elektronisches Anwaltspostfach, wenn die Eintragungen zum Postfachinhaber im Gesamtverzeichnis gesperrt wurden. Der Zugang zu einem gesperrten besonderen elektronischen Anwaltspostfach ist nicht m\u00f6glich. Dies gilt f\u00fcr den Postfachinhaber und alle anderen Personen, denen eine Zugangsberechtigung zu dem Postfach erteilt wurde. Die S\u00e4tze 1 bis 3 gelten nicht, wenn der Postfachinhaber von einer Rechtsanwaltskammer in eine andere wechselt.</P><P>(2) Das besondere elektronische Anwaltspostfach wird zudem gesperrt, wenn f\u00fcr dessen Inhaber ein Abwickler bestellt ist. Der Zugang des Abwicklers nach \u00a7 25 Absatz 3 Satz 1 und 2 bleibt hiervon unber\u00fchrt.</P><P>(3) Gesperrte besondere elektronische Anwaltspostf\u00e4cher sind nicht adressierbar.</P><P>(4) Wird eine Sperrung der Eintragung des Postfachinhabers im Gesamtverzeichnis aufgehoben, ist auch die Sperrung des besonderen elektronischen Anwaltspostfachs unverz\u00fcglich r\u00fcckg\u00e4ngig zu machen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE003100000",
+        "name": "\u00a7 29",
+        "title": "L\u00f6schung des Postfachs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000400000"
+        },
+        "body": "<P>Gesperrte besondere elektronische Anwaltspostf\u00e4cher werden einschlie\u00dflich der darin gespeicherten Nachrichten sechs Monate nach der Sperrung gel\u00f6scht. Wird ein Abwickler bestellt, erfolgt die L\u00f6schung nicht vor Beendigung der Abwicklung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR216700016BJNG000500000",
+        "name": "Teil 5",
+        "title": "Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE003201125",
+        "name": "\u00a7 30",
+        "title": "Die Rechtsanwaltschaft bei dem Bundesgerichtshof",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000500000"
+        },
+        "body": "<P>Von den Aufgaben, die nach dieser Verordnung der Rechtsanwaltskammer zugewiesen sind, nimmt das Bundesministerium der Justiz und f\u00fcr Verbraucherschutz die Aufgaben wahr, die mit der Zulassung zur Rechtsanwaltschaft bei dem Bundesgerichtshof, dem Erl\u00f6schen dieser Zulassung und der Bestellung einer Vertretung oder eines Abwicklers f\u00fcr einen Rechtsanwalt bei dem Bundesgerichtshof verbunden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE003301311",
+        "name": "\u00a7 31",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000500000"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE003400000",
+        "name": "\u00a7 32",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000500000"
+        },
+        "body": "<P>(1) Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verk\u00fcndung in Kraft.</P><P>(2) \u00a7 2 Absatz 6 Satz 3, Absatz 7 bis 9, \u00a7 7 Absatz 1 Satz 2 Nummer 5 und 6, \u00a7 20 Absatz 3 sowie \u00a7 23 Absatz 3 Satz 5 treten am 1. Januar 2018 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR216700016BJNE003500000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR216700016BJNG000500000"
+        },
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

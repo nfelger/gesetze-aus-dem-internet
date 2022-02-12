@@ -1,0 +1,60 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR009120973",
+    "firstPublished": "1973-07-25",
+    "sourceTimestamp": "20160623215503",
+    "titleShort": null,
+    "titleLong": "Bekanntmachung zu \u00a7 4 des Warenzeichengesetzes",
+    "abbreviation": "WZG\u00a74UmWBek",
+    "slug": "wzg_4umwbek",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1973, 912",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  2. 8.1973 +++)</P>"
+    },
+    "attachments": {
+      "bgbl1_1973_j0912_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/wzg_4umwbek/bgbl1_1973_j0912_0010.jpg"
+    },
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR009120973BJNE000100303",
+        "name": "(XXXX)",
+        "title": null,
+        "parent": null,
+        "body": "<P>(1) Auf Grund des \u00a7 4 Abs. 2 Nr. 3a des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29), zuletzt ge\u00e4ndert durch das Gesetz vom 23. Juni 1970 (Bundesgesetzbl. I S. 805), wird bekanntgemacht, da\u00df das Zeichen der Umwelt-Konferenz der Vereinten Nationen (Anlage) von der Eintragung als Warenzeichen ausgeschlossen ist.</P><P>(2) Diese Bekanntmachung ergeht im Anschlu\u00df an die Bekanntmachung vom 18. April 1973 (Bundesgesetzbl. I S. 323).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009120973BJNE000900303",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesminister der Justiz</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009120973BJNE000200303",
+        "name": "Anlage",
+        "title": null,
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">Fundstelle: BGBl. I 1973, 912)</kommentar></noindex><BR /><BR /><B>Zeichen der Umwelt-Konferenz der Vereinten Nationen</B><BR /><IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_1973_j0912_0010.jpg\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

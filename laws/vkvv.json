@@ -1,0 +1,209 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR047500001",
+    "firstPublished": "2001-03-30",
+    "sourceTimestamp": "20201009213002",
+    "titleShort": "Versicherungsnummern-, Kontof\u00fchrungs- und Versicherungsverlaufsverordnung",
+    "titleLong": "Verordnung \u00fcber die Versicherungsnummer, die Kontof\u00fchrung und den\nVersicherungsverlauf in der gesetzlichen Rentenversicherung",
+    "abbreviation": "VKVV",
+    "slug": "vkvv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2001, 475",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 22 G v. 12.6.2020 I 1248",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 1.7.2001 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE000500305",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 152 Nr. 1 bis 6 des Sechsten Buches Sozialgesetzbuch - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes vom 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) verordnet das Bundesministerium f\u00fcr Arbeit und Sozialordnung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR047500001BJNG000100305",
+        "name": "1. Kapitel",
+        "title": "Versicherungsnummer",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE000602119",
+        "name": "\u00a7 1",
+        "title": "Vergabe und Zuordnung der Versicherungsnummer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000100305"
+        },
+        "body": "<P>Die Datenstelle der Rentenversicherung vergibt f\u00fcr Versicherte, an die noch keine inl\u00e4ndische Versicherungsnummer vergeben wurde, gem\u00e4\u00df \u00a7 147 des Sechsten Buches Sozialgesetzbuch eine Versicherungsnummer. F\u00fcr andere Personen kann eine Versicherungsnummer vergeben werden, soweit dies zur Aufgabenerf\u00fcllung der Rentenversicherung erforderlich ist. Gleichzeitig ordnet die Datenstelle gem\u00e4\u00df \u00a7 127 des Sechsten Buches Sozialgesetzbuch jeden Versicherten einem Rentenversicherungstr\u00e4ger zu.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE000703124",
+        "name": "\u00a7 2",
+        "title": "Aufbau der Versicherungsnummer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000100305"
+        },
+        "body": "<P>(1) Die Versicherungsnummer wird gem\u00e4\u00df \u00a7 147 Abs. 2 des Sechsten Buches Sozialgesetzbuch nach Ma\u00dfgabe der folgenden Abs\u00e4tze gebildet aus <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bereichsnummer,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Geburtsdatum,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">dem Anfangsbuchstaben des Geburtsnamens,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Seriennummer und</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Pr\u00fcfziffer.</LA></DD></DL></P><P>(2) Die Bereichsnummer des vergebenden Rentenversicherungstr\u00e4gers gem\u00e4\u00df der Anlage bildet die ersten beiden Stellen.</P><P>(3) Der Geburtstag und der Geburtsmonat - jeweils zweistellig - und die beiden letzten Ziffern des Geburtsjahres der Versicherten bilden die Stellen drei bis acht. Die Gestaltung dieser Stellen oder der Versicherungsnummer insgesamt bei nicht nachgewiesenem Geburtsdatum regeln unter Beachtung des \u00a7 33a des Ersten Buches Sozialgesetzbuch die Spitzenverb\u00e4nde der Kranken- und Pflegekassen, die Deutsche Rentenversicherung Bund und die Bundesagentur f\u00fcr Arbeit einvernehmlich.</P><P>(4) Der Anfangsbuchstabe des Geburtsnamens des Versicherten im Zeitpunkt der Vergabe bildet die neunte Stelle. Umlaute am Namensbeginn werden aufgel\u00f6st, fremdsprachige Sonderzeichen durch vergleichbare deutsche Buchstaben ersetzt, Kleinbuchstaben in Gro\u00dfbuchstaben umgesetzt.</P><P>(5) Die Stellen zehn und elf enthalten die Seriennummer. Sie bezeichnet in aufsteigender Reihenfolge die Versicherten, die an demselben Tag geboren sind und deren Geburtsname mit dem gleichen Buchstaben beginnt. F\u00fcr m\u00e4nnliche Versicherte werden die Ziffern 00 bis 49, f\u00fcr weibliche Versicherte und Versicherte ohne Angabe zum Geschlecht oder mit der Angabe \u201edivers\u201c die Ziffern 50 bis 99 verwandt. Die Gestaltung der Stellen zehn und elf oder der Versicherungsnummer insgesamt beim Verbrauch s\u00e4mtlicher Seriennummern eines Geburtsdatums regeln die Spitzenverb\u00e4nde der Kranken- und Pflegekassen, die Deutsche Rentenversicherung Bund und die Bundesagentur f\u00fcr Arbeit einvernehmlich.</P><P>(6) Die zw\u00f6lfte Stelle, die Pr\u00fcfziffer, wird errechnet, indem der Buchstabe in der neunten Stelle durch eine zweistellige Zahl ersetzt wird, die die Position des Buchstabens im deutschen Alphabet kennzeichnet. Die Ziffern der damit zw\u00f6lfstelligen Nummer werden - an der ersten Stelle beginnend - mit den Faktoren 2, 1, 2, 5, 7, 1, 2, 1, 2, 1, 2 und 1 multipliziert. Von den Produkten werden die Quersummen gebildet. Die Quersummen werden addiert. Die Summe wird durch 10 dividiert. Der verbleibende Rest ist die Pr\u00fcfziffer.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE000800305",
+        "name": "\u00a7 3",
+        "title": "Berichtigung der Versicherungsnummer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000100305"
+        },
+        "body": "<P>(1) Eine Versicherungsnummer wird nur einmal vergeben und nicht berichtigt. Versicherungsnummern, in denen das Geburtsdatum oder die Seriennummer unrichtig sind oder Versicherungsnummern, die aufgrund einer nach \u00a7 33a des Ersten Buches Sozialgesetzbuch zu ber\u00fccksichtigenden \u00c4nderung des Geburtsdatums fehlerhaft geworden sind, werden gesperrt. Die Versicherten erhalten eine neue Versicherungsnummer.</P><P>(2) Sind an eine Person mehrere Versicherungsnummern vergeben worden, sind alle bis auf eine zu sperren. F\u00fcr gesperrte Versicherungsnummern ist eine Verbindung zu dem aktuell g\u00fcltigen Versicherungskonto herzustellen; eine Daten\u00fcbermittlung im Sinne von \u00a7 6 ist sicherzustellen.</P><P>(3) Wird eine Versicherungsnummer f\u00fcr mehrere Versicherte benutzt, darf diese nicht mehr verwendet werden. Die Versicherten erhalten eine neue Versicherungsnummer. Die gespeicherten Daten werden durch die Rentenversicherungstr\u00e4ger dem richtigen Versicherungskonto zugeordnet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR047500001BJNG000200305",
+        "name": "2. Kapitel",
+        "title": "Kontof\u00fchrung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE000901308",
+        "name": "\u00a7 4",
+        "title": "Zust\u00e4ndigkeit f\u00fcr die Kontof\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000200305"
+        },
+        "body": "<P>Zust\u00e4ndig f\u00fcr die Kontof\u00fchrung ist der Tr\u00e4ger der Rentenversicherung, der nach den Bestimmungen des Sechsten Buches Sozialgesetzbuch f\u00fcr die Erf\u00fcllung der Aufgaben der Rentenversicherung zust\u00e4ndig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE001002119",
+        "name": "\u00a7 5",
+        "title": "Aufgaben der Datenstelle im Rahmen der Kontof\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000200305"
+        },
+        "body": "<P>Die Datenstelle der Rentenversicherung ist zur Aufgabenerf\u00fcllung nach \u00a7 150 des Sechsten Buches Sozialgesetzbuch von den Rentenversicherungstr\u00e4gern \u00fcber \u00c4nderungen in den in der Stammsatzdatei gespeicherten Daten maschinell zu unterrichten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE001102119",
+        "name": "\u00a7 6",
+        "title": "Wechsel der Kontof\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000200305"
+        },
+        "body": "<P>(1) Bei einem Wechsel der Kontof\u00fchrung erfolgt der Austausch des Inhalts des Versicherungskontos \u00fcber die Datenstelle. Auf Anforderung sind die Versicherungsunterlagen zu \u00fcbersenden.</P><P>(2) Stellt die Datenstelle der Rentenversicherung bei der Annahme von Meldungen fest, dass die Voraussetzungen f\u00fcr einen Wechsel der Kontof\u00fchrung vorliegen, ist der neu zust\u00e4ndige Rentenversicherungstr\u00e4ger zur \u00dcbernahme des Versicherungskontos aufzufordern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR047500001BJNG000300305",
+        "name": "3. Kapitel",
+        "title": "Unterrichtung der Versicherten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE001200305",
+        "name": "\u00a7 7",
+        "title": "Versendung eines Versicherungsverlaufs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000300305"
+        },
+        "body": "<P>(1) Der Konto f\u00fchrende Tr\u00e4ger der Rentenversicherung teilt den Versicherten, die das 43. Lebensjahr vollendet haben, alle sechs Jahre die in ihrem Versicherungskonto gespeicherten Sozialdaten mit, die f\u00fcr die H\u00f6he einer Rentenanwartschaft erheblich sind. Ein Versicherungsverlauf kann auch in k\u00fcrzeren Abst\u00e4nden, an j\u00fcngere Versicherte und an Versicherte mit Wohnsitz oder gew\u00f6hnlichem Aufenthalt im Ausland erteilt werden.</P><P>(2) Der erste Versicherungsverlauf enth\u00e4lt die gespeicherten Beitragszeiten, beitragsfreie Zeiten und Ber\u00fccksichtigungszeiten unabh\u00e4ngig von deren Anrechenbarkeit sowie Zeiten, die f\u00fcr die Anerkennung solcher Zeiten erheblich sein k\u00f6nnen. Auf Kalendermonate, f\u00fcr die rentenerhebliche Tatsache nicht gespeichert sind, ist hinzuweisen. Die folgenden Versicherungsverl\u00e4ufe k\u00f6nnen auf bisher noch nicht bindend festgestellte Daten beschr\u00e4nkt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR047500001BJNG000400305",
+        "name": "4. Kapitel",
+        "title": "Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE001300305",
+        "name": "\u00a7 8",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000400305"
+        },
+        "body": "<P>(1) Diese Verordnung tritt am 1. Juli 2001 in Kraft.</P><P>(2)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE001400305",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000400305"
+        },
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR047500001BJNE001502308",
+        "name": "Anlage",
+        "title": "(zu \u00a7 2 Abs. 2)\n<BR />\nBereichsnummern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR047500001BJNG000400305"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">Fundstelle des Originaltextes: BGBl. I 2004, 3290 u. 3291</kommentar> <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"70*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"40*\" />\n\t\t<thead valign=\"bottom\">\n\t\t\t<row rowsep=\"1\">\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Rentenversicherungstr\u00e4ger</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"top\">Bereichsnummer</entry>\n\t\t\t</row>\n\t\t</thead>\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Regionaltr\u00e4ger nach Gebiet:</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Mecklenburg-Vorpommern</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">02</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Th\u00fcringen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">03</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Brandenburg</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">04</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Sachsen-Anhalt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">08</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Sachsen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">09</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Hannover</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">10</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Westfalen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">11</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Hessen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">12</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Rheinprovinz</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">13</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Oberbayern</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">14</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Niederbayern-Oberpfalz</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">15</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Rheinland-Pfalz</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">16</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- f\u00fcr das Saarland</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">17</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Oberfranken und Mittelfranken</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">18</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Freie und Hansestadt Hamburg</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">19</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Unterfranken</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">20</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Schwaben</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">21</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">W\u00fcrttemberg</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">23</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Baden</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">24</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Berlin</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">25</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Schleswig-Holstein</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">26</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Oldenburg-Bremen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">28</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Braunschweig</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">29</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zentrale Zulagenstelle f\u00fcr Altersverm\u00f6gen Zulagenummer nach \u00a7 90 Abs. 1 Satz 2 EStG</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">40</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Deutsche Rentenversicherung Bund</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Die Bereichsnummer wird durch Addition der Zahl 40 mit der Bereichsnummer des Gebietes - wenn ein Regionaltr\u00e4ger zust\u00e4ndig w\u00e4re -gebildet.</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Deutsche Rentenversicherung Knappschaft-Bahn-See Besch\u00e4ftigung im Wirtschaftsbereich Bahn</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">38</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besch\u00e4ftigung im Wirtschaftsbereich Seefahrt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">39</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Zust\u00e4ndigkeit der Deutschen Rentenversicherung Knappschaft-Bahn-See f\u00fcr das Gebiet</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Berlin, Bremen, Hamburg, Niedersachsen, Westfalen, Schleswig-Holstein</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">80</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Hessen, Rheinprovinz</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">81</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Baden, W\u00fcrttemberg, Bayern, Rheinland-Pfalz, Saarland</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">82</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">- Brandenburg, Mecklenburg-Vorpommern, Sachsen-Anhalt, Sachsen, Th\u00fcringen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"center\" colsep=\"0\" valign=\"bottom\">89</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

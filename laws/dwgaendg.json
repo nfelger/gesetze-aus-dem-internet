@@ -1,0 +1,58 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR345600004",
+    "firstPublished": "2004-12-15",
+    "sourceTimestamp": "20120625150020",
+    "titleShort": null,
+    "titleLong": "Gesetz zur \u00c4nderung des Deutsche-Welle-Gesetzes",
+    "abbreviation": "DWG\u00c4ndG",
+    "slug": "dwgaendg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2004, 3456",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 21.12.2004 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR345600004BJNE000100000",
+        "name": "(XXXX) Art 1",
+        "title": "(weggefallen)",
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR345600004BJNE000200000",
+        "name": "Art 2",
+        "title": "\u00dcbergangsregelung",
+        "parent": null,
+        "body": "<P>Die Deutsche Welle erarbeitet ihre Aufgabenplanung nach dem Verfahren gem\u00e4\u00df den \u00a7\u00a7 4 bis 4b des Deutsche-Welle-Gesetzes erstmals f\u00fcr die Jahre 2006 bis 2009. Der Wirtschaftsplan mit \u00dcberleitungsrechnung, Stellenplan und Bewirtschaftungsgrunds\u00e4tzen gem\u00e4\u00df \u00a7 48 des Deutsche-Welle-Gesetzes wird von der Deutschen Welle erstmals f\u00fcr das Jahr 2006 erstellt. Der Jahresabschluss gem\u00e4\u00df \u00a7 55 des Deutsche-Welle-Gesetzes ist von der Deutschen Welle erstmals f\u00fcr das Jahr 2004 zu erstellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR345600004BJNE000300000",
+        "name": "Art 3",
+        "title": null,
+        "parent": null,
+        "body": "<P>Die Beauftragte der Bundesregierung f\u00fcr Kultur und Medien kann den Wortlaut des Deutsche-Welle-Gesetzes in der vom Inkrafttreten dieses Gesetzes an geltenden Fassung im Bundesgesetzblatt bekannt machen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

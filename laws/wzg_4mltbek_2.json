@@ -1,0 +1,60 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR018900972",
+    "firstPublished": "1972-09-25",
+    "sourceTimestamp": "20160623215506",
+    "titleShort": null,
+    "titleLong": "Bekanntmachung zu \u00a7 4 des Warenzeichengesetzes",
+    "abbreviation": "WZG\u00a74MLTBek 2",
+    "slug": "wzg_4mltbek_2",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1972, 1890",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  4.10.1972 +++)</P>"
+    },
+    "attachments": {
+      "bgbl1_1972_j1890_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/wzg_4mltbek_2/bgbl1_1972_j1890_0010.jpg"
+    },
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR018900972BJNE000100303",
+        "name": "(XXXX)",
+        "title": null,
+        "parent": null,
+        "body": "<P>(1) Auf Grund des \u00a7 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung der Bekanntmachung vom 2. Januar 1968 (Bundesgesetzbl. I S. 1, 29), zuletzt ge\u00e4ndert durch Gesetz vom 23. Juni 1970 (Bundesgesetzbl. I S. 805), wird in der Anlage ein Gew\u00e4hrzeichen bekanntgemacht, das in Malta eingef\u00fchrt ist.</P><P>(2) Diese Bekanntmachung ergeht im Anschlu\u00df an die Bekanntmachung vom 1. August 1972 (Bundesgesetzblatt I S. 1389).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR018900972BJNE000900303",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesminister der Justiz</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR018900972BJNE000200303",
+        "name": "Anlage",
+        "title": null,
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">BGBl. I 1972, 1890)</kommentar></noindex><BR /><BR /><B>Gew\u00e4hrzeichen des maltesischen \"Board of Standards\"</B><IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_1972_j1890_0010.jpg\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

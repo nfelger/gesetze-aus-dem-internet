@@ -1,0 +1,78 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR196100020",
+    "firstPublished": "2020-08-14",
+    "sourceTimestamp": "20201231213834",
+    "titleShort": "Verbrauch-und-Luftverkehrsteuerdaten-\u00dcbermittlungs-Verordnung",
+    "titleLong": "Verordnung zur elektronischen \u00dcbermittlung von Daten f\u00fcr die Verbrauchsteuern und die Luftverkehrsteuer",
+    "abbreviation": "VStD\u00dcV",
+    "slug": "vstduev",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2020, 1960, 1961",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2021 +++)<BR /><BR /></pre>Die V wurde als Artikel 1 der V v. 14.8.2020 I 1960 vom Bundesministerium der Finanzen erlassen. Sie tritt gem. Art. 9 dieser V am 1.1.2021 in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR196100020BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "body": "<P>(1) Diese Verordnung gilt f\u00fcr die elektronische \u00dcbermittlung von Erkl\u00e4rungen der besonderen Verbrauchsteuern und der Luftverkehrsteuer an die Zollverwaltung im Rahmen der folgenden Gesetze oder Verordnungen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Energiesteuergesetz und Energiesteuer-Durchf\u00fchrungsverordnung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Stromsteuergesetz und Stromsteuer-Durchf\u00fchrungsverordnung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Tabaksteuergesetz und Tabaksteuerverordnung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Schaumwein- und Zwischenerzeugnissteuergesetz und Schaumwein- und Zwischenerzeugnissteuerverordnung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Kaffeesteuergesetz und Kaffeesteuerverordnung,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Alkoholsteuergesetz und Alkoholsteuerverordnung,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Alkopopsteuergesetz,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Luftverkehrsteuergesetz und Luftverkehrsteuer-Durchf\u00fchrungsverordnung.</LA></DD></DL></P><P>(2) Abweichend von Absatz 1 findet diese Verordnung keine Anwendung auf die elektronische \u00dcbermittlung von Erkl\u00e4rungen im Rahmen der Bef\u00f6rderung verbrauchsteuerpflichtiger Waren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR196100020BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": null,
+        "body": "<P>Im Sinne dieser Verordnung ist oder sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Erkl\u00e4rungen: Steuererkl\u00e4rungen oder sonstige Erkl\u00e4rungen, Steueranmeldungen, Antr\u00e4ge, Anzeigen, Mitteilungen, Nachweise oder sonstige f\u00fcr das Verfahren erforderliche Daten;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zust\u00e4ndiges Hauptzollamt: das jeweils zust\u00e4ndige Hauptzollamt nach den Gesetzen oder Verordnungen nach \u00a7 1 Absatz 1.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR196100020BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Elektronische Daten\u00fcbermittlung",
+        "parent": null,
+        "body": "<P>(1) Erkl\u00e4rungen sind nach amtlich vorgeschriebenem Datensatz durch Datenfern\u00fcbertragung an das zust\u00e4ndige Hauptzollamt zu \u00fcbermitteln (elektronische Daten\u00fcbermittlung), wenn bei der Zollverwaltung f\u00fcr die jeweilige Erkl\u00e4rung die daf\u00fcr erforderlichen organisatorischen und technischen Voraussetzungen vorliegen.</P><P>(2) Der Zeitpunkt des Beginns der elektronischen Daten\u00fcbermittlung nach Absatz 1 wird jeweils durch Mitteilung des Bundesministeriums der Finanzen gesondert im Bundesanzeiger bekannt gegeben.</P><P>(3) Enthalten die Gesetze oder Verordnungen nach \u00a7 1 Absatz 1 Vorschriften, nach denen eine Erkl\u00e4rung nach amtlich vorgeschriebenem Vordruck, schriftlich oder formlos abzugeben ist oder abgegeben werden kann, so geht Absatz 1 diesen Vorschriften nach Bekanntgabe des Zeitpunkts nach Absatz 2 vor, soweit in dieser Verordnung nichts anderes bestimmt ist.</P><P>(4) Nach Bekanntgabe des Zeitpunkts nach Absatz 2 ist neben der elektronischen Daten\u00fcbermittlung nach Absatz 1 eine Abgabe der Erkl\u00e4rung in der in den Gesetzen oder Verordnungen nach \u00a7 1 Absatz 1 vorgesehenen Form bis zum Ablauf des auf die Bekanntgabe folgenden dritten Jahres m\u00f6glich.</P><P>(5) Nach Ablauf des Zeitraums nach Absatz 4 kann das zust\u00e4ndige Hauptzollamt zur Vermeidung unbilliger H\u00e4rten auf Antrag auf eine elektronische Daten\u00fcbermittlung nach Absatz 1 verzichten. \u00a7 150 Absatz 8 der Abgabenordnung gilt entsprechend. Im Fall des Verzichts ist die Erkl\u00e4rung in der Form abzugeben, wie sie in den Gesetzen oder Verordnungen nach \u00a7 1 Absatz 1 vorgesehen ist. Der Verzicht kann durch das zust\u00e4ndige Hauptzollamt mit Nebenbestimmungen versehen werden.</P><P>(6) Die Generalzolldirektion kann Einzelheiten der elektronischen Daten\u00fcbermittlung nach Absatz 1 durch Verfahrensanweisungen bestimmen. Die Verfahrensanweisungen werden von der Generalzolldirektion im Internet unter www.zoll.de ver\u00f6ffentlicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR196100020BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Daten\u00fcbermittlungen im Auftrag",
+        "parent": null,
+        "body": "<P>(1) Mit der elektronischen Daten\u00fcbermittlung nach \u00a7 3 Absatz 1 k\u00f6nnen Dritte (Auftragnehmer) beauftragt werden.</P><P>(2) Der Auftragnehmer muss sich vor \u00dcbermittlung der Daten Gewissheit \u00fcber die Person und die Anschrift seines Auftraggebers verschaffen (Identifizierung) und die entsprechenden Angaben in geeigneter Form festhalten. Von einer Identifizierung kann abgesehen werden, wenn der Auftragnehmer den Auftraggeber bereits bei fr\u00fcherer Gelegenheit identifiziert und die dabei erhobenen Angaben aufgezeichnet hat, es sei denn, der Auftragnehmer muss auf Grund der \u00e4u\u00dferen Umst\u00e4nde bezweifeln, dass die bei der fr\u00fcheren Identifizierung erhobenen Angaben weiterhin zutreffend sind. Der Auftragnehmer hat sicherzustellen, dass er jederzeit Auskunft dar\u00fcber geben kann, wer Auftraggeber der Daten\u00fcbermittlung war. Die Aufzeichnungen nach Satz 1 sind f\u00fcnf Jahre aufzubewahren; die Aufbewahrungsfrist beginnt nach Ablauf des Jahres der letzten Daten\u00fcbermittlung. Die Pflicht zur Herstellung der Auskunftsbereitschaft nach Satz 3 endet mit Ablauf der Aufbewahrungsfrist nach Satz 4.</P><P>(3) Der Auftragnehmer hat dem Auftraggeber die Daten in leicht nachpr\u00fcfbarer Form zur Zustimmung zur Verf\u00fcgung zu stellen. Der Auftraggeber hat die ihm zur Verf\u00fcgung gestellten Daten unverz\u00fcglich auf Vollst\u00e4ndigkeit und Richtigkeit zu \u00fcberpr\u00fcfen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR196100020BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Schnittstellen",
+        "parent": null,
+        "body": "<P>(1) Bei der elektronischen Daten\u00fcbermittlung nach \u00a7 3 Absatz 1 hat der Daten\u00fcbermittler die hierf\u00fcr von der Generalzolldirektion amtlich bestimmten Schnittstellen ordnungsgem\u00e4\u00df zu bedienen.</P><P>(2) Die amtlich bestimmten Schnittstellen werden \u00fcber das Internet zur Verf\u00fcgung gestellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR238900999",
+    "firstPublished": "1999-11-23",
+    "sourceTimestamp": "20130405132337",
+    "titleShort": "Lade- und L\u00f6schzeitenverordnung",
+    "titleLong": "Verordnung \u00fcber die Lade- und L\u00f6schzeiten sowie das Liegegeld in der Binnenschifffahrt",
+    "abbreviation": "BinSchLV",
+    "slug": "binschlv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1999, 2389",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 25.1.2010 I 62",
+        "category": "Neuf"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 11.12.1999 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR238900999BJNG000101140",
+        "name": "Abschnitt 1",
+        "title": "Trockenschifffahrt",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR238900999BJNE000501140",
+        "name": "\u00a7 1",
+        "title": "Beginn der Ladezeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR238900999BJNG000101140"
+        },
+        "body": "<P>(1) Hat der Frachtvertrag die Bef\u00f6rderung von anderem als fl\u00fcssigem oder gasf\u00f6rmigem Gut zum Gegenstand, so beginnt die Ladezeit nach Ablauf des Tages, an dem der Frachtf\u00fchrer die Ladebereitschaft dem Absender oder der vereinbarten Meldestelle anzeigt.</P><P>(2) Haben die Parteien vereinbart, dass der Zeitpunkt der Ladebereitschaft voranzumelden ist, so beginnt die Ladezeit abweichend von Absatz 1 zwei Stunden nach dem in der Voranmeldung genannten Zeitpunkt. Voraussetzung ist jedoch, dass die Voranmeldung mindestens acht Stunden vor dem angemeldeten Zeitpunkt dem Absender oder der vereinbarten Meldestelle zugeht und der Frachtf\u00fchrer zum angemeldeten Zeitpunkt ladebereit ist.</P><P>(3) Wird an dem Tag, an dem der Frachtf\u00fchrer seine Ladebereitschaft anzeigt, oder wird bei einer Voranmeldung noch vor Ablauf der Frist von zwei Stunden nach dem angemeldeten Zeitpunkt der Ladebereitschaft geladen, so beginnt die Ladezeit mit dem Beginn des Ladens.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR238900999BJNE000601140",
+        "name": "\u00a7 2",
+        "title": "Dauer der Ladezeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR238900999BJNG000101140"
+        },
+        "body": "<P>(1) Die Ladezeit betr\u00e4gt eine Stunde f\u00fcr jeweils 45 Tonnen Rohgewicht der f\u00fcr ein Schiff bestimmten Sendung. Als ein Schiff im Sinne von Satz 1 ist auch ein Schub- oder Koppelverband anzusehen.</P><P>(2) Bei der Berechnung der Ladezeit kommen folgende Zeiten nicht in Ansatz: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Sonntage und staatlich anerkannte allgemeine Feiertage an der Ladestelle,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>an Werktagen die Zeit zwischen 20.00 Uhr und 6.00 Uhr,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Zeit, in der aus Gr\u00fcnden, die dem Risikobereich des Frachtf\u00fchrers zuzurechnen sind, das Verladen jeder Art von Gut unm\u00f6glich ist.</LA></DD></DL></P><P>(3) Absatz 2 Nummer 1 und 2 ist nicht anzuwenden, soweit der Frachtf\u00fchrer w\u00e4hrend der darin genannten Zeiten vereinbarungsgem\u00e4\u00df oder auf Weisung des Absenders oder der Meldestelle ladebereit ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR238900999BJNE000701140",
+        "name": "\u00a7 3",
+        "title": "L\u00f6schzeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR238900999BJNG000101140"
+        },
+        "body": "<P>F\u00fcr die Bestimmung des Beginns der Entladezeit (L\u00f6schzeit) sowie ihrer Dauer sind die \u00a7\u00a7 1 und 2 entsprechend mit der Ma\u00dfgabe anzuwenden, dass an die Stelle des Absenders der Empf\u00e4nger tritt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR238900999BJNE000801140",
+        "name": "\u00a7 4",
+        "title": "Liegegeld",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR238900999BJNG000101140"
+        },
+        "body": "<P>(1) Das dem Frachtf\u00fchrer geschuldete Standgeld (Liegegeld) betr\u00e4gt bei einem Schiff mit einer Tragf\u00e4higkeit bis zu 1\u00a0500 Tonnen f\u00fcr jede angefangene Stunde, w\u00e4hrend der der Frachtf\u00fchrer nach Ablauf der Lade- oder L\u00f6schzeit wartet, 0,05 Euro je Tonne Tragf\u00e4higkeit. Bei einem Schiff mit einer Tragf\u00e4higkeit \u00fcber 1\u00a0500 Tonnen betr\u00e4gt das f\u00fcr jede angefangene Stunde anzusetzende Liegegeld 75 Euro zuz\u00fcglich 0,02 Euro f\u00fcr jede \u00fcber 1\u00a0500 Tonnen liegende Tonne.</P><P>(2) Bei der Berechnung des Liegegeldes sind die Stunden nicht zu ber\u00fccksichtigen, in denen aus Gr\u00fcnden, die dem Risikobereich des Frachtf\u00fchrers zuzurechnen sind, das Verladen oder Entladen jeder Art von Gut unm\u00f6glich ist.</P><P>(3) Als ein Schiff im Sinne von Absatz 1 ist auch ein Schub- oder Koppelverband anzusehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR238900999BJNG000201140",
+        "name": "Abschnitt 2",
+        "title": "Tankschifffahrt",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR238900999BJNE000901140",
+        "name": "\u00a7 5",
+        "title": "Beginn der Lade- und L\u00f6schzeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR238900999BJNG000201140"
+        },
+        "body": "<P>(1) Hat der Frachtvertrag die Bef\u00f6rderung fl\u00fcssigen Gutes durch ein Tankschiff zum Gegenstand, so beginnen die Lade- und die L\u00f6schzeit jeweils in dem Zeitpunkt, in dem der Frachtf\u00fchrer die Lade- oder L\u00f6schbereitschaft anzeigt. Voraussetzung ist jedoch, dass der Frachtf\u00fchrer den Zeitpunkt der Lade- oder L\u00f6schbereitschaft mindestens acht Stunden zuvor voranmeldet. Die Voranmeldung und die Anzeige m\u00fcssen montags bis freitags zwischen 7.00 Uhr und 16.00 Uhr oder samstags zwischen 7.00 Uhr und 13.00 Uhr dem Absender oder der vereinbarten Meldestelle zugehen.</P><P>(2) Hat der Frachtf\u00fchrer den Zeitpunkt der Lade- oder L\u00f6schbereitschaft nicht oder nicht fristgerecht vorangemeldet, beginnt die Frist in dem in \u00a7 1 Absatz 1 genannten Zeitpunkt oder, wenn vor diesem Zeitpunkt geladen oder gel\u00f6scht wird, mit dem Beginn des Ladens oder L\u00f6schens.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR238900999BJNE001002140",
+        "name": "\u00a7 6",
+        "title": "Dauer der Lade- und L\u00f6schzeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR238900999BJNG000201140"
+        },
+        "body": "<P>(1) Die gesamte Lade- und L\u00f6schzeit betr\u00e4gt in der Tankschifffahrt bei einer f\u00fcr ein Schiff bestimmten Sendung mit einem Gewicht <DL Type=\"None\"><DT /><DD Font=\"normal\"><LA>bis\u00a0zu\u00a01\u00a0100\u00a0Tonnen 24 Stunden,</LA></DD><DT /><DD Font=\"normal\"><LA>bis\u00a0zu\u00a01\u00a0500 Tonnen 26 Stunden,</LA></DD><DT /><DD Font=\"normal\"><LA>bis\u00a0zu\u00a02\u00a0000\u00a0Tonnen\u00a028\u00a0Stunden, wenn es sich bei dem Schiff um ein Tankschiff in Doppelh\u00fcllenbauweise handelt, sonst 30 Stunden.</LA></DD></DL>Bei einer Sendung \u00fcber 2\u00a0000 Tonnen erh\u00f6ht sich die Lade- und L\u00f6schzeit um sechs Stunden je weitere angefangene 1\u00a0000 Tonnen. Bei einer Sendung \u00fcber 5\u00a0000 Tonnen erh\u00f6ht sich die Lade- und L\u00f6schzeit um vier Stunden je weitere angefangene 1\u00a0000 Tonnen. Die erforderliche Aufheizzeit wird auf die Lade- und L\u00f6schzeit angerechnet. Als ein Schiff im Sinne von Satz 1 ist auch ein Schub- oder Koppelverband anzusehen.</P><P>(2) Betr\u00e4gt die Mindestpumpenkapazit\u00e4t des Tankschiffs weniger als 200 Kubikmeter pro Stunde, so erh\u00f6ht sich die nach Absatz 1 anzusetzende Lade- und L\u00f6schzeit um die Zeit, die der effektiven Stundenleistung w\u00e4hrend des Lade- und L\u00f6schvorgangs entspricht.</P><P>(3) Bei der Berechnung der Lade- und L\u00f6schzeit ist die f\u00fcr das Laden und L\u00f6schen tats\u00e4chlich ben\u00f6tigte Zeit getrennt festzustellen; angefangene Stunden, die sich bei der Ermittlung der tats\u00e4chlich ben\u00f6tigten Ladezeit und der tats\u00e4chlich ben\u00f6tigten L\u00f6schzeit ergeben, sind auf volle Stunden aufzurunden. Nicht in Ansatz kommen folgende Zeiten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>im Falle des Ladens Sonntage und staatlich anerkannte allgemeine Feiertage an der Ladestelle, im Falle des L\u00f6schens Sonntage und staatlich anerkannte allgemeine Feiertage an der L\u00f6schstelle,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>an Werktagen, die einem Sonntag oder einem gesetzlichen Feiertag an der Lade- oder L\u00f6schstelle nachfolgen, die Zeit zwischen 0.00 Uhr und 7.00 Uhr, an einem Samstag und am 24. und 31. Dezember zus\u00e4tzlich die Zeit zwischen 13.00 Uhr und 24.00 Uhr,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Zeit, in der aus Gr\u00fcnden, die dem Risikobereich des Frachtf\u00fchrers zuzurechnen sind, das Verladen oder Entladen jeder Art von Gut unm\u00f6glich ist.</LA></DD></DL>Satz 2 Nummer 1 und 2 ist nicht anzuwenden, soweit der Frachtf\u00fchrer w\u00e4hrend der darin genannten Zeiten vereinbarungsgem\u00e4\u00df oder auf Weisung der Meldestelle oder des Absenders lade- oder l\u00f6schbereit ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR238900999BJNE001102140",
+        "name": "\u00a7 7",
+        "title": "Liegegeld",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR238900999BJNG000201140"
+        },
+        "body": "<P>(1) Das dem Frachtf\u00fchrer geschuldete Standgeld (Liegegeld) betr\u00e4gt f\u00fcr jede angefangene Stunde, in der der Frachtf\u00fchrer nach Ablauf der Lade- und L\u00f6schzeit wartet, bei Tankschiffen mit einer Tragf\u00e4higkeit<BR /><DL Type=\"None\"><DT /><DD Font=\"normal\"><LA>bis zu \u00a0 500\u00a0Tonnen\u00a025\u00a0Euro,</LA></DD><DT /><DD Font=\"normal\"><LA>bis zu\u00a01\u00a0000\u00a0Tonnen\u00a054\u00a0Euro,</LA></DD><DT /><DD Font=\"normal\"><LA>bis zu\u00a01\u00a0500\u00a0Tonnen\u00a075\u00a0Euro,</LA></DD><DT /><DD Font=\"normal\"><LA>\u00fcber 1\u00a0500\u00a0Tonnen\u00a075\u00a0Euro zuz\u00fcglich 10 Euro je weitere angefangene 500 Tonnen.</LA></DD></DL></P><P>(2) Abweichend von Absatz 1 betr\u00e4gt das f\u00fcr jede angefangene Stunde anzusetzende Liegegeld bei Tankschiffen in Doppelh\u00fcllenbauweise mit einer Tragf\u00e4higkeit<BR /><DL Type=\"None\"><DT /><DD Font=\"normal\"><LA>bis zu \u00a0 500\u00a0Tonnen\u00a0\u00a060\u00a0Euro,</LA></DD><DT /><DD Font=\"normal\"><LA>bis zu 1\u00a0000\u00a0Tonnen\u00a0\u00a080\u00a0Euro,</LA></DD><DT /><DD Font=\"normal\"><LA>bis zu 1\u00a0500\u00a0Tonnen\u00a0100\u00a0Euro,</LA></DD><DT /><DD Font=\"normal\"><LA>\u00fcber1\u00a0500\u00a0Tonnen\u00a0100\u00a0Euro zuz\u00fcglich 20 Euro je weitere angefangene 500 Tonnen.</LA></DD></DL></P><P>(3) Bei der Berechnung des Liegegeldes sind die Stunden nicht zu ber\u00fccksichtigen, in denen aus Gr\u00fcnden, die dem Risikobereich des Frachtf\u00fchrers zuzurechnen sind, das Verladen oder Entladen jeder Art von Gut unm\u00f6glich ist.</P><P>(4) Als ein Schiff im Sinne dieser Vorschrift ist auch ein Schub- oder Koppelverband anzusehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR238900999BJNG000301140",
+        "name": "Abschnitt 3",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR238900999BJNE001201140",
+        "name": "\u00a7 8",
+        "title": "(Inkrafttreten)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR238900999BJNG000301140"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

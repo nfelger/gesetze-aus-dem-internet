@@ -1,0 +1,63 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR201750928",
+    "firstPublished": "1928-03-31",
+    "sourceTimestamp": "20200103213427",
+    "titleShort": null,
+    "titleLong": "Gesetz \u00fcber die am 6. November 1925 im Haag revidierte Pariser Verbands\u00fcbereinkunft zum Schutze des gewerblichen Eigentums",
+    "abbreviation": "Verb\u00dcbkParisHaagG",
+    "slug": "verbuebkparishaagg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1928, 175",
+        "periodical": "RGBl II"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "ge\u00e4ndert durch Art. 49 G v. 8.12.2010 I 1864",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.1.1964 +++)</P><P><BR /> PV\u00dc Haager Fassung v. 6.11.1925, 1928 II 175/176; vgl. jetzt auch Londoner Fassung 01-424-1, Lissaboner Fassung 01-424-2</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR201750928BJNE000100304",
+        "name": "Art 1",
+        "title": null,
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201750928BJNE000201360",
+        "name": "Art 2",
+        "title": null,
+        "parent": null,
+        "body": "<P>Die nach dem Haager Musterabkommen der inl\u00e4ndischen Beh\u00f6rde zufallenden Gesch\u00e4fte \u00fcbernimmt das Deutsche Patent- und Markenamt. Es kann Bestimmungen \u00fcber das Verfahren erlassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201750928BJNE000300304",
+        "name": "Art 3",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt mit dem auf die Verk\u00fcndung folgenden Tage in Kraft. ...</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

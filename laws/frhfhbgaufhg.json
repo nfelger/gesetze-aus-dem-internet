@@ -1,0 +1,48 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR005000011",
+    "firstPublished": "2011-01-24",
+    "sourceTimestamp": "20121231215908",
+    "titleShort": null,
+    "titleLong": "Gesetz zur Aufhebung des Freihafens Hamburg",
+    "abbreviation": "FrHfHbgAufhG",
+    "slug": "frhfhbgaufhg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2011, 50",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2013 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR005000011BJNE000100000",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Freihafen Hamburg wird aufgehoben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR005000011BJNE000200000",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt am 1. Januar 2013 in Kraft. Gleichzeitig tritt die Verordnung \u00fcber die Grenzen des Freihafens Hamburg vom 22. August 1997 (BGBl. I S. 2320), die zuletzt durch die Verordnung vom 4. Dezember 2008 (BGBl. I <NB>S. 2746)</NB> ge\u00e4ndert worden ist, au\u00dfer Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

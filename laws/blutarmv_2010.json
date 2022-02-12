@@ -1,0 +1,302 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR132600010",
+    "firstPublished": "2010-10-04",
+    "sourceTimestamp": "20200609212514",
+    "titleShort": "Einhufer-Blutarmut-Verordnung",
+    "titleLong": "Verordnung zum Schutz gegen die Ansteckende Blutarmut der Einhufer",
+    "abbreviation": "BlutArmV 2010",
+    "slug": "blutarmv_2010",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2010, 1326",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 9 V v. 31.3.2020 I 752",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 9.10.2010 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 73a Satz 1 in Verbindung mit Satz 2 Nummer 1 und 4, des \u00a7 79 Absatz 1 Nummer 1 in Verbindung mit \u00a7 17 Absatz 1 Nummer 1, des \u00a7 79 Absatz 1 Nummer 2 in Verbindung mit den \u00a7\u00a7 18, 19 Absatz 1 und 2, \u00a7 20 Absatz 1 in Verbindung mit Absatz 2, \u00a7 21 Absatz 1 Nummer 1, \u00a7 22 Absatz 2 Satz 1 Nummer 1 in Verbindung mit Satz 2, den \u00a7\u00a7 23, 24 Absatz 1 und den \u00a7\u00a7 26, 27, 28, 29, 30 des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 22. Juni 2004 (BGBl. I S. 1260, 3588) verordnet das Bundesministerium f\u00fcr Ern\u00e4hrung, Landwirtschaft und Verbraucherschutz:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR132600010BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeines",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000100000"
+        },
+        "body": "<P>Im Sinne dieser Verordnung liegen vor: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Ansteckende Blutarmut der Einhufer (Einhufer-Blutarmut), soweit diese durch serologische Untersuchung oder durch virologische Untersuchung (Genomnachweis des Erregers der Einhufer-Blutarmut) festgestellt ist;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Verdacht des Ausbruchs der Einhufer-Blutarmut, soweit das Ergebnis einer <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>serologischen oder klinischen Untersuchung oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>pathologisch-anatomischen Untersuchung</LA></DD></DL>den Ausbruch der Einhufer-Blutarmut bef\u00fcrchten l\u00e4sst;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Ansteckungsverdacht, soweit auf Grund epidemiologischer Nachforschungen eine Ansteckung mit der Einhufer-Blutarmut nicht ausgeschlossen werden kann.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR132600010BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Allgemeine Schutzma\u00dfregeln",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Impfungen und Heilversuche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000200000"
+        },
+        "body": "<P>Impfungen und Heilversuche seuchenkranker oder -verd\u00e4chtiger Einhufer sind verboten. Die zust\u00e4ndige Beh\u00f6rde kann Ausnahmen von Satz 1 zur Durchf\u00fchrung wissenschaftlicher Versuche genehmigen, soweit <NB>Belange der</NB> Tierseuchenbek\u00e4mpfung nicht entgegenstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Untersuchungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000200000"
+        },
+        "body": "<P>Die zust\u00e4ndige Beh\u00f6rde kann anordnen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Einhufer, die in einen Betrieb eingestellt werden oder an einer Veranstaltung teilnehmen, an der Pferde verschiedener Best\u00e4nde zusammenkommen, virologisch oder serologisch auf Einhufer-Blutarmut untersucht werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Aborte von Einhufern einschlie\u00dflich der Nachgeburten virologisch oder Stuten, die abortiert haben, serologisch auf Einhufer-Blutarmut untersucht werden,</LA></DD></DL>soweit dies aus Gr\u00fcnden der Tierseuchenbek\u00e4mpfung erforderlich ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE001700119",
+        "name": "\u00a7 3a",
+        "title": "Veranstaltungen mit Einhufern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000200000"
+        },
+        "body": "<P>(1) Wer eine \u00fcberregionale Veranstaltung durchf\u00fchrt, bei der Einhufer verschiedener Best\u00e4nde zusammenkommen, hat ein Register der zu der Veranstaltung verbrachten Einhufer zu f\u00fchren. Das Register muss von jedem dieser Einhufer folgende Angaben enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Namen des Einhufers,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ziffern des Codes im Sinne des Artikels 2 Buchstabe n der Durchf\u00fchrungsverordnung (EU) 2015/262 der Kommission vom 17. Februar 2015 zur Festlegung von Vorschriften gem\u00e4\u00df den Richtlinien 90/427/EWG und 2009/156/EG des Rates in Bezug auf die Methoden zur Identifizierung von Equiden (Equidenpass-Verordnung) (ABl. L 59 vom 3.3.2015, S. 1),</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Namen und die Anschrift des Halters,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Standort der Haltung oder des Betriebes nach \u00a7 26 Absatz 1 Satz 1 der Viehverkehrsverordnung.</LA></DD></DL>\u00a7 44b der Viehverkehrsverordnung bleibt unber\u00fchrt. Der Veranstalter hat der zust\u00e4ndigen Beh\u00f6rde auf deren Verlangen das Register nach Satz 1 vorzulegen.</P><P>(2) F\u00fcr die F\u00fchrung des Registers nach Absatz 1 Satz 1 gilt \u00a7 25 Absatz 1 Satz 1 und 2 und Absatz 2 der Viehverkehrsverordnung entsprechend. F\u00fcr die Aufbewahrung des Registers nach Absatz 1 Satz 1 gilt \u00a7 25 Absatz 3 Satz 1 und 2 der Viehverkehrsverordnung entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR132600010BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Besondere Schutzma\u00dfregeln",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR132600010BJNG000400000",
+        "name": "Unterabschnitt 1",
+        "title": "Schutzma\u00dfnahmen vor amtlicher Feststellung der Einhufer-Blutarmut",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000300000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Blutprobenentnahme, epidemiologische Nachforschungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000400000"
+        },
+        "body": "<P>(1) Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut f\u00fchrt die zust\u00e4ndige Beh\u00f6rde unverz\u00fcglich eine klinische und serologische Untersuchung des seuchenverd\u00e4chtigen Einhufers auf die Einhufer-Blutarmut durch. Im Falle verendeter oder get\u00f6teter Einhufer ordnet sie die virologische oder serologische Untersuchung auf die Einhufer-Blutarmut an.</P><P>(2) Ergeben sich auf Grund einer Untersuchung nach Absatz 1 Satz 1 oder 2 Anhaltspunkte f\u00fcr einen Ausbruch der Einhufer-Blutarmut, so f\u00fchrt die zust\u00e4ndige Beh\u00f6rde epidemiologische Nachforschungen durch. Die epidemiologischen Nachforschungen erstrecken sich mindestens auf <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Zeitraum, in dem das Virus der Einhufer-Blutarmut bereits im Betrieb gewesen sein kann, bevor der Verdacht angezeigt worden ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Ermittlung anderer Betriebe, aus denen Einhufer in den betroffenen Betrieb oder in die Einhufer aus dem betroffenen Betrieb verbracht worden sein k\u00f6nnen, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Ermittlung aller Kontakte der Einhufer des betroffenen Betriebes zu anderen Einhufern.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000601118",
+        "name": "\u00a7 5",
+        "title": "Schutzma\u00dfnahmen in dem betroffenen Betrieb",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000400000"
+        },
+        "body": "<P>(1) Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut hat der Tierhalter des Betriebes unverz\u00fcglich <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>s\u00e4mtliche Einhufer des Betriebes nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde aufzustallen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>seuchenverd\u00e4chtige Einhufer von den \u00fcbrigen Einhufern abzusondern und getrennt von den \u00fcbrigen Einhufern zu versorgen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Insektenbek\u00e4mpfung im Stall durchzuf\u00fchren,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Beh\u00e4lter, Ger\u00e4tschaften und sonstige Gegenst\u00e4nde, die in einem Stall oder sonstigen Standort der Einhufer benutzt worden sind und die Tr\u00e4ger des Ansteckungsstoffes sein k\u00f6nnen, nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde zu reinigen und zu desinfizieren oder unsch\u00e4dlich zu beseitigen.</LA></DD></DL></P><P>(2) Einhufer d\u00fcrfen nur mit Genehmigung der zust\u00e4ndigen Beh\u00f6rde in den und aus dem Betrieb sowie auf Wirtschafts- und Weidefl\u00e4chen des Betriebes verbracht werden. Die zust\u00e4ndige Beh\u00f6rde erteilt die Genehmigung nach Satz 1, soweit Belange der Tierseuchenbek\u00e4mpfung nicht entgegenstehen. Hierbei ber\u00fccksichtigt sie die Ergebnisse epidemiologischer Untersuchungen, das Vorkommen von Einhufern, Vektoren, nat\u00fcrlichen Grenzen und \u00dcberwachungsm\u00f6glichkeiten.</P><P>(3) Einhufersamen, -eizellen und -embryonen d\u00fcrfen nur mit Genehmigung der zust\u00e4ndigen Beh\u00f6rde in den und aus dem Betrieb verbracht werden. Absatz 2 Satz 2 und 3 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Reinigung und Desinfektion",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000400000"
+        },
+        "body": "<P>Im Falle des Verdachts des Ausbruchs der Einhufer-Blutarmut haben Personen, die eine Untersuchung oder Behandlung seuchenverd\u00e4chtiger Einhufer durchgef\u00fchrt haben, sowie Personen, die mit der Betreuung oder Pflege seuchenverd\u00e4chtiger Einhufer betraut sind, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>zur Untersuchung, Behandlung, Pflege oder Fixierung seuchenverd\u00e4chtiger Einhufer benutzte Ger\u00e4te und Instrumente nach dem Gebrauch nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde unverz\u00fcglich zu reinigen und zu desinfizieren oder unsch\u00e4dlich zu beseitigen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sich nach der Untersuchung, Behandlung, Betreuung oder Pflege der Einhufer nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde unverz\u00fcglich zu reinigen und zu desinfizieren,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Blut seuchenverd\u00e4chtiger Einhufer, soweit es nicht zur Untersuchung bestimmt ist, unsch\u00e4dlich zu beseitigen und mit Blut seuchenverd\u00e4chtiger Einhufer verunreinigte Fl\u00e4chen und Gegenst\u00e4nde nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde unverz\u00fcglich nach den Eingriffen zu reinigen und zu desinfizieren.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR132600010BJNG000500000",
+        "name": "Unterabschnitt 2",
+        "title": "Schutzma\u00dfnahmen nach amtlicher Feststellung der Einhufer-Blutarmut",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000300000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "\u00d6ffentliche Bekanntmachung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>Die zust\u00e4ndige Beh\u00f6rde macht den Ausbruch und das Erl\u00f6schen der Einhufer-Blutarmut \u00f6ffentlich bekannt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Schutzma\u00dfnahmen in dem betroffenen Betrieb",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>(1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt, ordnet die zust\u00e4ndige Beh\u00f6rde <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die klinische und serologische Untersuchung aller Einhufer des betroffenen Betriebes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>im Falle verendeter oder get\u00f6teter Einhufer eine virologische oder serologische Untersuchung der verendeten oder get\u00f6teten Einhufer</LA></DD></DL>auf die Einhufer-Blutarmut an. \u00a7 4 Absatz 2 Satz 2 und die \u00a7\u00a7 5 und 6 gelten entsprechend.</P><P>(2) Der Tierhalter des Betriebes hat unverz\u00fcglich an den Eing\u00e4ngen des Betriebes Schilder mit der deutlichen und haltbaren Aufschrift \u201eEinhufer-Blutarmut \u2013 unbefugter Zutritt verboten\u201c gut sichtbar anzubringen.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde ordnet die T\u00f6tung von Einhufern und deren unsch\u00e4dliche Beseitigung einschlie\u00dflich des bei ihrer T\u00f6tung anfallenden Blutes an, soweit bei diesen Einhufern die Einhufer-Blutarmut amtlich festgestellt worden ist. Sie kann die T\u00f6tung seuchenverd\u00e4chtiger Einhufer anordnen, wenn dies zur Verh\u00fctung der Verbreitung der Einhufer-Blutarmut erforderlich ist.</P><P>(4) Die zust\u00e4ndige Beh\u00f6rde kann zur Durchf\u00fchrung wissenschaftlicher Versuche von der Anordnung der T\u00f6tung seuchenkranker Einhufer nach Absatz 3 absehen, soweit der Einhufer in eine tier\u00e4rztliche wissenschaftliche Einrichtung verbracht wird und Belange der Tierseuchenbek\u00e4mpfung nicht entgegenstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE001001118",
+        "name": "\u00a7 9",
+        "title": "Ansteckungsverdacht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>(1) Ist der Ausbruch der Einhufer-Blutarmut amtlich festgestellt und besteht Ansteckungsverdacht, f\u00fchrt die zust\u00e4ndige Beh\u00f6rde unverz\u00fcglich die klinische und serologische Untersuchung auf die Einhufer-Blutarmut f\u00fcr alle durch die Nachforschungen nach \u00a7 4 Absatz 2 Satz 2 Nummer 2 und 3 ermittelten Einhufer durch. Ist die serologische Untersuchung nach Satz 1 mit negativem Ergebnis durchgef\u00fchrt worden und liegt der letztmalige Kontakt zu dem seuchenkranken Einhufer weniger als 90 Tage, gerechnet vom Tag der Seuchenfeststellung, zur\u00fcck, so ist die serologische Untersuchung fr\u00fchestens im Abstand von 90 Tagen, gerechnet vom Tag des letztmaligen Kontaktes zu dem seuchenkranken Einhufer, zu wiederholen. Im Falle verendeter oder get\u00f6teter Einhufer ordnet die zust\u00e4ndige Beh\u00f6rde die virologische oder serologische Untersuchung auf die Einhufer-Blutarmut an.</P><P>(2) F\u00fcr Best\u00e4nde mit ansteckungsverd\u00e4chtigen Einhufern gilt \u00a7 5 entsprechend.</P><P>(3) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Sperrbezirk",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>(1) Ist der Ausbruch der Einhufer-Blutarmut in einem Betrieb amtlich festgestellt, so legt die zust\u00e4ndige Beh\u00f6rde ein Gebiet um den Seuchenbetrieb mit einem Radius von mindestens einem Kilometer als Sperrbezirk fest. Hierbei ber\u00fccksichtigt sie die Ergebnisse epidemiologischer Untersuchungen, das Vorkommen von Einhufern und blutsaugenden Insekten, nat\u00fcrliche Grenzen und \u00dcberwachungsm\u00f6glichkeiten. Satz 1 gilt nicht, soweit in dem Gebiet mit einem Radius von einem Kilometer um den Seuchenbetrieb keine Einhufer gehalten werden oder sonstige Umst\u00e4nde vorliegen, die die Annahme rechtfertigen, dass eine Gefahr der Verbreitung der Einhufer-Blutarmut nicht besteht.</P><P>(2) Die zust\u00e4ndige Beh\u00f6rde bringt an den Hauptzufahrtswegen zu dem Sperrbezirk Schilder mit der deutlichen und haltbaren Aufschrift \u201eEinhufer-Blutarmut \u2013 Sperrbezirk\u201c an.</P><P>(3) Mit Bekanntgabe der Festlegung des Sperrbezirks haben Tierhalter im Sperrbezirk <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der zust\u00e4ndigen Beh\u00f6rde unverz\u00fcglich die Anzahl der <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>gehaltenen Einhufer unter Angabe der Nutzungsrichtung und des Standortes,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>verendeten oder erkrankten Einhufer</LA></DD></DL>sowie jede \u00c4nderung anzuzeigen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>s\u00e4mtliche Einhufer aufzustallen.</LA></DD></DL></P><P>(4) Die zust\u00e4ndige Beh\u00f6rde f\u00fchrt innerhalb von sieben Tagen eine klinische und eine serologische Untersuchung auf die Einhufer-Blutarmut aller Einhufer durch, die in dem Sperrbezirk gehalten werden.</P><P>(5) Einhufer d\u00fcrfen nur mit Genehmigung der zust\u00e4ndigen Beh\u00f6rde aus dem Sperrbezirk verbracht werden. Die Genehmigung ist zu erteilen, wenn sie drei Monate nach der Untersuchung nach Absatz 4 mit negativem Ergebnis auf die Einhufer-Blutarmut untersucht worden sind.</P><P>(6) Einhufersamen, -eizellen und -embryonen d\u00fcrfen aus dem Sperrbezirk nur mit Genehmigung der zust\u00e4ndigen Beh\u00f6rde verbracht werden. Die Genehmigung ist zu erteilen, wenn sie von Einhufern stammen, die drei Monate nach der Untersuchung nach Absatz 4 mit negativem Ergebnis auf die Einhufer-Blutarmut untersucht worden sind.</P><P>(7) Hengste aus dem Sperrbezirk d\u00fcrfen zur Bedeckung oder Samengewinnung nur herangezogen werden, wenn sie drei Monate nach der Untersuchung nach Absatz 4 mit negativem Ergebnis auf die Einhufer-Blutarmut untersucht worden sind. F\u00fcr den Samen von Hengsten aus dem Sperrbezirk gilt Satz 1 entsprechend.</P><P>(8) Stuten im Sperrbezirk d\u00fcrfen nur besamt werden, wenn sie drei Monate nach der Untersuchung nach Absatz 4 mit negativem Ergebnis auf die Einhufer-Blutarmut untersucht worden sind.</P><P>(9) Ausstellungen, M\u00e4rkte und Veranstaltungen \u00e4hnlicher Art mit Einhufern innerhalb des Sperrbezirks sind verboten. Einhufer, die im Sperrbezirk gehalten werden, d\u00fcrfen nicht an Ausstellungen, M\u00e4rkten und Veranstaltungen \u00e4hnlicher Art mit Einhufern au\u00dferhalb des Sperrbezirks teilnehmen.</P><P>(10) Fahrzeuge, die f\u00fcr den Transport von Einhufern, die im Sperrbezirk gehalten werden, verwendet worden sind, m\u00fcssen vor weiterem Gebrauch nach Anweisung der zust\u00e4ndigen Beh\u00f6rde gereinigt und desinfiziert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Desinfektion",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>(1) Der Tierhalter des betroffenen Betriebes hat nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die St\u00e4lle oder sonstigen Standorte der seuchenkranken und -verd\u00e4chtigen Einhufer in regelm\u00e4\u00dfigen Abst\u00e4nden zu desinfizieren und dabei m\u00f6glichst insektenfrei zu machen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den Dung aus den St\u00e4llen oder sonstigen Standorten an einen hierf\u00fcr geeigneten Platz zu verbringen, zu desinfizieren und anschlie\u00dfend mindestens vier Wochen zu lagern,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>fl\u00fcssige Abg\u00e4nge aus den St\u00e4llen oder sonstigen Standorten, soweit sie nicht dem Dung beigegeben werden, zu desinfizieren,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>nach Entfernung der seuchenkranken und -verd\u00e4chtigen Einhufer aus dem Betrieb oder von sonstigen Standorten die St\u00e4lle und sonstigen Standorte der Tiere, insbesondere die Stallg\u00e4nge, Jaucherinnen, Futterkrippen, verwendeten Ger\u00e4tschaften und sonstigen Gegenst\u00e4nde, die Tr\u00e4ger des Ansteckungsstoffes sein k\u00f6nnen, unverz\u00fcglich zu reinigen und zu desinfizieren.</LA></DD></DL></P><P>(2) Die zust\u00e4ndige Beh\u00f6rde kann genehmigen, dass die Desinfektion nach Absatz 1 Nummer 4 auf die Betriebsteile beschr\u00e4nkt wird, in denen die seuchenkranken und -verd\u00e4chtigen Einhufer gestanden haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE001300000",
+        "name": "\u00a7 12",
+        "title": "Aufhebung der Schutzma\u00dfnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>(1) Angeordnete Schutzma\u00dfnahmen nach den \u00a7\u00a7 5 bis 11 sind aufzuheben, wenn die Einhufer-Blutarmut erloschen ist oder der Verdacht des Ausbruchs der Einhufer-Blutarmut sich als unbegr\u00fcndet erwiesen hat.</P><P>(2) Die Einhufer-Blutarmut gilt als erloschen, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA><DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>alle Einhufer des Betriebes verendet sind, get\u00f6tet oder entfernt worden sind oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die seuchenkranken und -verd\u00e4chtigen Einhufer des Betriebes verendet sind, get\u00f6tet oder entfernt worden sind und bei den \u00fcbrigen Einhufern des Bestandes keine f\u00fcr Einhufer-Blutarmut verd\u00e4chtigen Erscheinungen festgestellt worden sind und nach Entfernung der seuchenkranken oder -verd\u00e4chtigen Einhufer zwei im Abstand von drei Monaten entnommenen Blutproben serologisch mit negativem Ergebnis auf Einhufer-Blutarmut untersucht worden sind, und</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Desinfektion unter amtlicher \u00dcberwachung und nach n\u00e4herer Anweisung der zust\u00e4ndigen Beh\u00f6rde durchgef\u00fchrt worden ist.</LA></DD></DL></P><P>(3) Der Seuchenverdacht auf die Einhufer-Blutarmut hat sich als unbegr\u00fcndet erwiesen, wenn nach Anzeige des Verdachts eine serologische Untersuchung mit negativem Ergebnis durchgef\u00fchrt wurde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE001403119",
+        "name": "\u00a7 13",
+        "title": "Ordnungswidrigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>Ordnungswidrig im Sinne des \u00a7 32 Absatz 2 Nummer 4 Buchstabe a des Tiergesundheitsgesetzes handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 2 Satz 1 eine Impfung oder einen Heilversuch vornimmt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer mit einer Genehmigung nach \u00a7 2 Satz 2, \u00a7 5 Absatz 2 Satz 1 oder Absatz 3 Satz 1 oder \u00a7 11 Absatz 2 verbundenen vollziehbaren Auflage zuwiderhandelt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 3, \u00a7 4 Absatz 1 Satz 2, \u00a7 5 Absatz 1 Nummer 1 oder Nummer 4, jeweils auch in Verbindung mit \u00a7 9 Absatz 2, nach \u00a7 6, \u00a7 8 Absatz 1 Satz 1 oder Absatz 3, \u00a7 9 Absatz 1 Satz 3, \u00a7 10 Absatz 10 oder \u00a7 11 Absatz 1 zuwiderhandelt,</LA></DD><DT>3a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 3a Absatz 1 Satz 1 ein dort genanntes Register nicht f\u00fchrt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 5 Absatz 1 Nummer 2, auch in Verbindung mit \u00a7 9 Absatz 2, Einhufer nicht, nicht richtig oder nicht rechtzeitig absondert oder versorgt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 5 Absatz 1 Nummer 3 eine Insektenbek\u00e4mpfung nicht oder nicht rechtzeitig durchf\u00fchrt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 5 Absatz 2 Satz 1 oder Absatz 3 Satz 1, jeweils auch in Verbindung mit \u00a7 9 Absatz 2, oder \u00a7 10 Absatz 5 Satz 1 oder Absatz 6 Satz 1 Einhufer, Einhufersamen, -eizellen oder -embryonen ohne Genehmigung verbringt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 8 Absatz 2 ein Schild nicht, nicht richtig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig anbringt oder</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 10 Absatz 9 Satz 1 eine Ausstellung, einen Markt oder eine Veranstaltung \u00e4hnlicher Art mit Einhufern innerhalb des Sperrbezirks durchf\u00fchrt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft. Gleichzeitig tritt die Einhufer-Blutarmut-Verordnung vom 2. Juli 1975 (BGBl. I S. 1845), die zuletzt durch Artikel 5 der Verordnung vom 18. April 2000 (BGBl. I S. 531) ge\u00e4ndert worden ist, au\u00dfer Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR132600010BJNE001600000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR132600010BJNG000500000"
+        },
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR121800020",
+    "firstPublished": "2020-06-05",
+    "sourceTimestamp": "20200715212502",
+    "titleShort": "Beherbergungsmeldedatenverordnung",
+    "titleLong": "Verordnung \u00fcber die elektronische Speicherung von Daten zur Einhaltung der besonderen Meldepflicht in Beherbergungsst\u00e4tten",
+    "abbreviation": "BeherbMeldV",
+    "slug": "beherbmeldv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2020, 1218",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 18.6.2020 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR121800020BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 56 Absatz 2 des Bundesmeldegesetzes vom 3. Mai 2013 (BGBl. I S. 1084), der durch Artikel 1 Nummer 4 Buchstabe a des Gesetzes vom 22. November 2019 (BGBl. I S. 1746) eingef\u00fcgt worden ist, verordnet das Bundesministerium des Innern, f\u00fcr Bau und Heimat:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR121800020BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "body": "<P>Diese Verordnung regelt die Einzelheiten der elektronischen Speicherung und Bereitstellung der Daten von beherbergten Personen in Beherbergungsst\u00e4tten nach \u00a7 29 Absatz 5 und \u00a7 30 Absatz 4 des Bundesmeldegesetzes durch die Leiter der Beherbergungsst\u00e4tten oder der Einrichtungen nach \u00a7 29 Absatz 4 des Bundesmeldegesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR121800020BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Dateispezifische Anforderungen",
+        "parent": null,
+        "body": "<P>(1) Die in \u00a7 1 genannten Leiter der Beherbergungsst\u00e4tten oder der Einrichtungen haben zu jeder beherbergten Person nach \u00a7 29 Absatz 2 des Bundesmeldegesetzes einen Datensatz vollst\u00e4ndig am Tag der Ankunft zu speichern.</P><P>(2) Die Daten sind als strukturierter maschinenlesbarer Datensatz im Dateiformat der Extensible Markup Language (XML) zu speichern. Die Daten sind im UNICODE-Zeichensatz UTF 8 zu codieren. Das Bundesministerium des Innern, f\u00fcr Bau und Heimat gibt die Struktur des XML-Dokumentes als XML-Schema-Definition (XSD) im Bundesanzeiger bekannt.</P><P>(3) Die Datei ist nach dem Muster \u201eJJJJMMTT_<NB>BeherbMeldeschein</NB>_Zaehler.xml\u201c zu benennen. Dabei ist einzusetzen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei \u201eJJJJ\u201c das Jahr des ersten Beherbergungstags mit vier Ziffern,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei \u201eMM\u201c der Monat des ersten Beherbergungstags mit zwei Ziffern,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>bei \u201eTT\u201c der Kalendertag des ersten Beherbergungstags mit zwei Ziffern und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>bei \u201eZaehler\u201c eine fortlaufende Nummerierung der Datens\u00e4tze eines Tages beginnend mit der Zahl 1.</LA></DD></DL></P><P>(4) Die Datens\u00e4tze sind sortiert in Ordnerstrukturen nach Jahren und Monaten wie in Absatz 3 Nummer 1 und 2 bestimmt zu speichern.</P><P>(5) In jedem Datensatz sind die zu erhebenden Daten nach der Anlage zu dieser Verordnung zu speichern.</P><P>(6) Landesrechtliche Vorgaben zur Ausf\u00fchrung des Bundesmeldegesetzes bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR121800020BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Bereitstellung der Daten",
+        "parent": null,
+        "body": "<P>Verlangt eine nach \u00a7 30 Absatz 4 Satz 3 des Bundesmeldegesetzes berechtigte Beh\u00f6rde gespeicherte Dateien, so hat der Leiter der Beherbergungsst\u00e4tte oder der Einrichtung die Datens\u00e4tze entsprechend den Anforderungen des \u00a7 2 zur Einsichtnahme bereitzustellen und eine \u00dcbertragung auf Datentr\u00e4ger oder Speichersysteme zu erm\u00f6glichen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR121800020BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR121800020BJNE000600000",
+        "name": "Anlage",
+        "title": "(zu \u00a7 2 Absatz 5)<BR />Bei der Speicherung der Daten im Datensatz zu verwendende Bezeichner",
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2020, 1219)</kommentar></noindex></P><P><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tabstyle=\"Anlage\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec colname=\"col1\" colwidth=\"4*\" /><colspec colname=\"col2\" colwidth=\"30*\" /><colspec align=\"justify\" colname=\"col3\" colwidth=\"66*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" align=\"center\" colname=\"col2\" valign=\"middle\">Bezeichner</entry><entry VJ=\"1\" align=\"center\" colname=\"col3\" valign=\"middle\">Erl\u00e4uterung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a01.</entry><entry VJ=\"1\" colname=\"col2\">DatumAnkunft</entry><entry VJ=\"1\" colname=\"col3\">Datum der Ankunft der beherbergten Person (JJJJMMTT)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a02.</entry><entry VJ=\"1\" colname=\"col2\">DatumAbreise</entry><entry VJ=\"1\" colname=\"col3\">Datum der voraussichtlichen Abreise (JJJJMMTT)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a03.</entry><entry VJ=\"1\" colname=\"col2\">Familienname</entry><entry VJ=\"1\" colname=\"col3\">vollst\u00e4ndiger derzeitiger Familienname mit Namensbestandteilen, jeweils durch Leerzeichen getrennt</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a04.</entry><entry VJ=\"1\" colname=\"col2\">Vornamen</entry><entry VJ=\"1\" colname=\"col3\">s\u00e4mtliche Vornamen, jeweils durch Leerzeichen getrennt</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a05.</entry><entry VJ=\"1\" colname=\"col2\">Geburtsdatum</entry><entry VJ=\"1\" colname=\"col3\">Geburtsdatum (JJJJMMTT)</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a06.</entry><entry VJ=\"1\" colname=\"col2\">Staatsangehoerigkeiten</entry><entry VJ=\"1\" colname=\"col3\">s\u00e4mtliche Staatsangeh\u00f6rigkeiten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a07.</entry><entry VJ=\"1\" colname=\"col2\">Anschrift</entry><entry VJ=\"1\" colname=\"col3\">bestehend aus <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Staat, in dem sich der Wohnort befindet</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Postleitzahl des Wohnorts</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohnortbezeichnung</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">sofern vorhanden, Zus\u00e4tze zum Wohnort</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Stra\u00dfenbezeichnung</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hausnummerziffern sowie gegebenenfalls zus\u00e4tzlich Buchstaben oder Zusatzziffern</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">sofern vorhanden, Erg\u00e4nzungen zur Anschrift</LA></DD></DL></entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a08.</entry><entry VJ=\"1\" colname=\"col2\">AnzahlAngehoerige</entry><entry VJ=\"1\" colname=\"col3\">Anzahl der mitreisenden Angeh\u00f6rigen gem\u00e4\u00df \u00a7 29 Absatz 2 Satz 2 des Bundesmeldegesetzes</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a09.</entry><entry VJ=\"1\" colname=\"col2\">AnzahlMitreisende</entry><entry VJ=\"1\" colname=\"col3\">Anzahl der Mitreisenden bei Reisegesellschaften gem\u00e4\u00df \u00a7 29 Absatz 2 Satz 3 des Bundesmeldegesetzes</entry></row><row><entry VJ=\"1\" colname=\"col1\">10.</entry><entry VJ=\"1\" colname=\"col2\">StaatsangehoerigkeitMitreisende</entry><entry VJ=\"1\" colname=\"col3\">s\u00e4mtliche Staatsangeh\u00f6rigkeiten der Mitreisenden der Reisegesellschaften</entry></row><row><entry VJ=\"1\" colname=\"col1\">11.</entry><entry VJ=\"1\" colname=\"col2\">SeriennummerPass</entry><entry VJ=\"1\" colname=\"col3\">Seriennummer des anerkannten und g\u00fcltigen Passes oder Passersatzpapiers ausl\u00e4ndischer Personen oder Angaben zu Abweichungen oder Nichtvorlage</entry></row><row><entry VJ=\"1\" colname=\"col1\">12.</entry><entry VJ=\"1\" colname=\"col2\">Zahlungszuordnungsnummer</entry><entry VJ=\"1\" colname=\"col3\">bestehend aus der zweckgebunden Zuordnungsnummer des elektronischen Zahlungsvorganges (Token) und aus dem Namen des Zahlungsdienstleisters der Beherbergungsst\u00e4tte, der den Token generiert</entry></row><row><entry VJ=\"1\" colname=\"col1\">13.</entry><entry VJ=\"1\" colname=\"col2\">Beherbergungsstaette</entry><entry VJ=\"1\" colname=\"col3\">bestehend aus Namen und Anschrift der Beherbergungsst\u00e4tte oder Einrichtung, die die Daten speichert</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

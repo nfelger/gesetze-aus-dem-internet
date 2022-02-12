@@ -1,0 +1,465 @@
+{
+  "data": {
+    "type": "law",
+    "id": "DDNR014000990",
+    "firstPublished": "1990-08-13",
+    "sourceTimestamp": "20131008093952",
+    "titleShort": null,
+    "titleLong": "Anordnung \u00fcber Bauvorlagen, bautechnische Pr\u00fcfungen und \u00dcberwachung",
+    "abbreviation": "BauVorl-/BauPr\u00fcf-/\u00dcbAO",
+    "slug": "bauvorl_baupruef_uebao",
+    "extraAbbreviations": [
+      "BauP\u00dcAnO"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1990, 1400",
+        "periodical": "GBl DDR I"
+      },
+      {
+        "reference": "1990, Nr 57, 1400",
+        "periodical": "GBl DDR I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab:  3.10.1990 +++)</P><P><BR /> In den beigetretenen L\u00e4ndern fortgeltendes Recht der ehem. Deutschen Demokratischen Republik gem. Art. 3 Nr. 32 Buchst. a EinigVtrVbg v. 18.9.1990 II 1239 nach Ma\u00dfgabe d. Art. 9 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1239 mWv 3.10.1990.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE000700307",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf der Grundlage der \u00a7\u00a7 25 Abs. 1 und 82 Abs. 2 und Abs. 4 des Gesetzes vom 20. Juli 1990 \u00fcber die Bauordnung (BauO) (GBl. I Nr. 50 S. 929) in Verbindung mit \u00a7 2 Abs. 1 und \u00a7 6 Abs. 2 des Gesetzes vom 20. Juli 1990 zur Einf\u00fchrung des Gesetzes vom 20. Juli 1990 \u00fcber die Bauordnung (BauO) (GBl. I Nr. 50 S. 950) wird angeordnet:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE000800307",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"5\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col5\" colnum=\"5\" colwidth=\"50*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Erster Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<B>Bauvorlagen</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 1</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Allgemeines</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 2</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Lageplan</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 3</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bauzeichnungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 4</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Baubeschreibung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 5</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Standsicherheitsnachweis und andere bautechnische Nachweise</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 6</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bauvorlagen f\u00fcr den Abbruch baulicher Anlagen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 7</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bauvorlagen beim Vorbescheid</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 8</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bauvorlagen f\u00fcr Typengenehmigungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 9</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bauvorlagen f\u00fcr die Ausf\u00fchrungsgenehmigung Fliegender Bauten</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 10</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bauvorlagen f\u00fcr Werbeanlagen und Warenautomaten</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 11</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Antrag und Unterlagen f\u00fcr die Genehmigung von Grundst\u00fccksteilungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Zweiter Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<B>Bautechnische Pr\u00fcfung von Bauvorhaben</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Erster Abschnitt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">\n\t\t\t\t\t<B>Pr\u00fcf\u00e4mter und Pr\u00fcfingenieure</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 12</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pr\u00fcf\u00e4mter und Pr\u00fcfingenieure</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 13</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Umfang der Zulassung, Niederlassung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 14</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Voraussetzungen der Zulassung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 15</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zulassungsverfahren</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 16</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gutachten, Gutachterausschu\u00df</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 17</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erl\u00f6schen, R\u00fccknahme und Widerruf der Zulassung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Zweiter Abschnitt</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">\n\t\t\t\t\t<B>Bautechnische Pr\u00fcfungen</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 18</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbertragung von Pr\u00fcfaufgaben</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 19</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erteilung von Pr\u00fcfauftr\u00e4gen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 20</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausf\u00fchrung von Pr\u00fcfauftr\u00e4gen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 21</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Typenpr\u00fcfung - Pr\u00fcfung Fliegender Bauten</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Dritter Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<B>\u00dcberwachung</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 22</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcberwachungspflicht</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 23</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcberwachungsverfahren und \u00dcberwachungsstellen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 24</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcberwachungszeichen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Vierter Teil</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<B>Schlu\u00dfvorschrift</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 25</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Inkrafttreten</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014000990BJNG000100307",
+        "name": "Erster Teil",
+        "title": "Bauvorlagen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE000900307",
+        "name": "\u00a7 1",
+        "title": "Allgemeines",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) Dem Antrag auf Erteilung einer Baugenehmigung sind nach Ma\u00dfgabe der folgenden Vorschriften als Bauvorlagen beizuf\u00fcgen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Lageplan (\u00a7 2),</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bauzeichnungen (\u00a7 3),</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Baubeschreibung (\u00a7 4),</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Nachweis der Standsicherheit und die anderen bautechnischen Nachweise (\u00a7 5),</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Geb\u00e4uden eine nachpr\u00fcfbare Berechnung des umbauten Raumes.</LA></DD> </DL> </P><P>(2) Umfang, Inhalt und Zahl der Bauvorlagen richten sich im Einzelfall nach dem jeweiligen Bauvorhaben. Der Inhalt der Bauvorlagen beschr\u00e4nkt sich auf das zur Beurteilung des jeweiligen Bauvorhabens Erforderliche.</P><P>(3) Die Bauvorlagen sind in zweifacher Ausfertigung bei der unteren Bauaufsichtsbeh\u00f6rde \u00fcber die Gemeinde einzureichen. Ist f\u00fcr die Pr\u00fcfung des Bauantrages die Beteiligung anderer Beh\u00f6rden oder Dienststellen erforderlich, so kann die Bauaufsichtsbeh\u00f6rde die Einreichung weiterer Ausfertigungen verlangen.</P><P>(4) Die Bauvorlagen m\u00fcssen aus dauerhaftem Papier lichtbest\u00e4ndig hergestellt sein und in ihrer Gr\u00f6\u00dfe dem Format A 4 entsprechen oder auf diese Gr\u00f6\u00dfe gefaltet sein.</P><P>(5) F\u00fcr Antr\u00e4ge auf Erteilung einer Baugenehmigung, einer Abbruchgenehmigung, eines Vorbescheides, auf Genehmigung der Teilung eines Grundst\u00fccks sowie f\u00fcr die Baubeschreibung kann die Bauaufsichtsbeh\u00f6rde verlangen, da\u00df daf\u00fcr amtlich bekanntgemachte Muster/Vordrucke verwendet werden.</P><P>(6) Die Bauaufsichtsbeh\u00f6rde kann nach Ma\u00dfgabe des Absatzes 2 weitere Unterlagen fordern, wenn sie dies zur Beurteilung des Bauvorhabens f\u00fcr erforderlich h\u00e4lt; sie kann auf Bauvorlagen verzichten, wenn diese zur Beurteilung des Bauvorhabens nicht erforderlich sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001000307",
+        "name": "\u00a7 2",
+        "title": "Lageplan",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) Der Lageplan ist auf der Grundlage der amtlichen Flurkarte aufzustellen. Dabei soll der Ma\u00dfstab nicht kleiner als 1:500 verwendet werden. Die Bauaufsichtsbeh\u00f6rde kann einen gr\u00f6\u00dferen Ma\u00dfstab fordern oder zulassen. Sie kann, wenn es die besonderen Grundst\u00fccks-, Geb\u00e4ude- oder Grenzverh\u00e4ltnisse erfordern, verlangen, da\u00df der Lageplan von einer Beh\u00f6rde, die befugt ist, Vermessungen zur Einrichtung und Fortf\u00fchrung des Liegenschaftskatasters auszuf\u00fchren, oder von einem \u00f6ffentlich bestellten Vermessungsingenieur beglaubigt oder angefertigt werden; den Beh\u00f6rden sind solche beh\u00f6rdliche Stellen gleichgestellt, deren Vermessungsergebnisse f\u00fcr die Einrichtung und Fortf\u00fchrung des Liegenschaftskatasters verwendet werden.</P><P>(2) Der Lageplan mu\u00df insbesondere enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">seinen Ma\u00dfstab und die Lage des Grundst\u00fccks zur Nordrichtung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung des Grundst\u00fccks und der benachbarten Grundst\u00fccke nach Stra\u00dfe, Hausnummer, Grundbuch und Liegenschaftskataster unter Angabe der Eigent\u00fcmer,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die rechtm\u00e4\u00dfigen Grenzen des Grundst\u00fccks, seine Umringma\u00dfe und seinen Fl\u00e4cheninhalt,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6henlage der Eckpunkte des Grundst\u00fcckes oder bei gr\u00f6\u00dferen Grundst\u00fccken die H\u00f6henlage oder H\u00f6henlagen des engeren Baufeldes \u00fcber NN,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Breite und die H\u00f6henlage angrenzender \u00f6ffentlicher Verkehrsfl\u00e4chen \u00fcber NN unter Angabe der Stra\u00dfengruppe,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Lage des \u00f6ffentlichen Entw\u00e4sserungskanals, die H\u00f6he seiner Sohle sowie die R\u00fcckstauebene,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Lage der Entw\u00e4sserungsgrundleitung bis zum \u00f6ffentlichen Kanal einschlie\u00dflich des Anschlu\u00dfkanals und deren Nennweiten, die Lage der Reinigungs\u00f6ffnungen und -sch\u00e4chte sowie die Lage der Abwasserbehandlungsanlagen mit der Abwassereinleitung,</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festsetzungen im Bebauungsplan \u00fcber die Art und das Ma\u00df der baulichen Nutzung mit den Baulinien oder Baugrenzen,</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">die vorhandenen baulichen Anlagen auf dem Grundst\u00fcck und auf den benachbarten Grundst\u00fccken mit Angabe ihrer Nutzung, Gescho\u00dfzahl, Hauptgesims- oder Au\u00dfenwandh\u00f6he, Dachform und der Bauart der Au\u00dfenw\u00e4nde und der Bedachung,</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Denkm\u00e4ler im Sinne des Denkmalschutzgesetzes und gesch\u00fctzte Baumbest\u00e4nde auf dem Baugrundst\u00fcck und auf Nachbargrundst\u00fccken,</LA></DD> <DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">die geplanten baulichen Anlagen unter Angabe der Au\u00dfenma\u00dfe, der Dachform, der H\u00f6henlage des Erdgescho\u00dffu\u00dfbodens zur Stra\u00dfe, der Grenzabst\u00e4nde, der Tiefe und Breite der Abstandfl\u00e4chen, der Abst\u00e4nde zu anderen baulichen Anlagen auf dem Grundst\u00fcck und den benachbarten Grundst\u00fccken sowie der Lage und Breite der Zu- und Abfahrten,</LA></DD> <DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abst\u00e4nde der geplanten baulichen Anlage zu \u00f6ffentlichen Verkehrs- und Gr\u00fcnfl\u00e4chen, zu Wasserfl\u00e4chen und zu W\u00e4ldern, Mooren und Heiden,</LA></DD> <DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufteilung der nicht \u00fcberbauten Fl\u00e4chen unter Angabe der Lage, Anzahl und Gr\u00f6\u00dfe der Stellpl\u00e4tze f\u00fcr Kraftfahrzeuge, der Zufahrten und Bewegungsfl\u00e4chen f\u00fcr die Feuerwehr, der Kinderspielfl\u00e4chen, der Pl\u00e4tze f\u00fcr Abfallbeh\u00e4lter und der Fl\u00e4chen, die begr\u00fcnt werden und/oder mit B\u00e4umen bepflanzt werden sollen (\u00a7 9 Abs. 1 Satz 2 BauO),</LA></DD> <DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fl\u00e4chen, die von Baulasten betroffen sind,</LA></DD> <DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">Brunnen, Abfallgruben, Dungst\u00e4tten, Jauchebeh\u00e4lter, Fl\u00fcssigmistbeh\u00e4lter und G\u00e4rfutterbeh\u00e4lter sowie deren Abst\u00e4nde zu baulichen Anlagen,</LA></DD> <DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hochspannungsleitungen und unterirdische Leitungen f\u00fcr das Fernmeldewesen und f\u00fcr die Versorgung mit Elektrizit\u00e4t, Gas, W\u00e4rme und Wasser sowie deren Abst\u00e4nde zu baulichen Anlagen,</LA></DD> <DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">ortsfeste Beh\u00e4lter f\u00fcr Gase, \u00d6l und sch\u00e4dliche oder brennbare Fl\u00fcssigkeiten sowie deren Abst\u00e4nde zu baulichen Anlagen,</LA></DD> <DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">Hydranten und andere Wasserentnahmestellen f\u00fcr Feuerl\u00f6schzwecke.</LA></DD> </DL> </P><P>(3) Der Inhalt des Lageplanes nach Abs. 2 Ziffern 13. bis 18. ist auf besonderen Bl\u00e4ttern darzustellen, wenn der Lageplan sonst un\u00fcbersichtlich w\u00fcrde.</P><P>(4) F\u00fcr die Darstellung im Lageplan sind die Zeichen der Ziffern 1. und 3. der Anlage zu dieser Anordnung zu verwenden. Die sonstigen Darstellungen sind, soweit erforderlich, durch Beschriftung zu kennzeichnen.</P><P>(5) F\u00fcr vorhandene und geplante bauliche Anlagen auf dem Grundst\u00fcck ist eine pr\u00fcff\u00e4hige Berechnung aufzustellen \u00fcber: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zul\u00e4ssige und die vorhandene oder geplante Grundfl\u00e4che,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die vorhandene und die geplante Gescho\u00dffl\u00e4che und, soweit erforderlich, die Baumasse,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zul\u00e4ssige und die vorhandene oder geplante Grundfl\u00e4chenzahl, Gescho\u00dffl\u00e4chenzahl und, soweit erforderlich, die Baumassenzahl.</LA></DD> </DL> </P><P>(6) Bei der \u00c4nderung baulicher Anlagen, bei denen die Au\u00dfenw\u00e4nde und D\u00e4cher sowie die Nutzung nicht ver\u00e4ndert werden, ist ein Lageplan nicht erforderlich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001100307",
+        "name": "\u00a7 3",
+        "title": "Bauzeichnungen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) F\u00fcr die Bauzeichnungen ist der Ma\u00dfstab 1:100 zu verwenden. Die Bauaufsichtsbeh\u00f6rde kann einen anderen Ma\u00dfstab verlangen oder zulassen, wenn ein solcher zur Darstellung der erforderlichen Eintragung notwendig oder ausreichend ist.</P><P>(2) In den Bauzeichnungen sind insbesondere darzustellen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gr\u00fcndung der geplanten baulichen Anlage und, soweit erforderlich, die Gr\u00fcndungen benachbarter baulicher Anlagen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Grundrisse aller Geschosse mit Angabe der vorgesehenen Nutzung der R\u00e4ume und mit Einzeichnung der<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Treppen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">lichten Durchgangsma\u00dfe sowie Art und Anordnung der T\u00fcren an und in Rettungswegen,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Schornsteine,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">R\u00e4ume f\u00fcr die Aufstellung von Feuerst\u00e4tten und die Brennstofflagerung unter Angabe der daf\u00fcr vorgesehenen Nennw\u00e4rmeleistung und Lagermenge,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">ortsfesten Beh\u00e4lter f\u00fcr sch\u00e4dliche oder brennbare Fl\u00fcssigkeiten oder f\u00fcr verfl\u00fcssigte oder nicht verfl\u00fcssigte Gase,</LA></DD> <DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufzugssch\u00e4chte und der nutzbaren Grundfl\u00e4che der Fahrk\u00f6rbe von Personenaufz\u00fcgen,</LA></DD> <DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">L\u00fcftungsleitungen, Installationssch\u00e4chte und Abfallsch\u00e4chte, soweit sie baugenehmigungsbed\u00fcrftig sind,</LA></DD> <DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">B\u00e4der und Toilettenr\u00e4ume, die Entw\u00e4sserungsgrundleitungen sowie die Entw\u00e4sserungseinrichtungen unterhalb der R\u00fcckstauebene,</LA></DD> <DT>i)</DT><DD Font=\"normal\"><LA Size=\"normal\">Feuermelde- und Feuerl\u00f6scheinrichtungen mit Angabe ihrer Art,</LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Schnitte, aus denen auch ersichtlich sind<DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6henlage des Erdgescho\u00dffu\u00dfbodens \u00fcber NN,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he des Fu\u00dfbodens des h\u00f6chstgelegenen Aufenthaltsraumes \u00fcber der Gel\u00e4ndeoberfl\u00e4che (\u00a7 2 Abs. 3 BauO),</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gescho\u00dfh\u00f6hen und die lichten Raumh\u00f6hen,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">der Verlauf der Treppen und Rampen mit ihrem Steigungsverh\u00e4ltnis,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">der Anschnitt der vorhandenen und der geplanten Gel\u00e4ndeoberfl\u00e4che,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">das Ma\u00df H je Au\u00dfenwand in dem zur Bestimmung der Abstandfl\u00e4chen erforderlichen Umfang (\u00a7 6 Abs. 4 BauO), soweit dieses nicht im Lageplan oder in den Ansichten angegeben ist,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Dachh\u00f6hen und Dachneigungen,</LA></DD> </DL></LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ansichten der geplanten baulichen Anlage mit dem Anschlu\u00df an Nachbargeb\u00e4ude unter Angabe von Baustoffen und Farben sowie der Gel\u00e4ndeoberfl\u00e4che und des Stra\u00dfengef\u00e4lles.</LA></DD> </DL> </P><P>(3) In den Bauzeichnungen sind anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Ma\u00dfstab,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ma\u00dfe und die wesentlichen Baustoffe und Bauarten,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Brandverhalten der Baustoffe und die Feuerwiderstandsdauer der Bauteile, soweit aus Gr\u00fcnden des Brandschutzes an diese Forderungen gestellt werden,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Rohbauma\u00dfe der \u00d6ffnungen notwendiger Fenster,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Lage des Raumes f\u00fcr die Hauptanschl\u00fcsse der Versorgungsleitungen,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei \u00c4nderung baulicher Anlagen die zu beseitigenden und die neuen Bauteile.</LA></DD> </DL> </P><P>(4) F\u00fcr die Darstellung in den Bauzeichnungen sind die Zeichen der Ziff. 2. der Anlage zu dieser Anordnung zu verwenden; dies gilt nicht, wenn in den Bauzeichnungen nur vorgesehene Bauteile dargestellt werden.</P><P>(5) Die Bauaufsichtsbeh\u00f6rde kann verlangen, da\u00df einzelne Bauzeichnungen oder Teile davon durch besondere Zeichnungen, Zeichen und Farben erl\u00e4utert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001200307",
+        "name": "\u00a7 4",
+        "title": "Baubeschreibung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) In der Baubeschreibung sind das Vorhaben und seine Nutzung zu erl\u00e4utern, soweit dies zur Beurteilung erforderlich ist und die notwendigen Angaben nicht in den Lageplan und die Bauzeichnungen aufgenommen werden k\u00f6nnen.</P><P>(2) Wird das Vorhaben nicht an eine Sammelkanalisation angeschlossen, ist die ordnungsgem\u00e4\u00dfe Abwasserbeseitigung nachzuweisen (\u00a7 42 Abs. 1 und 2 BauO).</P><P>(3) F\u00fcr gewerbliche Anlagen, die einer immissionsschutzrechtlichen Genehmigung oder gewerberechtlichen Erlaubnis nicht bed\u00fcrfen, mu\u00df die Baubeschreibung zus\u00e4tzliche Angaben enthalten \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art der gewerblichen T\u00e4tigkeit unter Angabe der Art, der Zahl und des Aufstellungsortes der Maschinen oder Apparate, der Art der zu verwendenden Rohstoffe und der herzustellenden Erzeugnisse, der Art ihrer Lagerung, soweit sie feuer-, explosions- oder gesundheitsgef\u00e4hrlich sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art, die Menge und den Verbleib der Abf\u00e4lle und des besonders zu behandelnden Abwassers,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zahl der Besch\u00e4ftigten.</LA></DD> </DL> </P><P>(4) F\u00fcr landwirtschaftliche Betriebe mu\u00df die Baubeschreibung insbesondere zus\u00e4tzliche Angaben enthalten \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gr\u00f6\u00dfe der Betriebsfl\u00e4chen, der Nutzungsarten und ihre Eigentumsverh\u00e4ltnisse,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art und Umfang der Viehhaltung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art, Lagerung und Verbleib der tierischen Abg\u00e4nge,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art, Menge und Lagerung der Stoffe, die feuer-, explosions- oder gesundheitsgef\u00e4hrlich sind,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art, Menge und Verbleib der Abf\u00e4lle und des besonders zu behandelnden Abwassers,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anzahl der Arbeitskr\u00e4fte, ihre fachliche Eignung sowie Art und Umfang ihrer T\u00e4tigkeiten.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001300307",
+        "name": "\u00a7 5",
+        "title": "Standsicherheitsnachweis und andere bautechnische\nNachweise",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) F\u00fcr die Pr\u00fcfung der Standsicherheit sind eine Darstellung des gesamten statischen Systems, die erforderlichen Konstruktionszeichnungen und die erforderlichen Berechnungen vorzulegen. Berechnungen und Zeichnungen m\u00fcssen \u00fcbereinstimmen und gleiche Positionsangaben haben.</P><P>(2) Die statischen Berechnungen m\u00fcssen die Standsicherheit der baulichen Anlagen und ihrer Teile nachweisen. Die Beschaffenheit des Baugrundes und seine Tragf\u00e4higkeit sind anzugeben. Die Bauaufsichtsbeh\u00f6rde kann gestatten, da\u00df die Standsicherheit auf andere Weise als durch statische Berechnungen nachgewiesen wird. Sie kann auf die Vorlage eines besonderen Nachweises der Standsicherheit verzichten, wenn bauliche Anlagen oder ihre Teile nach Bauart, statischem System, baulicher Durchbildung und Abmessungen sowie hinsichtlich ihrer Beanspruchung einer bew\u00e4hrten, insbesondere durch technische Baubestimmungen nach \u00a7 3 Abs. 3 BauO im einzelnen festgelegten Ausf\u00fchrung entsprechen.</P><P>(3) F\u00fcr die Pr\u00fcfung des Brandverhaltens der Baustoffe und der Feuerwiderstandsdauer der Bauteile sind, soweit erforderlich, Einzelnachweise durch Zeichnung, Beschreibung, Berechnung, Pr\u00fcfzeugnisse oder Gutachten vorzulegen.</P><P>(4) F\u00fcr die Pr\u00fcfung des Schallschutzes und des W\u00e4rmeschutzes sind, soweit erforderlich, Einzelnachweise durch Zeichnung, Beschreibung, Berechnung, Pr\u00fcfzeugnisse oder Gutachten vorzulegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001400307",
+        "name": "\u00a7 6",
+        "title": "Bauvorlagen f\u00fcr den Abbruch baulicher Anlagen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) Dem Antrag auf Erteilung der Genehmigung zum Abbruch baulicher Anlagen ist unter Bezeichnung des Grundst\u00fccks nach Stra\u00dfe und Hausnummer <DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Benennung des Abbruchunternehmers,</LA></DD> <DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Beschreibung der baulichen Anlage nach ihrer wesentlichen Konstruktion und des vorgesehenen Abbruchvorganges mit Angabe der f\u00fcr den Abbruch vorgesehenen Sicherungsma\u00dfnahmen</LA></DD> </DL>beizuf\u00fcgen.</P><P>(2) \u00a7 1 Abs. 2 bis 6 gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001500307",
+        "name": "\u00a7 7",
+        "title": "Bauvorlagen beim Vorbescheid",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) Dem Antrag auf Erteilung eines Vorbescheids sind die Bauvorlagen beizuf\u00fcgen, die zur Beurteilung der durch den Vorbescheid zu entscheidenden Fragen des Bauvorhabens erforderlich sind.</P><P>(2) \u00a7 1 Abs. 2 bis 6 gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001600307",
+        "name": "\u00a7 8",
+        "title": "Bauvorlagen f\u00fcr Typengenehmigungen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) Dem Antrag auf Erteilung der Typengenehmigung nach \u00a7 73 BauO brauchen nur die in \u00a7 1 Abs. 1 Ziffern 2., 3. und 4. genannten Bauvorlagen beigef\u00fcgt zu werden.</P><P>(2) Die Bauvorlagen sind in dreifacher Ausfertigung einzureichen.</P><P>(3) \u00a7 1 Abs. 4 bis 6 gilt sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001700307",
+        "name": "\u00a7 9",
+        "title": "Bauvorlagen f\u00fcr die Ausf\u00fchrungsgenehmigung\nFliegender Bauten",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) Dem Antrag auf Erteilung der Ausf\u00fchrungsgenehmigung Fliegender Bauten nach \u00a7 75 BauO brauchen nur die in \u00a7 1 Abs. 1 Ziffern 2., 3. und 4. genannten Bauvorlagen beigef\u00fcgt zu werden. Die Baubeschreibung mu\u00df ausreichende Angaben \u00fcber die Konstruktion, den Aufbau und den Betrieb Fliegender Bauten enthalten.</P><P>(2) Die Bauvorlagen sind in zweifacher Ausfertigung bei der f\u00fcr die Erteilung der Ausf\u00fchrungsgenehmigung zust\u00e4ndigen h\u00f6heren Bauaufsichtsbeh\u00f6rde einzureichen.</P><P>(3) \u00a7 1 Abs. 4 bis 6 gilt sinngem\u00e4\u00df; die Bauzeichnungen m\u00fcssen aus Papier auf Gewebe bestehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001800307",
+        "name": "\u00a7 10",
+        "title": "Bauvorlagen f\u00fcr Werbeanlagen und Warenautomaten",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>(1) Dem Antrag auf Erteilung einer Genehmigung f\u00fcr die Errichtung, Aufstellung, Anbringung und \u00c4nderung von Werbeanlagen sind beizuf\u00fcgen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bauzeichnungen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Baubeschreibung und, soweit erforderlich,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Lageplan und der Nachweis der Standsicherheit.</LA></DD> </DL> </P><P>(2) Die Bauzeichnungen, f\u00fcr die ein Ma\u00dfstab nicht kleiner als 1:50 zu verwenden ist, m\u00fcssen insbesondere enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausf\u00fchrung der geplanten Werbeanlage,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die farbgetreue Wiedergabe aller sichtbaren Teile der geplanten Werbeanlage,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Darstellung der geplanten Werbeanlage in Verbindung mit der baulichen Anlage, vor der oder in deren N\u00e4he sie aufgestellt oder errichtet oder an der sie angebracht werden soll.</LA></DD> </DL> </P><P>(3) In der Baubeschreibung sind, soweit dies zur Beurteilung erforderlich ist und die notwendigen Angaben nicht in den Lageplan und die Bauzeichnungen aufgenommen werden k\u00f6nnen, insbesondere anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Anbringungsort,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art und Gr\u00f6\u00dfe der geplanten Anlage,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Werkstoffe und Farben der geplanten Anlage,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art des Baugebietes,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">benachbarte Signalanlagen und Verkehrszeichen.</LA></DD> </DL> </P><P>(4) Der Lageplan, f\u00fcr den ein Ma\u00dfstab nicht kleiner als 1:500 zu verwenden ist, mu\u00df insbesondere enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung des Grundst\u00fccks nach Stra\u00dfe und Hausnummer oder Grundbuch und Liegenschaftskataster,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die rechtm\u00e4\u00dfigen Grenzen des Grundst\u00fcckes,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festsetzungen im Bebauungsplan \u00fcber die Art des Baugebietes,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">festgesetzte Baulinien, Baugrenzen oder sonstige Begrenzungslinien,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorhandene bauliche Anlagen auf dem Grundst\u00fcck,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Aufstellungs- und Anbringungsort der geplanten Werbeanlage,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abst\u00e4nde der geplanten Werbeanlage zu \u00f6ffentlichen Verkehrs- und Gr\u00fcnfl\u00e4chen unter Angabe der Stra\u00dfengruppe (\u00a7 13 Abs. 2 Satz 2 BauO).</LA></DD> </DL> </P><P>(5) F\u00fcr die Warenautomaten gelten die Abs\u00e4tze 1 bis 5 sinngem\u00e4\u00df.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE001900307",
+        "name": "\u00a7 11",
+        "title": "Antrag und Unterlagen f\u00fcr die Genehmigung von\nGrundst\u00fccksteilungen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000100307"
+        },
+        "body": "<P>Der Antrag auf Genehmigung einer Grundst\u00fccksteilung mu\u00df insbesondere enthalten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift der Grundst\u00fcckseigent\u00fcmer oder der Erbbauberechtigten,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bezeichnung des zu teilenden Grundst\u00fccks nach Gemeinde, Ortsteil, Stra\u00dfe und Hausnummer sowie dem Liegenschaftskataster (Gemarkung, Flur, Flurst\u00fcck),</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundbuchbezeichnung des zu teilenden Grundst\u00fccks mit Angabe der laufenden Nummer im Bestandsverzeichnis des Grundbuchs,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben dar\u00fcber, ob das Grundst\u00fcck bebaut ist oder ob seine Bebauung genehmigt ist,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei bebauten Grundst\u00fccken Angaben \u00fcber die vorhandene Bebauung, soweit durch die Teilung Grundst\u00fccksfl\u00e4chen ber\u00fchrt werden, die f\u00fcr die Erf\u00fcllung von Abstandsanforderungen zur Verf\u00fcgung stehen m\u00fcssen,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bezeichnung des Grundst\u00fccksteils, der grundbuchm\u00e4\u00dfig abgeschrieben werden soll.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014000990BJNG000200307",
+        "name": "Zweiter Teil",
+        "title": "Bautechnische Pr\u00fcfung von Bauvorhaben",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014000990BJNG000300307",
+        "name": "Erster Abschnitt",
+        "title": "Pr\u00fcf\u00e4mter und Pr\u00fcfingenieure",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000200307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002000307",
+        "name": "\u00a7 12",
+        "title": "Pr\u00fcf\u00e4mter und Pr\u00fcfingenieure",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000300307"
+        },
+        "body": "<P>(1) Die oberste Bauaufsichtsbeh\u00f6rde bestimmt die Pr\u00fcf\u00e4mter f\u00fcr Bautechnik oder errichtet sie.</P><P>(2) \"Pr\u00fcfingenieur f\u00fcr Baustatik\" - im folgenden Pr\u00fcfingenieur genannt - ist, wer als solcher von der obersten Bauaufsichtsbeh\u00f6rde zugelassen wurde. Personen, die die Zulassung nicht besitzen, d\u00fcrfen diese Bezeichnung nicht f\u00fchren. Auf die Zulassung besteht kein Rechtsanspruch.</P><P>(3) Die Pr\u00fcf\u00e4mter und die Pr\u00fcfingenieure unterstehen der Fachaufsicht der obersten Bauaufsichtsbeh\u00f6rde oder der von ihr bestimmten Stelle.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002100307",
+        "name": "\u00a7 13",
+        "title": "Zulassung, Niederlassung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000300307"
+        },
+        "body": "<P>(1) Die Zulassung wird f\u00fcr folgende Fachrichtungen ausgesprochen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Metallbau</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Massivbau</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Holzbau.</LA></DD> </DL>Die Zulassung kann f\u00fcr eine oder mehrere Fachrichtungen ausgesprochen werden.</P><P>(2) Die Zulassung f\u00fcr eine Fachrichtung schlie\u00dft die Berechtigung zur Pr\u00fcfung einzelner Bauteile mit geringem Schwierigkeitsgrad der anderen Fachrichtungen nicht aus.</P><P>(3) Die Zulassung ist f\u00fcr eine bestimmte Niederlassung zu erteilen. Der Pr\u00fcfingenieur darf nicht an verschiedenen Orten Niederlassungen f\u00fcr seine T\u00e4tigkeit als Pr\u00fcfingenieur haben. Die \u00c4nderung der Anschrift ist der obersten Bauaufsichtsbeh\u00f6rde mitzuteilen. Der Pr\u00fcfingenieur darf seine Niederlassung nur mit Zustimmung der obersten Bauaufsichtsbeh\u00f6rde in eine andere Gemeinde verlegen.</P><P>(4) Die Zulassung wird f\u00fcr eine bestimmte Frist, h\u00f6chstens jedoch f\u00fcr f\u00fcnf Jahre erteilt. Sie kann auf Antrag jeweils um h\u00f6chstens f\u00fcnf Jahre verl\u00e4ngert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002200307",
+        "name": "\u00a7 14",
+        "title": "Voraussetzungen der Zulassung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000300307"
+        },
+        "body": "<P>(1) Als Pr\u00fcfingenieur kann auf Antrag zugelassen werden, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Hochschulstudium des Bauingenieurwesens erfolgreich abgeschlossen hat,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Ingenieur selbst\u00e4ndig oder beruflich in einer Bauaufsichtsbeh\u00f6rde oder als Hochschullehrer t\u00e4tig ist,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">mindestens zehn Jahre lang mit der Anfertigung von Standsicherheitsnachweisen und mit der technischen Bauleitung von Ingenieurbauten betraut war; der Antragsteller mu\u00df hierbei mindestens f\u00fcnf Jahre Standsicherheitsnachweise angefertigt haben und mindestens ein Jahr, h\u00f6chstens aber drei Jahre mit der technischen Bauleitung betraut gewesen sein, f\u00fcr die restlichen Jahre kann auch die Mitwirkung bei der Pr\u00fcfung von Standsicherheitsnachweisen angerechnet werden,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">das 35. Lebensjahr vollendet und das 65. Lebensjahr im Zeitpunkt der Antragstellung noch nicht \u00fcberschritten hat,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach seiner Pers\u00f6nlichkeit Gew\u00e4hr daf\u00fcr bietet, da\u00df er die Aufgaben eines Pr\u00fcfingenieurs ordnungsgem\u00e4\u00df erf\u00fcllen wird,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr einen Pr\u00fcfingenieur erforderlichen Fachkenntnisse und Erfahrungen besitzt,</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber eingehende Kenntnisse der einschl\u00e4gigen baurechtlichen Vorschriften verf\u00fcgt.</LA></DD> </DL> </P><P>(2) Die oberste Bauaufsichtsbeh\u00f6rde kann Ausnahmen von den Voraussetzungen des Absatzes 1 Ziffern 1. und 3. gestatten.</P><P>(3) Die Zulassung ist zu versagen, wenn der Antragsteller <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zulassungsvoraussetzungen nach Absatz 1 nicht nachgewiesen hat,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die F\u00e4higkeit, \u00f6ffentliche \u00c4mter zu bekleiden, verloren hat,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">als Unternehmer in der Bauwirtschaft t\u00e4tig ist,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem beruflichen, finanziellen oder sonstigen Abh\u00e4ngigkeitsverh\u00e4ltnis insbesondere zu Unternehmen der Bauwirtschaft steht, das seine unparteiische Pr\u00fcfungst\u00e4tigkeit beeinflussen kann,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einem ordentlichen Strafverfahren wegen einer vors\u00e4tzlichen Tat rechtskr\u00e4ftig zu einer Freiheitsstrafe von mindestens sechs Monaten verurteilt worden ist und wenn sich aus dem der Verurteilung zugrunde liegenden Sachverhalt ergibt, da\u00df der Antragsteller zur Erf\u00fcllung der Berufsaufgaben nach \u00a7 20 Abs. 1 nicht geeignet ist,</LA></DD> <DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">durch gerichtliche Anordnung in der Verf\u00fcgung \u00fcber sein Verm\u00f6gen beschr\u00e4nkt ist,</LA></DD> <DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht gen\u00fcgend Gew\u00e4hr daf\u00fcr bietet, da\u00df er neben der Pr\u00fcft\u00e4tigkeit andere T\u00e4tigkeiten nur in solchem Umfang aus\u00fcben wird, da\u00df die ordnungsgem\u00e4\u00dfe Erf\u00fcllung seiner Pflichten als Pr\u00fcfingenieur, insbesondere seiner \u00dcberwachungspflicht, nach \u00a7 20 Abs. 2 gew\u00e4hrleistet ist.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002300307",
+        "name": "\u00a7 15",
+        "title": "Zulassungsverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000300307"
+        },
+        "body": "<P>(1) Der Antrag auf Zulassung ist an die oberste Bauaufsichtsbeh\u00f6rde zu richten.</P><P>(2) Dem Antrag sind die erforderlichen Angaben und Nachweise beizuf\u00fcgen, insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Lebenslauf mit l\u00fcckenloser Angabe des fachlichen Werdeganges bis zum Zeitpunkt der Antragstellung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Nachweise nach \u00a7 14 Abs. 1 Ziffern 1., 3., 4. und 7., insbesondere<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">beglaubigte Abschriften des Abschlu\u00dfzeugnisses der Hochschule und aller Zeugnisse \u00fcber die bisherige T\u00e4tigkeit,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Nachweis, da\u00df der Antragsteller die nach \u00a7 14 Abs. 1 Ziffern 3. und 7. geforderten Voraussetzungen erf\u00fcllt hat; dabei sind Ort, Zeit, Ausf\u00fchrungsart, Bauherr, die Art der vom Antragsteller geleisteten Arbeiten bei schwierigen Bauvorhaben und die Stellen oder Personen anzugeben, die die vom Antragsteller aufgestellten technischen Vorlagen gepr\u00fcft haben,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">ein Verzeichnis von Personen, die \u00fcber die Eignung des Antragstellers Auskunft geben k\u00f6nnen; hierbei ist anzugeben, bei welchem Vorhaben und zu welcher Zeit der Antragsteller mit diesen Personen zusammengearbeitet hat,</LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein F\u00fchrungszeugnis,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erkl\u00e4rung, da\u00df Versagungsgr\u00fcnde nach \u00a7 14 Abs. 3 nicht vorliegen,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben \u00fcber etwaige Niederlassungen,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber eine etwaige Beteiligung an einer Ingenieurgesellschaft und</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Nachweis, da\u00df im Falle der Zulassung eine ausreichende Haftpflichtversicherung f\u00fcr Personen-, Sach- und Verm\u00f6genssch\u00e4den besteht.</LA></DD> </DL> </P><P>(3) In dem Antrag ist ferner anzugeben, f\u00fcr welche Fachrichtung (\u00a7 13) die Zulassung beantragt wird und in welcher Gemeinde der Antragsteller sich als Pr\u00fcfingenieur niederzulassen beabsichtigt.</P><P>(4) Die oberste Bauaufsichtsbeh\u00f6rde kann weitere Unterlagen verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002400307",
+        "name": "\u00a7 16",
+        "title": "Gutachten, Gutachterausschu\u00df",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000300307"
+        },
+        "body": "<P>(1) \u00dcber die fachliche Eignung des Antragstellers kann die oberste Bauaufsichtsbeh\u00f6rde vor der Zulassung ein schriftliches Gutachten einholen. Das Gutachten wird von einem bei der obersten Bauaufsichtsbeh\u00f6rde einzurichtenden Gutachterausschu\u00df erstattet.</P><P>(2) Der Gutachterausschu\u00df kann verlangen, da\u00df der Antragsteller seine Kenntnisse schriftlich und m\u00fcndlich nachweist.</P><P>(3) Die oberste Bauaufsichtsbeh\u00f6rde beruft auf die Dauer von f\u00fcnf Jahren den Vorsitzenden und die weiteren Mitglieder des Gutachterausschusses und regelt dessen Gesch\u00e4ftsf\u00fchrung. Die Mitglieder des Gutachterausschusses sind unabh\u00e4ngig und an Weisungen nicht gebunden. Sie sind zu Unparteilichkeit und Verschwiegenheit verpflichtet. Sie sind ehrenamtlich t\u00e4tig und haben Anspruch auf Ersatz der Reisekosten und der notwendigen Auslagen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002500307",
+        "name": "\u00a7 17",
+        "title": "Erl\u00f6schen, R\u00fccknahme und Widerruf der Zulassung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000300307"
+        },
+        "body": "<P>(1) Die Zulassung erlischt <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">durch schriftlichen Verzicht gegen\u00fcber der obersten Bauaufsichtsbeh\u00f6rde,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Pr\u00fcfingenieur das 68. Lebensjahr vollendet hat.</LA></DD> </DL> </P><P>(2) Die Zulassung ist zur\u00fcckzunehmen, wenn nachtr\u00e4glich Gr\u00fcnde nach \u00a7 14 Abs. 3 bekannt werden, die eine Versagung der Anerkennung gerechtfertigt h\u00e4tten.</P><P>(3) Die Zulassung ist zu widerrufen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nachtr\u00e4glich Gr\u00fcnde nach \u00a7 14 Abs. 3 eintreten, die eine Versagung der Zulassung rechtfertigen w\u00fcrden,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Pr\u00fcfingenieur infolge geistiger oder k\u00f6rperlicher Gebrechen nicht mehr in der Lage ist, seine T\u00e4tigkeit ordnungsgem\u00e4\u00df auszu\u00fcben,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Pr\u00fcfingenieur an verschiedenen Orten Niederlassungen als Pr\u00fcfingenieur einrichtet,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Pr\u00fcfingenieur gegen die ihm obliegenden Pflichten wiederholt oder gr\u00f6blich versto\u00dfen hat,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 15 Abs. 2 Ziff. 7. geforderte Versicherungsschutz nicht mehr besteht.</LA></DD> </DL> </P><P>(4) Die Zulassung kann widerrufen werden, wenn der Pr\u00fcfingenieur seine Pflichten als Ingenieur gr\u00f6blich verletzt hat.</P><P>(5) Personen, die bisher als \"Pr\u00fcfingenieur der Staatlichen Bauaufsicht\" zugelassen wurden, gelten gem\u00e4\u00df \u00a7 12 Abs. 2 weiterhin als Pr\u00fcfingenieur zugelassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014000990BJNG000400307",
+        "name": "Zweiter Abschnitt",
+        "title": "Bautechnische Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000200307"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002600307",
+        "name": "\u00a7 18",
+        "title": "\u00dcbertragung von Pr\u00fcfaufgaben",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000400307"
+        },
+        "body": "<P>(1) Die untere Bauaufsichtsbeh\u00f6rde kann die Pr\u00fcfung der Standsicherheitsnachweise, der Nachweise der Feuerwiderstandsklasse der tragenden Bauteile und der Nachweise des Schallschutzes einem Pr\u00fcfamt f\u00fcr Bautechnik oder einem Pr\u00fcfingenieur \u00fcbertragen. Das gilt nicht f\u00fcr Standsicherheitsnachweise f\u00fcr Tragwerke von sehr geringem Schwierigkeitsgrad.</P><P>(2) Die untere Bauaufsichtsbeh\u00f6rde kann ferner Teile der Bau\u00fcberwachung (\u00a7 78 BauO) sowie Teile der Bauzustandsbesichtigungen (\u00a7 79 BauO) einem Pr\u00fcfamt oder Pr\u00fcfingenieur \u00fcbertragen. Die \u00dcbertragung beschr\u00e4nkt sich auf die in Absatz 1 genannten technischen Bereiche.</P><P>(3) Die oberste Bauaufsichtsbeh\u00f6rde kann anordnen, da\u00df bestimmte Arten von Bauvorhaben nur durch ein Pr\u00fcfamt oder durch bestimmte Pr\u00fcfingenieure gepr\u00fcft werden d\u00fcrfen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002700307",
+        "name": "\u00a7 19",
+        "title": "Erteilung von Pr\u00fcfauftr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000400307"
+        },
+        "body": "<P>(1) Der Pr\u00fcfauftrag wird von der unteren Bauaufsichtsbeh\u00f6rde erteilt. Sie darf diese einem Pr\u00fcfingenieur nur in den Fachrichtungen erteilen, f\u00fcr die er zugelassen ist. Auf die Erteilung von Pr\u00fcfauftr\u00e4gen besteht kein Rechtsanspruch. Pr\u00fcfauftr\u00e4ge d\u00fcrfen nur aus zwingenden Gr\u00fcnden abgelehnt werden.</P><P>(2) Die untere Bauaufsichtsbeh\u00f6rde kann in begr\u00fcndeten F\u00e4llen, insbesondere wenn Pr\u00fcfauftr\u00e4ge nicht rechtzeitig erledigt werden, den Pr\u00fcfauftrag zur\u00fcckziehen und die Unterlagen zur\u00fcckfordern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002800307",
+        "name": "\u00a7 20",
+        "title": "Ausf\u00fchrung von Pr\u00fcfauftr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000400307"
+        },
+        "body": "<P>(1) Der Pr\u00fcfingenieur hat seine Pr\u00fcft\u00e4tigkeit unparteiisch und gewissenhaft gem\u00e4\u00df den bauaufsichtlichen Vorschriften und den allgemein anerkannten Regeln der Technik auszu\u00fcben, \u00fcber die er sich stets auf dem laufenden zu halten hat.</P><P>(2) Der Pr\u00fcfingenieur darf sich der Mithilfe von bef\u00e4higten und zuverl\u00e4ssigen fest angestellten Mitarbeitern nur in einem solchen Umfang bedienen, da\u00df er ihre T\u00e4tigkeit voll \u00fcberwachen kann. Der Pr\u00fcfingenieur kann sich nur durch einen anderen Pr\u00fcfingenieur derselben Fachrichtung vertreten lassen.</P><P>(3) Das Pr\u00fcfamt oder der Pr\u00fcfingenieur haben die Vollst\u00e4ndigkeit und Richtigkeit der Standsicherheitsnachweise, der \u00fcbrigen bautechnischen Nachweise und der dazugeh\u00f6rigen Zeichnungen in einem Pr\u00fcfbericht zu bescheinigen. In dem Pr\u00fcfbericht haben sie die untere Bauaufsichtsbeh\u00f6rde auch auf Besonderheiten hinzuweisen, die bei der Erteilung der Baugenehmigung sowie bei der \u00dcberwachung und den Bauzustandsbesichtigungen (\u00a7\u00a7 78, 79 BauO) sowie der Gebrauchsabnahme (\u00a7 74 Abs. 7 BauO) zu beachten sind. Liegen den Standsicherheitsnachweisen und den \u00fcbrigen bautechnischen Nachweisen Abweichungen von den nach \u00a7 3 Abs. 3 BauO eingef\u00fchrten technischen Baubestimmungen zugrunde, so ist in dem Pr\u00fcfbericht darzulegen, aus welchen Gr\u00fcnden die Abweichung f\u00fcr gerechtfertigt gehalten wird.</P><P>(4) Pr\u00fcfauftr\u00e4ge nach \u00a7 18 Abs. 2 d\u00fcrfen nur von geeigneten Fachkr\u00e4ften der Pr\u00fcf\u00e4mter oder von den Pr\u00fcfingenieuren pers\u00f6nlich ausgef\u00fchrt werden. Umfang und Ergebnisse der Pr\u00fcfungen sind in einem Bericht niederzulegen, der der unteren Bauaufsichtsbeh\u00f6rde zuzuleiten ist. Werden bei den Pr\u00fcfungen festgestellte M\u00e4ngel trotz Aufforderung durch das Pr\u00fcfamt oder den Pr\u00fcfingenieur nicht beseitigt, haben sie hiervon die untere Bauaufsichtsbeh\u00f6rde unverz\u00fcglich zu unterrichten. Dabei sollen sie auch Ma\u00dfnahmen vorschlagen, die sie f\u00fcr die Beseitigung der M\u00e4ngel geeignet halten.</P><P>(5) Ergibt sich, da\u00df die Pr\u00fcfung wichtiger oder statisch schwieriger Teile einer baulichen Anlage zu einer Fachrichtung geh\u00f6rt, f\u00fcr die der mit der Pr\u00fcfung beauftragte Pr\u00fcfingenieur nicht zugelassen ist (\u00a7 13 Abs. 1), so ist er verpflichtet, bei der unteren Bauaufsichtsbeh\u00f6rde, die ihm den Auftrag erteilt hat, die Zuziehung eines Pr\u00fcfingenieurs zu veranlassen, der f\u00fcr diese Fachrichtung zugelassen ist.</P><P>(6) Der Pr\u00fcfingenieur darf die Pr\u00fcfung nicht durchf\u00fchren, wenn er oder einer seiner Mitarbeiter den Entwurf oder die Berechnung aufgestellt oder dabei mitgewirkt hat.</P><P>(7) Das Pr\u00fcfamt oder der Pr\u00fcfingenieur tragen gegen\u00fcber der unteren Bauaufsichtsbeh\u00f6rde die Verantwortung f\u00fcr die Vollst\u00e4ndigkeit und Richtigkeit der Pr\u00fcfung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE002900307",
+        "name": "\u00a7 21",
+        "title": "Typenpr\u00fcfung - Pr\u00fcfung Fliegender Bauten",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000400307"
+        },
+        "body": "<P>(1) F\u00fcr bauliche Anlagen und Bauteile, die in gleicher Ausf\u00fchrung an mehreren Stellen errichtet oder verwendet werden, k\u00f6nnen mit dem Bauantrag bereits gepr\u00fcfte Nachweise der Standsicherheit und des Schallschutzes eingereicht werden; diese Nachweise m\u00fcssen von einem Pr\u00fcfamt allgemein gepr\u00fcft sein (Typenpr\u00fcfung).</P><P>(2) Die Geltungsdauer einer Typenpr\u00fcfung ist unter dem Vorbehalt des Widerrufs auf h\u00f6chstens f\u00fcnf Jahre zu befristen. Sie kann auf schriftlichen Antrag um jeweils h\u00f6chstens f\u00fcnf Jahre verl\u00e4ngert werden.</P><P>(3) Die Nachweise der Standsicherheit Fliegender Bauten d\u00fcrfen nur von einem Pr\u00fcfamt gepr\u00fcft werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014000990BJNG000500307",
+        "name": "Dritter Teil",
+        "title": "\u00dcberwachung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE003000307",
+        "name": "\u00a7 22",
+        "title": "\u00dcberwachungspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000500307"
+        },
+        "body": "<P>(1) Bei der Errichtung und \u00c4nderung baulicher Anlagen d\u00fcrfen folgende Bauprodukte, an die wegen der Standsicherheit, des Brandschutzes, des W\u00e4rmeschutzes, des Schallschutzes oder des Gesundheitsschutzes bauaufsichtliche Anforderungen gestellt werden und f\u00fcr die technische Baubestimmungen nach \u00a7 3 Abs. 3 BauO eingef\u00fchrt sind, nur verwendet werden, wenn sie aus Herstellungsbetrieben stammen, die einer \u00dcberwachung unterliegen. Werden f\u00fcr diese Bauprodukte \u00fcberwachungspflichtige Ausgangsstoffe oder -teile verwendet, so m\u00fcssen diese Ausgangsstoffe oder -teile ebenfalls einer \u00fcberwachten Herstellung entstammen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">K\u00fcnstliche Wand- und Deckensteine</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Formst\u00fccke f\u00fcr Schornsteine</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bindemittel f\u00fcr M\u00f6rtel und Beton</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Werkfrischmauerm\u00f6rtel und Werktrockenmauerm\u00f6rtel</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betonzuschlagstoffe</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beton &gt; BK 35, Transportbeton einschlie\u00dflich Trockenbeton</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betonstahl und durch Widerstandspunktschwei\u00dfen hergestellte Bewehrung</LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">D\u00e4mmstoffe f\u00fcr den Schall- und W\u00e4rmeschutz</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bauplatten</LA></DD> <DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorgefertigte Bauteile aus Beton, Gasbeton, Leichtbeton, Stahlbeton, Spannbeton, Stahlleichtbeton, glasfaserbewehrter Beton und Ziegel</LA></DD> <DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorgefertigte Wand-, Decken- und Dachelemente in Wand/Tafelbauweise</LA></DD> <DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">Feuerschutzabschl\u00fcsse (Klappen, T\u00fcren, Tore)</LA></DD> <DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fahrschachtt\u00fcren f\u00fcr feuerbest\u00e4ndige Schachtw\u00e4nde</LA></DD> <DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">Lager unter Verwendung von Kunststoffen</LA></DD> <DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kaltgeformte Bleche aus Baustahl im Hochbau</LA></DD> <DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betonzusatzmittel und Betonzusatzstoffe.</LA></DD> </DL> </P><P>(2) Die Art der \u00dcberwachung von Bauprodukten und Bauarten, die einer allgemeinen bauaufsichtlichen Zulassung bed\u00fcrfen, ist in der Zulassung festzulegen.</P><P>(3) Die Anwendung der in Absatz 1 genannten Bauprodukte, die aus Herstellerbetrieben stammen, die einer \u00dcberwachung nicht unterliegen, kann auf Antrag von dem f\u00fcr den Sitz des Herstellers territorial zust\u00e4ndigen Pr\u00fcfamt f\u00fcr Bautechnik gestattet werden, wenn der Nachweis der ordnungsgem\u00e4\u00dfen Herstellung der Bauprodukte im Einzelfall erbracht ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE003100307",
+        "name": "\u00a7 23",
+        "title": "\u00dcberwachungsverfahren und \u00dcberwachungsstellen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000500307"
+        },
+        "body": "<P>(1) Das \u00dcberwachungsverfahren erfolgt nach <DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>DIN 18.200 -</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcberwachung (G\u00fcte\u00fcberwachung) von Baustoffen, Bauteilen und Bauarten; Allgemeine Grunds\u00e4tze</LA></DD> </DL></LA></DD></DL></LA></DD></DL></LA></DD></DL>Die \u00dcberwachung erfolgt auf der Grundlage eines \u00dcberwachungsvertrages zwischen \u00dcberwachungsstelle und Herstellerbetrieb. Die abgeschlossenen Vertr\u00e4ge bed\u00fcrfen zum bauaufsichtlichen Wirksamwerden der Zustimmung des Zentralen Pr\u00fcfamtes f\u00fcr Bautechnik, welches einen Mustervertrag auf Anforderung zur Verf\u00fcgung stellt. <BR />F\u00fcr die Durchf\u00fchrung des \u00dcberwachungsverfahrens bei \u00dcberwachungsgemeinschaften gelten die Regelungen des Zentralen Pr\u00fcfamtes f\u00fcr Bautechnik.</P><P>(2) Als \u00dcberwachungsstellen gelten zugelassene (akkreditierte) \u00dcberwachungsgemeinschaften (G\u00fcteschutzgemeinschaften), amtliche Materialpr\u00fcf\u00e4mter und sonstige Pr\u00fcfstellen. Die Akkreditierung erfolgt durch das Zentrale Pr\u00fcfamt f\u00fcr Bautechnik nach Konsultation mit der territorial zust\u00e4ndigen Bauaufsichtsbeh\u00f6rde. Das Verzeichnis der \u00dcberwachungsstellen und deren Pr\u00fcfgebiete sind j\u00e4hrlich im Mitteilungsblatt des Zentralen Pr\u00fcfamtes f\u00fcr Bautechnik zu ver\u00f6ffentlichen. <BR />F\u00fcr die Akkreditierung ist ein formloser Antrag an das Zentrale Pr\u00fcfamt f\u00fcr Bautechnik einzureichen. Dem Antrag sind beizuf\u00fcgen: <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Satzung der \u00dcberwachungsstelle,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterlagen \u00fcber das \u00dcberwachungsverfahren,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Nachweise \u00fcber die Erf\u00fcllung der Akkreditierungskriterien wie \"Rechtliche Identifizierbarkeit\", \"Technische Kompetenz\", \"R\u00e4umlichkeiten und (Labor-) Einrichtungen\", \"Personal\" und \"Unparteilichkeit, Unabh\u00e4ngigkeit, Integrit\u00e4t\",</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">als Vorschlag der Entwurf des einzuf\u00fchrenden Bildzeichens bzw. die Wortbezeichnung der \u00dcberwachungsstelle und die Darstellung der Einordnung des Bildzeichens bzw. der Wortbezeichnung in das einheitliche \u00dcberwachungszeichen gem\u00e4\u00df \u00a7 24.</LA></DD> </DL>Zugelassene \u00dcberwachungsstellen anderer L\u00e4nder werden anerkannt, wenn diese gegen\u00fcber dem Zentralen Pr\u00fcfamt f\u00fcr Bautechnik die Einhaltung der Zulassungsbedingungen auf geeignete Weise nachweisen. <BR />Die Akkreditierung ist geb\u00fchrenpflichtig. Ein Rechtsanspruch auf Akkreditierung besteht nicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE003200307",
+        "name": "\u00a7 24",
+        "title": "\u00dcberwachungszeichen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000500307"
+        },
+        "body": "<P>(1) Das einheitliche \u00dcberwachungszeichen besteht aus dem Gro\u00dfbuchstaben \"\u00dc\" in einer Mindestgr\u00f6\u00dfe von 4,5 cm X 6 cm. Im Bogen dieses Buchstabens ist das Wort \"\u00fcberwacht\" enthalten. Auf der vom Buchstaben \"\u00dc\" umschlossenen Innenfl\u00e4che, oder falls das nicht m\u00f6glich ist, unmittelbar neben dem Buchstaben, ist das Bildzeichen der \u00dcberwachungsstelle oder, wenn dieses nicht eindeutig gestaltet werden kann, die \u00dcberwachungsstelle durch Worte anzugeben. Die \u00dcberwachungsgrundlage ist durch Angabe der betreffenden Norm und der Zulassungsnummer in das \u00dcberwachungszeichen einzuordnen. Letzteres kann bei \u00dcberwachungszeichen auf Lieferscheinen entfallen, wenn auf diesen das Produkt mit diesen Angaben beschrieben ist.</P><P>(2) Hersteller, die nach den Satzungen und Richtlinien von bauaufsichtlich anerkannten \u00dcberwachungs-/G\u00fcteschutzgemeinschaften berechtigt sind, deren \u00dcberwachungs-/G\u00fctezeichen zu f\u00fchren, sind berechtigt, auch das einheitliche \u00dcberwachungszeichen zu f\u00fchren. Wird das Recht zur F\u00fchrung des \u00dcberwachungs-/G\u00fctezeichens entzogen oder eingeschr\u00e4nkt, so gilt das in gleichem Ma\u00dfe und ab gleichem Zeitpunkt auch f\u00fcr die F\u00fchrung des einheitlichen \u00dcberwachungszeichens. Das gilt auch f\u00fcr Hersteller, die mit einer bauaufsichtlich anerkannten Pr\u00fcfstelle einen bauaufsichtlich rechtswirksamen \u00dcberwachungsvertrag abgeschlossen haben.</P><P>(3) Der Nachweis der \u00dcberwachung gilt als erbracht, wenn die gem\u00e4\u00df \u00a7 22 \u00fcberwachungspflichtigen Bauprodukte, oder wenn dies nicht m\u00f6glich ist, ihre Verpackung oder der Lieferschein durch das einheitliche \u00dcberwachungszeichen gekennzeichnet sind.</P><P>(4) Das einheitliche \u00dcberwachungszeichen ist ab 1. Januar 1991 zu verwenden. Soweit f\u00fcr die F\u00fchrung des einheitlichen \u00dcberwachungszeichens Erg\u00e4nzungen der Satzungen von \u00dcberwachungsgemeinschaften oder Erg\u00e4nzungen abgeschlossener \u00dcberwachungsvertr\u00e4ge notwendig sind, bed\u00fcrfen diese nicht der Zustimmung des Zentralen Pr\u00fcfamtes f\u00fcr Bautechnik.</P><P>(5) Zu den getroffenen Entscheidungen \u00fcber die Akkreditierung bzw. Nichtakkreditierung von \u00dcberwachungsstellen kann schriftlich Widerspruch erhoben werden. Die endg\u00fcltige Entscheidung trifft der Leiter des Zentralen Pr\u00fcfamtes f\u00fcr Bautechnik.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "DDNR014000990BJNG000600307",
+        "name": "Vierter Teil",
+        "title": "Schlu\u00dfvorschrift",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE003300307",
+        "name": "\u00a7 25",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000600307"
+        },
+        "body": "<P>Diese Anordnung tritt mit ihrer Ver\u00f6ffentlichung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE003400307",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000600307"
+        },
+        "body": "<P><B>Der Minister f\u00fcr Bauwesen, St\u00e4dtebau und Wohnungswirtschaft</B></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "DDNR014000990BJNE003500307",
+        "name": "Anlage",
+        "title": "zur BauVorl-/BauPr\u00fcf-/\u00dcbAO (zu \u00a7 2 Abs. 4, \u00a7 3 Abs. 4)\n<BR />\nZeichen f\u00fcr Bauvorlagen",
+        "parent": {
+          "type": "heading",
+          "id": "DDNR014000990BJNG000600307"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\"> Fundstelle des Originaltextes: GBl. I 1990 Nr. 57, S. 1406 - 1408 </kommentar> <BR /> <DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Lageplan</LA></DD> <DT>1.1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorhandene \u00f6ffentliche Verkehrsfl\u00e4chen</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>1.2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Festgesetzte, aber noch nicht vorhandene Verkehrsfl\u00e4chen</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>1.3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorhandene bauliche Anlagen</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>1.4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geplante bauliche Anlagen</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>1.5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zu beseitigende bauliche Anlagen</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>1.6.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00d6ffentliche Gr\u00fcnfl\u00e4chen</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  </DL></LA></DD></DL>F\u00fcr die Darstellung der jeweiligen Gr\u00fcnfl\u00e4chen <BR />Parkanlage <ABWFORMAT typ=\"A\" />... (nicht darstellbar) <BR />Camping- und Wochenendplatz <ABWFORMAT typ=\"A\" />... (nicht darstellbar) <BR />Badeplatz <ABWFORMAT typ=\"A\" />... (nicht darstellbar) <BR />Friedhof <ABWFORMAT typ=\"A\" />... (nicht darstellbar) <BR />Dauerkleing\u00e4rten <ABWFORMAT typ=\"A\" />... (nicht darstellbar) <BR />Sportplatz <ABWFORMAT typ=\"A\" />... (nicht darstellbar) <BR />Kinderspielfl\u00e4chen <ABWFORMAT typ=\"A\" />... (nicht darstellbar) <DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>1.7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grenzen des Grundst\u00fccks</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>1.8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Begrenzung von Abstandfl\u00e4chen</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>1.9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fl\u00e4chen, die von Baulasten betroffen sind</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bauzeichnungen</LA></DD> <DT>2.1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorhandene Bauteile</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>2.2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorgesehene Bauteile</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>2.3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zu beseitigende Bauteile</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>  <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Grundst\u00fccksentw\u00e4sserung</LA></DD> <DT>3.1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorhandene Anlagen<DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\">Schmutzwasserleitung</LA><LA Size=\"normal\">Regenwasserleitung</LA><LA Size=\"normal\">Mischwasserleitung</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>    </DL></LA></DD></DL></LA></DD> <DT>3.2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Geplante Anlagen<DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\">Schmutzwasserleitung</LA><LA Size=\"normal\">Regenwasserleitung</LA><LA Size=\"normal\">Mischwasserleitung</LA><LA Size=\"normal\"><ABWFORMAT typ=\"A\" />... (nicht darstellbar)</LA></DD>    </DL></LA></DD></DL></LA></DD> </DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

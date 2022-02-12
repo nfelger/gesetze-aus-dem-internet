@@ -1,0 +1,48 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR159000012",
+    "firstPublished": "2012-07-21",
+    "sourceTimestamp": "20131008093802",
+    "titleShort": "Wehrverwaltungsaufgaben\u00fcbertragungsgesetz",
+    "titleLong": "Gesetz zur \u00dcbertragung von Aufgaben der Bundeswehrverwaltung auf neue Beh\u00f6rden der Personalmanagementorganisation der Bundeswehr",
+    "abbreviation": "WVwA\u00dcG",
+    "slug": "wvwaueg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2012, 1583, 1590",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.12.2012 +++)<BR /> <BR />Das G wurde als Artikel 3a des G v. 21.7.2012 I 1583 vom Bundestag beschlossen. <BR />Es tritt gem. Art. 18 Abs. 2a dieses G am 1.12.2012 in Kraft.</pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR159000012BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Bundesamt f\u00fcr das Personalmanagement der Bundeswehr",
+        "parent": null,
+        "body": "<P>Dem Bundesamt f\u00fcr das Personalmanagement der Bundeswehr werden die Aufgaben und Befugnisse des Bundesamtes f\u00fcr Wehrverwaltung und der Wehrbereichsverwaltungen \u00fcbertragen, die diese wahrnehmen nach <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>dem Wehrpflichtgesetz,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>dem Soldatengesetz,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Zweiten Bundesmeldedaten\u00fcbermittlungsverordnung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der KV-/PV-Pauschalbeitragsverordnung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>der RV-Wehr- und Zivildienstpauschalbeitragsverordnung,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>der Unabk\u00f6mmlichstellungsverordnung,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>der Verordnung \u00fcber die Feststellung und Deckung des Arbeitskr\u00e4ftebedarfs nach dem Arbeitssicherstellungsgesetz,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>der Berufsf\u00f6rderungsverordnung und</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>der Personalaktenverordnung Soldaten.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR159000012BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Karrierecenter der Bundeswehr",
+        "parent": null,
+        "body": "<P>Die Aufgaben und Befugnisse, die in Rechtsvorschriften des Bundes den Kreiswehrersatz\u00e4mtern zugewiesen sind, werden den Karrierecentern der Bundeswehr \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

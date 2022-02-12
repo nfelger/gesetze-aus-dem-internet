@@ -1,0 +1,93 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR016020982",
+    "firstPublished": "1982-12-03",
+    "sourceTimestamp": "20130405125801",
+    "titleShort": null,
+    "titleLong": "Verordnung \u00fcber Standardregistrierungen von Arzneimitteln",
+    "abbreviation": "StandRegV",
+    "slug": "standregv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1982, 1602",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 1 V v. 7.7.2007 I 1387",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 9.12.1982 +++)</P><P><BR /> \u00dcberschrift: IdF d. Art. 1 Nr. 1 V v. 18.12.1992 I 2077 mWv 24.12.1992</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR016020982BJNE000100311",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 39 Abs. 3 des Arzneimittelgesetzes vom 24. August 1976 (BGBl. I S. 2445, 2448) wird im Einvernehmen mit dem Bundesminister f\u00fcr Ern\u00e4hrung, Landwirtschaft und Forsten mit Zustimmung des Bundesrates verordnet:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016020982BJNE000200311",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": null,
+        "body": "<P>Hom\u00f6opathische Arzneimittel sind von der Pflicht zur Einzelregistrierung nach \u00a7 38 Abs. 1 Satz 1 freigestellt, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie im Hom\u00f6opathischen Arzneibuch monographisch beschrieben und in der Anlage aufgef\u00fchrt sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie den Anforderungen des Hom\u00f6opathischen Arzneibuches und der Anlage entsprechen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr sie keine Zulassung erteilt ist (Standardregistrierung).</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016020982BJNE000301310",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": null,
+        "body": "<P>Arzneimittel, die sich am 19. Juli 2007 im Verkehr befinden und den Vorschriften dieser Verordnung in der bis zum 19. Juli 2007 geltenden Fassung entsprechen, m\u00fcssen ab dem 1. Januar 2009 vom pharmazeutischen Unternehmer entsprechend den \u00a7\u00a7 10 und 11 des Arzneimittelgesetzes in der jeweils geltenden Fassung gekennzeichnet und mit einer Packungsbeilage versehen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016020982BJNE000400311",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016020982BJNE000500311",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": null,
+        "body": "<P><SP>Der Bundesminister f\u00fcr Jugend, Familie und Gesundheit</SP></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016020982BJNE000602314",
+        "name": "Anlage",
+        "title": "Standardregistrierungen\n<BR />\n- Anlage zur Verordnung \u00fcber Standardregistrierungen -",
+        "parent": null,
+        "body": "<P><ABWFORMAT typ=\"E\" /><kommentar typ=\"Fundstelle\">(Inhalt: nicht erfa\u00dfter Anlagenband, <BR />Fundstelle: BGBl. I Nr. 47 v. 8.12.1982 (Anlagenband II)</kommentar>)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

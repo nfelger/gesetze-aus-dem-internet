@@ -1,0 +1,313 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR035400021",
+    "firstPublished": "2021-03-18",
+    "sourceTimestamp": "20210701213002",
+    "titleShort": "Geb\u00e4ude-Elektromobilit\u00e4tsinfrastruktur-Gesetz",
+    "titleLong": "Gesetz zum Aufbau einer geb\u00e4udeintegrierten Lade- und Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t<FnR ID=\"F815397_01_BJNR035400021\" />",
+    "abbreviation": "GEIG",
+    "slug": "geig",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2021, 354",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"F815397_01_BJNR035400021\" Pos=\"normal\"><noindex>Dieses Gesetz dient der Umsetzung von Artikel 8 Absatz 2 bis 6 der Richtlinie (EU) 2018/844 des Europ\u00e4ischen Parlaments und des Rates vom 30. Mai 2018 zur \u00c4nderung der Richtlinie 2010/31/EU \u00fcber die Gesamtenergieeffizienz von Geb\u00e4uden und der Richtlinie 2012/27/EU \u00fcber Energieeffizienz (ABl. L 156 vom 19.6.2018, S. 75).</noindex></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 25.3.2021 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Umsetzung der<BR />       EURL 2018/844            (CELEX Nr: 32018L0844) +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR035400021BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Anwendungsbereich; Begriffsbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000100000"
+        },
+        "body": "<P>(1) Dieses Gesetz regelt die Errichtung von und die Ausstattung mit der vorbereitenden Leitungsinfrastruktur und der Ladeinfrastruktur f\u00fcr die Elektromobilit\u00e4t in zu errichtenden und bestehenden Geb\u00e4uden.</P><P>(2) Dieses Gesetz ist nicht anzuwenden auf Nichtwohngeb\u00e4ude, die sich im Eigentum von kleinen und mittleren Unternehmen befinden und \u00fcberwiegend von diesen selbst genutzt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000100000"
+        },
+        "body": "<P>Im Sinne dieses Gesetzes ist oder sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u201eEigent\u00fcmer\u201c der Eigent\u00fcmer des Geb\u00e4udes, bei einer Aufteilung nach dem Wohnungseigentumsgesetz auch die Gemeinschaft der Wohnungseigent\u00fcmer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u201eelektrische Infrastruktur\u201c der Teil der technischen Ausr\u00fcstung, der f\u00fcr den Betrieb aller elektrisch oder elektromotorisch betriebenen Anlagen des Geb\u00e4udes oder des Parkplatzes notwendig ist, einschlie\u00dflich der elektrischen Leitungen, der technischen Komponenten und der damit zusammenh\u00e4ngenden Ausstattung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>\u201eElektromobil\u201c ein elektrisch betriebenes Fahrzeug im Sinne von \u00a7 2 Nummer 1 in Verbindung mit \u00a7 1 Satz 1 Nummer 1 des Elektromobilit\u00e4tsgesetzes vom 5. Juni 2015 (BGBl. I S. 898), das durch Artikel 327 der Verordnung vom 19. Juni 2020 (BGBl. I S. 1328) ge\u00e4ndert worden ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>\u201eGeb\u00e4udenutzfl\u00e4che\u201c die Nutzfl\u00e4che eines Wohngeb\u00e4udes nach DIN V 18599: 2018-09<FnR ID=\"F815397_02_BJNR035400021BJNE000300000\" />, die beheizt oder gek\u00fchlt wird,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>\u201egr\u00f6\u00dfere Renovierung\u201c die Renovierung eines Geb\u00e4udes, bei der mehr als 25 Prozent der Oberfl\u00e4che der Geb\u00e4udeh\u00fclle einer Renovierung unterzogen werden,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>\u201ekleine und mittlere Unternehmen\u201c Unternehmen im Sinne der Definition in Titel I des Anhangs der Empfehlung 2003/361/EG der Kommission vom 6. Mai 2003 betreffend die Definition der Kleinstunternehmen sowie der kleinen und mittleren Unternehmen (ABl. L\u00a0124 vom 20.5.2003, S. 36),</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>\u201eKraftfahrzeuge\u201c Fahrzeuge im Sinne von \u00a7 1a Absatz 2 und 3 des Stra\u00dfenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. M\u00e4rz 2003 (BGBl. I S. 310, 919), das zuletzt durch Artikel 3 des Gesetzes vom 26. November 2020 (BGBl. I S. 2575) ge\u00e4ndert worden ist,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>\u201eLadeinfrastruktur\u201c die Summe aller elektrotechnischen Verbindungen, Mess-, Steuer- und Regelungseinrichtungen, einschlie\u00dflich \u00dcberstrom- und \u00dcberspannungsschutzeinrichtungen, die zur Installation, zum Betrieb und zur Steuerung von Ladepunkten f\u00fcr die Elektromobilit\u00e4t notwendig sind,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>\u201eLadepunkt\u201c eine Einrichtung, die zum Aufladen von Elektromobilen geeignet und bestimmt ist und an der zur gleichen Zeit nur ein Elektromobil aufgeladen werden kann,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>\u201eLeitungsinfrastruktur\u201c die Gesamtheit aller Leitungsf\u00fchrungen zur Aufnahme von elektro- und datentechnischen Leitungen in Geb\u00e4uden oder im r\u00e4umlichen Zusammenhang von Geb\u00e4uden vom Stellplatz \u00fcber den Z\u00e4hlpunkt eines Anschlussnutzers bis zu den Schutzelementen,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>\u201eNettogrundfl\u00e4che\u201c die Nutzfl\u00e4che eines Nichtwohngeb\u00e4udes nach DIN V 18599: 2018-09, die beheizt oder gek\u00fchlt wird,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>\u201eNichtwohngeb\u00e4ude\u201c ein Geb\u00e4ude, das kein Wohngeb\u00e4ude nach Nummer 15 ist,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>\u201eParkplatz\u201c eine zusammenh\u00e4ngende Fl\u00e4che, die aus mehreren Stellpl\u00e4tzen besteht,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA>\u201eStellplatz\u201c eine Fl\u00e4che, die dem Abstellen eines Kraftfahrzeugs au\u00dferhalb der \u00f6ffentlichen Verkehrsfl\u00e4chen dient, wobei Ausstellungs-, Verkaufs-, Werk- und Lagerr\u00e4ume f\u00fcr Kraftfahrzeuge keine Stellpl\u00e4tze sind,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA>\u201eWohngeb\u00e4ude\u201c ein Geb\u00e4ude, das nach seiner Zweckbestimmung \u00fcberwiegend dem Wohnen dient, einschlie\u00dflich Wohn-, Alten- und Pflegeheimen sowie \u00e4hnlicher Einrichtungen.</LA></DD></DL></P>",
+        "footnotes": "<Footnote FnZ=\"1\" Group=\"column\" ID=\"F815397_02_BJNR035400021BJNE000300000\" Pos=\"exp\">Amtlicher Hinweis: Alle zitierten DIN-Vornormen und -Normen sind im Beuth-Verlag GmbH, Berlin, ver\u00f6ffentlicht und beim Deutschen Patent- und Markenamt in M\u00fcnchen archivm\u00e4\u00dfig gesichert niedergelegt.</Footnote>",
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR035400021BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "An das Geb\u00e4ude angrenzende Stellpl\u00e4tze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000200000"
+        },
+        "body": "<P>An das Geb\u00e4ude angrenzende Stellpl\u00e4tze liegen vor, wenn der Parkplatz, auf dem sich die Stellpl\u00e4tze befinden, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>denselben Eigent\u00fcmer wie das Geb\u00e4ude hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>\u00fcberwiegend von den Bewohnern oder Nutzern des Geb\u00e4udes genutzt wird und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine unmittelbare physische oder technische Verbindung zum Geb\u00e4ude oder zu einem Geb\u00e4udeteil aufweist.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Leitungsinfrastruktur",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000200000"
+        },
+        "body": "<P>Die erforderliche Leitungsinfrastruktur umfasst eine geeignete Leitungsf\u00fchrung f\u00fcr Elektro- und Datenleitungen. Die verwendete Leitungsf\u00fchrung muss den daf\u00fcr geltenden elektro-, bau- und datentechnischen Vorschriften sowie den anerkannten Regeln der Technik gen\u00fcgen. Die Umsetzung kann durch Leerrohre, Kabelschutzrohre, Bodeninstallationssysteme, Kabelpritschen oder vergleichbare Ma\u00dfnahmen erfolgen. Die erforderliche Leitungsinfrastruktur umfasst mindestens auch den erforderlichen Raum f\u00fcr den Z\u00e4hlerplatz, den Einbau intelligenter Messsysteme f\u00fcr ein Lademanagement und die erforderlichen Schutzelemente.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Errichtung eines Ladepunktes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000200000"
+        },
+        "body": "<P>(1) Bei der Errichtung eines Ladepunktes sind die gesetzlichen Mindestanforderungen an den Aufbau und den Betrieb von Ladepunkten zu beachten.</P><P>(2) Die Mitteilungspflicht nach \u00a7 19 Absatz 2 der Niederspannungsanschlussverordnung vom 1. November 2006 (BGBl. I S. 2477), die zuletzt durch Artikel 3 der Verordnung vom 30. Oktober 2020 (BGBl. I S. 2269) ge\u00e4ndert worden ist, ist anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR035400021BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Zu errichtende Geb\u00e4ude",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Zu errichtende Wohngeb\u00e4ude mit mehr als f\u00fcnf Stellpl\u00e4tzen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000300000"
+        },
+        "body": "<P>Wer ein Wohngeb\u00e4ude errichtet, das \u00fcber mehr als f\u00fcnf Stellpl\u00e4tze innerhalb des Geb\u00e4udes oder \u00fcber mehr als f\u00fcnf an das Geb\u00e4ude angrenzende Stellpl\u00e4tze verf\u00fcgt, hat daf\u00fcr zu sorgen, dass jeder Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Zu errichtende Nichtwohngeb\u00e4ude mit mehr als sechs Stellpl\u00e4tzen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000300000"
+        },
+        "body": "<P>Wer ein Nichtwohngeb\u00e4ude errichtet, das \u00fcber mehr als sechs Stellpl\u00e4tze innerhalb des Geb\u00e4udes oder \u00fcber mehr als sechs an das Geb\u00e4ude angrenzende Stellpl\u00e4tze verf\u00fcgt, hat daf\u00fcr zu sorgen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>mindestens jeder dritte Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet wird und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zus\u00e4tzlich mindestens ein Ladepunkt errichtet wird.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR035400021BJNG000400000",
+        "name": "Abschnitt 4",
+        "title": "Bestehende Geb\u00e4ude",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Gr\u00f6\u00dfere Renovierung bestehender Wohngeb\u00e4ude mit mehr als zehn Stellpl\u00e4tzen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000400000"
+        },
+        "body": "<P>(1) Wird ein Wohngeb\u00e4ude, das \u00fcber mehr als zehn Stellpl\u00e4tze innerhalb des Geb\u00e4udes verf\u00fcgt, einer gr\u00f6\u00dferen Renovierung unterzogen, welche den Parkplatz oder die elektrische Infrastruktur des Geb\u00e4udes umfasst, so hat der Eigent\u00fcmer daf\u00fcr zu sorgen, dass jeder Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet wird.</P><P>(2) Wird ein Wohngeb\u00e4ude, das \u00fcber mehr als zehn an das Geb\u00e4ude angrenzende Stellpl\u00e4tze verf\u00fcgt, einer gr\u00f6\u00dferen Renovierung unterzogen, welche den Parkplatz oder die elektrische Infrastruktur des Parkplatzes umfasst, so hat der Eigent\u00fcmer daf\u00fcr zu sorgen, dass jeder Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Gr\u00f6\u00dfere Renovierung bestehender Nichtwohngeb\u00e4ude mit mehr als zehn Stellpl\u00e4tzen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000400000"
+        },
+        "body": "<P>(1) Wird ein Nichtwohngeb\u00e4ude, das \u00fcber mehr als zehn Stellpl\u00e4tze innerhalb des Geb\u00e4udes verf\u00fcgt, einer gr\u00f6\u00dferen Renovierung unterzogen, welche den Parkplatz oder die elektrische Infrastruktur des Geb\u00e4udes umfasst, so hat der Eigent\u00fcmer daf\u00fcr zu sorgen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>mindestens jeder f\u00fcnfte Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet wird und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zus\u00e4tzlich mindestens ein Ladepunkt errichtet wird.</LA></DD></DL></P><P>(2) Wird ein Nichtwohngeb\u00e4ude, das \u00fcber mehr als zehn an das Geb\u00e4ude angrenzende Stellpl\u00e4tze verf\u00fcgt, einer gr\u00f6\u00dferen Renovierung unterzogen, welche den Parkplatz oder die elektrische Infrastruktur des Parkplatzes umfasst, so hat der Eigent\u00fcmer daf\u00fcr zu sorgen, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>mindestens jeder f\u00fcnfte Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet wird und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zus\u00e4tzlich mindestens ein Ladepunkt errichtet wird.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Bestehende Nichtwohngeb\u00e4ude mit mehr als 20 Stellpl\u00e4tzen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000400000"
+        },
+        "body": "<P>(1) F\u00fcr jedes Nichtwohngeb\u00e4ude, das \u00fcber mehr als 20 Stellpl\u00e4tze innerhalb des Geb\u00e4udes oder \u00fcber mehr als 20 an das Geb\u00e4ude angrenzende Stellpl\u00e4tze verf\u00fcgt, hat der Eigent\u00fcmer daf\u00fcr zu sorgen, dass nach dem 1. Januar 2025 ein Ladepunkt errichtet wird.</P><P>(2) Hat ein Eigent\u00fcmer die Pflicht nach Absatz 1 f\u00fcr mehr als ein Nichtwohngeb\u00e4ude, so kann er die Pflicht auch dadurch erf\u00fcllen, dass er die Gesamtzahl der zu errichtenden Ladepunkte zusammen in einer oder mehreren seiner Liegenschaften errichtet, wenn dem bestehenden oder erwarteten Bedarf an Ladeinfrastruktur in den betroffenen Liegenschaften dadurch Rechnung getragen wird. Will ein Eigent\u00fcmer seine Pflicht nach Satz 1 erf\u00fcllen, muss er eine Planung f\u00fcr alle betroffenen Nichtwohngeb\u00e4ude und Stellpl\u00e4tze zugrunde legen, die der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen ist.</P><P>(3) Absatz 2 kann auch in den F\u00e4llen des \u00a7 7 Nummer 2, des \u00a7 9 Absatz 1 Nummer 2 und Absatz 2 Nummer 2 angewendet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR035400021BJNG000500000",
+        "name": "Abschnitt 5",
+        "title": "Gemischt genutzte Geb\u00e4ude, Lade- und Leitungsinfrastruktur im Quartier, Unternehmererkl\u00e4rung und Ausnahmen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Gemischt genutzte Geb\u00e4ude",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000500000"
+        },
+        "body": "<P>(1) Teile eines Wohngeb\u00e4udes, die sich hinsichtlich der Art ihrer Nutzung und der geb\u00e4udetechnischen Ausstattung wesentlich von der Wohnnutzung unterscheiden und die einen nicht unerheblichen Teil der Geb\u00e4udenutzfl\u00e4che umfassen, sind getrennt als Nichtwohngeb\u00e4ude zu behandeln.</P><P>(2) Teile eines Nichtwohngeb\u00e4udes, die dem Wohnen dienen und einen nicht unerheblichen Teil der Nettogrundfl\u00e4che umfassen, sind getrennt als Wohngeb\u00e4ude zu behandeln.</P><P>(3) Auf bestehende gemischt genutzte Geb\u00e4ude, die aus einem getrennt als Wohngeb\u00e4ude oder Nichtwohngeb\u00e4ude zu behandelnden Teil bestehen und die zusammen \u00fcber mehr als zehn Stellpl\u00e4tze innerhalb des Geb\u00e4udes oder \u00fcber mehr als zehn an das Geb\u00e4ude angrenzende Stellpl\u00e4tze verf\u00fcgen, finden die Vorschriften dieses Gesetzes Anwendung. Die Rechtsfolgen nach diesem Gesetz richten sich f\u00fcr alle Stellpl\u00e4tze nach der \u00fcberwiegenden Art der Nutzung des Geb\u00e4udes.</P><P>(4) \u00dcberwiegt bei einem zu errichtenden gemischt genutzten Geb\u00e4ude, das aus einem getrennt als Wohngeb\u00e4ude oder Nichtwohngeb\u00e4ude zu behandelnden Teil besteht, die Nutzung als Wohngeb\u00e4ude und verf\u00fcgt das Geb\u00e4ude insgesamt \u00fcber mehr als f\u00fcnf Stellpl\u00e4tze innerhalb des Geb\u00e4udes oder \u00fcber mehr als f\u00fcnf an das Geb\u00e4ude angrenzende Stellpl\u00e4tze, finden die Vorschriften dieses Gesetzes \u00fcber zu errichtende Wohngeb\u00e4ude Anwendung. Die Rechtsfolgen nach diesem Gesetz richten sich f\u00fcr alle Stellpl\u00e4tze nach der \u00fcberwiegenden Art der Nutzung des Geb\u00e4udes.</P><P>(5) \u00dcberwiegt bei einem zu errichtenden gemischt genutzten Geb\u00e4ude, das aus einem getrennt als Wohngeb\u00e4ude oder Nichtwohngeb\u00e4ude zu behandelnden Teil besteht, die Nutzung als Nichtwohngeb\u00e4ude und verf\u00fcgt das Geb\u00e4ude insgesamt \u00fcber mehr als sechs Stellpl\u00e4tze innerhalb des Geb\u00e4udes oder \u00fcber mehr als sechs an das Geb\u00e4ude angrenzende Stellpl\u00e4tze, finden die Vorschriften dieses Gesetzes \u00fcber zu errichtende Nichtwohngeb\u00e4ude Anwendung. Die Rechtsfolgen nach diesem Gesetz richten sich f\u00fcr alle Stellpl\u00e4tze nach der \u00fcberwiegenden Art der Nutzung des Geb\u00e4udes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001300000",
+        "name": "\u00a7 12",
+        "title": "Lade- und Leitungsinfrastruktur im Quartier",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000500000"
+        },
+        "body": "<P>(1) Bauherren oder Eigent\u00fcmer, deren Geb\u00e4ude in r\u00e4umlichem Zusammenhang stehen, k\u00f6nnen Vereinbarungen \u00fcber eine gemeinsame Ausstattung von Stellpl\u00e4tzen mit Leitungsinfrastruktur oder Ladepunkten treffen, um die jeweiligen Anforderungen nach den \u00a7\u00a7 6 bis 10 zu erf\u00fcllen. Gegenstand von Vereinbarungen nach Satz 1 k\u00f6nnen insbesondere sein <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die gemeinsame Ausstattung mit Leitungsinfrastruktur oder die gemeinsame Errichtung von Ladepunkten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Benutzung von Grundst\u00fccken, deren Betreten und die F\u00fchrung von Leitungen \u00fcber Grundst\u00fccke.</LA></DD></DL></P><P>(2) Dritte, insbesondere Energieversorgungsunternehmen, k\u00f6nnen an Vereinbarungen im Sinne des Absatzes 1 beteiligt werden.</P><P>(3) Die Vereinbarung ist der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen.</P><P>(4) Eine Vereinbarung im Sinne des Absatzes 1 bedarf der Schriftform, soweit nicht durch Rechtsvorschriften eine andere Form vorgeschrieben ist.</P><P>(5) Die Regelungen der Abs\u00e4tze 1 bis 3 sind entsprechend anwendbar, wenn die Geb\u00e4ude, die im r\u00e4umlichen Zusammenhang stehen und nach den Abs\u00e4tzen 1 und 2 gemeinsam Anforderungen dieses Gesetzes erf\u00fcllen, einem Eigent\u00fcmer geh\u00f6ren. An die Stelle der Vereinbarung nach Absatz 1 tritt eine schriftliche Dokumentation des Eigent\u00fcmers, die der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001400000",
+        "name": "\u00a7 13",
+        "title": "Unternehmererkl\u00e4rung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000500000"
+        },
+        "body": "<P>(1) Wer gesch\u00e4ftsm\u00e4\u00dfig an oder in einem zu errichtenden oder bestehenden Geb\u00e4ude Arbeiten im Anwendungsbereich dieses Gesetzes durchf\u00fchrt, hat dem Eigent\u00fcmer unverz\u00fcglich nach Abschluss der Arbeiten schriftlich oder elektronisch zu best\u00e4tigen, dass die von ihm durchgef\u00fchrten Arbeiten diesem Gesetz entsprechen.</P><P>(2) Der Eigent\u00fcmer hat die Unternehmererkl\u00e4rung mindestens f\u00fcnf Jahre aufzubewahren. Er hat die Unternehmererkl\u00e4rung der nach Landesrecht zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "Ausnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000500000"
+        },
+        "body": "<P>(1) Sofern bei einer gr\u00f6\u00dferen Renovierung eines bestehenden Geb\u00e4udes die Kosten f\u00fcr die Lade- und Leitungsinfrastruktur 7 Prozent der Gesamtkosten der gr\u00f6\u00dferen Renovierung des Geb\u00e4udes \u00fcberschreiten, sind die \u00a7\u00a7 8 bis 10 nicht anzuwenden.</P><P>(2) \u00d6ffentliche Geb\u00e4ude, die gem\u00e4\u00df der Umsetzung der Richtlinie 2014/94/EU des Europ\u00e4ischen Parlaments und des Rates vom 22. Oktober 2014 \u00fcber den Aufbau der Infrastruktur f\u00fcr alternative Kraftstoffe (ABl. L\u00a0307 vom 28.10.2014, S.\u00a01), die zuletzt durch die Delegierte Verordnung (EU) 2019/1745 (ABl. L\u00a0268 vom 22.10.2019, S. 1) ge\u00e4ndert worden ist, bereits vergleichbaren Anforderungen unterliegen, sind von der Anwendung der \u00a7\u00a7 6 bis 10 ausgenommen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR035400021BJNG000600000",
+        "name": "Abschnitt 6",
+        "title": "Bu\u00dfgeld- und Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "Bu\u00dfgeldvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000600000"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder leichtfertig <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 6 oder \u00a7 8 nicht daf\u00fcr sorgt, dass jeder Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 7 nicht daf\u00fcr sorgt, dass mindestens jeder dritte Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet und mindestens ein Ladepunkt errichtet wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 9 nicht daf\u00fcr sorgt, dass mindestens jeder f\u00fcnfte Stellplatz mit der Leitungsinfrastruktur f\u00fcr die Elektromobilit\u00e4t ausgestattet und mindestens ein Ladepunkt errichtet wird, oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 10 nicht daf\u00fcr sorgt, dass ein Ladepunkt errichtet wird.</LA></DD></DL></P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu zehntausend Euro geahndet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001700000",
+        "name": "\u00a7 16",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000600000"
+        },
+        "body": "<P>Die Vorschriften dieses Gesetzes sind nicht anzuwenden auf Vorhaben, f\u00fcr welche die Bauantragstellung oder der Antrag auf bauaufsichtliche Zustimmung oder die Bauanzeige vor dem Inkrafttreten dieses Gesetzes nach \u00a7 17 erfolgt ist. Satz 1 gilt f\u00fcr nicht genehmigungsbed\u00fcrftige Vorhaben entsprechend. F\u00fcr Vorhaben, die nach Ma\u00dfgabe des Bauordnungsrechts der zust\u00e4ndigen Beh\u00f6rde zur Kenntnis zu geben sind, ist auf den Zeitpunkt des Eingangs der Kenntnisgabe bei der zust\u00e4ndigen Beh\u00f6rde abzustellen. F\u00fcr sonstige nicht genehmigungsbed\u00fcrftige, insbesondere genehmigungs-, anzeige- und verfahrensfreie Vorhaben ist auf den Zeitpunkt des Beginns der Bauausf\u00fchrung abzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR035400021BJNE001800000",
+        "name": "\u00a7 17",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR035400021BJNG000600000"
+        },
+        "body": "<P>Dieses Gesetz tritt am Tag nach der Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

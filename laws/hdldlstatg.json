@@ -1,0 +1,281 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR026610021",
+    "firstPublished": "2021-02-22",
+    "sourceTimestamp": "20210615213106",
+    "titleShort": "Handels- und Dienstleistungsstatistikgesetz",
+    "titleLong": "Gesetz \u00fcber die Statistik im Handels- und Dienstleistungsbereich",
+    "abbreviation": "HdlDlStatG",
+    "slug": "hdldlstatg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2021, 266",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 4.3.2021 +++)<BR /><BR /></pre>Das G wurde als Artikel 1 des G v. 22.2.2021 I 266 vom Bundestag beschlossen. Es ist gem. Art. 10 Abs. 1 Satz 1 dieses G am 4.3.2021 in Kraft getreten. <BR /></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR026610021BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeines",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Zweck der Statistik, Anordnung als Bundesstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000100000"
+        },
+        "body": "<P>(1) Die in diesem Gesetz geregelten statistische Erhebungen dienen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Darstellung der Struktur und der Entwicklung im Handel und im Dienstleistungsbereich und der Ermittlung ihrer wirtschaftlichen Bedeutung sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Erf\u00fcllung von Berichtspflichten nach dem Recht der Europ\u00e4ischen Union.</LA></DD></DL></P><P>(2) Die statistischen Erhebungen werden als Bundesstatistik durchgef\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000100000"
+        },
+        "body": "<P>Im Sinne dieses Gesetzes sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA><Citation>\"rechtliche Einheiten\"</Citation> solche des Abschnitts II Buchstabe A Nummer 3 des Anhangs zur Verordnung (EWG) Nr. 696/93 des Rates vom 15. M\u00e4rz 1993 betreffend die statistischen Einheiten f\u00fcr die Beobachtung und Analyse der Wirtschaft in der Gemeinschaft (ABl. L\u00a076 vom 30.3.1993, S.\u00a01), die zuletzt durch die Verordnung (EG) Nr. 1137/2008 (ABl. L\u00a0311 vom 21.11.2008, S.\u00a01) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung sowie Einrichtungen zur Aus\u00fcbung einer freiberuflichen T\u00e4tigkeit;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA><Citation>\"Marktproduzenten\"</Citation> solche des Kapitels 3 Nummer 3.24 des Anhangs A zur Verordnung (EU) Nr. 549/2013 des Europ\u00e4ischen Parlaments und des Rates vom 21. Mai 2013 zum Europ\u00e4ischen System Volkswirtschaftlicher Gesamtrechnungen auf nationaler und regionaler Ebene in der Europ\u00e4ischen Union (ABl. L\u00a0174 vom 26.6.2013, S.\u00a01), die zuletzt durch die Delegierte Verordnung (EU) 2015/1342 (ABl. L\u00a0207 vom 4.8.2015, S. 35) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA><Citation>\"Ums\u00e4tze\"</Citation> solche der Variable 140301 des Anhangs IV zur Durchf\u00fchrungsverordnung (EU) <NB>2020/1197</NB> der Kommission vom 30. Juli 2020 zur Festlegung technischer Spezifikationen und Einzelheiten nach der Verordnung (EU) 2019/2152 des Europ\u00e4ischen Parlaments und des Rates \u00fcber europ\u00e4ische Unternehmensstatistiken, zur Aufhebung von zehn Rechtsakten im Bereich Unternehmensstatistiken (ABl. L\u00a0271 vom 18.8.2020, S. 1) in der jeweils geltenden Fassung;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA><Citation>\"t\u00e4tige Personen\"</Citation> solche der Variable 120101 des Anhangs IV zur Durchf\u00fchrungsverordnung (EU) 2020/1197 der Kommission vom 30. Juli 2020 zur Festlegung technischer Spezifikationen und Einzelheiten nach der Verordnung (EU) 2019/2152 des Europ\u00e4ischen Parlaments und des Rates \u00fcber europ\u00e4ische Unternehmensstatistiken, zur Aufhebung von zehn Rechtsakten im Bereich Unternehmensstatistiken (ABl. L\u00a0271 vom 18.8.2020, S. 1) in der jeweils geltenden Fassung;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA><Citation>\"Wirtschaftszweige\"</Citation> solche nach der Untergliederung gem\u00e4\u00df NACE Rev. 2 des Anhangs I zur Verordnung (EG) Nr. 1893/2006 des Europ\u00e4ischen Parlaments und des Rates vom 20. Dezember 2006 zur Aufstellung der statistischen Systematik der Wirtschaftszweige NACE Revision 2 und zur \u00c4nderung der Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der EG \u00fcber bestimmte Bereiche der Statistik (ABl. L\u00a0393 vom 30.12.2006, <NB>S.\u00a01),</NB> die zuletzt durch die Verordnung (EU) <NB>2019/1243</NB> (ABl. L\u00a0198 vom 25.7.2019, S. 241) ge\u00e4ndert worden ist, in der jeweils geltenden Fassung sowie in Verbindung mit der vom Statistischen Bundesamt daraus erstellten Klassifikation der Wirtschaftszweige in der jeweils geltenden Fassung;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA><Citation>\"Gesch\u00e4ftsfelder\"</Citation> fachliche Einheiten entsprechend Abschnitt III Buchstabe D des Anhangs zur Verordnung (EWG) Nr. 696/93, in der jeweils geltenden Fassung, jedoch innerhalb rechtlicher Einheiten.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000300000",
+        "name": "\u00a7 3",
+        "title": "Erhebungseinheiten, Erhebungsbereiche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000100000"
+        },
+        "body": "<P>(1) Erhebungseinheiten sind rechtliche Einheiten, sofern es sich um Marktproduzenten handelt.</P><P>(2) Die Erhebungen erstrecken sich auf Erhebungseinheiten der folgenden Wirtschaftszweige: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr konjunkturstatistische Erhebungen: <DL Indent=\"5.5\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Abschnitt G \u2212 Handel; Instandhaltung und Reparatur von Kraftfahrzeugen <DL Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA>Abteilung 45, mit mindestens 11 Millionen Euro Jahresumsatz oder mindestens 250 t\u00e4tigen Personen,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA>Abteilung 46, mit mindestens 20 Millionen Euro Jahresumsatz oder mindestens 100 t\u00e4tigen Personen,</LA></DD><DT>cc)</DT><DD Font=\"normal\"><LA>Abteilung 47, mit mindestens 450\u00a0000 Euro Jahresumsatz,</LA></DD></DL></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Abschnitt H \u2212 Verkehr und Lagerei mit mindestens 15 Millionen Euro Jahresumsatz oder mindestens 250 t\u00e4tigen Personen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Abschnitt I \u2212 Gastgewerbe mit mindestens 165\u00a0000 Euro Jahresumsatz,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Abschnitt J \u2212 Information und Kommunikation mit mindestens 15 Millionen Euro Jahresumsatz oder mindestens 250 t\u00e4tigen Personen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>Abschnitt L \u2212 Grundst\u00fccks- und Wohnungswesen mit mindestens 15 Millionen Euro Jahresumsatz oder mindestens 250 t\u00e4tigen Personen,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>Abschnitt M \u2013 Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen mit Ausnahme der Gruppe 70.1 \u2013 Verwaltung und F\u00fchrung von Unternehmen und Betrieben \u2013 und der Abteilungen 72 \u2013 Forschung und Entwicklung und 75 \u2013 Veterin\u00e4rwesen mit mindestens 15 Millionen Euro Jahresumsatz oder mindestens 250 t\u00e4tigen Personen sowie</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA>Abschnitt N \u2013 Erbringung von sonstigen wirtschaftlichen Dienstleistungen mit mindestens 15 Millionen Euro Jahresumsatz oder mindestens 250 t\u00e4tigen Personen;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr strukturstatistische Erhebungen: <DL Indent=\"5.5\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Abschnitt G \u2013 Handel; Instandhaltung und Reparatur von Kraftfahrzeugen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Abschnitt H \u2212 Verkehr und Lagerei,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Abschnitt I \u2013 Gastgewerbe,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Abschnitt J \u2013 Information und Kommunikation,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>Abschnitt K, Gruppe 66.2 \u2013 Mit Versicherungsdienstleistungen und Pensionskassen verbundene T\u00e4tigkeiten,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>Abschnitt L \u2013 Grundst\u00fccks- und Wohnungswesen,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA>Abschnitt M \u2013 Erbringung von freiberuflichen, wissenschaftlichen und technischen Dienstleistungen,</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA>Abschnitt N \u2013 Erbringung von sonstigen wirtschaftlichen Dienstleistungen,</LA></DD><DT>i)</DT><DD Font=\"normal\"><LA>Abschnitt P \u2013 Erziehung und Unterricht,</LA></DD><DT>j)</DT><DD Font=\"normal\"><LA>Abschnitt Q \u2013 Gesundheits- und Sozialwesen mit Ausnahme der Gruppe 86.2 \u2013 Arzt- und Zahnarztpraxen \u2013 und der Unterklasse 86.90.1 \u2013 Praxen von psychologischen Psychotherapeutinnen und -therapeuten \u2013,</LA></DD><DT>k)</DT><DD Font=\"normal\"><LA>Abschnitt R \u2013 Kunst, Unterhaltung und Erholung,</LA></DD><DT>l)</DT><DD Font=\"normal\"><LA>Abschnitt S, Abteilung 95 \u2013 Reparatur von Datenverarbeitungsger\u00e4ten und Gebrauchsg\u00fctern sowie</LA></DD><DT>m)</DT><DD Font=\"normal\"><LA>Abschnitt S, Abteilung 96 \u2013 Erbringung von sonstigen \u00fcberwiegend pers\u00f6nlichen Dienstleistungen.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR026610021BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Konjunkturstatistische Erhebungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Periodizit\u00e4t und Berichtszeitraum bei konjunkturstatistischen Erhebungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000200000"
+        },
+        "body": "<P>(1) Die konjunkturstatistischen Erhebungen werden monatlich durchgef\u00fchrt.</P><P>(2) Berichtszeitraum f\u00fcr die Erhebungen ist der Kalendermonat.</P><P>(3) Erster Berichtsmonat f\u00fcr die Erhebungen ist der Januar 2021.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Art und Umfang der konjunkturstatistischen Erhebungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000200000"
+        },
+        "body": "<P>(1) Die konjunkturstatistischen Erhebungen werden als Stichprobenerhebungen durchgef\u00fchrt. Die Erhebungseinheiten werden nach mathematisch-statistischen Verfahren ausgew\u00e4hlt.</P><P>(2) Die Erhebungen werden bei h\u00f6chstens 45 Prozent der in \u00a7 3 Absatz 2 Nummer 1 genannten Erhebungseinheiten durchgef\u00fchrt.</P><P>(3) Ma\u00dfgebend f\u00fcr die Auswahl der einzubeziehenden Erhebungseinheiten sind die Daten, die im Statistikregister nach \u00a7 13 Absatz 1 des Bundesstatistikgesetzes zum Zeitpunkt der Auswahl gespeichert sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Erhebungsmerkmale f\u00fcr konjunkturstatistische Erhebungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000200000"
+        },
+        "body": "<P>(1) Erhebungsmerkmale f\u00fcr konjunkturstatistische Erhebungen sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Umsatz der Erhebungseinheit im Berichtsmonat insgesamt sowie im Handels- und Dienstleistungsbereich gegliedert nach Bundesl\u00e4ndern,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Zahl der t\u00e4tigen Personen der Erhebungseinheit am Ende des Berichtsmonats nach Art der T\u00e4tigkeit sowie im Berichtsmonat Januar zus\u00e4tzlich gegliedert nach Bundesl\u00e4ndern,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Bezeichnung und Wirtschaftszweignummer der wirtschaftlichen T\u00e4tigkeit der Erhebungseinheit gem\u00e4\u00df der Klassifikation der Wirtschaftszweige. Erzielt eine Erhebungseinheit mit Handel und Dienstleistungen weniger als 50 Prozent ihres Umsatzes, werden die Angaben zu Satz 1 Nummer 3 zu der T\u00e4tigkeit erhoben, in der diese Einheit ihren wirtschaftlichen Schwerpunkt hat.</LA></DD></DL>Bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Millionen Euro erzielen, werden die Angaben nach Satz 1 jeweils f\u00fcr die drei gr\u00f6\u00dften Gesch\u00e4ftsfelder im Handels- und Dienstleistungsbereich erhoben, die ihrerseits einen Jahresumsatz von mindestens 125 Millionen Euro aufweisen. Die Angaben nach Satz 1 Nummer 1 und 2 f\u00fcr weitere Gesch\u00e4ftsfelder im Handels- und Dienstleistungsbereich sind zusammengefasst anzugeben. Die Angabe nach Satz 1 Nummer 3 ist auf das gr\u00f6\u00dfte der zusammengefassten Gesch\u00e4ftsfelder zu beziehen.</P><P>(2) Bei Erhebungseinheiten, die erstmals in den Erhebungsbereich nach \u00a7 3 Absatz 2 Nummer 1 fallen, wird bei der ersten Erhebung zus\u00e4tzlich Folgendes erhoben: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Jahresumsatz des Vorjahres,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Zahl der t\u00e4tigen Personen am 30. September des Vorjahres und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Bundesl\u00e4nder, in denen die Erhebungseinheiten Niederlassungen haben.</LA></DD></DL>Absatz 1 Satz 2 und 3 gilt entsprechend. Erzielen Erhebungseinheiten erstmals einen Jahresumsatz von 250 Millionen Euro, werden einmalig die Angaben nach Satz 1 gegliedert nach Gesch\u00e4ftsfeldern gem\u00e4\u00df Absatz 1 Satz 2 und 3 erhoben. Bei Erhebungseinheiten, die einen Jahresumsatz von mindestens 250 Millionen Euro erzielen und die zum Zeitpunkt des Inkrafttretens dieses Gesetzes bereits nach \u00a7 3 Absatz 1 Nummer 1 des Handelsstatistikgesetzes oder nach \u00a7 3 Absatz 2 des Dienstleistungskonjunkturstatistikgesetzes auskunftspflichtig sind, werden ausschlie\u00dflich die Angaben nach Absatz 1 Satz 1 Nummer 1 und 2 gegliedert nach Gesch\u00e4ftsfeldern gem\u00e4\u00df Absatz 1 Satz 2 und 3 erhoben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR026610021BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Strukturstatistische Erhebungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Periodizit\u00e4t und Berichtszeitraum bei strukturstatistischen Erhebungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000300000"
+        },
+        "body": "<P>(1) Die strukturstatistischen Erhebungen werden j\u00e4hrlich durchgef\u00fchrt.</P><P>(2) Berichtszeitraum f\u00fcr die Erhebungen ist das Kalenderjahr oder das im Kalenderjahr abgelaufene Gesch\u00e4ftsjahr.</P><P>(3) Erstes Berichtsjahr f\u00fcr die Erhebungen ist das Jahr 2021.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Art und Umfang der strukturstatistischen Erhebungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000300000"
+        },
+        "body": "<P>(1) Die strukturstatistischen Erhebungen werden als Stichprobenerhebungen durchgef\u00fchrt. Die Erhebungseinheiten werden nach mathematisch-statistischen Verfahren ausgew\u00e4hlt.</P><P>(2) Die Erhebungen werden bei h\u00f6chstens 10 Prozent der in \u00a7 3 Absatz 2 Nummer 2 genannten Erhebungseinheiten durchgef\u00fchrt.</P><P>(3) Ma\u00dfgebend f\u00fcr die Auswahl der einzubeziehenden Erhebungseinheiten sind die Daten, die im Statistikregister nach \u00a7 13 Absatz 1 des Bundesstatistikgesetzes zum Zeitpunkt der Auswahl gespeichert sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE000900000",
+        "name": "\u00a7 9",
+        "title": "Erhebungsmerkmale f\u00fcr strukturstatistische Erhebungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000300000"
+        },
+        "body": "<P>(1) Erhebungsmerkmale f\u00fcr die strukturstatistischen Erhebungen sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Angaben zur Kennzeichnung der Erhebungseinheit: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>haupts\u00e4chlich ausge\u00fcbte wirtschaftliche T\u00e4tigkeit nach dem Stand vom 31. Dezember,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Zahl der Niederlassungen nach dem Stand vom 31. Dezember;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Zahl der t\u00e4tigen Personen sowie Personalaufwand: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Zahl der t\u00e4tigen Personen nach Stellung im Beruf sowie nach Voll- und Teilzeitt\u00e4tigkeit jeweils nach dem Stand vom 30. September,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Summe der Bruttol\u00f6hne und -geh\u00e4lter,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>gesetzliche und \u00fcbrige Sozialaufwendungen der Arbeitgeber;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Ums\u00e4tze, Vorleistungen sowie Steuern und Subventionen: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Ums\u00e4tze oder Einnahmen nach In- und Ausland und sonstige betriebliche Ertr\u00e4ge, f\u00fcr Erhebungseinheiten der Wirtschaftszweige des Abschnitts G auch Verkaufserl\u00f6se aus Sachanlagen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Auslandsums\u00e4tze oder -einnahmen nach Sitz des Auftraggebers innerhalb und au\u00dferhalb der Europ\u00e4ischen Union,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Ums\u00e4tze oder Einnahmen nach Art der Dienstleistung,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Ums\u00e4tze nach Art der T\u00e4tigkeit,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>Handelsums\u00e4tze nach Produktarten,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>Aufwendungen f\u00fcr Waren, Material und Dienstleistungen nach Arten,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA>Wert der Best\u00e4nde an Waren und Material nach Arten zu Beginn und zum Ende des Berichtsjahres,</LA></DD><DT>h)</DT><DD Font=\"normal\"><LA>Aufwendungen f\u00fcr Mieten, Pachten und Leasing,</LA></DD><DT>i)</DT><DD Font=\"normal\"><LA>Steuern, Abgaben und Subventionen;</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Investitionen: <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Bruttoinvestitionen in Sachanlagen und immaterielle Verm\u00f6gensgegenst\u00e4nde nach Arten,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>Wert der selbst erstellten Sachanlagen und immateriellen Verm\u00f6gensgegenst\u00e4nde.</LA></DD></DL></LA></DD></DL></P><P>(2) Bei Erhebungseinheiten mit Ums\u00e4tzen oder Einnahmen von weniger als 300\u00a0000 Euro im Berichtsjahr werden die Angaben nach Absatz 1 Nummer 2 Buchstabe a nur nach Stellung im Beruf erhoben und die Angaben nach Absatz 1 Nummer 2 Buchstabe c, Nummer 3 Buchstabe a, f und g sowie Nummer 4 jeweils nur als Summe erfasst. Abweichend von Absatz 1 werden bei Erhebungseinheiten der Wirtschaftszweige aus den Abschnitten G und I die Angaben zu Umsatz oder Einnahmen nach Absatz\u00a01 Nummer\u00a03 Buchstabe\u00a0a nicht nach In- und Ausland differenziert.</P><P>(3) Bei Erhebungseinheiten mit Niederlassungen in mehreren Bundesl\u00e4ndern und Ums\u00e4tzen oder Einnahmen von 300\u00a0000 Euro und mehr im Berichtsjahr werden folgende Angaben zus\u00e4tzlich unterteilt nach Bundesl\u00e4ndern erfasst: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Gesamtums\u00e4tze oder -einnahmen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Gesamtzahl der t\u00e4tigen Personen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Summe der Bruttol\u00f6hne und -geh\u00e4lter sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>gesamte Investitionen.</LA></DD></DL></P><P>(4) Die Angaben nach Absatz 1 Nummer 3 Buchstabe b und c werden nur bei Erhebungseinheiten mit 20 und mehr t\u00e4tigen Personen wie folgt erfasst: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>j\u00e4hrlich f\u00fcr die Wirtschaftszweige <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>des Abschnitts J, Gruppe 58.2 \u2013 Verlegen von Software,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>des Abschnitts J, Abteilung 62 \u2013 Erbringung von Dienstleistungen der Informationstechnologie,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>des Abschnitts J, Gruppe 63.1 \u2013 Datenverarbeitung, Hosting und damit verbundene T\u00e4tigkeiten; Webportale,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>des Abschnitts M, Gruppe 73.1 \u2013 Werbung,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>des Abschnitts N, Abteilung 78 \u2013 Vermittlung und \u00dcberlassung von Arbeitskr\u00e4ften;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>alle zwei Jahre, beginnend mit dem Berichtsjahr 2021 f\u00fcr die Wirtschaftszweige <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>des Abschnitts M, Gruppe 71.1 \u2013 Architektur- und Ingenieurb\u00fcros,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>des Abschnitts M, Gruppe 71.2 \u2013 Technische, physikalische und chemische Untersuchung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>des Abschnitts M, Gruppe 73.2 \u2013 Markt- und Meinungsforschung;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>alle zwei Jahre, beginnend mit dem Berichtsjahr 2022 f\u00fcr die Wirtschaftszweige <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>des Abschnitts M, Gruppe 69.1 \u2013 Rechtsberatung,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>des Abschnitts M, Gruppe 69.2 \u2013 Wirtschaftspr\u00fcfung und Steuerberatung; Buchf\u00fchrung,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>des Abschnitts M, Gruppe 70.2 \u2013 Public-<NB>Relations-</NB> und Unternehmensberatung.</LA></DD></DL></LA></DD></DL></P><P>(5) Die Angaben nach Absatz 1 Nummer 3 Buchstabe d werden nur f\u00fcr Erhebungseinheiten der Wirtschaftszweige der Abschnitte G und I erfasst. Die Angaben nach Absatz 1 Nummer 3 Buchstabe e werden nur f\u00fcr Erhebungseinheiten des Abschnitts G erfasst.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR026610021BJNG000400000",
+        "name": "Abschnitt 4",
+        "title": "\u00dcbergreifende Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE001000000",
+        "name": "\u00a7 10",
+        "title": "Hilfsmerkmale",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000400000"
+        },
+        "body": "<P>Hilfsmerkmale sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Name und Anschrift der Erhebungseinheit,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Name und Kontaktdaten der Personen, die f\u00fcr R\u00fcckfragen zur Verf\u00fcgung stehen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr die konjunkturstatistischen Erhebungen, mit Ausnahme der Erhebungseinheiten der Wirtschaftszweige der Abteilung 47 in Abschnitt G und des Abschnitts I, zus\u00e4tzlich Steuernummer der Erhebungseinheit und des Organtr\u00e4gers der Erhebungseinheit, bei \u00c4nderungen auch die bisherige Steuernummer.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE001100000",
+        "name": "\u00a7 11",
+        "title": "Auskunftspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000400000"
+        },
+        "body": "<P>(1) F\u00fcr die Erhebungen besteht Auskunftspflicht. Auskunftspflichtig sind die Inhaber und Inhaberinnen oder Leiter und Leiterinnen der Erhebungseinheiten. Die Auskunftserteilung zu den Angaben nach \u00a7 10 Nummer 2 ist freiwillig.</P><P>(2) Die Auskunftspflicht erstreckt sich bei erstmaliger Heranziehung bei den konjunkturstatistischen Erhebungen auch auf abgelaufene Berichtszeitr\u00e4ume des Kalenderjahres.</P><P>(3) F\u00fcr Erhebungseinheiten, deren Inhaber oder Inhaberinnen Existenzgr\u00fcnder oder Existenzgr\u00fcnderinnen sind, besteht im Kalenderjahr der Betriebser\u00f6ffnung abweichend von Absatz 1 Satz 1 und 2 keine Auskunftspflicht. Zudem besteht in den beiden folgenden Kalenderjahren dann keine Auskunftspflicht, wenn die Erhebungseinheit im letzten abgeschlossenen Gesch\u00e4ftsjahr Ums\u00e4tze in H\u00f6he von weniger als 800\u00a0000 Euro erwirtschaftet hat. Gesellschaften k\u00f6nnen sich auf die Befreiung von der Auskunftspflicht berufen, wenn alle an der Gesellschaft Beteiligten Existenzgr\u00fcnder oder Existenzgr\u00fcnderinnen sind.</P><P>(4) Existenzgr\u00fcnder und Existenzgr\u00fcnderinnen im Sinne von Absatz 3 sind nat\u00fcrliche Personen, die aus abh\u00e4ngiger Besch\u00e4ftigung oder aus der Nichtbesch\u00e4ftigung heraus eine gewerbliche oder freiberufliche T\u00e4tigkeit aufnehmen in Form <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einer Neugr\u00fcndung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einer \u00dcbernahme oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>einer t\u00e4tigen Beteiligung.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE001200000",
+        "name": "\u00a7 12",
+        "title": "Nutzung von Angaben der Krankenhausstatistik-Verordnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000400000"
+        },
+        "body": "<P>Soweit Erhebungsmerkmale nach \u00a7 9 Absatz 1 f\u00fcr Erhebungseinheiten aus der Gruppe 86.1 \u2013 Krankenh\u00e4user \u2013 bereits auf Grund der Erhebung nach der Krankenhausstatistik-Verordnung vorliegen, entf\u00e4llt die Pflicht der Erhebungseinheiten zur \u00dcbermittlung dieser Angaben. Stattdessen sind die bereits im Rahmen der Krankenhausstatistik-Verordnung gemachten Einzelangaben f\u00fcr Zwecke der strukturstatistischen Erhebungen zu nutzen. F\u00fcr alle anderen Erhebungsmerkmale, die nicht bereits auf Grund der Erhebung im Rahmen der Krankenhausstatistik-Verordnung vorliegen, besteht die Auskunftspflicht der Erhebungseinheiten fort.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE001300000",
+        "name": "\u00a7 13",
+        "title": "Nutzung der Daten f\u00fcr Zwecke der Preisstatistik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000400000"
+        },
+        "body": "<P>(1) Die Erhebungsmerkmale nach \u00a7\u00a09 Absatz\u00a01 Nummer 1 Buchstabe a, Nummer 2 Buchstabe a und Nummer 3 Buchstabe a und c d\u00fcrfen verwendet werden f\u00fcr die Auswahl von Erhebungseinheiten f\u00fcr die Statistik der Erzeugerpreise f\u00fcr Dienstleistungen nach \u00a7 2 Nummer 2 bis 4 des Gesetzes \u00fcber die Preisstatistik in der im Bundesgesetzblatt Teil III, Gliederungsnummer 720-9, ver\u00f6ffentlichten bereinigten Fassung, das zuletzt durch Artikel 1 des Gesetzes vom 10. Dezember 2019 (BGBl. I S. 2117) ge\u00e4ndert worden ist.</P><P>(2) Die Erhebungsmerkmale nach \u00a7\u00a09 Absatz\u00a01 Nummer 1 Buchstabe a und Nummer 3 Buchstabe a, d und e d\u00fcrfen verwendet werden f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Auswahl von Erhebungseinheiten und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Ermittlung und Nutzung von Gewichten f\u00fcr die Ableitung von W\u00e4gungsschemata f\u00fcr <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Statistik der Gro\u00dfhandelsverkaufspreise nach \u00a7 2 Nummer 1 des Gesetzes \u00fcber die Preisstatistik und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die Statistik der Einzelhandelspreise, Werk- und Dienstleistungspreise, Verkehrsleistungspreise und Mieten auf Verbraucherebene nach \u00a7 2 Nummer 1 bis 4 des Gesetzes \u00fcber die Preisstatistik.</LA></DD></DL>F\u00fcr die in Satz 1 Nummer 2 Buchstabe b genannte Statistik d\u00fcrfen zus\u00e4tzlich die Erhebungsmerkmale nach \u00a7 9 Absatz 1 Nummer 1 Buchstabe b und Nummer 3 Buchstabe c verwendet werden.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE001400000",
+        "name": "\u00a7 14",
+        "title": "\u00dcbermittlungsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000400000"
+        },
+        "body": "<P>Das Statistische Bundesamt und die statistischen \u00c4mter der L\u00e4nder d\u00fcrfen den obersten Bundes- und Landesbeh\u00f6rden f\u00fcr die Verwendung gegen\u00fcber den gesetzgebenden K\u00f6rperschaften und f\u00fcr Zwecke der Planung Tabellen mit statistischen Ergebnissen \u00fcbermitteln, auch soweit Tabellenfelder nur einen einzigen Fall ausweisen. F\u00fcr die Regelung von Einzelf\u00e4llen d\u00fcrfen keine Tabellen \u00fcbermittelt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE001500000",
+        "name": "\u00a7 15",
+        "title": "Durchf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000400000"
+        },
+        "body": "<P>Die Angaben zu den konjunktur- und strukturstatistischen Erhebungen im Wirtschaftszweig 46 werden vom Statistischen Bundesamt erhoben und aufbereitet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR026610021BJNG000500000",
+        "name": "Abschnitt 5",
+        "title": "Schlussbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR026610021BJNE001600000",
+        "name": "\u00a7 16",
+        "title": "\u00dcbergangsregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR026610021BJNG000500000"
+        },
+        "body": "<P>(1) Die Pflicht zur Auskunftserteilung bei den Erhebungsmerkmalen in der Gliederung nach Gesch\u00e4ftsfeldern gem\u00e4\u00df \u00a7 6 Absatz 1 Satz 2 und 3 entsteht erst im Jahr 2022.</P><P>(2) Die Erhebungen nach \u00a7 3 Absatz 1 Nummer 2 und 3 des Handelsstatistikgesetzes vom 10. Dezember 2001 (BGBl. I S. 3438), das zuletzt durch Artikel 272 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) ge\u00e4ndert worden ist, werden f\u00fcr die Berichtsjahre 2019 und 2020 weiter nach jenem Gesetz durchgef\u00fchrt.</P><P>(3) Die Erhebungen nach dem Dienstleistungsstatistikgesetz vom 19. Dezember 2000 (BGBl. I S. 1765), das zuletzt durch Artikel 8 des Gesetzes vom 28. Juli 2015 (BGBl. I S. 1400) ge\u00e4ndert worden ist, werden f\u00fcr die Berichtsjahre 2019 und 2020 weiter nach jenem Gesetz durchgef\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

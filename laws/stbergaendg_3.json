@@ -1,0 +1,157 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR015099975",
+    "firstPublished": "1975-06-24",
+    "sourceTimestamp": "20120625153918",
+    "titleShort": null,
+    "titleLong": "Drittes Gesetz zur \u00c4nderung des Steuerberatungsgesetzes",
+    "abbreviation": "StBerG\u00c4ndG 3",
+    "slug": "stbergaendg_3",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1975, 1509",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 62 G v. 8.12.2010 I 1864",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.7.1975 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR015099975BJNG000100315",
+        "name": "Art 1 bis 10",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015099975BJNG000200315",
+        "name": "Art 11",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015099975BJNE000601140",
+        "name": "\u00a7 1",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015099975BJNG000200315"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015099975BJNE000700315",
+        "name": "\u00a7 2",
+        "title": "\u00c4nderung der Verwaltungsgeb\u00fchren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015099975BJNG000200315"
+        },
+        "body": "<P>Ist der Antrag auf Zulassung zur Pr\u00fcfung, auf Wiederbestellung, auf Anerkennung als Steuerberatungsgesellschaft oder auf Erteilung einer Ausnahmegenehmigung im Sinne der Vorschriften \u00fcber die Anerkennung als Steuerberatungsgesellschaft vor dem Inkrafttreten dieses Gesetzes gestellt worden, so richtet sich die H\u00f6he der Geb\u00fchren nach den bis zum Inkrafttreten dieses Gesetzes geltenden Vorschriften. Das gleiche gilt f\u00fcr die H\u00f6he der Pr\u00fcfungsgeb\u00fchren, wenn die schriftliche Pr\u00fcfung vor dem Inkrafttreten dieses Gesetzes begonnen hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015099975BJNE000800315",
+        "name": "\u00a7 3",
+        "title": "Anwendung der Vorschriften \u00fcber das R\u00fcgeverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015099975BJNG000200315"
+        },
+        "body": "<P>Hat der Vorstand die R\u00fcge vor dem Inkrafttreten dieses Gesetzes erteilt, so richtet sich das weitere Verfahren nach den bisher geltenden Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015099975BJNE000900315",
+        "name": "\u00a7 4",
+        "title": "Anwendung der Vorschriften \u00fcber das berufsgerichtliche\nVerfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015099975BJNG000200315"
+        },
+        "body": "<P>Artikel 1 gilt auch f\u00fcr die bei Inkrafttreten dieses Gesetzes schwebenden berufsgerichtlichen Verfahren, soweit nichts anderes bestimmt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015099975BJNE001000315",
+        "name": "\u00a7 5",
+        "title": "Anwendung der Vorschriften \u00fcber die berufsgerichtliche\nVoruntersuchung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015099975BJNG000200315"
+        },
+        "body": "<P>War bei Inkrafttreten dieses Gesetzes eine berufsgerichtliche Voruntersuchung bereits er\u00f6ffnet, so gelten f\u00fcr das weitere Verfahren die bisherigen Vorschriften. Eine Erg\u00e4nzung der Voruntersuchung findet nicht statt. Die Staatsanwaltschaft ist nach Schlu\u00df der Voruntersuchung zu erg\u00e4nzenden Ermittlungen befugt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015099975BJNE001100315",
+        "name": "\u00a7 6",
+        "title": "Erstattungszinsen und Aussetzungszinsen in rechtsh\u00e4ngigen\nVerfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR015099975BJNG000200315"
+        },
+        "body": "<P>In Verfahren, die bei Inkrafttreten dieses Gesetzes rechtsh\u00e4ngig sind, richtet sich die Erhebung von Erstattungszinsen und Aussetzungszinsen bis zum Ablauf des dritten Monats nach Inkrafttreten dieses Gesetzes nach den bisher geltenden Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015099975BJNG000301140",
+        "name": "Art 12",
+        "title": "(weggefallen)",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR015099975BJNG000401140",
+        "name": "Art 13",
+        "title": "(weggefallen)",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR015099975BJNG000500315",
+        "name": "Art 14",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>(1) Dieses Gesetz tritt am Tage nach der Verk\u00fcndung in Kraft, soweit Absatz 2 nichts anderes bestimmt.</P><P>(2) Artikel 2 Nr. 3 tritt am 1. Juli 1975 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

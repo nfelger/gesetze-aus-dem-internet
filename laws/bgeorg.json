@@ -1,0 +1,103 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR108100012",
+    "firstPublished": "2012-05-10",
+    "sourceTimestamp": "20200921213004",
+    "titleShort": "Bundesgeoreferenzdatengesetz",
+    "titleLong": "Gesetz \u00fcber die geod\u00e4tischen Referenzsysteme, -netze und geotopographischen Referenzdaten des Bundes",
+    "abbreviation": "BGeoRG",
+    "slug": "bgeorg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2012, 1081",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 75 V v. 19.6.2020 I 1328",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.11.2012 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR108100012BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "body": "<P>(1) Dieses Gesetz gilt f\u00fcr die geod\u00e4tischen Referenzsysteme, Referenznetze sowie geotopographischen Referenzdaten des Bundes und im Rahmen der Nutzungsrechte f\u00fcr die Daten des amtlichen Vermessungswesens sowie geotopographischen Referenzdaten von Dritten. Sie sollen den Beh\u00f6rden von Bund und L\u00e4ndern sowie der Wirtschaft, der Gesellschaft und der Wissenschaft in der erforderlichen Qualit\u00e4t f\u00fcr die im Geodatenzugangsgesetz vom 10. Februar 2009 (BGBl. I S. 278) und diesem Gesetz geregelten Nutzungen bereitgestellt werden.</P><P>(2) Die geodatenhaltenden Stellen des Bundes sollen sicherstellen, dass die qualitativen und technischen Vorgaben f\u00fcr die von ihnen erhobenen oder erstellten geotopographischen Referenzdaten und die dazugeh\u00f6rigen Metadaten sowie f\u00fcr geod\u00e4tische Referenzsysteme und -netze eingehalten werden, so dass ein einfacher Austausch und eine breite Nutzung nach Absatz 1 Satz 2 gew\u00e4hrleistet sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108100012BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": null,
+        "body": "<P><DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Geotopographische Referenzdaten sind diejenigen Geodaten, die die Geotopographie anwendungsneutral in einem einheitlichen geod\u00e4tischen Referenzsystem beschreiben oder abbilden.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Geod\u00e4tische Referenzsysteme sind Koordinatensysteme, die Lage-, H\u00f6hen- und Schwereinformationen in Raum und Zeit beschreiben. Sie werden durch geod\u00e4tische Referenznetze umgesetzt.</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Geodatenmodelle sind Datenmodelle, die die Landschaft nach einheitlichen Modellierungsvorschriften durch geotopographische Referenzdaten anwendungsneutral beschreiben. Sie werden durch digitale Landschaftsmodelle umgesetzt.</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Kartographische Modelle sind Darstellungen, mit denen geotopographische Referenzdaten anwendungsbezogen kartographisch veranschaulicht werden. Sie werden durch Kartenwerke in digitaler und analoger Form umgesetzt. Darstellungen der Geotopographie werden auch durch Methoden der Fernerkundung erzeugt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108100012BJNE000301116",
+        "name": "\u00a7 3",
+        "title": "Bundesamt f\u00fcr Kartographie und Geod\u00e4sie",
+        "parent": null,
+        "body": "<P>(1) Das Bundesamt f\u00fcr Kartographie und Geod\u00e4sie ist eine selbst\u00e4ndige Bundesoberbeh\u00f6rde im Gesch\u00e4ftsbereich des Bundesministeriums des Innern, f\u00fcr Bau und Heimat.</P><P>(2) Das Bundesamt f\u00fcr Kartographie und Geod\u00e4sie hat den Auftrag, geod\u00e4tische Referenzsysteme und -netze sowie geotopographische Referenzdaten des Bundes zur Nutzung durch Bundesbeh\u00f6rden und zur Erf\u00fcllung der unionsrechtlichen und internationalen Verpflichtungen Deutschlands zu erheben, zu verarbeiten und zu nutzen, soweit diese nicht in die Zust\u00e4ndigkeit anderer Bundesbeh\u00f6rden fallen. Dabei ist die Verf\u00fcgbarkeit der geod\u00e4tischen Referenzsysteme und -netze sowie der geotopographischen Referenzdaten von Deutschland und von anderen Mitgliedstaaten der Europ\u00e4ischen Union sicherzustellen.</P><P>(3) Das Bundesamt hat insbesondere die folgenden Aufgaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Aufbereitung, Aktualisierung und Bereitstellung von orts- und raumbezogenen Daten zur Beschreibung der Objekte der Erdoberfl\u00e4che sowie die Fortentwicklung der daf\u00fcr erforderlichen Verfahren und Methoden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bereitstellung und Pflege der nationalen \u00fcbergeordneten geod\u00e4tischen Referenznetze unter Einschluss der erforderlichen vermessungstechnischen und theoretischen Leistungen zur Gewinnung und Aufbereitung der Messdaten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mitwirkung an bilateralen und multilateralen Arbeiten zur Einrichtung und Pflege globaler geod\u00e4tischer Referenzsysteme und -netze sowie der Fortentwicklung der eingesetzten Mess- und Beobachtungstechnologie,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Koordination des Auf- und Ausbaus sowie Erhaltung des Bundesanteils der Geodateninfrastruktur f\u00fcr Deutschland,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betrieb eines Dienstleistungszentrums des Bundes, das die Koordination der geod\u00e4tischen Referenzsysteme und -netze sowie geotopographischen Referenzdaten des Bundes \u00fcbernimmt, den Bedarf an Geodaten erhebt, sie \u00fcber ein Geoportal oder mittels anderer bedarfsorientierter Technik verf\u00fcgbar macht und Bundesbeh\u00f6rden bei der standardkonformen Entwicklung und Nutzung ihrer Geodatendienste unterst\u00fctzt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vertretung fachlicher Interessen Deutschlands auf europ\u00e4ischer und internationaler Ebene einschlie\u00dflich der Mitwirkung an der Vorbereitung von zivilen Programmen und Rechtsvorschriften sowie an der methodischen und technischen Vorbereitung und Harmonisierung von kartographischen und geod\u00e4tischen Produkten.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108100012BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Weitere geotopographische Referenzdaten f\u00fchrende Stellen des Bundes",
+        "parent": null,
+        "body": "<P>Geotopographische Referenzdaten f\u00fchrende Stellen des Bundes sind diejenigen Bundesbeh\u00f6rden, die geotopographische Referenzdaten des Bundes erheben, verarbeiten und nutzen. Die geotopographischen Referenzdaten sowie geod\u00e4tischen Referenzsysteme und -netze des Bundes werden, soweit sie nicht in die Zust\u00e4ndigkeit des Bundesamtes f\u00fcr Kartographie und Geod\u00e4sie fallen, von den anderen geotopographische Referenzdaten f\u00fchrenden Stellen des Bundes zur Nutzung durch Bundesbeh\u00f6rden und zur Erf\u00fcllung der unionsrechtlichen und internationalen Verpflichtungen Deutschlands erhoben, verarbeitet und genutzt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108100012BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Austausch unter Beh\u00f6rden",
+        "parent": null,
+        "body": "<P>(1) Die geodatenhaltenden Stellen des Bundes gew\u00e4hren sich untereinander Zugang zu den zur Erf\u00fcllung ihrer \u00f6ffentlichen Aufgaben vorhandenen oder bereitgehaltenen geotopographischen Referenzdaten.</P><P>(2) Die geotopographischen Referenzdaten haltenden Stellen des Bundes fordern untereinander keine Gegenleistung f\u00fcr die Zurverf\u00fcgungstellung von geotopographischen Referenzdaten des Bundes, soweit deren Nutzung zur Wahrnehmung \u00f6ffentlicher Aufgaben nicht wirtschaftlicher Art erfolgt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108100012BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Technische Richtlinien des Interministeriellen Ausschusses f\u00fcr Geoinformationswesen",
+        "parent": null,
+        "body": "<P>(1) Die geodatenhaltenden Stellen des Bundes, die geotopographische Referenzdaten erheben oder erstellen, haben die qualitativen und technischen Anforderungen nach \u00a7 1 Absatz 2 nach dem Stand der Technik zu erf\u00fcllen. Die Einhaltung des Standes der Technik wird vermutet, wenn die Technischen Richtlinien des Interministeriellen Ausschusses f\u00fcr Geoinformationswesen in der jeweils im elektronischen Bundesanzeiger<FnR ID=\"F776484_01_BJNR108100012BJNE000600000\" /> ver\u00f6ffentlichten Fassung eingehalten werden.</P><P>(2) Der Interministerielle Ausschuss f\u00fcr Geoinformationswesen ist befugt, einvernehmlich in Technischen Richtlinien <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die qualitativen und technischen Vorgaben an die in Bundesbeh\u00f6rden zu verwendenden \u00fcbergeordneten geod\u00e4tischen Referenzsysteme festzulegen, insbesondere <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die anzuwendenden nationalen, unionsrechtlichen und internationalen technischen Normen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>das geod\u00e4tische Datum und die Art der Koordinatenabbildung sowie die Beschreibung von Koordinatentransformationen zwischen unterschiedlichen geod\u00e4tischen Datumsfestlegungen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Anforderungen an die Qualit\u00e4t,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>die Errichtung, Bereitstellung, Pflege sowie die Punktdichte und r\u00e4umliche Abgrenzung des geod\u00e4tischen Festpunktfeldes,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die qualitativen und technischen Vorgaben an die in Bundesbeh\u00f6rden zu verwendenden geotopographischen Referenzdaten, die in einem einheitlichen geod\u00e4tischen Referenzsystem beschrieben werden, zu bestimmen, insbesondere <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>Geodatenmodelle,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>kartographische Modelle,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>Fernerkundungsprodukte im Sinne des \u00a7 2 Nummer 4 Satz 3,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>Anforderungen an die Qualit\u00e4t,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>r\u00e4umliche Abgrenzung und</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>technische Bereitstellung, sowie</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>zu den Geodatendiensten des Bundes die qualitativen und technischen Vorgaben f\u00fcr eine optimale Vernetzung (Interoperabilit\u00e4t) festzulegen und die geotopographischen Referenzdaten des Bundes zu bestimmen, die allein oder in Verbindung mit anderen Daten in elektronischer Form zug\u00e4nglich gemacht werden sollen.</LA></DD></DL>Die Festlegungen der qualitativen und technischen Vorgaben erfolgt im Einvernehmen mit den Vermessungsverwaltungen der L\u00e4nder. Zur Sicherstellung unionsrechtlich und international geltender Standards k\u00f6nnen weiterf\u00fchrende Festlegungen im Benehmen mit den Vermessungsverwaltungen der L\u00e4nder erfolgen.</P><P>(3) F\u00fcr die geod\u00e4tischen Referenznetze sowie die geotopographischen Referenzdaten sind die Art und Periodizit\u00e4t der Historisierung in den Richtlinien zu dokumentieren. Im \u00dcbrigen gilt das Bundesarchivgesetz.</P><P>(4) Die Technischen Richtlinien sind im elektronischen Bundesanzeiger<FnR ID=\"F776484_01_BJNR108100012BJNE000600000\" /> zu ver\u00f6ffentlichen.</P>",
+        "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"F776484_01_BJNR108100012BJNE000600000\" Pos=\"normal\" Postfix=\")\">Hinweis der Schriftleitung: Seit 1. April 2012 wird der elektronische Bundesanzeiger unter der Bezeichnung \u201eBundesanzeiger\u201c gef\u00fchrt (www.bundesanzeiger.de).</Footnote>",
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR108100012BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt am 1. November 2012 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

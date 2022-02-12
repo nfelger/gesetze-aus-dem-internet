@@ -1,0 +1,277 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR280800007",
+    "firstPublished": "2007-12-08",
+    "sourceTimestamp": "20181022212004",
+    "titleShort": "Zensusvorbereitungsgesetz 2011",
+    "titleLong": "Gesetz zur Vorbereitung eines registergest\u00fctzten Zensus einschlie\u00dflich einer Geb\u00e4ude- und Wohnungsz\u00e4hlung 2011",
+    "abbreviation": "ZensVorbG 2011",
+    "slug": "zensvorbg_2011",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2007, 2808",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 3 G v. 8.7.2009 I 1781",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 13.12.2007 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR280800007BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Anwendungsbereich",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000100000"
+        },
+        "body": "<P>Dieses Gesetz regelt den Aufbau eines Anschriften- und Geb\u00e4uderegisters zur Vorbereitung einer Volks-, Geb\u00e4ude- und Wohnungsz\u00e4hlung, die im Wege der Auswertung der in den Melderegistern und anderen Verwaltungsregistern gespeicherten Daten sowie im Wege erg\u00e4nzender Befragungen (registergest\u00fctzter Zensus) im Jahre 2011 durchgef\u00fchrt werden soll.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR280800007BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Aufbau des Anschriften- und Geb\u00e4uderegisters sowie eines Verzeichnisses zum Geburtsort und Geburtsstaat",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Anschriften- und Geb\u00e4uderegister",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000200000"
+        },
+        "body": "<P>(1) Das Statistische Bundesamt erstellt und f\u00fchrt zur Vorbereitung des Zensus ein Anschriften- und Geb\u00e4uderegister. Die nach Landesrecht f\u00fcr die Durchf\u00fchrung der Bundesstatistiken zust\u00e4ndigen Stellen (statistische \u00c4mter der L\u00e4nder) wirken bei Aufbau und Pflege des Anschriften- und Geb\u00e4uderegisters mit und nutzen es f\u00fcr die Vorbereitung des Zensus.</P><P>(2) Das Anschriften- und Geb\u00e4uderegister dient <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Steuerung des Ablaufs der Geb\u00e4ude- und Wohnungsz\u00e4hlung sowie der Ablaufkontrolle aller prim\u00e4rstatistischen Erhebungen des Zensus,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zur Vorbereitung und als Auswahlgrundlage f\u00fcr die beim Zensus vorgesehenen Stichprobenerhebungen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>dazu, die Erhebungen f\u00fcr den Zensus zu koordinieren, im Rahmen der Durchf\u00fchrung des Zensus die aus verschiedenen Quellen stammenden Daten zusammenzuf\u00fchren und die in den Zensus einzubeziehenden Geb\u00e4ude, Wohnungen und Personen auf Vollz\u00e4hligkeit zu pr\u00fcfen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der Entwicklung eines Systems der raumbezogenen Analysen und Darstellungen von statistischen Ergebnissen und der Schaffung einer Grundlage f\u00fcr eine kleinr\u00e4umige Auswertung des Zensus.</LA></DD></DL></P><P>(3) Im Anschriften- und Geb\u00e4uderegister werden zu jeder Wohnanschrift folgende Angaben gespeichert: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Ordnungsnummer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Postleitzahl,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Ort oder Gemeinde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Ortsteil oder Gemeindeteil,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Stra\u00dfe,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Hausnummer,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Anschriftenzusatz,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Lage des Geb\u00e4udes,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Amtlicher Gemeindeschl\u00fcssel,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>Schl\u00fcssel des Orts- oder Gemeindeteils,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>Schl\u00fcssel der Stra\u00dfe,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>Gemeindeeigener Schl\u00fcssel der Stra\u00dfe,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>Koordinatenwerte einschlie\u00dflich Qualit\u00e4tskennzeichen,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA>Gemeindegr\u00f6\u00dfenklasse,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA>Geb\u00e4udefunktion,</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA>Geb\u00e4udestatus,</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA>Anzahl der Wohnungen,</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA>Anzahl bewohnter Wohnungen,</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA>Personenzahl Hauptwohnung je Anschrift,</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA>Personenzahl Nebenwohnung je Anschrift,</LA></DD><DT>21.</DT><DD Font=\"normal\"><LA>Anzahl der Deutschen je Anschrift,</LA></DD><DT>22.</DT><DD Font=\"normal\"><LA>Anzahl der Ausl\u00e4nder je Anschrift,</LA></DD><DT>23.</DT><DD Font=\"normal\"><LA>Anzahl der sozialversicherungspflichtig Besch\u00e4ftigten je Anschrift,</LA></DD><DT>24.</DT><DD Font=\"normal\"><LA>Anzahl der Arbeitslosen je Anschrift,</LA></DD><DT>25.</DT><DD Font=\"normal\"><LA>Kennzeichnung der Erhebungsstelle,</LA></DD><DT>26.</DT><DD Font=\"normal\"><LA>Stichprobenkennzeichen,</LA></DD><DT>27.</DT><DD Font=\"normal\"><LA>Anzahl unterschiedlicher Familiennamen je Anschrift,</LA></DD><DT>28.</DT><DD Font=\"normal\"><LA>Fluktuationsrate je Anschrift,</LA></DD></DL>f\u00fcr Sondergeb\u00e4ude zus\u00e4tzlich: <DL Type=\"arabic\"><DT>29.</DT><DD Font=\"normal\"><LA>Art der Einrichtung,</LA></DD><DT>30.</DT><DD Font=\"normal\"><LA>Name und Anschriften der Tr\u00e4ger, Eigent\u00fcmer oder Verwalter der Unterkunft,</LA></DD><DT>31.</DT><DD Font=\"normal\"><LA>Erhebungsverfahren bei Sondergeb\u00e4uden,</LA></DD></DL>Auskunftspflichtige f\u00fcr die Geb\u00e4ude- und Wohnungsz\u00e4hlung: <DL Type=\"arabic\"><DT>32.</DT><DD Font=\"normal\"><LA>Familienname und Vornamen oder Bezeichnung und</LA></DD><DT>33.</DT><DD Font=\"normal\"><LA>Anschrift der jeweiligen Eigent\u00fcmer, Erbbauberechtigten, Verwalter oder sonstigen Verf\u00fcgungsberechtigten der Geb\u00e4ude und Wohnungen.</LA></DD></DL></P><P>(4) Das Anschriften- und Geb\u00e4uderegister muss f\u00fcr die Durchf\u00fchrung des Zensus sp\u00e4testens ab dem 31. Dezember 2010 nutzbar sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Ortsverzeichnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000200000"
+        },
+        "body": "<P>(1) Das Statistische Bundesamt erstellt und f\u00fchrt ein von dem Register nach \u00a7 2 getrenntes Verzeichnis der Geburtsorte und Geburtsstaaten (Ortsverzeichnis). Es wird von den statistischen \u00c4mtern des Bundes und der L\u00e4nder f\u00fcr die Durchf\u00fchrung des Zensus genutzt.</P><P>(2) Im Ortsverzeichnis werden gespeichert: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Geburtsorte,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Geburtsstaaten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Geburtsorte \u2013 Standesamt \u2013,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Staaten, aus denen Zuz\u00fcge erfolgt sind.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "\u00dcbermittlung von Daten durch die Vermessungsbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000200000"
+        },
+        "body": "<P>(1) Die nach Landesrecht f\u00fcr das Vermessungswesen zust\u00e4ndigen Stellen (Landesvermessungsbeh\u00f6rden) \u00fcbermitteln dem Bundesamt f\u00fcr Kartographie und Geod\u00e4sie zum 1. April 2008 f\u00fcr jede Anschrift elektronisch Angaben zu folgenden Merkmalen mit Stichtag 1. April 2007: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Kennung Datensatz,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Eindeutige Datensatznummer,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Amtlicher Gemeindeschl\u00fcssel,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Von den Landesvermessungsbeh\u00f6rden vergebener Schl\u00fcssel des Orts- oder Gemeindeteils,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Von den Landesvermessungsbeh\u00f6rden vergebener Schl\u00fcssel der Stra\u00dfe,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Hausnummer,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Anschriftenzusatz,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Koordinatenwerte einschlie\u00dflich Qualit\u00e4tskennzeichen,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Name der Stra\u00dfe,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>Postleitzahl,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>Postalischer Ortsname einschlie\u00dflich Zus\u00e4tze.</LA></DD></DL></P><P>(2) Die Landesvermessungsbeh\u00f6rden \u00fcbermitteln die \u00c4nderungen der Angaben zu den Merkmalen nach Absatz 1, die sich jeweils gegen\u00fcber der letzten \u00dcbermittlung ergeben haben, elektronisch bis zum 31. Juli eines Jahres mit Stand 1. April desselben Jahres f\u00fcr die Jahre 2008 bis 2010 an das Bundesamt f\u00fcr Kartographie und Geod\u00e4sie.</P><P>(3) Das Bundesamt f\u00fcr Kartographie und Geod\u00e4sie \u00fcberpr\u00fcft die Angaben nach den Abs\u00e4tzen 1 und 2 auf Vollz\u00e4hligkeit, erg\u00e4nzt Datenl\u00fccken und \u00fcbermittelt die vollst\u00e4ndigen Angaben elektronisch an das Statistische Bundesamt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "\u00dcbermittlung von Daten durch die Meldebeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000200000"
+        },
+        "body": "<P>(1) F\u00fcr den Aufbau des Anschriften- und Geb\u00e4uderegisters nach \u00a7 2 und des Ortsverzeichnisses nach \u00a7 3 \u00fcbermitteln die nach Landesrecht f\u00fcr das Meldewesen zust\u00e4ndigen Stellen (Meldebeh\u00f6rden) den statistischen \u00c4mtern der L\u00e4nder f\u00fcr alle gemeldeten Einwohner aus den Melderegistern elektronisch die folgenden Angaben mit Stichtag 1. April 2008 innerhalb der folgenden vier Wochen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Gegenw\u00e4rtige Anschrift einschlie\u00dflich amtlicher Gemeindeschl\u00fcssel,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Sofern vorhanden, der gemeindeeigene Schl\u00fcssel der Stra\u00dfe,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Status der Wohnung nach alleiniger Wohnung, Haupt- oder Nebenwohnung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Tag des Beziehens der Wohnung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Tag der Anmeldung bei der Meldebeh\u00f6rde,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Familienname,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Staatsangeh\u00f6rigkeiten,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Vorherige Anschrift,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Familienstand,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>Tag der Geburt,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>Geschlecht,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>Geburtsort,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>Geburtsstaat,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA>Geburtsort \u2013 Standesamt \u2013,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA>Staat, aus dem der Zuzug erfolgt ist.</LA></DD></DL>Die Angaben nach Satz 1 Nr. 1 bis 11 sind bei den statistischen Landes\u00e4mtern unverz\u00fcglich von den Angaben zu den Nummern 12 bis 15 zu trennen.</P><P>(2) Die Meldebeh\u00f6rden \u00fcbermitteln den statistischen \u00c4mtern der L\u00e4nder aus den Melderegistern elektronisch die Angaben nach Absatz 1 Satz 1 Nr. 1 bis 11 mit Stichtag 1. April 2010 innerhalb der folgenden vier Wochen.</P><P>(3) Die statistischen \u00c4mter der L\u00e4nder \u00fcbermitteln die Angaben nach den Abs\u00e4tzen 1 und 2 sp\u00e4testens acht Wochen nach dem jeweiligen Stichtag der Daten\u00fcbermittlungen der Meldebeh\u00f6rden elektronisch an das Statistische Bundesamt.</P><P>(4) Die Angaben nach Absatz 1 Satz 1 Nr. 1 bis 5 und 7 bis 11 werden in einer Stichprobenorganisationsdatei beim Statistischen Bundesamt gespeichert. Sie wird von den statistischen \u00c4mtern des Bundes und der L\u00e4nder f\u00fcr die Entwicklung von Stichprobenpl\u00e4nen und Hochrechnungsverfahren verwendet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "\u00dcbermittlung von Daten durch die Bundesagentur f\u00fcr Arbeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000200000"
+        },
+        "body": "<P>Die Bundesagentur f\u00fcr Arbeit \u00fcbermittelt f\u00fcr die am 30. September 2007 sozialversicherungspflichtig Besch\u00e4ftigten und f\u00fcr die am 13. M\u00e4rz 2008 arbeitslos gemeldeten Personen dem Statistischen Bundesamt zum 15. April 2008 elektronisch jeweils die Angaben zu folgenden Merkmalen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Wohnort einschlie\u00dflich Postleitzahl und amtlicher Gemeindeschl\u00fcssel,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Stra\u00dfe,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Hausnummer und Anschriftenzus\u00e4tze,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Status (besch\u00e4ftigt oder arbeitslos).</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Zusammenf\u00fchrung der Angaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000200000"
+        },
+        "body": "<P>(1) Die nach \u00a7 5 Abs. 1 Satz 1 Nr. 1 bis 11 und Abs. 2 \u00fcbermittelten Angaben werden mit denen nach den \u00a7\u00a7 4 und 6 zur Standardisierung von Stra\u00dfennamen vom Statistischen Bundesamt zusammengef\u00fchrt und zu anschriftenbezogenen Gruppen zusammengefasst.</P><P>(2) Auf das Ergebnis der Zusammenf\u00fchrung nach Absatz 1 haben die statistischen \u00c4mter der L\u00e4nder jeweils f\u00fcr ihren Zust\u00e4ndigkeitsbereich Zugriff. Die statistischen \u00c4mter der L\u00e4nder \u00fcberpr\u00fcfen das Ergebnis, insbesondere auf Vollz\u00e4hligkeit und Schl\u00fcssigkeit der \u00fcbermittelten Daten. Sie \u00fcbermitteln den Meldebeh\u00f6rden die Anschriftenbereiche, zu denen Anhaltspunkte auf unvollst\u00e4ndige oder fehlerhafte Daten vorliegen. Die Meldebeh\u00f6rden kl\u00e4ren anhand der vorhandenen Daten, ob die urspr\u00fcnglich \u00fcbermittelten Daten vollz\u00e4hlig und fehlerfrei waren. Sofern dies nicht der Fall ist, \u00fcbermitteln sie den statistischen \u00c4mtern der L\u00e4nder nochmals Daten f\u00fcr die betreffenden Anschriftenbereiche. Das Ergebnis der \u00dcberpr\u00fcfung wird von den statistischen \u00c4mtern der L\u00e4nder an das Statistische Bundesamt \u00fcbermittelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Ordnungsnummern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000200000"
+        },
+        "body": "<P>(1) F\u00fcr jede Anschrift, jedes Geb\u00e4ude und jede Wohnung wird eine Ordnungsnummer vergeben. Die Ordnungsnummern werden mit gemeinde- und geb\u00e4ude\u00fcbergreifender Eindeutigkeit von den statistischen \u00c4mtern des Bundes und der L\u00e4nder vergeben und gef\u00fchrt. Die Ordnungsnummer kann das Merkmal \u201eSchl\u00fcssel der Stra\u00dfe\u201c nach \u00a7 2 Abs. 3 Nr. 11 enthalten.</P><P>(2) Die Ordnungsnummern werden bei den Zusammenf\u00fchrungen nach \u00a7 7 sowie bei den beim Zensus erforderlichen Zusammenf\u00fchrungen der Daten der Registerauswertungen und der Daten der erg\u00e4nzenden Befragungen verwendet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Sondergeb\u00e4ude",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000200000"
+        },
+        "body": "<P>(1) Zur Vorbereitung der Erhebung von Personen in Sondergeb\u00e4uden erg\u00e4nzen die statistischen \u00c4mter der L\u00e4nder das Anschriften- und Geb\u00e4uderegister um folgende Merkmale: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Art der Einrichtung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Name und Anschrift des Tr\u00e4gers, Eigent\u00fcmers oder Verwalters der Unterkunft.</LA></DD></DL></P><P>(2) Die statistischen \u00c4mter der L\u00e4nder stellen die Vollz\u00e4hligkeit der in den Zensus einzubeziehenden Sondergeb\u00e4ude und die Qualit\u00e4t der in Absatz 1 genannten Merkmale sicher.</P><P>(3) Sondergeb\u00e4ude sind Gemeinschafts-, Anstalts- und Notunterk\u00fcnfte, Wohnheime und Geb\u00e4ude, die durch Angeh\u00f6rige ausl\u00e4ndischer Streitkr\u00e4fte, diplomatischer oder berufskonsularischer Vertretungen bewohnt werden. Unter Gemeinschafts- und Anstaltsunterk\u00fcnften sind Einrichtungen zu verstehen, die in der Regel der l\u00e4ngerfristigen Unterbringung und Versorgung einer Gruppe von Personen dienen. Als Notunterk\u00fcnfte gelten auch Anschriften, an denen Wohnungslose gemeldet sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR280800007BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "\u00dcbermittlung von Daten zur Vorbereitung einer Geb\u00e4ude- und Wohnungsz\u00e4hlung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Ermittlung der Auskunftspflichtigen f\u00fcr die Geb\u00e4ude- und Wohnungsz\u00e4hlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000300000"
+        },
+        "body": "<P>(1) F\u00fcr die Durchf\u00fchrung der Geb\u00e4ude- und Wohnungsz\u00e4hlung erg\u00e4nzen die statistischen \u00c4mter der L\u00e4nder das Anschriften- und Geb\u00e4uderegister um Angaben zu folgenden Merkmalen mit Stichtag 1. April 2009: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Familienname und Vorname oder Bezeichnung und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Anschrift des Eigent\u00fcmers, Erbbauberechtigten, Verwalters oder sonstigen Verf\u00fcgungsberechtigten des Geb\u00e4udes oder der Wohnung.</LA></DD></DL>Die auskunftspflichtigen Stellen \u00fcbermitteln auf Anforderung der statistischen \u00c4mter der L\u00e4nder diese Angaben so weit wie m\u00f6glich elektronisch innerhalb einer Frist von vier Wochen nach dem in Satz 1 genannten Stichtag.</P><P>(2) Auskunftspflichtige Stellen sind die f\u00fcr die Grundsteuer, die f\u00fcr die F\u00fchrung der Grundb\u00fccher und die f\u00fcr die F\u00fchrung der Liegenschaftskataster jeweils nach Landesrecht zust\u00e4ndigen Stellen sowie die Finanzbeh\u00f6rden und die Versorgungs- und Entsorgungsbetriebe. Das Steuergeheimnis nach \u00a7 30 der Abgabenordnung steht der Auskunft nicht entgegen.</P><P>(3) Die in Absatz 2 genannten Auskunftspflichtigen \u00fcbermitteln den statistischen \u00c4mtern der L\u00e4nder auf Anforderung einmalig innerhalb von vier Wochen die \u00c4nderungen der Angaben zu den Merkmalen nach Absatz 1 Satz 1, die gegen\u00fcber der Meldung nach Absatz 1 Satz 2 seit dem 1. April 2009 eingetreten sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR280800007BJNG000400000",
+        "name": "Abschnitt 4",
+        "title": "Gemeinsame Vorschriften, Inkrafttreten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Geheimhaltung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000400000"
+        },
+        "body": "<P>F\u00fcr die Geheimhaltung der Einzelangaben \u00fcber pers\u00f6nliche und sachliche Verh\u00e4ltnisse gilt \u00a7 16 des Bundesstatistikgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE001300000",
+        "name": "\u00a7 12",
+        "title": "Nutzung allgemein zug\u00e4nglicher Quellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000400000"
+        },
+        "body": "<P>F\u00fcr Zwecke dieses Gesetzes k\u00f6nnen die statistischen \u00c4mter des Bundes und der L\u00e4nder auch Angaben aus allgemein zug\u00e4nglichen Quellen verwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE001400000",
+        "name": "\u00a7 13",
+        "title": "Daten\u00fcbermittlungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000400000"
+        },
+        "body": "<P>(1) Die im vorliegenden Gesetz geregelten Daten\u00fcbermittlungen haben jeweils aus den vorhandenen Unterlagen zu erfolgen.</P><P>(2) Die nach diesem Gesetz beteiligten Stellen haben durch technische und organisatorische Ma\u00dfnahmen zu gew\u00e4hrleisten, dass die Angaben bei der elektronischen \u00dcbermittlung oder w\u00e4hrend ihres Transports oder ihrer Speicherung auf Datentr\u00e4ger nicht unbefugt gelesen, kopiert, ver\u00e4ndert oder entfernt werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "Kosten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000400000"
+        },
+        "body": "<P>Eine Erstattung der Kosten von Daten\u00fcbermittlungen an das Statistische Bundesamt erfolgt nicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "L\u00f6schung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000400000"
+        },
+        "body": "<P>(1) Der Familienname nach \u00a7 5 Abs. 1 Nr. 6 wird gel\u00f6scht, nachdem im Zuge der in \u00a7 7 geregelten Zusammenf\u00fchrungen und Auswertungen f\u00fcr jede Anschrift die Zahl der dort gemeldeten Personen mit unterschiedlichen Familiennamen festgestellt worden ist. Die Daten nach \u00a7 6 werden nach der Erstellung des Anschriften- und Geb\u00e4uderegisters gel\u00f6scht.</P><P>(2) Die Stichprobenorganisationsdatei nach \u00a7 5 Abs. 4 wird zum fr\u00fchestm\u00f6glichen Zeitpunkt, sp\u00e4testens am Zensusstichtag gel\u00f6scht.</P><P>(3) Das Anschriften- und Geb\u00e4uderegister nach \u00a7 2 wird zum fr\u00fchestm\u00f6glichen Zeitpunkt nach Abschluss der Auswertung des Zensus, sp\u00e4testens jedoch sechs Jahre nach dem Zensusstichtag, aufgel\u00f6st und die darin gespeicherten Daten gel\u00f6scht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 15: Mit dem GG vereinbar, BVerfGE v. 19.9.2018 I 1713 - 2 BvF 1/15, 2 BvF 2/15 -</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR280800007BJNE001701310",
+        "name": "\u00a7 16",
+        "title": "Umwelt- und wohnungsstatistische Stichprobenerhebungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR280800007BJNG000400000"
+        },
+        "body": "<P>(1) Die Angaben nach \u00a7 2 Absatz 3 Nummer 1 bis 20, 26 und 29 d\u00fcrfen in Verbindung mit den Angaben nach \u00a7 6 Absatz 2 Nummer 1 Buchstabe b bis f des Zensusgesetzes 2011 als Auswahlgrundlage f\u00fcr umwelt- und wohnungsstatistische Stichprobenerhebungen genutzt werden.</P><P>(2) Die Angaben nach \u00a7 2 Absatz 3 Nummer 32 und 33 d\u00fcrfen in Verbindung mit den nach Absatz 1 ausgew\u00e4hlten Wohnanschriften f\u00fcr die Vorbereitung und Durchf\u00fchrung der Stichprobenerhebungen verwendet werden.</P><P>(3) Die Angaben nach Absatz 2 sind zu l\u00f6schen, sobald sie f\u00fcr die Durchf\u00fchrung der Stichprobenerhebungen nicht mehr erforderlich sind, sp\u00e4testens jedoch am 9. Mai 2017.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

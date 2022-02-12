@@ -1,0 +1,807 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR001750951",
+    "firstPublished": "1951-03-15",
+    "sourceTimestamp": "20210210212501",
+    "titleShort": "Wohnungseigentumsgesetz",
+    "titleLong": "Gesetz \u00fcber das Wohnungseigentum und das Dauerwohnrecht",
+    "abbreviation": "WEG",
+    "slug": "weg",
+    "extraAbbreviations": [
+      "WoEigG"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1951, 175, 209",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 12.1.2021 I 34",
+        "category": "Neuf"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.10.1973 +++)<BR /><BR /></pre>Wegen des Umfangs der Geltung im Saarland vgl. \u00a7 3 II Nr. 1 G v. 30.6.1959 101-3; in Berlin gem. Art. III G v. 2.8.1951 GVBl. S. 547 am 10.8.1951 in Kraft getreten <BR />\u00dcberschrift: Buchstabenabk\u00fcrzung eingef. durch Art. 1 Nr. 1 G v. 16.10.2020 2187 mWv 1.12.2020</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG000102360",
+        "name": "Teil 1",
+        "title": "Wohnungseigentum",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG001201360",
+        "name": "Abschnitt 1",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000102360"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE001202360",
+        "name": "\u00a7 1",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG001201360"
+        },
+        "body": "<P>(1) Nach Ma\u00dfgabe dieses Gesetzes kann an Wohnungen das Wohnungseigentum, an nicht zu Wohnzwecken dienenden R\u00e4umen eines Geb\u00e4udes das Teileigentum begr\u00fcndet werden.</P><P>(2) Wohnungseigentum ist das Sondereigentum an einer Wohnung in Verbindung mit dem Miteigentumsanteil an dem gemeinschaftlichen Eigentum, zu dem es geh\u00f6rt.</P><P>(3) Teileigentum ist das Sondereigentum an nicht zu Wohnzwecken dienenden R\u00e4umen eines Geb\u00e4udes in Verbindung mit dem Miteigentumsanteil an dem gemeinschaftlichen Eigentum, zu dem es geh\u00f6rt.</P><P>(4) Wohnungseigentum und Teileigentum k\u00f6nnen nicht in der Weise begr\u00fcndet werden, dass das Sondereigentum mit Miteigentum an mehreren Grundst\u00fccken verbunden wird.</P><P>(5) Gemeinschaftliches Eigentum im Sinne dieses Gesetzes sind das Grundst\u00fcck und das Geb\u00e4ude, soweit sie nicht im Sondereigentum oder im Eigentum eines Dritten stehen.</P><P>(6) F\u00fcr das Teileigentum gelten die Vorschriften \u00fcber das Wohnungseigentum entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG000202360",
+        "name": "Abschnitt 2",
+        "title": "Begr\u00fcndung des Wohnungseigentums",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000102360"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE001401360",
+        "name": "\u00a7 2",
+        "title": "Arten der Begr\u00fcndung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000202360"
+        },
+        "body": "<P>Wohnungseigentum wird durch die vertragliche Einr\u00e4umung von Sondereigentum (\u00a7 3) oder durch Teilung (\u00a7 8) begr\u00fcndet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE001504360",
+        "name": "\u00a7 3",
+        "title": "Vertragliche Einr\u00e4umung von Sondereigentum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000202360"
+        },
+        "body": "<P>(1) Das Miteigentum (\u00a7 1008 des B\u00fcrgerlichen Gesetzbuchs) an einem Grundst\u00fcck kann durch Vertrag der Miteigent\u00fcmer in der Weise beschr\u00e4nkt werden, dass jedem der Miteigent\u00fcmer abweichend von \u00a7 93 des B\u00fcrgerlichen Gesetzbuchs das Eigentum an einer bestimmten Wohnung oder an nicht zu Wohnzwecken dienenden bestimmten R\u00e4umen in einem auf dem Grundst\u00fcck errichteten oder zu errichtenden Geb\u00e4ude (Sondereigentum) einger\u00e4umt wird. Stellpl\u00e4tze gelten als R\u00e4ume im Sinne des Satzes 1.</P><P>(2) Das Sondereigentum kann auf einen au\u00dferhalb des Geb\u00e4udes liegenden Teil des Grundst\u00fccks erstreckt werden, es sei denn, die Wohnung oder die nicht zu Wohnzwecken dienenden R\u00e4ume bleiben dadurch wirtschaftlich nicht die Hauptsache.</P><P>(3) Sondereigentum soll nur einger\u00e4umt werden, wenn die Wohnungen oder sonstigen R\u00e4ume in sich abgeschlossen sind und Stellpl\u00e4tze sowie au\u00dferhalb des Geb\u00e4udes liegende Teile des Grundst\u00fccks durch Ma\u00dfangaben im Aufteilungsplan bestimmt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE001602360",
+        "name": "\u00a7 4",
+        "title": "Formvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000202360"
+        },
+        "body": "<P>(1) Zur Einr\u00e4umung und zur Aufhebung des Sondereigentums ist die Einigung der Beteiligten \u00fcber den Eintritt der Rechts\u00e4nderung und die Eintragung in das Grundbuch erforderlich.</P><P>(2) Die Einigung bedarf der f\u00fcr die Auflassung vorgeschriebenen Form. Sondereigentum kann nicht unter einer Bedingung oder Zeitbestimmung einger\u00e4umt oder aufgehoben werden.</P><P>(3) F\u00fcr einen Vertrag, durch den sich ein Teil verpflichtet, Sondereigentum einzur\u00e4umen, zu erwerben oder aufzuheben, gilt \u00a7 311b Absatz 1 des B\u00fcrgerlichen Gesetzbuchs entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE001703360",
+        "name": "\u00a7 5",
+        "title": "Gegenstand und Inhalt des Sondereigentums",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000202360"
+        },
+        "body": "<P>(1) Gegenstand des Sondereigentums sind die gem\u00e4\u00df \u00a7 3 Absatz 1 Satz 1 bestimmten R\u00e4ume sowie die zu diesen R\u00e4umen geh\u00f6renden Bestandteile des Geb\u00e4udes, die ver\u00e4ndert, beseitigt oder eingef\u00fcgt werden k\u00f6nnen, ohne dass dadurch das gemeinschaftliche Eigentum oder ein auf Sondereigentum beruhendes Recht eines anderen Wohnungseigent\u00fcmers \u00fcber das bei einem geordneten Zusammenleben unvermeidliche Ma\u00df hinaus beeintr\u00e4chtigt oder die \u00e4u\u00dfere Gestaltung des Geb\u00e4udes ver\u00e4ndert wird. Soweit sich das Sondereigentum auf au\u00dferhalb des Geb\u00e4udes liegende Teile des Grundst\u00fccks erstreckt, gilt \u00a7 94 des B\u00fcrgerlichen Gesetzbuchs entsprechend.</P><P>(2) Teile des Geb\u00e4udes, die f\u00fcr dessen Bestand oder Sicherheit erforderlich sind, sowie Anlagen und Einrichtungen, die dem gemeinschaftlichen Gebrauch der Wohnungseigent\u00fcmer dienen, sind nicht Gegenstand des Sondereigentums, selbst wenn sie sich im Bereich der im Sondereigentum stehenden R\u00e4ume oder Teile des Grundst\u00fccks befinden.</P><P>(3) Die Wohnungseigent\u00fcmer k\u00f6nnen vereinbaren, dass Bestandteile des Geb\u00e4udes, die Gegenstand des Sondereigentums sein k\u00f6nnen, zum gemeinschaftlichen Eigentum geh\u00f6ren.</P><P>(4) Vereinbarungen \u00fcber das Verh\u00e4ltnis der Wohnungseigent\u00fcmer untereinander und Beschl\u00fcsse aufgrund einer solchen Vereinbarung k\u00f6nnen nach den Vorschriften des Abschnitts 4 zum Inhalt des Sondereigentums gemacht werden. Ist das Wohnungseigentum mit der Hypothek, Grund- oder Rentenschuld oder der Reallast eines Dritten belastet, so ist dessen nach anderen Rechtsvorschriften notwendige Zustimmung nur erforderlich, wenn ein Sondernutzungsrecht begr\u00fcndet oder ein mit dem Wohnungseigentum verbundenes Sondernutzungsrecht aufgehoben, ge\u00e4ndert oder \u00fcbertragen wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE001801360",
+        "name": "\u00a7 6",
+        "title": "Unselbst\u00e4ndigkeit des Sondereigentums",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000202360"
+        },
+        "body": "<P>(1) Das Sondereigentum kann ohne den Miteigentumsanteil, zu dem es geh\u00f6rt, nicht ver\u00e4u\u00dfert oder belastet werden.</P><P>(2) Rechte an dem Miteigentumsanteil erstrecken sich auf das zu ihm geh\u00f6rende Sondereigentum.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE001904360",
+        "name": "\u00a7 7",
+        "title": "Grundbuchvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000202360"
+        },
+        "body": "<P>(1) Im Fall des \u00a7\u00a03 Absatz 1 wird f\u00fcr jeden Miteigentumsanteil von Amts wegen ein besonderes Grundbuchblatt (Wohnungsgrundbuch, Teileigentumsgrundbuch) angelegt. Auf diesem ist das zu dem Miteigentumsanteil geh\u00f6rende Sondereigentum und als Beschr\u00e4nkung des Miteigentums die Einr\u00e4umung der zu den anderen Miteigentumsanteilen geh\u00f6renden Sondereigentumsrechte einzutragen. Das Grundbuchblatt des Grundst\u00fccks wird von Amts wegen geschlossen.</P><P>(2) Zur Eintragung eines Beschlusses im Sinne des \u00a7 5 Absatz 4 Satz 1 bedarf es der Bewilligungen der Wohnungseigent\u00fcmer nicht, wenn der Beschluss durch eine Niederschrift, bei der die Unterschriften der in \u00a7 24 Absatz 6 bezeichneten Personen \u00f6ffentlich beglaubigt sind, oder durch ein Urteil in einem Verfahren nach \u00a7 44 Absatz 1 Satz 2 nachgewiesen ist. Antragsberechtigt ist auch die Gemeinschaft der Wohnungseigent\u00fcmer.</P><P>(3) Zur n\u00e4heren Bezeichnung des Gegenstands und des Inhalts des Sondereigentums kann auf die Eintragungsbewilligung oder einen Nachweis gem\u00e4\u00df Absatz 2 Satz 1 Bezug genommen werden. Ver\u00e4u\u00dferungsbeschr\u00e4nkungen (\u00a7\u00a012) und die Haftung von Sondernachfolgern f\u00fcr Geldschulden sind jedoch ausdr\u00fccklich einzutragen.</P><P>(4) Der Eintragungsbewilligung sind als Anlagen beizuf\u00fcgen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine von der Baubeh\u00f6rde mit Unterschrift und Siegel oder Stempel versehene Bauzeichnung, aus der die Aufteilung des Geb\u00e4udes und des Grundst\u00fccks sowie die Lage und Gr\u00f6\u00dfe der im Sondereigentum und der im gemeinschaftlichen Eigentum stehenden Teile des Geb\u00e4udes und des Grundst\u00fccks ersichtlich ist (Aufteilungsplan); alle zu demselben Wohnungseigentum geh\u00f6renden Einzelr\u00e4ume und Teile des Grundst\u00fccks sind mit der jeweils gleichen Nummer zu kennzeichnen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Bescheinigung der Baubeh\u00f6rde, dass die Voraussetzungen des \u00a7 3 Absatz 3 vorliegen.</LA></DD></DL>Wenn in der Eintragungsbewilligung f\u00fcr die einzelnen Sondereigentumsrechte Nummern angegeben werden, sollen sie mit denen des Aufteilungsplans \u00fcbereinstimmen.</P><P>(5) F\u00fcr Teileigentumsgrundb\u00fccher gelten die Vorschriften \u00fcber Wohnungsgrundb\u00fccher entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002002360",
+        "name": "\u00a7 8",
+        "title": "Teilung durch den Eigent\u00fcmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000202360"
+        },
+        "body": "<P>(1) Der Eigent\u00fcmer eines Grundst\u00fccks kann durch Erkl\u00e4rung gegen\u00fcber dem Grundbuchamt das Eigentum an dem Grundst\u00fcck in Miteigentumsanteile in der Weise teilen, dass mit jedem Anteil Sondereigentum verbunden ist.</P><P>(2) Im Fall des Absatzes 1 gelten \u00a7 3 Absatz 1 Satz 2, Absatz 2 und 3, \u00a7 4 Absatz 2 Satz 2 sowie die \u00a7\u00a7 5 bis 7 entsprechend.</P><P>(3) Wer einen Anspruch auf \u00dcbertragung von Wohnungseigentum gegen den teilenden Eigent\u00fcmer hat, der durch Vormerkung im Grundbuch gesichert ist, gilt gegen\u00fcber der Gemeinschaft der Wohnungseigent\u00fcmer und den anderen Wohnungseigent\u00fcmern anstelle des teilenden Eigent\u00fcmers als Wohnungseigent\u00fcmer, sobald ihm der Besitz an den zum Sondereigentum geh\u00f6renden R\u00e4umen \u00fcbergeben wurde.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002102360",
+        "name": "\u00a7 9",
+        "title": "Schlie\u00dfung der Wohnungsgrundb\u00fccher",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000202360"
+        },
+        "body": "<P>(1) Die Wohnungsgrundb\u00fccher werden geschlossen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>von Amts wegen, wenn die Sondereigentumsrechte gem\u00e4\u00df \u00a7 4 aufgehoben werden;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>auf Antrag des Eigent\u00fcmers, wenn sich s\u00e4mtliche Wohnungseigentumsrechte in einer Person vereinigen.</LA></DD></DL></P><P>(2) Ist ein Wohnungseigentum selbst\u00e4ndig mit dem Recht eines Dritten belastet, so werden die allgemeinen Vorschriften, nach denen zur Aufhebung des Sondereigentums die Zustimmung des Dritten erforderlich ist, durch Absatz 1 nicht ber\u00fchrt.</P><P>(3) Werden die Wohnungsgrundb\u00fccher geschlossen, so wird f\u00fcr das Grundst\u00fcck ein Grundbuchblatt nach den allgemeinen Vorschriften angelegt; die Sondereigentumsrechte erl\u00f6schen, soweit sie nicht bereits aufgehoben sind, mit der Anlegung des Grundbuchblatts.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG001301360",
+        "name": "Abschnitt 3",
+        "title": "Rechtsf\u00e4hige Gemeinschaft der Wohnungseigent\u00fcmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000102360"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE007901360",
+        "name": "\u00a7 9a",
+        "title": "Gemeinschaft der Wohnungseigent\u00fcmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG001301360"
+        },
+        "body": "<P>(1) Die Gemeinschaft der Wohnungseigent\u00fcmer kann Rechte erwerben und Verbindlichkeiten eingehen, vor Gericht klagen und verklagt werden. Die Gemeinschaft der Wohnungseigent\u00fcmer entsteht mit Anlegung der Wohnungsgrundb\u00fccher; dies gilt auch im Fall des \u00a7 8. Sie f\u00fchrt die Bezeichnung \u201eGemeinschaft der Wohnungseigent\u00fcmer\u201c oder \u201eWohnungseigent\u00fcmergemeinschaft\u201d gefolgt von der bestimmten Angabe des gemeinschaftlichen Grundst\u00fccks.</P><P>(2) Die Gemeinschaft der Wohnungseigent\u00fcmer \u00fcbt die sich aus dem gemeinschaftlichen Eigentum ergebenden Rechte sowie solche Rechte der Wohnungseigent\u00fcmer aus, die eine einheitliche Rechtsverfolgung erfordern, und nimmt die entsprechenden Pflichten der Wohnungseigent\u00fcmer wahr.</P><P>(3) F\u00fcr das Verm\u00f6gen der Gemeinschaft der Wohnungseigent\u00fcmer (Gemeinschaftsverm\u00f6gen) gelten \u00a7 18, \u00a7 19 Absatz 1 und \u00a7 27 entsprechend.</P><P>(4) Jeder Wohnungseigent\u00fcmer haftet einem Gl\u00e4ubiger nach dem Verh\u00e4ltnis seines Miteigentumsanteils (\u00a7 16 Absatz 1 Satz 2) f\u00fcr Verbindlichkeiten der Gemeinschaft der Wohnungseigent\u00fcmer, die w\u00e4hrend seiner Zugeh\u00f6rigkeit entstanden oder w\u00e4hrend dieses Zeitraums f\u00e4llig geworden sind; f\u00fcr die Haftung nach Ver\u00e4u\u00dferung des Wohnungseigentums ist \u00a7 160 des Handelsgesetzbuchs entsprechend anzuwenden. Er kann gegen\u00fcber einem Gl\u00e4ubiger neben den in seiner Person begr\u00fcndeten auch die der Gemeinschaft der Wohnungseigent\u00fcmer zustehenden Einwendungen und Einreden geltend machen, nicht aber seine Einwendungen und Einreden gegen\u00fcber der Gemeinschaft der Wohnungseigent\u00fcmer. F\u00fcr die Einrede der Anfechtbarkeit und Aufrechenbarkeit ist \u00a7 770 des B\u00fcrgerlichen Gesetzbuchs entsprechend anzuwenden.</P><P>(5) Ein Insolvenzverfahren \u00fcber das Gemeinschaftsverm\u00f6gen findet nicht statt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE008001360",
+        "name": "\u00a7 9b",
+        "title": "Vertretung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG001301360"
+        },
+        "body": "<P>(1) Die Gemeinschaft der Wohnungseigent\u00fcmer wird durch den Verwalter gerichtlich und au\u00dfergerichtlich vertreten, beim Abschluss eines Grundst\u00fcckskauf- oder Darlehensvertrags aber nur aufgrund eines Beschlusses der Wohnungseigent\u00fcmer. Hat die Gemeinschaft der Wohnungseigent\u00fcmer keinen Verwalter, wird sie durch die Wohnungseigent\u00fcmer gemeinschaftlich vertreten. Eine Beschr\u00e4nkung des Umfangs der Vertretungsmacht ist Dritten gegen\u00fcber unwirksam.</P><P>(2) Dem Verwalter gegen\u00fcber vertritt der Vorsitzende des Verwaltungsbeirats oder ein durch Beschluss dazu erm\u00e4chtigter Wohnungseigent\u00fcmer die Gemeinschaft der Wohnungseigent\u00fcmer.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG000302360",
+        "name": "Abschnitt 4",
+        "title": "Rechtsverh\u00e4ltnis der Wohnungseigent\u00fcmer untereinander und zur Gemeinschaft der Wohnungseigent\u00fcmer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000102360"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002203360",
+        "name": "\u00a7 10",
+        "title": "Allgemeine Grunds\u00e4tze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Das Verh\u00e4ltnis der Wohnungseigent\u00fcmer untereinander und zur Gemeinschaft der Wohnungseigent\u00fcmer bestimmt sich nach den Vorschriften dieses Gesetzes und, soweit dieses Gesetz keine besonderen Bestimmungen enth\u00e4lt, nach den Vorschriften des B\u00fcrgerlichen Gesetzbuchs \u00fcber die Gemeinschaft. Die Wohnungseigent\u00fcmer k\u00f6nnen von den Vorschriften dieses Gesetzes abweichende Vereinbarungen treffen, soweit nicht etwas anderes ausdr\u00fccklich bestimmt ist.</P><P>(2) Jeder Wohnungseigent\u00fcmer kann eine vom Gesetz abweichende Vereinbarung oder die Anpassung einer Vereinbarung verlangen, soweit ein Festhalten an der geltenden Regelung aus schwerwiegenden Gr\u00fcnden unter Ber\u00fccksichtigung aller Umst\u00e4nde des Einzelfalls, insbesondere der Rechte und Interessen der anderen Wohnungseigent\u00fcmer, unbillig erscheint.</P><P>(3) Vereinbarungen, durch die die Wohnungseigent\u00fcmer ihr Verh\u00e4ltnis untereinander in Erg\u00e4nzung oder Abweichung von Vorschriften dieses Gesetzes regeln, die Ab\u00e4nderung oder Aufhebung solcher Vereinbarungen sowie Beschl\u00fcsse, die aufgrund einer Vereinbarung gefasst werden, wirken gegen den Sondernachfolger eines Wohnungseigent\u00fcmers nur, wenn sie als Inhalt des Sondereigentums im Grundbuch eingetragen sind. Im \u00dcbrigen bed\u00fcrfen Beschl\u00fcsse zu ihrer Wirksamkeit gegen den Sondernachfolger eines Wohnungseigent\u00fcmers nicht der Eintragung in das Grundbuch.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002304360",
+        "name": "\u00a7 11",
+        "title": "Aufhebung der Gemeinschaft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Kein Wohnungseigent\u00fcmer kann die Aufhebung der Gemeinschaft verlangen. Dies gilt auch f\u00fcr eine Aufhebung aus wichtigem Grund. Eine abweichende Vereinbarung ist nur f\u00fcr den Fall zul\u00e4ssig, dass das Geb\u00e4ude ganz oder teilweise zerst\u00f6rt wird und eine Verpflichtung zum Wiederaufbau nicht besteht.</P><P>(2) Das Recht eines Pf\u00e4ndungsgl\u00e4ubigers (\u00a7\u00a0751 des B\u00fcrgerlichen Gesetzbuchs) sowie das im Insolvenzverfahren bestehende Recht (\u00a7 84 Absatz 2 der Insolvenzordnung), die Aufhebung der Gemeinschaft zu verlangen, ist ausgeschlossen.</P><P>(3) Im Fall der Aufhebung der Gemeinschaft bestimmt sich der Anteil der Miteigent\u00fcmer nach dem Verh\u00e4ltnis des Wertes ihrer Wohnungseigentumsrechte zur Zeit der Aufhebung der Gemeinschaft. Hat sich der Wert eines Miteigentumsanteils durch Ma\u00dfnahmen ver\u00e4ndert, deren Kosten der Wohnungseigent\u00fcmer nicht getragen hat, so bleibt eine solche Ver\u00e4nderung bei der Berechnung des Wertes dieses Anteils au\u00dfer Betracht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002404360",
+        "name": "\u00a7 12",
+        "title": "Ver\u00e4u\u00dferungsbeschr\u00e4nkung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Als Inhalt des Sondereigentums kann vereinbart werden, dass ein Wohnungseigent\u00fcmer zur Ver\u00e4u\u00dferung seines Wohnungseigentums der Zustimmung anderer Wohnungseigent\u00fcmer oder eines Dritten bedarf.</P><P>(2) Die Zustimmung darf nur aus einem wichtigen Grund versagt werden. Durch Vereinbarung gem\u00e4\u00df Absatz 1 kann dem Wohnungseigent\u00fcmer dar\u00fcber hinaus f\u00fcr bestimmte F\u00e4lle ein Anspruch auf Erteilung der Zustimmung einger\u00e4umt werden.</P><P>(3) Ist eine Vereinbarung gem\u00e4\u00df Absatz 1 getroffen, so ist eine Ver\u00e4u\u00dferung des Wohnungseigentums und ein Vertrag, durch den sich der Wohnungseigent\u00fcmer zu einer solchen Ver\u00e4u\u00dferung verpflichtet, unwirksam, solange nicht die erforderliche Zustimmung erteilt ist. Einer rechtsgesch\u00e4ftlichen Ver\u00e4u\u00dferung steht eine Ver\u00e4u\u00dferung im Wege der Zwangsvollstreckung oder durch den Insolvenzverwalter gleich.</P><P>(4) Die Wohnungseigent\u00fcmer k\u00f6nnen beschlie\u00dfen, dass eine Ver\u00e4u\u00dferungsbeschr\u00e4nkung gem\u00e4\u00df Absatz 1 aufgehoben wird. Ist ein Beschluss gem\u00e4\u00df Satz 1 gefasst, kann die Ver\u00e4u\u00dferungsbeschr\u00e4nkung im Grundbuch gel\u00f6scht werden. \u00a7 7 Absatz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002502360",
+        "name": "\u00a7 13",
+        "title": "Rechte des Wohnungseigent\u00fcmers aus dem Sondereigentum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Jeder Wohnungseigent\u00fcmer kann, soweit nicht das Gesetz entgegensteht, mit seinem Sondereigentum nach Belieben verfahren, insbesondere dieses bewohnen, vermieten, verpachten oder in sonstiger Weise nutzen, und andere von Einwirkungen ausschlie\u00dfen.</P><P>(2) F\u00fcr Ma\u00dfnahmen, die \u00fcber die ordnungsm\u00e4\u00dfige Instandhaltung und Instandsetzung (Erhaltung) des Sondereigentums hinausgehen, gilt \u00a7 20 mit der Ma\u00dfgabe entsprechend, dass es keiner Gestattung bedarf, soweit keinem der anderen Wohnungseigent\u00fcmer \u00fcber das bei einem geordneten Zusammenleben unvermeidliche Ma\u00df hinaus ein Nachteil erw\u00e4chst.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002602360",
+        "name": "\u00a7 14",
+        "title": "Pflichten des Wohnungseigent\u00fcmers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Jeder Wohnungseigent\u00fcmer ist gegen\u00fcber der Gemeinschaft der Wohnungseigent\u00fcmer verpflichtet, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die gesetzlichen Regelungen, Vereinbarungen und Beschl\u00fcsse einzuhalten und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Betreten seines Sondereigentums und andere Einwirkungen auf dieses und das gemeinschaftliche Eigentum zu dulden, die den Vereinbarungen oder Beschl\u00fcssen entsprechen oder, wenn keine entsprechenden Vereinbarungen oder Beschl\u00fcsse bestehen, aus denen ihm \u00fcber das bei einem geordneten Zusammenleben unvermeidliche Ma\u00df hinaus kein Nachteil erw\u00e4chst.</LA></DD></DL></P><P>(2) Jeder Wohnungseigent\u00fcmer ist gegen\u00fcber den \u00fcbrigen Wohnungseigent\u00fcmern verpflichtet, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>deren Sondereigentum nicht \u00fcber das in Absatz 1 Nummer 2 bestimmte Ma\u00df hinaus zu beeintr\u00e4chtigen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Einwirkungen nach Ma\u00dfgabe des Absatzes 1 Nummer 2 zu dulden.</LA></DD></DL></P><P>(3) Hat der Wohnungseigent\u00fcmer eine Einwirkung zu dulden, die \u00fcber das zumutbare Ma\u00df hinausgeht, kann er einen angemessenen Ausgleich in Geld verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002702360",
+        "name": "\u00a7 15",
+        "title": "Pflichten Dritter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>Wer Wohnungseigentum gebraucht, ohne Wohnungseigent\u00fcmer zu sein, hat gegen\u00fcber der Gemeinschaft der Wohnungseigent\u00fcmer und anderen Wohnungseigent\u00fcmern zu dulden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Erhaltung des gemeinschaftlichen Eigentums und des Sondereigentums, die ihm rechtzeitig angek\u00fcndigt wurde; \u00a7 555a Absatz 2 des B\u00fcrgerlichen Gesetzbuchs gilt entsprechend;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Ma\u00dfnahmen, die \u00fcber die Erhaltung hinausgehen, die sp\u00e4testens drei Monate vor ihrem Beginn in Textform angek\u00fcndigt wurden; \u00a7 555c Absatz 1 Satz 2 Nummer 1 und 2, Absatz 2 bis 4 und \u00a7 555d Absatz 2 bis 5 des B\u00fcrgerlichen Gesetzbuchs gelten entsprechend.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE002803360",
+        "name": "\u00a7 16",
+        "title": "Nutzungen und Kosten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Jedem Wohnungseigent\u00fcmer geb\u00fchrt ein seinem Anteil entsprechender Bruchteil der Fr\u00fcchte des gemeinschaftlichen Eigentums und des Gemeinschaftsverm\u00f6gens. Der Anteil bestimmt sich nach dem gem\u00e4\u00df \u00a7 47 der Grundbuchordnung im Grundbuch eingetragenen Verh\u00e4ltnis der Miteigentumsanteile. Jeder Wohnungseigent\u00fcmer ist zum Mitgebrauch des gemeinschaftlichen Eigentums nach Ma\u00dfgabe des \u00a7 14 berechtigt.</P><P>(2) Die Kosten der Gemeinschaft der Wohnungseigent\u00fcmer, insbesondere der Verwaltung und des gemeinschaftlichen Gebrauchs des gemeinschaftlichen Eigentums, hat jeder Wohnungseigent\u00fcmer nach dem Verh\u00e4ltnis seines Anteils (Absatz 1 Satz 2) zu tragen. Die Wohnungseigent\u00fcmer k\u00f6nnen f\u00fcr einzelne Kosten oder bestimmte Arten von Kosten eine von Satz 1 oder von einer Vereinbarung abweichende Verteilung beschlie\u00dfen.</P><P>(3) F\u00fcr die Kosten und Nutzungen bei baulichen Ver\u00e4nderungen gilt \u00a7 21.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003004360",
+        "name": "\u00a7 17",
+        "title": "Entziehung des Wohnungseigentums",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Hat ein Wohnungseigent\u00fcmer sich einer so schweren Verletzung der ihm gegen\u00fcber anderen Wohnungseigent\u00fcmern oder der Gemeinschaft der Wohnungseigent\u00fcmer obliegenden Verpflichtungen schuldig gemacht, dass diesen die Fortsetzung der Gemeinschaft mit ihm nicht mehr zugemutet werden kann, so kann die Gemeinschaft der Wohnungseigent\u00fcmer von ihm die Ver\u00e4u\u00dferung seines Wohnungseigentums verlangen.</P><P>(2) Die Voraussetzungen des Absatzes 1 liegen insbesondere vor, wenn der Wohnungseigent\u00fcmer trotz Abmahnung wiederholt gr\u00f6blich gegen die ihm nach \u00a7 14 Absatz 1 und 2 obliegenden Pflichten verst\u00f6\u00dft.</P><P>(3) Der in Absatz 1 bestimmte Anspruch kann durch Vereinbarung der Wohnungseigent\u00fcmer nicht eingeschr\u00e4nkt oder ausgeschlossen werden.</P><P>(4) Das Urteil, durch das ein Wohnungseigent\u00fcmer zur Ver\u00e4u\u00dferung seines Wohnungseigentums verurteilt wird, berechtigt zur Zwangsvollstreckung entsprechend den Vorschriften des Ersten Abschnitts des Gesetzes \u00fcber die Zwangsversteigerung und die Zwangsverwaltung. Das Gleiche gilt f\u00fcr Schuldtitel im Sinne des \u00a7 794 der Zivilprozessordnung, durch die sich der Wohnungseigent\u00fcmer zur Ver\u00e4u\u00dferung seines Wohnungseigentums verpflichtet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE008101360",
+        "name": "\u00a7 18",
+        "title": "Verwaltung und Benutzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Die Verwaltung des gemeinschaftlichen Eigentums obliegt der Gemeinschaft der Wohnungseigent\u00fcmer.</P><P>(2) Jeder Wohnungseigent\u00fcmer kann von der Gemeinschaft der Wohnungseigent\u00fcmer <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine Verwaltung des gemeinschaftlichen Eigentums sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine Benutzung des gemeinschaftlichen Eigentums und des Sondereigentums</LA></DD></DL>verlangen, die dem Interesse der Gesamtheit der Wohnungseigent\u00fcmer nach billigem Ermessen (ordnungsm\u00e4\u00dfige Verwaltung und Benutzung) und, soweit solche bestehen, den gesetzlichen Regelungen, Vereinbarungen und Beschl\u00fcssen entsprechen.</P><P>(3) Jeder Wohnungseigent\u00fcmer ist berechtigt, ohne Zustimmung der anderen Wohnungseigent\u00fcmer die Ma\u00dfnahmen zu treffen, die zur Abwendung eines dem gemeinschaftlichen Eigentum unmittelbar drohenden Schadens notwendig sind.</P><P>(4) Jeder Wohnungseigent\u00fcmer kann von der Gemeinschaft der Wohnungseigent\u00fcmer Einsicht in die Verwaltungsunterlagen verlangen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003103360",
+        "name": "\u00a7 19",
+        "title": "Regelung der Verwaltung und Benutzung durch Beschluss",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Soweit die Verwaltung des gemeinschaftlichen Eigentums und die Benutzung des gemeinschaftlichen Eigentums und des Sondereigentums nicht durch Vereinbarung der Wohnungseigent\u00fcmer geregelt sind, beschlie\u00dfen die Wohnungseigent\u00fcmer eine ordnungsm\u00e4\u00dfige Verwaltung und Benutzung.</P><P>(2) Zur ordnungsm\u00e4\u00dfigen Verwaltung und Benutzung geh\u00f6ren insbesondere <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Aufstellung einer Hausordnung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die ordnungsm\u00e4\u00dfige Erhaltung des gemeinschaftlichen Eigentums,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die angemessene Versicherung des gemeinschaftlichen Eigentums zum Neuwert sowie der Wohnungseigent\u00fcmer gegen Haus- und Grundbesitzerhaftpflicht,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Ansammlung einer angemessenen Erhaltungsr\u00fccklage,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Festsetzung von Vorsch\u00fcssen nach \u00a7 28 Absatz 1 Satz 1 sowie</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Bestellung eines zertifizierten Verwalters nach \u00a7 26a, es sei denn, es bestehen weniger als neun Sondereigentumsrechte, ein Wohnungseigent\u00fcmer wurde zum Verwalter bestellt und weniger als ein Drittel der Wohnungseigent\u00fcmer (\u00a7 25 Absatz 2) verlangt die Bestellung eines zertifizierten Verwalters.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 19 Abs. 2 Nr. 6: Zur Anwendung vgl. \u00a7 48 Abs. 4 F. 2020-10-22 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003202360",
+        "name": "\u00a7 20",
+        "title": "Bauliche Ver\u00e4nderungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Ma\u00dfnahmen, die \u00fcber die ordnungsm\u00e4\u00dfige Erhaltung des gemeinschaftlichen Eigentums hinausgehen (bauliche Ver\u00e4nderungen), k\u00f6nnen beschlossen oder einem Wohnungseigent\u00fcmer durch Beschluss gestattet werden.</P><P>(2) Jeder Wohnungseigent\u00fcmer kann angemessene bauliche Ver\u00e4nderungen verlangen, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>dem Gebrauch durch Menschen mit Behinderungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>dem Laden elektrisch betriebener Fahrzeuge,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>dem Einbruchsschutz und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>dem Anschluss an ein Telekommunikationsnetz mit sehr hoher Kapazit\u00e4t</LA></DD></DL>dienen. \u00dcber die Durchf\u00fchrung ist im Rahmen ordnungsm\u00e4\u00dfiger Verwaltung zu beschlie\u00dfen.</P><P>(3) Unbeschadet des Absatzes 2 kann jeder Wohnungseigent\u00fcmer verlangen, dass ihm eine bauliche Ver\u00e4nderung gestattet wird, wenn alle Wohnungseigent\u00fcmer, deren Rechte durch die bauliche Ver\u00e4nderung \u00fcber das bei einem geordneten Zusammenleben unvermeidliche Ma\u00df hinaus beeintr\u00e4chtigt werden, einverstanden sind.</P><P>(4) Bauliche Ver\u00e4nderungen, die die Wohnanlage grundlegend umgestalten oder einen Wohnungseigent\u00fcmer ohne sein Einverst\u00e4ndnis gegen\u00fcber anderen unbillig benachteiligen, d\u00fcrfen nicht beschlossen und gestattet werden; sie k\u00f6nnen auch nicht verlangt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003303360",
+        "name": "\u00a7 21",
+        "title": "Nutzungen und Kosten bei baulichen Ver\u00e4nderungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Die Kosten einer baulichen Ver\u00e4nderung, die einem Wohnungseigent\u00fcmer gestattet oder die auf sein Verlangen nach \u00a7 20 Absatz 2 durch die Gemeinschaft der Wohnungseigent\u00fcmer durchgef\u00fchrt wurde, hat dieser Wohnungseigent\u00fcmer zu tragen. Nur ihm geb\u00fchren die Nutzungen.</P><P>(2) Vorbehaltlich des Absatzes 1 haben alle Wohnungseigent\u00fcmer die Kosten einer baulichen Ver\u00e4nderung nach dem Verh\u00e4ltnis ihrer Anteile (\u00a7 16 Absatz 1 Satz 2) zu tragen, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die mit mehr als zwei Dritteln der abgegebenen Stimmen und der H\u00e4lfte aller Miteigentumsanteile beschlossen wurde, es sei denn, die bauliche Ver\u00e4nderung ist mit unverh\u00e4ltnism\u00e4\u00dfigen Kosten verbunden, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>deren Kosten sich innerhalb eines angemessenen Zeitraums amortisieren.</LA></DD></DL>F\u00fcr die Nutzungen gilt \u00a7 16 Absatz 1.</P><P>(3) Die Kosten anderer als der in den Abs\u00e4tzen 1 und 2 bezeichneten baulichen Ver\u00e4nderungen haben die Wohnungseigent\u00fcmer, die sie beschlossen haben, nach dem Verh\u00e4ltnis ihrer Anteile (\u00a7 16 Absatz 1 Satz 2) zu tragen. Ihnen geb\u00fchren die Nutzungen entsprechend \u00a7 16 Absatz 1.</P><P>(4) Ein Wohnungseigent\u00fcmer, der nicht berechtigt ist, Nutzungen zu ziehen, kann verlangen, dass ihm dies nach billigem Ermessen gegen angemessenen Ausgleich gestattet wird. F\u00fcr seine Beteiligung an den Nutzungen und Kosten gilt Absatz 3 entsprechend.</P><P>(5) Die Wohnungseigent\u00fcmer k\u00f6nnen eine abweichende Verteilung der Kosten und Nutzungen beschlie\u00dfen. Durch einen solchen Beschluss d\u00fcrfen einem Wohnungseigent\u00fcmer, der nach den vorstehenden Abs\u00e4tzen Kosten nicht zu tragen hat, keine Kosten auferlegt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003404360",
+        "name": "\u00a7 22",
+        "title": "Wiederaufbau",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>Ist das Geb\u00e4ude zu mehr als der H\u00e4lfte seines Wertes zerst\u00f6rt und ist der Schaden nicht durch eine Versicherung oder in anderer Weise gedeckt, so kann der Wiederaufbau nicht beschlossen oder verlangt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003503360",
+        "name": "\u00a7 23",
+        "title": "Wohnungseigent\u00fcmerversammlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Angelegenheiten, \u00fcber die nach diesem Gesetz oder nach einer Vereinbarung der Wohnungseigent\u00fcmer die Wohnungseigent\u00fcmer durch Beschluss entscheiden k\u00f6nnen, werden durch Beschlussfassung in einer Versammlung der Wohnungseigent\u00fcmer geordnet. Die Wohnungseigent\u00fcmer k\u00f6nnen beschlie\u00dfen, dass Wohnungseigent\u00fcmer an der Versammlung auch ohne Anwesenheit an deren Ort teilnehmen und s\u00e4mtliche oder einzelne ihrer Rechte ganz oder teilweise im Wege elektronischer Kommunikation aus\u00fcben k\u00f6nnen.</P><P>(2) Zur G\u00fcltigkeit eines Beschlusses ist erforderlich, dass der Gegenstand bei der Einberufung bezeichnet ist.</P><P>(3) Auch ohne Versammlung ist ein Beschluss g\u00fcltig, wenn alle Wohnungseigent\u00fcmer ihre Zustimmung zu diesem Beschluss in Textform erkl\u00e4ren. Die Wohnungseigent\u00fcmer k\u00f6nnen beschlie\u00dfen, dass f\u00fcr einen einzelnen Gegenstand die Mehrheit der abgegebenen Stimmen gen\u00fcgt.</P><P>(4) Ein Beschluss, der gegen eine Rechtsvorschrift verst\u00f6\u00dft, auf deren Einhaltung rechtswirksam nicht verzichtet werden kann, ist nichtig. Im \u00dcbrigen ist ein Beschluss g\u00fcltig, solange er nicht durch rechtskr\u00e4ftiges Urteil f\u00fcr ung\u00fcltig erkl\u00e4rt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003604360",
+        "name": "\u00a7 24",
+        "title": "Einberufung, Vorsitz, Niederschrift",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Die Versammlung der Wohnungseigent\u00fcmer wird von dem Verwalter mindestens einmal im Jahr einberufen.</P><P>(2) Die Versammlung der Wohnungseigent\u00fcmer muss von dem Verwalter in den durch Vereinbarung der Wohnungseigent\u00fcmer bestimmten F\u00e4llen, im \u00dcbrigen dann einberufen werden, wenn dies in Textform unter Angabe des Zwecks und der Gr\u00fcnde von mehr als einem Viertel der Wohnungseigent\u00fcmer verlangt wird.</P><P>(3) Fehlt ein Verwalter oder weigert er sich pflichtwidrig, die Versammlung der Wohnungseigent\u00fcmer einzuberufen, so kann die Versammlung auch durch den Vorsitzenden des Verwaltungsbeirats, dessen Vertreter oder einen durch Beschluss erm\u00e4chtigten Wohnungseigent\u00fcmer einberufen werden.</P><P>(4) Die Einberufung erfolgt in Textform. Die Frist der Einberufung soll, sofern nicht ein Fall besonderer Dringlichkeit vorliegt, mindestens drei Wochen betragen.</P><P>(5) Den Vorsitz in der Wohnungseigent\u00fcmerversammlung f\u00fchrt, sofern diese nichts anderes beschlie\u00dft, der Verwalter.</P><P>(6) \u00dcber die in der Versammlung gefassten Beschl\u00fcsse ist unverz\u00fcglich eine Niederschrift aufzunehmen. Die Niederschrift ist von dem Vorsitzenden und einem Wohnungseigent\u00fcmer und, falls ein Verwaltungsbeirat bestellt ist, auch von dessen Vorsitzenden oder seinem Vertreter zu unterschreiben.</P><P>(7) Es ist eine Beschluss-Sammlung zu f\u00fchren. Die Beschluss-Sammlung enth\u00e4lt nur den Wortlaut <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der in der Versammlung der Wohnungseigent\u00fcmer verk\u00fcndeten Beschl\u00fcsse mit Angabe von Ort und Datum der Versammlung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der schriftlichen Beschl\u00fcsse mit Angabe von Ort und Datum der Verk\u00fcndung und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Urteilsformeln der gerichtlichen Entscheidungen in einem Rechtsstreit gem\u00e4\u00df \u00a7 43 mit Angabe ihres Datums, des Gerichts und der Parteien,</LA></DD></DL>soweit diese Beschl\u00fcsse und gerichtlichen Entscheidungen nach dem 1. Juli 2007 ergangen sind. Die Beschl\u00fcsse und gerichtlichen Entscheidungen sind fortlaufend einzutragen und zu nummerieren. Sind sie angefochten oder aufgehoben worden, so ist dies anzumerken. Im Fall einer Aufhebung kann von einer Anmerkung abgesehen und die Eintragung gel\u00f6scht werden. Eine Eintragung kann auch gel\u00f6scht werden, wenn sie aus einem anderen Grund f\u00fcr die Wohnungseigent\u00fcmer keine Bedeutung mehr hat. Die Eintragungen, Vermerke und L\u00f6schungen gem\u00e4\u00df den S\u00e4tzen 3 bis 6 sind unverz\u00fcglich zu erledigen und mit Datum zu versehen. Einem Wohnungseigent\u00fcmer oder einem Dritten, den ein Wohnungseigent\u00fcmer erm\u00e4chtigt hat, ist auf sein Verlangen Einsicht in die Beschluss-Sammlung zu geben.</P><P>(8) Die Beschluss-Sammlung ist von dem Verwalter zu f\u00fchren. Fehlt ein Verwalter, so ist der Vorsitzende der Wohnungseigent\u00fcmerversammlung verpflichtet, die Beschluss-Sammlung zu f\u00fchren, sofern die Wohnungseigent\u00fcmer durch Stimmenmehrheit keinen anderen f\u00fcr diese Aufgabe bestellt haben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003702360",
+        "name": "\u00a7 25",
+        "title": "Beschlussfassung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Bei der Beschlussfassung entscheidet die Mehrheit der abgegebenen Stimmen.</P><P>(2) Jeder Wohnungseigent\u00fcmer hat eine Stimme. Steht ein Wohnungseigentum mehreren gemeinschaftlich zu, so k\u00f6nnen sie das Stimmrecht nur einheitlich aus\u00fcben.</P><P>(3) Vollmachten bed\u00fcrfen zu ihrer G\u00fcltigkeit der Textform.</P><P>(4) Ein Wohnungseigent\u00fcmer ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines auf die Verwaltung des gemeinschaftlichen Eigentums bez\u00fcglichen Rechtsgesch\u00e4fts mit ihm oder die Einleitung oder Erledigung eines Rechtsstreits gegen ihn betrifft oder wenn er nach \u00a7 17 rechtskr\u00e4ftig verurteilt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003803360",
+        "name": "\u00a7 26",
+        "title": "Bestellung und Abberufung des Verwalters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) \u00dcber die Bestellung und Abberufung des Verwalters beschlie\u00dfen die Wohnungseigent\u00fcmer.</P><P>(2) Die Bestellung kann auf h\u00f6chstens f\u00fcnf Jahre vorgenommen werden, im Fall der ersten Bestellung nach der Begr\u00fcndung von Wohnungseigentum aber auf h\u00f6chstens drei Jahre. Die wiederholte Bestellung ist zul\u00e4ssig; sie bedarf eines erneuten Beschlusses der Wohnungseigent\u00fcmer, der fr\u00fchestens ein Jahr vor Ablauf der Bestellungszeit gefasst werden kann.</P><P>(3) Der Verwalter kann jederzeit abberufen werden. Ein Vertrag mit dem Verwalter endet sp\u00e4testens sechs Monate nach dessen Abberufung.</P><P>(4) Soweit die Verwaltereigenschaft durch eine \u00f6ffentlich beglaubigte Urkunde nachgewiesen werden muss, gen\u00fcgt die Vorlage einer Niederschrift \u00fcber den Bestellungsbeschluss, bei der die Unterschriften der in \u00a7 24 Absatz 6 bezeichneten Personen \u00f6ffentlich beglaubigt sind.</P><P>(5) Abweichungen von den Abs\u00e4tzen 1 bis 3 sind nicht zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE008201360",
+        "name": "\u00a7 26a",
+        "title": "Zertifizierter Verwalter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Als zertifizierter Verwalter darf sich bezeichnen, wer vor einer Industrie- und Handelskammer durch eine Pr\u00fcfung nachgewiesen hat, dass er \u00fcber die f\u00fcr die T\u00e4tigkeit als Verwalter notwendigen rechtlichen, kaufm\u00e4nnischen und technischen Kenntnisse verf\u00fcgt.</P><P>(2) Das Bundesministerium der Justiz und f\u00fcr Verbraucherschutz wird erm\u00e4chtigt, durch Rechtsverordnung n\u00e4here Bestimmungen \u00fcber die Pr\u00fcfung zum zertifizierten Verwalter zu erlassen. In der Rechtsverordnung nach Satz 1 k\u00f6nnen insbesondere festgelegt werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>n\u00e4here Bestimmungen zu Inhalt und Verfahren der Pr\u00fcfung;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Bestimmungen \u00fcber das zu erteilende Zertifikat;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Voraussetzungen, unter denen sich juristische Personen und Personengesellschaften als zertifizierte Verwalter bezeichnen d\u00fcrfen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Bestimmungen, wonach Personen aufgrund anderweitiger Qualifikationen von der Pr\u00fcfung befreit sind, insbesondere weil sie die Bef\u00e4higung zum Richteramt, einen Hochschulabschluss mit immobilienwirtschaftlichem Schwerpunkt, eine abgeschlossene Berufsausbildung zum Immobilienkaufmann oder zur Immobilienkauffrau oder einen vergleichbaren Berufsabschluss besitzen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE003903360",
+        "name": "\u00a7 27",
+        "title": "Aufgaben und Befugnisse des Verwalters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Der Verwalter ist gegen\u00fcber der Gemeinschaft der Wohnungseigent\u00fcmer berechtigt und verpflichtet, die Ma\u00dfnahmen ordnungsm\u00e4\u00dfiger Verwaltung zu treffen, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>untergeordnete Bedeutung haben und nicht zu erheblichen Verpflichtungen f\u00fchren oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zur Wahrung einer Frist oder zur Abwendung eines Nachteils erforderlich sind.</LA></DD></DL></P><P>(2) Die Wohnungseigent\u00fcmer k\u00f6nnen die Rechte und Pflichten nach Absatz 1 durch Beschluss einschr\u00e4nken oder erweitern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004002360",
+        "name": "\u00a7 28",
+        "title": "Wirtschaftsplan, Jahresabrechnung, Verm\u00f6gensbericht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Die Wohnungseigent\u00fcmer beschlie\u00dfen \u00fcber die Vorsch\u00fcsse zur Kostentragung und zu den nach \u00a7 19 Absatz 2 Nummer 4 oder durch Beschluss vorgesehenen R\u00fccklagen. Zu diesem Zweck hat der Verwalter jeweils f\u00fcr ein Kalenderjahr einen Wirtschaftsplan aufzustellen, der dar\u00fcber hinaus die voraussichtlichen Einnahmen und Ausgaben enth\u00e4lt.</P><P>(2) Nach Ablauf des Kalenderjahres beschlie\u00dfen die Wohnungseigent\u00fcmer \u00fcber die Einforderung von Nachsch\u00fcssen oder die Anpassung der beschlossenen Vorsch\u00fcsse. Zu diesem Zweck hat der Verwalter eine Abrechnung \u00fcber den Wirtschaftsplan (Jahresabrechnung) aufzustellen, die dar\u00fcber hinaus die Einnahmen und Ausgaben enth\u00e4lt.</P><P>(3) Die Wohnungseigent\u00fcmer k\u00f6nnen beschlie\u00dfen, wann Forderungen f\u00e4llig werden und wie sie zu erf\u00fcllen sind.</P><P>(4) Der Verwalter hat nach Ablauf eines Kalenderjahres einen Verm\u00f6gensbericht zu erstellen, der den Stand der in Absatz 1 Satz 1 bezeichneten R\u00fccklagen und eine Aufstellung des wesentlichen Gemeinschaftsverm\u00f6gens enth\u00e4lt. Der Verm\u00f6gensbericht ist jedem Wohnungseigent\u00fcmer zur Verf\u00fcgung zu stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004102360",
+        "name": "\u00a7 29",
+        "title": "Verwaltungsbeirat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000302360"
+        },
+        "body": "<P>(1) Wohnungseigent\u00fcmer k\u00f6nnen durch Beschluss zum Mitglied des Verwaltungsbeirats bestellt werden. Hat der Verwaltungsbeirat mehrere Mitglieder, ist ein Vorsitzender und ein Stellvertreter zu bestimmen. Der Verwaltungsbeirat wird von dem Vorsitzenden nach Bedarf einberufen.</P><P>(2) Der Verwaltungsbeirat unterst\u00fctzt und \u00fcberwacht den Verwalter bei der Durchf\u00fchrung seiner Aufgaben. Der Wirtschaftsplan und die Jahresabrechnung sollen, bevor die Beschl\u00fcsse nach \u00a7 28 Absatz 1 Satz 1 und Absatz 2 Satz 1 gefasst werden, vom Verwaltungsbeirat gepr\u00fcft und mit dessen Stellungnahme versehen werden.</P><P>(3) Sind Mitglieder des Verwaltungsbeirats unentgeltlich t\u00e4tig, haben sie nur Vorsatz und grobe Fahrl\u00e4ssigkeit zu vertreten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG000502360",
+        "name": "Abschnitt 5",
+        "title": "Wohnungserbbaurecht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000102360"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004202360",
+        "name": "\u00a7 30",
+        "title": "Wohnungserbbaurecht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000502360"
+        },
+        "body": "<P>(1) Steht ein Erbbaurecht mehreren gemeinschaftlich nach Bruchteilen zu, so k\u00f6nnen die Anteile in der Weise beschr\u00e4nkt werden, dass jedem der Mitberechtigten das Sondereigentum an einer bestimmten Wohnung oder an nicht zu Wohnzwecken dienenden bestimmten R\u00e4umen in einem auf Grund des Erbbaurechts errichteten oder zu errichtenden Geb\u00e4ude einger\u00e4umt wird (Wohnungserbbaurecht, Teilerbbaurecht).</P><P>(2) Ein Erbbauberechtigter kann das Erbbaurecht in entsprechender Anwendung des \u00a7 8 teilen.</P><P>(3) F\u00fcr jeden Anteil wird von Amts wegen ein besonderes Erbbaugrundbuchblatt angelegt (Wohnungserbbaugrundbuch, Teilerbbaugrundbuch). Im \u00dcbrigen gelten f\u00fcr das Wohnungserbbaurecht (Teilerbbaurecht) die Vorschriften \u00fcber das Wohnungseigentum (Teileigentum) entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG000602360",
+        "name": "Teil 2",
+        "title": "Dauerwohnrecht",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004301360",
+        "name": "\u00a7 31",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Ein Grundst\u00fcck kann in der Weise belastet werden, dass derjenige, zu dessen Gunsten die Belastung erfolgt, berechtigt ist, unter Ausschluss des Eigent\u00fcmers eine bestimmte Wohnung in einem auf dem Grundst\u00fcck errichteten oder zu errichtenden Geb\u00e4ude zu bewohnen oder in anderer Weise zu nutzen (Dauerwohnrecht). Das Dauerwohnrecht kann auf einen au\u00dferhalb des Geb\u00e4udes liegenden Teil des Grundst\u00fccks erstreckt werden, sofern die Wohnung wirtschaftlich die Hauptsache bleibt.</P><P>(2) Ein Grundst\u00fcck kann in der Weise belastet werden, dass derjenige, zu dessen Gunsten die Belastung erfolgt, berechtigt ist, unter Ausschluss des Eigent\u00fcmers nicht zu Wohnzwecken dienende bestimmte R\u00e4ume in einem auf dem Grundst\u00fcck errichteten oder zu errichtenden Geb\u00e4ude zu nutzen (Dauernutzungsrecht).</P><P>(3) F\u00fcr das Dauernutzungsrecht gelten die Vorschriften \u00fcber das Dauerwohnrecht entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004404360",
+        "name": "\u00a7 32",
+        "title": "Voraussetzungen der Eintragung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Das Dauerwohnrecht soll nur bestellt werden, wenn die Wohnung in sich abgeschlossen ist.</P><P>(2) Zur n\u00e4heren Bezeichnung des Gegenstands und des Inhalts des Dauerwohnrechts kann auf die Eintragungsbewilligung Bezug genommen werden. Der Eintragungsbewilligung sind als Anlagen beizuf\u00fcgen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine von der Baubeh\u00f6rde mit Unterschrift und Siegel oder Stempel versehene Bauzeichnung, aus der die Aufteilung des Geb\u00e4udes sowie die Lage und Gr\u00f6\u00dfe der dem Dauerwohnrecht unterliegenden Geb\u00e4ude- und Grundst\u00fccksteile ersichtlich ist (Aufteilungsplan); alle zu demselben Dauerwohnrecht geh\u00f6renden Einzelr\u00e4ume sind mit der jeweils gleichen Nummer zu kennzeichnen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine Bescheinigung der Baubeh\u00f6rde, dass die Voraussetzungen des Absatzes 1 vorliegen.</LA></DD></DL>Wenn in der Eintragungsbewilligung f\u00fcr die einzelnen Dauerwohnrechte Nummern angegeben werden, sollen sie mit denen des Aufteilungsplans \u00fcbereinstimmen.</P><P>(3) Das Grundbuchamt soll die Eintragung des Dauerwohnrechts ablehnen, wenn \u00fcber die in \u00a7 33 Absatz 4 Nummer 1 bis 4 bezeichneten Angelegenheiten, \u00fcber die Voraussetzungen des Heimfallanspruchs (\u00a7 36 Absatz 1) und \u00fcber die Entsch\u00e4digung beim Heimfall (\u00a7 36 Absatz 4) keine Vereinbarungen getroffen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004501360",
+        "name": "\u00a7 33",
+        "title": "Inhalt des Dauerwohnrechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Das Dauerwohnrecht ist ver\u00e4u\u00dferlich und vererblich. Es kann nicht unter einer Bedingung bestellt werden.</P><P>(2) Auf das Dauerwohnrecht sind, soweit nicht etwas anderes vereinbart ist, die Vorschriften des \u00a7 14 entsprechend anzuwenden.</P><P>(3) Der Berechtigte kann die zum gemeinschaftlichen Gebrauch bestimmten Teile, Anlagen und Einrichtungen des Geb\u00e4udes und Grundst\u00fccks mitbenutzen, soweit nichts anderes vereinbart ist.</P><P>(4) Als Inhalt des Dauerwohnrechts k\u00f6nnen Vereinbarungen getroffen werden \u00fcber: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Art und Umfang der Nutzungen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Instandhaltung und Instandsetzung der dem Dauerwohnrecht unterliegenden Geb\u00e4udeteile;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Pflicht des Berechtigten zur Tragung \u00f6ffentlicher oder privatrechtlicher Lasten des Grundst\u00fccks;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Versicherung des Geb\u00e4udes und seinen Wiederaufbau im Fall der Zerst\u00f6rung;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>das Recht des Eigent\u00fcmers, bei Vorliegen bestimmter Voraussetzungen Sicherheitsleistung zu verlangen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004601360",
+        "name": "\u00a7 34",
+        "title": "Anspr\u00fcche des Eigent\u00fcmers und der Dauerwohnberechtigten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Auf die Ersatzanspr\u00fcche des Eigent\u00fcmers wegen Ver\u00e4nderungen oder Verschlechterungen sowie auf die Anspr\u00fcche der Dauerwohnberechtigten auf Ersatz von Verwendungen oder auf Gestattung der Wegnahme einer Einrichtung sind die \u00a7\u00a7 1049, 1057 des B\u00fcrgerlichen Gesetzbuchs entsprechend anzuwenden.</P><P>(2) Wird das Dauerwohnrecht beeintr\u00e4chtigt, so sind auf die Anspr\u00fcche des Berechtigten die f\u00fcr die Anspr\u00fcche aus dem Eigentum geltenden Vorschriften entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004701360",
+        "name": "\u00a7 35",
+        "title": "Ver\u00e4u\u00dferungsbeschr\u00e4nkung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass der Berechtigte zur Ver\u00e4u\u00dferung des Dauerwohnrechts der Zustimmung des Eigent\u00fcmers oder eines Dritten bedarf. Die Vorschriften des \u00a7 12 gelten in diesem Fall entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004801360",
+        "name": "\u00a7 36",
+        "title": "Heimfallanspruch",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass der Berechtigte verpflichtet ist, das Dauerwohnrecht beim Eintritt bestimmter Voraussetzungen auf den Grundst\u00fcckseigent\u00fcmer oder einen von diesem zu bezeichnenden Dritten zu \u00fcbertragen (Heimfallanspruch). Der Heimfallanspruch kann nicht von dem Eigentum an dem Grundst\u00fcck getrennt werden.</P><P>(2) Bezieht sich das Dauerwohnrecht auf R\u00e4ume, die dem Mieterschutz unterliegen, so kann der Eigent\u00fcmer von dem Heimfallanspruch nur Gebrauch machen, wenn ein Grund vorliegt, aus dem ein Vermieter die Aufhebung des Mietverh\u00e4ltnisses verlangen oder k\u00fcndigen kann.</P><P>(3) Der Heimfallanspruch verj\u00e4hrt in sechs Monaten von dem Zeitpunkt an, in dem der Eigent\u00fcmer von dem Eintritt der Voraussetzungen Kenntnis erlangt, ohne R\u00fccksicht auf diese Kenntnis in zwei Jahren von dem Eintritt der Voraussetzungen an.</P><P>(4) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass der Eigent\u00fcmer dem Berechtigten eine Entsch\u00e4digung zu gew\u00e4hren hat, wenn er von dem Heimfallanspruch Gebrauch macht. Als Inhalt des Dauerwohnrechts k\u00f6nnen Vereinbarungen \u00fcber die Berechnung oder H\u00f6he der Entsch\u00e4digung oder die Art ihrer Zahlung getroffen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE004902360",
+        "name": "\u00a7 37",
+        "title": "Vermietung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Hat der Dauerwohnberechtigte die dem Dauerwohnrecht unterliegenden Geb\u00e4ude- oder Grundst\u00fccksteile vermietet oder verpachtet, so erlischt das Miet- oder Pachtverh\u00e4ltnis, wenn das Dauerwohnrecht erlischt.</P><P>(2) Macht der Eigent\u00fcmer von seinem Heimfallanspruch Gebrauch, so tritt er oder derjenige, auf den das Dauerwohnrecht zu \u00fcbertragen ist, in das Miet- oder Pachtverh\u00e4ltnis ein; die Vorschriften der \u00a7\u00a7 566 bis 566e des B\u00fcrgerlichen Gesetzbuchs gelten entsprechend.</P><P>(3) Absatz 2 gilt entsprechend, wenn das Dauerwohnrecht ver\u00e4u\u00dfert wird. Wird das Dauerwohnrecht im Wege der Zwangsvollstreckung ver\u00e4u\u00dfert, so steht dem Erwerber ein K\u00fcndigungsrecht in entsprechender Anwendung des \u00a7 57a des Gesetzes \u00fcber die Zwangsversteigerung und die Zwangsverwaltung zu.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE005001360",
+        "name": "\u00a7 38",
+        "title": "Eintritt in das Rechtsverh\u00e4ltnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Wird das Dauerwohnrecht ver\u00e4u\u00dfert, so tritt der Erwerber an Stelle des Ver\u00e4u\u00dferers in die sich w\u00e4hrend der Dauer seiner Berechtigung aus dem Rechtsverh\u00e4ltnis zu dem Eigent\u00fcmer ergebenden Verpflichtungen ein.</P><P>(2) Wird das Grundst\u00fcck ver\u00e4u\u00dfert, so tritt der Erwerber an Stelle des Ver\u00e4u\u00dferers in die sich w\u00e4hrend der Dauer seines Eigentums aus dem Rechtsverh\u00e4ltnis zu dem Dauerwohnberechtigten ergebenden Rechte ein. Das Gleiche gilt f\u00fcr den Erwerb auf Grund Zuschlags in der Zwangsversteigerung, wenn das Dauerwohnrecht durch den Zuschlag nicht erlischt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE005101360",
+        "name": "\u00a7 39",
+        "title": "Zwangsversteigerung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass das Dauerwohnrecht im Fall der Zwangsversteigerung des Grundst\u00fccks abweichend von \u00a7 44 des Gesetzes \u00fcber die Zwangsversteigerung und die Zwangsverwaltung auch dann bestehen bleiben soll, wenn der Gl\u00e4ubiger einer dem Dauerwohnrecht im Rang vorgehenden oder gleichstehenden Hypothek, Grundschuld, Rentenschuld oder Reallast die Zwangsversteigerung in das Grundst\u00fcck betreibt.</P><P>(2) Eine Vereinbarung gem\u00e4\u00df Absatz 1 bedarf zu ihrer Wirksamkeit der Zustimmung derjenigen, denen eine dem Dauerwohnrecht im Rang vorgehende oder gleichstehende Hypothek, Grundschuld, Rentenschuld oder Reallast zusteht.</P><P>(3) Eine Vereinbarung gem\u00e4\u00df Absatz 1 ist nur wirksam f\u00fcr den Fall, dass der Dauerwohnberechtigte im Zeitpunkt der Feststellung der Versteigerungsbedingungen seine f\u00e4lligen Zahlungsverpflichtungen gegen\u00fcber dem Eigent\u00fcmer erf\u00fcllt hat; in Erg\u00e4nzung einer Vereinbarung nach Absatz 1 kann vereinbart werden, dass das Fortbestehen des Dauerwohnrechts vom Vorliegen weiterer Voraussetzungen abh\u00e4ngig ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE005202360",
+        "name": "\u00a7 40",
+        "title": "Haftung des Entgelts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Hypotheken, Grundschulden, Rentenschulden und Reallasten, die dem Dauerwohnrecht im Rang vorgehen oder gleichstehen, sowie \u00f6ffentliche Lasten, die in wiederkehrenden Leistungen bestehen, erstrecken sich auf den Anspruch auf das Entgelt f\u00fcr das Dauerwohnrecht in gleicher Weise wie auf eine Mietforderung, soweit nicht in Absatz 2 etwas Abweichendes bestimmt ist. Im \u00dcbrigen sind die f\u00fcr Mietforderungen geltenden Vorschriften nicht entsprechend anzuwenden.</P><P>(2) Als Inhalt des Dauerwohnrechts kann vereinbart werden, dass Verf\u00fcgungen \u00fcber den Anspruch auf das Entgelt, wenn es in wiederkehrenden Leistungen ausbedungen ist, gegen\u00fcber dem Gl\u00e4ubiger einer dem Dauerwohnrecht im Rang vorgehenden oder gleichstehenden Hypothek, Grundschuld, Rentenschuld oder Reallast wirksam sind. F\u00fcr eine solche Vereinbarung gilt \u00a7 39 Absatz 2 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE005301360",
+        "name": "\u00a7 41",
+        "title": "Besondere Vorschriften f\u00fcr langfristige Dauerwohnrechte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) F\u00fcr Dauerwohnrechte, die zeitlich unbegrenzt oder f\u00fcr einen Zeitraum von mehr als zehn Jahren einger\u00e4umt sind, gelten die besonderen Vorschriften der Abs\u00e4tze 2 und 3.</P><P>(2) Der Eigent\u00fcmer ist, sofern nicht etwas anderes vereinbart ist, dem Dauerwohnberechtigten gegen\u00fcber verpflichtet, eine dem Dauerwohnrecht im Rang vorgehende oder gleichstehende Hypothek l\u00f6schen zu lassen f\u00fcr den Fall, dass sie sich mit dem Eigentum in einer Person vereinigt, und die Eintragung einer entsprechenden L\u00f6schungsvormerkung in das Grundbuch zu bewilligen.</P><P>(3) Der Eigent\u00fcmer ist verpflichtet, dem Dauerwohnberechtigten eine angemessene Entsch\u00e4digung zu gew\u00e4hren, wenn er von dem Heimfallanspruch Gebrauch macht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE005401360",
+        "name": "\u00a7 42",
+        "title": "Belastung eines Erbbaurechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000602360"
+        },
+        "body": "<P>(1) Die Vorschriften der \u00a7\u00a7 31 bis 41 gelten f\u00fcr die Belastung eines Erbbaurechts mit einem Dauerwohnrecht entsprechend.</P><P>(2) Beim Heimfall des Erbbaurechts bleibt das Dauerwohnrecht bestehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG000702360",
+        "name": "Teil 3",
+        "title": "Verfahrensvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE005503360",
+        "name": "\u00a7 43",
+        "title": "Zust\u00e4ndigkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000702360"
+        },
+        "body": "<P>(1) Die Gemeinschaft der Wohnungseigent\u00fcmer hat ihren allgemeinen Gerichtsstand bei dem Gericht, in dessen Bezirk das Grundst\u00fcck liegt. Bei diesem Gericht kann auch die Klage gegen Wohnungseigent\u00fcmer im Fall des \u00a7 9a Absatz 4 Satz 1 erhoben werden.</P><P>(2) Das Gericht, in dessen Bezirk das Grundst\u00fcck liegt, ist ausschlie\u00dflich zust\u00e4ndig f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Streitigkeiten \u00fcber die Rechte und Pflichten der Wohnungseigent\u00fcmer untereinander,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Streitigkeiten \u00fcber die Rechte und Pflichten zwischen der Gemeinschaft der Wohnungseigent\u00fcmer und Wohnungseigent\u00fcmern,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Streitigkeiten \u00fcber die Rechte und Pflichten des Verwalters einschlie\u00dflich solcher \u00fcber Anspr\u00fcche eines Wohnungseigent\u00fcmers gegen den Verwalter sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Beschlussklagen gem\u00e4\u00df \u00a7 44.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE005603360",
+        "name": "\u00a7 44",
+        "title": "Beschlussklagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000702360"
+        },
+        "body": "<P>(1) Das Gericht kann auf Klage eines Wohnungseigent\u00fcmers einen Beschluss f\u00fcr ung\u00fcltig erkl\u00e4ren (Anfechtungsklage) oder seine Nichtigkeit feststellen (Nichtigkeitsklage). Unterbleibt eine notwendige Beschlussfassung, kann das Gericht auf Klage eines Wohnungseigent\u00fcmers den Beschluss fassen (Beschlussersetzungsklage).</P><P>(2) Die Klagen sind gegen die Gemeinschaft der Wohnungseigent\u00fcmer zu richten. Der Verwalter hat den Wohnungseigent\u00fcmern die Erhebung einer Klage unverz\u00fcglich bekannt zu machen. Mehrere Prozesse sind zur gleichzeitigen Verhandlung und Entscheidung zu verbinden.</P><P>(3) Das Urteil wirkt f\u00fcr und gegen alle Wohnungseigent\u00fcmer, auch wenn sie nicht Partei sind.</P><P>(4) Die durch eine Nebenintervention verursachten Kosten gelten nur dann als notwendig zur zweckentsprechenden Rechtsverteidigung im Sinne des \u00a7 91 der Zivilprozessordnung, wenn die Nebenintervention geboten war.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE005707360",
+        "name": "\u00a7 45",
+        "title": "Fristen der Anfechtungsklage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG000702360"
+        },
+        "body": "<P>Die Anfechtungsklage muss innerhalb eines Monats nach der Beschlussfassung erhoben und innerhalb zweier Monate nach der Beschlussfassung begr\u00fcndet werden. Die \u00a7\u00a7 233 bis 238 der Zivilprozessordnung gelten entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR001750951BJNG001102360",
+        "name": "Teil 4",
+        "title": "Erg\u00e4nzende Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE007802360",
+        "name": "\u00a7 46",
+        "title": "Ver\u00e4u\u00dferung ohne erforderliche Zustimmung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG001102360"
+        },
+        "body": "<P>Fehlt eine nach \u00a7\u00a012 erforderliche Zustimmung, so sind die Ver\u00e4u\u00dferung und das zugrundeliegende Verpflichtungsgesch\u00e4ft unbeschadet der sonstigen Voraussetzungen wirksam, wenn die Eintragung der Ver\u00e4u\u00dferung oder einer Auflassungsvormerkung in das Grundbuch vor dem 15. Januar 1994 erfolgt ist und es sich um die erstmalige Ver\u00e4u\u00dferung dieses Wohnungseigentums nach seiner Begr\u00fcndung handelt, es sei denn, dass eine rechtskr\u00e4ftige gerichtliche Entscheidung entgegensteht. Das Fehlen der Zustimmung steht in diesen F\u00e4llen dem Eintritt der Rechtsfolgen des \u00a7 878 <I>des</I> B\u00fcrgerlichen Gesetzbuchs nicht entgegen. Die S\u00e4tze 1 und 2 gelten entsprechend in den F\u00e4llen der \u00a7\u00a7 30 und 35 des Wohnungseigentumsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 46 Satz 2 Kursivdruck: Aufgrund offensichtlicher Unrichtigkeit wurde das Wort  \"des\" eingef\u00fcgt</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE007307360",
+        "name": "\u00a7 47",
+        "title": "Auslegung von Altvereinbarungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG001102360"
+        },
+        "body": "<P>Vereinbarungen, die vor dem 1. Dezember 2020 getroffen wurden und die von solchen Vorschriften dieses Gesetzes abweichen, die durch das Wohnungseigentumsmodernisierungsgesetz vom 16. Oktober 2020 (BGBl. I S. 2187) ge\u00e4ndert wurden, stehen der Anwendung dieser Vorschriften in der vom 1. Dezember 2020 an geltenden Fassung nicht entgegen, soweit sich aus der Vereinbarung nicht ein anderer Wille ergibt. Ein solcher Wille ist in der Regel nicht anzunehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE007502360",
+        "name": "\u00a7 48",
+        "title": "\u00dcbergangsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG001102360"
+        },
+        "body": "<P>(1) \u00a7 5 Absatz 4, \u00a7 7 Absatz 2 und \u00a7 10 Absatz 3 in der vom 1. Dezember 2020 an geltenden Fassung gelten auch f\u00fcr solche Beschl\u00fcsse, die vor diesem Zeitpunkt gefasst oder durch gerichtliche Entscheidung ersetzt wurden. Abweichend davon bestimmt sich die Wirksamkeit eines Beschlusses im Sinne des Satzes 1 gegen den Sondernachfolger eines Wohnungseigent\u00fcmers nach \u00a7 10 Absatz 4 in der vor dem 1. Dezember 2020 geltenden Fassung, wenn die Sondernachfolge bis zum 31. Dezember 2025 eintritt. Jeder Wohnungseigent\u00fcmer kann bis zum 31. Dezember 2025 verlangen, dass ein Beschluss im Sinne des Satzes 1 erneut gefasst wird; \u00a7 204 Absatz 1 Nummer 1 des B\u00fcrgerlichen Gesetzbuchs gilt entsprechend.</P><P>(2) \u00a7 5 Absatz 4 Satz 3 gilt in der vor dem 1. Dezember 2020 geltenden Fassung weiter f\u00fcr Vereinbarungen und Beschl\u00fcsse, die vor diesem Zeitpunkt getroffen oder gefasst wurden, und zu denen vor dem 1. Dezember 2020 alle Zustimmungen erteilt wurden, die nach den vor diesem Zeitpunkt geltenden Vorschriften erforderlich waren.</P><P>(3) \u00a7 7 Absatz 3 Satz 2 gilt auch f\u00fcr Vereinbarungen und Beschl\u00fcsse, die vor dem 1. Dezember 2020 getroffen oder gefasst wurden. Ist eine Vereinbarung oder ein Beschluss im Sinne des Satzes 1 entgegen der Vorgabe des \u00a7 7 Absatz 3 Satz 2 nicht ausdr\u00fccklich im Grundbuch eingetragen, erfolgt die ausdr\u00fcckliche Eintragung in allen Wohnungsgrundb\u00fcchern nur auf Antrag eines Wohnungseigent\u00fcmers oder der Gemeinschaft der Wohnungseigent\u00fcmer. Ist die Haftung von Sondernachfolgern f\u00fcr Geldschulden entgegen der Vorgabe des \u00a7 7 Absatz 3 Satz 2 nicht ausdr\u00fccklich im Grundbuch eingetragen, l\u00e4sst dies die Wirkung gegen den Sondernachfolger eines Wohnungseigent\u00fcmers unber\u00fchrt, wenn die Sondernachfolge bis zum 31. Dezember 2025 eintritt.</P><P>(4) \u00a7 19 Absatz 2 Nummer 6 ist ab dem 1. Dezember 2022 anwendbar. Eine Person, die am 1. Dezember 2020 Verwalter einer Gemeinschaft der Wohnungseigent\u00fcmer war, gilt gegen\u00fcber den Wohnungseigent\u00fcmern dieser Gemeinschaft der Wohnungseigent\u00fcmer bis zum 1. Juni 2024 als zertifizierter Verwalter.</P><P>(5) F\u00fcr die bereits vor dem 1. Dezember 2020 bei Gericht anh\u00e4ngigen Verfahren sind die Vorschriften des dritten Teils dieses Gesetzes in ihrer bis dahin geltenden Fassung weiter anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR001750951BJNE007602360",
+        "name": "\u00a7 49",
+        "title": "\u00dcberleitung bestehender Rechtsverh\u00e4ltnisse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR001750951BJNG001102360"
+        },
+        "body": "<P>(1) Werden Rechtsverh\u00e4ltnisse, mit denen ein Rechtserfolg bezweckt wird, der den durch dieses Gesetz geschaffenen Rechtsformen entspricht, in solche Rechtsformen umgewandelt, so ist als Gesch\u00e4ftswert f\u00fcr die Berechnung der hierdurch veranlassten Geb\u00fchren der Gerichte und Notare im Fall des Wohnungseigentums ein F\u00fcnfundzwanzigstel des Einheitswerts des Grundst\u00fcckes, im Falle des Dauerwohnrechtes ein F\u00fcnfundzwanzigstel des Wertes des Rechts anzunehmen.</P><P>(2) Durch Landesgesetz k\u00f6nnen Vorschriften zur \u00dcberleitung bestehender, auf Landesrecht beruhender Rechtsverh\u00e4ltnisse in die durch dieses Gesetz geschaffenen Rechtsformen getroffen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

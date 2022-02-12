@@ -1,0 +1,1726 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR012840969",
+    "firstPublished": "1969-08-19",
+    "sourceTimestamp": "20210901213511",
+    "titleShort": null,
+    "titleLong": "Bundeshaushaltsordnung",
+    "abbreviation": "BHO",
+    "slug": "bho",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1969, 1284",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 21 G v. 20.8.2021 I 3932",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 14.7.1980 +++)<BR />(+++ Zur Anwendung d. \u00a7 37 vgl. \u00a7 4 HG 2014, \u00a7 4 HG 2015, \u00a7 4 HG 2016, \u00a7 4 HG <BR />2017, \u00a7 4 HG 2018 u. \u00a7 4 HG 2019 +++)<BR />(+++ Zur Anwendung d. \u00a7 59 Abs. 1 Satz 1 Nr. 1 vgl. Art. 3 HNtragsG 2020 +++)<BR />(+++ Zur Nichtanwendung d. \u00a7\u00a7 65 bis 69 vgl. \u00a7 61 SAG +++)<BR />(+++ Zur Anwendung d. \u00a7\u00a7 89, 90, 92 bis 100 vgl. \u00a7 55 EinSiG +++)<BR />(+++ Zur Anwendung d. \u00a7 113 vgl. \u00a7 5 KInvFErrG +++)<BR />(+++ Zur Nichtanwendung d. \u00a7 109 Abs. 2 u. 3 vgl. \u00a7\u00a7 37 u. 8 FFG 2017 +++)<BR />(+++ Zur Anwendung u. Nichtanwendung d. \u00a7 59 vgl. \u00a7 36 FFG 2017 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000100319",
+        "name": "Teil I",
+        "title": "Allgemeine Vorschriften zum Haushaltsplan",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001000319",
+        "name": "\u00a7 1",
+        "title": "Feststellung des Haushaltsplans",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>Der Haushaltsplan wird f\u00fcr ein oder zwei Rechnungsjahre, nach Jahren getrennt, vor Beginn des ersten Rechnungsjahres durch das Haushaltsgesetz festgestellt. Mit dem Haushaltsgesetz wird nur der Gesamtplan (\u00a7 13 Abs. 4) verk\u00fcndet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001100319",
+        "name": "\u00a7 2",
+        "title": "Bedeutung des Haushaltsplans",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>Der Haushaltsplan dient der Feststellung und Deckung des Finanzbedarfs, der zur Erf\u00fcllung der Aufgaben des Bundes im Bewilligungszeitraum voraussichtlich notwendig ist. Der Haushaltsplan ist Grundlage f\u00fcr die Haushalts- und Wirtschaftsf\u00fchrung. Bei seiner Aufstellung und Ausf\u00fchrung ist den Erfordernissen des gesamtwirtschaftlichen Gleichgewichts Rechnung zu tragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001200319",
+        "name": "\u00a7 3",
+        "title": "Wirkungen des Haushaltsplans",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>(1) Der Haushaltsplan erm\u00e4chtigt die Verwaltung, Ausgaben zu leisten und Verpflichtungen einzugehen.</P><P>(2) Durch den Haushaltsplan werden Anspr\u00fcche oder Verbindlichkeiten weder begr\u00fcndet noch aufgehoben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001301301",
+        "name": "\u00a7 4",
+        "title": "Haushaltsjahr",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>Rechnungsjahr (Haushaltsjahr) ist das Kalenderjahr. Das Bundesministerium der Finanzen kann f\u00fcr einzelne Bereiche etwas anderes bestimmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001402301",
+        "name": "\u00a7 5",
+        "title": "Allgemeine Verwaltungsvorschriften, vorl\u00e4ufige und endg\u00fcltige\nHaushalts- und Wirtschaftsf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>Die allgemeinen Verwaltungsvorschriften zu diesem Gesetz sowie zur vorl\u00e4ufigen und endg\u00fcltigen Haushalts- und Wirtschaftsf\u00fchrung erl\u00e4\u00dft das Bundesministerium der Finanzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001500319",
+        "name": "\u00a7 6",
+        "title": "Notwendigkeit der Ausgaben und Verpflichtungserm\u00e4chtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>Bei Aufstellung und Ausf\u00fchrung des Haushaltsplans sind nur die Ausgaben und die Erm\u00e4chtigungen zum Eingehen von Verpflichtungen zur Leistung von Ausgaben in k\u00fcnftigen Jahren (Verpflichtungserm\u00e4chtigungen) zu ber\u00fccksichtigen, die zur Erf\u00fcllung der Aufgaben des Bundes notwendig sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001603308",
+        "name": "\u00a7 7",
+        "title": "Wirtschaftlichkeit und Sparsamkeit, Kosten- und Leistungsrechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>(1) Bei Aufstellung und Ausf\u00fchrung des Haushaltsplans sind die Grunds\u00e4tze der Wirtschaftlichkeit und Sparsamkeit zu beachten. Diese Grunds\u00e4tze verpflichten zur Pr\u00fcfung, inwieweit staatliche Aufgaben oder \u00f6ffentlichen Zwecken dienende wirtschaftliche T\u00e4tigkeiten durch Ausgliederung und Entstaatlichung oder Privatisierung erf\u00fcllt werden k\u00f6nnen.</P><P>(2) F\u00fcr alle finanzwirksamen Ma\u00dfnahmen sind angemessene Wirtschaftlichkeitsuntersuchungen durchzuf\u00fchren. Dabei ist auch die mit den Ma\u00dfnahmen verbundene Risikoverteilung zu ber\u00fccksichtigen. In geeigneten F\u00e4llen ist privaten Anbietern die M\u00f6glichkeit zu geben darzulegen, ob und inwieweit sie staatliche Aufgaben oder \u00f6ffentlichen Zwecken dienende wirtschaftliche T\u00e4tigkeiten nicht ebenso gut oder besser erbringen k\u00f6nnen (Interessenbekundungsverfahren).</P><P>(3) In geeigneten Bereichen ist eine Kosten- und Leistungsrechnung einzuf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001701301",
+        "name": "\u00a7 8",
+        "title": "Grundsatz der Gesamtdeckung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>Alle Einnahmen dienen als Deckungsmittel f\u00fcr alle Ausgaben. Auf die Verwendung f\u00fcr bestimmte Zwecke d\u00fcrfen Einnahmen beschr\u00e4nkt werden, soweit dies durch Gesetz vorgeschrieben oder im Haushaltsplan zugelassen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001800319",
+        "name": "\u00a7 9",
+        "title": "Beauftragter f\u00fcr den Haushalt",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>(1) Bei jeder Dienststelle, die Einnahmen oder Ausgaben bewirtschaftet, ist ein Beauftragter f\u00fcr den Haushalt zu bestellen, soweit der Leiter der Dienststelle diese Aufgabe nicht selbst wahrnimmt. Der Beauftragte soll dem Leiter der Dienststelle unmittelbar unterstellt werden.</P><P>(2) Dem Beauftragten obliegen die Aufstellung der Unterlagen f\u00fcr die Finanzplanung und der Unterlagen f\u00fcr den Entwurf des Haushaltsplans (Voranschl\u00e4ge) sowie die Ausf\u00fchrung des Haushaltsplans. Im \u00fcbrigen ist der Beauftragte bei allen Ma\u00dfnahmen von finanzieller Bedeutung zu beteiligen. Er kann Aufgaben bei der Ausf\u00fchrung des Haushaltsplans \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE001900319",
+        "name": "\u00a7 10",
+        "title": "Unterrichtung des Bundestages und des Bundesrates",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>(1) Die Bundesregierung f\u00fcgt ihren Gesetzesvorlagen einschlie\u00dflich der nach Artikel 59 Abs. 2 des Grundgesetzes vorzulegenden Vertr\u00e4ge sowie den Verordnungs- und Richtlinienentw\u00fcrfen der Europ\u00e4ischen Gemeinschaften einen \u00dcberblick \u00fcber die Auswirkungen auf den Haushaltsplan und die Finanzplanung des Bundes, der L\u00e4nder und der Gemeinden (Gemeindeverb\u00e4nde) bei. Au\u00dferdem soll angegeben werden, auf welche Weise f\u00fcr die vorgesehenen Mehrausgaben des Bundes ein Ausgleich gefunden werden kann. Die S\u00e4tze 1 und 2 gelten auch f\u00fcr Vorlagen des Bundesrates.</P><P>(2) Die Bundesregierung unterrichtet den Bundestag und den Bundesrat \u00fcber erhebliche \u00c4nderungen der Haushaltsentwicklung und deren Auswirkung auf die Finanzplanung.</P><P>(3) Die Bundesregierung leistet den Mitgliedern des Bundestages, die einen einnahmemindernden oder ausgabeerh\u00f6henden Antrag zu stellen beabsichtigen, Hilfe bei der Ermittlung der finanziellen Auswirkungen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE013005160",
+        "name": "\u00a7 10a",
+        "title": "Geheimhaltungsbed\u00fcrftige Angelegenheiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000100319"
+        },
+        "body": "<P>(1) Bei Ausgaben, deren Verwendung geheimzuhalten ist, kann der Haushaltsplan bestimmen, da\u00df die Pr\u00fcfung durch den Bundesrechnungshof nach \u00a7 19 Satz 1 Nr. 1 oder Nr. 2 des Bundesrechnungshofgesetzes vorgenommen wird.</P><P>(2) Aus zwingenden Gr\u00fcnden des Geheimschutzes kann der Bundestag in Ausnahmef\u00e4llen die Bewilligung von Ausgaben, die nach geheimzuhaltenden Wirtschaftspl\u00e4nen bewirtschaftet werden sollen, im Haushaltsgesetzgebungsverfahren von der Billigung der Wirtschaftspl\u00e4ne durch ein Gremium von Mitgliedern des Haushaltsausschusses (Vertrauensgremium) abh\u00e4ngig machen, das vom Bundestag in entsprechender Anwendung von \u00a7 2 des Gesetzes \u00fcber die parlamentarische Kontrolle nachrichtendienstlicher T\u00e4tigkeit des Bundes vom 29. Juli 2009 (BGBl. I S. 2346) f\u00fcr die Dauer der Wahlperiode gew\u00e4hlt wird. Soweit sein Recht auf Kontrolle reicht, verf\u00fcgt das Vertrauensgremium \u00fcber die gleichen Rechte wie das Parlamentarische Kontrollgremium; \u00a7\u00a7 5, 6, 7, 8, 12 und 13 des Gesetzes \u00fcber die parlamentarische Kontrolle nachrichtendienstlicher T\u00e4tigkeit des Bundes vom 29. Juli 2009 (BGBl. I S. 2346) gelten entsprechend. Sofern der Bundestag nichts anderes beschlie\u00dft, sind die Wirtschaftspl\u00e4ne f\u00fcr die Nachrichtendienste vom Bundesministerium der Finanzen dem Vertrauensgremium zur Billigung vorzulegen. Das Vertrauensgremium teilt die Abschlu\u00dfbetr\u00e4ge der Wirtschaftspl\u00e4ne rechtzeitig dem Haushaltsausschu\u00df mit. Die Mitglieder des Vertrauensgremiums sind zur Geheimhaltung aller Angelegenheiten verpflichtet, die ihnen bei ihrer T\u00e4tigkeit bekanntgeworden sind. Der Vorsitzende des Parlamentarischen Kontrollgremiums, sein Stellvertreter und ein beauftragtes Mitglied k\u00f6nnen an den Sitzungen des Vertrauensgremiums mitberatend teilnehmen. Bei den Sitzungen zur Beratung der Wirtschaftspl\u00e4ne der Dienste und deren Vollzug gilt dies auch f\u00fcr die Mitglieder des Parlamentarischen Kontrollgremiums.</P><P>(3) Der Bundesrechnungshof pr\u00fcft in den F\u00e4llen des Absatzes 2 nach \u00a7 19 Satz 1 Nr. 1 Bundesrechnungshofgesetz und unterrichtet das Vertrauensgremium, das Parlamentarische Kontrollgremium sowie die zust\u00e4ndige oberste Bundesbeh\u00f6rde und das Bundesministerium der Finanzen \u00fcber das Ergebnis seiner Pr\u00fcfung der Jahresrechnung sowie der Haushalts- und Wirtschaftsf\u00fchrung. Der Pr\u00e4sident des Bundesrates ist auf Verlangen durch die zust\u00e4ndige oberste Bundesbeh\u00f6rde zu unterrichten. \u00a7 97 Abs. 4 bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000200319",
+        "name": "Teil II",
+        "title": "Aufstellung des Haushaltsplans",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002000319",
+        "name": "\u00a7 11",
+        "title": "Vollst\u00e4ndigkeit und Einheit, F\u00e4lligkeitsprinzip",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) F\u00fcr jedes Haushaltsjahr ist ein Haushaltsplan aufzustellen.</P><P>(2) Der Haushaltsplan enth\u00e4lt alle im Haushaltsjahr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zu erwartenden Einnahmen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">voraussichtlich zu leistenden Ausgaben und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">voraussichtlich ben\u00f6tigten Verpflichtungserm\u00e4chtigungen.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002100319",
+        "name": "\u00a7 12",
+        "title": "Geltungsdauer der Haushaltspl\u00e4ne",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Der Haushaltsplan kann f\u00fcr zwei Haushaltsjahre, nach Jahren getrennt, aufgestellt werden.</P><P>(2) Der Haushaltsplan kann in einen Verwaltungshaushalt und in einen Finanzhaushalt gegliedert werden; beide k\u00f6nnen jeweils f\u00fcr zwei Haushaltsjahre, nach Jahren getrennt, aufgestellt werden. Die Bewilligungszeitr\u00e4ume f\u00fcr beide Haushalte k\u00f6nnen in aufeinanderfolgenden Haushaltsjahren beginnen.</P><P>(3) Wird der Haushaltsplan in einen Verwaltungshaushalt und in einen Finanzhaushalt gegliedert, enth\u00e4lt der Verwaltungshaushalt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu erwartenden Verwaltungseinnahmen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die voraussichtlich zu leistenden Verwaltungsausgaben (Personalausgaben und s\u00e4chliche Verwaltungsausgaben),</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die voraussichtlich ben\u00f6tigten Verpflichtungserm\u00e4chtigungen zur Leistung von Verwaltungsausgaben.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002202160",
+        "name": "\u00a7 13",
+        "title": "Einzelpl\u00e4ne, Gesamtplan, Gruppierungsplan",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Der Haushaltsplan besteht aus den Einzelpl\u00e4nen und dem Gesamtplan.</P><P>(2) Die Einzelpl\u00e4ne enthalten die Einnahmen, Ausgaben und Verpflichtungserm\u00e4chtigungen eines einzelnen Verwaltungszweigs oder bestimmte Gruppen von Einnahmen, Ausgaben und Verpflichtungserm\u00e4chtigungen. Die Einzelpl\u00e4ne sind in Kapitel und Titel einzuteilen. Die Einteilung in Titel richtet sich nach Verwaltungsvorschriften \u00fcber die Gruppierung der Einnahmen und Ausgaben des Haushaltsplans nach Arten (Gruppierungsplan).</P><P>(3) In dem Gruppierungsplan sind mindestens gesondert darzustellen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei den Einnahmen: Steuern, Verwaltungseinnahmen, Einnahmen aus Verm\u00f6gensver\u00e4u\u00dferungen, Darlehensr\u00fcckfl\u00fcsse, Zuweisungen und Zusch\u00fcsse, Einnahmen aus Krediten, wozu nicht Kredite zur Aufrechterhaltung einer ordnungsm\u00e4\u00dfigen Kassenwirtschaft (Kassenverst\u00e4rkungskredite) z\u00e4hlen, Entnahmen aus R\u00fccklagen, M\u00fcnzeinnahmen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei den Ausgaben: Personalausgaben, s\u00e4chliche Verwaltungsausgaben, Zinsausgaben, Zuweisungen an Gebietsk\u00f6rperschaften, Zusch\u00fcsse an Unternehmen, Tilgungsausgaben, Schuldendiensthilfen, Zuf\u00fchrungen an R\u00fccklagen, Ausgaben f\u00fcr Investitionen. Ausgaben f\u00fcr Investitionen sind die Ausgaben f\u00fcr<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Bauma\u00dfnahmen, soweit sie nicht milit\u00e4rische Anlagen betreffen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">den Erwerb von beweglichen Sachen, soweit sie nicht als s\u00e4chliche Verwaltungsausgaben veranschlagt werden oder soweit es sich nicht um Ausgaben f\u00fcr milit\u00e4rische Beschaffungen handelt,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">den Erwerb von unbeweglichen Sachen,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">den Erwerb von Beteiligungen und sonstigem Kapitalverm\u00f6gen, von Forderungen und Anteilsrechten an Unternehmen, von Wertpapieren sowie f\u00fcr die Heraufsetzung des Kapitals von Unternehmen,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Darlehen,</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Inanspruchnahme aus Gew\u00e4hrleistungen,</LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zuweisungen und Zusch\u00fcsse zur Finanzierung von Ausgaben f\u00fcr die in den Buchstaben a bis f genannten Zwecke.</LA></DD></DL></LA></DD></DL></P><P>(4) Der Gesamtplan enth\u00e4lt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Zusammenfassung der Einnahmen, Ausgaben und Verpflichtungserm\u00e4chtigungen der Einzelpl\u00e4ne (Haushalts\u00fcbersicht),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Berechnung der nach dem Gesetz zur Ausf\u00fchrung von Artikel 115 des Grundgesetzes vom 10. August 2009 (BGBl. I S. 2702, 2704) in der jeweils geltenden Fassung zul\u00e4ssigen Kreditaufnahme,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Berechnung des Finanzierungssaldos (Finanzierungs\u00fcbersicht). Der Finanzierungssaldo ergibt sich aus einer Gegen\u00fcberstellung der Einnahmen mit Ausnahme der Einnahmen aus Krediten vom Kreditmarkt, der Entnahmen aus R\u00fccklagen, der Einnahmen aus kassenm\u00e4\u00dfigen \u00dcbersch\u00fcssen sowie der M\u00fcnzeinnahmen einerseits und der Ausgaben mit Ausnahme der Ausgaben zur Schuldentilgung am Kreditmarkt, der Zuf\u00fchrungen an R\u00fccklagen und der Ausgaben zur Deckung eines kassenm\u00e4\u00dfigen Fehlbetrags andererseits,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Darstellung der Einnahmen aus Krediten und der Tilgungsausgaben (Kreditfinanzierungsplan).</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002301301",
+        "name": "\u00a7 14",
+        "title": "\u00dcbersichten zum Haushaltsplan, Funktionenplan",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Der Haushaltsplan hat folgende Anlagen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Darstellungen der Einnahmen und Ausgaben<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einer Gruppierung nach bestimmten Arten (Gruppierungs\u00fcbersicht),</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einer Gliederung nach bestimmten Aufgabengebieten (Funktionen\u00fcbersicht),</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">in einer Zusammenfassung nach Buchstabe a und Buchstabe b (Haushaltsquerschnitt);</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine \u00dcbersicht \u00fcber die den Haushalt in Einnahmen und Ausgaben durchlaufenden Posten;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine \u00dcbersicht \u00fcber die Planstellen der Beamten und die Stellen der Angestellten und Arbeiter.</LA></DD> </DL>Die Anlagen sind dem Entwurf des Haushaltsplans beizuf\u00fcgen.</P><P>(2) Die Funktionen\u00fcbersicht richtet sich nach Verwaltungsvorschriften \u00fcber die Gliederung der Einnahmen und Ausgaben des Haushaltsplans nach Aufgabengebieten (Funktionenplan).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002400319",
+        "name": "\u00a7 15",
+        "title": "Bruttoveranschlagung, Selbstbewirtschaftungsmittel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Die Einnahmen und Ausgaben sind in voller H\u00f6he und getrennt voneinander zu veranschlagen. Dies gilt nicht f\u00fcr die Veranschlagung der Einnahmen aus Krediten vom Kreditmarkt und der hiermit zusammenh\u00e4ngenden Tilgungsausgaben. Dar\u00fcber hinaus k\u00f6nnen Ausnahmen von Satz 1 im Haushaltsplan zugelassen werden, insbesondere f\u00fcr Nebenkosten und Nebenerl\u00f6se bei Erwerbs- oder Ver\u00e4u\u00dferungsgesch\u00e4ften. In den F\u00e4llen des Satzes 3 ist die Berechnung des veranschlagten Betrages dem Haushaltsplan als Anlage beizuf\u00fcgen oder in die Erl\u00e4uterungen aufzunehmen.</P><P>(2) Ausgaben k\u00f6nnen zur Selbstbewirtschaftung veranschlagt werden, wenn hierdurch eine sparsame Bewirtschaftung gef\u00f6rdert wird. Selbstbewirtschaftungsmittel stehen \u00fcber das laufende Haushaltsjahr hinaus zur Verf\u00fcgung. Bei der Bewirtschaftung aufkommende Einnahmen flie\u00dfen den Selbstbewirtschaftungsmitteln zu. Bei der Rechnungslegung ist nur die Zuweisung der Mittel an die beteiligten Stellen als Ausgabe nachzuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002500319",
+        "name": "\u00a7 16",
+        "title": "Verpflichtungserm\u00e4chtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>Die Verpflichtungserm\u00e4chtigungen sind bei den jeweiligen Ausgaben gesondert zu veranschlagen. Wenn Verpflichtungen zu Lasten mehrerer Haushaltsjahre eingegangen werden k\u00f6nnen, sollen die Jahresbetr\u00e4ge im Haushaltsplan angegeben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002600319",
+        "name": "\u00a7 17",
+        "title": "Einzelveranschlagung, Erl\u00e4uterungen, Planstellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Die Einnahmen sind nach dem Entstehungsgrund, die Ausgaben und die Verpflichtungserm\u00e4chtigungen nach Zwecken getrennt zu veranschlagen und, soweit erforderlich, zu erl\u00e4utern. Erl\u00e4uterungen k\u00f6nnen f\u00fcr verbindlich erkl\u00e4rt werden.</P><P>(2) Bei Ausgaben f\u00fcr eine sich auf mehrere Jahre erstreckende Ma\u00dfnahme sind bei der ersten Veranschlagung im Haushaltsplan die voraussichtlichen Gesamtkosten und bei jeder folgenden Veranschlagung au\u00dferdem die finanzielle Abwicklung darzulegen.</P><P>(3) Zweckgebundene Einnahmen und die dazugeh\u00f6rigen Ausgaben sind kenntlich zu machen.</P><P>(4) F\u00fcr denselben Zweck sollen Ausgaben und Verpflichtungserm\u00e4chtigungen nicht bei verschiedenen Titeln veranschlagt werden.</P><P>(5) Planstellen sind nach Besoldungsgruppen und Amtsbezeichnungen im Haushaltsplan auszubringen. Sie d\u00fcrfen nur f\u00fcr Aufgaben eingerichtet werden, zu deren Wahrnehmung die Begr\u00fcndung eines Beamtenverh\u00e4ltnisses zul\u00e4ssig ist und die in der Regel Daueraufgaben sind.</P><P>(6) Andere Stellen als Planstellen sind in den Erl\u00e4uterungen auszuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE013300123",
+        "name": "\u00a7 17a",
+        "title": "Obergrenzen f\u00fcr Bef\u00f6rderungs\u00e4mter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Die Anteile der Bef\u00f6rderungs\u00e4mter d\u00fcrfen nach Ma\u00dfgabe sachgerechter Bewertung nach \u00a7 18 des Bundesbesoldungsgesetzes folgende Obergrenzen nicht \u00fcberschreiten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">im einfachen Dienst in der<BR /> Besoldungsgruppe A 6</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">50 Prozent;</entry></row></tbody></tgroup></table></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im mittleren Polizeivollzugsdienst in der Bundespolizei <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in der Besoldungsgruppe A 8</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">50 Prozent,</entry></row></tbody></tgroup></table></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in der Besoldungsgruppe A 9</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">50 Prozent;</entry></row></tbody></tgroup></table></LA></DD></DL>die Obergrenzen nach den Buchstaben a und b gelten nur f\u00fcr Planstellen, die Funktionen zugeordnet sind, in denen Polizeivollzugsbeamte in der Bundespolizei bis zum Eintritt in den Ruhestand verwendet werden k\u00f6nnen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im mittleren Zolldienst des Bundes <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in der Besoldungsgruppe A 8</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">50 Prozent,</entry></row></tbody></tgroup></table></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in der Besoldungsgruppe A 9</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">50 Prozent;</entry></row></tbody></tgroup></table></LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">im mittleren Dienst in allen \u00fcbrigen Laufbahnen <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in der Besoldungsgruppe A 8,<BR /> soweit \u00fcberwiegend im Bereich<BR /> der Erstellung und Betreuung von<BR /> Verfahren der Informations- und<BR /> Kommunikationstechnik<BR /> verwendet</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">50 Prozent,</entry></row></tbody></tgroup></table></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">im \u00dcbrigen in der<BR /> Besoldungsgruppe A 8</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">40 Prozent,</entry></row></tbody></tgroup></table></LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in der Besoldungsgruppe A 9</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">40 Prozent;</entry></row></tbody></tgroup></table></LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">im gehobenen Dienst <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in der Besoldungsgruppe A 12</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">40 Prozent,</entry></row></tbody></tgroup></table></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in der Besoldungsgruppe A 13</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">30 Prozent;</entry></row></tbody></tgroup></table></LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">im h\u00f6heren Dienst <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in den Besoldungsgruppen A 15,<BR /> A 16 und B 2 nach Einzel-<BR /> bewertung zusammen</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">50 Prozent,</entry></row></tbody></tgroup></table></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\"><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec align=\"left\" colname=\"leftSplit\" /><colspec align=\"right\" colname=\"rightSplit\" /><tbody Class=\"Split\" valign=\"top\"><row><entry VJ=\"1\" colname=\"leftSplit\">in den Besoldungsgruppen A 16<BR /> und B 2 zusammen</entry><entry VJ=\"1\" colname=\"rightSplit\" valign=\"bottom\">15 Prozent.</entry></row></tbody></tgroup></table></LA></DD></DL></LA></DD></DL>Die Prozents\u00e4tze nach Satz 1 beziehen sich auf die Gesamtzahl aller Planstellen bei einem Dienstherrn in der jeweiligen Laufbahngruppe, im h\u00f6heren Dienst auf die Gesamtzahl der Planstellen in den Besoldungsgruppen A 13 bis A 16 und B 2. Die f\u00fcr dauernd besch\u00e4ftigte Arbeitnehmer ausgebrachten gleichwertigen Stellen k\u00f6nnen mit der Ma\u00dfgabe in die Berechnungsgrundlage einbezogen werden, dass eine entsprechende Anrechnung auf die jeweiligen Stellen f\u00fcr Bef\u00f6rderungs\u00e4mter erfolgt. Soweit der Anteil an Bef\u00f6rderungs\u00e4mtern nach der bis zum 31. Dezember 2015 geltenden Rechtslage \u00fcber den in Satz 1 genannten Obergrenzen liegt, gilt dieser Anteil unver\u00e4ndert fort.</P><P>(2) Absatz 1 gilt nicht <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die obersten Bundesbeh\u00f6rden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Hauptverwaltung des Bundeseisenbahnverm\u00f6gens und die zum Fernstra\u00dfen-Bundesamt versetzten Beamten, die sp\u00e4testens mit Wirkung zum 1. Januar 2021 der \u201eDie Autobahn GmbH des Bundes\u201c zur Dienstleistung zugewiesen sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Lehrkr\u00e4fte an verwaltungsinternen Hochschulen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Laufbahnen, in denen auf Grund des \u00a7 24 Absatz 1 des Bundesbesoldungsgesetzes das Eingangsamt einer h\u00f6heren Besoldungsgruppe zugewiesen worden ist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die dem Bundesrechnungshof unmittelbar nachgeordneten Pr\u00fcfungs\u00e4mter, soweit dies wegen der mit bestimmten Funktionen verbundenen Anforderungen erforderlich ist.</LA></DD></DL></P><P>(3) F\u00fcr die nachstehend bezeichneten Besoldungsgruppen gelten folgende weitere Obergrenzen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausstattung von Funktionen mit einer Amtszulage nach Fu\u00dfnote 1 zur Besoldungsgruppe A 9 ist auf 30 Prozent der ausgebrachten Planstellen begrenzt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gesamtzahl der Planstellen f\u00fcr Stabsfeldwebel, Stabsbootsm\u00e4nner, Oberstabsfeldwebel und Oberstabsbootsm\u00e4nner ist auf 50 Prozent der in den Besoldungsgruppen A 8 und A 9 insgesamt f\u00fcr Unteroffiziere ausgebrachten Planstellen begrenzt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausstattung von Funktionen mit einer Amtszulage nach Fu\u00dfnote 1 zur Besoldungsgruppe A 13 ist auf 20 Prozent der ausgebrachten Planstellen begrenzt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zahl der Planstellen f\u00fcr Funktionen in der Laufbahn der Offiziere des milit\u00e4rfachlichen Dienstes in der Besoldungsgruppe A 13 ist auf 6 Prozent der insgesamt f\u00fcr Offiziere in dieser Laufbahn ausgebrachten Planstellen begrenzt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Deutschen Patent- und Markenamt ist die Zahl der in der Besoldungsgruppe A 15 ausgebrachten Planstellen f\u00fcr Pr\u00fcfer auf 90 Prozent der insgesamt ausgebrachten Planstellen f\u00fcr Pr\u00fcfer, die keine Gruppenleiter sind, begrenzt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Bundessortenamt ist die Zahl der in der Besoldungsgruppe A 15 ausgebrachten Planstellen f\u00fcr Pr\u00fcfer auf 90 Prozent der insgesamt f\u00fcr Pr\u00fcfer ausgebrachten Planstellen begrenzt,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">in obersten Bundesbeh\u00f6rden und beim Bundeseisenbahnverm\u00f6gen ist die Zahl der Planstellen in der Besoldungsgruppe B 3 auf 75 Prozent der Gesamtzahl der f\u00fcr Ministerialr\u00e4te, Vortragende Legationsr\u00e4te Erster Klasse sowie Oberste, Kapit\u00e4ne zur See, Oberstapotheker, Flottenapotheker, Oberst\u00e4rzte, Flotten\u00e4rzte und Oberstveterin\u00e4re ausgebrachten Planstellen begrenzt.</LA></DD></DL>Au\u00dferhalb der obersten Bundesbeh\u00f6rden d\u00fcrfen f\u00fcr die in Satz 1 Nummer 7 genannten Dienstgrade bis zu 21 Prozent der Gesamtzahl der im Gesch\u00e4ftsbereich der obersten Bundesbeh\u00f6rden ausgebrachten Planstellen in der Besoldungsgruppe B 3 ausgebracht werden.</P><P>(4) Mit Zustimmung der obersten Bundesbeh\u00f6rde, des Bundesministeriums des Innern, f\u00fcr Bau und Heimat und des Bundesministeriums der Finanzen k\u00f6nnen die im jeweiligen Einzelplan ausgewiesenen Bef\u00f6rderungs\u00e4mter die in den Abs\u00e4tzen 1 und 3 genannten Obergrenzen \u00fcberschreiten, soweit dies wegen der mit den Aufgaben der Beh\u00f6rde verbundenen Anforderungen nach Ma\u00dfgabe sachgerechter Bewertung erforderlich ist und ein erhebliches \u00f6ffentliches Interesse besteht. Dies gilt insbesondere bei der Neueinrichtung, der Umstrukturierung oder bei Personal\u00fcberh\u00e4ngen von Beh\u00f6rden.</P><P>(5) Werden in Verwaltungsbereichen bei einer Verminderung oder Verlagerung von Planstellen infolge von Rationalisierungsma\u00dfnahmen nach sachgerechter Bewertung der Bef\u00f6rderungs\u00e4mter die Obergrenzen nach den Abs\u00e4tzen 1 bis 4 \u00fcberschritten, so kann aus personalwirtschaftlichen Gr\u00fcnden die Umwandlung der die Obergrenzen \u00fcberschreitenden Planstellen f\u00fcr einen Zeitraum von l\u00e4ngstens f\u00fcnf Jahren ausgesetzt und danach auf jede dritte freiwerdende Planstelle beschr\u00e4nkt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002703160",
+        "name": "\u00a7 18",
+        "title": "Krediterm\u00e4chtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Einnahmen aus Krediten zur Deckung von Ausgaben d\u00fcrfen nur bis zur H\u00f6he der nach dem Gesetz zur Ausf\u00fchrung von Artikel 115 des Grundgesetzes in der jeweils geltenden Fassung zul\u00e4ssigen Kreditaufnahme in den Haushaltsplan eingestellt werden.</P><P>(2) Das Haushaltsgesetz bestimmt, bis zu welcher H\u00f6he das Bundesministerium der Finanzen Kredite aufnehmen darf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Deckung von Ausgaben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Aufrechterhaltung einer ordnungsm\u00e4\u00dfigen Kassenwirtschaft (Kassenverst\u00e4rkungskredite). Soweit diese Kredite zur\u00fcckgezahlt sind, kann die Erm\u00e4chtigung wiederholt in Anspruch genommen werden. Kassenverst\u00e4rkungskredite d\u00fcrfen nicht sp\u00e4ter als sechs Monate nach Ablauf des Haushaltsjahres, f\u00fcr das sie aufgenommen worden sind, f\u00e4llig werden.</LA></DD></DL></P><P>(3) Die Erm\u00e4chtigungen nach Absatz 2 Nr. 1 gelten bis zum Ende des n\u00e4chsten Haushaltsjahres und, wenn das Haushaltsgesetz f\u00fcr das zweitn\u00e4chste Haushaltsjahr nicht rechtzeitig verk\u00fcndet wird, bis zur Verk\u00fcndung dieses Haushaltsgesetzes. Die Erm\u00e4chtigungen nach Absatz 2 Nr. 2 gelten bis zum Ende des laufenden Haushaltsjahres und, wenn das Haushaltsgesetz f\u00fcr das n\u00e4chste Haushaltsjahr nicht rechtzeitig verk\u00fcndet wird, bis zur Verk\u00fcndung dieses Haushaltsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002801301",
+        "name": "\u00a7 19",
+        "title": "\u00dcbertragbarkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Ausgaben f\u00fcr Investitionen und Ausgaben aus zweckgebundenen Einnahmen sind \u00fcbertragbar. Andere Ausgaben k\u00f6nnen im Haushaltsplan f\u00fcr \u00fcbertragbar erkl\u00e4rt werden, wenn dies ihre wirtschaftliche und sparsame Verwendung f\u00f6rdert.</P><P>(2) Zur Deckung der Ausgaben, die \u00fcbertragen werden sollen (Ausgabereste), sind Ausgabemittel zu veranschlagen. Die Ausgabemittel sollen so bemessen werden, da\u00df sie zur Deckung der Ausgabereste ausreichen, deren Verausgabung im n\u00e4chsten Haushaltsjahr erforderlich ist; nicht zu ber\u00fccksichtigen sind Ausgabereste, f\u00fcr die Mittel aus kassenm\u00e4\u00dfigen Minderausgaben im n\u00e4chsten Haushaltsjahr voraussichtlich bereitgestellt werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE002901301",
+        "name": "\u00a7 20",
+        "title": "Deckungsf\u00e4higkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Deckungsf\u00e4hig sind innerhalb desselben Kapitels <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">gegenseitig</LA><LA Size=\"normal\">die Ausgaben f\u00fcr Verg\u00fctungen der Angestellten und L\u00f6hne der Arbeiter,</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einseitig<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausgaben f\u00fcr Bez\u00fcge der Beamten zugunsten der Ausgaben f\u00fcr Verg\u00fctungen der Angestellten und L\u00f6hne der Arbeiter,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausgaben f\u00fcr Unterst\u00fctzungen zugunsten der Ausgaben f\u00fcr Beihilfen.</LA></DD> </DL> </LA></DD> </DL></P><P>(2) Im Haushaltsplan k\u00f6nnen Ausgaben und Verpflichtungserm\u00e4chtigungen jeweils f\u00fcr gegenseitig oder einseitig deckungsf\u00e4hig erkl\u00e4rt werden, wenn ein verwaltungsm\u00e4\u00dfiger oder sachlicher Zusammenhang besteht oder eine wirtschaftliche und sparsame Verwendung gef\u00f6rdert wird.</P><P>(3) Ausgaben und Verpflichtungserm\u00e4chtigungen, die ohne n\u00e4here Angabe des Verwendungszwecks veranschlagt sind, d\u00fcrfen nicht f\u00fcr deckungsf\u00e4hig erkl\u00e4rt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003000319",
+        "name": "\u00a7 21",
+        "title": "Wegfall- und Umwandlungsvermerke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Ausgaben und Planstellen sind als k\u00fcnftig wegfallend zu bezeichnen, soweit sie in den folgenden Haushaltsjahren voraussichtlich nicht mehr ben\u00f6tigt werden.</P><P>(2) Planstellen sind als k\u00fcnftig umzuwandeln zu bezeichnen, soweit sie in den folgenden Haushaltsjahren voraussichtlich in Planstellen einer niedrigeren Besoldungsgruppe oder in Stellen f\u00fcr Angestellte oder Arbeiter umgewandelt werden k\u00f6nnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003100319",
+        "name": "\u00a7 22",
+        "title": "Sperrvermerk",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>Ausgaben, die aus besonderen Gr\u00fcnden zun\u00e4chst noch nicht geleistet oder zu deren Lasten noch keine Verpflichtungen eingegangen werden sollen, sind im Haushaltsplan als gesperrt zu bezeichnen. Entsprechendes gilt f\u00fcr Verpflichtungserm\u00e4chtigungen. In Ausnahmef\u00e4llen kann durch Sperrvermerk bestimmt werden, da\u00df die Leistung von Ausgaben oder die Inanspruchnahme von Verpflichtungserm\u00e4chtigungen der Einwilligung des Bundestages bedarf.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003200319",
+        "name": "\u00a7 23",
+        "title": "Zuwendungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>Ausgaben und Verpflichtungserm\u00e4chtigungen f\u00fcr Leistungen an Stellen au\u00dferhalb der Bundesverwaltung zur Erf\u00fcllung bestimmter Zwecke (Zuwendungen) d\u00fcrfen nur veranschlagt werden, wenn der Bund an der Erf\u00fcllung durch solche Stellen ein erhebliches Interesse hat, das ohne die Zuwendungen nicht oder nicht im notwendigen Umfang befriedigt werden kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003302301",
+        "name": "\u00a7 24",
+        "title": "Bauma\u00dfnahmen, gr\u00f6\u00dfere Beschaffungen, gr\u00f6\u00dfere\nEntwicklungsvorhaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Ausgaben und Verpflichtungserm\u00e4chtigungen f\u00fcr Bauma\u00dfnahmen d\u00fcrfen erst veranschlagt werden, wenn Pl\u00e4ne, Kostenermittlungen und Erl\u00e4uterungen vorliegen, aus denen die Art der Ausf\u00fchrung, die Kosten der Bauma\u00dfnahme, des Grunderwerbs und der Einrichtungen sowie die vorgesehene Finanzierung und ein Zeitplan ersichtlich sind. Den Unterlagen ist eine Sch\u00e4tzung der nach Fertigstellung der Ma\u00dfnahme entstehenden j\u00e4hrlichen Haushaltsbelastungen beizuf\u00fcgen.</P><P>(2) Ausgaben und Verpflichtungserm\u00e4chtigungen f\u00fcr gr\u00f6\u00dfere Beschaffungen und gr\u00f6\u00dfere Entwicklungsvorhaben d\u00fcrfen erst veranschlagt werden, wenn Planungen und Sch\u00e4tzungen der Kosten und Kostenbeteiligungen vorliegen. Absatz 1 Satz 2 gilt entsprechend.</P><P>(3) Ausnahmen von den Abs\u00e4tzen 1 und 2 sind nur zul\u00e4ssig, wenn es im Einzelfall nicht m\u00f6glich ist, die Unterlagen rechtzeitig fertigzustellen, und aus einer sp\u00e4teren Veranschlagung dem Bund ein Nachteil erwachsen w\u00fcrde. Die Notwendigkeit einer Ausnahme ist in den Erl\u00e4uterungen zu begr\u00fcnden. Die Ausgaben und Verpflichtungserm\u00e4chtigungen f\u00fcr Ma\u00dfnahmen, f\u00fcr welche die Unterlagen noch nicht vorliegen, sind gesperrt.</P><P>(4) Auf einzeln veranschlagte Ausgaben und Verpflichtungserm\u00e4chtigungen f\u00fcr Zuwendungen sind die Abs\u00e4tze 1 bis 3 entsprechend anzuwenden, wenn insgesamt mehr als 50 vom Hundert der Kosten durch Zuwendungen von Bund, L\u00e4ndern und Gemeinden gedeckt werden. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003400319",
+        "name": "\u00a7 25",
+        "title": "\u00dcberschu\u00df, Fehlbetrag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Der \u00dcberschu\u00df oder der Fehlbetrag ist der Unterschied zwischen den tats\u00e4chlich eingegangenen Einnahmen (Ist-Einnahmen) und den tats\u00e4chlich geleisteten Ausgaben (Ist-Ausgaben).</P><P>(2) Ein \u00dcberschu\u00df ist insbesondere zur Verminderung des Kreditbedarfs oder zur Tilgung von Schulden zu verwenden oder der Konjunkturausgleichsr\u00fccklage zuzuf\u00fchren. Wird der \u00dcberschu\u00df zur Schuldentilgung verwendet oder der Konjunkturausgleichsr\u00fccklage zugef\u00fchrt, ist er in den n\u00e4chsten festzustellenden Haushaltsplan einzustellen. \u00a7 6 Abs. 1 Satz 3 des Gesetzes zur F\u00f6rderung der Stabilit\u00e4t und des Wachstums der Wirtschaft vom 8. Juni 1967 (Bundesgesetzbl. I S. 582) bleibt unber\u00fchrt.</P><P>(3) Ein Fehlbetrag ist sp\u00e4testens in den Haushaltsplan f\u00fcr das zweitn\u00e4chste Haushaltsjahr einzustellen. Er darf durch Einnahmen aus Krediten nur gedeckt werden, soweit die M\u00f6glichkeiten einer Kreditaufnahme nicht ausgesch\u00f6pft sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003501301",
+        "name": "\u00a7 26",
+        "title": "Bundesbetriebe, Sonderverm\u00f6gen, Zuwendungsempf\u00e4nger",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Bundesbetriebe haben einen Wirtschaftsplan aufzustellen, wenn ein Wirtschaften nach Einnahmen und Ausgaben des Haushaltsplans nicht zweckm\u00e4\u00dfig ist. Der Wirtschaftsplan oder eine \u00dcbersicht \u00fcber den Wirtschaftsplan ist dem Haushaltsplan als Anlage beizuf\u00fcgen oder in die Erl\u00e4uterungen aufzunehmen. Im Haushaltsplan sind nur die Zuf\u00fchrungen oder die Ablieferungen zu veranschlagen. Planstellen sind nach Besoldungsgruppen und Amtsbezeichnungen im Haushaltsplan auszubringen.</P><P>(2) Bei Sonderverm\u00f6gen sind nur die Zuf\u00fchrungen oder die Ablieferungen im Haushaltsplan zu veranschlagen. \u00dcber die Einnahmen, Ausgaben und Verpflichtungserm\u00e4chtigungen der Sonderverm\u00f6gen sind \u00dcbersichten dem Haushaltsplan als Anlagen beizuf\u00fcgen oder in die Erl\u00e4uterungen aufzunehmen.</P><P>(3) \u00dcber die Einnahmen und Ausgaben von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">juristischen Personen des \u00f6ffentlichen Rechts, die vom Bund ganz oder zum Teil zu unterhalten sind, und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Stellen au\u00dferhalb der Bundesverwaltung, die vom Bund Zuwendungen zur Deckung der gesamten Ausgaben oder eines nicht abgegrenzten Teils der Ausgaben erhalten,</LA></DD> </DL>sind \u00dcbersichten dem Haushaltsplan als Anlagen beizuf\u00fcgen oder in die Erl\u00e4uterungen aufzunehmen. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003601301",
+        "name": "\u00a7 27",
+        "title": "Voranschl\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Die Voranschl\u00e4ge sind von der f\u00fcr den Einzelplan zust\u00e4ndigen Stelle dem Bundesministerium der Finanzen zu dem von ihm zu bestimmenden Zeitpunkt zu \u00fcbersenden. Das Bundesministerium der Finanzen kann verlangen, da\u00df den Voranschl\u00e4gen Organisations- und Stellenpl\u00e4ne beigef\u00fcgt werden.</P><P>(2) Die f\u00fcr den Einzelplan zust\u00e4ndige Stelle \u00fcbersendet die Voranschl\u00e4ge auch dem Bundesrechnungshof. Er kann hierzu Stellung nehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003702360",
+        "name": "\u00a7 28",
+        "title": "Aufstellung des Entwurfs des Haushaltsplans",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Das Bundesministerium der Finanzen pr\u00fcft die Voranschl\u00e4ge und stellt den Entwurf des Haushaltsplans auf. Es kann die Voranschl\u00e4ge nach Benehmen mit den beteiligten Stellen \u00e4ndern.</P><P>(2) \u00dcber Angelegenheiten von grunds\u00e4tzlicher oder erheblicher finanzieller Bedeutung kann die zust\u00e4ndige Bundesministerin oder der zust\u00e4ndige Bundesminister die Entscheidung der Bundesregierung einholen. Entscheidet die Bundesregierung gegen oder ohne die Stimme der Bundesministerin oder des Bundesministers der Finanzen, so steht ihr oder ihm ein Widerspruchsrecht zu. Das N\u00e4here regelt die Gesch\u00e4ftsordnung der Bundesregierung.</P><P>(3) Abweichungen von den Voranschl\u00e4gen der Bundespr\u00e4sidentin oder des Bundespr\u00e4sidenten, des Deutschen Bundestages, des Bundesrates, des Bundesverfassungsgerichts, des Bundesrechnungshofes oder der oder des Bundesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit sind vom Bundesministerium der Finanzen der Bundesregierung mitzuteilen, soweit den \u00c4nderungen nicht zugestimmt worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003802360",
+        "name": "\u00a7 29",
+        "title": "Beschlu\u00df \u00fcber den Entwurf des Haushaltsplans",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>(1) Der Entwurf des Haushaltsgesetzes wird mit dem Entwurf des Haushaltsplans von der Bundesregierung beschlossen.</P><P>(2) Einnahmen, Ausgaben, Verpflichtungserm\u00e4chtigungen und Vermerke, die das Bundesministerium der Finanzen in den Entwurf des Haushaltsplans nicht aufgenommen hat, unterliegen auf Antrag des zust\u00e4ndigen Bundesministers der Beschlu\u00dffassung der Bundesregierung, wenn es sich um Angelegenheiten von grunds\u00e4tzlicher oder erheblicher finanzieller Bedeutung handelt. Dasselbe gilt f\u00fcr Vorschriften des Entwurfs des Haushaltsgesetzes. Auf die Beschlu\u00dffassung der Bundesregierung ist \u00a7 28 Abs. 2 Satz 2 entsprechend anzuwenden. Das N\u00e4here regelt die Gesch\u00e4ftsordnung der Bundesregierung.</P><P>(3) Weicht der Entwurf des Haushaltsplans von den Voranschl\u00e4gen der Bundespr\u00e4sidentin oder des Bundespr\u00e4sidenten, des Deutschen Bundestages, des Bundesrates, des Bundesverfassungsgerichts, des Bundesrechnungshofes oder der oder des Bundesbeauftragten f\u00fcr den Datenschutz und die Informationsfreiheit ab und ist der \u00c4nderung nicht zugestimmt worden, so sind die Teile, \u00fcber die kein Einvernehmen erzielt worden ist, unver\u00e4ndert dem Entwurf des Haushaltsplans beizuf\u00fcgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE003900319",
+        "name": "\u00a7 30",
+        "title": "Vorlagefrist",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>Der Entwurf des Haushaltsgesetzes ist mit dem Entwurf des Haushaltsplans vor Beginn des Haushaltsjahres dem Bundesrat zuzuleiten und beim Bundestag einzubringen, in der Regel sp\u00e4testens in der ersten Sitzungswoche des Bundestages nach dem 1. September.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004001301",
+        "name": "\u00a7 31",
+        "title": "Finanzbericht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>Zum Entwurf des Haushaltsgesetzes und des Haushaltsplans hat das Bundesministerium der Finanzen einen Bericht \u00fcber den Stand und die voraussichtliche Entwicklung der Finanzwirtschaft auch im Zusammenhang mit der gesamtwirtschaftlichen Entwicklung zu erstatten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004100319",
+        "name": "\u00a7 32",
+        "title": "Erg\u00e4nzungen zum Entwurf des Haushaltsplans",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>Auf Erg\u00e4nzungen zum Entwurf des Haushaltsgesetzes und des Haushaltsplans sind die Teile I und II entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004200319",
+        "name": "\u00a7 33",
+        "title": "Nachtragshaushaltsgesetze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000200319"
+        },
+        "body": "<P>Auf Nachtr\u00e4ge zum Haushaltsgesetz und zum Haushaltsplan sind die Teile I und II entsprechend anzuwenden. Der Entwurf ist bis zum Ende des Haushaltsjahres einzubringen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000300319",
+        "name": "Teil III",
+        "title": "Ausf\u00fchrung des Haushaltsplans",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004300319",
+        "name": "\u00a7 34",
+        "title": "Erhebung der Einnahmen, Bewirtschaftung der Ausgaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Einnahmen sind rechtzeitig und vollst\u00e4ndig zu erheben.</P><P>(2) Ausgaben d\u00fcrfen nur soweit und nicht eher geleistet werden, als sie zur wirtschaftlichen und sparsamen Verwaltung erforderlich sind. Die Ausgabemittel sind so zu bewirtschaften, da\u00df sie zur Deckung aller Ausgaben ausreichen, die unter die einzelne Zweckbestimmung fallen.</P><P>(3) Absatz 2 gilt f\u00fcr die Inanspruchnahme von Verpflichtungserm\u00e4chtigungen entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004400319",
+        "name": "\u00a7 35",
+        "title": "Bruttonachweis, Einzelnachweis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Alle Einnahmen und Ausgaben sind mit ihrem vollen Betrag bei dem hierf\u00fcr vorgesehenen Titel zu buchen, soweit sich aus \u00a7 15 Abs. 1 Satz 2 und 3 nichts anderes ergibt.</P><P>(2) F\u00fcr denselben Zweck d\u00fcrfen Ausgaben aus verschiedenen Titeln nur geleistet werden, soweit der Haushaltsplan dies zul\u00e4\u00dft. Entsprechendes gilt f\u00fcr die Inanspruchnahme von Verpflichtungserm\u00e4chtigungen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004501301",
+        "name": "\u00a7 36",
+        "title": "Aufhebung der Sperre",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Nur mit vorheriger Zustimmung (Einwilligung) des Bundesministeriums der Finanzen d\u00fcrfen Ausgaben, die durch Gesetz oder im Haushaltsplan als gesperrt bezeichnet sind, geleistet sowie Verpflichtungen zur Leistung solcher Ausgaben eingegangen werden. In den F\u00e4llen des \u00a7 22 Satz 3 hat das Bundesministerium der Finanzen die Einwilligung des Bundestages einzuholen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004602301",
+        "name": "\u00a7 37",
+        "title": "\u00dcber- und au\u00dferplanm\u00e4\u00dfige Ausgaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) \u00dcberplanm\u00e4\u00dfige und au\u00dferplanm\u00e4\u00dfige Ausgaben bed\u00fcrfen der Einwilligung des Bundesministeriums der Finanzen. Sie darf nur im Falle eines unvorhergesehenen und unabweisbaren Bedarfs erteilt werden. Als unabweisbar ist ein Bedarf insbesondere nicht anzusehen, wenn nach Lage des Einzelfalles ein Nachtragshaushaltsgesetz rechtzeitig herbeigef\u00fchrt oder die Ausgabe bis zum n\u00e4chsten Haushaltsgesetz zur\u00fcckgestellt werden kann. Eines Nachtragshaushaltsgesetzes bedarf es nicht, wenn die Mehrausgabe im Einzelfall einen im Haushaltsgesetz festzulegenden Betrag nicht \u00fcberschreitet oder wenn Rechtsverpflichtungen zu erf\u00fcllen sind. \u00a7 8 des Gesetzes zur F\u00f6rderung der Stabilit\u00e4t und des Wachstums der Wirtschaft bleibt unber\u00fchrt.</P><P>(2) Absatz 1 gilt auch f\u00fcr Ma\u00dfnahmen, durch die f\u00fcr den Bund Verpflichtungen entstehen k\u00f6nnen, f\u00fcr die Ausgaben im Haushaltsplan nicht veranschlagt sind.</P><P>(3) \u00dcber- und au\u00dferplanm\u00e4\u00dfige Ausgaben sollen durch Einsparungen bei anderen Ausgaben in demselben Einzelplan ausgeglichen werden.</P><P>(4) \u00dcber- und au\u00dferplanm\u00e4\u00dfige Ausgaben sind dem Bundestag und dem Bundesrat viertelj\u00e4hrlich, in F\u00e4llen von grunds\u00e4tzlicher oder erheblicher finanzieller Bedeutung unverz\u00fcglich mitzuteilen.</P><P>(5) Ausgaben, die ohne n\u00e4here Angabe des Verwendungszwecks veranschlagt sind, d\u00fcrfen nicht \u00fcberschritten werden.</P><P>(6) Mehrausgaben bei \u00fcbertragbaren Ausgaben (Vorgriffe) sind unter den Voraussetzungen des Absatzes 1 Satz 1 und 2 auf die n\u00e4chstj\u00e4hrige Bewilligung f\u00fcr den gleichen Zweck anzurechnen. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 37 Abs. 4: Zur entsprechenden Anwendung vgl. \u00a7 4 Abs. 2 Satz 6 HG 2014, \u00a7 4 Abs. 2 Satz 6 HG 2015, \u00a7 4 Abs. 2 Satz 6 HG 2016, \u00a7 4 Abs. 2 Satz 6 HG 2017, \u00a7 4 Abs. 2 Satz 6 HG 2018 u. \u00a7 4 Abs. 2 Satz 6 HG 2019 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004703301",
+        "name": "\u00a7 38",
+        "title": "Verpflichtungserm\u00e4chtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Ma\u00dfnahmen, die den Bund zur Leistung von Ausgaben in k\u00fcnftigen Haushaltsjahren verpflichten k\u00f6nnen, sind nur zul\u00e4ssig, wenn der Haushaltsplan dazu erm\u00e4chtigt. Im Falle eines unvorhergesehenen und unabweisbaren Bedarfs kann das Bundesministerium der Finanzen Ausnahmen zulassen; \u00a7 37 Abs. 1 Satz 3 ist entsprechend anzuwenden. Eines Nachtragshaushaltsgesetzes bedarf es nicht, wenn im Einzelfall der Gesamtbetrag der \u00fcberplanm\u00e4\u00dfigen oder au\u00dferplanm\u00e4\u00dfigen Verpflichtungserm\u00e4chtigung einen im Haushaltsgesetz festzulegenden Betrag nicht \u00fcberschreitet oder wenn Rechtsverpflichtungen zu erf\u00fcllen sind.</P><P>(2) Die Inanspruchnahme von Verpflichtungserm\u00e4chtigungen bedarf der Einwilligung des Bundesministeriums der Finanzen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">von den in \u00a7 16 bezeichneten Angaben erheblich abgewichen werden soll oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 16 Satz 2 Jahresbetr\u00e4ge nicht angegeben sind.</LA></DD> </DL>Das Bundesministerium der Finanzen kann auf seine Befugnisse verzichten.</P><P>(3) Das Bundesministerium der Finanzen ist bei Ma\u00dfnahmen nach Absatz 1 von grunds\u00e4tzlicher oder erheblicher finanzieller Bedeutung \u00fcber den Beginn und Verlauf von Verhandlungen zu unterrichten.</P><P>(4) Verpflichtungen f\u00fcr laufende Gesch\u00e4fte d\u00fcrfen eingegangen werden, ohne da\u00df die Voraussetzungen der Abs\u00e4tze 1 und 2 vorliegen. Einer Verpflichtungserm\u00e4chtigung bedarf es auch dann nicht, wenn zu Lasten \u00fcbertragbarer Ausgaben Verpflichtungen eingegangen werden, die im folgenden Haushaltsjahr zu Ausgaben f\u00fchren. Das N\u00e4here regelt das Bundesministerium der Finanzen.</P><P>(5) Die Abs\u00e4tze 1 bis 4 sind auf Vertr\u00e4ge im Sinne des Artikels 59 Abs. 2 Satz 1 des Grundgesetzes nicht anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004801301",
+        "name": "\u00a7 39",
+        "title": "Gew\u00e4hrleistungen, Kreditzusagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Die \u00dcbernahme von B\u00fcrgschaften, Garantien oder sonstigen Gew\u00e4hrleistungen, die zu Ausgaben in k\u00fcnftigen Haushaltsjahren f\u00fchren k\u00f6nnen, bedarf einer Erm\u00e4chtigung durch Bundesgesetz, die der H\u00f6he nach bestimmt ist.</P><P>(2) Kreditzusagen sowie die \u00dcbernahme von B\u00fcrgschaften, Garantien oder sonstigen Gew\u00e4hrleistungen bed\u00fcrfen der Einwilligung des Bundesministeriums der Finanzen. Es ist an den Verhandlungen zu beteiligen. Es kann auf seine Befugnisse verzichten.</P><P>(3) Bei Ma\u00dfnahmen nach Absatz 2 haben die zust\u00e4ndigen Dienststellen auszubedingen, da\u00df sie oder ihre Beauftragten bei den Beteiligten jederzeit pr\u00fcfen k\u00f6nnen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob die Voraussetzungen f\u00fcr die Kreditzusage oder ihre Erf\u00fcllung vorliegen oder vorgelegen haben,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob im Falle der \u00dcbernahme einer Gew\u00e4hrleistung eine Inanspruchnahme des Bundes in Betracht kommen kann oder die Voraussetzungen f\u00fcr eine solche vorliegen oder vorgelegen haben.</LA></DD> </DL>Von der Ausbedingung eines Pr\u00fcfungsrechts kann ausnahmsweise mit Einwilligung des Bundesministeriums der Finanzen abgesehen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE004901301",
+        "name": "\u00a7 40",
+        "title": "Andere Ma\u00dfnahmen von finanzieller Bedeutung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Der Erla\u00df von Rechtsverordnungen und Verwaltungsvorschriften, der Abschlu\u00df von Tarifvertr\u00e4gen und die Gew\u00e4hrung von \u00fcber- oder au\u00dfertariflichen Leistungen sowie die Festsetzung oder \u00c4nderung von Entgelten f\u00fcr Verwaltungsleistungen bed\u00fcrfen der Einwilligung des Bundesministeriums der Finanzen, wenn diese Regelungen zu Einnahmeminderungen oder zu zus\u00e4tzlichen Ausgaben im laufenden Haushaltsjahr oder in k\u00fcnftigen Haushaltsjahren f\u00fchren k\u00f6nnen. Satz 1 ist auf sonstige Ma\u00dfnahmen von grunds\u00e4tzlicher oder erheblicher finanzieller Bedeutung anzuwenden, wenn sie zu Einnahmeminderungen im laufenden Haushaltsjahr oder in k\u00fcnftigen Haushaltsjahren f\u00fchren k\u00f6nnen.</P><P>(2) Auf die Mitwirkung des Bundes an Ma\u00dfnahmen \u00fcberstaatlicher oder zwischenstaatlicher Einrichtungen ist Absatz 1 Satz 1 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005001301",
+        "name": "\u00a7 41",
+        "title": "Haushaltswirtschaftliche Sperre",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Wenn die Entwicklung der Einnahmen oder Ausgaben es erfordert, kann das Bundesministerium der Finanzen nach Benehmen mit dem zust\u00e4ndigen Bundesministerium es von seiner Einwilligung abh\u00e4ngig machen, ob Verpflichtungen eingegangen oder Ausgaben geleistet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005100319",
+        "name": "\u00a7 42",
+        "title": "Konjunkturpolitisch bedingte zus\u00e4tzliche Ausgaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Bei Vorlagen, die dem Bundestag und dem Bundesrat nach \u00a7 8 Abs. 1 des Gesetzes zur F\u00f6rderung der Stabilit\u00e4t und des Wachstums der Wirtschaft zugeleitet werden, kann der Bundestag die Ausgaben k\u00fcrzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005201301",
+        "name": "\u00a7 43",
+        "title": "Kassenmittel, Betriebsmittel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Das Bundesministerium der Finanzen erm\u00e4chtigt im Rahmen der zur Verf\u00fcgung stehenden Kassenmittel die zust\u00e4ndigen Beh\u00f6rden, in ihrem Gesch\u00e4ftsbereich innerhalb eines bestimmten Zeitraums die notwendigen Auszahlungen bis zur H\u00f6he eines bestimmten Betrages leisten zu lassen (Betriebsmittel).</P><P>(2) Das Bundesministerium der Finanzen soll nicht sofort ben\u00f6tigte Kassenmittel so anlegen, da\u00df \u00fcber sie bei Bedarf verf\u00fcgt werden kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005302360",
+        "name": "\u00a7 44",
+        "title": "Zuwendungen, Verwaltung von Mitteln oder Verm\u00f6gensgegenst\u00e4nden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Zuwendungen d\u00fcrfen nur unter den Voraussetzungen des \u00a7 23 gew\u00e4hrt werden. Dabei ist zu bestimmen, wie die zweckentsprechende Verwendung der Zuwendungen nachzuweisen ist. Au\u00dferdem ist ein Pr\u00fcfungsrecht der zust\u00e4ndigen Dienststelle oder ihrer Beauftragten festzulegen. Verwaltungsvorschriften, welche die Regelung des Verwendungsnachweises und die Pr\u00fcfung durch den Bundesrechnungshof (\u00a7 91) betreffen, werden im Einvernehmen mit dem Bundesrechnungshof erlassen.</P><P>(2) Sollen Bundesmittel oder Verm\u00f6gensgegenst\u00e4nde des Bundes von Stellen au\u00dferhalb der Bundesverwaltung verwaltet werden, ist Absatz 1 entsprechend anzuwenden.</P><P>(3) Juristischen Personen des privaten Rechts kann mit ihrem Einverst\u00e4ndnis die Befugnis verliehen werden, Verwaltungsaufgaben auf dem Gebiet der Zuwendungen im eigenen Namen und in den Handlungsformen des \u00f6ffentlichen Rechts wahrzunehmen, wenn sie die Gew\u00e4hr f\u00fcr eine sachgerechte Erf\u00fcllung der ihnen \u00fcbertragenen Aufgaben bieten und die Beleihung im \u00f6ffentlichen Interesse liegt. Die Verleihung und die Entziehung der Befugnis obliegen dem zust\u00e4ndigen Bundesministerium; im Falle der Verleihung ist das Bundesministerium der Finanzen zu unterrichten. Die Beliehene unterliegt der Aufsicht des zust\u00e4ndigen Bundesministeriums; dieses kann die Aufsicht auf nachgeordnete Beh\u00f6rden \u00fcbertragen. Im Falle der Staatshaftung wegen Anspr\u00fcchen Dritter kann der Bund gegen\u00fcber einer beliehenen juristischen Person des Privatrechts bei Vorliegen von Vorsatz oder grober Fahrl\u00e4ssigkeit R\u00fcckgriff nehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005402308",
+        "name": "\u00a7 44a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005501301",
+        "name": "\u00a7 45",
+        "title": "Sachliche und zeitliche Bindung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Ausgaben und Verpflichtungserm\u00e4chtigungen d\u00fcrfen nur zu dem im Haushaltsplan bezeichneten Zweck, soweit und solange er fortdauert, und nur bis zum Ende des Haushaltsjahres geleistet oder in Anspruch genommen werden. Nicht in Anspruch genommene Verpflichtungserm\u00e4chtigungen gelten, wenn das Haushaltsgesetz f\u00fcr das n\u00e4chste Haushaltsjahr nicht rechtzeitig verk\u00fcndet wird, bis zur Verk\u00fcndung dieses Haushaltsgesetzes.</P><P>(2) Bei \u00fcbertragbaren Ausgaben k\u00f6nnen Ausgabereste gebildet werden, die f\u00fcr die jeweilige Zweckbestimmung \u00fcber das Haushaltsjahr hinaus bis zum Ende des auf die Bewilligung folgenden zweitn\u00e4chsten Haushaltsjahres verf\u00fcgbar bleiben. Bei Bauten tritt an die Stelle des Haushaltsjahres der Bewilligung das Haushaltsjahr, in dem der Bau in seinen wesentlichen Teilen in Gebrauch genommen ist. Das Bundesministerium der Finanzen kann im Einzelfall Ausnahmen zulassen.</P><P>(3) Die Inanspruchnahme von Ausgaberesten bedarf der Einwilligung des Bundesministeriums der Finanzen; die Einwilligung darf nur erteilt werden, wenn in demselben oder einem anderen Einzelplan Ausgaben in gleicher H\u00f6he bis zum Ende des laufenden Haushaltsjahres nicht geleistet werden oder wenn Ausgabemittel zur Deckung der Ausgabereste veranschlagt worden sind (\u00a7 19 Abs. 2).</P><P>(4) Das Bundesministerium der Finanzen kann in besonders begr\u00fcndeten Einzelf\u00e4llen die \u00dcbertragbarkeit von Ausgaben zulassen, soweit Ausgaben f\u00fcr bereits bewilligte Ma\u00dfnahmen noch im n\u00e4chsten Haushaltsjahr zu leisten sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005600319",
+        "name": "\u00a7 46",
+        "title": "Deckungsf\u00e4higkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Deckungsf\u00e4hige Ausgaben d\u00fcrfen, solange sie verf\u00fcgbar sind, nach Ma\u00dfgabe des \u00a7 20 Abs. 1 oder des Deckungsvermerks zugunsten einer anderen Ausgabe verwendet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005700319",
+        "name": "\u00a7 47",
+        "title": "Wegfall- und Umwandlungsvermerke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) \u00dcber Ausgaben, die der Haushaltsplan als k\u00fcnftig wegfallend bezeichnet, darf von dem Zeitpunkt an, mit dem die im Haushaltsplan bezeichnete Voraussetzung f\u00fcr den Wegfall erf\u00fcllt ist, nicht mehr verf\u00fcgt werden. Entsprechendes gilt f\u00fcr Planstellen.</P><P>(2) Ist eine Planstelle ohne n\u00e4here Angabe als k\u00fcnftig wegfallend bezeichnet, darf die n\u00e4chste freiwerdende Planstelle derselben Besoldungsgruppe f\u00fcr Beamte derselben Fachrichtung nicht wieder besetzt werden.</P><P>(3) Ist eine Planstelle ohne Bestimmung der Voraussetzungen als k\u00fcnftig umzuwandeln bezeichnet, gilt die n\u00e4chste freiwerdende Planstelle derselben Besoldungsgruppe f\u00fcr Beamte derselben Fachrichtung im Zeitpunkt ihres Freiwerdens als in die Stelle umgewandelt, die in dem Umwandlungsvermerk angegeben ist.</P><P>(4) Die Abs\u00e4tze 1 bis 3 gelten f\u00fcr Stellen der Angestellten und Arbeiter entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005803123",
+        "name": "\u00a7 48",
+        "title": "H\u00f6chstaltersgrenze bei der Berufung in ein Beamten- oder Soldatenverh\u00e4ltnis oder Versetzung von Beamtinnen und Beamten in den Bundesdienst",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Berufungen in ein Beamtenverh\u00e4ltnis oder Versetzungen in den Bundesdienst d\u00fcrfen nur erfolgen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bewerberin oder der Bewerber das 50. Lebensjahr noch nicht vollendet hat oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein au\u00dferordentlicher Mangel an gleich geeigneten j\u00fcngeren Bewerberinnen und Bewerbern besteht und die Berufung oder Versetzung einen erheblichen Vorteil f\u00fcr den Bund bedeutet.</LA></DD></DL>An die Stelle des 50. Lebensjahres tritt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das 55. Lebensjahr, wenn die zuk\u00fcnftigen Versorgungslasten nach dem Versorgungslastenteilungs-Staatsvertrag, nach \u00a7 107b des Beamtenversorgungsgesetzes, nach \u00a7 92b des Soldatenversorgungsgesetzes oder dem Milit\u00e4rseelsorgevertrag vom 22. Februar 1957 (BGBl. 1957 II S. 702) mit dem abgebenden Dienstherrn geteilt werden, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das 62. Lebensjahr, wenn bereits Anspr\u00fcche auf Versorgung nach beamten- oder soldatenrechtlichen Vorschriften oder Grunds\u00e4tzen zu Lasten des Bundes erworben wurden und das vorgesehene Amt h\u00f6chstens der Besoldungsgruppe zugeordnet ist, aus der zuletzt Dienstbez\u00fcge gezahlt wurden.</LA></DD></DL></P><P>(2) F\u00fcr die Berufung oder Versetzung in den Polizeivollzugsdienst des Bundes gilt Absatz 1 Satz 1 mit der Ma\u00dfgabe, dass bei einer Verwendung im Bundesministerium des Innern, f\u00fcr Bau und Heimat, im Bundeskriminalamt oder im Polizeivollzugsdienst beim Deutschen Bundestag an die Stelle des 50. Lebensjahres das 45. Lebensjahr und bei einer Verwendung in anderen Bereichen an die Stelle des 50. Lebensjahres das 40. Lebensjahr tritt. Au\u00dferdem gilt in diesen F\u00e4llen Absatz 1 Satz 2 Nummer 2 mit der Ma\u00dfgabe, dass an die Stelle des 62. Lebensjahres das 52. Lebensjahr tritt. Absatz 1 Satz 2 Nummer 1 findet keine Anwendung.</P><P>(3) F\u00fcr die Berufung in ein Soldatenverh\u00e4ltnis oder die Umwandlung des Dienstverh\u00e4ltnisses eines Soldaten auf Zeit in das Dienstverh\u00e4ltnis eines Berufssoldaten gilt Absatz 1 Satz 1 mit der Ma\u00dfgabe, dass an die Stelle des 50. Lebensjahres das 40. Lebensjahr tritt. Au\u00dferdem gilt in diesen F\u00e4llen Absatz 1 Satz 2 Nummer 2 mit der Ma\u00dfgabe, dass an die Stelle des 62. Lebensjahres eine Diensterwartung von mehr als drei Jahren tritt. Absatz 1 Satz 2 Nummer 1 findet keine Anwendung.</P><P>(4) Die Entscheidung \u00fcber Berufungen in ein Beamtenverh\u00e4ltnis oder \u00fcber Versetzungen in den Bundesdienst trifft die jeweils zust\u00e4ndige oberste Bundesbeh\u00f6rde f\u00fcr ihren Gesch\u00e4ftsbereich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE005900319",
+        "name": "\u00a7 49",
+        "title": "Einweisung in eine Planstelle",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Ein Amt darf nur zusammen mit der Einweisung in eine besetzbare Planstelle verliehen werden.</P><P>(2) Wer als Beamter bef\u00f6rdert wird, kann mit Wirkung vom Ersten des Monats, in dem seine Ernennung wirksam geworden ist, in die entsprechende, zu diesem Zeitpunkt besetzbare Planstelle eingewiesen werden. Er kann mit R\u00fcckwirkung von h\u00f6chstens drei Monaten, zum Ersten eines Monats, in eine besetzbare Planstelle eingewiesen werden, wenn er w\u00e4hrend dieser Zeit die Obliegenheiten dieses oder eines gleichwertigen Amtes wahrgenommen und die beamtenrechtlichen Voraussetzungen f\u00fcr die Bef\u00f6rderung erf\u00fcllt hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006001301",
+        "name": "\u00a7 50",
+        "title": "Umsetzung von Mitteln und Planstellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Die Bundesregierung kann Mittel und Planstellen umsetzen, wenn Aufgaben von einer Verwaltung auf eine andere Verwaltung \u00fcbergehen. Eines Beschlusses der Bundesregierung bedarf es nicht, wenn die beteiligten Bundesministerien und das Bundesministerium der Finanzen \u00fcber die Umsetzung einig sind.</P><P>(2) Eine Planstelle darf mit Einwilligung des Bundesministeriums der Finanzen in eine andere Verwaltung umgesetzt werden, wenn dort ein unvorhergesehener und unabweisbarer vordringlicher Personalbedarf besteht. \u00dcber den weiteren Verbleib der Planstelle ist im n\u00e4chsten Haushaltsplan zu bestimmen.</P><P>(3) Bei Abordnungen k\u00f6nnen mit Einwilligung des Bundesministeriums der Finanzen die Personalausgaben f\u00fcr abgeordnete Beamte von der abordnenden Verwaltung bis zur Verk\u00fcndung des n\u00e4chsten Haushaltsgesetzes weitergezahlt werden.</P><P>(4) Die Abs\u00e4tze 1 bis 3 gelten f\u00fcr Mittel und f\u00fcr Stellen der Angestellten und Arbeiter entsprechend.</P><P>(5) F\u00fcr Beamte, die bei einer Vertretung des Bundes im Ausland verwendet werden, kann das Bundesministerium der Finanzen in besonders begr\u00fcndeten Ausnahmef\u00e4llen f\u00fcr die Dauer von h\u00f6chstens sechs Monaten eine Leerstelle schaffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006100319",
+        "name": "\u00a7 51",
+        "title": "Besondere Personalausgaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Personalausgaben, die nicht auf Gesetz oder Tarifvertrag beruhen, d\u00fcrfen nur geleistet werden, wenn daf\u00fcr Ausgabemittel besonders zur Verf\u00fcgung gestellt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006201301",
+        "name": "\u00a7 52",
+        "title": "Nutzungen und Sachbez\u00fcge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Nutzungen und Sachbez\u00fcge d\u00fcrfen Angeh\u00f6rigen des \u00f6ffentlichen Dienstes nur gegen angemessenes Entgelt gew\u00e4hrt werden, soweit nicht durch Gesetz oder Tarifvertrag oder im Haushaltsplan etwas anderes bestimmt ist. Die Bundesregierung kann f\u00fcr die Benutzung von Dienstfahrzeugen Ausnahmen zulassen. Das N\u00e4here f\u00fcr die Zuweisung, Nutzung, Verwaltung und Festsetzung des Nutzungswertes von Dienstwohnungen regelt das Bundesministerium der Finanzen. Die Dienstwohnungen mit Ausnahme der Dienstwohnungen f\u00fcr Angestellte und Arbeiter sind im Haushaltsplan auszubringen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006300319",
+        "name": "\u00a7 53",
+        "title": "Billigkeitsleistungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Leistungen aus Gr\u00fcnden der Billigkeit d\u00fcrfen nur gew\u00e4hrt werden, wenn daf\u00fcr Ausgabemittel besonders zur Verf\u00fcgung gestellt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006401301",
+        "name": "\u00a7 54",
+        "title": "Bauma\u00dfnahmen, gr\u00f6\u00dfere Beschaffungen, gr\u00f6\u00dfere Entwicklungsvorhaben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Bauma\u00dfnahmen d\u00fcrfen nur begonnen werden, wenn ausf\u00fchrliche Entwurfszeichnungen und Kostenberechnungen vorliegen, es sei denn, da\u00df es sich um kleine Ma\u00dfnahmen handelt. In den Zeichnungen und Berechnungen darf von den in \u00a7 24 bezeichneten Unterlagen nur insoweit abgewichen werden, als die \u00c4nderung nicht erheblich ist; weitergehende Ausnahmen bed\u00fcrfen der Einwilligung des Bundesministeriums der Finanzen.</P><P>(2) Gr\u00f6\u00dferen Beschaffungen und gr\u00f6\u00dferen Entwicklungsvorhaben sind ausreichende Unterlagen zugrunde zu legen. Absatz 1 Satz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006501360",
+        "name": "\u00a7 55",
+        "title": "\u00d6ffentliche Ausschreibung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Dem Abschluss von Vertr\u00e4gen \u00fcber Lieferungen und Leistungen muss eine \u00d6ffentliche Ausschreibung oder eine Beschr\u00e4nkte Ausschreibung mit Teilnahmewettbewerb vorausgehen, sofern nicht die Natur des Gesch\u00e4fts oder besondere Umst\u00e4nde eine Ausnahme rechtfertigen. Teilnahmewettbewerb ist ein Verfahren, bei dem der \u00f6ffentliche Auftraggeber nach vorheriger \u00f6ffentlicher Aufforderung zur Teilnahme eine beschr\u00e4nkte Anzahl von geeigneten Unternehmen nach objektiven, transparenten und nichtdiskriminierenden Kriterien ausw\u00e4hlt und zur Abgabe von Angeboten auffordert.</P><P>(2) Beim Abschlu\u00df von Vertr\u00e4gen ist nach einheitlichen Richtlinien zu verfahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006601301",
+        "name": "\u00a7 56",
+        "title": "Vorleistungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Vor Empfang der Gegenleistung d\u00fcrfen Leistungen des Bundes nur vereinbart oder bewirkt werden, wenn dies allgemein \u00fcblich oder durch besondere Umst\u00e4nde gerechtfertigt ist.</P><P>(2) Werden Zahlungen vor F\u00e4lligkeit an den Bund entrichtet, kann nach Richtlinien des Bundesministeriums der Finanzen ein angemessener Abzug gew\u00e4hrt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006701301",
+        "name": "\u00a7 57",
+        "title": "Vertr\u00e4ge mit Angeh\u00f6rigen des \u00f6ffentlichen Dienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Zwischen Angeh\u00f6rigen des \u00f6ffentlichen Dienstes und ihrer Dienststelle d\u00fcrfen Vertr\u00e4ge nur mit Einwilligung des zust\u00e4ndigen Bundesministeriums abgeschlossen werden. Dieses kann seine Befugnis auf nachgeordnete Dienststellen \u00fcbertragen. Satz 1 gilt nicht bei \u00f6ffentlichen Ausschreibungen und Versteigerungen sowie in F\u00e4llen, f\u00fcr die allgemein Entgelte festgesetzt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006801301",
+        "name": "\u00a7 58",
+        "title": "\u00c4nderung von Vertr\u00e4gen, Vergleiche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Das zust\u00e4ndige Bundesministerium darf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vertr\u00e4ge zum Nachteil des Bundes nur in besonders begr\u00fcndeten Ausnahmef\u00e4llen aufheben oder \u00e4ndern,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen Vergleich nur abschlie\u00dfen, wenn dies f\u00fcr den Bund zweckm\u00e4\u00dfig und wirtschaftlich ist.</LA></DD> </DL>Das zust\u00e4ndige Bundesministerium kann seine Befugnisse \u00fcbertragen.</P><P>(2) Ma\u00dfnahmen nach Absatz 1 bed\u00fcrfen der Einwilligung des Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE006901301",
+        "name": "\u00a7 59",
+        "title": "Ver\u00e4nderung von Anspr\u00fcchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Das zust\u00e4ndige Bundesministerium darf Anspr\u00fcche nur <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">stunden, wenn die sofortige Einziehung mit erheblichen H\u00e4rten f\u00fcr den Anspruchsgegner verbunden w\u00e4re und der Anspruch durch die Stundung nicht gef\u00e4hrdet wird. Die Stundung soll gegen angemessene Verzinsung und in der Regel nur gegen Sicherheitsleistung gew\u00e4hrt werden,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">niederschlagen, wenn feststeht, da\u00df die Einziehung keinen Erfolg haben wird, oder wenn die Kosten der Einziehung au\u00dfer Verh\u00e4ltnis zur H\u00f6he des Anspruchs stehen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">erlassen, wenn die Einziehung nach Lage des einzelnen Falles f\u00fcr den Anspruchsgegner eine besondere H\u00e4rte bedeuten w\u00fcrde. Das gleiche gilt f\u00fcr die Erstattung oder Anrechnung von geleisteten Betr\u00e4gen und f\u00fcr die Freigabe von Sicherheiten.</LA></DD> </DL>Das zust\u00e4ndige Bundesministerium kann seine Befugnisse \u00fcbertragen.</P><P>(2) Ma\u00dfnahmen nach Absatz 1 bed\u00fcrfen der Einwilligung des Bundesministeriums der Finanzen, soweit es nicht darauf verzichtet.</P><P>(3) Andere Regelungen in Rechtsvorschriften bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 59 Abs. 1: Zur entsprechenden Anwendung vgl. \u00a7 36 Abs. 1 Satz 1 FFG 2017 +++) <BR />\"(+++ \u00a7 59 Abs. 1 Satz 1 Nr. 1: Zur Anwendung im Haushaltsjahr 2020 vgl. Art. 3  G v. 27.3.2020 I 556 (HNtragsG 2020) +++) <BR />(+++ \u00a7 59 Abs. 2: Zur entsprechenden Anwendung vgl. \u00a7 36 Abs. 1 Satz 2 FFG 2017  +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007001301",
+        "name": "\u00a7 60",
+        "title": "Vorsch\u00fcsse, Verwahrungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Als Vorschu\u00df darf eine Ausgabe nur gebucht werden, wenn die Verpflichtung zur Leistung zwar feststeht, die Ausgabe aber noch nicht endg\u00fcltig gebucht werden kann. Ein Vorschu\u00df ist bis zum Ende des zweiten auf seine Entstehung folgenden Haushaltsjahres endg\u00fcltig zu buchen; Ausnahmen bed\u00fcrfen der Einwilligung des Bundesministeriums der Finanzen.</P><P>(2) In Verwahrung darf eine Einzahlung nur genommen werden, solange sie nicht endg\u00fcltig gebucht werden kann. Aus den Verwahrgeldern d\u00fcrfen nur die mit ihnen im Zusammenhang stehenden Auszahlungen geleistet werden.</P><P>(3) Kassenverst\u00e4rkungskredite sind wie Verwahrungen zu behandeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007101301",
+        "name": "\u00a7 61",
+        "title": "Interne Verrechnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Innerhalb der Bundesverwaltung d\u00fcrfen Verm\u00f6gensgegenst\u00e4nde f\u00fcr andere Zwecke als die, f\u00fcr die sie beschafft wurden, nur gegen Erstattung ihres vollen Wertes abgegeben werden, soweit sich aus dem Haushaltsplan nichts anderes ergibt. Aufwendungen einer Dienststelle f\u00fcr eine andere sind zu erstatten; andere Regelungen in Rechtsvorschriften bleiben unber\u00fchrt. Ein Schadenausgleich zwischen Dienststellen unterbleibt.</P><P>(2) Absatz 1 gilt nicht, wenn der Wert der abzugebenden Verm\u00f6gensgegenst\u00e4nde oder die zu erstattenden Aufwendungen einen bestimmten, vom Bundesministerium der Finanzen festzusetzenden Betrag nicht \u00fcberschreiten oder das Bundesministerium der Finanzen weitere Ausnahmen zul\u00e4\u00dft.</P><P>(3) Der Wert der abgegebenen Verm\u00f6gensgegenst\u00e4nde und die Aufwendungen sind stets zu erstatten, wenn Bundesbetriebe oder Sonderverm\u00f6gen des Bundes beteiligt sind. Entsprechendes gilt f\u00fcr den Ausgleich von Sch\u00e4den. Im Wege der Verwaltungsvereinbarung k\u00f6nnen andere Regelungen getroffen werden, soweit sie aus Gr\u00fcnden der Verwaltungsvereinfachung dringend geboten sind.</P><P>(4) F\u00fcr die Nutzung von Verm\u00f6gensgegenst\u00e4nden gelten die Abs\u00e4tze 1 bis 3 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007200319",
+        "name": "\u00a7 62",
+        "title": "Kassenverst\u00e4rkungsr\u00fccklage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Zur Aufrechterhaltung einer ordnungsm\u00e4\u00dfigen Kassenwirtschaft ohne Inanspruchnahme von Krediterm\u00e4chtigungen (\u00a7 18 Abs. 2 Nr. 2) soll durch m\u00f6glichst regelm\u00e4\u00dfige Zuf\u00fchrung von Haushaltsmitteln eine Kassenverst\u00e4rkungsr\u00fccklage bei der Deutschen Bundesbank angesammelt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007302308",
+        "name": "\u00a7 63",
+        "title": "Erwerb und Ver\u00e4u\u00dferung von Verm\u00f6gensgegenst\u00e4nden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Verm\u00f6gensgegenst\u00e4nde sollen nur erworben werden, soweit sie zur Erf\u00fcllung der Aufgaben des Bundes in absehbarer Zeit erforderlich sind.</P><P>(2) Verm\u00f6gensgegenst\u00e4nde d\u00fcrfen nur ver\u00e4u\u00dfert werden, wenn sie zur Erf\u00fcllung der Aufgaben des Bundes in absehbarer Zeit nicht ben\u00f6tigt werden. Unbewegliche Verm\u00f6gensgegenst\u00e4nde, die zur Erf\u00fcllung der Aufgaben des Bundes weiterhin ben\u00f6tigt werden, d\u00fcrfen zur langfristigen Eigennutzung ver\u00e4u\u00dfert werden, wenn auf diese Weise die Aufgaben des Bundes nachweislich wirtschaftlicher erf\u00fcllt werden k\u00f6nnen.</P><P>(3) Verm\u00f6gensgegenst\u00e4nde d\u00fcrfen nur zu ihrem vollen Wert ver\u00e4u\u00dfert werden. Ausnahmen k\u00f6nnen im Haushaltsplan zugelassen werden. Ist der Wert gering oder besteht ein dringendes Bundesinteresse, so kann das Bundesministerium der Finanzen Ausnahmen zulassen.</P><P>(4) F\u00fcr die \u00dcberlassung der Nutzung eines Verm\u00f6gensgegenstandes gelten die Abs\u00e4tze 2 und 3 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007401301",
+        "name": "\u00a7 64",
+        "title": "Grundst\u00fccke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Bundeseigene Grundst\u00fccke d\u00fcrfen nur mit Einwilligung des Bundesministeriums der Finanzen und des f\u00fcr das Bundesverm\u00f6gen zust\u00e4ndigen Bundesministeriums ver\u00e4u\u00dfert werden; die Bundesministerien k\u00f6nnen auf ihre Mitwirkung verzichten.</P><P>(2) Haben Grundst\u00fccke erheblichen Wert oder besondere Bedeutung und ist ihre Ver\u00e4u\u00dferung im Haushaltsplan nicht vorgesehen, so d\u00fcrfen sie nur mit Einwilligung des Bundestages und des Bundesrates ver\u00e4u\u00dfert werden, soweit nicht aus zwingenden Gr\u00fcnden eine Ausnahme hiervon geboten ist. Ist die Zustimmung nicht eingeholt worden, so sind der Bundestag und der Bundesrat alsbald von der Ver\u00e4u\u00dferung zu unterrichten.</P><P>(3) F\u00fcr zu erwerbende oder zu ver\u00e4u\u00dfernde Grundst\u00fccke ist eine Wertermittlung aufzustellen.</P><P>(4) Dingliche Rechte d\u00fcrfen an bundeseigenen Grundst\u00fccken nur gegen angemessenes Entgelt bestellt werden. Die Bestellung bedarf der Einwilligung des Bundesministeriums der Finanzen und des f\u00fcr das Bundesverm\u00f6gen zust\u00e4ndigen Bundesministeriums; die Bundesministerien k\u00f6nnen auf ihre Mitwirkung verzichten.</P><P>(5) Beim Erwerb von Grundst\u00fccken k\u00f6nnen Hypotheken, Grund- und Rentenschulden unter Anrechnung auf den Kaufpreis ohne die Voraussetzungen des \u00a7 38 Abs. 1 \u00fcbernommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007503301",
+        "name": "\u00a7 65",
+        "title": "Beteiligung an privatrechtlichen Unternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Der Bund soll sich, au\u00dfer in den F\u00e4llen des Absatzes 5, an der Gr\u00fcndung eines Unternehmens in einer Rechtsform des privaten Rechts oder an einem bestehenden Unternehmen in einer solchen Rechtsform nur beteiligen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ein wichtiges Interesse des Bundes vorliegt und sich der vom Bund angestrebte Zweck nicht besser und wirtschaftlicher auf andere Weise erreichen l\u00e4\u00dft,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einzahlungsverpflichtung des Bundes auf einen bestimmten Betrag begrenzt ist,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bund einen angemessenen Einflu\u00df, insbesondere im Aufsichtsrat oder in einem entsprechenden \u00dcberwachungsorgan erh\u00e4lt,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">gew\u00e4hrleistet ist, da\u00df der Jahresabschlu\u00df und der Lagebericht, soweit nicht weitergehende gesetzliche Vorschriften gelten oder andere gesetzliche Vorschriften entgegenstehen, in entsprechender Anwendung der Vorschriften des Dritten Buchs des Handelsgesetzbuchs f\u00fcr gro\u00dfe Kapitalgesellschaften aufgestellt und gepr\u00fcft werden.</LA></DD> </DL> </P><P>(2) Das zust\u00e4ndige Bundesministerium hat die Einwilligung des Bundesministeriums der Finanzen einzuholen und das f\u00fcr das Bundesverm\u00f6gen zust\u00e4ndigen Bundesministerium zu beteiligen, bevor der Bund Anteile an einem Unternehmen erwirbt, seine Beteiligung erh\u00f6ht oder sie ganz oder zum Teil ver\u00e4u\u00dfert. Entsprechendes gilt bei einer \u00c4nderung des Nennkapitals oder des Gegenstandes des Unternehmens oder bei einer \u00c4nderung des Einflusses des Bundes. Das Bundesministerium der Finanzen ist an den Verhandlungen zu beteiligen.</P><P>(3) Das zust\u00e4ndige Bundesministerium soll darauf hinwirken, da\u00df ein Unternehmen, an dem der Bund unmittelbar oder mittelbar mit Mehrheit beteiligt ist, nur mit seiner Zustimmung eine Beteiligung von mehr als dem vierten Teil der Anteile eines anderen Unternehmens erwirbt, eine solche Beteiligung erh\u00f6ht oder sie ganz oder zum Teil ver\u00e4u\u00dfert. Es hat vor Erteilung seiner Zustimmung die Einwilligung des Bundesministeriums der Finanzen einzuholen und das f\u00fcr das Bundesverm\u00f6gen zust\u00e4ndige Bundesministerium zu beteiligen. Die Grunds\u00e4tze des Absatzes 1 Nr. 3 und 4 sowie des Absatzes 2 Satz 2 gelten entsprechend.</P><P>(4) Das Bundesministerium der Finanzen und das f\u00fcr das Bundesverm\u00f6gen zust\u00e4ndige Bundesministerium k\u00f6nnen auf die Aus\u00fcbung der Befugnisse nach den Abs\u00e4tzen 2 und 3 verzichten.</P><P>(5) An einer Genossenschaft soll sich der Bund nur beteiligen, wenn die Haftpflicht der Mitglieder f\u00fcr die Verbindlichkeiten der Genossenschaft dieser gegen\u00fcber im voraus auf eine bestimmte Summe beschr\u00e4nkt ist. Die Beteiligung des Bundes an einer Genossenschaft bedarf der Einwilligung des Bundesministeriums der Finanzen.</P><P>(6) Das zust\u00e4ndige Bundesministerium soll darauf hinwirken, da\u00df die auf Veranlassung des Bundes gew\u00e4hlten oder entsandten Mitglieder der Aufsichtsorgane der Unternehmen bei ihrer T\u00e4tigkeit auch die besonderen Interessen des Bundes ber\u00fccksichtigen.</P><P>(7) Haben Anteile an Unternehmen besondere Bedeutung und ist deren Ver\u00e4u\u00dferung im Haushaltsplan nicht vorgesehen, so d\u00fcrfen sie nur mit Einwilligung des Bundestages und des Bundesrates ver\u00e4u\u00dfert werden, soweit nicht aus zwingenden Gr\u00fcnden eine Ausnahme geboten ist. Ist die Zustimmung nicht eingeholt worden, so sind der Bundestag und der Bundesrat alsbald von der Ver\u00e4u\u00dferung zu unterrichten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 65: Zur Nichtanwendung vgl. \u00a7 61 Abs. 2 Satz 3 SAG +++) <BR />(+++ \u00a7 65 Abs. 1: Zur Anwendung f\u00fcr den Deutschen Wetterdienst vgl. \u00a7 5 Abs. 2 DWDG F ab 1996-05-02 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007601301",
+        "name": "\u00a7 66",
+        "title": "Unterrichtung des Bundesrechnungshofes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Besteht eine Mehrheitsbeteiligung im Sinne des \u00a7 53 des Haushaltsgrunds\u00e4tzegesetzes, so hat das zust\u00e4ndige Bundesministerium darauf hinzuwirken, da\u00df dem Bundesrechnungshof die in \u00a7 54 des Haushaltsgrunds\u00e4tzegesetzes bestimmten Befugnisse einger\u00e4umt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 66: Zur Nichtanwendung vgl. \u00a7 61 Abs. 2 Satz 3 SAG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007701301",
+        "name": "\u00a7 67",
+        "title": "Pr\u00fcfungsrecht durch Vereinbarung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Besteht keine Mehrheitsbeteiligung im Sinne des \u00a7 53 des Haushaltsgrunds\u00e4tzegesetzes, so soll das zust\u00e4ndige Bundesministerium, soweit das Interesse des Bundes dies erfordert, bei Unternehmen, die nicht Aktiengesellschaften, Kommanditgesellschaften auf Aktien oder Genossenschaften sind, darauf hinwirken, da\u00df dem Bund in der Satzung oder im Gesellschaftsvertrag die Befugnisse nach den \u00a7\u00a7 53 und 54 des Haushaltsgrunds\u00e4tzegesetzes einger\u00e4umt werden. Bei mittelbaren Beteiligungen gilt dies nur, wenn die Beteiligung den vierten Teil der Anteile \u00fcbersteigt und einem Unternehmen zusteht, an dem der Bund allein oder zusammen mit anderen Gebietsk\u00f6rperschaften mit Mehrheit im Sinne des \u00a7 53 des Haushaltgrunds\u00e4tzegesetzes beteiligt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 67: Zur Nichtanwendung vgl. \u00a7 61 Abs. 2 Satz 3 SAG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007801301",
+        "name": "\u00a7 68",
+        "title": "Zust\u00e4ndigkeitsregelungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Die Rechte nach \u00a7 53 Abs. 1 des Haushaltsgrunds\u00e4tzegesetzes \u00fcbt das f\u00fcr die Beteiligung zust\u00e4ndige Bundesministerium aus. Bei der Wahl oder Bestellung der Pr\u00fcfer nach \u00a7 53 Abs. 1 Nr. 1 des Haushaltsgrunds\u00e4tzegesetzes \u00fcbt das zust\u00e4ndige Bundesministerium die Rechte des Bundes im Einvernehmen mit dem Bundesrechnungshof aus.</P><P>(2) Einen Verzicht auf die Aus\u00fcbung der Rechte des \u00a7 53 Abs. 1 des Haushaltsgrunds\u00e4tzegesetzes erkl\u00e4rt das zust\u00e4ndige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen, dem f\u00fcr das Bundesverm\u00f6gen zust\u00e4ndigen Bundesministerium und dem Pr\u00e4sidenten des Bundesrechnungshofes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 68: Zur Nichtanwendung vgl. \u00a7 61 Abs. 2 Satz 3 SAG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE007901301",
+        "name": "\u00a7 69",
+        "title": "Unterrichtung des Bundesrechnungshofes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>Das zust\u00e4ndige Bundesministerium \u00fcbersendet dem Bundesrechnungshof innerhalb von drei Monaten nach der Haupt- oder Gesellschafterversammlung, die den Jahresabschlu\u00df f\u00fcr das abgelaufene Gesch\u00e4ftsjahr entgegennimmt oder festzustellen hat, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Unterlagen, die dem Bund als Aktion\u00e4r oder Gesellschafter zug\u00e4nglich sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Berichte, welche die auf seine Veranlassung gew\u00e4hlten oder entsandten Mitglieder des \u00dcberwachungsorgans unter Beif\u00fcgung aller ihnen \u00fcber das Unternehmen zur Verf\u00fcgung stehenden Unterlagen zu erstatten haben,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ihm nach \u00a7 53 des Haushaltsgrunds\u00e4tzegesetzes und nach \u00a7 67 zu \u00fcbersendenden Pr\u00fcfungsberichte.</LA></DD> </DL>Es teilt dabei das Ergebnis seiner Pr\u00fcfung mit.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 69: Zur Nichtanwendung vgl. \u00a7 61 Abs. 2 Satz 3 SAG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE013100160",
+        "name": "\u00a7 69a",
+        "title": "Parlamentarische Kontrolle von Bundesbeteiligungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000300319"
+        },
+        "body": "<P>(1) Die Bundesregierung unterrichtet den Deutschen Bundestag \u00fcber alle grunds\u00e4tzlichen und wesentlichen Fragen der Beteiligungen des Bundes an privatrechtlichen Unternehmen sowie der Beteiligungsverwaltung durch die Bundesregierung. Die Unterrichtung umfasst auch die Beteiligungen des Bundes nach \u00a7 112 Absatz 2.</P><P>(2) Die Unterrichtung nach Absatz 1 erfolgt regelm\u00e4\u00dfig gegen\u00fcber dem Gremium nach \u00a7 3 des Gesetzes zur Regelung des Schuldenwesens des Bundes. \u00a7 3 Absatz 2 Satz 2 und 3 und Absatz 3 des Gesetzes zur Regelung des Schuldenwesens des Bundes gelten entsprechend. Auf Beschluss des Gremiums ist der Haushaltsausschuss mit der Unterrichtung zu befassen.</P><P>(3) Sofern grunds\u00e4tzliche und wesentliche Fragen gem\u00e4\u00df Absatz 1 die Gr\u00fcndung, den Erwerb, die Ver\u00e4u\u00dferung von Unternehmen oder \u00c4nderung an bestehenden Beteiligungen durch den Bund sowie \u00dcbertragungen wesentlicher Verm\u00f6genspositionen ber\u00fchren, soll das Gremium nach Absatz 2 zeitnah unterrichtet werden. Die Vorschriften des \u00a7 65 Absatz 7 bleiben davon unber\u00fchrt.</P><P>(4) Die Rechte des Deutschen Bundestages und seiner Aussch\u00fcsse bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000400319",
+        "name": "Teil IV",
+        "title": "Zahlungen, Buchf\u00fchrung und Rechnungslegung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008002301",
+        "name": "\u00a7 70",
+        "title": "Zahlungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>Zahlungen d\u00fcrfen nur von Kassen und Zahlstellen angenommen oder geleistet werden. Die Anordnung der Zahlung mu\u00df durch das zust\u00e4ndige Ministerium oder die von ihm erm\u00e4chtigte Dienststelle schriftlich oder auf elektronischem Wege erteilt werden. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008102301",
+        "name": "\u00a7 71",
+        "title": "Buchf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) \u00dcber Zahlungen ist nach der im Haushaltsplan oder sonst vorgesehenen Ordnung in zeitlicher Folge Buch zu f\u00fchren. \u00dcber eingegangene Verpflichtungen sowie \u00fcber Geldforderungen des Bundes, die von Bundesbeh\u00f6rden verwaltet werden, ist nach Richtlinien des Bundesministeriums der Finanzen Buch zu f\u00fchren. F\u00fcr andere Bewirtschaftungsvorg\u00e4nge kann das Bundesministerium der Finanzen die Buchf\u00fchrung anordnen.</P><P>(2) Einnahmen und Ausgaben auf Einnahme- und Ausgabereste (Haushaltsreste) aus Vorjahren, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die im Haushaltsplan des laufenden Haushaltsjahres wiederum ein Titel vorgesehen ist, sind bei diesem zu buchen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die im Haushaltsplan des laufenden Haushaltsjahres kein Titel vorgesehen ist, sind an der Stelle zu buchen, an der sie im Falle der Veranschlagung im Haushaltsplan vorzusehen gewesen w\u00e4ren.</LA></DD> </DL> </P><P>(3) Absatz 2 Nr. 2 gilt entsprechend f\u00fcr au\u00dferplanm\u00e4\u00dfige Einnahmen und Ausgaben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008202301",
+        "name": "\u00a7 72",
+        "title": "Buchung nach Haushaltsjahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) Zahlungen, eingegangene Verpflichtungen, Geldforderungen sowie andere Bewirtschaftungsvorg\u00e4nge, f\u00fcr die nach \u00a7 71 Abs. 1 Satz 3 die Buchf\u00fchrung angeordnet ist, sind nach Haushaltsjahren getrennt zu buchen.</P><P>(2) Alle Zahlungen mit Ausnahme der F\u00e4lle nach den Abs\u00e4tzen 3 und 4 sind f\u00fcr das Haushaltsjahr zu buchen, in dem sie eingegangen oder geleistet worden sind.</P><P>(3) Zahlungen, die im abgelaufenen Haushaltsjahr f\u00e4llig waren, jedoch erst sp\u00e4ter eingehen oder geleistet werden, sind in den B\u00fcchern des abgelaufenen Haushaltsjahres zu buchen, solange die B\u00fccher nicht abgeschlossen sind.</P><P>(4) F\u00fcr das neue Haushaltsjahr sind zu buchen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einnahmen, die im neuen Haushaltsjahr f\u00e4llig werden, jedoch vorher eingehen;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausgaben, die im neuen Haushaltsjahr f\u00e4llig werden, jedoch wegen des fristgerechten Eingangs beim Empf\u00e4nger vorher gezahlt werden m\u00fcssen;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im voraus zu zahlende Dienst-, Versorgungs- und entsprechende Bez\u00fcge sowie Renten f\u00fcr den ersten Monat des neuen Haushaltsjahres.</LA></DD> </DL> </P><P>(5) Die Abs\u00e4tze 3 und 4 Nr. 1 gelten nicht f\u00fcr Steuern, Geb\u00fchren, andere Abgaben, Geldstrafen, Geldbu\u00dfen sowie damit zusammenh\u00e4ngende Kosten.</P><P>(6) Ausnahmen von den Abs\u00e4tzen 2 bis 4 k\u00f6nnen im Haushaltsplan zugelassen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008301301",
+        "name": "\u00a7 73",
+        "title": "Verm\u00f6gensbuchf\u00fchrung, integrierte Buchf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) \u00dcber das Verm\u00f6gen und die Schulden ist Buch zu f\u00fchren oder ein anderer Nachweis zu erbringen. Das N\u00e4here regelt das Bundesministerium der Finanzen im Einvernehmen mit dem Bundesrechnungshof.</P><P>(2) Die Buchf\u00fchrung \u00fcber das Verm\u00f6gen und die Schulden ist mit der Buchf\u00fchrung \u00fcber die Einnahmen und Ausgaben zu verbinden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008401301",
+        "name": "\u00a7 74",
+        "title": "Buchf\u00fchrung bei Bundesbetrieben",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) Bundesbetriebe, die nach \u00a7 26 Abs. 1 Satz 1 einen Wirtschaftsplan aufstellen und bei denen eine Buchf\u00fchrung nach den \u00a7\u00a7 71 bis 79 nicht zweckm\u00e4\u00dfig ist, haben nach den Regeln der kaufm\u00e4nnischen doppelten Buchf\u00fchrung zu buchen.</P><P>(2) Das zust\u00e4ndige Bundesministerium kann im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesrechnungshof anordnen, da\u00df bei Bundesbetrieben zus\u00e4tzlich eine Betriebsbuchf\u00fchrung eingerichtet wird, wenn dies aus betriebswirtschaftlichen Gr\u00fcnden zweckm\u00e4\u00dfig ist.</P><P>(3) Gesch\u00e4ftsjahr ist das Haushaltsjahr. Ausnahmen kann das zust\u00e4ndige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008500319",
+        "name": "\u00a7 75",
+        "title": "Belegpflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>Alle Buchungen sind zu belegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008601301",
+        "name": "\u00a7 76",
+        "title": "Abschlu\u00df der B\u00fccher",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) Die B\u00fccher sind j\u00e4hrlich abzuschlie\u00dfen. Das Bundesministerium der Finanzen bestimmt den Zeitpunkt des Abschlusses.</P><P>(2) Nach dem Abschlu\u00df der B\u00fccher d\u00fcrfen Einnahmen oder Ausgaben nicht mehr f\u00fcr den abgelaufenen Zeitraum gebucht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008702301",
+        "name": "\u00a7 77",
+        "title": "Kassensicherheit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>Wer Anordnungen im Sinne des \u00a7 70 erteilt oder an ihnen verantwortlich mitwirkt, darf an Zahlungen oder Buchungen nicht beteiligt sein. Das Bundesministerium der Finanzen kann zulassen, da\u00df die Kassensicherheit auf andere Weise gew\u00e4hrleistet wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008801301",
+        "name": "\u00a7 78",
+        "title": "Unvermutete Pr\u00fcfungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>F\u00fcr Zahlungen oder Buchungen zust\u00e4ndige Stellen sind mindestens j\u00e4hrlich, f\u00fcr die Verwaltung von Vorr\u00e4ten zust\u00e4ndige Stellen mindestens alle zwei Jahre unvermutet zu pr\u00fcfen. Das Bundesministerium der Finanzen kann Ausnahmen zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE008905377",
+        "name": "\u00a7 79",
+        "title": "Bundeskassen, Verwaltungsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) Die Aufgaben der Kassen bei der Annahme und der Leistung von Zahlungen f\u00fcr den Bund werden f\u00fcr alle Stellen innerhalb und au\u00dferhalb der Bundesverwaltung von den Bundeskassen wahrgenommen, soweit es sich nicht um die Erhebung von Steuern handelt, die von den Landesfinanzbeh\u00f6rden verwaltet werden.</P><P>(2) Die Zentralkasse besteht beim Bundesministerium der Finanzen. Das Bundesministerium der Finanzen kann bestimmen, dass die Zentralkasse bei einer Bundesbeh\u00f6rde seines Gesch\u00e4ftsbereichs eingerichtet wird.</P><P>(3) Die Bundeskassen sind bei der Generalzolldirektion zu errichten.</P><P>(4) Das Bundesministerium der Finanzen regelt das N\u00e4here <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber die Einrichtung, den Zust\u00e4ndigkeitsbereich und das Verwaltungsverfahren der f\u00fcr Zahlungen und Buchungen zust\u00e4ndigen Stellen des Bundes im Benehmen mit dem zust\u00e4ndigen Bundesministerium,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber die Einrichtung der B\u00fccher und Belege im Einvernehmen mit dem Bundesrechnungshof.</LA></DD></DL></P><P>(5) Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesrechnungshof Vereinfachungen f\u00fcr die Buchf\u00fchrung und die Belegung der Buchungen allgemein anordnen. Der Bundesrechnungshof kann im Einvernehmen mit dem zust\u00e4ndigen Bundesministerium im Einzelfall Vereinfachungen zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009002301",
+        "name": "\u00a7 80",
+        "title": "Rechnungslegung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) Die zust\u00e4ndigen Stellen haben f\u00fcr jedes Haushaltsjahr auf der Grundlage der abgeschlossenen B\u00fccher Rechnung zu legen. Das Bundesministerium der Finanzen kann im Einvernehmen mit dem Bundesrechnungshof bestimmen, da\u00df f\u00fcr einen anderen Zeitraum Rechnung zu legen ist.</P><P>(2) (weggefallen)</P><P>(3) Auf der Grundlage der abgeschlossenen B\u00fccher stellt das Bundesministerium der Finanzen f\u00fcr jedes Haushaltsjahr die Haushaltsrechnung und die Verm\u00f6gensrechnung auf.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009100319",
+        "name": "\u00a7 81",
+        "title": "Gliederung der Haushaltsrechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) In der Haushaltsrechnung sind die Einnahmen und Ausgaben nach der in \u00a7 71 bezeichneten Ordnung den Ans\u00e4tzen des Haushaltsplans unter Ber\u00fccksichtigung der Haushaltsreste und der Vorgriffe gegen\u00fcberzustellen.</P><P>(2) Bei den einzelnen Titeln und entsprechend bei den Schlu\u00dfsummen sind besonders anzugeben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei den Einnahmen:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ist-Einnahmen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu \u00fcbertragenden Einnahmereste,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der Ist-Einnahmen und der zu \u00fcbertragenden Einnahmereste,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die verm\u00f6genswirksamen Betr\u00e4ge der Ist-Einnahmen, soweit eine Verm\u00f6gensbuchf\u00fchrung besteht,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">die veranschlagten Einnahmen,</LA></DD> <DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">die aus dem Vorjahr \u00fcbertragenen Einnahmereste,</LA></DD> <DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der veranschlagten Einnahmen und der \u00fcbertragenen Einnahmereste,</LA></DD> <DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Mehr- oder Minderbetrag der Summe aus Buchstabe c gegen\u00fcber der Summe aus Buchstabe g;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei den Ausgaben:<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ist-Ausgaben,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die zu \u00fcbertragenden Ausgabereste oder die Vorgriffe,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der Ist-Ausgaben und der zu \u00fcbertragenden Ausgabereste oder der Vorgriffe,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die verm\u00f6genswirksamen Betr\u00e4ge der Ist-Ausgaben, soweit eine Verm\u00f6gensbuchf\u00fchrung besteht,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">die veranschlagten Ausgaben,</LA></DD> <DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">die aus dem Vorjahr \u00fcbertragenen Ausgabereste oder die Vorgriffe,</LA></DD> <DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der veranschlagten Ausgaben und der \u00fcbertragenen Ausgabereste oder der Vorgriffe,</LA></DD> <DT>h)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Mehr- oder Minderbetrag der Summe aus Buchstabe c gegen\u00fcber der Summe aus Buchstabe g,</LA></DD> <DT>i)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Betrag der \u00fcber- oder au\u00dferplanm\u00e4\u00dfigen Ausgaben sowie der Vorgriffe.</LA></DD> </DL> </LA></DD> </DL></P><P>(3) F\u00fcr die jeweiligen Titel und entsprechend f\u00fcr die Schlu\u00dfsummen ist die H\u00f6he der eingegangenen Verpflichtungen und der Geldforderungen im Sinne des \u00a7 71 Abs. 1 Satz 2 besonders anzugeben.</P><P>(4) In den F\u00e4llen des \u00a7 25 Abs. 2 ist die Verminderung des Kreditbedarfs zugleich mit dem Nachweis des \u00dcberschusses darzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009200319",
+        "name": "\u00a7 82",
+        "title": "Kassenm\u00e4\u00dfiger Abschlu\u00df",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>In dem kassenm\u00e4\u00dfigen Abschlu\u00df sind nachzuweisen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der Ist-Einnahmen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der Ist-Ausgaben,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Unterschied aus Buchstabe a und Buchstabe b (kassenm\u00e4\u00dfiges Jahresergebnis),</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">die haushaltsm\u00e4\u00dfig noch nicht abgewickelten kassenm\u00e4\u00dfigen Jahresergebnisse fr\u00fcherer Jahre,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">das kassenm\u00e4\u00dfige Gesamtergebnis aus Buchstabe c und Buchstabe d;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der Ist-Einnahmen mit Ausnahme der Einnahmen aus Krediten vom Kreditmarkt, der Entnahmen aus R\u00fccklagen, der Einnahmen aus kassenm\u00e4\u00dfigen \u00dcbersch\u00fcssen und der M\u00fcnzeinnahmen,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Summe der Ist-Ausgaben mit Ausnahme der Ausgaben zur Schuldentilgung am Kreditmarkt, der Zuf\u00fchrungen an R\u00fccklagen und der Ausgaben zur Deckung eines kassenm\u00e4\u00dfigen Fehlbetrags,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Finanzierungssaldo aus Buchstabe a und Buchstabe b.</LA></DD> </DL></LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009300319",
+        "name": "\u00a7 83",
+        "title": "Haushaltsabschlu\u00df",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>In dem Haushaltsabschlu\u00df sind nachzuweisen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">das kassenm\u00e4\u00dfige Jahresergebnis nach \u00a7 82 Nr. 1 Buchstabe c,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">das kassenm\u00e4\u00dfige Gesamtergebnis nach \u00a7 82 Nr. 1 Buchstabe e;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die aus dem Vorjahr \u00fcbertragenen Einnahmereste und Ausgabereste,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die in das folgende Haushaltsjahr zu \u00fcbertragenden Einnahmereste und Ausgabereste,</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Unterschied aus Buchstabe a und Buchstabe b,</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">das rechnungsm\u00e4\u00dfige Jahresergebnis aus Nummer 1 Buchstabe a und Nummer 2 Buchstabe c,</LA></DD> <DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">das rechnungsm\u00e4\u00dfige Gesamtergebnis aus Nummer 1 Buchstabe b und Nummer 2 Buchstabe b;</LA></DD> </DL></LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he der eingegangenen Verpflichtungen und der Geldforderungen im Sinne des \u00a7 71 Abs. 1 Satz 2.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009400319",
+        "name": "\u00a7 84",
+        "title": "Abschlu\u00dfbericht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>Der kassenm\u00e4\u00dfige Abschlu\u00df und der Haushaltsabschlu\u00df sind in einem Bericht zu erl\u00e4utern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009500319",
+        "name": "\u00a7 85",
+        "title": "\u00dcbersichten zur Haushaltsrechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>Der Haushaltsrechnung sind \u00dcbersichten beizuf\u00fcgen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00fcber- und au\u00dferplanm\u00e4\u00dfigen Ausgaben einschlie\u00dflich der Vorgriffe und ihre Begr\u00fcndung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einnahmen und Ausgaben sowie den Bestand an Sonderverm\u00f6gen und R\u00fccklagen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Jahresabschlu\u00df bei Bundesbetrieben,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gesamtbetr\u00e4ge der nach \u00a7 59 erlassenen Anspr\u00fcche nach Gesch\u00e4ftsbereichen,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nicht veranschlagten Einnahmen aus der Ver\u00e4u\u00dferung von Verm\u00f6gensgegenst\u00e4nden.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009600319",
+        "name": "\u00a7 86",
+        "title": "Verm\u00f6gensrechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>In der Verm\u00f6gensrechnung sind der Bestand des Verm\u00f6gens und der Schulden zu Beginn des Haushaltsjahres, die Ver\u00e4nderungen w\u00e4hrend des Haushaltsjahres und der Bestand zum Ende des Haushaltsjahres nachzuweisen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009702301",
+        "name": "\u00a7 87",
+        "title": "Rechnungslegung der Bundesbetriebe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000400319"
+        },
+        "body": "<P>(1) Bundesbetriebe, die nach den Regeln der kaufm\u00e4nnischen doppelten Buchf\u00fchrung buchen, stellen einen Jahresabschlu\u00df sowie einen Lagebericht in entsprechender Anwendung der Vorschrift des \u00a7 264 Abs. 1 Satz 1 des Handelsgesetzbuchs auf. Das zust\u00e4ndige Bundesministerium kann im Einvernehmen mit dem Bundesministerium der Finanzen auf die Aufstellung des Lageberichts verzichten. Die \u00a7\u00a7 80 bis 85 sollen angewandt werden, soweit sie mit den Regeln der kaufm\u00e4nnischen doppelten Buchf\u00fchrung zu vereinbaren sind.</P><P>(2) Ist eine Betriebsbuchf\u00fchrung eingerichtet, so ist die Betriebsergebnisabrechnung dem Bundesministerium der Finanzen und dem Bundesrechnungshof zu \u00fcbersenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000500319",
+        "name": "Teil V",
+        "title": "Rechnungspr\u00fcfung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009801301",
+        "name": "\u00a7 88",
+        "title": "Aufgaben des Bundesrechnungshofes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Die gesamte Haushalts- und Wirtschaftsf\u00fchrung des Bundes einschlie\u00dflich seiner Sonderverm\u00f6gen und Betriebe wird von dem Bundesrechnungshof nach Ma\u00dfgabe der folgenden Bestimmungen gepr\u00fcft.</P><P>(2) Der Bundesrechnungshof kann auf Grund von Pr\u00fcfungserfahrungen den Bundestag, den Bundesrat, die Bundesregierung und einzelne Bundesministerien beraten. Soweit der Bundesrechnungshof den Bundestag oder den Bundesrat ber\u00e4t, unterrichtet er gleichzeitig die Bundesregierung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE009900319",
+        "name": "\u00a7 89",
+        "title": "Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof pr\u00fcft <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einnahmen, Ausgaben, Verpflichtungen zur Leistung von Ausgaben, das Verm\u00f6gen und die Schulden,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ma\u00dfnahmen, die sich finanziell auswirken k\u00f6nnen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Verwahrungen und Vorsch\u00fcsse,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verwendung der Mittel, die zur Selbstbewirtschaftung zugewiesen sind.</LA></DD> </DL> </P><P>(2) Der Bundesrechnungshof kann nach seinem Ermessen die Pr\u00fcfung beschr\u00e4nken und Rechnungen ungepr\u00fcft lassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 89: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010000319",
+        "name": "\u00a7 90",
+        "title": "Inhalt der Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>Die Pr\u00fcfung erstreckt sich auf die Einhaltung der f\u00fcr die Haushalts- und Wirtschaftsf\u00fchrung geltenden Vorschriften und Grunds\u00e4tze, insbesondere darauf, ob <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Haushaltsgesetz und der Haushaltsplan eingehalten worden sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einnahmen und Ausgaben begr\u00fcndet und belegt sind und die Haushaltsrechnung und die Verm\u00f6gensrechnung ordnungsgem\u00e4\u00df aufgestellt sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wirtschaftlich und sparsam verfahren wird,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufgabe mit geringerem Personal- oder Sachaufwand oder auf andere Weise wirksamer erf\u00fcllt werden kann.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 90: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010103360",
+        "name": "\u00a7 91",
+        "title": "Pr\u00fcfung bei Stellen au\u00dferhalb der Bundesverwaltung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof ist vorbehaltlich anderer gesetzlicher Regelung berechtigt, bei Stellen au\u00dferhalb der Bundesverwaltung zu pr\u00fcfen, wenn sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Teile des Bundeshaushaltsplans ausf\u00fchren oder vom Bund Ersatz von Aufwendungen erhalten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bundesmittel oder Verm\u00f6gensgegenst\u00e4nde des Bundes verwalten,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">vom Bund Zuwendungen erhalten,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">als juristische Personen des privaten Rechts, an denen der Bund einschlie\u00dflich seiner Sonderverm\u00f6gen unmittelbar oder mittelbar mit Mehrheit beteiligt ist, nicht im Wettbewerb stehen, bestimmungsgem\u00e4\u00df ganz oder \u00fcberwiegend \u00f6ffentliche Aufgaben erf\u00fcllen oder diesem Zweck dienen und hierf\u00fcr Haushaltsmittel oder Gew\u00e4hrleistungen des Bundes oder eines seiner Sonderverm\u00f6gen erhalten oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Finanzierungsmittel bewirtschaften, die der Bund den L\u00e4ndern zweckgebunden zur Erf\u00fcllung von L\u00e4nderaufgaben zugewiesen hat.</LA></DD></DL>Leiten diese Stellen die Mittel an Dritte weiter, so kann der Bundesrechnungshof auch bei diesen pr\u00fcfen.</P><P>(2) Die Pr\u00fcfung erstreckt sich auf die bestimmungsm\u00e4\u00dfige und wirtschaftliche Verwaltung und Verwendung. Bei Zuwendungen kann sie sich auch auf die sonstige Haushalts- und Wirtschaftsf\u00fchrung des Empf\u00e4ngers erstrecken, soweit es der Bundesrechnungshof f\u00fcr seine Pr\u00fcfung f\u00fcr notwendig h\u00e4lt.</P><P>(3) Bei der Gew\u00e4hrung von Krediten aus Haushaltsmitteln sowie bei der \u00dcbernahme von B\u00fcrgschaften, Garantien oder sonstigen Gew\u00e4hrleistungen durch den Bund kann der Bundesrechnungshof bei den Beteiligten pr\u00fcfen, ob sie ausreichende Vorkehrungen gegen Nachteile f\u00fcr den Bund getroffen oder ob die Voraussetzungen f\u00fcr eine Inanspruchnahme des Bundes vorgelegen haben.</P><P>(4) Bei den juristischen Personen im Sinne des Absatzes 1 Satz 1 Nr. 4 erstreckt sich die Pr\u00fcfung auf die gesamte Haushalts- und Wirtschaftsf\u00fchrung. Handelt es sich bei der juristischen Person des privaten Rechts im Sinne des Absatzes 1 Satz 1 Nr. 4 um ein Unternehmen, erfolgt die Pr\u00fcfung unter Beachtung kaufm\u00e4nnischer Grunds\u00e4tze.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010201301",
+        "name": "\u00a7 92",
+        "title": "Pr\u00fcfung staatlicher Bet\u00e4tigung bei privatrechtlichen Unternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof pr\u00fcft die Bet\u00e4tigung des Bundes bei Unternehmen in einer Rechtsform des privaten Rechts, an denen der Bund unmittelbar oder mittelbar beteiligt ist, unter Beachtung kaufm\u00e4nnischer Grunds\u00e4tze.</P><P>(2) Absatz 1 gilt entsprechend bei Genossenschaften, in denen der Bund Mitglied ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 92: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010302360",
+        "name": "\u00a7 93",
+        "title": "Gemeinsame Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Ist f\u00fcr die Pr\u00fcfung sowohl der Bundesrechnungshof als auch ein Landesrechnungshof zust\u00e4ndig, so soll gemeinsam gepr\u00fcft werden. Soweit nicht Artikel 114 Abs. 2 Satz 1 des Grundgesetzes die Pr\u00fcfung durch den Bundesrechnungshof vorschreibt, kann der Bundesrechnungshof durch Vereinbarung Pr\u00fcfungsaufgaben auf die Landesrechnungsh\u00f6fe \u00fcbertragen. Der Bundesrechnungshof kann durch Vereinbarung auch Pr\u00fcfungsaufgaben von den Landesrechnungsh\u00f6fen \u00fcbernehmen.</P><P>(1a) In den in \u00a7 91 Absatz 1 Satz 1 Nummer 5 genannten F\u00e4llen hat der Bundesrechnungshof seine Pr\u00fcfungen im Benehmen mit den jeweils zust\u00e4ndigen Landesrechnungsh\u00f6fen durchzuf\u00fchren.</P><P>(2) Der Bundesrechnungshof kann durch Vereinbarung mit ausl\u00e4ndischen oder \u00fcber- oder zwischenstaatlichen Pr\u00fcfungsbeh\u00f6rden die Durchf\u00fchrung einzelner Pr\u00fcfungen \u00fcbertragen oder \u00fcbernehmen, sowie Pr\u00fcfungsaufgaben f\u00fcr \u00fcber- oder zwischenstaatliche Einrichtungen \u00fcbernehmen, wenn er durch v\u00f6lkerrechtliche Vertr\u00e4ge oder Verwaltungsabkommen oder durch die Bundesregierung dazu erm\u00e4chtigt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 93: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010401309",
+        "name": "\u00a7 94",
+        "title": "Zeit und Art der Pr\u00fcfung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof bestimmt Zeit und Art der Pr\u00fcfung und l\u00e4\u00dft erforderliche \u00f6rtliche Erhebungen durch Beauftragte vornehmen.</P><P>(2) Der Bundesrechnungshof kann Sachverst\u00e4ndige hinzuziehen.</P><P>(3)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 94: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010501123",
+        "name": "\u00a7 95",
+        "title": "Auskunftspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Unterlagen, die der Bundesrechnungshof zur Erf\u00fcllung seiner Aufgaben f\u00fcr erforderlich h\u00e4lt, sind ihm auf Verlangen innerhalb einer bestimmten Frist zu \u00fcbersenden oder seinen Beauftragten vorzulegen.</P><P>(2) Dem Bundesrechnungshof und seinen Beauftragten sind die erbetenen Ausk\u00fcnfte zu erteilen.</P><P>(3) Die Vorlage- und Auskunftspflicht nach den Abs\u00e4tzen 1 und 2 umfasst auch elektronisch gespeicherte Daten sowie deren automatisierten Abruf.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 95: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE013200360",
+        "name": "\u00a7 95a",
+        "title": "Pr\u00fcfungsanordnung und Entfall der aufschiebenden Wirkung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>Erl\u00e4sst der Bundesrechnungshof zur Durchsetzung seiner Rechte nach \u00a7 94 Absatz 1 und \u00a7 95 Anordnungen, so hat die Anfechtungsklage hiergegen keine aufschiebende Wirkung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010602140",
+        "name": "\u00a7 96",
+        "title": "Pr\u00fcfungsergebnis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof teilt das Pr\u00fcfungsergebnis den zust\u00e4ndigen Dienststellen zur \u00c4u\u00dferung innerhalb einer von ihm zu bestimmenden Frist mit. Er kann es auch anderen Dienststellen und dem Haushaltsausschu\u00df des Deutschen Bundestages mitteilen, soweit er dies aus besonderen Gr\u00fcnden f\u00fcr erforderlich h\u00e4lt.</P><P>(2) Pr\u00fcfungsergebnisse von grunds\u00e4tzlicher oder erheblicher finanzieller Bedeutung teilt der Bundesrechnungshof dem Bundesministerium der Finanzen mit.</P><P>(3) Der Bundesrechnungshof ist zu h\u00f6ren, wenn die Verwaltung Anspr\u00fcche des Bundes, die in Pr\u00fcfungsmitteilungen er\u00f6rtert worden sind, nicht verfolgen will. Er kann auf die Anh\u00f6rung verzichten.</P><P>(4) Der Bundesrechnungshof kann Dritten durch Auskunft, Akteneinsicht oder in sonstiger Weise Zugang zu dem Pr\u00fcfungsergebnis gew\u00e4hren, wenn dieses abschlie\u00dfend festgestellt wurde. Gleiches gilt f\u00fcr Berichte, wenn diese abschlie\u00dfend vom Parlament beraten wurden. Zum Schutz des Pr\u00fcfungs- und Beratungsverfahrens wird Zugang zu den zur Pr\u00fcfungs- und Beratungst\u00e4tigkeit gef\u00fchrten Akten nicht gew\u00e4hrt. Satz 3 gilt auch f\u00fcr die entsprechenden Akten bei den gepr\u00fcften Stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 96: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010702140",
+        "name": "\u00a7 97",
+        "title": "Bemerkungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof fa\u00dft das Ergebnis seiner Pr\u00fcfung, soweit es f\u00fcr die Entlastung der Bundesregierung wegen der Haushaltsrechnung und der Verm\u00f6gensrechnung von Bedeutung sein kann, j\u00e4hrlich f\u00fcr den Bundestag und den Bundesrat in Bemerkungen zusammen, die er dem Bundestag, dem Bundesrat und der Bundesregierung zuleitet.</P><P>(2) In den Bemerkungen ist insbesondere mitzuteilen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob die in der Haushaltsrechnung und der Verm\u00f6gensrechnung und die in den B\u00fcchern aufgef\u00fchrten Betr\u00e4ge \u00fcbereinstimmen und die gepr\u00fcften Einnahmen und Ausgaben ordnungsgem\u00e4\u00df belegt sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in welchen F\u00e4llen von Bedeutung die f\u00fcr die Haushalts- und Wirtschaftsf\u00fchrung geltenden Vorschriften und Grunds\u00e4tze nicht beachtet worden sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">welche wesentlichen Beanstandungen sich aus der Pr\u00fcfung der Bet\u00e4tigung bei Unternehmen mit eigener Rechtspers\u00f6nlichkeit ergeben haben,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">welche Ma\u00dfnahmen f\u00fcr die Zukunft empfohlen werden.</LA></DD></DL></P><P>(3) In die Bemerkungen k\u00f6nnen Feststellungen auch \u00fcber sp\u00e4tere oder fr\u00fchere Haushaltsjahre aufgenommen werden.</P><P>(4) Bemerkungen zu geheimzuhaltenden Angelegenheiten werden den Pr\u00e4sidenten des Bundestages und des Bundesrates sowie dem Bundeskanzler und dem Bundesministerium der Finanzen mitgeteilt.</P><P>(5) Der Bundesrechnungshof ver\u00f6ffentlicht seine Bemerkungen au\u00dfer in den F\u00e4llen des Absatzes 4 unverz\u00fcglich nach Zuleitung im Internet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 97: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010800319",
+        "name": "\u00a7 98",
+        "title": "Aufforderung zum Schadenausgleich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>Der Bundesrechnungshof macht der zust\u00e4ndigen Stelle unverz\u00fcglich Mitteilung, wenn nach seiner Auffassung ein Schadenersatzanspruch geltend zu machen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 98: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE010901140",
+        "name": "\u00a7 99",
+        "title": "Angelegenheiten von besonderer Bedeutung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>\u00dcber Angelegenheiten von besonderer Bedeutung kann der Bundesrechnungshof den Bundestag, den Bundesrat und die Bundesregierung jederzeit unterrichten. Berichtet er dem Bundestag und dem Bundesrat, so unterrichtet er gleichzeitig die Bundesregierung. Der Bundesrechnungshof ver\u00f6ffentlicht seine Berichte zu Angelegenheiten von besonderer Bedeutung unverz\u00fcglich nach Zuleitung im Internet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 99: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011003301",
+        "name": "\u00a7 100",
+        "title": "Pr\u00fcfungs\u00e4mter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>Der Bundesrechnungshof kann zur Vorbereitung, Unterst\u00fctzung und Erg\u00e4nzung seiner Pr\u00fcfungst\u00e4tigkeit Pr\u00fcfungsaufgaben durch Pr\u00fcfungs\u00e4mter, die seiner Dienst- und Fachaufsicht unterstellt sind, wahrnehmen lassen. Diese f\u00fchren die Pr\u00fcfungsaufgaben in entsprechender Anwendung der f\u00fcr den Bundesrechnungshof geltenden Bestimmungen nach den Weisungen des Bundesrechnungshofes durch.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 100: Zur Anwendung vgl. \u00a7 55 Abs. 1 Satz 2 EinSiG +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011100319",
+        "name": "\u00a7 101",
+        "title": "Rechnung des Bundesrechnungshofes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>Die Rechnung des Bundesrechnungshofes wird von dem Bundestag und dem Bundesrat gepr\u00fcft, die auch die Entlastung erteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011200319",
+        "name": "\u00a7 102",
+        "title": "Unterrichtung des Bundesrechnungshofes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof ist unverz\u00fcglich zu unterrichten, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">oberste Bundesbeh\u00f6rden allgemeine Vorschriften erlassen oder erl\u00e4utern, welche die Bewirtschaftung der Haushaltsmittel des Bundes betreffen oder sich auf dessen Einnahmen und Ausgaben auswirken,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Bundeshaushalt ber\u00fchrende Verwaltungseinrichtungen oder Bundesbetriebe geschaffen, wesentlich ge\u00e4ndert oder aufgel\u00f6st werden,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">unmittelbare Beteiligungen des Bundes oder mittelbare Beteiligungen im Sinne des \u00a7 65 Abs. 3 an Unternehmen begr\u00fcndet, wesentlich ge\u00e4ndert oder aufgegeben werden,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vereinbarungen zwischen dem Bund und einer Stelle au\u00dferhalb der Bundesverwaltung oder zwischen obersten Bundesbeh\u00f6rden \u00fcber die Bewirtschaftung von Haushaltsmitteln des Bundes getroffen werden,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">von den obersten Bundesbeh\u00f6rden organisatorische oder sonstige Ma\u00dfnahmen von erheblicher finanzieller Tragweite getroffen werden.</LA></DD> </DL> </P><P>(2) Dem Bundesrechnungshof sind auf Anforderung Vorschriften oder Erl\u00e4uterungen der in Absatz 1 Nr. 1 genannten Art auch dann mitzuteilen, wenn andere Stellen des Bundes sie erlassen.</P><P>(3) Der Bundesrechnungshof kann sich jederzeit zu den in den Abs\u00e4tzen 1 und 2 genannten Ma\u00dfnahmen \u00e4u\u00dfern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011301301",
+        "name": "\u00a7 103",
+        "title": "Anh\u00f6rung des Bundesrechnungshofes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof ist vor dem Erla\u00df von Verwaltungsvorschriften zur Durchf\u00fchrung der Bundeshaushaltsordnung zu h\u00f6ren.</P><P>(2) Zu den Verwaltungsvorschriften im Sinne des Absatzes 1 geh\u00f6ren auch allgemeine Dienstanweisungen \u00fcber die Verwaltung der Kassen und Zahlstellen, \u00fcber die Buchf\u00fchrung und den Nachweis des Verm\u00f6gens.</P><P>(3) Vor der Beschlu\u00dffassung \u00fcber den Erla\u00df oder die \u00c4nderung von Vorschriften \u00fcber das Haushaltswesen einschlie\u00dflich der Rechnungspr\u00fcfung bei \u00fcber- oder zwischenstaatlichen Einrichtungen, deren Mitglied die Bundesrepublik Deutschland ist, soll das zust\u00e4ndige Bundesministerium den Bundesrechnungshof h\u00f6ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011400319",
+        "name": "\u00a7 104",
+        "title": "Pr\u00fcfung der juristischen Personen des privaten Rechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000500319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof pr\u00fcft die Haushalts- und Wirtschaftsf\u00fchrung der juristischen Personen des privaten Rechts, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie auf Grund eines Gesetzes vom Bund Zusch\u00fcsse erhalten oder eine Garantieverpflichtung des Bundes gesetzlich begr\u00fcndet ist oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie vom Bund oder einer vom Bund bestellten Person allein oder \u00fcberwiegend verwaltet werden oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit dem Bundesrechnungshof eine Pr\u00fcfung durch ihn vereinbart ist oder</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">sie nicht Unternehmen sind und in ihrer Satzung mit Zustimmung des Bundesrechnungshofes eine Pr\u00fcfung durch ihn vorgesehen ist.</LA></DD> </DL> </P><P>(2) Absatz 1 ist auf die vom Bund verwalteten Treuhandverm\u00f6gen anzuwenden.</P><P>(3) Steht dem Bund vom Gewinn eines Unternehmens, an dem er nicht beteiligt ist, mehr als der vierte Teil zu, so pr\u00fcft der Bundesrechnungshof den Abschlu\u00df und die Gesch\u00e4ftsf\u00fchrung daraufhin, ob die Interessen des Bundes nach den bestehenden Bestimmungen gewahrt worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000600319",
+        "name": "Teil VI",
+        "title": "Bundesunmittelbare juristische Personen\ndes \u00f6ffentlichen Rechts",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011501301",
+        "name": "\u00a7 105",
+        "title": "Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000600319"
+        },
+        "body": "<P>(1) F\u00fcr bundesunmittelbare juristische Personen des \u00f6ffentlichen Rechts gelten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00a7\u00a7 106 bis 110,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00a7\u00a7 1 bis 87 entsprechend,</LA></DD> </DL>soweit nicht durch Gesetz oder auf Grund eines Gesetzes etwas anderes bestimmt ist.</P><P>(2) F\u00fcr bundesunmittelbare juristische Personen des \u00f6ffentlichen Rechts kann das zust\u00e4ndige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesrechnungshof Ausnahmen von den in Absatz 1 bezeichneten Vorschriften zulassen, soweit kein erhebliches finanzielles Interesse des Bundes besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011600319",
+        "name": "\u00a7 106",
+        "title": "Haushaltsplan",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000600319"
+        },
+        "body": "<P>(1) Das zur Gesch\u00e4ftsf\u00fchrung berufene Organ einer bundesunmittelbaren juristischen Person des \u00f6ffentlichen Rechts hat vor Beginn jedes Haushaltsjahres einen Haushaltsplan festzustellen. Er mu\u00df alle im Haushaltsjahr zu erwartenden Einnahmen, voraussichtlich zu leistenden Ausgaben und voraussichtlich ben\u00f6tigten Verpflichtungserm\u00e4chtigungen enthalten und ist in Einnahme und Ausgabe auszugleichen. In den Haushaltsplan d\u00fcrfen nur die Ausgaben und Verpflichtungserm\u00e4chtigungen eingestellt werden, die zur Erf\u00fcllung der Aufgaben der juristischen Person notwendig sind.</P><P>(2) Hat die juristische Person neben dem zur Gesch\u00e4ftsf\u00fchrung berufenen Organ ein besonderes Beschlu\u00dforgan, das in wichtigen Verwaltungsangelegenheiten zu entscheiden oder zuzustimmen oder die Gesch\u00e4ftsf\u00fchrung zu \u00fcberwachen hat, so hat dieses den Haushaltsplan festzustellen. Das zur Gesch\u00e4ftsf\u00fchrung berufene Organ hat den Entwurf dem Beschlu\u00dforgan vorzulegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011700319",
+        "name": "\u00a7 107",
+        "title": "Umlagen, Beitr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000600319"
+        },
+        "body": "<P>Ist die bundesunmittelbare juristische Person des \u00f6ffentlichen Rechts berechtigt, von ihren Mitgliedern Umlagen oder Beitr\u00e4ge zu erheben, so ist die H\u00f6he der Umlagen oder der Beitr\u00e4ge f\u00fcr das neue Haushaltsjahr gleichzeitig mit der Feststellung des Haushaltsplans festzusetzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011801301",
+        "name": "\u00a7 108",
+        "title": "Genehmigung des Haushaltsplans",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000600319"
+        },
+        "body": "<P>Der Haushaltsplan und die Festsetzung der Umlagen oder der Beitr\u00e4ge bed\u00fcrfen bei bundesunmittelbaren juristischen Personen des \u00f6ffentlichen Rechts der Genehmigung des zust\u00e4ndigen Bundesministeriums. Die Festsetzung der Umlagen oder der Beitr\u00e4ge bedarf au\u00dferdem der Genehmigung des Bundesministeriums der Finanzen. Der Haushaltsplan und der Beschlu\u00df \u00fcber die Festsetzung der Umlagen oder der Beitr\u00e4ge sind dem zust\u00e4ndigen Bundesministerium sp\u00e4testens einen Monat vor Beginn des Haushaltsjahres vorzulegen. Der Haushaltsplan und der Beschlu\u00df k\u00f6nnen nur gleichzeitig in Kraft treten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE011902301",
+        "name": "\u00a7 109",
+        "title": "Rechnungslegung, Pr\u00fcfung, Entlastung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000600319"
+        },
+        "body": "<P>(1) Nach Ende des Haushaltsjahres hat das zur Gesch\u00e4ftsf\u00fchrung berufene Organ der bundesunmittelbaren juristischen Person des \u00f6ffentlichen Rechts eine Rechnung aufzustellen.</P><P>(2) Die Rechnung und die Haushalts- und Wirtschaftsf\u00fchrung der bundesunmittelbaren juristischen Person des \u00f6ffentlichen Rechts sind, unbeschadet einer Pr\u00fcfung durch den Bundesrechnungshof nach \u00a7 111, von durch Gesetz oder Satzung bestimmten Stellen zu pr\u00fcfen. Die Satzungsvorschrift \u00fcber die Durchf\u00fchrung der Pr\u00fcfung bedarf der Zustimmung des zust\u00e4ndigen Bundesministeriums im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesrechnungshof. Die Ergebnisse der Pr\u00fcfung sind dem Bundesrechnungshof vorzulegen. Er kann zulassen, da\u00df die Pr\u00fcfung beschr\u00e4nkt wird.</P><P>(3) Die Entlastung erteilt das zust\u00e4ndige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen. Ist ein besonderes Beschlu\u00dforgan vorhanden, obliegt ihm die Entlastung; die Entlastung bedarf dann der Genehmigung des zust\u00e4ndigen Bundesministeriums und des Bundesministeriums der Finanzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 109 Abs. 2: Zur Nichtanwendung vgl. \u00a7 37 Abs. 4 Satz 3 FFG 2017 +++) <BR />(+++ \u00a7 109 Abs. 3: Zur Nichtanwendung vgl. \u00a7 8 Abs. 2 Satz 2 FFG 2017 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012001309",
+        "name": "\u00a7 110",
+        "title": "Wirtschaftsplan",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000600319"
+        },
+        "body": "<P>Bundesunmittelbare juristische Personen des \u00f6ffentlichen Rechts, bei denen ein Wirtschaften nach Einnahmen und Ausgaben des Haushaltsplans nicht zweckm\u00e4\u00dfig ist, haben einen Wirtschaftsplan aufzustellen. Buchen sie nach den Regeln der kaufm\u00e4nnischen doppelten Buchf\u00fchrung, stellen sie einen Jahresabschlu\u00df sowie einen Lagebericht in entsprechender Anwendung der Vorschrift des \u00a7 264 Abs. 1 Satz 1 des Handelsgesetzbuchs auf.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012102301",
+        "name": "\u00a7 111",
+        "title": "Pr\u00fcfung durch den Bundesrechnungshof",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000600319"
+        },
+        "body": "<P>(1) Der Bundesrechnungshof pr\u00fcft die Haushalts- und Wirtschaftsf\u00fchrung der bundesunmittelbaren juristischen Personen des \u00f6ffentlichen Rechts. Die \u00a7\u00a7 89 bis 100, 102 und 103 sind entsprechend anzuwenden.</P><P>(2) F\u00fcr bundesunmittelbare juristische Personen des \u00f6ffentlichen Rechts kann das zust\u00e4ndige Bundesministerium im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesrechnungshof Ausnahmen von Absatz 1 zulassen, soweit kein erhebliches finanzielles Interesse des Bundes besteht. Die nach bisherigem Recht zugelassenen Ausnahmen bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012204123",
+        "name": "\u00a7 112",
+        "title": "Sonderregelungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000600319"
+        },
+        "body": "<P>(1) Auf die bundesunmittelbaren Tr\u00e4ger der gesetzlichen Krankenversicherung, der sozialen Pflegeversicherung, der gesetzlichen Unfallversicherung und der gesetzlichen Rentenversicherung einschlie\u00dflich der Alterssicherung der Landwirte sind nur die \u00a7\u00a7 17a und 111 anzuwenden, und zwar nur dann, wenn sie auf Grund eines Bundesgesetzes vom Bund Zusch\u00fcsse erhalten oder eine Garantieverpflichtung des Bundes gesetzlich begr\u00fcndet ist. Auf die Verb\u00e4nde und Arbeitsgemeinschaften der in Satz 1 genannten Sozialversicherungstr\u00e4ger ist unabh\u00e4ngig von ihrer Rechtsform \u00a7 111 anzuwenden, wenn Mitglieder dieser Verb\u00e4nde und Arbeitsgemeinschaften der Pr\u00fcfung durch den Bundesrechnungshof unterliegen. Auf sonstige Vereinigungen auf dem Gebiet der Sozialversicherung finden die Vorschriften dieses Gesetzes keine Anwendung.</P><P>(2) Auf Unternehmen in der Rechtsform einer bundesunmittelbaren juristischen Person des \u00f6ffentlichen Rechts sind unabh\u00e4ngig von der H\u00f6he der Beteiligung des Bundes \u00a7 65 Abs. 1 Nr. 3 und 4 und Abs. 2, 3 und 4, \u00a7 68 Abs. 1 und \u00a7 69 entsprechend, \u00a7 111 unmittelbar anzuwenden. F\u00fcr Unternehmen in der Rechtsform einer juristischen Person des privaten Rechts, an denen die in Satz 1 genannten Unternehmen unmittelbar oder mittelbar mit Mehrheit beteiligt sind, gelten die \u00a7\u00a7 53 und 54 des Haushaltsgrunds\u00e4tzegesetzes und die \u00a7\u00a7 65 bis 69 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000700319",
+        "name": "Teil VII",
+        "title": "Sonderverm\u00f6gen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012300319",
+        "name": "\u00a7 113",
+        "title": "Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000700319"
+        },
+        "body": "<P>Auf Sonderverm\u00f6gen des Bundes sind die Teile I bis IV, VIII und IX dieses Gesetzes entsprechend anzuwenden, soweit nicht durch Gesetz oder auf Grund eines Gesetzes etwas anderes bestimmt ist. Der Bundesrechnungshof pr\u00fcft die Haushalts- und Wirtschaftsf\u00fchrung der Sonderverm\u00f6gen, Teil V dieses Gesetzes ist entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 113: Zur Anwendung vgl. \u00a7 5 Abs. 1 Satz 3 KInvFErrG +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000800319",
+        "name": "Teil VIII",
+        "title": "Entlastung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012401301",
+        "name": "\u00a7 114",
+        "title": "Entlastung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000800319"
+        },
+        "body": "<P>(1) Das Bundesministerium der Finanzen hat dem Bundestag und dem Bundesrat \u00fcber alle Einnahmen und Ausgaben sowie \u00fcber das Verm\u00f6gen und die Schulden im Laufe des n\u00e4chsten Rechnungsjahres zur Entlastung der Bundesregierung Rechnung zu legen (Artikel 114 Abs. 1 des Grundgesetzes). Der Bundesrechnungshof berichtet unmittelbar dem Bundestag, dem Bundesrat und der Bundesregierung.</P><P>(2) Der Bundestag stellt unter Ber\u00fccksichtigung der Stellungnahme des Bundesrates die wesentlichen Sachverhalte fest und beschlie\u00dft \u00fcber einzuleitende Ma\u00dfnahmen.</P><P>(3) An den Bundesrechnungshof k\u00f6nnen einzelne Sachverhalte zur weiteren Aufkl\u00e4rung zur\u00fcckverwiesen werden.</P><P>(4) Der Bundestag bestimmt einen Termin, zu dem die Bundesregierung \u00fcber die eingeleiteten Ma\u00dfnahmen dem Bundestag und dem Bundesrat zu berichten hat. Soweit Ma\u00dfnahmen nicht zu dem beabsichtigten Erfolg gef\u00fchrt haben, k\u00f6nnen Bundestag oder Bundesrat die Sachverhalte wieder aufgreifen.</P><P>(5) Der Bundestag oder der Bundesrat kann bestimmte Sachverhalte ausdr\u00fccklich mi\u00dfbilligen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR012840969BJNG000900319",
+        "name": "Teil IX",
+        "title": "\u00dcbergangs- und Schlu\u00dfbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012500319",
+        "name": "\u00a7 115",
+        "title": "\u00d6ffentlich-rechtliche Dienst- oder Amtsverh\u00e4ltnisse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000900319"
+        },
+        "body": "<P>Vorschriften dieses Gesetzes f\u00fcr Beamte sind auf andere \u00f6ffentlich-rechtliche Dienst- oder Amtsverh\u00e4ltnisse entsprechend anzuwenden. \u00a7 48 gilt nicht bei der Berufung zum Richter an einem obersten Bundesgericht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012601301",
+        "name": "\u00a7 116",
+        "title": "Endg\u00fcltige Entscheidung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000900319"
+        },
+        "body": "<P>(1) Das Bundesministerium der Finanzen entscheidet in den F\u00e4llen des \u00a7 37 Abs. 1 endg\u00fcltig. Soweit dieses Gesetz in anderen F\u00e4llen Befugnisse des Bundesministeriums der Finanzen enth\u00e4lt, kann der zust\u00e4ndige Bundesminister \u00fcber die Ma\u00dfnahme des Bundesministeriums der Finanzen die Entscheidung der Bundesregierung einholen; die Bundesregierung entscheidet anstelle des Bundesministeriums der Finanzen endg\u00fcltig. Entscheidet die Bundesregierung gegen oder ohne die Stimme des Bundesministers der Finanzen, so steht ihm ein Widerspruchsrecht zu. Das N\u00e4here regelt die Gesch\u00e4ftsordnung der Bundesregierung.</P><P>(2) Der Einwilligung des Bundesministeriums der Finanzen bedarf es ausnahmsweise nicht, wenn sofortiges Handeln zur Abwendung einer dem Bund drohenden unmittelbar bevorstehenden Gefahr erforderlich ist, das durch die Notlage gebotene Ma\u00df nicht \u00fcberschritten wird und die Einwilligung nicht rechtzeitig eingeholt werden kann. Zu den getroffenen Ma\u00dfnahmen ist die Genehmigung des Bundesministeriums der Finanzen unverz\u00fcglich einzuholen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012700319",
+        "name": "\u00a7 117",
+        "title": "Berlin-Klausel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000900319"
+        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012800319",
+        "name": "\u00a7 118",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000900319"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR012840969BJNE012901309",
+        "name": "\u00a7 119",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR012840969BJNG000900319"
+        },
+        "body": "<P>(1) Dieses Gesetz tritt am 1. Januar 1970 in Kraft.</P><P><I>(2) ... Ferner treten diejenigen Vorschriften anderer Gesetze au\u00dfer Kraft, die mit den Bestimmungen dieses Gesetzes nicht vereinbar sind.</I></P><P><I>(3) Soweit in anderen Gesetzen auf die nach Absatz 2 aufgehobenen Bestimmungen Bezug genommen wird, treten an ihre Stelle die Vorschriften dieses Gesetzes.</I></P><P>(4)</P><P>(5)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

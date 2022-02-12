@@ -1,0 +1,207 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR017459971",
+    "firstPublished": "1971-11-04",
+    "sourceTimestamp": "20130405125846",
+    "titleShort": null,
+    "titleLong": "Gesetz zur Verbesserung des Mietrechts und zur Begrenzung des Mietanstiegs sowie zur Regelung von Ingenieur- und Architektenleistungen",
+    "abbreviation": "MietRVerbG",
+    "slug": "mietrverbg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1971, 1745",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 209 Abs. 5 G v. 19.4.2006 I 866",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 10.11.1971 +++)<BR /><BR /></pre>Art. 9: WoVermRG 402-24-8 <BR />Art. 10: ArchLG 402-24-8</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR017459971BJNE001200301",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000100301",
+        "name": "Art 1",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000200301",
+        "name": "Art 2",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000300301",
+        "name": "Art 3",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000401377",
+        "name": "Art 4",
+        "title": "(weggefallen)",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000500301",
+        "name": "Art 5",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000600301",
+        "name": "Art 6",
+        "title": "Verbot der Zweckentfremdung von Wohnraum",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017459971BJNE001301307",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017459971BJNG000600301"
+        },
+        "body": "<P>(1) Die Landesregierungen werden erm\u00e4chtigt, f\u00fcr Gemeinden, in denen die Versorgung der Bev\u00f6lkerung mit ausreichendem Wohnraum zu angemessenen Bedingungen besonders gef\u00e4hrdet ist, durch Rechtsverordnung zu bestimmen, da\u00df Wohnraum anderen als Wohnzwecken nur mit Genehmigung der von der Landesregierung bestimmten Stelle zugef\u00fchrt werden darf. Als Aufgabe des Wohnzweckes im Sinne des Satzes 1 ist es auch anzusehen, wenn Wohnraum zum Zwecke einer dauernden Fremdenbeherbergung, insbesondere einer gewerblichen Zimmervermietung oder der Einrichtung von Schlafstellen verwendet werden soll. Einer Genehmigung bedarf es nicht f\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Umwandlung eines Wohnraumes in einen Nebenraum, insbesondere einen Baderaum,</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die anderweitige Verwendung von Wohnraum, der nach dem 31. Mai 1990 unter wesentlichem Bauaufwand aus R\u00e4umen geschaffen wurde, die anderen als Wohnzwecken dienten.</LA></DD> </DL> </P><P>(2) Die Genehmigung kann auch befristet, bedingt oder unter Auflagen erteilt werden. Ist die Wirksamkeit der Genehmigung erloschen, so ist der Raum wieder als Wohnraum zu behandeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P><ABWFORMAT typ=\"A\" />Art. 6 \u00a7 1 Abs. 1 Satz 1: Nach Ma\u00dfgabe des Entscheidungssatzes mit dem GG vereinbar, BVerfGE 4.2.1975 I 699 - 2 BvL 5/74 -</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR017459971BJNE001402377",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017459971BJNG000600301"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer ohne die erforderliche Genehmigung Wohnraum f\u00fcr andere als Wohnzwecke im Sinne des \u00a7 1 Abs. 1 verwendet oder \u00fcberl\u00e4\u00dft.</P><P>(2) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu f\u00fcnfzigtausend Euro geahndet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P><ABWFORMAT typ=\"A\" />Art. 6 \u00a7 2: Nach Ma\u00dfgabe des Entscheidungssatzes mit dem GG vereinbar, BVerfGE 4.2.1975 I 699 - 2 BvL 5/74 -</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR017459971BJNE001502377",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017459971BJNG000600301"
+        },
+        "body": "<P>\u00a7 27 Abs. 7 des Wohnraumf\u00f6rderungsgesetzes und \u00a7 7 Abs. 3 des Wohnungsbindungsgesetzes in Verbindung mit \u00a7 27 Abs. 7 des Wohnraumf\u00f6rderungsgesetzes sowie die landesrechtlichen Vorschriften \u00fcber Belegungsbindungen bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000700301",
+        "name": "Art 7",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000800301",
+        "name": "Art 8",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG000900301",
+        "name": "Art 9",
+        "title": "Gesetz zur Regelung der Wohnungsvermittlung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG001000301",
+        "name": "Art 10",
+        "title": "Gesetz zur Regelung von Ingenieur-\nund Architektenleistungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017459971BJNG001100301",
+        "name": "Art 11",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017459971BJNE001600301",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017459971BJNG001100301"
+        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach \u00a7 14 des Dritten \u00dcberleitungsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017459971BJNE001700301",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017459971BJNG001100301"
+        },
+        "body": "<P>(1) Die Vorschriften dieses Gesetzes treten unbeschadet des Absatzes 2 am Tage nach der Verk\u00fcndung in Kraft.</P><P>(2) Soweit das Mieterschutzgesetz noch in Geltung ist, tritt Artikel 1 mit dessen Au\u00dferkrafttreten in Kraft. Das Inkrafttreten des Artikels 4 gem\u00e4\u00df Absatz 1 bleibt hiervon unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

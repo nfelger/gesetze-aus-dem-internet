@@ -1,0 +1,937 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR017470957",
+    "firstPublished": "1957-11-05",
+    "sourceTimestamp": "20200701212523",
+    "titleShort": "Allgemeines Kriegsfolgengesetz",
+    "titleLong": "Gesetz zur allgemeinen Regelung durch den Krieg und den Zusammenbruch des Deutschen Reiches entstandener Sch\u00e4den",
+    "abbreviation": "AKG",
+    "slug": "akg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1957, 1747",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 214 V v. 19.6.2020 I 1328",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab:  1. 1.1976 +++)<BR /><BR /></pre>Das G gilt mit Ausnahme der \u00a7\u00a7 1 und 2 nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. IV Sachg. A Abschn. I Nr. 12 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 964</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE001703301",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"6\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"10*\" />\n\t\t<colspec colname=\"col5\" colnum=\"5\" colwidth=\"60*\" />\n\t\t<colspec colname=\"col6\" colnum=\"6\" colwidth=\"15*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">ERSTER TEIL</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Allgemeine Vorschriften</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erl\u00f6schen von Anspr\u00fcchen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 1</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gleichgestellte Anspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 2</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Dem Gesetz nicht unterliegende Sch\u00e4den und Anspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 3</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">ZWEITER TEIL</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Zu erf\u00fcllende Anspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche aus der Nachkriegszeit</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 4</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Versorgungs- und Schadensersatzanspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 5</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wohnsitzvoraussetzungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 6</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche aus gegenseitigen Vertr\u00e4gen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 7</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Aufl\u00f6sung von Vertr\u00e4gen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 8</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche aus Grundst\u00fccks\u00fcbereignungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 9</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche aus Grundpfandrechten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 10</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche auf Nutzungsentsch\u00e4digung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 11</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche aus Verwahrungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 12</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche auf Abgabe von Erkl\u00e4rungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 13</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche aus Urteilen und Schiedsspr\u00fcchen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 14</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ausgleichungsanspr\u00fcche</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 15</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gesetzeskonkurrenz</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 16</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zul\u00e4ssigkeit von Aufrechnungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 17</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Umstellung von Reichsmarkanspr\u00fcchen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 18</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche aus dinglichen Rechten und aus der Beeintr\u00e4chtigung dieser Rechte</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 19</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verweigerung der Herausgabe von Grundst\u00fccken</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 20</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Beweisregel</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 21</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Enteignungsrecht</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 22</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erwerbspflicht der \u00f6ffentlichen Hand bei Grundst\u00fccksbesitz</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 23</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Erwerbspflicht der \u00f6ffentlichen Hand bei Grundst\u00fccksbeeintr\u00e4chtigungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 24</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspruchsschuldner</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 25</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anmeldung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 26</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anmeldestellen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 27</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anmeldefrist, Nachsichtgew\u00e4hrung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 28</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Klagefrist</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 29</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">DRITTER TEIL (\u00a7\u00a7 30 - 67)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">VIERTER TEIL (\u00a7\u00a7 68 - 84)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">F\u00dcNFTER TEIL (\u00a7 85)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">(weggefallen)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">SECHSTER TEIL</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Schlu\u00dfvorschriften</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">\n\t\t\t\t\t<SP>Erster Abschnitt</SP>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">\n\t\t\t\t\t<B>Vertragshilfevorschriften</B>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">\n\t\t\t\t\t<SP>Erster Titel</SP>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">\n\t\t\t\t\t<I>\u00c4nderung des Vertragshilfegesetzes</I>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\n\t\t\t\t\t<I>Aufhebung von Gesetzesvorschriften</I>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 86</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">\n\t\t\t\t\t<SP>Zweiter Titel</SP>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">\n\t\t\t\t\t<SP>Stundung und Herabsetzung von Anspr\u00fcchen aus Schuldverschreibungen</SP>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Stundung und Herabsetzung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 87</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Vertretung der Gl\u00e4ubiger</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 88</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Versammlung der Gl\u00e4ubiger</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 89</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besonderheiten des Verfahrens</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 90</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Fr\u00fchere Vertragshilfeentscheidungen, Erledigung anh\u00e4ngiger Verfahren</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 91</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">\n\t\t\t\t\t<SP>Zweiter Abschnitt</SP>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">\n\t\t\t\t\t<B>Aufl\u00f6sung der auf Grund des Anleihestockgesetzes und der Dividendenabgabeverordnung gebildeten Treuhandverm\u00f6gen</B>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verwaltung der nach dem Anleihestockgesetz und der Dividendenabgabeverordnung gebildeten Sonderverm\u00f6gen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 92</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verwertung der Abl\u00f6sungsschuld und Aussch\u00fcttung</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 93</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonderverm\u00f6gen eigener Art</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 94</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">\n\t\t\t\t\t<SP> Dritter Abschnitt</SP>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">\n\t\t\t\t\t<B> Sonstige Schlu\u00dfvorschriften</B>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Unmittelbare Haftung der Beamten aus Amtspflichtverletzungen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 95</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\n\t\t\t\t\t<I>\u00c4nderung des Einkommensteuergesetzes</I>\n\t\t\t\t</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 96</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zusatzversorgungsanstalten des \u00f6ffentlichen Dienstes</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 97</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Abl\u00f6sungsschuld der Deutschen Bundesbahn</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 98</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Nachversicherung ausgeschiedener Angeh\u00f6riger des \u00f6ffentlichen Dienstes</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 99</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Kraftloswerden von Wertpapieren</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 100</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Londoner Schuldenabkommen</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 101</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anspr\u00fcche ausl\u00e4ndischer und staatenloser Gl\u00e4ubiger</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 102</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gerichtliche Verfahren \u00fcber Anspr\u00fcche ausl\u00e4ndischer und staatenloser Gl\u00e4ubiger</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 103</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Regelungen von Verbindlichkeiten der Konversionskasse f\u00fcr deutsche Auslandsschulden</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 104</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Leistungsausschlu\u00df f\u00fcr T\u00e4tigkeit gebietsfremder Beh\u00f6rden</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 105</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Kosten anh\u00e4ngiger Gerichtsverfahren</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 106</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Freistellung von Verwaltungsgeb\u00fchren</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 107</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Amts- und Rechtshilfe</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 108</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sondervorschriften f\u00fcr Berlin</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 109</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sondervorschriften wegen des Saarlandes</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 110</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Berlin-Klausel</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 111</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Inkrafttreten</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a7 112</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG000100311",
+        "name": "Erster Teil",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE001800311",
+        "name": "\u00a7 1",
+        "title": "Erl\u00f6schen von Anspr\u00fcchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000100311"
+        },
+        "body": "<P>(1) Anspr\u00fcche gegen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Deutsche Reich einschlie\u00dflich der Sonderverm\u00f6gen Deutsche Reichsbahn und Deutsche Reichspost,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das ehemalige Land Preu\u00dfen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Unternehmen Reichsautobahnen</LA></DD> </DL>erl\u00f6schen, soweit dieses Gesetz nichts anderes bestimmt.</P><P>(2) Unber\u00fchrt bleiben Gesetze der Bundesrepublik Deutschland, ihrer L\u00e4nder, der Verwaltung des Vereinigten Wirtschaftsgebietes oder Gesetze der Besatzungsm\u00e4chte, in denen Anspr\u00fcche dieser Art geregelt sind oder wegen bisher bestehender Anspr\u00fcche dieser Art Leistungen gew\u00e4hrt werden.</P><P>(3) Absatz 1 steht einer bundesgesetzlichen Regelung nicht entgegen, welche Gl\u00e4ubigern, deren Anspr\u00fcche nach diesem Gesetz nicht zu erf\u00fcllen oder nicht abzul\u00f6sen sind, eine \u00fcber den Rahmen dieses Gesetzes hinausgehende Entsch\u00e4digung gew\u00e4hrt, soweit sich auf Grund der in Durchf\u00fchrung dieses Gesetzes gewonnenen Erfahrungen eine solche weitergehende Entsch\u00e4digung als notwendig erweisen sollte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE001900311",
+        "name": "\u00a7 2",
+        "title": "Gleichgestellte Anspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000100311"
+        },
+        "body": "<P>Die Vorschriften dieses Gesetzes sind entsprechend anzuwenden auf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche, die sich gegen den Bund oder andere \u00f6ffentliche Rechtstr\u00e4ger nur auf Grund der \u00dcbernahme von Verm\u00f6gen oder der Fortf\u00fchrung von Aufgaben der in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4ger richten oder richten k\u00f6nnten;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche gegen den Bund oder andere \u00f6ffentliche Rechtstr\u00e4ger auf Herausgabe von den in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4gern in Besitz genommener Grundst\u00fccke;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche, die sich gegen den Bund oder andere \u00f6ffentliche Rechtstr\u00e4ger richten und auf einer Beeintr\u00e4chtigung oder Verletzung des Eigentums oder eines anderen Rechts an einer Sache oder an einem Recht beruhen, sofern die Beeintr\u00e4chtigung oder Verletzung von einer nach Artikel 89, 90, 134 oder 135 des Grundgesetzes oder in Durchf\u00fchrung des Gesetzes zur vorl\u00e4ufigen Regelung der Rechtsverh\u00e4ltnisse des Reichsverm\u00f6gens und der preu\u00dfischen Beteiligungen vom 21. Juli 1951 (Bundesgesetzbl. I S. 467) in das Eigentum oder in die Verwaltung des Bundes oder eines anderen \u00f6ffentlichen Rechtstr\u00e4gers gelangten Sache ausgeht und die der Beeintr\u00e4chtigung oder Verletzung zugrunde liegende Einwirkung vor dem 24. Mai 1949 verursacht worden ist;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche gegen L\u00e4nder oder Gemeinden (Gemeindeverb\u00e4nde), die aus Ma\u00dfnahmen entstanden sind, welche diese Rechtstr\u00e4ger vor dem 1. August 1945 zur Durchf\u00fchrung von Anordnungen der Besatzungsm\u00e4chte oder zur Beseitigung eines kriegsbedingten Notstandes im Rahmen dem Reich obliegender oder vom Reich \u00fcbertragener Verwaltungsaufgaben getroffen haben. Dies gilt nicht, soweit wegen dieser Anspr\u00fcche ein Rechtstr\u00e4ger durch rechtskr\u00e4ftiges Urteil oder Schiedsspruch zur Erf\u00fcllung verurteilt oder eine Erf\u00fcllungsverpflichtung eines Rechtstr\u00e4gers rechtskr\u00e4ftig festgestellt worden ist.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002000311",
+        "name": "\u00a7 3",
+        "title": "Dem Gesetz nicht unterliegende Sch\u00e4den und Anspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000100311"
+        },
+        "body": "<P>(1) Einer besonderen gesetzlichen Regelung bleiben vorbehalten <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sch\u00e4den, die r\u00fcckerstattungs- oder r\u00fcckgriffspflichtigen Personen in Durchf\u00fchrung der Vorschriften \u00fcber die R\u00fcckerstattung feststellbarer Verm\u00f6gensgegenst\u00e4nde entstanden sind mit Ausnahme der Sch\u00e4den von Personen, die einen der R\u00fcckerstattung unterliegenden Gegenstand ohne angemessene Gegenleistung oder mittels eines gegen die guten Sitten versto\u00dfenden Rechtsgesch\u00e4fts oder durch eine von ihnen oder zu ihren Gunsten ausge\u00fcbte Drohung oder durch widerrechtliche Wegnahme oder durch eine sonstige unerlaubte Handlung erlangt haben;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sch\u00e4den, die im Zusammenhang mit den Ereignissen des zweiten Weltkrieges und der folgenden Besatzungszeit nat\u00fcrlichen Personen deutscher Staatsangeh\u00f6rigkeit oder Volkszugeh\u00f6rigkeit oder diesen gleichzustellenden juristischen Personen privaten oder \u00f6ffentlichen Rechts unmittelbar dadurch entstanden sind oder entstehen werden, da\u00df ihre Verm\u00f6genswerte zum Zwecke der Reparation oder Restitution oder zu einem \u00e4hnlichen Zwecke auf Grund von Gesetzen oder sonstigen Anordnungen fremder Staaten zur Liquidation deutschen Verm\u00f6gens im Ausland oder auf Grund von Anordnungen der Besatzungsm\u00e4chte oder auf Grund von Vereinbarungen, die auf Veranlassung der Besatzungsm\u00e4chte abgeschlossen werden mu\u00dften, endg\u00fcltig entzogen worden sind;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche gegen andere als die in \u00a7 1 Abs. 1 genannten nicht mehr bestehende \u00f6ffentliche Rechtstr\u00e4ger;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche gegen die ehemalige Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), ihre Gliederungen, ihre angeschlossenen Verb\u00e4nde und ihre sonstigen aufgel\u00f6sten Einrichtungen;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sch\u00e4den, welche Versicherungsnehmern dadurch entstehen, da\u00df die Garantieverpflichtungen oder die sonstigen Freistellungsverpflichtungen des Deutschen Reichs gegen\u00fcber der Deutschen Kriegsversicherungsgemeinschaft oder gegen\u00fcber den in \u00a7 24 Abs. 5 des Umstellungsgesetzes bezeichneten Versicherungsunternehmen erl\u00f6schen.</LA></DD> </DL> </P><P>(2) Auf Grund der in Absatz 1 bezeichneten Tatbest\u00e4nde k\u00f6nnen Leistungen vom Bund oder einem anderen \u00f6ffentlichen Rechtstr\u00e4ger bis zum Inkrafttreten der vorbehaltenen gesetzlichen Regelung, l\u00e4ngstens jedoch bis zum 31. M\u00e4rz 1968, nicht verlangt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG000200311",
+        "name": "Zweiter Teil",
+        "title": "Zu erf\u00fcllende Anspr\u00fcche",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002100311",
+        "name": "\u00a7 4",
+        "title": "Anspr\u00fcche aus der Nachkriegszeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Zu erf\u00fcllen sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche (\u00a7 1), die nach dem 31. Juli 1945 durch Rechtsgesch\u00e4fte begr\u00fcndet worden sind;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche (\u00a7 1), die im Zusammenhang mit der Verwaltung im Geltungsbereich dieses Gesetzes belegenen Verm\u00f6gens der in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4ger kraft Gesetzes auf Grund einer nach dem 31. Juli 1945 begangenen Handlung oder Unterlassung entstanden sind;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach dem 31. Juli 1945 enstandenen Anspr\u00fcche (\u00a7 1) auf Zahlung einer Enteignungsentsch\u00e4digung f\u00fcr im Geltungsbereich dieses Gesetzes belegene Grundst\u00fccke und grundst\u00fccksgleiche Rechte.</LA></DD> </DL> </P><P>(2) Absatz 1 ist nicht anzuwenden bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcchen auf Herausgabe von Grundst\u00fccken im Sinne des \u00a7 2 Nr. 2 und Anspr\u00fcchen, die auf einer Beeintr\u00e4chtigung der in \u00a7 2 Nr. 3 bezeichneten Art beruhen; \u00a7 19 bleibt unber\u00fchrt;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcchen auf Erstattung von Verwaltungskosten und sonstigen Aufwendungen, die im Zusammenhang mit der Verwaltung von Verm\u00f6gen der in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4ger anderen \u00f6ffentlichen Rechtstr\u00e4gern entstanden sind; insoweit bleibt eine gesetzliche Regelung vorbehalten.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE013000311",
+        "name": "\u00a7 5",
+        "title": "Versorgungs- und Schadensersatzanspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Zu erf\u00fcllen sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche (\u00a7 1) auf Zahlung von Renten, die der Versorgung der Berechtigten dienen oder auf einer Verletzung des Lebens, des K\u00f6rpers, der Gesundheit oder der Freiheit beruhen, sowie Anspr\u00fcche aus der Kapitalisierung derartigen Renten, soweit Leistungen aus diesen Anspr\u00fcchen f\u00fcr die Zeit nach dem 31. M\u00e4rz 1950 geschuldet werden. Bei Rentenanspr\u00fcchen, die auf Grund oder in sinngem\u00e4\u00dfer Anwendung des Gesetzes \u00fcber den Ausgleich b\u00fcrgerlich-rechtlicher Anspr\u00fcche vom 13. Dezember 1934 (Reichsgesetzbl. I S. 1235) zuerkannt worden sind, gilt dies mit der Ma\u00dfgabe, da\u00df sie in der H\u00f6he zu erf\u00fcllen sind, in der sie nach den Vorschriften des b\u00fcrgerlichen Rechts begr\u00fcndet w\u00e4ren;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche (\u00a7 1), die auf einer Verletzung des Lebens, des K\u00f6rpers, der Gesundheit oder der Freiheit beruhen und nicht auf Zahlung von Renten gerichtet sind, jedoch nicht \u00fcber den Betrag der Leistungen hinaus, die das Bundesentsch\u00e4digungsgesetz f\u00fcr Sch\u00e4den dieser Art vorsieht.</LA></DD> </DL> </P><P>(2) Absatz 1 ist nicht anzuwenden bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcchen auf Zahlung von Vorzugsrenten auf Grund des Gesetzes \u00fcber die Abl\u00f6sung \u00f6ffentlicher Anleihen vom 16. Juli 1925 (Reichsgesetzbl. I S. 137);</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcchen auf Zahlung von Liquidationsrenten zum Ausgleich von im ersten Weltkrieg erlittenen Liquidations- und Gewaltsch\u00e4den;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcchen, die unmittelbar oder mittelbar auf nationalsozialistischen Gewaltma\u00dfnahmen im Sinne des \u00a7 2 des Bundesentsch\u00e4digungsgesetzes beruhen;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcchen, die auf Rechtsverh\u00e4ltnissen der in Artikel 131 des Grundgesetzes bezeichneten Art beruhen.</LA></DD> </DL>Insoweit verbleibt es bei den bundesgesetzlichen Regelungen.</P><P>(3) \u00a7 8 des Zweiten Gesetzes zur \u00dcberleitung von Lasten und Deckungsmitteln auf den Bund (Zweites \u00dcberleitungsgesetz) vom 21. August 1951 (Bundesgesetzbl. I S. 774) wird aufgehoben. Aus \u00a7 7 des vorbezeichneten Gesetzes k\u00f6nnen Anspr\u00fcche der Gesch\u00e4digten gegen den Bund nicht hergeleitet werden. Auf Grund des Zweiten \u00dcberleitungsgesetzes durch Rechtsgesch\u00e4fte oder gerichtliche Entscheidungen bereits zuerkannte Anspr\u00fcche werden durch die Vorschriften dieses Gesetze nicht ber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002200311",
+        "name": "\u00a7 6",
+        "title": "Wohnsitzvoraussetzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Anspr\u00fcche der in \u00a7 5 bezeichneten Art sind nur unter der Voraussetzung zu erf\u00fcllen, da\u00df sie am 31. Dezember 1952 oder, falls sie sp\u00e4ter entstanden sind oder entstehen, im Zeitpunkt ihrer Entstehung zugestanden haben oder zustehen nat\u00fcrlichen Personen, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">am 31. Dezember 1952 ihren Wohnsitz oder st\u00e4ndigen Aufenthalt im Geltungsbereich dieses Gesetzes oder in einem Staat hatten, der die Regierung der Bundesrepublik Deutschland am 1. April 1956 anerkannt hatte, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">am 31. Dezember 1952 Angeh\u00f6rige eines Gl\u00e4ubigerstaates waren, demgegen\u00fcber das Abkommen vom 27. Februar 1953 \u00fcber deutsche Auslandsschulden (Bundesgesetzblatt II S. 331) wirksam ist oder wird, oder</LA></DD> <DT>2a.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach dem 31. Dezember 1952 aus der sowjetischen Besatzungszone oder aus dem Sowjetsektor von Berlin, ohne da\u00df sie dort durch ihr Verhalten gegen die Grunds\u00e4tze der Menschlichkeit oder Rechtsstaatlichkeit versto\u00dfen haben, im Wege der Notaufnahme oder eines vergleichbaren Verfahrens zugezogen sind und am 31. Dezember 1961 oder am 31. Dezember 1964 ihren Wohnsitz oder st\u00e4ndigen Aufenthalt im Geltungsbereich dieses Gesetzes gehabt haben oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach dem 31. Dezember 1952 im Geltungsbereich dieses Gesetzes ihren Wohnsitz begr\u00fcndet haben oder begr\u00fcnden oder st\u00e4ndigen Aufenthalt genommen haben oder nehmen<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">als Vertriebene (Aussiedler) gem\u00e4\u00df \u00a7 11 Abs. 2 Nr. 3 des Lastenausgleichsgesetzes sp\u00e4testens sechs Monate nach dem Zeitpunkt, in dem sie die zur Zeit unter fremder Verwaltung stehenden deutschen Ostgebiete oder das Gebiet desjenigen Staates, aus dem sie vertrieben oder ausgesiedelt worden sind, verlassen haben; hierbei werden solche Zeiten nicht mitgerechnet, in denen ein Vertriebener nach Verlassen eines der in \u00a7 11 Abs. 2 Nr. 3 des Lastenausgleichsgesetzes bezeichneten Staaten, aus dem er vertrieben oder ausgesiedelt worden ist, in einem anderen der dort bezeichneten Staaten sich aufgehalten hat, ferner nicht solche Zeiten, in denen er oder ein mit ihm ausgesiedelter Familienangeh\u00f6riger im Anschlu\u00df an die Aussiedlung erkrankt und infolgedessen zur Fortsetzung der Reise au\u00dferstande war, sowie solche Zeiten, in denen er oder ein mit ihm ausgesiedelter Familienangeh\u00f6riger in der sowjetischen Besatzungszone oder im sowjetisch besetzten Sektor von Berlin aus Gr\u00fcnden, die er nicht zu vertreten hat, gewaltsam festgehalten worden ist; oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">als Heimkehrer nach den Vorschriften des Heimkehrergesetzes oder</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">als Sowjetzonenfl\u00fcchtlinge im Sinne des \u00a7 3 des Bundesvertriebenengesetzes oder</LA></DD> <DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">im Wege der Familienzusammenf\u00fchrung mit einer Person, die schon am 31. Dezember 1952 im Geltungsbereich dieses Gesetzes den Wohnsitz oder st\u00e4ndigen Aufenthalt hatte oder unter Buchstaben a, b oder c oder unter Nummer 2a f\u00e4llt. Als Familienzusammenf\u00fchrung gilt die Zusammenf\u00fchrung<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">von Ehegatten,</LA></DD> <DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">von minderj\u00e4hrigen Kindern zu den Eltern,</LA></DD> <DT>cc)</DT><DD Font=\"normal\"><LA Size=\"normal\">von hilfsbed\u00fcrftigen Eltern zu Kindern, wobei auch Schwiegerkinder zu ber\u00fccksichtigen sind, wenn das einzige oder letzte Kind verstorben oder verschollen ist,</LA></DD> <DT>dd)</DT><DD Font=\"normal\"><LA Size=\"normal\">von hilfsbed\u00fcrftigen Gro\u00dfeltern zu Enkelkindern,</LA></DD> <DT>ee)</DT><DD Font=\"normal\"><LA Size=\"normal\">von vollj\u00e4hrigen hilfsbed\u00fcrftigen oder in Ausbildung stehenden Kindern zu den Eltern,</LA></DD> <DT>ff)</DT><DD Font=\"normal\"><LA Size=\"normal\">von minderj\u00e4hrigen Kindern zu den Gro\u00dfeltern, wenn die Eltern nicht mehr leben oder sich ihrer nicht annehmen k\u00f6nnen,</LA></DD> <DT>gg)</DT><DD Font=\"normal\"><LA Size=\"normal\">von Minderj\u00e4hrigen oder Hilfsbed\u00fcrftigen zu Geschwistern, wenn Verwandte der geraden Linie nicht mehr leben oder sich ihrer nicht annehmen k\u00f6nnen.</LA></DD> </DL></LA><LA Size=\"normal\">Wer das 65. Lebensjahr vollendet hat, gilt als hilfsbed\u00fcrftig.</LA></DD>  </DL> </LA></DD> </DL></P><P>(2) Standen oder stehen zu dem in Absatz 1 bezeichneten Zeitpunkt Anspr\u00fcche der in \u00a7 5 bezeichneten Art einer Erbengemeinschaft oder ehelichen G\u00fctergemeinschaft zu, so sind die Anspr\u00fcche auch dann zu erf\u00fcllen, wenn die Voraussetzungen des Absatzes 1 Nr. 1 bis 3 in der Person eines der Mitberechtigten gegeben sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002300311",
+        "name": "\u00a7 7",
+        "title": "Anspr\u00fcche aus gegenseitigen Vertr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Zu erf\u00fcllen sind Anspr\u00fcche (\u00a7 1) aus einem gegenseitigen Vertrag, den ein in \u00a7 1 Abs. 1 genannter Rechtstr\u00e4ger vor dem 1. August 1945 geschlossen hat und der bis zu diesem Zeitpunkt von dem anderen Vertragsteil nicht vollst\u00e4ndig erf\u00fcllt war, wenn der an dem Vertrag beteiligte Rechtstr\u00e4ger (\u00a7 1 Abs. 1) oder dessen Verm\u00f6gens- oder Aufgabennachfolger nach dem 31. Juli 1945 und vor dem Inkrafttreten dieses Gesetzes die Erf\u00fcllung des Vertrages verlangt oder eine Leistung oder Teilleistung als Erf\u00fcllung angenommen oder in sonstiger Weise erkl\u00e4rt hat, da\u00df er an dem Vertrag festhalte. Sind die beiderseitigen Leistungen teilbar, so sind die Anspr\u00fcche nur insoweit zu erf\u00fcllen, als sie einer nach dem 31. Juli 1945 erbrachten Teilleistung des anderen Vertragsteils entsprechen.</P><P>(2) Steht einem Rechtstr\u00e4ger des \u00a7 1 Abs. 1 auf Grund des gegenseitigen Vertrages ein Anspruch auf Verschaffung des Eigentums an einem Grundst\u00fcck oder Verschaffung eines Erbbaurechts zu und befindet sich das Grundst\u00fcck im Besitz des Rechtstr\u00e4gers oder seines Verm\u00f6gens- oder Aufgabennachfolgers, so kann die Erkl\u00e4rung, da\u00df an dem Vertrag festgehalten werde, noch innerhalb eines Jahres seit dem Inkrafttreten dieses Gesetzes abgegeben werden. Verlangt der andere Vertragsteil von dem Besitzer des Grundst\u00fccks oder dem Anspruchsschuldner (\u00a7 25) die Abgabe einer Erkl\u00e4rung, ob an dem Vertrag festgehalten werde, so kann diese Erkl\u00e4rung nur innerhalb einer Frist von drei Monaten seit Zugang des Verlangens abgegeben werden. Die Frist wird auch dadurch in Lauf gesetzt, da\u00df der andere Vertragsteil die Abgabe der Erkl\u00e4rung vom Bund verlangt.</P><P>(3) Absatz 1 ist nicht anzuwenden bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcchen aus einer vor dem 1. August 1945 begangenen Vertragsverletzung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcchen, die daraus hergeleitet werden, da\u00df eine auf Grund des Vertrages zur\u00fcckzugebende Sache vor dem 1. August 1945 ver\u00e4ndert oder verschlechtert worden oder untergegangen ist oder aus einem anderen vor dem 1. August 1945 eingetretenen Grunde nicht zur\u00fcckgegeben werden kann.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002400311",
+        "name": "\u00a7 8",
+        "title": "Aufl\u00f6sung von Vertr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Ist bei einem Vertrag der in \u00a7 7 Abs. 1 bezeichneten Art innerhalb der in \u00a7 7 Abs. 1 oder 2 bezeichneten Fristen erkl\u00e4rt worden, da\u00df an dem Vertrag festgehalten werde, so kann der andere Vertragsteil von dem Vertrag zur\u00fccktreten, wenn und soweit ihm nach den Umst\u00e4nden die Erf\u00fcllung nicht zugemutet werden kann. Die R\u00fccktrittserkl\u00e4rung kann gegen\u00fcber dem an dem Vertrag beteiligten Rechtstr\u00e4ger (\u00a7 1 Abs. 1) oder dessen Verm\u00f6gens- oder Aufgabennachfolger oder in jedem Fall gegen\u00fcber dem Bund abgegeben werden. Der R\u00fccktritt kann nur innerhalb von drei Monaten erkl\u00e4rt werden. Die Frist beginnt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit dem Inkrafttreten dieses Gesetzes, wenn die Erkl\u00e4rung, da\u00df an dem Vertrag festgehalten werde, vor dem Inkrafttreten dieses Gesetzes zugegangen ist,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit dem Zugang einer solchen Erkl\u00e4rung, wenn sie nach dem Inkrafttreten dieses Gesetzes zugegangen ist.</LA></DD> </DL> </P><P>(2) Ist bei einem Vertrag der in \u00a7 7 Abs. 1 bezeichneten Art nicht innerhalb der in \u00a7 7 Abs. 1 und 2 bezeichneten Fristen erkl\u00e4rt worden, da\u00df an dem Vertrag festgehalten werde, so gilt der Vertrag als mit dem 31. Juli 1945 aufgel\u00f6st.</P><P>(3) Soweit ein R\u00fccktritt nach Absatz 1 erkl\u00e4rt ist oder der Vertrag nach Absatz 2 als aufgel\u00f6st gilt, hat jeder Vertragsteil eine auf Grund des Vertrages empfangene Leistung dem anderen Vertragsteil nach den Vorschriften \u00fcber die Herausgabe einer ungerechtfertigten Bereicherung zur\u00fcckzugew\u00e4hren. Eine Verpflichtung der Rechtstr\u00e4ger (\u00a7 1 Abs. 1) zur R\u00fcckgew\u00e4hr einer vor dem 1. August 1945 empfangenen Leistung besteht jedoch nicht. Weitergehende Anspr\u00fcche der Vertragsteile aus Rechten an einer Sache oder an einem Recht bleiben unber\u00fchrt, soweit sich nicht aus \u00a7\u00a7 19, 20 etwas anderes ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002501301",
+        "name": "\u00a7 9",
+        "title": "Anspr\u00fcche aus Grundst\u00fccks\u00fcbereignungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Zu erf\u00fcllen sind Anspr\u00fcche (\u00a7 1) auf Leistung eines Kaufpreises, einer Enteignungsentsch\u00e4digung oder eines sonstigen Entgelts f\u00fcr im Geltungsbereich dieses Gesetzes belegene Grundst\u00fccke, die ein in \u00a7 1 Abs. 1 genannter Rechtstr\u00e4ger vor dem 1. August 1945 zu Eigentum erworben hat. Anspr\u00fcche, die nicht auf Geld oder auf einen Wertausgleich in Geld gerichtet sind, sind in H\u00f6he des Betrages zu erf\u00fcllen, der in entsprechender Anwendung der \u00a7\u00a7 45, 46 der Insolvenzordnung zu ermitteln ist. F\u00fcr die Wertermittlung sind die Verh\u00e4ltnisse im Zeitpunkt des Vertragsabschlusses oder der Rechtskraft des Entsch\u00e4digungsbeschlusses ma\u00dfgeblich. Die S\u00e4tze 1 bis 3 gelten entsprechend f\u00fcr grundst\u00fccksgleiche Rechte.</P><P>(2) Absatz 1 ist entsprechend anzuwenden auf Anspr\u00fcche (\u00a7 1), die auf Grund der Zweiten Verordnung zur Durchf\u00fchrung des Schutzbereichgesetzes vom 11. Oktober 1939 (Reichsgesetzbl. I S. 2066) geschuldet werden, wenn das in Anspruch genommene Grundst\u00fcck im Geltungsbereich dieses Gesetzes belegen ist.</P><P>(3) War bei einer Enteignung auf Grund der Vorschriften \u00fcber die Landbeschaffung f\u00fcr Zwecke der Wehrmacht die Entsch\u00e4digung vor dem 1. Juli 1944 nicht rechtskr\u00e4ftig festgesetzt, so kann, sofern der Entsch\u00e4digungsanspruch nach diesem Gesetz zu erf\u00fcllen ist, die Festsetzung der Entsch\u00e4digung oder die \u00c4nderung der Festsetzung durch Klage im Rechtsweg vor den ordentlichen Gerichten verlangt werden. Dies gilt nicht, wenn das Reichsverwaltungsgericht \u00fcber die Entsch\u00e4digung entschieden hat. Ausschlie\u00dflich zust\u00e4ndig ist das Landgericht, in dessen Bezirk das enteignete Grundst\u00fcck oder das grundst\u00fccksgleiche Recht ganz oder zum gr\u00f6\u00dferen Teil belegen ist. Die Klage kann nur innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes erhoben werden; diese Frist gilt als eine Notfrist im Sinne der Zivilproze\u00dfordnung. Auf das gerichtliche Verfahren sind die f\u00fcr b\u00fcrgerliche Rechtsstreitigkeiten geltenden Vorschriften anzuwenden. Der Ablauf der Frist, die in Artikel III der Verordnung des Zentral-Justizamts f\u00fcr die Britische Zone \u00fcber die Abwicklung von Entsch\u00e4digungsanspr\u00fcchen auf Grund der Vorschriften \u00fcber die Landbeschaffung f\u00fcr Zwecke der Wehrmacht vom 27. April 1948 in der Fassung der Verordnung vom 5. Januar 1949 (Verordnungblatt f\u00fcr die Britische Zone 1948 S. 110; 1949 S. 16) bestimmt war, steht der Klageerhebung nicht entgegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002600311",
+        "name": "\u00a7 10",
+        "title": "Anspr\u00fcche aus Grundpfandrechten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Zu erf\u00fcllen sind Anspr\u00fcche (\u00a7 1) aus Hypotheken, Grundschulden, Rentenschulden, Reallasten und Schiffshypotheken sowie die durch diese Pfandrechte gesicherten Anspr\u00fcche, soweit die Pfandrechte auf im Geltungsbereich dieses Gesetzes belegenen Grundst\u00fccken oder grundst\u00fccksgleichen Rechten ruhen oder in einem Schiffsregister oder Schiffsbauregister im Geltungsbereich dieses Gesetzes eingetragen und vor dem 1. August 1945 bestellt worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002700311",
+        "name": "\u00a7 11",
+        "title": "Anspr\u00fcche auf Nutzungsentsch\u00e4digung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Anspr\u00fcche (\u00a7 1) auf Nutzungsentsch\u00e4digung, die auf einem vor dem 1. August 1945 begr\u00fcndeten Rechtsverh\u00e4ltnis beruhen und f\u00fcr die Zeit nach dem 31. Juli 1945 geschuldet werden, sind zu erf\u00fcllen, wenn und soweit der Besitz an der Sache nach diesem Zeitpunkt im Geltungsbereich dieses Gesetzes von den in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4gern oder im Zusammenhang mit der Verwaltung von Verm\u00f6gensgegenst\u00e4nden dieser Rechtstr\u00e4ger von anderen f\u00fcr diese zu handeln befugten Rechtstr\u00e4gern in Anspruch genommen worden ist. Die H\u00f6he der Nutzungsentsch\u00e4digung bestimmt sich nach dem orts\u00fcblich angemessenen Entgelt, Werterh\u00f6hungen, die auf Ma\u00dfnahmen der Rechtstr\u00e4ger (\u00a7 1 Abs. 1) beruhen, bleiben hierbei au\u00dfer Betracht. Die Nutzungsentsch\u00e4digung gilt als im Zeitpunkt der Inbesitznahme der Sache vereinbart.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002800311",
+        "name": "\u00a7 12",
+        "title": "Anspr\u00fcche aus Verwahrungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Zu erf\u00fcllen sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche (\u00a7 1) auf Herausgabe von Verm\u00f6gensgegenst\u00e4nden, die von den in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4gern f\u00fcr einen anderen verwahrt oder verwaltet worden sind, soweit die Verm\u00f6gensgegenst\u00e4nde bei den Anspruchsschuldnern (\u00a7 25) noch vorhanden sind;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Anspr\u00fcche (\u00a7 1) auf Schadensersatz, die auf einer Verletzung der in Nummer 1 bezeichneten Rechtsverh\u00e4ltnisse beruhen, soweit die zum Schadensersatz verpflichtende Handlung oder Unterlassung nach dem 31. Juli 1945 im Geltungsbereich dieses Gesetzes begangen worden ist.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE002900311",
+        "name": "\u00a7 13",
+        "title": "Anspr\u00fcche auf Abgabe von Erkl\u00e4rungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Zu erf\u00fcllen sind Anspr\u00fcche (\u00a7 1) auf Erteilung von Ausk\u00fcnften, Quittungen, Arbeitsbescheinigungen, Zeugnissen und \u00e4hnlichen Bescheinigungen sowie auf Abgabe von Erkl\u00e4rungen gegen\u00fcber den \u00f6ffentlichen Registerbeh\u00f6rden, den Grundbuch\u00e4mtern und dem Deutschen Patentamt, soweit der Inhalt der Register und Grundb\u00fccher mit der wirklichen Rechtslage nicht mehr im Einklang steht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003000311",
+        "name": "\u00a7 14",
+        "title": "Anspr\u00fcche aus Urteilen und Schiedsspr\u00fcchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Zu erf\u00fcllen sind Anspr\u00fcche (\u00a7 1), soweit durch rechtskr\u00e4ftiges Urteil oder Schiedsspruch der Bund, ein Land oder ein sonstiger \u00f6ffentlicher Rechtstr\u00e4ger mit Ausnahme der in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4ger dem Grunde oder der H\u00f6he nach zur Erf\u00fcllung verurteilt oder eine Erf\u00fcllungsverpflichtung eines solchen Rechtstr\u00e4gers festgestellt worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003100311",
+        "name": "\u00a7 15",
+        "title": "Ausgleichsanspr\u00fcche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Haftet neben einem der in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4ger wegen eines nach diesem Gesetz zu erf\u00fcllenden Anspruchs (\u00a7 1) ein anderer als Gesamtschuldner, so ist der diesem Gesamtschuldner zustehende Ausgleichsanspruch (\u00a7 426 des B\u00fcrgerlichen Gesetzbuchs) zu erf\u00fcllen. Ist der Anspruch (\u00a7 1) nach diesem Gesetz nur zum Teil zu erf\u00fcllen, so ist auch der Ausgleichsanspruch nur zu einem entsprechenden Teil zu erf\u00fcllen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003200311",
+        "name": "\u00a7 16",
+        "title": "Gesetzeskonkurrenz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Ist ein Anspruch (\u00a7 1) nach einer Vorschrift dieses Teils zu erf\u00fcllen, so steht dieser Erf\u00fcllungsverpflichtung nicht entgegen, da\u00df der Anspruch nach einer anderen Vorschrift dieses Teils nicht oder nur in geringerem Umfang zu erf\u00fcllen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003300311",
+        "name": "\u00a7 17",
+        "title": "Zul\u00e4ssigkeit von Aufrechnungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Die Vorschriften dieses Gesetzes stehen der Aufrechnung mit einem Anspruch (\u00a7 1), dessen Erf\u00fcllung in diesem Gesetz nicht vorgesehen ist, nicht entgegen. \u00a7 395 des B\u00fcrgerlichen Gesetzbuchs ist nicht anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003400311",
+        "name": "\u00a7 18",
+        "title": "Umstellung von Reichsmarkanspr\u00fcchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>\u00a7 14 des Umstellungsgesetzes tritt hinsichtlich der in \u00a7\u00a7 4 bis 15 und 19 bezeichneten, bisher nicht umgestellten Anspr\u00fcche au\u00dfer Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003500311",
+        "name": "\u00a7 19",
+        "title": "Anspr\u00fcche aus dinglichen Rechten und aus der Beeintr\u00e4chtigung\ndieser Rechte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Anspr\u00fcche (\u00a7 1) aus dem Eigentum oder anderen Rechten an einer Sache auf Herausgabe der Sache sind zu erf\u00fcllen. Bei einem Anspruch auf Herausgabe eines Grundst\u00fccks finden die Vorschriften des B\u00fcrgerlichen Gesetzbuchs \u00fcber Anspr\u00fcche aus dem Eigentum mit der Ma\u00dfgabe Anwendung, da\u00df bis zum Ablauf der in \u00a7 20 Abs. 1 bezeichneten Fristen die in \u00a7\u00a7 987 bis 992 des B\u00fcrgerlichen Gesetzbuchs bezeichneten Voraussetzungen als nicht vorliegend zu erachten sind. Anspr\u00fcche auf Nutzungsentsch\u00e4digung nach \u00a7 11 bleiben unber\u00fchrt.</P><P>(2) Anspr\u00fcche (\u00a7 1), die auf einer sonstigen Beeintr\u00e4chtigung oder Verletzung des Eigentums oder anderer Rechte an einer Sache oder an einem Recht beruhen, sind nur dann zu erf\u00fcllen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn die Erf\u00fcllung des Anspruchs zur Abwendung einer unmittelbaren Gefahr f\u00fcr Leben oder Gesundheit erforderlich ist oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Beeintr\u00e4chtigung oder Verletzung eine nach dem 31. Juli 1945 begangene Handlung zugrunde liegt, es sei denn, da\u00df die Beeintr\u00e4chtigung oder Verletzung auf Veranlassung der Besatzungsm\u00e4chte erfolgt ist. Bei einem Beseitigungsanspruch kann der Anspruchsschuldner (\u00a7 25) den Anspruchsberechtigten in Geld entsch\u00e4digen. Dies gilt jedoch nicht, wenn die Voraussetzungen der Nummer 1 vorliegen. Die Entsch\u00e4digung soll den gemeinen Wert der Sache oder des Rechts nicht \u00fcbersteigen, den diese ohne Beeintr\u00e4chtigung haben w\u00fcrden.</LA></DD> </DL> </P><P>(3) Sonstige Anspr\u00fcche (\u00a7 1) aus dem Eigentum oder anderen Rechten an einer Sache oder an einem Recht sind zu erf\u00fcllen. Dies gilt nicht f\u00fcr Anspr\u00fcche auf Zahlung von Geld oder auf Leistung einer sonstigen vertretbaren Sache, die vor dem 1. August 1945 f\u00e4llig geworden sind.</P><P>(4) Hypotheken, Grundschulden, Rentenschulden, Reallasten, Schiffshypotheken und sonstige Pfandrechte erl\u00f6schen, soweit die durch sie gesicherten Anspr\u00fcche (\u00a7 1) nicht zu erf\u00fcllen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003600311",
+        "name": "\u00a7 20",
+        "title": "Verweigerung der Herausgabe von Grundst\u00fccken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Der Anspruchsschuldner (\u00a7 25) kann, auch wenn ihm ein Recht zum Besitz nicht zusteht, die Herausgabe eines Grundst\u00fccks an den Berechtigten verweigern <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zum Ablauf eines Jahres nach dem Zeitpunkt, in dem der Berechtigte die Herausgabe des Grundst\u00fccks vom Schuldner verlangt. Ist der Herausgabeschuldner nicht der Bund, so beginnt die Frist auch dann, wenn der Berechtigte die Herausgabe anstatt vom Schuldner vom Bund verlangt;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zur Beendigung eines Enteignungsverfahrens, das innerhalb der in Nummer 1 bezeichneten Frist nach \u00a7 22 beantragt wird.</LA></DD> </DL> </P><P>(2) Auf ein Besitzrecht, das nur auf einer vor dem 1. August 1945 vorgenommenen \u00f6ffentlich-rechtlichen Inanspruchnahme beruht, kann sich der Anspruchsschuldner unbeschadet der Vorschrift des Absatzes 1 nicht berufen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003700311",
+        "name": "\u00a7 21",
+        "title": "Beweisregel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Ist streitig, ob ein Anspruch (\u00a7 1) erf\u00fcllt ist, und sind die Beweismittel infolge des Krieges oder des Zusammenbruchs verlorengegangen oder unerreichbar geworden, so wird, wenn der Anspruchsschuldner (\u00a7 25) erhebliche, f\u00fcr die Erf\u00fcllung sprechende Umst\u00e4nde dartut, vermutet, da\u00df der Anspruch erloschen ist. Satz 1 gilt entsprechend f\u00fcr die Gegenanspr\u00fcche der in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4ger.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003800311",
+        "name": "\u00a7 22",
+        "title": "Enteignungsrecht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Soweit ein Grundst\u00fcck, das ein in \u00a7 1 Abs. 1 genannter Rechtstr\u00e4ger anders als auf Grund eines Kauf- oder Tauschvertrages in Besitz genommen hat, zum Wohle der Allgemeinheit ben\u00f6tigt wird, kann der Anspruchsschuldner (\u00a7 25) die Enteignung nach den Vorschriften des Absatzes 2 innerhalb der in \u00a7 20 Abs. 1 Nr. 1 bezeichneten Frist beantragen.</P><P>(2) F\u00fcr die Enteignung gelten die Vorschriften des Zweiten und des Dritten Teils sowie der \u00a7\u00a7 67, 68, 71, 73, <I>74</I> des Landbeschaffungsgesetzes vom 23. Februar 1957 (Bundesgesetzbl. I S. 134) sinngem\u00e4\u00df mit folgender Ma\u00dfgabe: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abweichend von \u00a7 17 Abs. 3 des genannten Gesetzes ist f\u00fcr die Bemessung der Entsch\u00e4digung der Zustand des Grundst\u00fccks in dem Zeitpunkt ma\u00dfgebend, in dem ein in \u00a7 1 Abs. 1 genannter Rechtstr\u00e4ger das Grundst\u00fcck in Besitz genommen hat. Ist der Zustand in dem Zeitpunkt schlechter, in dem die Enteignungsbeh\u00f6rde \u00fcber den Antrag entscheidet, so ist er ma\u00dfgebend, jedoch ist in diesem Fall eine zus\u00e4tzliche Entsch\u00e4digung f\u00fcr eine Wertminderung festzusetzen, die von den in \u00a7 1 Abs. 1 genannten oder mit der Verwaltung des Grundst\u00fccks betrauten Rechtstr\u00e4gern nach dem 31. Juli 1945 verursacht worden ist, es sei denn, da\u00df die Wertminderung von den Besatzungsm\u00e4chten veranla\u00dft worden ist. Als Verschlechterung des Zustandes gilt nicht eine Ver\u00e4nderung des Grundst\u00fccks zu einem Zweck, f\u00fcr den das Grundst\u00fcck im Zeitpunkt der Enteignung genutzt wird.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die in \u00a7 17 Abs. 4 des genannten Gesetzes vorgesehene Verzinsung beginnt mit dem Zeitpunkt, in dem der Enteignungsbeschlu\u00df erlassen wird.</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Entsch\u00e4digung ist um bereits geleistete Wertentsch\u00e4digungen zu mindern, und zwar, soweit sie vor dem 21. Juni 1948 geleistet worden sind, im Verh\u00e4ltnis von einer Reichsmark zu einer Deutschen Mark.</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Entsch\u00e4digung kann auf Antrag ganz oder teilweise in Land festgesetzt werden, wenn diese Art der Entsch\u00e4digung unter gerechter Abw\u00e4gung der Interessen der Allgemeinheit und der Beteiligten nach pflichtm\u00e4\u00dfigem Ermessen der Enteignungsbeh\u00f6rde billig ist.</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ist nach \u00a7 25 dieses Gesetzes ein anderer Rechtstr\u00e4ger als der Bund der Anspruchsschuldner und hat dieser die Enteignung beantragt, so gelten die Vorschriften des genannten Gesetzes, die den Bund erw\u00e4hnen, statt f\u00fcr den Bund f\u00fcr diesen Rechtstr\u00e4ger.</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7\u00a7 10, 11, 15, 16, 22, 30, 38 bis 42, 55, 57, 63 des genannten Gesetzes sind nicht anzuwenden.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 22 Abs. 2 Kursivdruck: Jetzt statt \u00a7 74 LandbeschaffungsG 54-3 die Verwaltungsgerichtsordnung; VwGO 340-1</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE003900311",
+        "name": "\u00a7 23",
+        "title": "Erwerbspflicht der \u00f6ffentlichen Hand bei Grundst\u00fccksbesitz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Hat ein in \u00a7 1 Abs. 1 genannter Rechtstr\u00e4ger den Zustand eines herauszugebenden Grundst\u00fccks oder eines Teils dieses Grundst\u00fccks so ver\u00e4ndert oder verlangt ein Anspruchsschuldner (\u00a7 25) f\u00fcr den Fall der Herausgabe des Grundst\u00fccks von dem Eigent\u00fcmer so hohe Erstattungsleistungen, da\u00df dem Eigent\u00fcmer die R\u00fccknahme des Grundst\u00fccks nicht zuzumuten ist, so kann der Eigent\u00fcmer innerhalb eines Jahres nach Inkrafttreten dieses Gesetzes verlangen, da\u00df der Anspruchsschuldner das Grundst\u00fcck oder den ver\u00e4nderten Teil des Grundst\u00fccks gegen Entsch\u00e4digung zu Eigentum erwirbt. Der Anspruchsschuldner kann den Erwerb des ver\u00e4nderten Grundst\u00fccksteils verweigern, wenn der Eigent\u00fcmer ihm nicht innerhalb der vorbezeichneten Frist anbietet, diejenigen weiteren Teile des herauszugebenden Grundst\u00fccks gegen Entsch\u00e4digung zu erwerben, ohne die der Anspruchsschuldner den ver\u00e4nderten Grundst\u00fccksteil nicht zweckm\u00e4\u00dfig benutzen kann. Ist der Herausgabeschuldner nicht der Bund, so gilt die vorbezeichnete Frist auch dann als gewahrt, wenn der Eigent\u00fcmer das Grundst\u00fcck zum Erwerb innerhalb der Frist dem Bund angeboten hat. Die H\u00f6he der Entsch\u00e4digung bestimmt sich nach \u00a7 22 Abs. 2.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE004000311",
+        "name": "\u00a7 24",
+        "title": "Erwerbspflicht der \u00f6ffentlichen Hand bei\nGrundst\u00fccksbeeintr\u00e4chtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Ist ein Anspruch aus \u00a7 1004 des B\u00fcrgerlichen Gesetzbuchs im Falle der Beeintr\u00e4chtigung des Eigentums oder eines anderen Rechts an einem Grundst\u00fcck nach diesem Gesetz nicht zu erf\u00fcllen und ist dem Berechtigten wegen der Beeintr\u00e4chtigung nicht zuzumuten, sein Recht an dem Grundst\u00fcck zu behalten, so ist \u00a7 23 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE004100311",
+        "name": "\u00a7 25",
+        "title": "Anspruchsschuldner",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) In den F\u00e4llen der \u00a7\u00a7 4 bis 24 ist Anspruchsschuldner der Bund.</P><P>(2) Handelt es sich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">um einen Anspruch, der in einem rechtlichen oder wirtschaftlichen Zusammenhang mit einem einzelnen Verm\u00f6gensgegenstand steht, und ist dieser anders als durch Rechtsgesch\u00e4ft in das Eigentum oder in die Verwaltung eines anderen \u00f6ffentlichen Rechtstr\u00e4gers als des Bundes \u00fcbergegangen, oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">um einen Anspruch, der im Rahmen von Verwaltungsaufgaben entstanden ist, die auf einen anderen \u00f6ffentlichen Rechtstr\u00e4ger als den Bund \u00fcbergegangen sind,</LA></DD> </DL>so ist Anspruchsschuldner dieser andere Rechtstr\u00e4ger. Treffen f\u00fcr einen Anspruch sowohl die Voraussetzungen des Satzes 1 Nr. 1 als auch die Voraussetzungen des Satzes 1 Nr. 2 zu und sind hiernach verschiedene Rechtstr\u00e4ger Anspruchsschuldner, so ist in ihrem Verh\u00e4ltnis zueinander der Rechtstr\u00e4ger allein verpflichtet, dessen Haftung sich aus Satz 1 Nr. 2 ergibt.</P><P>(3) In den F\u00e4llen des Absatzes 2 kann auch vom Bund Erf\u00fcllung des Anspruchs verlangt werden, sofern dieser nicht das Vorliegen der in Absatz 2 bezeichneten Voraussetzungen nachweist.</P><P>(4) Die Abs\u00e4tze 1 bis 3 sind nicht anzuwenden bei den in \u00a7 2 Nr. 4 bezeichneten Anspr\u00fcchen. Soweit diese Anspr\u00fcche nach diesem Gesetz zu erf\u00fcllen sind, bleiben die L\u00e4nder oder Gemeinden (Gemeindeverb\u00e4nde) Anspruchsschuldner.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE004200311",
+        "name": "\u00a7 26",
+        "title": "Anmeldung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Auf Grund der nach diesem Gesetz zu erf\u00fcllenden Anspr\u00fcche k\u00f6nnen Leistungen nur verlangt werden, soweit die Anspr\u00fcche bei den Anmeldestellen (\u00a7 27) fristgerecht (\u00a7 28) angemeldet worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE004304301",
+        "name": "\u00a7 27",
+        "title": "Anmeldestellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Anmeldestellen f\u00fcr die nach diesem Gesetz vom Bund zu erf\u00fcllenden Anspr\u00fcche sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesministerium der Finanzen oder eine von ihm zu bestimmende Beh\u00f6rde oder Anstalt seines Gesch\u00e4ftsbereichs, soweit es sich um Anspr\u00fcche gegen den Bund, das Deutsche Reich, das ehemalige Land Preu\u00dfen oder das Unternehmen Reichsautobahnen handelt,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundeseisenbahnverm\u00f6gen, soweit es sich um Anspr\u00fcche gegen die bisherigen Sonderverm\u00f6gen Deutsche Bundesbahn und Deutsche Reichsbahn handelt,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bundesanstalt f\u00fcr Post und Telekommunikation Deutsche Bundespost oder die von ihr bestimmten Beh\u00f6rden, soweit es sich um Anspr\u00fcche gegen die Deutsche Bundespost oder die Deutsche Reichspost handelt.</LA></DD> </DL> </P><P>(2) Anmeldestellen f\u00fcr die nach diesem Gesetz von anderen als den in Absatz 1 genannten Rechtstr\u00e4gern zu erf\u00fcllenden Anspr\u00fcche sind die zust\u00e4ndigen Dienststellen dieser Anspruchsschuldner.</P><P>(3) Anmeldestellen f\u00fcr die Anspr\u00fcche ausl\u00e4ndischer Staatsangeh\u00f6riger, im Ausland ans\u00e4ssiger Staatenloser und nach ausl\u00e4ndischem Recht errichteter juristischer Personen ist das Bundesministerium der Finanzen oder eine von ihm zu bestimmende Beh\u00f6rde oder Anstalt seines Gesch\u00e4ftsbereichs.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE004401301",
+        "name": "\u00a7 28",
+        "title": "Anmeldefrist, Nachsichtgew\u00e4hrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>(1) Die in \u00a7\u00a7 4, 5, 9, 10, 11, 12 Nr. 2 und \u00a7 19 Abs. 2 bezeichneten Anspr\u00fcche k\u00f6nnen nur innerhalb einer Frist von einem Jahr nach dem Inkrafttreten dieses Gesetzes angemeldet werden. In Abweichung hiervon beginnt die Frist, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn der Anspruch nach dem Inkrafttreten dieses Gesetzes entsteht, mit seiner Entstehung;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 6 Abs. 1 Nr. 3 mit dem Zeitpunkt, in dem der Wohnsitz oder st\u00e4ndige Aufenthalt begr\u00fcndet worden ist, jedoch nicht vor dem Inkrafttreten des Reparationssch\u00e4dengesetzes vom 12. Februar 1969 (Bundesgesetzbl. I S. 105);</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 6 Abs. 1 Nr. 2 mit dem Zeitpunkt, in dem nach Inkrafttreten dieses Gesetzes der Beitritt zum Abkommen vom 27. Februar 1953 \u00fcber deutsche Auslandsschulden wirksam wird;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">in den F\u00e4llen des \u00a7 6 Abs. 1 Nr. 2a mit dem Inkrafttreten des Reparationssch\u00e4dengesetzes.</LA></DD> </DL>Die Frist gilt auch dann als gewahrt, wenn der Anspruch innerhalb der Frist bei einer unzust\u00e4ndigen Dienststelle im Geltungsbereich dieses Gesetzes angemeldet wird. Einer Anmeldung innerhalb der Frist bedarf es nicht, wenn der Anspruchsschuldner (\u00a7 25) nach dem 31. Juli 1945 auf die Anspr\u00fcche Teilleistungen gew\u00e4hrt hat.</P><P>(2) War der Antragsteller ohne sein Verschulden verhindert, die Anmeldefrist einzuhalten, so ist ihm auf Antrag Nachsicht zu gew\u00e4hren. Nach Ablauf eines Jahres, von dem Ende der vers\u00e4umten Frist an gerechnet, kann Nachsichtgew\u00e4hrung nicht mehr beantragt werden.</P><P>(3) Ablehnende Entscheidungen der Anmeldestelle sind nach den Vorschriften des Verwaltungszustellungsgesetzes zuzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE004500311",
+        "name": "\u00a7 29",
+        "title": "Klagefrist",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000200311"
+        },
+        "body": "<P>Lehnt eine Anmeldestelle (\u00a7 27) die Erf\u00fcllung eines nach \u00a7 26 angemeldeten Anspruchs ab, so kann der Anspruch nur innerhalb von sechs Monaten und nur vor dem Gericht geltend gemacht werden, das nach der Natur des Anspruchs zust\u00e4ndig ist. Dieses Gericht ist auch dann zust\u00e4ndig, wenn nur die Nachsichtgew\u00e4hrung nach \u00a7 28 Abs. 2 verlangt wird. Die Frist ist eine Notfrist im Sinne der Zivilproze\u00dfordnung. Sie beginnt mit Zustellung des Ablehnungsbescheides. Die Frist gilt auch dann als gewahrt, wenn der Anspruch bei einem unzust\u00e4ndigen Gericht geltend gemacht wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG000300311",
+        "name": "Dritter Teil",
+        "title": "Abl\u00f6sung von Kapitalanlagen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE004601301",
+        "name": "(XXXX) \u00a7\u00a7 30 bis 67",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000300311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG000601309",
+        "name": "Vierter Teil",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE008401309",
+        "name": "(XXXX) \u00a7\u00a7 68 bis 84",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG000601309"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG001001309",
+        "name": "F\u00fcnfter Teil",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010101309",
+        "name": "\u00a7 85",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001001309"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG001100311",
+        "name": "Sechster Teil",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG001200311",
+        "name": "Erster Abschnitt",
+        "title": "Vertragshilfevorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001100311"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG001300311",
+        "name": "Erster Titel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001200311"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010200311",
+        "name": "\u00a7 86",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001300311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG001400311",
+        "name": "Zweiter Titel",
+        "title": "Stundung und Herabsetzung\nvon Anspr\u00fcchen aus Schuldverschreibungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001200311"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010300311",
+        "name": "\u00a7 87",
+        "title": "Stundung und Herabsetzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001400311"
+        },
+        "body": "<P>(1) Verbindlichkeiten aus Inhaber- oder Orderschuldverschreibungen, die vor dem 21. Juni 1948 als Teile einer Gesamtemission begeben worden sind und die nicht unter \u00a7 6 Abs. 1 Nr. 2 des Vertragshilfegesetzes vom 26. M\u00e4rz 1952 (Bundesgesetzbl. I S. 198) in der Fassung des \u00a7 106 des Gesetzes vom 24. August 1953 (Bundesgesetzbl. I S. 1003) fallen, k\u00f6nnen auf Antrag des Schuldners durch gerichtliche Entscheidung gestundet oder herabgesetzt werden, wenn und soweit ihm wegen der Verm\u00f6gensverluste, die er auf Grund von Kriegsereignissen oder Kriegsfolgen erlitten hat, die fristgem\u00e4\u00dfe oder volle Leistung bei gerechter Abw\u00e4gung seiner Interessen und der Interessen der Gesamtheit der Gl\u00e4ubiger nicht zugemutet werden kann. Der Antrag ist gegen die Gesamtheit der Gl\u00e4ubiger zu richten.</P><P>(2) Die Vorschriften des Vertragshilfegesetzes sind entsprechend anzuwenden, soweit sich aus diesem Gesetz nichts anderes ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010401160",
+        "name": "\u00a7 88",
+        "title": "Vertretung der Gl\u00e4ubiger",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001400311"
+        },
+        "body": "<P>(1) Die Rechte der Gesamtheit der Gl\u00e4ubiger werden in dem Verfahren von einem oder mehreren Vertretern wahrgenommen. Die Befugnis der Gl\u00e4ubiger, ihre Rechte in dem Verfahren selbst geltend zu machen, ist ausgeschlossen.</P><P>(2) Ist auf Grund des \u00a7 1189 des B\u00fcrgerlichen Gesetzbuchs oder auf Grund einer bei Ausgabe der Schuldverschreibungen in verbindlicher Weise getroffenen Festsetzung ein Vertreter der Gl\u00e4ubiger bestellt worden, so nimmt dieser in dem Verfahren die Rechte der Gl\u00e4ubiger wahr.</P><P>(3) Liegen die Voraussetzungen des Absatzes 2 nicht vor, so wird der Vertreter der Gl\u00e4ubiger in einer Versammlung bestellt, die von dem Schuldner einzuberufen ist. F\u00fcr die Bestellung und Abberufung des Vertreters gelten die Vorschriften des Schuldverschreibungsgesetzes vom 31.7.2009 (BGBl. I S. 2512) entsprechend, soweit sich aus diesem Gesetz nichts anderes ergibt.</P><P>(4) Kommt in der Gl\u00e4ubigerversammlung ein Beschlu\u00df \u00fcber die Bestellung eines Vertreters nicht zustande, so ist ein Vertreter auf Antrag des Schuldners von dem f\u00fcr die Durchf\u00fchrung des Verfahrens zust\u00e4ndigen Gericht zu bestellen. Das gleiche gilt, wenn die Gesamtheit der Gl\u00e4ubiger infolge Wegfalls eines Vertreters nicht mehr nach Absatz 2 oder Absatz 3 vertreten und nicht innerhalb zweier Monate ein neuer Vertreter bestellt worden ist.</P><P>(5) F\u00fcr die rechtliche Stellung des Vertreters gelten die Vorschriften des Schuldverschreibungsgesetzes entsprechend. Zum Abschlu\u00df eines Vergleichs ist der Vertreter nur auf Grund eines ihm hierzu erm\u00e4chtigenden Beschlusses der Gl\u00e4ubigerversammlung befugt; \u00a7 5 Absatz 4 Satz 2 des Schuldverschreibungsgesetzes gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010501160",
+        "name": "\u00a7 89",
+        "title": "Versammlung der Gl\u00e4ubiger",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001400311"
+        },
+        "body": "<P>F\u00fcr die Einberufung und die Beschl\u00fcsse der Versammlung gelten die Vorschriften des Schuldverschreibungsgesetzes entsprechend, soweit sich aus diesem Gesetz nichts anderes ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010601160",
+        "name": "\u00a7 90",
+        "title": "Besonderheiten des Verfahrens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001400311"
+        },
+        "body": "<P>(1) Dem Antrag (\u00a7 87 Abs. 1 Satz 2) ist eine Ausfertigung der nach \u00a7 16 Absatz 3 des Schuldverschreibungsgesetzes aufgenommenen Niederschriften beizuf\u00fcgen.</P><P>(2) Die Entscheidung \u00fcber den Antrag kann nur f\u00fcr alle Gl\u00e4ubiger einheitlich ergehen. Sie wirkt f\u00fcr und gegen alle Gl\u00e4ubiger. \u00a7 19 Abs. 5 Satz 2 des Vertragshilfegesetzes ist nicht anwendbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010700311",
+        "name": "\u00a7 91",
+        "title": "Fr\u00fchere Vertragshilfeentscheidungen, Erledigung anh\u00e4ngiger\nVerfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001400311"
+        },
+        "body": "<P>(1) Gerichtliche Entscheidungen, die in Vertragshilfeverfahren \u00fcber Anspr\u00fcche der in \u00a7 87 Abs. 1 Satz 1 bezeichneten Art ergangen und vor dem Inkrafttreten dieses Gesetzes rechtskr\u00e4ftig geworden sind, bleiben unber\u00fchrt. Das gleiche gilt f\u00fcr Vergleiche, die vor dem Inkrafttreten dieses Gesetzes abgeschlossen worden sind.</P><P>(2) Ist \u00fcber einen Anspruch der in \u00a7 87 Abs. 1 Satz 1 bezeichneten Art zu der Zeit, zu der ein Antrag nach \u00a7 87 Abs. 1 Satz 2 gestellt wird, ein Vertragshilfeverfahren anh\u00e4ngig, so ruht es bis zur rechtskr\u00e4ftigen Entscheidung \u00fcber den Antrag. Wird \u00fcber den Antrag in der Sache selbst entschieden oder wird er zur\u00fcckgenommen, so ist das Vertragshilfeverfahren erledigt; gerichtliche Geb\u00fchren und Auslagen werden nicht erhoben. Wird der Antrag durch eine nicht in der Sache selbst ergehende Entscheidung zur\u00fcckgewiesen, so kann das Vertragshilfeverfahren fortgesetzt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG001500311",
+        "name": "Zweiter Abschnitt",
+        "title": "Aufl\u00f6sung der auf Grund\ndes Anleihestockgesetzes und der Dividendenabgabeverordnung\ngebildeten Treuhandverm\u00f6gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001100311"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010800311",
+        "name": "\u00a7 92",
+        "title": "Verwaltung der nach dem Anleihestockgesetz und der\nDividendenabgabeverordnung gebildeten Sonderverm\u00f6gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001500311"
+        },
+        "body": "<P>(1) Die treuh\u00e4nderische Verwaltung eines von einer Kapitalgesellschaft nach dem Gesetz \u00fcber die Gewinnverteilung bei Kapitalgesellschaften (Anleihestockgesetz) vom 4. Dezember 1934 (Reichsgesetzbl. I S. 1222) gebildeten Anleihestocks geht mit dem Inkrafttreten dieses Gesetzes von der Deutschen Golddiskontbank auf die Kapitalgesellschaft \u00fcber.</P><P>(2) Die Kapitalgesellschaft hat den Anleihestock und ein nach der Verordnung zur Begrenzung von Gewinnaussch\u00fcttungen (Dividendenabgabeverordnung) vom 12. Juni 1941 (Reichsgesetzbl. I S. 323) gebildetes Treuhandverm\u00f6gen getrennt von ihrem eigenen Verm\u00f6gen treuh\u00e4nderisch f\u00fcr die Gesellschafter zu verwalten. Der Anleihestock und das Treuhandverm\u00f6gen unterliegen nicht der Zwangsvollstreckung. Die Aufhebung der in Ansehung des Anleihestocks und des Treuhandverm\u00f6gens bestehenden Gemeinschaft der Gesellschafter ist ausgeschlossen.</P><P>(3) Die Kapitalgesellschaft hat die sich aus dem Anleihestock und dem Treuhandverm\u00f6gen ergebenden abzul\u00f6senden Anspr\u00fcche anzumelden (\u00a7 40). Die Voraussetzungen des \u00a7 49 Abs. 1 dieses Gesetzes in Verbindung mit \u00a7 21 des Wertpapierbereinigungsgesetzes gelten als erf\u00fcllt, wenn die Kapitalgesellschaft beweist oder glaubhaft macht, da\u00df sie Betr\u00e4ge in H\u00f6he des abzul\u00f6senden Anspruchs an den Anleihestock abgef\u00fchrt hat oder da\u00df sie den abzul\u00f6senden Anspruch nach der Dividendenabgabeverordnung treuh\u00e4nderisch verwaltet hat.</P><P>(4) Die Abs\u00e4tze 1 bis 3 gelten nur f\u00fcr Kapitalgesellschaften, die die Voraussetzungen des \u00a7 33 Abs. 2 Nr. 3 erf\u00fcllen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE010900311",
+        "name": "\u00a7 93",
+        "title": "Verwertung der Abl\u00f6sungsschuld und Aussch\u00fcttung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001500311"
+        },
+        "body": "<P>(1) Innerhalb von drei Jahren nach Feststellung des Rechts auf Abl\u00f6sung hat die Kapitalgesellschaft die auf die Anspr\u00fcche entfallende Abl\u00f6sungsschuld zu verwerten und den Erl\u00f6s sowie Zinsen (\u00a7 37) und eine Barabl\u00f6sung (\u00a7 39) nach den f\u00fcr die Gewinnverteilung geltenden Vorschriften an die Gesellschafter auszusch\u00fctten, die im Zeitpunkt des Aussch\u00fcttungsbeschlusses gewinnberechtigt sind. Ist f\u00fcr eine einzelne Gattung von Gesellschaftsanteilen ein besonderer Anleihestock oder ein besonderes Treuhandverm\u00f6gen errichtet worden, so sind der Anleihestock und das Treuhandverm\u00f6gen nur an die Inhaber dieser Anteile auszusch\u00fctten.</P><P>(2) Bei der Aussch\u00fcttung sind nicht zu ber\u00fccksichtigen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesellschaftsanteile, f\u00fcr die Gewinnbetr\u00e4ge an den Anleihestock oder das Treuhandverm\u00f6gen nicht abgef\u00fchrt worden sind, soweit die Anteile im Zeitpunkt des Aussch\u00fcttungsbeschlusses - unbeschadet einer Gesamtrechtsnachfolge - Gesellschaftern zustehen, die damals von der Begrenzung der Gewinnaussch\u00fcttung nicht betroffen waren;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gesellschaftsanteile, die im Zeitpunkt des Aussch\u00fcttungsbeschlusses der Kapitalgesellschaft geh\u00f6ren.</LA></DD> </DL> </P><P>(3) Die Kosten des Verfahrens (\u00a7 63) sowie der Verwaltung und Verteilung des Anleihestocks und des Treuhandverm\u00f6gens tr\u00e4gt die Gesellschaft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011000311",
+        "name": "\u00a7 94",
+        "title": "Sonderverm\u00f6gen eigener Art",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001500311"
+        },
+        "body": "<P>\u00a7\u00a7 92 und 93 sind sinngem\u00e4\u00df auf einen Anleihestock und ein Treuhandverm\u00f6gen anzuwenden, die f\u00fcr die Inhaber von Genu\u00dfrechten und Gewinnschuldverschreibungen gebildet worden sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR017470957BJNG001600311",
+        "name": "Dritter Abschnitt",
+        "title": "Sonstige Schlu\u00dfvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001100311"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011100311",
+        "name": "\u00a7 95",
+        "title": "Unmittelbare Haftung der Beamten aus Amtspflichtverletzungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Wird ein Anspruch (\u00a7 1), der auf einer in Aus\u00fcbung \u00f6ffentlicher Gewalt vors\u00e4tzlich begangenen Amtspflichtverletzung beruht, nach den Vorschriften dieses Gesetzes nicht erf\u00fcllt, so kann derjenige, der die Amtspflichtverletzung begangen hat, in Anspruch genommen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011200311",
+        "name": "\u00a7 96",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011300311",
+        "name": "\u00a7 97",
+        "title": "Zusatzversorgungsanstalten des \u00f6ffentlichen Dienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>\u00a7 24 des Umstellungsgesetzes findet auf die Zusatzversorgungsanstalten des \u00f6ffentlichen Dienstes keine Anwendung. Zur Sicherstellung der Leistungen der Zusatzversorgungsanstalten des \u00f6ffentlichen Dienstes bleibt eine besondere gesetzliche Regelung vorbehalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011400311",
+        "name": "\u00a7 98",
+        "title": "Abl\u00f6sungsschuld der Deutschen Bundesbahn",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Die f\u00fcr die Verwaltung der allgemeinen Bundesschuld jeweils geltenden Vorschriften gelten sinngem\u00e4\u00df f\u00fcr die Abl\u00f6sungsschuld der Deutschen Bundesbahn.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011505123",
+        "name": "\u00a7 99",
+        "title": "Nachversicherung ausgeschiedener Angeh\u00f6riger des \u00f6ffentlichen Dienstes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>(1) Vor dem 9. Mai 1945 ausgeschiedene Angeh\u00f6rige des \u00f6ffentlichen Dienstes, die von den in \u00a7 1 Abs. 1 genannten Rechtstr\u00e4gern nach den im Zeitpunkt ihres Ausscheidens geltenden Vorschriften der Reichsversicherungsgesetze f\u00fcr die Zeit ihrer versicherungsfreien Besch\u00e4ftigung nachzuversichern waren und nicht nachversichert worden sind, gelten als f\u00fcr diese Zeit nachversichert, wenn sie nicht bereits auf Grund anderer Vorschriften f\u00fcr diese Zeit als nachversichert gelten; dies gilt auch f\u00fcr den Fall des Todes, wenn Hinterbliebene vorhanden sind. Satz 1 gilt auch f\u00fcr die ehemaligen Berufssoldaten der fr\u00fcheren Wehrmacht und berufsm\u00e4\u00dfige Angeh\u00f6rige des fr\u00fcheren Reichsarbeitsdienstes, deren Nachversicherung gem\u00e4\u00df \u00a7 1242b der Reichsversicherungsordnung deswegen nicht durchzuf\u00fchren war, weil sie aus ihrem Dienstverh\u00e4ltnis nicht in Ehren ausgeschieden sind. Die Vorschriften \u00fcber die Versicherungspflichtgrenze stehen der Nachversicherung in der allgemeinen Rentenversicherung nicht entgegen, wenn ohne die Nachversicherung eine ausreichende anderweitige Alters- und Hinterbliebenensicherung nicht gew\u00e4hrleistet ist; das N\u00e4here bestimmen das Bundesministerium f\u00fcr Arbeit und Soziales, das Bundesministerium der Finanzen und das Bundesministerium des Innern, f\u00fcr Bau und Heimat durch Rechtsverordnung mit Zustimmung des Bundesrates. Hat der Jahresarbeitsverdienst in den in Satz 3 bezeichneten F\u00e4llen die Versicherungspflichtgrenze \u00fcberschritten, so gilt die Nachversicherung als bis zur H\u00f6he der Versicherungspflichtgrenze durchgef\u00fchrt. Wird nach dem Ausscheiden aus der versicherungsfreien Besch\u00e4ftigung ein Anspruch oder eine Anwartschaft auf Alters- und Hinterbliebenenversorgung unter Einrechnung der vor dem Ausscheiden liegenden Zeiten im \u00f6ffentlichen Dienst erworben oder nachtr\u00e4glich festgestellt, so entfallen die Nachversicherung und die an sie gekn\u00fcpften Rechtsfolgen. Gezahlte Renten sind bis zum Ende des dritten Monats nach Ablauf des Monats, in dem dem Tr\u00e4ger der gesetzlichen Rentenversicherung eine Mitteilung \u00fcber den Eintritt der Voraussetzungen f\u00fcr den Wegfall der Nachversicherung nach Satz 2 zugegangen ist, nicht zur\u00fcckzufordern; jedoch sind diese Renten auf die f\u00fcr die gleichen Zeitr\u00e4ume zustehenden Versorgungsbez\u00fcge in der H\u00f6he anzurechnen, die sich aus dem Verh\u00e4ltnis des Unterschiedsbetrages zwischen den zuletzt gezahlten und den f\u00fcr den gleichen Monat ohne Ber\u00fccksichtigung der Nachversicherung errechneten Renten zu den f\u00fcr diesen Monat zustehenden Versorgungsbez\u00fcgen ergibt. Erlischt eine in Satz 2 bezeichnete Anwartschaft, so gilt die Nachversicherung als nicht entfallen.</P><P>(2) Erfolgt die Nachversicherung nach dem 31. Dezember 2004, gilt diese als in der allgemeinen Rentenversicherung durchgef\u00fchrt.</P><P>(3) Soweit eine Nachversicherung als durchgef\u00fchrt gilt, gelten die daraus erworbenen Anwartschaften sowie Anwartschaften aus Beitr\u00e4gen, die f\u00fcr Zeiten entrichtet worden sind, die vor den in Absatz 1 genannten Zeiten liegen, als bis zum 31. Dezember 1956 erhalten.</P><P>(4) Die Weiterversicherung in den gesetzlichen Rentenversicherungen richtet sich nach den allgemeinen Vorschriften; hierbei gelten Zeiten der Nachversicherung als Zeiten, f\u00fcr die Beitr\u00e4ge f\u00fcr eine rentenversicherungspflichtige Besch\u00e4ftigung entrichtet sind.</P><P>(5) Die Gew\u00e4hrung von Leistungen richtet sich nach den Vorschriften, die f\u00fcr den nach Absatz 2 zust\u00e4ndigen Versicherungszweig gelten.</P><P>(6) Ist wegen der in Absatz 1 getroffenen Regelung eine laufende Rente neu festzustellen, so ist die Neufeststellung r\u00fcckwirkend, jedoch nicht f\u00fcr eine Zeit vor dem 1. April 1950 vorzunehmen; die Unterschiedsbetr\u00e4ge sind nachzuzahlen.</P><P>(7) Ist der Versicherungsfall vor dem Inkrafttreten dieses Gesetzes eingetreten und ist wegen der in Absatz 1 getroffenen Regelung eine Rente erstmalig festzustellen, so beginnt die Rente abweichend von den allgemeinen Vorschriften mit dem Ablauf - in Versicherungsf\u00e4llen, die nach dem 31. Dezember 1956 eingetreten sind, mit dem Beginn - des Kalendermonats, in dem der Versicherungsfall eingetreten ist, jedoch nicht vor dem 1. April 1950 und nicht vor dem Ablauf des Kalendermonats, in dem der Berechtigte seinen Wohnsitz oder dauernden Aufenthalt im Bundesgebiet genommen hat.</P><P>(8) Die Regelung der Abs\u00e4tze 6 und 7 gilt nur, wenn die Rente oder ihre Neufeststellung bis zum 30. September 1958 beantragt wird.</P><P>(9) Die Feststellung nach Absatz 1 trifft die Stelle, die nach dem Gesetz zur Regelung der Rechtsverh\u00e4ltnisse der unter Artikel 131 des Grundgesetzes fallenden Personen zust\u00e4ndig sein w\u00fcrde, wenn das Dienstverh\u00e4ltnis bis zum 8. Mai 1945 fortgesetzt worden w\u00e4re; \u00a7 72 Abs. 10, 11 und \u00a7 81a des vorgenannten Gesetzes gelten entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011600311",
+        "name": "\u00a7 100",
+        "title": "Kraftloswerden von Wertpapieren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Wertpapiere, in denen nach \u00a7 1 erl\u00f6schende Anspr\u00fcche verbrieft sind, werden mit dem Inkrafttreten dieses Gesetzes kraftlos.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011700311",
+        "name": "\u00a7 101",
+        "title": "Londoner Schuldenabkommen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Das Abkommen vom 27. Februar 1953 \u00fcber deutsche Auslandsschulden und die zu seiner Ausf\u00fchrung ergangenen Vorschriften werden durch die Vorschriften dieses Gesetzes nicht ber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011800311",
+        "name": "\u00a7 102",
+        "title": "Anspr\u00fcche ausl\u00e4ndischer und staatenloser B\u00fcrger",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>(1) Die in \u00a7 27 Abs. 3 genannten Personen k\u00f6nnen auf Grund von Anspr\u00fcchen, f\u00fcr deren Anmeldung nach \u00a7 28 Abs. 1 eine Frist vorgesehen ist, Leistungen nicht vor Ablauf von f\u00fcnf Jahren seit dem Inkrafttreten dieses Gesetzes verlangen. Erkl\u00e4rt ein ausl\u00e4ndischer Staat vor Ablauf dieser Frist gegen\u00fcber der Bundesrepublik Deutschland, da\u00df er nicht beabsichtige, ein Abkommen \u00fcber eine pauschale Abgeltung der in Satz 1 bezeichneten Anspr\u00fcche abzuschlie\u00dfen, so entf\u00e4llt Satz 1 f\u00fcr die Anspr\u00fcche seiner Staatsangeh\u00f6rigen, in seinem Land ans\u00e4ssiger Staatenloser und nach seinem Recht errichteter juristischer Personen mit Wirkung von dem Tage, an dem die Erkl\u00e4rung der Bundesrepublik Deutschland zugeht.</P><P>(2) Tritt innerhalb der in Absatz 1 bezeichneten Frist ein zwischen der Bundesrepublik Deutschland und einem ausl\u00e4ndischen Staat abgeschlossenes Abkommen \u00fcber eine Abgeltung der in Absatz 1 bezeichneten Anspr\u00fcche in Kraft, so erl\u00f6schen die unter dieses Abkommen fallenden Anspr\u00fcche.</P><P>(3) Auf die Gew\u00e4hrung von H\u00e4rtebeihilfen auf Grund der in \u00a7 68 bezeichneten Tatbest\u00e4nde sind die Abs\u00e4tze 1 und 2 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE011900311",
+        "name": "\u00a7 103",
+        "title": "Gerichtliche Verfahren f\u00fcr Anspr\u00fcche ausl\u00e4ndischer und\nstaatenloser Gl\u00e4ubiger",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>(1) Die in \u00a7 27 Abs. 3 genannten Personen k\u00f6nnen auf Grund von Anspr\u00fcchen, f\u00fcr deren Anmeldung nach \u00a7 28 Abs. 1 eine Frist vorgesehen ist, bis zum Ablauf der in \u00a7 102 Abs. 1 bezeichneten Frist nur Klage auf Feststellung des angemeldeten Anspruchs erheben. Das Gericht hat in jedem Fall zu pr\u00fcfen, ob der dem Erf\u00fcllungsverlangen zugrunde liegende Anspruch (\u00a7 1) besteht oder bis zum Inkrafttreten dieses Gesetzes bestanden hat. Das Gericht hat auf Antrag des Beklagten gleichzeitig zu pr\u00fcfen und dar\u00fcber zu entscheiden, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob der Anspruch nicht unter Artikel 5 des Abkommens vom 27. Februar 1953 \u00fcber deutsche Auslandsschulden f\u00e4llt,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob die in \u00a7 28 vorgesehene Frist gewahrt oder die dort bezeichneten Voraussetzungen f\u00fcr eine Nachsichtgew\u00e4hrung gegeben sind und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ob der Anspruch nicht unter \u00a7 3 und \u00a7 105 f\u00e4llt.</LA></DD> </DL> </P><P>(2) Absatz 1 ist nicht anzuwenden, wenn der ausl\u00e4ndische Staat vor Ablauf der Frist (\u00a7 102 Abs. 1) erkl\u00e4rt hat, da\u00df er nicht beabsichtige, ein Abkommen \u00fcber eine pauschale Abgeltung abzuschlie\u00dfen.</P><P>(3) Absatz 1 ist in Verwaltungsstreitverfahren \u00fcber die Gew\u00e4hrung einer beantragten H\u00e4rtebeihilfe, deren Gew\u00e4hrung nach \u00a7 102 Abs. 3 noch nicht verlangt werden kann, entsprechend anzuwenden; dabei tritt an die Stelle des \u00a7 28 die Vorschrift des \u00a7 80.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012000311",
+        "name": "\u00a7 104",
+        "title": "Regelungen von Verbindlichkeiten der Konversionskasse f\u00fcr\ndeutsche Auslandsschulden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>(1) Die Regelungsangebote der Regierung der Bundesrepublik Deutschland f\u00fcr die dreiprozentigen im Inland zahlbaren Schuldverschreibungen und Teilgutscheine sowie f\u00fcr die Scrips der Konversionskasse f\u00fcr deutsche Auslandsschulden vom 25. April 1955 - ver\u00f6ffentlicht im Bundesanzeiger Nr. 83 vom 30. April 1955 - richten sich auch an Gl\u00e4ubiger, die am Tage des Inkrafttretens dieses Gesetzes in dessen Geltungsbereich als Deutsche im Sinne des Artikels 116 des Grundgesetzes ihren Wohnsitz oder st\u00e4ndigen Aufenthalt oder als juristische Personen ihren Sitz oder den Ort ihrer Gesch\u00e4ftsleitung haben. Ein Sitz in Berlin gilt als Sitz im Geltungsbereich dieses Gesetzes nur dann, wenn sich die Gesch\u00e4ftsleitung im Geltungsbereich dieses Gesetzes befindet.</P><P>(2) Absatz 1 gilt nur hinsichtlich solcher Anspr\u00fcche, die am 31. Dezember 1952 die Voraussetzungen des \u00a7 33 Abs. 2 erf\u00fcllen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012100311",
+        "name": "\u00a7 105",
+        "title": "Leistungsausschlu\u00df f\u00fcr T\u00e4tigkeit gebietsfremder Beh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>(1) Nach diesem Gesetz sind auf Grund von Anspr\u00fcchen gegen die in \u00a7 1 Abs. 1 bezeichneten Rechtstr\u00e4ger Leistungen nicht zu gew\u00e4hren, wenn die Anspr\u00fcche auf Ma\u00dfnahmen, Handlungen oder Unterlassungen beruhen, die auf eine nach dem 8. Mai 1945 ausge\u00fcbte T\u00e4tigkeit oder auf Ma\u00dfnahmen oder Weisungen von Beh\u00f6rden zur\u00fcckzuf\u00fchren sind, die ihren Sitz au\u00dferhalb der in \u00a7 33 bezeichneten Gebiete haben oder wenn diese Ma\u00dfnahmen, Handlungen oder Unterlassungen zugunsten der Verwaltung der Deutschen Reichsbahn der sowjetischen Zone erfolgt sind.</P><P>(2) \u00a7 9 findet keine Anwendung auf Anspr\u00fcche, die sich auf Grundst\u00fccke beziehen, die der Verwaltung der Deutschen Reichsbahn der sowjetischen Zone unterliegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012200311",
+        "name": "\u00a7 106",
+        "title": "Kosten anh\u00e4ngiger Gerichtsverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Soweit sich ein anh\u00e4ngiger Rechtsstreit durch dieses Gesetz erledigt, tr\u00e4gt jede Partei ihre au\u00dfergerichtlichen Kosten und die H\u00e4lfte der gerichtlichen Auslagen. Gerichtsgeb\u00fchren werden nicht erhoben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012300311",
+        "name": "\u00a7 107",
+        "title": "Freistellung von Verwaltungsgeb\u00fchren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Polizeiliche Aufenthalts- und Wohnsitzbescheinigungen f\u00fcr Zwecke dieses Gesetzes sind geb\u00fchrenfrei auszustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012400311",
+        "name": "\u00a7 108",
+        "title": "Amts- und Rechtshilfe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Die Verwaltungsbeh\u00f6rden und Gerichte, die \u00f6ffentlich-rechtlichen K\u00f6rperschaften und Anstalten und die Organisationen der Selbstverwaltung der Wirtschaft haben den mit der Durchf\u00fchrung dieses Gesetzes befa\u00dften Beh\u00f6rden Amts- und Rechtshilfe zu leisten. F\u00fcr Rechtshilfe der Gerichte gelten die \u00a7\u00a7 156 bis 168 des Gerichtsverfassungsgesetzes entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012501301",
+        "name": "\u00a7 109",
+        "title": "Sondervorschriften f\u00fcr Berlin",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Die Vorschriften dieses Gesetzes gelten im Land Berlin mit der Ma\u00dfgabe, da\u00df <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in \u00a7 3 Abs. 1 Nr. 5 an Stelle des \u00a7 24 Abs. 5 des Umstellungsgesetzes Artikel 21 Nr. 53 der Umstellungsverordnung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">in \u00a7 18 an Stelle des \u00a7 14 des Umstellungsgesetzes Artikel 12 der Umstellungsverordnung,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in \u00a7 27 an Stelle der Oberfinanzdirektion der Pr\u00e4sident des Landesfinanzamtes Berlin (Sonderverm\u00f6gens- und Bauverwaltung),</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">in \u00a7 32 an Stelle des 20. Juni 1948 der 24. Juni 1948,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">in \u00a7 87 an Stelle des 21. Juni 1948 der 25. Juni 1948,</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">in \u00a7 97 an Stelle des \u00a7 24 des Umstellungsgesetzes die entsprechenden Vorschriften des Artikels 21 der Umstellungsverordnung</LA></DD> </DL>treten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012601309",
+        "name": "\u00a7 110",
+        "title": "Sondervorschriften wegen des Saarlandes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>(1) Dieses Gesetz gilt wegen der besonderen Verh\u00e4ltnisse im Saarland mit folgender Ma\u00dfgabe: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">...</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">...</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">In Erg\u00e4nzung des \u00a7 32 Abs. 1 Nr. 3 werden nicht abgel\u00f6st Anspr\u00fcche der in \u00a7 30 bezeichneten Art, die am 15. November 1947 Geldinstituten und Versicherungs- und R\u00fcckversicherungsunternehmen und Bausparkassen zugestanden haben, die ihren Sitz oder den Ort ihrer Gesch\u00e4ftsleitung zu diesem Zeitpunkt im Saarland hatten.</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Kammer f\u00fcr Wertpapierbereinigung im Sinne dieses Gesetzes ist im Saarland die Kammer f\u00fcr Handelssachen beim Landgericht Saarbr\u00fccken.</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7\u00a7 87 bis 91 finden im Saarland keine Anwendung.</LA></DD> </DL>6.</P><P>(2) Soweit die Anwendung des Gesetzes durch Absatz 1 ausgeschlossen wird, bleibt eine besondere gesetzliche Regelung vorbehalten, wenn dies die Sach- und Rechtslage im Saarland erfordert.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012700311",
+        "name": "\u00a7 111",
+        "title": "Berlin-Klausel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe der \u00a7\u00a7 12, 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch in Berlin (West). Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten in Berlin (West) nach \u00a7 14 des Dritten \u00dcberleitungsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012800311",
+        "name": "\u00a7 112",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P>Das Gesetz tritt am ersten Tage des zweiten Monats nach seiner Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR017470957BJNE012900311",
+        "name": "Anlage",
+        "title": "(zu \u00a7 30)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR017470957BJNG001600311"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\"> Fundstelle des Originaltextes: BGBl. Teil III 653-1, S. 50 - 52 </kommentar> <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"4\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"10*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"10*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"10*\" />\n\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"70*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\n\t\t\t\t\t<B>Liste der abl\u00f6sbaren Anspr\u00fcche</B>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">(\u00a7 30 Nr. 1, 3, 5)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">I.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Deutsches Reich</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Schuldverschreibungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">1.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der Anleiheabl\u00f6sungsschuld des Deutschen Reichs von 1925 mit Auslosungsscheinen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">2.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der Anleiheabl\u00f6sungsschuld des Deutschen Reichs von 1925 ohne Auslosungsscheine</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">3.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Auslosungsscheine zur Anleiheabl\u00f6sungsschuld des Deutschen Reichs von 1925 ohne Schuldverschreibungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">4.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 5 v. H. Anleihe des Deutschen Reichs von 1927</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">5.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 7%igen Anleihe des Deutschen Reichs von 1929 (Zinsen auf 6 % herabgesetzt)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">6.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 v. H. Anleihe des Deutschen Reichs von 1934</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">7.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2 v. H. Anleihe des Deutschen Reichs von 1935</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">8.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2 v. H. Anleihe des Deutschen Reichs von 1935 Zweite Ausgabe</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">9.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2 v. H. Anleihe des Deutschen Reichs von 1937</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">10.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2%igen Anleihe des Deutschen Reichs von 1938</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">11.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2%igen Anleihe des Deutschen Reichs von 1938 Zweite Ausgabe</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">12.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2%igen Anleihe des Deutschen Reichs von 1939</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">13.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2%igen Anleihe des Deutschen Reichs von 1939 Zweite Ausgabe</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">14.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2%igen Anleihe des Deutschen Reichs von 1940</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">15.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4%igen Anleihe des Deutschen Reichs von 1940</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">16.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 3 1/2%igen Anleihe des Deutschen Reichs von 1941</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">17.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 3 1/2%igen Anleihe des Deutschen Reichs von 1942</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">18.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 3 1/2%igen Anleihe des Deutschen Reichs von 1943</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">19.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 3 1/2%igen Anleihe des Deutschen Reichs von 1944</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">20.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 3 1/2%igen Anleihe des Deutschen Reichs von 1945</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Auslosbare Schatzanweisungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">21.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">2 - 5 v. H. auslosbare Schatzanweisungen des Deutschen Reichs von 1923 K</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">22.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1935</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">23.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1936</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">24.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1936 Zweite Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">25.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1936 Dritte Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">26.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1937 Erste Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">27.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1937 Zweite Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">28.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1937 Dritte Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">29.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1938 Erste Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">30.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1938 Zweite Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">31.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1938 Dritte Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">32.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen des Deutschen Reichs von 1938 Vierte Folge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">c)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Schatzanweisungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">33.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">6 zinsige Schatzanweisungen des Deutschen Reichs von 1923 (f\u00e4llig 1.12.1932)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">34.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">6 V. H. Schatzanweisungen des Deutschen Reichs von 1923 (f\u00e4llig 2.9.1935)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">35.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen des Deutschen Reichs von 1936 Folge XV</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">36.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen des Deutschen Reichs von 1937 Folge IX</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">37.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen des Deutschen Reichs von 1937 Folge X</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">38.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen des Deutschen Reichs von 1937 Folge XI</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">39.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen des Deutschen Reichs von 1937 Folge XII</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">40.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1938 Folge VIII</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">41.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1938 Folge IX</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">42.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1938 Folge X</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">43.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1938 Folge XI</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">44.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1940 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">45.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1940 Folge II</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">46.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1940 Folge III</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">47.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1940 Folge IV</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">48.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1940 Folge V</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">49.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1940 Folge VI</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">50.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1940 Folge VII</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">51.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1941 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">52.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1941 Folge II</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">53.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1941 Folge III</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">54.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1941 Folge IV</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">55.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1941 Folge V</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">56.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1941 Folge VI</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">57.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3%ige Schatzanweisungen des Deutschen Reichs von 1941 Folge VII</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">58.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1942 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">59.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen des Deutschen Reichs von 1942 Folge II</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">60.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1942 Folge III</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">61.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1942 Folge IV</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">62.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1943 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">63.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1943 Folge II</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">64.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1943 Folge III</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">65.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1944 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">66.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1944 Folge II</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">67.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1944 Folge III</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">68.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen des Deutschen Reichs von 1945 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">d)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Reichsverb\u00fcrgte Anleihen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">69.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">B\u00fcrgschaftsschuld des Deutschen Reichs auf Grund des Gesetzes vom 23. Juni 1933 f\u00fcr die Deutschen Schutzgebietsanleihen (\u00a7 30 Nr. 5)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">II.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Deutsche Reichsbahn</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Schuldverschreibungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">70.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schuldverschreibungen der Deutschen Reichsbahn-Gesellschaft v. J. 1931</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">71.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4%igen Anleihe der Deutschen Reichsbahn von 1940</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Auslosbare Schatzanweisungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">72.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige auslosbare Schatzanweisungen der Deutschen Reichsbahn von 1939</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">c)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Schatzanweisungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">73.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">6%ige Schatzanweisungen der Deutschen Reichsbahn-Gesellschaft v. J. 1930 Reihe I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">74.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen der Deutschen Reichsbahn-Gesellschaft v. J. 1935 Reihe I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">75.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen der Deutschen Reichsbahn-Gesellschaft v. J. 1936 Reihe I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">76.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen der Deutschen Reichsbahn von 1941</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">77.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen der Deutschen Reichsbahn von 1944</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">d)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Vorzugsaktien</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">78.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Zertifikate der Deutschen Reichsbank \u00fcber Vorzugsaktien der Deutschen Reichsbahn - Reichsbahnvorzugsaktien - (\u00a7 30 Nr. 3)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">e)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Schuldverschreibungen \u00fcbernommener Gesellschaften</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">79.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der Localbahn-ACTIEN-Gesellschaft in M\u00fcnchen von 1890, 1891, 1894</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">80.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Teilschuldverschreibungen der Braunschweigischen Landes-Eisenbahn-Gesellschaft in Braunschweig</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">I.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Emission von 1885 (3 1/2 %)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">II.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Emission von 1891 (4 %)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">III.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Emission von 1899 (3 1/2 %)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"top\">IV.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Emission von 1904 (3 1/2 %)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">III.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Deutsche Reichspost </entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\n\t\t\t\t\t<SP>Schatzanweisungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">81.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">6 1/2%ige Schatzanweisungen der Deutschen Reichspost von 1926</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">82.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">6%ige Schatzanweisungen der Deutschen Reichspost von 1930 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">83.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">6%ige Schatzanweisungen der Deutschen Reichspost von 1930 Folge II</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">84.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">6%ige Schatzanweisungen der Deutschen Reichspost von 1931 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">85.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">5%ige Schatzanweisungen der Deutschen Reichspost von 1933 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">86.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen der Deutschen Reichspost von 1934 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">87.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen der Deutschen Reichspost von 1935 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">88.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2%ige Schatzanweisungen der Deutschen Reichspost von 1939 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">89.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4%ige Schatzanweisungen der Deutschen Reichspost von 1940</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">90.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">3 1/2%ige Schatzanweisungen der Deutschen Reichspost von 1944</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">IV.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">Preu\u00dfen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">a)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Schuldverschreibungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">91.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 6 v. H. Preu\u00dfischen Staatsanleihe von 1928 - auslosbar - (Zinsen sp\u00e4ter auf 4 1/2 v. H. herabgesetzt)</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">92.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 1/2 v. H. Preu\u00dfischen Staatsanleihe von 1937</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">93.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 4 % Preu\u00dfischen konsolidierten Staatsanleihe von 1940</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">b)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>Schatzanweisungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">94.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schatzanweisungen der Preu\u00dfischen 5 zins. Kalianleihe von 1923</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">95.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schatzanweisungen der Preu\u00dfischen 5 zins. Roggenanleihe von 1923</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">96.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">6 zinsige Preu\u00dfische Schatzanweisungen von 1933 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">97.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2zinsige Preu\u00dfische Schatzanweisungen von 1934 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">98.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">4 1/2zinsige Preu\u00dfische Schatzanweisungen von 1936 Folge I</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">c)</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col2\" valign=\"top\">\n\t\t\t\t\t<SP>L\u00fcbeckische Schuldverschreibungen</SP>\n\t\t\t\t</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">99.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der Abl\u00f6sungsanleihe des L\u00fcbeckischen Staates mit Auslosungsscheinen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">100.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der Abl\u00f6sungsanleihe des L\u00fcbeckischen Staates ohne Auslosungsscheine</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">101.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Auslosungsscheine zur Abl\u00f6sungsanleihe des L\u00fcbeckischen Staates ohne Schuldverschreibungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">102.</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col3\" valign=\"top\">Schuldverschreibungen der 8 % L\u00fcbeckischen Staatsanleihe von 1928 (Zinsen sp\u00e4ter auf 6 % und 4 1/2 % herabgesetzt)</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

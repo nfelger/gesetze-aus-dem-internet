@@ -1,0 +1,58 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR209870930",
+    "firstPublished": "1930-07-24",
+    "sourceTimestamp": "20131008093841",
+    "titleShort": null,
+    "titleLong": "Gesetz betreffend das Internationale \u00dcbereinkommen \u00fcber den Heuervertrag\nder Schiffsleute",
+    "abbreviation": "HeuerVtr\u00dcbkG",
+    "slug": "heuervtruebkg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1930, 987",
+        "periodical": "RGBl II"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab:  1. 1.1964 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR209870930BJNE000100326",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR209870930BJNE000200326",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": null,
+        "body": "<P>... F\u00fcr die Durchf\u00fchrung des \u00dcbereinkommens ist die <I>Seemannsordnung</I> ma\u00dfgebend. ...</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 2 Satz 2 Kursivdruck: Siehe jetzt Seemannsgesetz 9513-1</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR209870930BJNE000300326",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": null,
+        "body": "<P>(1) Dieses Gesetz tritt mit dem auf die Verk\u00fcndung folgenden Tage in Kraft.</P><P>(2)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

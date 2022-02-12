@@ -1,0 +1,107 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR008050964",
+    "firstPublished": "1964-09-09",
+    "sourceTimestamp": "20131202132503",
+    "titleShort": null,
+    "titleLong": "Viertes Gesetz zur \u00c4nderung des Zollgesetzes",
+    "abbreviation": "ZG\u00c4ndG 4 1964",
+    "slug": "zgaendg_4_1964",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1964, 805",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 20. 9.1964 +++)</P>"
+    },
+    "attachments": {
+      "bgbl1_1964_j0806_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/zg_ndg_4_1964/bgbl1_1964_j0806_0010.jpg"
+    },
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR008050964BJNG000100314",
+        "name": "Art 1",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR008050964BJNG000200314",
+        "name": "Art 2",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008050964BJNE000500314",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008050964BJNG000200314"
+        },
+        "body": "<P>Der in der Anlage rot schraffierte Gebietsteil des Freihafens Hamburg - Freihafenteil Waltershof - wird in das Zollgebiet einbezogen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008050964BJNE000600314",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR008050964BJNG000200314"
+        },
+        "body": "<P>Der Bundesminister der Finanzen wird erm\u00e4chtigt, durch Rechtsverordnung das in der Anlage gr\u00fcn schraffierte Gebiet aus dem Zollgebiet auszuschlie\u00dfen und in den Freihafen Hamburg - Freihafenteil Waltershof - einzubeziehen, soweit es die wirtschaftliche Entwicklung erfordert.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008050964BJNG000300314",
+        "name": "Art 3",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz gilt nach \u00a7 12 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin. Rechtsverordnungen, die auf Grund dieses Gesetzes erlassen werden, gelten im Land Berlin nach \u00a7 14 des Dritten \u00dcberleitungsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "headingArticle",
+        "id": "BJNR008050964BJNG000400314",
+        "name": "Art 4",
+        "title": null,
+        "parent": null,
+        "body": "<P>Artikel 2 dieses Gesetzes tritt am 1. Juni 1965 in Kraft. Im \u00fcbrigen tritt dieses Gesetz am Tage nach seiner Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR008050964BJNE000700314",
+        "name": "Anlage",
+        "title": "zum Vierten Gesetz zur \u00c4nderung des Zollgesetzes vom 9. September 1964",
+        "parent": {
+          "type": "headingArticle",
+          "id": "BJNR008050964BJNG000400314"
+        },
+        "body": "<P><noindex><BR /><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 1964, 806)</kommentar></noindex></P><P><IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_1964_j0806_0010.jpg\" alt=\"\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

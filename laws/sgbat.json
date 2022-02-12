@@ -1,0 +1,186 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR030159975",
+    "firstPublished": "1975-12-11",
+    "sourceTimestamp": "20191126212606",
+    "titleShort": null,
+    "titleLong": "Sozialgesetzbuch - Allgemeiner Teil -",
+    "abbreviation": "SGBAT",
+    "slug": "sgbat",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1975, 3015",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 67 Nr. 1 G v. 21.12.2000 I 1983",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis Geltung ab: 1.1.1982 +++)</P><P><BR /> (+++ Ma\u00dfgaben aufgrund EinigVtr nicht mehr anzuwenden gem. Art. 109 Nr. 3 Buchst. d DBuchst. aa G v. 8.12.2010 I 1864 mWv 15.12.2010 +++)</P><P><BR /> Art. I: SGB 1 (860-1) <BR />Art. II, ausgenommen \u00a7 23, aufgeh. durch Art. 67 Nr. 1 G v. 21.12.2000 I 1983 mWv 1.1.2001</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR030159975BJNE001600314",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR030159975BJNG000100314",
+        "name": "Art I",
+        "title": "Sozialgesetzbuch (SGB)",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR030159975BJNG000200314",
+        "name": "Erstes Buch (I)",
+        "title": "Allgemeiner Teil",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG000100314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR030159975BJNG001100314",
+        "name": "Art II",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR030159975BJNG001201308",
+        "name": "Erster Abschnitt",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001100314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR030159975BJNE008518308",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001201308"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR030159975BJNG001301308",
+        "name": "Zweiter Abschnitt",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001100314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR030159975BJNE008601308",
+        "name": "(XXXX) \u00a7\u00a7 2 - 16",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001301308"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR030159975BJNG001401308",
+        "name": "Dritter Abschnitt",
+        "title": "\u00dcberleitungsvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001100314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR030159975BJNE008701308",
+        "name": "(XXXX) \u00a7\u00a7 17 - 20",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001401308"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR030159975BJNG001500314",
+        "name": "Vierter Abschnitt",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001100314"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR030159975BJNE009101308",
+        "name": "(XXXX) \u00a7\u00a7 21 u. 22",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001500314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR030159975BJNE009300314",
+        "name": "\u00a7 23",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR030159975BJNG001500314"
+        },
+        "body": "<P>(1) Dieses Gesetz tritt am 1. Januar 1976 in Kraft. Artikel II \u00a7 4 Nr. 2 tritt mit Wirkung vom 1. Oktober 1975, f\u00fcr eingeschriebene Studenten der staatlichen und der staatlich anerkannten Fachhochschulen mit Wirkung vom 1. September 1975 in Kraft.</P><P>(2) Artikel I \u00a7 44 tritt am 1. Januar 1978 in Kraft. Die Regelung gilt auch f\u00fcr die vor diesem Zeitpunkt f\u00e4llig gewordenen, noch nicht verj\u00e4hrten Anspr\u00fcche auf Geldleistungen, soweit das Verwaltungsverfahren hier\u00fcber zu diesem Zeitpunkt noch nicht abgeschlossen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

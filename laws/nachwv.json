@@ -1,0 +1,619 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR229810006",
+    "firstPublished": "2006-10-20",
+    "sourceTimestamp": "20210128212013",
+    "titleShort": "Nachweisverordnung",
+    "titleLong": "Verordnung \u00fcber die Nachweisf\u00fchrung bei der Entsorgung von Abf\u00e4llen",
+    "abbreviation": "NachwV",
+    "slug": "nachwv",
+    "extraAbbreviations": [
+      "NachwV 2007"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2006, 2298",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 5 Abs. 5 G v. 23.10.2020 I 2232",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.2.2007 +++)<BR /><BR /></pre>Die V wurde als Artikel 1 der V v. 20.10.2006 I 2298 von der Bundesregierung und dem Bundesministerium f\u00fcr Umwelt, Naturschutz und Reaktorsicherheit nach Anh\u00f6rung der beteiligten Kreise, im Einvernehmen mit dem Bundesministerium f\u00fcr Ern\u00e4hrung, Landwirtschaft und Verbraucherschutz mit Zustimmung des Bundesrates erlassen. Sie tritt gem. Art. 8 dieser V am 1.2.2007 in Kraft. <BR />Teil 2 Abschnitt 4, mit Ausnahme des \u00a7 18 Abs. 1 Satz 2, sowie \u00a7 25 Abs. 2 Satz 1 des Artikels 1 der Nachweisverordnung treten am 1. April 2010 in Kraft. \u00a7 18 Abs. 1 Satz 2 tritt am Tag nach der Verk\u00fcndung in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000102377",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P><table frame=\"none\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"89.000000pt\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"546.000000pt\" /><tbody valign=\"top\"><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Teil 1</B></entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Allgemeine Bestimmungen</B></entry></row><row><entry VJ=\"1\">\u00a7 1</entry><entry VJ=\"1\">Anwendungsbereich</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Teil 2</B></entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Nachweisf\u00fchrung \u00fcber die Entsorgung von Abf\u00e4llen</B></entry></row><row><entry VJ=\"1\">\u00a7 2</entry><entry VJ=\"1\">Kreis der Nachweispflichtigen und Form der Nachweisf\u00fchrung</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">\u00a0</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Abschnitt 1</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Nachweis \u00fcber die Zul\u00e4ssigkeit der vorgesehenen Entsorgung</entry></row><row><entry VJ=\"1\">\u00a7 3</entry><entry VJ=\"1\">Entsorgungsnachweis</entry></row><row><entry VJ=\"1\">\u00a7 4</entry><entry VJ=\"1\">Eingangsbest\u00e4tigung</entry></row><row><entry VJ=\"1\">\u00a7 5</entry><entry VJ=\"1\">Best\u00e4tigung des Entsorgungsnachweises</entry></row><row><entry VJ=\"1\">\u00a7 6</entry><entry VJ=\"1\">Handhabung nach Entscheidung</entry></row><row><entry VJ=\"1\">\u00a7 7</entry><entry VJ=\"1\">Freistellung und Privilegierung</entry></row><row><entry VJ=\"1\">\u00a7 8</entry><entry VJ=\"1\">Anordnung, Widerruf</entry></row><row><entry VJ=\"1\">\u00a7 9</entry><entry VJ=\"1\">Sammelentsorgungsnachweis</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">\u00a0</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Abschnitt 2</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Nachweisf\u00fchrung \u00fcber die durchgef\u00fchrte Entsorgung</entry></row><row><entry VJ=\"1\">\u00a7 10</entry><entry VJ=\"1\">Begleitschein</entry></row><row><entry VJ=\"1\">\u00a7 11</entry><entry VJ=\"1\">Ausf\u00fcllen und Handhabung der Begleitscheine</entry></row><row><entry VJ=\"1\">\u00a7 12</entry><entry VJ=\"1\">\u00dcbernahmeschein bei Sammelentsorgung</entry></row><row><entry VJ=\"1\">\u00a7 13</entry><entry VJ=\"1\">Handhabung des Begleitscheins bei Sammelentsorgung</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">\u00a0</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Abschnitt 3</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Sonderf\u00e4lle</entry></row><row><entry VJ=\"1\">\u00a7 14</entry><entry VJ=\"1\">Entsorgung durch Dritte, Verb\u00e4nde und Selbstverwaltungsk\u00f6rperschaften</entry></row><row><entry VJ=\"1\">\u00a7 15</entry><entry VJ=\"1\">Verwertung au\u00dferhalb einer Entsorgungsanlage</entry></row><row><entry VJ=\"1\">\u00a7 16</entry><entry VJ=\"1\">Kleinmengen</entry></row><row><entry VJ=\"1\">\u00a7 16a</entry><entry VJ=\"1\">Vorlage von Belegen auf Verlangen eines fr\u00fcheren Besitzers</entry></row><row><entry VJ=\"1\">\u00a7 16b</entry><entry VJ=\"1\">Mitf\u00fchrungspflicht</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">\u00a0</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Abschnitt 4</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">Elektronische Nachweisf\u00fchrung</entry></row><row><entry VJ=\"1\">\u00a7 17</entry><entry VJ=\"1\">Grundsatz</entry></row><row><entry VJ=\"1\">\u00a7 18</entry><entry VJ=\"1\">Kommunikation</entry></row><row><entry VJ=\"1\">\u00a7 19</entry><entry VJ=\"1\">Signatur, \u00dcbermittlung</entry></row><row><entry VJ=\"1\">\u00a7 20</entry><entry VJ=\"1\">Koordinierung</entry></row><row><entry VJ=\"1\">\u00a7 21</entry><entry VJ=\"1\">Ausnahmen</entry></row><row><entry VJ=\"1\">\u00a7 22</entry><entry VJ=\"1\">St\u00f6rung des Kommunikationssystems</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Teil 3</B></entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Registerf\u00fchrung \u00fcber die Entsorgung von Abf\u00e4llen</B></entry></row><row><entry VJ=\"1\">\u00a7 23</entry><entry VJ=\"1\">Kreis der Registerpflichtigen</entry></row><row><entry VJ=\"1\">\u00a7 24</entry><entry VJ=\"1\">F\u00fchrung der Register</entry></row><row><entry VJ=\"1\">\u00a7 25</entry><entry VJ=\"1\">Dauer der Registrierung, elektronische Registerf\u00fchrung</entry></row><row><entry VJ=\"1\">\u00a7 25a</entry><entry VJ=\"1\">Registerf\u00fchrung durch H\u00e4ndler und Makler</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Teil 4</B></entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Gemeinsame Bestimmungen</B></entry></row><row><entry VJ=\"1\">\u00a7 26</entry><entry VJ=\"1\">Befreiung, Anordnung von Nachweis- und Registerpflichten</entry></row><row><entry VJ=\"1\">\u00a7 27</entry><entry VJ=\"1\">Nachweisf\u00fchrung in besonderen F\u00e4llen</entry></row><row><entry VJ=\"1\">\u00a7 28</entry><entry VJ=\"1\">Vergabe von Kennnummern</entry></row><row><entry VJ=\"1\">\u00a7 29</entry><entry VJ=\"1\">Ordnungswidrigkeiten</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\">\u00a0</entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Teil 5</B></entry></row><row><entry VJ=\"1\" nameend=\"col2\" namest=\"col1\"><B>Schlussbestimmungen</B></entry></row><row><entry VJ=\"1\">\u00a7 30</entry><entry VJ=\"1\">\u00dcbergangsbestimmungen f\u00fcr geltende Freistellungen</entry></row><row><entry VJ=\"1\">\u00a7 31</entry><entry VJ=\"1\">(weggefallen)</entry></row><row><entry VJ=\"1\">\u00a0</entry><entry VJ=\"1\">\u00a0</entry></row><row><entry VJ=\"1\">Anlage 1</entry><entry VJ=\"1\">Formbl\u00e4tter zu Teil 2 Abschnitt 1 und 2 sowie \u00a7 24 Abs. 4</entry></row><row><entry VJ=\"1\">Anlage 2</entry><entry VJ=\"1\">Abf\u00e4lle nach \u00a7 9 Abs. 1 Satz 2 und \u00a7 9 Abs. 3</entry></row><row><entry VJ=\"1\">Anlage 3</entry><entry VJ=\"1\">Vorgaben f\u00fcr strukturierte Nachrichten/Schnittstellen nach \u00a7 18 Abs. 1</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000100000",
+        "name": "Teil 1",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000203377",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000100000"
+        },
+        "body": "<P>(1) Diese Verordnung gilt f\u00fcr die F\u00fchrung von Nachweisen und Registern \u00fcber die Entsorgung von gef\u00e4hrlichen und nicht gef\u00e4hrlichen Abf\u00e4llen elektronisch oder unter Verwendung von Formbl\u00e4ttern durch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erzeuger oder Besitzer von Abf\u00e4llen (Abfallerzeuger),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einsammler oder Bef\u00f6rderer von Abf\u00e4llen (Abfallbef\u00f6rderer),</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betreiber von Anlagen oder Unternehmen, welche Abf\u00e4lle in einem Verfahren nach Anlage 1 oder Anlage 2 des Kreislaufwirtschaftsgesetzes entsorgen (Abfallentsorger), sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">H\u00e4ndler und Makler von Abf\u00e4llen.</LA></DD></DL></P><P>(2) Landesrechtliche Andienungs- und \u00dcberlassungspflichten bleiben unber\u00fchrt.</P><P>(3) Diese Verordnung gilt nicht f\u00fcr private Haushaltungen.</P><P>(4) Diese Verordnung gilt nicht f\u00fcr die Verbringung von Abf\u00e4llen im Sinne der Verordnung (EG) Nr. 1013/2006 des Europ\u00e4ischen Parlaments und des Rates vom 14. Juni 2006 \u00fcber die Verbringung von Abf\u00e4llen (ABl. EU Nr. L 190 S. 1) in der jeweils geltenden Fassung. Im Falle einer Verbringung von Abf\u00e4llen in das Bundesgebiet, die zur vorl\u00e4ufigen Verwertung oder Beseitigung bestimmt sind, gilt diese Verordnung nicht bis zum Abschluss dieser vorl\u00e4ufigen Verwertung oder Beseitigung, wenn diese mit einer nachfolgenden vorl\u00e4ufigen oder nicht vorl\u00e4ufigen Verwertung oder Beseitigung im Bundesgebiet verbunden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000200000",
+        "name": "Teil 2",
+        "title": "Nachweisf\u00fchrung \u00fcber die Entsorgung von Abf\u00e4llen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000301310",
+        "name": "\u00a7 2",
+        "title": "Kreis der Nachweispflichtigen und Form der Nachweisf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000200000"
+        },
+        "body": "<P>(1) Zur Nachweisf\u00fchrung nach diesem Teil verpflichtet sind Abfallerzeuger, Abfallbef\u00f6rderer und Abfallentsorger, soweit eine Pflicht zur F\u00fchrung von Nachweisen nach <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 50 Absatz 1 des Kreislaufwirtschaftsgesetzes \u00fcber die Entsorgung gef\u00e4hrlicher Abf\u00e4lle oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 51 Absatz 1 Satz 1 Nummer 1 des Kreislaufwirtschaftsgesetzes \u00fcber die Entsorgung nicht gef\u00e4hrlicher Abf\u00e4lle auf Anordnung der zust\u00e4ndigen Beh\u00f6rde</LA></DD></DL>besteht.</P><P>(2) Von der Nachweispflicht nach Absatz 1 Nr. 1 ausgenommen sind Abfallerzeuger, wenn bei ihnen nicht mehr als insgesamt zwei Tonnen gef\u00e4hrlicher Abf\u00e4lle (Kleinmengen) j\u00e4hrlich anfallen. Die Pflichten zur F\u00fchrung der \u00dcbernahmescheine nach \u00a7 12 sowie nach \u00a7 16 bleiben unber\u00fchrt.</P><P>(3) Die in den Abschnitten 1 bis 3 bestimmten Verfahren und Inhalte zur F\u00fchrung der Nachweise gelten f\u00fcr die elektronische Nachweisf\u00fchrung und unter Verwendung von Formbl\u00e4ttern, soweit nichts anderes bestimmt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000300000",
+        "name": "Abschnitt 1",
+        "title": "Nachweis \u00fcber die Zul\u00e4ssigkeit \nder vorgesehenen Entsorgung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Entsorgungsnachweis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000300000"
+        },
+        "body": "<P>(1) Wer nachweispflichtige Abf\u00e4lle zur Entsorgung in eine Abfallentsorgungsanlage bringen oder solche Abf\u00e4lle dort annehmen will, hat vor Beginn der Abfallentsorgung die Zul\u00e4ssigkeit der vorgesehenen Entsorgung durch einen Entsorgungsnachweis unter Verwendung der hierf\u00fcr vorgesehenen Formbl\u00e4tter der Anlage 1 zu belegen. Der Entsorgungsnachweis besteht aus dem Deckblatt Entsorgungsnachweise, der verantwortlichen Erkl\u00e4rung des Abfallerzeugers einschlie\u00dflich der Deklarationsanalyse und der Annahmeerkl\u00e4rung des Abfallentsorgers (Nachweiserkl\u00e4rungen) sowie, soweit keine Freistellung von der Pflicht zur Einholung einer Best\u00e4tigung nach \u00a7 5 gem\u00e4\u00df \u00a7 7 vorliegt, der Best\u00e4tigung der f\u00fcr die zur Entsorgung vorgesehenen Anlage (Entsorgungsanlage) zust\u00e4ndigen Beh\u00f6rde. Ein einziger Entsorgungsnachweis kann auch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Entsorgung von Alt\u00f6len mit mehr als einem Abfallschl\u00fcssel gef\u00fchrt werden, wenn die Alt\u00f6le derselben Sammelkategorie oder den Sammelkategorien 2 bis 4 nach der Anlage 1 der Alt\u00f6lverordnung angeh\u00f6ren, sofern eine Getrennthaltung nach der Alt\u00f6lverordnung nicht vorgeschrieben ist,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Entsorgung von Alth\u00f6lzern mit mehr als einem Abfallschl\u00fcssel gef\u00fchrt werden, wenn die Alth\u00f6lzer derselben Altholzkategorie A I bis A IV des Anhangs III zu \u00a7 5 Abs. 1 der Altholzverordnung angeh\u00f6ren, sofern eine Getrennthaltung nach der Altholzverordnung nicht vorgeschrieben ist.</LA></DD> </DL>In diesem Fall ist der Nachweis \u00fcber die Zul\u00e4ssigkeit der Entsorgung f\u00fcr den die Alt\u00f6lsammelkategorie oder die Altholzkategorie pr\u00e4genden Abfallschl\u00fcssel zu f\u00fchren; die \u00fcbrigen Abfallschl\u00fcssel, die ebenfalls vom Entsorgungsnachweis erfasst sein sollen, sind in der Deklarationsanalyse aufzuf\u00fchren.</P><P>(2) Der Abfallerzeuger hat vor Zuleitung der Nachweiserkl\u00e4rungen an die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde das Deckblatt Entsorgungsnachweise sowie den Teil verantwortliche Erkl\u00e4rung einschlie\u00dflich der Deklarationsanalyse des Entsorgungsnachweises auszuf\u00fcllen und dem Abfallentsorger zuzuleiten. Eine Deklarationsanalyse ist nicht erforderlich, soweit die Art, Beschaffenheit, die den Abfall bestimmenden Parameter und Konzentrationswerte bekannt sind oder das Verfahren, bei dem der Abfall anf\u00e4llt und im Falle der Vorbehandlung des Abfalls, die Art der Vorbehandlung des Abfalls angegeben wird und sich aus diesen Angaben die Art, Beschaffenheit und Zusammensetzung in einem f\u00fcr die weitere Durchf\u00fchrung des Nachweisverfahrens ausreichenden Umfang ergeben. Die Angaben nach Satz 2 sind im Feld (Weitere Angaben) des Formblattes Deklarationsanalyse einzutragen.</P><P>(3) Der Abfallentsorger hat vor Zuleitung der Nachweiserkl\u00e4rungen an die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde den Teil Annahmeerkl\u00e4rung auszuf\u00fcllen und eine Ablichtung dem Abfallerzeuger zuzuleiten. Das Original der Nachweiserkl\u00e4rungen \u00fcbersendet der Abfallentsorger mit dem Teil beh\u00f6rdliche Best\u00e4tigung der f\u00fcr die Entsorgungsanlage zust\u00e4ndigen Beh\u00f6rde.</P><P>(4) Der Abfallerzeuger kann mit der Abgabe der verantwortlichen Erkl\u00e4rung einen Vertreter bevollm\u00e4chtigen. Die Vollmacht ist schriftlich zu erteilen und auf Verlangen der f\u00fcr den Erzeuger oder der f\u00fcr den Entsorger zust\u00e4ndigen Beh\u00f6rde vorzulegen. Im Formblatt Deckblatt Entsorgungsnachweise DEN sind sowohl der Abfallerzeuger als auch der bevollm\u00e4chtigte Vertreter anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Eingangsbest\u00e4tigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000300000"
+        },
+        "body": "<P>Die f\u00fcr den Abfallentsorger zust\u00e4ndige Beh\u00f6rde hat dem Abfallerzeuger und dem Abfallentsorger innerhalb von zw\u00f6lf Kalendertagen den Eingang der Nachweiserkl\u00e4rungen unter Angabe des Eingangsdatums zu best\u00e4tigen (Eingangsbest\u00e4tigung), sofern sie nicht bereits innerhalb dieser Frist die Zul\u00e4ssigkeit der vorgesehenen Entsorgung gem\u00e4\u00df \u00a7 5 Abs. 1 best\u00e4tigt. Sie hat nach Eingang unverz\u00fcglich zu pr\u00fcfen, ob die Nachweiserkl\u00e4rungen den Anforderungen entsprechen. Entsprechen die Nachweiserkl\u00e4rungen nicht den Anforderungen, so hat die f\u00fcr den Abfallentsorger zust\u00e4ndige Beh\u00f6rde den Abfallerzeuger und den Abfallentsorger unverz\u00fcglich aufzufordern, die Nachweiserkl\u00e4rungen innerhalb einer angemessenen Frist zu erg\u00e4nzen oder weitere f\u00fcr die Pr\u00fcfung erforderliche Unterlagen vorzulegen. Kommt der Abfallerzeuger oder der Abfallentsorger der Aufforderung zur Erg\u00e4nzung der Nachweiserkl\u00e4rungen oder zur Vorlage weiterer Unterlagen nach, so finden im Weiteren die S\u00e4tze 1 bis 3 entsprechende Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000601310",
+        "name": "\u00a7 5",
+        "title": "Best\u00e4tigung des Entsorgungsnachweises",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000300000"
+        },
+        "body": "<P>(1) Die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde best\u00e4tigt innerhalb von 30 Kalendertagen nach Eingang der Nachweiserkl\u00e4rungen die Zul\u00e4ssigkeit der vorgesehenen Entsorgung, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abf\u00e4lle in der vorgesehenen Entsorgungsanlage behandelt, stofflich oder energetisch verwertet, gelagert oder abgelagert werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ordnungsgem\u00e4\u00dfheit und Schadlosigkeit der Verwertung oder die Gemeinwohlvertr\u00e4glichkeit der Beseitigung der Abf\u00e4lle gew\u00e4hrleistet ist und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Falle einer Lagerung der Abf\u00e4lle die weitere Entsorgung durch entsprechende Entsorgungsnachweise bereits festgelegt ist.</LA></DD></DL>Der Lauf der Frist nach Satz 1 wird durch eine Aufforderung zur Erg\u00e4nzung der Nachweiserkl\u00e4rungen oder zur Vorlage weiterer Unterlagen nach \u00a7 4 Satz 3 unterbrochen, soweit die Erg\u00e4nzung oder die weiteren Unterlagen zur Bearbeitung der Nachweiserkl\u00e4rungen unerl\u00e4sslich sind. Mit Eingang der erg\u00e4nzten Nachweiserkl\u00e4rungen oder der weiteren Unterlagen bei der Beh\u00f6rde wird eine neue Frist nach Satz 1 in Gang gesetzt.</P><P>(2) Die die Entsorgungsanlage betreffenden beh\u00f6rdlichen Entscheidungen, insbesondere Zulassungen, Genehmigungen, Planfeststellungen oder bergrechtliche Betriebspl\u00e4ne, welche die Einhaltung der in Absatz 1 genannten Voraussetzungen gew\u00e4hrleisten, sind bei der Entscheidung \u00fcber die Best\u00e4tigung zu beachten. Hierbei sind die Angaben aus einer der Beh\u00f6rde vorliegenden Umwelterkl\u00e4rung gem\u00e4\u00df Artikel 3 Abs. 2 Buchstabe c und e und Abs. 3 Buchstabe b in Verbindung mit Anhang III Abschnitt 3.2 der Verordnung (EG) Nr. 761/2001 zu ber\u00fccksichtigen.</P><P>(3) Bei der Entscheidung \u00fcber die Zul\u00e4ssigkeit der Entsorgung ist nicht zu pr\u00fcfen, ob es sich bei der vorgesehenen Entsorgungsma\u00dfnahme um eine Verwertung oder Beseitigung von Abf\u00e4llen handelt oder die im \u00dcbrigen aus dem Kreislaufwirtschaftsgesetz und sonstigen Rechtsvorschriften des Bundes und der L\u00e4nder folgenden Pflichten des Abfallerzeugers eingehalten sind.</P><P>(4) Die Best\u00e4tigung gilt l\u00e4ngstens f\u00fcnf Jahre. Sie kann unter Bedingungen erteilt und mit Auflagen verbunden werden sowie einen k\u00fcrzeren Geltungszeitraum als nach Satz 1 vorsehen, soweit dies erforderlich ist, um die Erf\u00fcllung der in Absatz 1 Satz 1 genannten Best\u00e4tigungsvoraussetzungen sicherzustellen.</P><P>(5) Trifft die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde innerhalb der in Absatz 1 bestimmten Frist keine Entscheidung \u00fcber die beantragte Best\u00e4tigung, so gilt die Best\u00e4tigung als erteilt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000701310",
+        "name": "\u00a7 6",
+        "title": "Handhabung nach Entscheidung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000300000"
+        },
+        "body": "<P>(1) Die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde \u00fcbersendet das Original des best\u00e4tigten Entsorgungsnachweises dem Abfallerzeuger sowie eine Ablichtung dem Abfallentsorger. Das Original des Entsorgungsnachweises verbleibt beim Abfallerzeuger, der eine Ablichtung sp\u00e4testens vor Beginn der Entsorgung der f\u00fcr ihn zust\u00e4ndigen Beh\u00f6rde zuzuleiten hat.</P><P>(2) Gilt die Best\u00e4tigung nach \u00a7 5 Abs. 5 als erteilt, so hat der Abfallerzeuger vor \u00dcbersendung der Nachweiserkl\u00e4rungen an die f\u00fcr ihn zust\u00e4ndige Beh\u00f6rde auf der ihm nach \u00a7 3 Abs. 3 Satz 1 \u00fcbersandten Ablichtung der Nachweiserkl\u00e4rungen den Ablauf der Frist nach \u00a7 5 Abs. 1 Satz 1 zu vermerken. Er \u00fcbersendet sp\u00e4testens vor Beginn der Entsorgung die Ablichtung der Nachweiserkl\u00e4rungen sowie der Eingangsbest\u00e4tigung nach \u00a7 4 der f\u00fcr ihn zust\u00e4ndigen Beh\u00f6rde.</P><P>(3) Der Abfallerzeuger hat dem Abfallbef\u00f6rderer eine Ablichtung des Entsorgungsnachweises zu \u00fcbergeben oder, soweit die Best\u00e4tigung nach \u00a7 5 Abs. 5 als erteilt gilt, eine Ablichtung der Nachweiserkl\u00e4rungen sowie der Eingangsbest\u00e4tigung nach \u00a7 4. Der Bef\u00f6rderer, auch jeder weitere Bef\u00f6rderer, hat die in Satz 1 genannten Unterlagen bei der Bef\u00f6rderung mitzuf\u00fchren und diese Unterlagen auf Verlangen den zur Kontrolle und \u00dcberwachung Befugten vorzulegen.</P><P>(4) Erfolgt die Bef\u00f6rderung mittels schienengebundener Fahrzeuge, so entf\u00e4llt die Pflicht zur Mitf\u00fchrung von Unterlagen nach Absatz 3 Satz 2. In diesem Fall hat der Abfallbef\u00f6rderer in geeigneter Weise sicherzustellen, dass bei einem Wechsel des Abfallbef\u00f6rderers die in Absatz 3 Satz 2 genannten Unterlagen \u00fcbergeben werden.</P><P>(5) Wird die Best\u00e4tigung abgelehnt, fertigt die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde f\u00fcr sich eine Ablichtung der Originalunterlagen an. Sie \u00fcbersendet die Originalunterlagen unmittelbar an den Abfallerzeuger sowie eine Ablichtung an die f\u00fcr den Abfallerzeuger zust\u00e4ndige Beh\u00f6rde und den Abfallentsorger.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000802116",
+        "name": "\u00a7 7",
+        "title": "Freistellung und Privilegierung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000300000"
+        },
+        "body": "<P>(1) Die Pflicht zur Erteilung einer Eingangsbest\u00e4tigung nach \u00a7 4 und zur Einholung einer Best\u00e4tigung nach \u00a7 5 entf\u00e4llt, soweit der Abfallentsorger f\u00fcr die von ihm betriebene Abfallentsorgungsanlage und dort durchzuf\u00fchrende Behandlung, stoffliche oder energetische Verwertung, Lagerung oder Ablagerung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Entsorgungsfachbetrieb zertifiziert,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Antrag durch die zust\u00e4ndige Beh\u00f6rde von der Best\u00e4tigungspflicht freigestellt worden ist oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die betriebene Abfallentsorgungsanlage zu einem nach der Verordnung (EG) Nr. 761/2001 vom 19. M\u00e4rz 2001 \u00fcber die freiwillige Beteiligung von Organisationen an einem Gemeinschaftssystem f\u00fcr das Umweltmanagement und die Umweltbetriebspr\u00fcfung (EMAS) (ABl. EG Nr. L 114 S. 1) und nach dem Umweltauditgesetz in das EMAS-Register eingetragenen Standort oder Teilstandort eines Unternehmens geh\u00f6rt; eine Eintragung ist der zust\u00e4ndigen Beh\u00f6rde mitzuteilen.</LA></DD></DL>\u00a7 5 Abs. 1 Satz 1 Nr. 3 findet entsprechende Anwendung.</P><P>(2) Die Freistellung nach Absatz 1 Nr. 1 gilt nur, wenn der f\u00fcr die Entsorgungsanlage zust\u00e4ndigen Beh\u00f6rde ein g\u00fcltiges \u00dcberwachungszertifikat vorliegt, in dem die zertifizierten T\u00e4tigkeiten des Betriebes bezogen auf seine Standorte und Anlagen einschlie\u00dflich der jeweiligen Abfallarten und dazugeh\u00f6rigen Abfallschl\u00fcssel bezeichnet sind. Die Freistellung nach Absatz 1 Nr. 3 gilt nur, wenn in der f\u00fcr g\u00fcltig erkl\u00e4rten Umwelterkl\u00e4rung im Sinne von Artikel 3 Abs. 2 Buchstabe c und e und Abs. 3 Buchstabe b in Verbindung mit Anhang III Abschnitt 3.2 der Verordnung (EG) Nr. 761/2001 Angaben zur Abfallentsorgungsanlage und zu den Abfallschl\u00fcsseln der in der Anlage entsorgten Abf\u00e4lle enthalten sind und diese Angaben mit den entsprechenden Angaben aus den Nachweiserkl\u00e4rungen \u00fcbereinstimmen.</P><P>(3) Die zust\u00e4ndige Beh\u00f6rde hat auf Antrag unter Verwendung der hierf\u00fcr vorgesehenen Formbl\u00e4tter der Anlage 1 den Abfallentsorger nach Absatz 1 Nr. 2 von der Best\u00e4tigungspflicht freizustellen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einhaltung der in \u00a7 5 Abs. 1 Satz 1 genannten Voraussetzungen hinsichtlich der im Antrag aufgelisteten Abf\u00e4lle gew\u00e4hrleistet ist und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">keine Anhaltspunkte vorliegen oder Tatsachen bekannt sind, dass der Abfallentsorger gegen die ihm bei der Entsorgung oder im Rahmen der \u00dcberwachung obliegenden Pflichten verst\u00f6\u00dft oder versto\u00dfen hat.</LA></DD></DL>\u00a7 5 Abs. 2, 3 und 4 Satz 2 gilt entsprechend.</P><P>(4) Soweit die Best\u00e4tigungspflicht nach Absatz 1 entf\u00e4llt, \u00fcbersendet der Abfallentsorger die nach \u00a7 3 Abs. 2 und 3 zu erbringenden Nachweiserkl\u00e4rungen vor Beginn der vorgesehenen Entsorgung an die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde. Der Abfallerzeuger \u00fcbersendet vor Beginn der Entsorgung eine Ablichtung der vollst\u00e4ndigen Nachweiserkl\u00e4rungen an die f\u00fcr ihn zust\u00e4ndige Beh\u00f6rde. Die Nachweiserkl\u00e4rungen gelten l\u00e4ngstens f\u00fcnf Jahre ab dem Datum der Annahmeerkl\u00e4rung des Abfallentsorgers. Die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde kann in entsprechender Anwendung des \u00a7 5 Abs. 4 eine k\u00fcrzere Geltungsdauer der Nachweiserkl\u00e4rungen sowie Auflagen f\u00fcr die Durchf\u00fchrung der T\u00e4tigkeiten bestimmen. \u00a7 6 Abs. 3 und 4 gilt entsprechend.</P><P>(5) Der Abfallentsorger hat dem Abfallerzeuger unverz\u00fcglich mitzuteilen, wenn die auf Grund des Absatzes 1 Satz 1 Nr. 2 und Absatz 3 erteilte Freistellung unwirksam wird, die Voraussetzungen der Freistellung nach Absatz 1 Satz 1 Nr. 1 oder 3 oder Absatz 2 entfallen sind oder gegen\u00fcber dem Abfallentsorger eine Anordnung oder ein Widerruf nach \u00a7 8 ergangen ist. Soweit die Voraussetzungen f\u00fcr eine Freistellung nach Absatz 1 Satz 1 Nr. 3 entfallen, hat dies der Abfallentsorger auch der f\u00fcr ihn zust\u00e4ndigen Beh\u00f6rde mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Anordnung, Widerruf",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000300000"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde kann anordnen, dass der Abfallerzeuger und der nach \u00a7 7 Abs. 1 freigestellte Abfallentsorger abweichend von \u00a7 7 Abs. 4 zum Nachweis der Zul\u00e4ssigkeit der Entsorgung in bestimmten F\u00e4llen eine Best\u00e4tigung nach \u00a7 5 einholen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Tatsachen die Annahme rechtfertigen, dass der Abfallerzeuger oder der Abfallentsorger in diesen F\u00e4llen gegen die ihnen bei der Abfallentsorgung oder im Rahmen der \u00dcberwachung obliegenden Pflichten versto\u00dfen oder versto\u00dfen haben oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstige Gr\u00fcnde des Wohls der Allgemeinheit die Anordnung der Einholung einer Best\u00e4tigung erfordern.</LA></DD> </DL>Sind der zust\u00e4ndigen Beh\u00f6rde Tatsachen im Sinne des Satzes 1 Nr. 1 bekannt, obliegt es dem Abfallerzeuger oder dem Abfallentsorger, diese zu widerlegen.</P><P>(2) Rechtfertigen im Falle des Absatzes 1 Nr. 1 Tatsachen die Annahme eines Pflichtenversto\u00dfes des Abfallentsorgers, so kann die zust\u00e4ndige Beh\u00f6rde <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">gegen\u00fcber einem nach \u00a7 7 Abs. 1 Nr. 1 oder 3 freigestellten Abfallentsorger auch anordnen, dass dieser abweichend von \u00a7 7 Abs. 1 Abf\u00e4lle nur nach vorhergehender Best\u00e4tigung nach \u00a7 5 annehmen darf und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">gegen\u00fcber einem nach \u00a7 7 Abs. 1 Nr. 2 auf Antrag freigestellten Abfallentsorger die Freistellung widerrufen,</LA></DD> </DL>wenn der freigestellte Abfallentsorger nicht innerhalb einer von der zust\u00e4ndigen Beh\u00f6rde angemessen gesetzten Frist die Tatsachen widerlegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Sammelentsorgungsnachweis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000300000"
+        },
+        "body": "<P>(1) Abweichend von \u00a7 3 kann der Nachweis \u00fcber die Zul\u00e4ssigkeit der vorgesehenen Entsorgung vom Einsammler durch einen Sammelentsorgungsnachweis gef\u00fchrt werden, wenn die einzusammelnden Abf\u00e4lle <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">denselben Abfallschl\u00fcssel haben,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den gleichen Entsorgungsweg haben,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">in ihrer Zusammensetzung den im Sammelentsorgungsnachweis genannten Ma\u00dfgaben f\u00fcr die Sammelcharge entsprechen und</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die bei dem einzelnen Abfallerzeuger am jeweiligen Standort anfallende Abfallmenge 20 Tonnen je Abfallschl\u00fcssel und Kalenderjahr nicht \u00fcbersteigt.</LA></DD> </DL>Satz 1 Nr. 4 gilt nicht f\u00fcr die Einsammlung der in Anlage 2 Buchstabe a genannten Abf\u00e4lle.</P><P>(2) Abweichend von Absatz 1 Satz 1 Nr. 1 und 4 ist die F\u00fchrung eines Sammelentsorgungsnachweises <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr eingesammelte Alt\u00f6le auch dann zul\u00e4ssig, wenn die Alt\u00f6le derselben Sammelkategorie oder den Sammelkategorien 2 bis 4 nach der Anlage 1 der Alt\u00f6lverordnung angeh\u00f6ren, soweit eine Getrennthaltung nach der Alt\u00f6lverordnung nicht vorgeschrieben ist und die bei dem einzelnen Alt\u00f6lerzeuger eingesammelte Alt\u00f6lmenge 20 Tonnen je Sammelkategorie und Kalenderjahr nicht \u00fcbersteigt und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr eingesammelte Alth\u00f6lzer auch dann zul\u00e4ssig, wenn die Alth\u00f6lzer derselben Altholzkategorie A I bis A IV des Anhangs III zu \u00a7 5 Abs. 1 der Altholzverordnung angeh\u00f6ren, soweit eine Getrennthaltung nach der Altholzverordnung nicht vorgeschrieben ist und die bei dem einzelnen Altholzerzeuger eingesammelte Altholzmenge 20 Tonnen je Altholzkategorie und Kalenderjahr nicht \u00fcbersteigt.</LA></DD> </DL>Im Falle der Einsammlung von Alt\u00f6len oder Alth\u00f6lzern kann der Nachweis \u00fcber die Zul\u00e4ssigkeit der Entsorgung durch den die Alt\u00f6lsammelkategorie oder die Altholzkategorie pr\u00e4genden Abfallschl\u00fcssel gef\u00fchrt werden.</P><P>(3) Auf die F\u00fchrung des Sammelentsorgungsnachweises finden \u00a7 3 Abs. 1 bis 3 und die \u00a7\u00a7 4 bis 6 entsprechende Anwendung mit der Ma\u00dfgabe, dass die den Abfallerzeuger nach diesen Bestimmungen treffenden Pflichten entsprechend durch den Einsammler zu erf\u00fcllen sind. Bei Einsammlung der in Anlage 2 Buchstabe a und b genannten Abf\u00e4lle finden auch die \u00a7\u00a7 7 und 8 Anwendung; die Abs\u00e4tze 1, 2 und 3 Satz 1 sowie die Abs\u00e4tze 4 bis 6 gelten entsprechend.</P><P>(4) Soweit der Einsammlungsbereich die Grenzen des Landes \u00fcberschreitet, in dem die f\u00fcr den Einsammler zust\u00e4ndige Beh\u00f6rde ihren Sitz hat, hat der Einsammler den Sammelentsorgungsnachweis oder bei Entfallen der Best\u00e4tigungspflicht nach Absatz 3 Satz 2 die Nachweiserkl\u00e4rungen sp\u00e4testens vor Beginn der Einsammlung zus\u00e4tzlich auch den zust\u00e4ndigen Beh\u00f6rden der anderen L\u00e4nder zur Kenntnis zu geben.</P><P>(5) Der Einsammler hat \u00fcber die Zul\u00e4ssigkeit der vorgesehenen Entsorgung auch dann einen Sammelentsorgungsnachweis nach den Abs\u00e4tzen 1 bis 4 zu f\u00fchren, wenn die Erzeuger der eingesammelten Abf\u00e4lle nach \u00a7 2 Abs. 2 von Nachweispflichten ausgenommen sind.</P><P>(6) Der Sammelentsorgungsnachweis nach Absatz 1 ist nicht \u00fcbertragbar.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000400000",
+        "name": "Abschnitt 2",
+        "title": "Nachweisf\u00fchrung \u00fcber die durchgef\u00fchrte \nEntsorgung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001101377",
+        "name": "\u00a7 10",
+        "title": "Begleitschein",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000400000"
+        },
+        "body": "<P>(1) Der Nachweis \u00fcber die durchgef\u00fchrte Entsorgung nachweispflichtiger Abf\u00e4lle wird mit Hilfe der Begleitscheine unter Verwendung der hierf\u00fcr vorgesehenen Formbl\u00e4tter der Anlage 1 gef\u00fchrt.</P><P>(2) Bei der \u00dcbergabe von Abf\u00e4llen aus dem Besitz eines Abfallerzeugers ist f\u00fcr jede Abfallart ein gesonderter Satz von Begleitscheinen zu verwenden, der aus sechs Ausfertigungen besteht. Die Zahl der auszuf\u00fcllenden Ausfertigungen verringert sich, sobald Abfallerzeuger oder Abfallbef\u00f6rderer und Abfallentsorger ganz oder teilweise personengleich sind. Bei einem Wechsel des Abfallbef\u00f6rderers ist die \u00dcbergabe der Abf\u00e4lle dem \u00dcbergebenden vom \u00fcbernehmenden Abfallbef\u00f6rderer mittels \u00dcbernahmeschein in entsprechender Anwendung des \u00a7 12 oder in anderer geeigneter Weise zu bescheinigen. Satz 3 gilt entsprechend f\u00fcr die \u00dcbergabe der Abf\u00e4lle an den Betreiber eines Gel\u00e4ndes zur kurzfristigen Lagerung oder zum Umschlag und von diesem Betreiber an den weiteren Bef\u00f6rderer.</P><P>(3) Von den Ausfertigungen der Begleitscheine sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausfertigungen 1 (wei\u00df) und 5 (altgold) als Belege f\u00fcr das Register des Abfallerzeugers,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausfertigungen 2 (rosa) und 3 (blau) zur Vorlage an die zust\u00e4ndige Beh\u00f6rde,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausfertigung 4 (gelb) als Beleg f\u00fcr das Register des Abfallbef\u00f6rderers, bei einem Wechsel des Abfallbef\u00f6rderers f\u00fcr das Register des letzten Abfallbef\u00f6rderers,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausfertigung 6 (gr\u00fcn) als Beleg f\u00fcr das Register des Abfallentsorgers</LA></DD></DL>bestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001201377",
+        "name": "\u00a7 11",
+        "title": "Ausf\u00fcllen und Handhabung der Begleitscheine",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000400000"
+        },
+        "body": "<P>(1) Die Begleitscheine sind nach Ma\u00dfgabe der f\u00fcr die jeweilige Person bestimmten Aufdrucke auf den Ausfertigungen auszuf\u00fcllen und zu unterschreiben, und zwar <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">vom Abfallerzeuger: sp\u00e4testens bei \u00dcbergabe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">vom Bef\u00f6rderer oder Einsammler sowie von jedem weiteren Bef\u00f6rderer: sp\u00e4testens bei \u00dcbernahme,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">vom Betreiber eines Gel\u00e4ndes zur kurzfristigen Lagerung oder zum Umschlag: sp\u00e4testens bei \u00dcbernahme und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">vom Abfallentsorger: unverz\u00fcglich nach Annahme der Abf\u00e4lle zur ordnungsgem\u00e4\u00dfen Entsorgung.</LA></DD></DL>Liegt ein Entsorgungsnachweis f\u00fcr die Entsorgung von Alt\u00f6len oder Alth\u00f6lzern mit mehr als einem Abfallschl\u00fcssel vor, hat der Abfallerzeuger im Abfallschl\u00fcsselfeld des Begleitscheins den pr\u00e4genden Abfallschl\u00fcssel einzutragen und im Mehrzweckfeld \"Frei f\u00fcr Vermerke\" die Abfallschl\u00fcssel der tats\u00e4chlich auf der Grundlage dieses Begleitscheins entsorgten Abf\u00e4lle. Zu den in den S\u00e4tzen 1 und 2 bezeichneten Zwecken sind die Begleitscheine als Begleitscheinsatz im Durchschreibeverfahren zu verwenden. Der Begleitscheinsatz beginnt mit der Ausfertigung 2 (rosa). Es folgen in numerischer Reihenfolge die Ausfertigungen 3 (blau) bis 6 (gr\u00fcn). Als letzte Ausfertigung wird die Ausfertigung 1 (wei\u00df) angef\u00fcgt. Der Abfallerzeuger, der Einsammler oder der Bef\u00f6rderer f\u00fcllt entsprechend den Anforderungen nach Satz 1 die f\u00fcr ihn bestimmten Aufdrucke der Ausfertigung 1 (wei\u00df) aus, in dem er die entsprechenden Aufdrucke der Ausfertigung 2 (rosa) ausf\u00fcllt und die Angaben bis zur Ausfertigung 1 (wei\u00df) durchschreibt.</P><P>(2) Bei \u00dcbernahme der Abf\u00e4lle \u00fcbergibt der Abfallbef\u00f6rderer dem Abfallerzeuger die Ausfertigung 1 (wei\u00df) der Begleitscheine als Beleg f\u00fcr das Register, nachdem er die ordnungsgem\u00e4\u00dfe Bef\u00f6rderung versichert und die erforderlichen Erg\u00e4nzungen vorgenommen hat. Die Ausfertigungen 2 bis 6 hat der Abfallbef\u00f6rderer w\u00e4hrend des Bef\u00f6rderungsvorganges mitzuf\u00fchren und dem Abfallentsorger bei \u00dcbergabe der Abf\u00e4lle auszuh\u00e4ndigen sowie auf Verlangen den zur \u00dcberwachung und Kontrolle Befugten vorzulegen. Satz 2 gilt entsprechend f\u00fcr weitere an der Bef\u00f6rderung Beteiligte. Bei einer kurzfristigen Lagerung oder einem Umschlag sind die Ausfertigungen 2 bis 6 vom Abfallbef\u00f6rderer dem Betreiber des Lager- oder Umschlagplatzes und von diesem dem \u00fcbernehmenden Bef\u00f6rderer jeweils bei \u00dcbergabe der Abf\u00e4lle auszuh\u00e4ndigen.</P><P>(3) Sp\u00e4testens zehn Kalendertage nach Annahme der Abf\u00e4lle vom Abfallbef\u00f6rderer \u00fcbergibt oder \u00fcbersendet der Abfallentsorger die Ausfertigungen 2 (rosa) und 3 (blau) der f\u00fcr die Entsorgungsanlage zust\u00e4ndigen Beh\u00f6rde als Beleg \u00fcber die Annahme der Abf\u00e4lle; die Ausfertigung 4 (gelb) \u00fcbergibt oder \u00fcbersendet er dem Abfallbef\u00f6rderer, die Ausfertigung 5 (altgold) dem Abfallerzeuger als Beleg zu deren Registern. Die Ausfertigung 6 (gr\u00fcn) beh\u00e4lt der Abfallentsorger als Beleg f\u00fcr sein Register.</P><P>(4) Sp\u00e4testens zehn Kalendertage nach Erhalt \u00fcbersendet die f\u00fcr die Entsorgungsanlage zust\u00e4ndige Beh\u00f6rde die Ausfertigung 2 (rosa) an die f\u00fcr den Abfallerzeuger zust\u00e4ndige Beh\u00f6rde; im Falle der Sammelentsorgung erfolgt die \u00dcbersendung an die f\u00fcr das jeweilige Einsammlungsgebiet zust\u00e4ndige Beh\u00f6rde.</P><P>(5) Erfolgt die Bef\u00f6rderung mittels schienengebundener Fahrzeuge, so entf\u00e4llt die Pflicht zur Mitf\u00fchrung der in Absatz 2 genannten Ausfertigungen w\u00e4hrend des Bef\u00f6rderungsvorganges. In diesem Fall hat der Bef\u00f6rderer sicherzustellen, dass bei einem Wechsel des Bef\u00f6rderers die in Absatz 2 genannten Ausfertigungen \u00fcbergeben werden.</P><P>(6) Wird der Begleitschein ge\u00e4ndert oder erg\u00e4nzt, muss der ge\u00e4nderte oder erg\u00e4nzte Begleitschein unverz\u00fcglich erneut den zust\u00e4ndigen Beh\u00f6rden und den \u00fcbrigen am Begleitscheinverfahren Beteiligten \u00fcbersandt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001302116",
+        "name": "\u00a7 12",
+        "title": "\u00dcbernahmeschein bei Sammelentsorgung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000400000"
+        },
+        "body": "<P>(1) Bei der Verwendung eines Sammelentsorgungsnachweises oder der Nachweiserkl\u00e4rungen bei Entfallen der Best\u00e4tigungspflicht nach \u00a7 9 Abs. 3 Satz 2 wird der Nachweis \u00fcber die durchgef\u00fchrte Entsorgung mit Hilfe der \u00dcbernahmescheine unter Verwendung der hierf\u00fcr vorgesehenen Formbl\u00e4tter der Anlage 1, die als \u00dcbernahmescheinsatz zu verwenden sind, und der Begleitscheine im Sinne des \u00a7 10 gef\u00fchrt. Auf den \u00dcbernahmeschein finden die Bestimmungen des \u00a7 10 Abs. 2 entsprechende Anwendung.</P><P>(2) Der \u00dcbernahmeschein besteht aus zwei Ausfertigungen. Davon sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausfertigung 1 als Beleg f\u00fcr das Register des Abfallerzeugers,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausfertigung 2 als Beleg f\u00fcr das Register des Einsammlers</LA></DD></DL>bestimmt.</P><P>(3) Der Abfallerzeuger sowie der Einsammler haben die \u00dcbernahmescheine nach Ma\u00dfgabe der f\u00fcr ihn bestimmten Aufdrucke auf den Ausfertigungen sp\u00e4testens bei \u00dcbernahme der Abf\u00e4lle durch den Einsammler auszuf\u00fcllen. Liegt ein Sammelentsorgungsnachweis f\u00fcr die Entsorgung von Alt\u00f6len oder Alth\u00f6lzern mit mehr als einem Abfallschl\u00fcssel vor, haben der Einsammler und der Abfallerzeuger im Abfallschl\u00fcsselfeld des \u00dcbernahmescheins den pr\u00e4genden Abfallschl\u00fcssel einzutragen und im Mehrzweckfeld \"Frei f\u00fcr Vermerke\" die Abfallschl\u00fcssel der tats\u00e4chlich auf der Grundlage dieses \u00dcbernahmescheins \u00fcbernommenen Abf\u00e4lle.</P><P>(4) Bei der \u00dcbernahme der Abf\u00e4lle \u00fcbergibt der Einsammler dem Abfallerzeuger die Ausfertigung 1 des \u00dcbernahmescheins als Beleg f\u00fcr dessen Register. Die Ausfertigung 2 hat der Einsammler w\u00e4hrend des Bef\u00f6rderungsvorganges mitzuf\u00fchren, auf Verlangen den zur \u00dcberwachung und Kontrolle Befugten vorzulegen und nach \u00dcbergabe der Abf\u00e4lle an den Abfallentsorger zusammen mit den Ausfertigungen 4 des Begleitscheins in sein Register einzustellen. \u00a7 11 Abs. 5 findet entsprechende Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001400000",
+        "name": "\u00a7 13",
+        "title": "Handhabung des Begleitscheins bei Sammelentsorgung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000400000"
+        },
+        "body": "<P>(1) Der Einsammler hat mit Beginn der Einsammlung nach Ma\u00dfgabe des \u00a7 11 Abs. 1 die Begleitscheine auszuf\u00fcllen und sich dabei als Abfallbef\u00f6rderer einzutragen sowie insbesondere die Sammelentsorgungsnachweisnummer anzugeben. Der Einsammler hat im Erzeugerfeld ausschlie\u00dflich eine fiktive Erzeugernummer einzutragen. Diese beginnt mit dem Landeskenner gem\u00e4\u00df der Vorgaben des \u00a7 28 Abs. 6, es folgt ein \"S\", in die restlichen Felder werden Nullen eingetragen. Vor \u00dcbergabe der Abf\u00e4lle hat er in das Mehrzweckfeld des Begleitscheines \"Frei f\u00fcr Vermerke\" die Nummern der \u00dcbernahmescheine einzutragen, aus denen sich die Sammelladung zusammensetzt. Das weitere Verfahren richtet sich nach den Bestimmungen \u00fcber die Begleitscheine.</P><P>(2) Erstreckt sich die Einsammlung \u00fcber die Grenzen eines Landes hinaus, so ist f\u00fcr jedes Land, in dem gesammelt wird, ein separater Begleitschein zu f\u00fchren. Die Kennung des Einsammlungsgebietes ist, wie in Absatz 1 beschrieben, einzutragen. Nach Annahme der Abf\u00e4lle durch den Abfallentsorger ist die Begleitscheinausfertigung 2 (rosa) in entsprechender Anwendung von \u00a7 11 Abs. 3 und 4 der f\u00fcr das jeweilige Land, in dem gesammelt wurde, zust\u00e4ndigen Beh\u00f6rde zuzuleiten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000500000",
+        "name": "Abschnitt 3, Sonderf\u00e4lle",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001501310",
+        "name": "\u00a7 14",
+        "title": "Entsorgung durch Dritte, Verb\u00e4nde und Selbstverwaltungsk\u00f6rperschaften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000500000"
+        },
+        "body": "<P>Soweit Erzeuger- und Besitzerpflichten gem\u00e4\u00df \u00a7 16 Absatz 2, \u00a7 17 Absatz 3 oder \u00a7 18 Absatz 2 des Kreislaufwirtschafts- und Abfallgesetzes vom 27. September 1994 (BGBl. I S. 2705), das zuletzt durch Artikel 5 des Gesetzes vom 6. Oktober 2011 (BGBl. I S. 1986) ge\u00e4ndert worden ist, auf Dritte, Verb\u00e4nde oder Selbstverwaltungsk\u00f6rperschaften der Wirtschaft \u00fcbertragen worden sind, kann die zust\u00e4ndige Beh\u00f6rde auf Antrag f\u00fcr diese Entsorgungstr\u00e4ger die Nachweisf\u00fchrung in entsprechender Anwendung der \u00a7\u00a7 9, 12 und 13 zulassen. Satz 1 findet entsprechende Anwendung, soweit die Entsorgung durch \u00f6ffentlich-rechtliche Entsorgungstr\u00e4ger erfolgt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "Verwertung au\u00dferhalb einer Entsorgungsanlage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000500000"
+        },
+        "body": "<P>Wird eine Verwertung au\u00dferhalb einer Entsorgungsanlage durchgef\u00fchrt, so sind in entsprechender Anwendung der Bestimmungen der Abschnitte 1 und 2 sowie dieses Abschnitts <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Pflichten des Abfallentsorgers durch denjenigen zu erf\u00fcllen, der die Verwertung durchf\u00fchrt,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufgaben der f\u00fcr die Entsorgungsanlage zust\u00e4ndigen Beh\u00f6rde von der nach Landesrecht zust\u00e4ndigen Beh\u00f6rde wahrzunehmen.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001700000",
+        "name": "\u00a7 16",
+        "title": "Kleinmengen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000500000"
+        },
+        "body": "<P>Den Nachweis \u00fcber die ordnungsgem\u00e4\u00dfe Entsorgung von Kleinmengen gef\u00e4hrlicher Abf\u00e4lle im Sinne des \u00a7 2 Abs. 2 hat der Abfallerzeuger und der Abfallentsorger durch die F\u00fchrung eines \u00dcbernahmescheins entsprechend den Bestimmungen des \u00a7 12 zu f\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003600377",
+        "name": "\u00a7 16a",
+        "title": "Vorlage von Belegen auf Verlangen eines fr\u00fcheren Besitzers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000500000"
+        },
+        "body": "<P>(1) Sofern keine Nachweispflichten nach \u00a7 2 Absatz 1 und Absatz 2 Satz 2 bestehen, sind dem Erzeuger oder fr\u00fcheren Besitzer von gef\u00e4hrlichen Abf\u00e4llen auf dessen Verlangen bei der \u00dcbergabe Belege \u00fcber die Durchf\u00fchrung der Abfallbewirtschaftung von demjenigen vorzulegen, dem der Erzeuger oder Besitzer die gef\u00e4hrlichen Abf\u00e4lle zur weiteren Bewirtschaftung \u00fcbergibt. Der Erzeuger oder fr\u00fchere Besitzer von gef\u00e4hrlichen Abf\u00e4llen kann die Belege auch noch innerhalb von drei Jahren nach der \u00dcbergabe der gef\u00e4hrlichen Abf\u00e4lle verlangen.</P><P>(2) Der Beleg nach Absatz 1 Satz 1 wird mit Hilfe des Formblatts \u201eBegleitschein\u201c nach Anlage 1 in einfacher Ausfertigung vorgelegt.</P><P>(3) Verlangt der Erzeuger oder der fr\u00fchere Besitzer der Abf\u00e4lle die Vorlage eines Belegs nach Absatz 1 Satz 2 erst nach \u00dcbergabe der Abf\u00e4lle, so f\u00fcllt er den Begleitschein im Sinne des Absatzes 2 nach Ma\u00dfgabe der f\u00fcr den Abfallerzeuger bestimmten Aufdrucke aus, unterschreibt und \u00fcbersendet ihn an denjenigen, dem er die Abf\u00e4lle zur weiteren Bewirtschaftung \u00fcbergeben hat. Dieser f\u00fcllt den \u00fcbersandten Begleitschein im Falle der Bef\u00f6rderung nach Ma\u00dfgabe der f\u00fcr den Abfallbef\u00f6rderer bestimmten Aufdrucke und in allen anderen F\u00e4llen nach Ma\u00dfgabe der f\u00fcr den Abfallentsorger bestimmten Aufdrucke aus, unterschreibt ihn und \u00fcbersendet ihn sp\u00e4testens zehn Kalendertage nach Eingang dem Erzeuger oder fr\u00fcheren Besitzer der Abf\u00e4lle.</P><P>(4) Die Vorlagepflicht nach Absatz 1 kann auch durch die Vorlage von Praxisbelegen, wie Wiege- oder Lieferscheinen erf\u00fcllt werden, wenn diese die im Begleitschein nach Absatz 2 vorgesehenen Angaben enthalten. Absatz 3 findet entsprechende Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003700377",
+        "name": "\u00a7 16b",
+        "title": "Mitf\u00fchrungspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000500000"
+        },
+        "body": "<P>Bei der Bef\u00f6rderung nicht nachweispflichtiger gef\u00e4hrlicher Abf\u00e4lle hat der Abfallbef\u00f6rderer Unterlagen mit folgenden Angaben mitzuf\u00fchren und auf Verlangen den zur \u00dcberwachung und Kontrolle Befugten vorzulegen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Menge des bef\u00f6rderten Abfalls in Tonnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bezeichnung des Abfalls und der Abfallschl\u00fcssel laut Abfallverzeichnis-Verordnung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zum Bef\u00f6rderer, insbesondere Name und Anschrift sowie die Bef\u00f6rderernummer, sofern vorhanden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Datum der \u00dcbernahme der Abf\u00e4lle zur Bef\u00f6rderung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zum Abfallerzeuger oder Abfallbesitzer, von dem die Abf\u00e4lle zur Bef\u00f6rderung \u00fcbernommen wurden, insbesondere Name und Anschrift sowie die Erzeugernummer, sofern vorhanden, und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Angaben zur Entsorgungsanlage oder zum Gel\u00e4nde zur kurzfristigen Lagerung oder zum Umschlag, zu der oder zu dem die Abf\u00e4lle bef\u00f6rdert werden, insbesondere Anschrift und Inhaber sowie dessen Entsorgernummer, sofern vorhanden.</LA></DD></DL>\u00a7 11 Absatz 5 ist entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000601000",
+        "name": "Abschnitt 4",
+        "title": "Elektronische Nachweisf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001802116",
+        "name": "\u00a7 17",
+        "title": "Grundsatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000601000"
+        },
+        "body": "<P>(1) Abweichend von den Bestimmungen der Abschnitte 1 bis 3 haben die zur F\u00fchrung von Nachweisen \u00fcber die Entsorgung gef\u00e4hrlicher Abf\u00e4lle Verpflichteten sowie die zust\u00e4ndigen Beh\u00f6rden in den dort bestimmten F\u00e4llen die zur Nachweisf\u00fchrung erforderlichen Erkl\u00e4rungen, Vermerke zum Fristablauf, Best\u00e4tigungen und Entscheidungen, Ablichtungen, Antr\u00e4ge und Freistellungen entsprechend nach Ma\u00dfgabe dieses Abschnittes elektronisch zu \u00fcbermitteln, mit einer qualifizierten elektronischen Signatur zu versehen sowie die f\u00fcr den Empfang erforderlichen Zug\u00e4nge zu er\u00f6ffnen und zu unterhalten, soweit nicht nach den Bestimmungen dieses Abschnitts oder einer auf Grund des \u00a7 26 ergangenen Entscheidung der zust\u00e4ndigen Beh\u00f6rde eine andere Form der \u00dcbermittlung unter Verwendung von Formbl\u00e4ttern ausdr\u00fccklich zugelassen wird.</P><P>(2) Absatz 1 gilt auch f\u00fcr die nach \u00a7 2 Abs. 1 Nr. 2 Verpflichteten, soweit nach \u00a7 51 Absatz 1 Satz 2 des Kreislaufwirtschaftsgesetzes die elektronische Nachweisf\u00fchrung zugelassen oder angeordnet ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE001902116",
+        "name": "\u00a7 18",
+        "title": "Kommunikation",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000601000"
+        },
+        "body": "<P>(1) Die zur F\u00fchrung der Nachweise Verpflichteten sowie die zust\u00e4ndigen Beh\u00f6rden haben die zur Nachweisf\u00fchrung erforderlichen Erkl\u00e4rungen, Vermerke zum Fristablauf, Best\u00e4tigungen und Entscheidungen, Ausfertigungen, Ablichtungen, Antr\u00e4ge und Freistellungen als strukturierte Nachrichten unter Verwendung standardisierter Schnittstellen nach den Vorgaben der Anlage 3, jeweils unter Angabe des von ihnen er\u00f6ffneten Empfangszugangs zu \u00fcbermitteln. Das Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit gibt die aus der Anlage 3 folgenden Definitionen der Schnittstellen bis zum Ablauf des f\u00fcnften auf die Verk\u00fcndung der Verordnung zur Vereinfachung der abfallrechtlichen \u00dcberwachung vom 20. Oktober 2006 (BGBl. I S. 2298) folgenden Kalendermonats sowie nachfolgend erforderlich werdende \u00c4nderungen oder Berichtigungen dieser Definitionen im Internet unter www.bmu.bund.de bekannt.</P><P>(2) Der Abfallbef\u00f6rderer hat zu gew\u00e4hrleisten, dass die Angaben aus dem Begleitschein und \u00dcbernahmeschein, einschlie\u00dflich der Angabe des Firmennamens und der Anschrift des Abfallentsorgers, w\u00e4hrend des Bef\u00f6rderungsvorganges mitgef\u00fchrt und jederzeit dem zur \u00dcberwachung und Kontrolle Befugten entsprechend den Bestimmungen des \u00a7 11 Abs. 2 Satz 2 und \u00a7 12 Abs. 4 Satz 2 vorgelegt werden k\u00f6nnen. Weiterer Begleitpapiere bedarf es nach dieser Verordnung nicht. Die Pflicht nach Satz 1 wird auch dann erf\u00fcllt, wenn der Abfallbef\u00f6rderer den zur \u00dcberwachung und Kontrolle Befugten die geforderten Angaben mittels der elektronisch zu f\u00fchrenden Nachweise zur Verf\u00fcgung stellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002001377",
+        "name": "\u00a7 19",
+        "title": "Signatur, \u00dcbermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000601000"
+        },
+        "body": "<P>(1) Die zur Nachweisf\u00fchrung Verpflichteten sowie die zust\u00e4ndigen Beh\u00f6rden haben die zu \u00fcbermittelnden elektronischen Dokumente mit einer qualifizierten elektronischen Signatur unter Angabe des Unterzeichnenden in Klarschrift in der zeitlichen Abfolge zu versehen, welche nach den Abschnitten 1 bis 3 f\u00fcr die zur Nachweisf\u00fchrung erforderliche Abgabe von Erkl\u00e4rungen, Erstattung von Anzeigen, Fertigung von Vermerken, Erteilung von Best\u00e4tigungen und Entscheidungen, \u00dcbergabe oder \u00dcbersendung von Ausfertigungen oder Ablichtungen, Stellung von Antr\u00e4gen sowie Erteilung von Freistellungen vorgesehen ist. Insbesondere haben Abfallerzeuger, Abfallbef\u00f6rderer und Abfallentsorger <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">gem\u00e4\u00df \u00a7 3 Abs. 2 und 3 vor Einholung einer Best\u00e4tigung nach \u00a7 5 oder \u00dcbersendung von Nachweiserkl\u00e4rungen und Ablichtungen nach \u00a7 7 Abs. 4 die den Nachweiserkl\u00e4rungen entsprechenden elektronischen Dokumente sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die den Begleitscheinen entsprechenden elektronischen Dokumente sp\u00e4testens zu den f\u00fcr das Ausf\u00fcllen und Unterschreiben der Begleitscheine gem\u00e4\u00df \u00a7 11 Absatz 1 Satz 1 vorgesehenen Zeitpunkten</LA></DD></DL>qualifiziert elektronisch zu signieren.</P><P>(2) Abweichend von \u00a7 11 Absatz 1 Satz 1 Nummer 2 und 3 kann der Begleitschein durch den Bef\u00f6rderer oder Einsammler, den weiteren Bef\u00f6rderer oder den Betreiber eines Gel\u00e4ndes zur kurzfristigen Lagerung oder zum Umschlag auch nach der \u00dcbernahme, aber vor \u00dcbergabe der Abf\u00e4lle mit der erforderlichen Signatur versehen werden, wenn dies mit demjenigen, von dem die Abf\u00e4lle \u00fcbernommen werden, schriftlich vereinbart ist. Die Vereinbarung ist der zust\u00e4ndigen Beh\u00f6rde auf Verlangen vorzulegen. Die S\u00e4tze 1 und 2 gelten entsprechend f\u00fcr die elektronische F\u00fchrung des \u00dcbernahmescheins.</P><P>(3) Abweichend von \u00a7 6 Abs. 1 Satz 2 \u00fcbersendet die f\u00fcr den Abfallentsorger zust\u00e4ndige Beh\u00f6rde den best\u00e4tigten Entsorgungsnachweis mit der \u00dcbersendung an den Abfallerzeuger und den Abfallentsorger auch an die f\u00fcr den Abfallerzeuger zust\u00e4ndige Beh\u00f6rde. Abweichend von \u00a7 7 Abs. 4 Satz 2 \u00fcbersendet die f\u00fcr den Abfallentsorger zust\u00e4ndige Beh\u00f6rde die Nachweiserkl\u00e4rungen an die f\u00fcr den Abfallerzeuger zust\u00e4ndige Beh\u00f6rde. Damit entf\u00e4llt die Pflicht f\u00fcr den Abfallerzeuger zur Vorlage einer Ablichtung des best\u00e4tigten Entsorgungsnachweises nach \u00a7 6 Abs. 1 Satz 2 oder der Nachweiserkl\u00e4rungen nach \u00a7 7 Abs. 4 Satz 2 an die f\u00fcr ihn zust\u00e4ndige Beh\u00f6rde. Die S\u00e4tze 1 bis 3 gelten entsprechend f\u00fcr die \u00dcbersendung <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">des best\u00e4tigten Sammelentsorgungsnachweises nach \u00a7 9 Absatz 3 Satz 1 in Verbindung mit \u00a7 6 Absatz 1 Satz 2,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der vollst\u00e4ndigen Nachweiserkl\u00e4rungen nach \u00a7 9 Absatz 3 Satz 2 in Verbindung mit \u00a7 7 Absatz 4 Satz 2 sowie</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der in den Nummern 1 und 2 genannten Unterlagen nach \u00a7 9 Absatz 4.</LA></DD></DL></P><P>(4) Die \u00dcbernahme der Abf\u00e4lle ist abweichend von \u00a7 10 Absatz 2 Satz 3 und 4 mittels Begleitschein zu bescheinigen. Der Abfallentsorger hat abweichend von \u00a7 11 Absatz 3 den Begleitschein gleichzeitig mit der \u00dcbersendung an die zust\u00e4ndige Beh\u00f6rde auch an den Abfallerzeuger und an alle Abfallbef\u00f6rderer zu \u00fcbersenden. Der Einsammler hat abweichend von \u00a7 13 Absatz 1 Satz 4 die Nummern der \u00dcbernahmescheine in das daf\u00fcr vorgesehene Feld des elektronischen Begleitscheins einzutragen.</P><P>(5) F\u00fcr die \u00dcbermittlung der elektronischen Dokumente sind \u00a7 9 des Bundesdatenschutzgesetzes entsprechende technische und organisatorische Sicherungsma\u00dfnahmen zu ergreifen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002101377",
+        "name": "\u00a7 20",
+        "title": "Koordinierung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000601000"
+        },
+        "body": "<P>(1) Die L\u00e4nder stellen sicher, insbesondere durch den gemeinschaftlichen Betrieb informationstechnischer Systeme und durch die Errichtung einer jeweils dazu bestimmten Einrichtung, dass die elektronische Nachweisf\u00fchrung von den Verpflichteten sowie den zust\u00e4ndigen Beh\u00f6rden auch im Falle einer L\u00e4ndergrenzen \u00fcberschreitenden Entsorgung von Abf\u00e4llen eingehalten werden kann. Insoweit ist insbesondere zu gew\u00e4hrleisten, dass die zur Nachweisf\u00fchrung erforderlichen Erkl\u00e4rungen, Vermerke zum Fristablauf, Best\u00e4tigungen und Entscheidungen, Ablichtungen, Antr\u00e4ge und Freistellungen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">jederzeit zwischen den Absendern und vorgesehenen Empf\u00e4ngern vermittelt werden k\u00f6nnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">derart verschl\u00fcsselt werden k\u00f6nnen, dass sie nur f\u00fcr die vorgesehenen Empf\u00e4nger zug\u00e4nglich sind und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Rahmen der Vermittlung nicht dauerhaft gespeichert werden.</LA></DD></DL></P><P>(2) Die von den L\u00e4ndern in Erf\u00fcllung der Pflichten nach Absatz 1 betriebenen informationstechnischen Systeme und Einrichtungen zur elektronischen Kommunikation d\u00fcrfen von den Nachweispflichtigen nur zum Zweck der Nachweis- und Registerf\u00fchrung genutzt werden, sofern die L\u00e4nder nichts anderes bestimmen.</P><P>(3) Sofern Erzeuger, Besitzer, Einsammler, Bef\u00f6rderer und Entsorger die ordnungsgem\u00e4\u00dfe Entsorgung nicht nachweispflichtiger Abf\u00e4lle untereinander nachweisen oder Belege nach \u00a7 16a vorlegen und dabei Nachweise nach dieser Verordnung verwenden oder informationstechnische Systeme sowie die dazu bestimmten Einrichtungen der L\u00e4nder im Sinne des Absatzes 2 nutzen, sind \u00a7 17 Absatz 1, \u00a7 18 Absatz 1 sowie die \u00a7\u00a7 19, 20 und 28 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002201377",
+        "name": "\u00a7 21",
+        "title": "Ausnahmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000601000"
+        },
+        "body": "<P>Abweichend von \u00a7 17 darf die F\u00fchrung der \u00dcbernahmescheine nach den \u00a7\u00a7 12 und 16 auch unter Verwendung der hierf\u00fcr vorgesehenen Formbl\u00e4tter der Anlage 1 erfolgen. Die Pflichten zur Einhaltung der elektronischen Nachweisf\u00fchrung im \u00dcbrigen bleiben unber\u00fchrt. Satz 1 gilt entsprechend f\u00fcr die Vorlage von Belegen nach \u00a7 16a.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002301377",
+        "name": "\u00a7 22",
+        "title": "St\u00f6rung des Kommunikationssystems",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000601000"
+        },
+        "body": "<P>(1) Soweit infolge einer St\u00f6rung des Kommunikationssystems oder aus anderen Gr\u00fcnden die elektronische Nachweisf\u00fchrung nicht uneingeschr\u00e4nkt m\u00f6glich ist, sind die erforderlichen Nachweise nach den Abschnitten 1 bis 3, ausgenommen \u00a7 11 Absatz 3 und 4, unter Verwendung der dort vorgesehenen Formbl\u00e4tter oder mittels eines Quittungsbeleges an Stelle des Begleitscheins zu f\u00fchren. Der Quittungsbeleg sieht von Form und Inhalt die f\u00fcr die F\u00fchrung des Begleitscheins erforderlichen Angaben vor und wird in einer Ausfertigung verwendet. Die Bestimmungen nach \u00a7 10 Abs. 2 Satz 1 und 3, \u00a7 11 Abs. 1 Satz 1 und Abs. 5 sowie \u00a7 13 finden entsprechende Anwendung. Nach Abschluss der Verbringung der Abf\u00e4lle verbleibt der Quittungsbeleg beim Abfallentsorger, der ihn entsprechend den Bestimmungen des \u00a7 24 Abs. 1 und 2 sowie des \u00a7 25 Abs. 1 aufbewahrt. Der Nachweispflichtige, der die St\u00f6rung oder die sonstigen Hinderungsgr\u00fcnde feststellt, hat diese unverz\u00fcglich den am Nachweisverfahren Beteiligten sowie den zust\u00e4ndigen Beh\u00f6rden zu melden, es sei denn, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die St\u00f6rung ist innerhalb einer angemessenen Frist behebbar oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">es ist absehbar, dass die sonstigen Hinderungsgr\u00fcnde innerhalb einer angemessenen Frist wegfallen.</LA></DD></DL></P><P>(2) Soweit eine St\u00f6rung des Kommunikationssystems wiederholt oder nicht nur kurzfristig eintritt und Tatsachen die Annahme rechtfertigen, dass die St\u00f6rung aus dem Verantwortungsbereich eines bestimmten Nachweispflichtigen herr\u00fchrt, kann die zust\u00e4ndige Beh\u00f6rde anordnen, dass der Nachweispflichtige <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen von der zust\u00e4ndigen Landesbeh\u00f6rde bekannt gegebenen Sachverst\u00e4ndigen mit der Pr\u00fcfung von Nachweisvorg\u00e4ngen beauftragt, an welchen der Nachweispflichtige beteiligt ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">einen von der zust\u00e4ndigen Landesbeh\u00f6rde bekannt gegebenen Sachverst\u00e4ndigen mit der Pr\u00fcfung der Einrichtung und des Betriebes seines betrieblichen Kommunikationssystems beauftragt, soweit dieses System mittelbar oder unmittelbar der F\u00fchrung von Nachweisen und Registern dient,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">neben der elektronischen F\u00fchrung von Nachweisen und Registern zus\u00e4tzlich Nachweise und Register unter Verwendung der hierf\u00fcr vorgesehenen Formbl\u00e4tter zu f\u00fchren hat, wenn anders eine ordnungsgem\u00e4\u00dfe Nachweisf\u00fchrung nicht zu gew\u00e4hrleisten ist.</LA></DD></DL></P><P>(3) Absatz 2 Satz 1 Nr. 2 gilt entsprechend f\u00fcr Anordnungen gegen\u00fcber einem Dritten, den der Nachweispflichtige mit der elektronischen F\u00fchrung von Nachweisen und Registern beauftragt.</P><P>(4) Sp\u00e4testens zehn Kalendertage nachdem die St\u00f6rung des Kommunikationssystems behoben worden ist oder die sonstigen Hinderungsgr\u00fcnde weggefallen sind, haben die Nachweispflichtigen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach Absatz 1 mittels Formbl\u00e4ttern oder Quittungsbelegen \u00fcbermittelten Nachweisdaten nochmals im Verfahren nach den Abschnitten 1 bis 4 elektronisch zu \u00fcbermitteln oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Fall, dass bei Eintritt der St\u00f6rung oder bei Feststellung der sonstigen Hinderungsgr\u00fcnde bereits mit der elektronischen Nachweisf\u00fchrung begonnen worden war, das Verfahren ordnungsgem\u00e4\u00df fortzuf\u00fchren.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000700000",
+        "name": "Teil 3",
+        "title": "Registerf\u00fchrung \u00fcber die Entsorgung von Abf\u00e4llen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002402377",
+        "name": "\u00a7 23",
+        "title": "Kreis der Registerpflichtigen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000700000"
+        },
+        "body": "<P>Zur F\u00fchrung von Registern nach den Bestimmungen dieses Teils verpflichtet sind Erzeuger, Einsammler, Bef\u00f6rderer, H\u00e4ndler, Makler und Entsorger von Abf\u00e4llen, soweit eine Pflicht zur F\u00fchrung von Registern nach <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 49 des Kreislaufwirtschaftsgesetzes oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00a7 51 Absatz 1 Satz 1 Nummer 1 des Kreislaufwirtschaftsgesetzes auf Anordnung der zust\u00e4ndigen Beh\u00f6rde</LA></DD></DL>besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002503116",
+        "name": "\u00a7 24",
+        "title": "F\u00fchrung der Register",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000700000"
+        },
+        "body": "<P>(1) Die Register bestehen aus einer den Anforderungen des \u00a7 49 Absatz 1 und 2 des Kreislaufwirtschaftsgesetzes sowie dieser Verordnung entsprechend sachlich und zeitlich geordneten Darstellung der registerpflichtigen Entsorgungsvorg\u00e4nge, wobei die entsprechenden Belege oder Angaben vollst\u00e4ndig und in der jeweils aktuellen Version im Register enthalten sein m\u00fcssen.</P><P>(2) Unbeschadet des Absatzes 3 werden die Register \u00fcber nachweispflichtige Abf\u00e4lle gef\u00fchrt, indem <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abfallerzeuger, Einsammler und Abfallentsorger die f\u00fcr sie bestimmten Ausfertigungen der Begleitscheine, insoweit der Abfallerzeuger die f\u00fcr ihn bestimmten Ausfertigungen 5 (altgold) und 1 (wei\u00df) einander ohne R\u00fccksicht auf die zeitliche Reihenfolge zugeordnet, sp\u00e4testens innerhalb von zehn Kalendertagen nach Erhalt den jeweiligen Entsorgungsnachweisen, und Sammelentsorgungsnachweisen in zeitlicher Reihenfolge zuordnen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Einsammler dar\u00fcber hinaus die f\u00fcr ihn bestimmten Ausfertigungen der \u00dcbernahmescheine sp\u00e4testens zehn Kalendertage nach Erhalt den jeweiligen f\u00fcr ihn bestimmten Ausfertigungen der Begleitscheine in zeitlicher Reihenfolge zuordnen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Abfallbef\u00f6rderer die f\u00fcr sie bestimmten Ausfertigungen der Begleitscheine sp\u00e4testens zehn Kalendertage nach Erhalt und nach Abfallarten getrennt und in zeitlicher Reihenfolge ordnen</LA></DD></DL>und abheften und in die Register einstellen. Ist der Abfallerzeuger zugleich Abfallbef\u00f6rderer, so hat er die Ausfertigungen 4 und 5 (gelb und altgold) des Begleitscheins, ist er zugleich Abfallentsorger, so hat er nur die Ausfertigung 6 (gr\u00fcn) entsprechend Satz 1 abzuheften und in sein Register einzustellen. Entsorgt der Abfallbef\u00f6rderer die Abf\u00e4lle selbst, so hat er die Ausfertigung 6 (gr\u00fcn) entsprechend Satz 1 abzuheften und in sein Register einzustellen.</P><P>(3) Die Erzeuger von Kleinmengen gef\u00e4hrlicher Abf\u00e4lle, die Abfallerzeuger, die gef\u00e4hrliche Abf\u00e4lle einem Einsammler \u00fcbergeben sowie die Abfallentsorger, welche Kleinmengen gef\u00e4hrlicher Abf\u00e4lle annehmen, f\u00fchren die Register, indem sie die f\u00fcr sie bestimmten Ausfertigungen der \u00dcbernahmescheine sp\u00e4testens zehn Kalendertage nach Erhalt nach Abfallarten getrennt und in zeitlicher Reihenfolge geordnet abheften und in die Register einstellen. Satz 1 gilt entsprechend, soweit die zust\u00e4ndige Beh\u00f6rde die Pflicht zur F\u00fchrung von \u00dcbernahmescheinen nach \u00a7 51 Absatz 1 Satz 1 Nummer 1 des Kreislaufwirtschaftsgesetzes angeordnet hat.</P><P>(4) Abfallentsorger, die zur F\u00fchrung von Nachweisen nicht verpflichtet sind, registrieren die Anlieferungen von Abf\u00e4llen, indem sie f\u00fcr jede Abfallart und jede Entsorgungsanlage ein eigenes Verzeichnis erstellen, in welchem sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als \u00dcberschrift den Abfallschl\u00fcssel dieser Abfallart laut Abfallverzeichnis-Verordnung, den Firmennamen und die Anschrift, die Bezeichnung und Anschrift der Entsorgungsanlage und (soweit vorhanden) die Entsorgernummer angeben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">unterhalb dieser Angaben fortlaufend f\u00fcr jede angenommene Abfallcharge sp\u00e4testens zehn Kalendertage nach ihrer Annahme ihre Menge, das Datum ihrer Annahme und den Namen und die Anschrift der Person, von der die Abf\u00e4lle angenommen wurden, angeben und diese Angaben unterschreiben.</LA></DD></DL>Die Angaben in Satz 1 Nr. 2 und die Unterschrift k\u00f6nnen in Praxisbelegen, insbesondere Liefer- oder Wiegescheinen, enthalten sein, wenn diese den Abfall erkennen lassen und den in Satz 1 Nr. 1 genannten Angaben sachlich und zeitlich geordnet zugeordnet werden. Die Abfallentsorger k\u00f6nnen f\u00fcr die Erfassung der in Satz 1 Nr. 1 genannten Angaben auch das Formblatt Annahmeerkl\u00e4rung AE und f\u00fcr die Erfassung der in Satz 1 Nr. 2 genannten Angaben das Formblatt Begleitschein nach Anlage 1 verwenden. Soweit Abfallentsorger die Register nach \u00a7 25 Abs. 2 Satz 2 elektronisch f\u00fchren, m\u00fcssen sie die Register unter Zugrundelegung dieser Formbl\u00e4tter in entsprechender Anwendung der \u00a7\u00a7 17 bis 20 f\u00fchren. Mit Zustimmung der zust\u00e4ndigen Beh\u00f6rde k\u00f6nnen zur Registrierung nicht nachweispflichtiger Abf\u00e4lle Praxisbelege abweichend von den S\u00e4tzen 1 und 2 geordnet werden.</P><P>(5) Abfallentsorger, die Abf\u00e4lle behandeln und lagern und zur F\u00fchrung von Nachweisen nicht verpflichtet sind, registrieren zus\u00e4tzlich jede Abgabe von behandelten und gelagerten Abf\u00e4llen nach Ma\u00dfgabe von Absatz 6 (\u00a7 49 Absatz 2 Satz 1 des Kreislaufwirtschaftsgesetzes). Die Registrierungspflichten nach Satz 1 gelten nicht f\u00fcr Abfallentsorger, welche <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die behandelten oder gelagerten Abf\u00e4lle in eigenen, in einem engen r\u00e4umlichen Zusammenhang mit der Behandlung oder Lagerung stehenden Entsorgungsanlagen verwerten oder beseitigen oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">infolge des Einsatzes von Abf\u00e4llen in Produktionsprozessen lediglich nicht gef\u00e4hrliche Abf\u00e4lle in mengenm\u00e4\u00dfig unbedeutendem Umfang erzeugen.</LA></DD></DL>Satz 2 gilt nicht f\u00fcr Abfallentsorger, welche in ihren Anlagen Abf\u00e4lle im Hauptzweck verwerten oder beseitigen.</P><P>(6) Abfallerzeuger, die zur F\u00fchrung von Nachweisen nicht verpflichtet sind, registrieren jede Abgabe von Abf\u00e4llen, indem sie f\u00fcr jede Abfallart und jede Anfallstelle des Abfalls ein eigenes Verzeichnis erstellen, in welchem sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als \u00dcberschrift den Abfallschl\u00fcssel dieser Abfallart laut Abfallverzeichnis-Verordnung, den Firmennamen und die Anschrift, die Bezeichnung und Anschrift der Anfallstelle des Abfalls und (soweit vorhanden) die Erzeugernummer angeben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">unterhalb dieser Angaben fortlaufend f\u00fcr jede abgegebene Abfallcharge sp\u00e4testens zehn Kalendertage nach ihrer Abgabe ihre Menge, das Datum ihrer Abgabe und die die Abfallcharge \u00fcbernehmende Person angeben und diese Angaben unterschreiben.</LA></DD></DL>Absatz 4 Satz 2 und 5 gilt entsprechend. Die Abfallerzeuger k\u00f6nnen f\u00fcr die Erfassung der in Satz 1 Nr. 1 genannten Angaben auch das Formblatt Deckblatt Entsorgungsnachweise DEN in Verbindung mit dem Formblatt Verantwortliche Erkl\u00e4rung VE, Aufdruck 1, und f\u00fcr die Erfassung der in Satz 1 Nr. 2 genannten Angaben das Formblatt Begleitschein nach Anlage 1 verwenden. Soweit Abfallerzeuger die Register nach \u00a7 25 Abs. 2 Satz 2 elektronisch f\u00fchren, m\u00fcssen sie die Register unter Zugrundelegung dieser Formbl\u00e4tter in entsprechender Anwendung der \u00a7\u00a7 17 bis 20 f\u00fchren, wobei im elektronischen Begleitschein die die Abfallcharge \u00fcbernehmende Person im Feld \"Frei f\u00fcr Vermerke\" anzugeben ist.</P><P>(7) Abfallbef\u00f6rderer, die zur F\u00fchrung von Nachweisen nicht verpflichtet sind, registrieren jede Bef\u00f6rderung von Abf\u00e4llen, indem sie f\u00fcr jede Abfallart ein eigenes Verzeichnis erstellen, in welchem sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als \u00dcberschrift den Abfallschl\u00fcssel dieser Abfallart laut Abfallverzeichnis-Verordnung, den Firmennamen und die Anschrift und (soweit vorhanden) die Bef\u00f6rderernummer angeben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">unterhalb dieser Angaben fortlaufend sp\u00e4testens zehn Kalendertage nach Abschluss der Bef\u00f6rderung f\u00fcr jede \u00fcbergebene Abfallcharge ihre Menge und das Datum ihrer \u00dcbergabe angeben und diese Angaben unterschreiben.</LA></DD></DL>Absatz 4 Satz 2 und 5 gilt entsprechend. Die Abfallbef\u00f6rderer k\u00f6nnen f\u00fcr die Erfassung der in Satz 1 Nr. 1 genannten Angaben auch das Formblatt Deckblatt Entsorgungsnachweise DEN in Verbindung mit dem Formblatt Verantwortliche Erkl\u00e4rung VE, Aufdruck 2, und f\u00fcr die Erfassung der in Satz 1 Nr. 2 genannten Angaben das Formblatt Begleitschein nach Anlage 1 verwenden. Soweit Abfallbef\u00f6rderer die Register nach \u00a7 25 Abs. 2 Satz 2 elektronisch f\u00fchren, m\u00fcssen sie die Register unter Zugrundelegung dieser Formbl\u00e4tter in entsprechender Anwendung der \u00a7\u00a7 17 bis 20 f\u00fchren.</P><P>(8) Abfallentsorger, die Abf\u00e4lle behandeln und lagern, registrieren, unabh\u00e4ngig davon, ob sie zur Nachweisf\u00fchrung verpflichtet sind oder nicht, zus\u00e4tzlich die Menge an Erzeugnissen, Materialien und Stoffen, die aus der Vorbereitung zur Wiederverwendung, aus dem Recycling oder aus einem sonstigen Verwertungsverfahren hervorgehen, indem sie f\u00fcr jedes Erzeugnis, Material und jede Stoffart ein eigenes Verzeichnis erstellen, in welchem sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als \u00dcberschrift die Erzeugnis-, Material- oder Stoffart angeben,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Menge der aus der Vorbereitung zur Wiederverwendung, aus dem Recycling oder aus einem sonstigen Verwertungsverfahren hervorgegangenen Erzeugnisse, Materialien oder Stoffe angeben und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">unterhalb dieser Angaben fortlaufend f\u00fcr jede aus der Behandlung hervorgegangene Erzeugnis-, Material- oder Stoffcharge sp\u00e4testens zehn Kalendertage nach Abschluss der Behandlung ihre Menge und das Datum, an dem das Ende der Abfalleigenschaft erreicht wurde, angeben und diese Angaben unterschreiben. Absatz 6 Satz 2 bis 4 gilt entsprechend.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002603377",
+        "name": "\u00a7 25",
+        "title": "Dauer der Registrierung, elektronische Registerf\u00fchrung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000700000"
+        },
+        "body": "<P>(1) Die zur Einrichtung und F\u00fchrung der Register Verpflichteten haben die nach \u00a7 24 Abs. 2 bis 4, Abs. 5 Satz 1, Abs. 6 oder 7 in die Register einzustellenden Belege oder Angaben drei Jahre, jeweils vom Datum ihrer Einstellung in das Register an gerechnet, in dem Register aufzubewahren oder zu belassen. Der Zulassungsbescheid f\u00fcr die Abfallentsorgungsanlage kann eine l\u00e4ngere Dauer bestimmen als nach Satz 1 vorgesehen.</P><P>(2) Die Register \u00fcber nachweispflichtige Abf\u00e4lle sind elektronisch zu f\u00fchren, soweit f\u00fcr die in die Register einzustellenden Nachweise die elektronische Nachweisf\u00fchrung zwingend bestimmt ist. Im \u00dcbrigen k\u00f6nnen die Register elektronisch gef\u00fchrt werden. Werden die Register elektronisch gef\u00fchrt, so sind jeweils die aktuellen Versionen der Belege oder Angaben in entsprechender Anwendung des Absatzes 1 und des \u00a7 24 dauerhaft und geordnet zu speichern. Soweit die zust\u00e4ndige Beh\u00f6rde gem\u00e4\u00df \u00a7 49 Absatz 4 des Kreislaufwirtschaftsgesetzes die elektronische Vorlage des Registers oder einzelner Angaben aus dem Register anordnet, finden auf die Erf\u00fcllung dieser Anordnung die \u00a7\u00a7 17 bis 20 sowie \u00a7 22 entsprechende Anwendung.</P><P>(3) Absatz 2 Satz 1 gilt f\u00fcr die vom Einsammler in sein Register einzustellenden Ausfertigungen des \u00dcbernahmescheins auch dann, wenn der \u00dcbernahmeschein nach \u00a7 21 unter Verwendung der hierf\u00fcr vorgesehenen Formbl\u00e4tter der Anlage 1 gef\u00fchrt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003800377",
+        "name": "\u00a7 25a",
+        "title": "Registerf\u00fchrung durch H\u00e4ndler und Makler",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000700000"
+        },
+        "body": "<P>(1) Die H\u00e4ndler registrieren die von ihnen erworbenen Abf\u00e4lle, indem sie f\u00fcr jede Abfallart ein eigenes Verzeichnis erstellen, in welchem sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als \u00dcberschrift den Abfallschl\u00fcssel dieser Abfallart laut Abfallverzeichnis-Verordnung, den Firmennamen und die Anschrift und (soweit vorhanden) die H\u00e4ndlernummer angeben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">unterhalb dieser Angaben fortlaufend f\u00fcr jede erworbene Abfallcharge sp\u00e4testens zehn Kalendertage nach ihrem Erwerb ihre Menge, das Datum ihres Erwerbs und den Namen und die Anschrift der Person, von der die Abf\u00e4lle erworben wurden, angeben und diese Angaben unterschreiben.</LA></DD></DL>Die H\u00e4ndler registrieren ferner die von ihnen ver\u00e4u\u00dferten Abf\u00e4lle, indem sie f\u00fcr jede Abfallart ein eigenes Verzeichnis erstellen, in welchem sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">als \u00dcberschrift die in Satz 1 Nummer 1 aufgef\u00fchrten Angaben angeben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">unterhalb dieser Angaben fortlaufend f\u00fcr jede Abfallcharge sp\u00e4testens zehn Kalendertage nach ihrer Ver\u00e4u\u00dferung ihre Menge, das Datum ihrer Ver\u00e4u\u00dferung und den Namen und die Anschrift der Person, an die die Abf\u00e4lle ver\u00e4u\u00dfert wurden, angeben und diese Angaben unterschreiben.</LA></DD></DL>\u00a7 24 Absatz 4 Satz 2 und 5 ist entsprechend anzuwenden.</P><P>(2) Die Makler von Abf\u00e4llen registrieren in zeitlicher Reihenfolge jeden vermittelten Vertragsabschluss \u00fcber die Bewirtschaftung von Abf\u00e4llen und geben dabei das Datum des Vertragsabschlusses an. Sp\u00e4testens zehn Kalendertage nach Abschluss verzeichnen sie zu jedem registrierten Vertrag: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vertragsparteien mit Namen und Anschrift,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art, den Umfang und die voraussichtliche Dauer der vermittelten Bewirtschaftungst\u00e4tigkeit sowie</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Art und die Beschaffenheit der Abf\u00e4lle unter Angabe des Abfallschl\u00fcssels, auf die sich die vermittelte Bewirtschaftungst\u00e4tigkeit bezieht.</LA></DD></DL>Die Richtigkeit der in das Register eingestellten Angaben hat der Makler durch Unterschrift zu best\u00e4tigen.</P><P>(3) Die nach den Abs\u00e4tzen 1 und 2 Verpflichteten haben die in das Register eingestellten Angaben drei Jahre, jeweils vom Datum der Einstellung in das Register an gerechnet, in dem Register zu belassen. Anschlie\u00dfend sind die Daten unverz\u00fcglich beziehungsweise im Falle der Speicherung in elektronischer Form automatisiert zu l\u00f6schen.</P><P>(4) Auf die Registerf\u00fchrung nach den Abs\u00e4tzen 1 und 2 findet \u00a7 25 Absatz 2 Satz 2 keine Anwendung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000800000",
+        "name": "Teil 4",
+        "title": "Gemeinsame Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002701310",
+        "name": "\u00a7 26",
+        "title": "Befreiung, Anordnung von Nachweis- und Registerpflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000800000"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde kann einen nach \u00a7 49 oder \u00a7 50 des Kreislaufwirtschaftsgesetzes Verpflichteten auf Antrag oder von Amts wegen ganz oder teilweise unter dem Vorbehalt des Widerrufs von der F\u00fchrung von Nachweisen oder Registern freistellen, soweit hierdurch eine Beeintr\u00e4chtigung des Wohls der Allgemeinheit nicht zu bef\u00fcrchten ist. Die zust\u00e4ndige Beh\u00f6rde kann die Erbringung anderer geeigneter Nachweise verlangen.</P><P>(2) Die zust\u00e4ndige Beh\u00f6rde kann gegen\u00fcber einem nach \u00a7 49 des Kreislaufwirtschaftsgesetzes zur F\u00fchrung von Registern \u00fcber die Entsorgung nicht gef\u00e4hrlicher Abf\u00e4lle Verpflichteten die Registrierung weiterer Angaben anordnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002801377",
+        "name": "\u00a7 27",
+        "title": "Nachweisf\u00fchrung in besonderen F\u00e4llen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000800000"
+        },
+        "body": "<P>(1) Wer Abf\u00e4lle, f\u00fcr die er Nachweise f\u00fchren muss, von einem anderen \u00fcbernimmt, der hinsichtlich dieser Abf\u00e4lle nicht zur F\u00fchrung von Nachweisen verpflichtet ist, hat auch dessen Namen und Anschrift auf den f\u00fcr ihn bestimmten und auf den von ihm weiter zu \u00fcbermittelnden oder weiter zu gebenden Ausfertigungen oder Dokumenten der nach dieser Verordnung zu f\u00fchrenden Nachweise anzugeben. Wer Abf\u00e4lle einem anderen \u00fcbergibt, der insoweit nicht zur F\u00fchrung von Nachweisen verpflichtet ist, hat dessen Namen und Anschrift in den nach dieser Verordnung zu f\u00fchrenden Nachweisen anzugeben.</P><P>(2) Ist wegen anderer als der in Absatz 1 genannten Besonderheiten eine uneingeschr\u00e4nkte Anwendung der Bestimmungen \u00fcber die F\u00fchrung von Nachweisen nicht m\u00f6glich, so hat der betroffene Nachweispflichtige die Nachweise in einer von der zust\u00e4ndigen Beh\u00f6rde bestimmten Weise zu verwenden. Sind mehrere Beh\u00f6rden zust\u00e4ndig, so treffen diese die Entscheidung nach Satz 1 im Einvernehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE002902377",
+        "name": "\u00a7 28",
+        "title": "Vergabe von Kennnummern",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000800000"
+        },
+        "body": "<P>(1) Die zur F\u00fchrung von Nachweisen und Registern erforderlichen Identifikations-, Erzeuger-, Bef\u00f6rderer-, Sammler-, H\u00e4ndler-, Makler- und Entsorgernummern werden durch die zust\u00e4ndige Beh\u00f6rde erteilt.</P><P>(2) Die zur Unterscheidung der einzelnen Nachweisvorg\u00e4nge erforderlichen Nummern sowie die Freistellungsnummern erteilt die f\u00fcr den Entsorger zust\u00e4ndige Beh\u00f6rde. Die im Falle der Ersetzung von Einzelnachweisen nach \u00a7 50 Absatz 2 des Kreislaufwirtschaftsgesetzes erforderliche Registriernummer erteilt die f\u00fcr den Erzeuger zust\u00e4ndige Beh\u00f6rde. Die zust\u00e4ndige Beh\u00f6rde kann zulassen, dass die nach Satz 1 erforderlichen Kennnummern von einem Dritten, insbesondere einem freigestellten Entsorger, erteilt werden. Die nach den S\u00e4tzen 1 und 2 zu erteilenden Kennnummern erhalten in den ersten beiden Stellen folgende Kennbuchstaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"EN\" f\u00fcr Entsorgungsnachweis,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"SN\" f\u00fcr Sammelentsorgungsnachweis,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"FR\" f\u00fcr Freistellung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\"RE\" f\u00fcr Register.</LA></DD></DL>In die dritte Stelle ist die Landeskennung aufzunehmen.</P><P>(3) Bei elektronischer F\u00fchrung von Nachweisen wird die Vergabe der Kennnummern nach Absatz 2 gem\u00e4\u00df \u00a7 20 von den L\u00e4ndern sichergestellt.</P><P>(4) F\u00fcr jeden elektronisch durchgef\u00fchrten Entsorgungsvorgang ist nur eine Begleitschein-/\u00dcbernahmescheinnummer zu verwenden, die von dem von den L\u00e4ndern eingerichteten System (\u00a7 20) zur Verf\u00fcgung gestellt wird.</P><P>(5) Nachweise m\u00fcssen die nach den Abs\u00e4tzen 1 bis 4 erteilten Nummern enthalten. Die Nummern d\u00fcrfen von den Nachweispflichtigen ausschlie\u00dflich zu den dort bestimmten Zwecken verwendet werden.</P><P>(6) Die nach dieser Verordnung erforderlichen Landeskenner sind wie folgt zu verwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>A</DT><DD Font=\"normal\"><LA Size=\"normal\">Schleswig-Holstein</LA></DD><DT>B</DT><DD Font=\"normal\"><LA Size=\"normal\">Hamburg</LA></DD><DT>C</DT><DD Font=\"normal\"><LA Size=\"normal\">Niedersachsen</LA></DD><DT>D</DT><DD Font=\"normal\"><LA Size=\"normal\">Bremen</LA></DD><DT>E</DT><DD Font=\"normal\"><LA Size=\"normal\">Nordrhein-Westfalen</LA></DD><DT>F</DT><DD Font=\"normal\"><LA Size=\"normal\">Hessen</LA></DD><DT>G</DT><DD Font=\"normal\"><LA Size=\"normal\">Rheinland-Pfalz</LA></DD><DT>H</DT><DD Font=\"normal\"><LA Size=\"normal\">Baden-W\u00fcrttemberg</LA></DD><DT>I</DT><DD Font=\"normal\"><LA Size=\"normal\">Bayern</LA></DD><DT>K</DT><DD Font=\"normal\"><LA Size=\"normal\">Saarland</LA></DD><DT>L</DT><DD Font=\"normal\"><LA Size=\"normal\">Berlin</LA></DD><DT>M</DT><DD Font=\"normal\"><LA Size=\"normal\">Mecklenburg-Vorpommern</LA></DD><DT>N</DT><DD Font=\"normal\"><LA Size=\"normal\">Sachsen-Anhalt</LA></DD><DT>P</DT><DD Font=\"normal\"><LA Size=\"normal\">Brandenburg</LA></DD><DT>R</DT><DD Font=\"normal\"><LA Size=\"normal\">Th\u00fcringen</LA></DD><DT>S</DT><DD Font=\"normal\"><LA Size=\"normal\">Sachsen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003002377",
+        "name": "\u00a7 29",
+        "title": "Ordnungswidrigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000800000"
+        },
+        "body": "<P>Ordnungswidrig im Sinne des \u00a7 69 Absatz 2 Nummer 15 des Kreislaufwirtschaftsgesetzes handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Auflage nach \u00a7 5 Abs. 4 Satz 2, auch in Verbindung mit \u00a7 9 Abs. 3 Satz 1 oder \u00a7 15 Nr. 1, zuwiderhandelt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 6 Abs. 3 Satz 2, auch in Verbindung mit \u00a7 9 Abs. 3 Satz 1, \u00a7 11 Abs. 2 Satz 2, \u00a7 12 Abs. 4 Satz 2 oder \u00a7 16b Satz 1 eine dort genannte Unterlage nicht mitf\u00fchrt oder nicht oder nicht rechtzeitig vorlegt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 8 Abs. 1 Satz 1 oder Abs. 2 Nr. 1, auch in Verbindung mit \u00a7 9 Abs. 3 Satz 2, oder \u00a7 22 Abs. 2, auch in Verbindung mit Abs. 3, zuwiderhandelt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 17 Absatz 1 einen dort genannten Zugang nicht unterh\u00e4lt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 18 Abs. 1 Satz 1 eine Nachricht ohne Angabe des er\u00f6ffneten Empfangszugangs \u00fcbermittelt,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 18 Abs. 2 Satz 1 nicht gew\u00e4hrleistet, dass eine dort genannte Angabe vorgelegt oder mitgeteilt werden kann,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 22 Abs. 1 Satz 5 eine Meldung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht oder</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 28 Abs. 5 Satz 2 eine Nummer verwendet.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR229810006BJNG000900000",
+        "name": "Teil 5",
+        "title": "Schlussbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003101377",
+        "name": "\u00a7 30",
+        "title": "\u00dcbergangsbestimmungen f\u00fcr geltende Freistellungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000900000"
+        },
+        "body": "<P>Eine Freistellung von der Best\u00e4tigungspflicht auf Antrag des Abfallentsorgers, die bei dem nach Artikel 8 Abs. 1 der Verordnung zur Vereinfachung der abfallrechtlichen \u00dcberwachung vom 20. Oktober 2006 (BGBl. I S. 2298) bestimmten Inkrafttreten bereits nach der Nachweisverordnung in der Fassung der Bekanntmachung vom 17. Juni 2002 (BGBl. I S. 2374), zuletzt ge\u00e4ndert durch Artikel 4 der Verordnung vom 15. August 2002 (BGBl. I S. 3302), erteilt worden ist, gilt bis zum Ablauf ihrer Geltungsdauer als Freistellung nach \u00a7 7 Abs. 1 Nr. 2 fort.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003201377",
+        "name": "\u00a7 31",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000900000"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003301310",
+        "name": "Anlage 1",
+        "title": "Formbl\u00e4tter zu Teil 2 Abschnitt 1 und 2 sowie \u00a7 24 Abs. 4",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000900000"
+        },
+        "body": "<P>Diese Anlage enth\u00e4lt Formbl\u00e4tter *), die in den von der Verordnung geregelten F\u00e4llen der F\u00fchrung von Nachweisen, der Erstattung von Anzeigen, der Einrichtung und F\u00fchrung von Registern sowie der Freistellung zu verwenden sind.<BR />Die geforderten Angaben sind gem\u00e4\u00df den Ausf\u00fcllanweisungen zu den einzelnen Feldern einzutragen. Alle Eintragungen in den in der Anlage aufgef\u00fchrten Formbl\u00e4ttern m\u00fcssen leserlich in deutscher Sprache mit Druck, Schreibmaschine, Kugelschreiber oder einem sonstigen Schreibger\u00e4t mit dauerhafter Schrift vorgenommen werden. Der urspr\u00fcngliche Inhalt einer Eintragung darf nicht unleserlich gemacht werden, ohne dass gleichzeitig kenntlich gemacht wird, ob dies bei der urspr\u00fcnglichen Eintragung oder erst sp\u00e4ter erfolgt ist.<BR />Die Formbl\u00e4tter sind wie folgt zu verwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>Zur F\u00fchrung des Entsorgungsnachweises (\u00a7 3) sowie des Sammelentsorgungsnachweises (\u00a7 9) die Formbl\u00e4tter</B><DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckblatt Entsorgungsnachweise (DEN),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Verantwortliche Erkl\u00e4rung (VE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deklarationsanalyse (DA),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Annahmeerkl\u00e4rung (AE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Beh\u00f6rdenbest\u00e4tigung (BB),</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>zur F\u00fchrung des Entsorgungsnachweises ohne beh\u00f6rdliche Best\u00e4tigung (\u00a7 7, Anzeige) die Formbl\u00e4tter</B><DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckblatt Entsorgungsnachweise (DEN),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Verantwortliche Erkl\u00e4rung (VE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deklarationsanalyse (DA),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Annahmeerkl\u00e4rung (AE),</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>zur Freistellung (\u00a7 7) die Formbl\u00e4tter</B><DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckblatt Antrag (DAN),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Annahmeerkl\u00e4rung (AE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Beh\u00f6rdenbest\u00e4tigung (BB),</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>zur F\u00fchrung des Nachweises \u00fcber die durchgef\u00fchrte Entsorgung (\u00a7\u00a7 10, 12) die Formbl\u00e4tter</B><DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Begleitschein,</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcbernahmeschein,</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>zur F\u00fchrung der Register (\u00a7 24 Abs. 4 bis 7) die Formbl\u00e4tter</B><DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckblatt Entsorgungsnachweise (DEN),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Verantwortliche Erkl\u00e4rung (VE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Annahmeerkl\u00e4rung (AE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Begleitschein.</LA></DD></DL></LA></DD></DL>----- <DL Font=\"normal\" Type=\"arabic\"><DT>*)</DT><DD Font=\"normal\"><LA Size=\"normal\">Hinweise zur Gestaltung der Formbl\u00e4tter<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Formbl\u00e4tter sind verkleinert wiedergegeben und in dieser Gr\u00f6\u00dfe weder maschinenlesbar noch mit Schreibmaschine oder EDV zu beschriften. Zur ordnungsgem\u00e4\u00dfen Verwendung sind die Formbl\u00e4tter DIN A4 im Verh\u00e4ltnis 84 : 100 zu vergr\u00f6\u00dfern. Der \u00dcbernahmeschein hat die Abmessungen 210 mm x 210 mm.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">S\u00e4mtliche Feldbegrenzungen und Rasterfl\u00e4chen der Formbl\u00e4tter mit Ausnahme der Begleitscheine und \u00dcbernahmescheine sind vorzugsweise im Farbton HKS 6 N zu drucken. Die Rasterfl\u00e4chen d\u00fcrfen 50 % vom Volltonwert nicht \u00fcberschreiten. S\u00e4mtliche Schriften, Nummern und der EDV-Passer sind schwarz zu drucken.</LA></DD></DL></LA></DD></DL></P><P><ABWFORMAT typ=\"E\" /><noindex><kommentar typ=\"Fundstelle\">(Inhalt: nicht darstellbare Formbl\u00e4tter, <BR />Fundstelle: BGBl. I 2006, 2311 - 2326;<BR />bzgl. der einzelnen \u00c4nderungen vgl. Fu\u00dfnote)</kommentar></noindex></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003400000",
+        "name": "Anlage 2",
+        "title": "Abf\u00e4lle nach \u00a7 9 Abs. 1 Satz 2 und \u00a7 9 Abs. 3",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000900000"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">Fundstelle des Originaltextes: BGBl. I 2006, 2327 - 2328</kommentar></P><P> <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>Verzeichnis der Abf\u00e4lle nach \u00a7 9 Abs. 1 Satz 2 und Abs. 3 Satz 2</B><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>13 04 01</DT><DD Font=\"normal\"><LA Size=\"normal\">Bilgen\u00f6le aus der Binnenschifffahrt</LA></DD> <DT>13 04 02</DT><DD Font=\"normal\"><LA Size=\"normal\">Bilgen\u00f6le aus Molenablaufkan\u00e4len</LA></DD> <DT>13 04 03</DT><DD Font=\"normal\"><LA Size=\"normal\">Bilgen\u00f6le aus der \u00fcbrigen Schifffahrt</LA></DD> <DT>16 06 01</DT><DD Font=\"normal\"><LA Size=\"normal\">Bleibatterien</LA></DD> <DT>16 07 08</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00f6lhaltige Abf\u00e4lle (aus der Schifffahrt)</LA></DD> </DL></LA></DD></DL></LA></DD></DL></LA></DD></DL></LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>Verzeichnis der Abf\u00e4lle nach \u00a7 9 Abs. 3 Satz 2</B><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT /><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>09 01 01</DT><DD Font=\"normal\"><LA Size=\"normal\">Entwickler und Aktivatoren auf Wasserbasis</LA></DD> <DT>09 01 02</DT><DD Font=\"normal\"><LA Size=\"normal\">Offsetdruckplatten-Entwicklerl\u00f6sungen auf Wasserbasis</LA></DD> <DT>09 01 04</DT><DD Font=\"normal\"><LA Size=\"normal\">Fixierb\u00e4der</LA></DD> <DT>09 01 05</DT><DD Font=\"normal\"><LA Size=\"normal\">Bleichl\u00f6sungen und Bleich-Fixier-B\u00e4der</LA></DD> <DT>09 01 11</DT><DD Font=\"normal\"><LA Size=\"normal\">Einwegkameras mit Batterien, die unter 16 06 01, 16 06 02 oder 16 06 03 fallen</LA></DD> <DT>12 01 06</DT><DD Font=\"normal\"><LA Size=\"normal\">halogenhaltige Bearbeitungs\u00f6le auf Mineral\u00f6lbasis (au\u00dfer Emulsionen und L\u00f6sungen)</LA></DD> <DT>12 01 07</DT><DD Font=\"normal\"><LA Size=\"normal\">halogenfreie Bearbeitungs\u00f6le auf Mineral\u00f6lbasis (au\u00dfer Emulsionen und L\u00f6sungen)</LA></DD> <DT>12 01 08</DT><DD Font=\"normal\"><LA Size=\"normal\">halogenhaltige Bearbeitungsemulsionen und -l\u00f6sungen</LA></DD> <DT>12 01 09</DT><DD Font=\"normal\"><LA Size=\"normal\">halogenfreie Bearbeitungsemulsionen und -l\u00f6sungen</LA></DD> <DT>12 01 10</DT><DD Font=\"normal\"><LA Size=\"normal\">synthetische Bearbeitungs\u00f6le</LA></DD> <DT>12 01 12</DT><DD Font=\"normal\"><LA Size=\"normal\">gebrauchte Fette und Wachse</LA></DD> <DT>12 01 19</DT><DD Font=\"normal\"><LA Size=\"normal\">biologisch leicht abbaubare Bearbeitungs\u00f6le</LA></DD> <DT>13 01 04</DT><DD Font=\"normal\"><LA Size=\"normal\">chlorierte Emulsionen</LA></DD> <DT>13 01 05</DT><DD Font=\"normal\"><LA Size=\"normal\">nichtchlorierte Emulsionen</LA></DD> <DT>13 01 09</DT><DD Font=\"normal\"><LA Size=\"normal\">chlorierte Hydraulik\u00f6le auf Mineral\u00f6lbasis</LA></DD> <DT>13 01 10</DT><DD Font=\"normal\"><LA Size=\"normal\">nichtchlorierte Hydraulik\u00f6le auf Mineral\u00f6lbasis</LA></DD> <DT>13 01 11</DT><DD Font=\"normal\"><LA Size=\"normal\">synthetische Hydraulik\u00f6le</LA></DD> <DT>13 01 12</DT><DD Font=\"normal\"><LA Size=\"normal\">biologisch leicht abbaubare Hydraulik\u00f6le</LA></DD> <DT>13 01 13</DT><DD Font=\"normal\"><LA Size=\"normal\">andere Hydraulik\u00f6le</LA></DD> <DT>13 02 04</DT><DD Font=\"normal\"><LA Size=\"normal\">chlorierte Maschinen-, Getriebe- und Schmier\u00f6le auf Mineral\u00f6lbasis</LA></DD> <DT>13 02 05</DT><DD Font=\"normal\"><LA Size=\"normal\">nichtchlorierte Maschinen-, Getriebe- und Schmier\u00f6le auf Mineral\u00f6lbasis</LA></DD> <DT>13 02 06</DT><DD Font=\"normal\"><LA Size=\"normal\">synthetische Maschinen-, Getriebe- und Schmier\u00f6le</LA></DD> <DT>13 02 07</DT><DD Font=\"normal\"><LA Size=\"normal\">biologisch leicht abbaubare Maschinen-, Getriebe- und Schmier\u00f6le</LA></DD> <DT>13 02 08</DT><DD Font=\"normal\"><LA Size=\"normal\">andere Maschinen-, Getriebe- und Schmier\u00f6le</LA></DD> <DT>13 03 06</DT><DD Font=\"normal\"><LA Size=\"normal\">chlorierte Isolier- und W\u00e4rme\u00fcbertragungs\u00f6le auf Mineral\u00f6lbasis mit Ausnahme derjenigen, die unter 13 03 01 fallen</LA></DD> <DT>13 03 07</DT><DD Font=\"normal\"><LA Size=\"normal\">nichtchlorierte Isolier- und W\u00e4rme\u00fcbertragungs\u00f6le auf Mineral\u00f6lbasis</LA></DD> <DT>13 03 08</DT><DD Font=\"normal\"><LA Size=\"normal\">synthetische Isolier- und W\u00e4rme\u00fcbertragungs\u00f6le</LA></DD> <DT>13 03 09</DT><DD Font=\"normal\"><LA Size=\"normal\">biologisch leicht abbaubare Isolier- und W\u00e4rme\u00fcbertragungs\u00f6le</LA></DD> <DT>13 03 10</DT><DD Font=\"normal\"><LA Size=\"normal\">andere Isolier- und W\u00e4rme\u00fcbertragungs\u00f6le</LA></DD> <DT>13 05 01</DT><DD Font=\"normal\"><LA Size=\"normal\">feste Abf\u00e4lle aus Sandfanganlagen und \u00d6l-/Wasserabscheidern</LA></DD> <DT>13 05 02</DT><DD Font=\"normal\"><LA Size=\"normal\">Schl\u00e4mme aus \u00d6l-/Wasserabscheidern</LA></DD> <DT>13 05 03</DT><DD Font=\"normal\"><LA Size=\"normal\">Schl\u00e4mme aus Einlaufsch\u00e4chten</LA></DD> <DT>13 05 06</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00d6le aus \u00d6l-/Wasserabscheidern</LA></DD> <DT>13 05 07</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00f6liges Wasser aus \u00d6l-/Wasserabscheidern</LA></DD> <DT>13 05 08</DT><DD Font=\"normal\"><LA Size=\"normal\">Abfallgemische aus Sandfanganlagen und \u00d6l-/Wasserabscheidern</LA></DD> <DT>13 07 01</DT><DD Font=\"normal\"><LA Size=\"normal\">Heiz\u00f6l und Diesel</LA></DD> <DT>13 07 02</DT><DD Font=\"normal\"><LA Size=\"normal\">Benzin</LA></DD> <DT>16 01 07</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00d6lfilter</LA></DD> <DT>16 01 11</DT><DD Font=\"normal\"><LA Size=\"normal\">asbesthaltige Bremsbel\u00e4ge</LA></DD> <DT>16 01 13</DT><DD Font=\"normal\"><LA Size=\"normal\">Bremsfl\u00fcssigkeiten</LA></DD> <DT>16 01 14</DT><DD Font=\"normal\"><LA Size=\"normal\">Frostschutzmittel, die gef\u00e4hrliche Stoffe enthalten</LA></DD> <DT>16 06 02</DT><DD Font=\"normal\"><LA Size=\"normal\">Ni-Cd-Batterien</LA></DD> <DT>16 06 03</DT><DD Font=\"normal\"><LA Size=\"normal\">Quecksilber enthaltende Batterien</LA></DD> <DT>17 06 01</DT><DD Font=\"normal\"><LA Size=\"normal\">D\u00e4mmmaterial, das Asbest enth\u00e4lt</LA></DD> <DT>17 06 05</DT><DD Font=\"normal\"><LA Size=\"normal\">asbesthaltige Baustoffe</LA></DD> <DT>18 01 03</DT><DD Font=\"normal\"><LA Size=\"normal\">Abf\u00e4lle, an deren Sammlung und Entsorgung aus infektionspr\u00e4ventiver Sicht besondere Anforderungen gestellt werden</LA></DD> <DT>18 01 10</DT><DD Font=\"normal\"><LA Size=\"normal\">Amalgamabf\u00e4lle aus der Zahnmedizin</LA></DD> <DT>18 02 02</DT><DD Font=\"normal\"><LA Size=\"normal\">Abf\u00e4lle, an deren Sammlung und Entsorgung aus infektionspr\u00e4ventiver Sicht besondere Anforderungen gestellt werden</LA></DD> <DT>20 01 17</DT><DD Font=\"normal\"><LA Size=\"normal\">Fotochemikalien</LA></DD> <DT>20 01 21</DT><DD Font=\"normal\"><LA Size=\"normal\">Leuchtstoffr\u00f6hren und andere quecksilberhaltige Abf\u00e4lle</LA></DD> <DT>20 01 33</DT><DD Font=\"normal\"><LA Size=\"normal\">Batterien und Akkumulatoren, die unter 16 06 01, 16 06 02 oder 16 06 03 fallen, sowie gemischte Batterien und Akkumulatoren, die solche Batterien enthalten</LA></DD> </DL></LA></DD></DL></LA></DD></DL></LA></DD></DL></LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR229810006BJNE003501377",
+        "name": "Anlage 3",
+        "title": "Vorgaben f\u00fcr strukturierte Nachrichten/Schnittstellen nach \u00a7 18 Abs. 1",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR229810006BJNG000900000"
+        },
+        "body": "<P><ABWFORMAT typ=\"A\" /><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2006, 2329 - 2330)</kommentar></P><P>Diese Anlage enth\u00e4lt die Vorgaben f\u00fcr die strukturierten Nachrichten und Schnittstellen gem\u00e4\u00df \u00a7 18 Abs. 1 Satz 1 (elektronische Formulare), die in den von der Verordnung geregelten F\u00e4llen der F\u00fchrung von Nachweisen, der Erstattung von Anzeigen, der Einrichtung und F\u00fchrung von Registern, der Freistellung und der \u00dcbermittlung weiterer im Rahmen der Nachweisf\u00fchrung erforderlicher Angaben und Mitteilungen zu verwenden sind.<DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>Allgemeine Vorgaben</B><DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Die elektronischen Formulare enthalten die nach der Verordnung, insbesondere in Verbindung mit der Anlage 1, erforderlichen Angaben zur F\u00fchrung von Nachweisen, Erstattung von Anzeigen, Einrichtung und F\u00fchrung von Registern und zur Freistellung sowie zur \u00dcbermittlung weiterer Angaben und Mitteilungen, die zur einfachen, zweckm\u00e4\u00dfigen und z\u00fcgigen Durchf\u00fchrung der Nachweisverfahren erforderlich sind.</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Die elektronischen Formulare werden nach dem Stand der Technik auf der Basis der Beschreibungssprache Extensible Markup Language (XML) definiert und mit den entsprechenden XML-Schemata hinterlegt.</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Qualifizierte elektronische Signaturen werden in den nach \u00a7 19 Abs. 1 bestimmten F\u00e4llen in die elektronischen Formulare als XML-Signaturen gem\u00e4\u00df dem IETF W3C-Standard XML-DSig und unter Ber\u00fccksichtigung weiterer Standards, soweit diese von Bedeutung sind, einbezogen.</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Verschl\u00fcsselung von Einzelfeldern eines elektronischen Formulars (Verschl\u00fcsselung auf Element-Ebene) ist nicht zul\u00e4ssig, unbeschadet der Definition von Verschl\u00fcsselungen durch W3C-Standard auf Element-Ebene f\u00fcr Dokumente, die auf XML basieren.</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Zur Erleichterung der Einbindung in bestehende Hintergrundsysteme enthalten die elektronischen Formulare L\u00e4ngenbeschr\u00e4nkungen f\u00fcr die einzelnen Felder sowie Feldtypen und Pflichtfelder, welche \u00fcber die hinterlegten XML-Schemata gesteuert werden.</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Die qualifizierte elektronische Signatur umfasst in den von \u00a7 19 Abs. 1 geregelten F\u00e4llen die Angaben, f\u00fcr die bei Verwendung der Formulare nach der Anlage 1 die Schriftform bestimmt ist.</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><B>Besondere Vorgaben</B><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Der Entsorgungsnachweis/Sammelentsorgungsnachweis (\u00a7\u00a7 3, 9) umfasst als Aggregation die Angaben aus den Formularen<DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckblatt Entsorgungsnachweise (DEN),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Verantwortliche Erkl\u00e4rung (VE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deklarationsanalyse (DA),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Annahmeerkl\u00e4rung (AE) und</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">die Beh\u00f6rdenbest\u00e4tigung (BB).<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">In den Nachweiserkl\u00e4rungen (\u00a7 3 Abs. 1) k\u00f6nnen nach Ma\u00dfgabe der zust\u00e4ndigen Beh\u00f6rde offenbare Unrichtigkeiten ge\u00e4ndert werden, wenn mittels qualifizierter elektronischer Signatur kenntlich gemacht wird, wer die \u00c4nderung vorgenommen hat und die urspr\u00fcngliche Erkl\u00e4rung erkennbar bleibt. Bei \u00c4nderungen nach Satz 1 ist das f\u00fcr die \u00c4nderung von Begleitscheinen vorgesehene Verfahren nach Buchstabe c entsprechend anzuwenden (Layer-Technologie). F\u00fcr sonstige \u00c4nderungen von Entsorgungsnachweisen und von Nachweiserkl\u00e4rungen w\u00e4hrend ihrer Laufzeit k\u00f6nnen abweichende Regelungen getroffen werden.</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">In den Entsorgungsnachweis sind die Deklarationsanalyse und weitere erforderliche Anh\u00e4nge als Datencontainer in die eigene Datenstruktur aufzunehmen. Abweichend von den allgemeinen Vorgaben nach Nummer 1 k\u00f6nnen die Deklarationsanalyse und weitere erforderliche Anh\u00e4nge auch in anderen Formaten als XML \u00fcbermittelt werden. Insoweit sind ausschlie\u00dflich f\u00fcr die Beh\u00f6rde lesbare und bearbeitbare Formate zu verwenden, insbesondere Microsoft Word, Adobe PDF, TIFF, RTF und Open Office.</LA></DD></DL></LA></DD></DL></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00fcr die F\u00fchrung des Entsorgungsnachweises/Sammelentsorgungsnachweises ohne beh\u00f6rdliche Best\u00e4tigung (\u00a7 7) gelten die Anforderungen nach Buchstabe a entsprechend.</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Anforderung, den Begleitschein als Satz im Durchschreibeverfahren zu verwenden (\u00a7 11 Abs. 1 Satz 2) wird elektronisch wie folgt abgebildet:</LA><LA Size=\"normal\">Die Sichtweisen (Durchschl\u00e4ge) werden \u00fcber einzelne, in der jeweiligen Sicht g\u00fcltige Repr\u00e4sentationen der Formulardaten verwirklicht (Layer-Technologie).</LA><LA Size=\"normal\">Es besteht eine ausgezeichnete Seite des zugrunde liegenden elektronischen Formulars (Basis-Layer), die sich aus der Ersterfassung der Formulardaten, auch mit angebrachter qualifizierter elektronischer Signatur, ergibt. Der Basis-Layer bildet die erste Sichtweise.</LA><LA Size=\"normal\">\u00c4nderungen und Erg\u00e4nzungen einzelner Angaben werden als eigenst\u00e4ndige Sichtweise (Folgesicht) stets in einem gesonderten Layer erfasst (\u00c4nderungs-Layer) und beziehen sich ausschlie\u00dflich auf den vorhergehenden Layer (Referenz-Layer).</LA><LA Size=\"normal\">\u00c4nderungen \u00fcberlagern jeweils die entsprechenden Angaben im Referenz-Layer. Erg\u00e4nzungen erweitern den Referenz-Layer um weitere Angaben. Die Angaben des \u00c4nderungs-Layers stellen zusammen mit den Daten des zugrunde liegenden Referenz-Layers die g\u00fcltige Repr\u00e4sentation des elektronischen Formulars f\u00fcr diese Sichtweise dar.</LA><LA Size=\"normal\">Qualifizierte elektronische Signaturen werden als Erg\u00e4nzung in den jeweiligen, der Sichtweise zugeordneten Layer einbezogen.</LA><LA Size=\"normal\">Die Kette der Referenz-Layer, beginnend beim Basis-Layer, bildet die zeitliche Abfolge der durchgef\u00fchrten \u00c4nderungen oder Erg\u00e4nzungen ab.<DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Die qualifizierte elektronische Signatur des jeweils Erkl\u00e4rungspflichtigen umfasst dessen Erkl\u00e4rung als auch die Kenntnisnahme der urspr\u00fcnglichen Angaben.</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Bei Bedarf k\u00f6nnen zus\u00e4tzliche \u00c4nderungen (\u00c4nderungs-Layer) in den Begleitschein aufgenommen werden.</LA></DD></DL></LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00fcr die F\u00fchrung der \u00dcbernahmescheine gelten die Anforderungen nach Buchstabe c entsprechend.</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ein Register \u00fcber Abf\u00e4lle, f\u00fcr die keine Nachweise gef\u00fchrt werden (\u00a7 24 Abs. 4 bis 7), umfasst zur Vorlage bei der zust\u00e4ndigen Beh\u00f6rde als Aggregation die Angaben aus den in Nummer 5 der Anlage 1 bestimmten Formularen:<DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckblatt Entsorgungsnachweise (DEN),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Verantwortliche Erkl\u00e4rung (VE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Annahmeerkl\u00e4rung (AE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Begleitschein.</LA></DD></DL></LA></DD><DT>f)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ein Antrag auf Freistellung (\u00a7 7) umfasst als Aggregation die Angaben aus den Formularen:<DL Font=\"normal\" Type=\"arabic\"><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Deckblatt Antrag (DAN),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Annahmeerkl\u00e4rung (AE),</LA></DD><DT>-</DT><DD Font=\"normal\"><LA Size=\"normal\">Beh\u00f6rdenbest\u00e4tigung (BB).</LA></DD></DL></LA></DD><DT>g)</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Eingangsbest\u00e4tigung beinhaltet die erforderlichen Informationen gem\u00e4\u00df \u00a7 4 der Nachweisverordnung, insbesondere die Angabe des Eingangsdatums.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

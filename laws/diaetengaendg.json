@@ -1,0 +1,106 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR009939972",
+    "firstPublished": "1972-06-22",
+    "sourceTimestamp": "20120625153156",
+    "titleShort": null,
+    "titleLong": "Gesetz zur \u00c4nderung des Gesetzes \u00fcber die Entsch\u00e4digung der Mitglieder\ndes Bundestages",
+    "abbreviation": "Di\u00e4tenG\u00c4ndG",
+    "slug": "diaetengaendg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1972, 993",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  1. 1.1970 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR009939972BJNG000100314",
+        "name": "Art I",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009939972BJNE000400314",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009939972BJNG000100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009939972BJNE000500314",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009939972BJNG000100314"
+        },
+        "body": "<P>\u00a7 1 Nr. 1 und 2 gilt auch f\u00fcr die vor dem Inkrafttreten aus dem Bundestag ausgeschiedenen Mitglieder sowie f\u00fcr ihre Hinterbliebenen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009939972BJNE000600314",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR009939972BJNG000100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009939972BJNG000200314",
+        "name": "Art II",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 12 Abs. 1 und des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009939972BJNG000300314",
+        "name": "Art III",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt mit Ausnahme des Artikels I \u00a7 1 Nr. 4, Nr. 5 und Nr. 8, die ab 1. Januar 1970 in Kraft treten, am Tage nach seiner Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR009939972BJNE000700314",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

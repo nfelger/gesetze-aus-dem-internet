@@ -1,0 +1,269 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR085100008",
+    "firstPublished": "2008-05-06",
+    "sourceTimestamp": "20130405130806",
+    "titleShort": "Schiffsbeleihungswertermittlungsverordnung",
+    "titleLong": "Verordnung \u00fcber die Ermittlung der Beleihungswerte von Schiffen und Schiffsbauwerken nach \u00a7 24 Abs. 1 bis 3 des Pfandbriefgesetzes",
+    "abbreviation": "SchiffsBelWertV",
+    "slug": "schiffsbelwertv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2008, 851",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.7.2008 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 24 Abs. 5 Satz 1 und 2 des Pfandbriefgesetzes vom 22. Mai 2005 (BGBl. I S. 1373) in Verbindung mit \u00a7 1 Nr. 4 der Verordnung zur \u00dcbertragung von Befugnissen zum Erlass von Rechtsverordnungen auf die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht vom 13. Dezember 2002 (BGBl. 2003 I S. 3), \u00a7 1 Nr. 4 zuletzt ge\u00e4ndert durch Artikel 7 Nr. 1 des Gesetzes vom 22. Juni 2005 (BGBl. I S. 1698), verordnet die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht im Einvernehmen mit dem Bundesministerium der Justiz nach Anh\u00f6rung der Spitzenverb\u00e4nde der Kreditwirtschaft:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR085100008BJNG000100000",
+        "name": "Teil 1",
+        "title": "Allgemeine Bestimmungen und Verfahrensgrunds\u00e4tze",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000100000"
+        },
+        "body": "<P>Bei der Ermittlung der Schiffsbeleihungswerte nach \u00a7 24 Abs. 1 bis 3 des Pfandbriefgesetzes und bei der Erhebung der f\u00fcr die Wertermittlung erforderlichen Daten sind die Vorschriften dieser Verordnung anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Gegenstand der Wertermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000100000"
+        },
+        "body": "<P>Gegenstand der Schiffsbeleihungswertermittlung sind Schiffe und Schiffsbauwerke, die in einem \u00f6ffentlichen Register eingetragen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Grundsatz der Schiffsbeleihungswertermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000100000"
+        },
+        "body": "<P>(1) Der Wert, der der Beleihung zugrunde gelegt wird (Schiffsbeleihungswert), ist der Wert des Schiffes oder Schiffsbauwerks, der erfahrungsgem\u00e4\u00df unabh\u00e4ngig von vor\u00fcbergehenden, etwa konjunkturell bedingten Wertschwankungen am ma\u00dfgeblichen Markt und unter Ausschaltung von spekulativen Elementen bei einer Ver\u00e4u\u00dferung voraussichtlich erzielt werden kann.</P><P>(2) Bei der Ermittlung des Schiffsbeleihungswerts sind die dauernden Eigenschaften des Schiffes, sein Alter und seine Einsatzm\u00f6glichkeiten zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Verfahren zur Ermittlung von Beleihungswerten f\u00fcr Schiffe und Schiffsbauwerke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000100000"
+        },
+        "body": "<P>(1) Zur Ermittlung des Schiffsbeleihungswerts f\u00fcr ein Schiff sind der aktuelle Marktwert (\u00a7 9), der durchschnittliche Marktwert der letzten zehn Jahre (\u00a7 10) und der Neubaupreis (\u00a7 11) oder Kaufpreis (\u00a7 12) des zu bewertenden Schiffes zu ermitteln.</P><P>(2) Der Schiffsbeleihungswert darf weder den aktuellen Marktwert des Schiffes noch den durchschnittlichen Marktwert der letzten zehn Jahre \u00fcbersteigen. Sind Marktwerte nur f\u00fcr einen k\u00fcrzeren Zeitraum als zehn Jahre verf\u00fcgbar, ist der durchschnittliche Marktwert f\u00fcr diesen k\u00fcrzeren Zeitraum zu ermitteln; in diesen F\u00e4llen ist Satz 1 mit der Ma\u00dfgabe anzuwenden, dass der aktuelle Marktwert um 15 Prozent zu mindern ist; l\u00e4sst sich der durchschnittliche Marktwert nur f\u00fcr drei oder weniger Jahre ermitteln, betr\u00e4gt dieser Abschlag mindestens 25 Prozent.</P><P>(3) Bei Schiffsneubauten stellt der Neubaupreis eine weitere Obergrenze f\u00fcr den Schiffsbeleihungswert dar. Bei Schiffsank\u00e4ufen darf der Schiffsbeleihungswert den Kaufpreis nicht \u00fcbersteigen.</P><P>(4) Ist ein aktueller Marktwert nicht verf\u00fcgbar oder ist ein durchschnittlicher Marktwert eines gleichartigen Schiffes nicht zu ermitteln, ist ein anderes angemessenes Verfahren anzuwenden. In diesen F\u00e4llen darf der Schiffsbeleihungswert nicht den um mindestens 25 Prozent geminderten Neubaupreis oder ebenso geminderten Kaufpreis \u00fcberschreiten.</P><P>(5) Die Ermittlung des Schiffsbeleihungswerts f\u00fcr ein Schiffsbauwerk hat nach Ma\u00dfgabe des \u00a7 13 zu erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR085100008BJNG000200000",
+        "name": "Teil 2",
+        "title": "Gutachten und Gutachter",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Gutachten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000200000"
+        },
+        "body": "<P>(1) Der Schiffsbeleihungswert ist mittels eines Gutachtens zu ermitteln.</P><P>(2) Das Gutachten muss durch einen oder mehrere Gutachter erstellt werden, die von der Pfandbriefbank allgemein oder von Fall zu Fall bestimmt werden. In besonderen F\u00e4llen, etwa im Rahmen von Kooperationen oder bei Portfoliok\u00e4ufen, k\u00f6nnen f\u00fcr andere Kreditinstitute erstellte Gutachten zugrunde gelegt werden, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>diese Gutachten den Bestimmungen dieser Verordnung entsprechen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>ein nicht mit der Kreditentscheidung befasster, fachlich kundiger Mitarbeiter der Pfandbriefbank eine Plausibilit\u00e4tspr\u00fcfung, auch im Hinblick auf die einzelnen angesetzten Bewertungsparameter, durchf\u00fchrt und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das Ergebnis der Plausibilit\u00e4tspr\u00fcfung dokumentiert wird.</LA></DD></DL>Gutachten, die vom Darlehensnehmer oder Schiffseigent\u00fcmer vorgelegt oder in Auftrag gegeben worden sind, d\u00fcrfen nicht zugrunde gelegt werden.</P><P>(3) Im Gutachten ist auf die in \u00a7 4 genannten Parameter einzugehen.</P><P>(4) Im Gutachten sind der Schiffstyp und seine praktische Verwendbarkeit, insbesondere hinsichtlich Fahrtbereich, Einsatzm\u00f6glichkeit und Ladef\u00e4higkeit, unter Ber\u00fccksichtigung der vorhandenen Ausr\u00fcstung, insbesondere in Bezug auf Lade- und L\u00f6scheinrichtungen, darzustellen. Auf Vorz\u00fcge und M\u00e4ngel des Schiffes ist hinzuweisen.</P><P>(5) Bei der Ermittlung des aktuellen Marktwerts und des durchschnittlichen Marktwerts der letzten zehn Jahre kann das Gutachten auf die Sch\u00e4tzung eines im Bereich der Schiffswertermittlung t\u00e4tigen und anerkannten Brokers oder Sch\u00e4tzers Bezug nehmen. Falls eine Besichtigung durch einen anerkannten technischen Sachverst\u00e4ndigen vorgenommen worden ist, kann das Gutachten auch auf den Besichtigungsbericht Bezug nehmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Besichtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000200000"
+        },
+        "body": "<P>(1) Das zu bewertende Schiff ist im Rahmen der Wertermittlung zu besichtigen. Dabei sind s\u00e4mtliche an Bord befindliche Schiffspapiere einzusehen. Hierbei sind die Klassifikationen von Schiffsk\u00f6rper und Maschinenanlage zu ermitteln; die G\u00fcltigkeitsdauer der Klassifikationszertifikate ist festzustellen. Die Besichtigung kann auch durch einen anerkannten technischen Sachverst\u00e4ndigen erfolgen.</P><P>(2) Auf eine Besichtigung kann verzichtet werden, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Pfandbriefbank von dem Schiffseigent\u00fcmer die Klassifikationsunterlagen einer anerkannten Klassifikationsgesellschaft vorgelegt werden und sich hieraus ergibt, dass das Schiff von der Klassifikationsgesellschaft innerhalb der letzten 15 Monate besichtigt worden ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Schiff nicht \u00e4lter als drei Jahre ist und das Klassifikationszertifikat bei Ablieferung vorgelegt wird, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das Schiff nicht \u00e4lter als f\u00fcnf Jahre ist und neben dem Klassifikationszertifikat bei Ablieferung das Zertifikat \u00fcber die Interimsklasse vorgelegt wird.</LA></DD></DL>Die Pfandbriefbank hat die Klassifikationsunterlagen auf Echtheit zu \u00fcberpr\u00fcfen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Gutachter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000200000"
+        },
+        "body": "<P>(1) Der Gutachter muss nach seiner Ausbildung und beruflichen T\u00e4tigkeit \u00fcber besondere Kenntnisse und Erfahrungen auf dem Gebiet der Bewertung von Schiffen verf\u00fcgen. Bei der Auswahl des Gutachters hat sich die Pfandbriefbank davon zu \u00fcberzeugen, dass der Gutachter neben langj\u00e4hriger Berufserfahrung in der Bewertung von Schiffen speziell \u00fcber die zur Erstellung von Schiffsbeleihungswert-Gutachten notwendigen Kenntnisse, insbesondere bez\u00fcglich des Schiffsmarkts, verf\u00fcgt.</P><P>(2) Wenn der Gutachter die Besichtigung nicht selbst vornimmt, ist eine technische oder ingenieurm\u00e4\u00dfige Berufsausbildung nicht erforderlich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Unabh\u00e4ngigkeit des Gutachters",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000200000"
+        },
+        "body": "<P>(1) Der Gutachter muss sowohl vom Kreditakquisitions- und Kreditentscheidungsprozess als auch von Vermittlung, Verkauf, Vermietung und Vercharterung des zu bewertenden Schiffes unabh\u00e4ngig sein. Er darf nicht in einem verwandtschaftlichen, sonstigen rechtlichen oder wirtschaftlichen Verh\u00e4ltnis zum Darlehensnehmer stehen und darf kein eigenes Interesse am Ergebnis des Gutachtens haben. Der Gutachter darf auch nicht den Beleihungswert festsetzen oder den Kredit bearbeiten. Die S\u00e4tze 1 bis 3 gelten auch f\u00fcr anerkannte Sch\u00e4tzer, Broker oder technische Sachverst\u00e4ndige, auf deren Sch\u00e4tzung oder Besichtigungsbericht im Gutachten Bezug genommen wird.</P><P>(2) Gutachten von bei der Pfandbriefbank angestellten Gutachtern d\u00fcrfen nur dann der Schiffsbeleihungswertermittlung zugrunde gelegt werden, wenn die betreffenden Gutachter im Rahmen der Aufbauorganisation der Pfandbriefbank nur der Gesch\u00e4ftsleitung verantwortlich sind oder ausschlie\u00dflich Teil einer Gutachtereinheit sind, die unmittelbar der Gesch\u00e4ftsleitung unterstellt ist, oder Teil einer alle betreffenden Gutachter zusammenfassenden Einheit und auch im \u00dcbrigen bis einschlie\u00dflich der Ebene der Gesch\u00e4ftsleitung nicht einem Bereich der Pfandbriefbank zugeordnet sind, in dem Schiffskreditgesch\u00e4fte entweder angebahnt oder zum Gegenstand des einzigen Votums gemacht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR085100008BJNG000300000",
+        "name": "Teil 3",
+        "title": "Wertermittlungsverfahren",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Aktueller Marktwert",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000300000"
+        },
+        "body": "<P>(1) Der aktuelle Marktwert ist der gesch\u00e4tzte Betrag, f\u00fcr welchen ein Schiff am Bewertungsstichtag zwischen einem verkaufsbereiten Verk\u00e4ufer und einem kaufbereiten Erwerber, nach angemessenem Vermarktungszeitraum, in einer Transaktion im gew\u00f6hnlichen Gesch\u00e4ftsverkehr verkauft werden k\u00f6nnte, wobei jede Partei mit Sachkenntnis, Umsicht und ohne Zwang handelt.</P><P>(2) F\u00fcr die Ermittlung des aktuellen Marktwerts ist von einem charterfreien Schiff auszugehen. Wenn aus den Verk\u00e4ufen gleichartiger Schiffe ein Basispreis abgeleitet worden ist, ist dieser den Besonderheiten des zu bewertenden Schiffes anzupassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Durchschnittlicher Marktwert",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000300000"
+        },
+        "body": "<P>Der durchschnittliche Marktwert ist der Durchschnittsbetrag der Marktwerte eines gleichartigen Schiffes f\u00fcr die zugrunde zu legenden letzten Kalenderjahre vor dem Jahr der Wertermittlung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Neubaupreis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000300000"
+        },
+        "body": "<P>Der Neubaupreis ist der mit der Werft vertraglich vereinbarte Baupreis zuz\u00fcglich Nebenkosten wie Bauzeitenzinsen, Kosten der Bauaufsicht sowie der Erstausr\u00fcstung, sofern die Nebenkosten angemessen und \u00fcblich sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE001300000",
+        "name": "\u00a7 12",
+        "title": "Kaufpreis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000300000"
+        },
+        "body": "<P>Der Kaufpreis ist der vertraglich vereinbarte Preis f\u00fcr den Erwerb des zu bewertenden Schiffes. Kaufpreis ist auch der Preis, der f\u00fcr den Erwerb eines Bauvertrags \u00fcber ein Schiffsbauwerk oder ein in Zukunft zu bauendes Schiff vereinbart wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE001400000",
+        "name": "\u00a7 13",
+        "title": "Wertermittlung bei Schiffsbauwerken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000300000"
+        },
+        "body": "<P>Bei Schiffsbauwerken ist als Schiffsbeleihungswert der Zustandswert zu ermitteln. Der Zustandswert entspricht dem Bautenstand, der durch einen technischen Sachverst\u00e4ndigen oder die Werft schriftlich zu best\u00e4tigen ist. Im Rahmen der Beleihungswertermittlung sind die Baubeschreibungen, die Bauzeichnungen und die mit der Werft geschlossenen Vertr\u00e4ge einzusehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR085100008BJNG000400000",
+        "name": "Teil 4",
+        "title": "\u00dcberpr\u00fcfung der Schiffsbeleihungswertermittlung und Inkrafttreten",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "\u00dcberpr\u00fcfung der Grundlagen der Schiffsbeleihungswertermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000400000"
+        },
+        "body": "<P>(1) Bestehen Anhaltspunkte, dass sich die Grundlagen der Schiffsbeleihungswertermittlung nicht nur unerheblich verschlechtert haben, sind diese zu \u00fcberpr\u00fcfen. Dies gilt insbesondere dann, wenn das allgemeine Preisniveau auf dem jeweiligen Schiffsmarkt in einem die Sicherheit der Beleihung gef\u00e4hrdenden Umfang gesunken ist. Der Schiffsbeleihungswert ist bei Bedarf zu mindern.</P><P>(2) Soweit nach anderen Vorschriften eine weitergehende Verpflichtung zur \u00dcberpr\u00fcfung des Schiffsbeleihungswerts besteht, bleibt diese unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR085100008BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR085100008BJNG000400000"
+        },
+        "body": "<P>Diese Verordnung tritt am 1. Juli 2008 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

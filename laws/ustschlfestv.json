@@ -1,0 +1,125 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR201800020",
+    "firstPublished": "2020-09-21",
+    "sourceTimestamp": "20201231213834",
+    "titleShort": "Umsatzsteuerschl\u00fcsselzahlenfestsetzungsverordnung",
+    "titleLong": "Verordnung \u00fcber die Festsetzung der L\u00e4nderschl\u00fcsselzahlen und die Ermittlung der Schl\u00fcsselzahlen f\u00fcr die Aufteilung des Gemeindeanteils am Aufkommen der Umsatzsteuer nach \u00a7 5a des Gemeindefinanzreformgesetzes",
+    "abbreviation": "UStSchlFestV",
+    "slug": "ustschlfestv",
+    "extraAbbreviations": [
+      "UStSchlFestV 2021"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2020, 2018",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Die V tritt gem. \u00a7 7 Abs. 2 dieser V mit Ablauf d. 31.12.2023 au\u00dfer Kraft",
+        "category": "Aufh"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2021 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 5a Absatz 3 Satz 1 und des \u00a7 5c des Gemeindefinanzreformgesetzes, von denen \u00a7 5a Absatz 3 Satz 1 durch Artikel 3 Nummer 2 Buchstabe d des Gesetzes vom 21. November 2016 (BGBl. I S. 2613) eingef\u00fcgt worden ist und \u00a7 5c durch Artikel 3 Nummer 5 des Gesetzes vom 21. November 2016 (BGBl. I S. 2613) zuletzt ge\u00e4ndert worden ist und des \u00a7 17 Absatz 2 des Finanzausgleichsgesetzes vom 20. Dezember 2001 (BGBl. I S. 3955, 3956) verordnet das Bundesministerium der Finanzen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "L\u00e4nderschl\u00fcsselzahlen",
+        "parent": null,
+        "body": "<P>Der Anteil am Umsatzsteueraufkommen nach \u00a7 5a Absatz 1 des Gemeindefinanzreformgesetzes verteilt sich auf die L\u00e4nder nach folgenden Schl\u00fcsselzahlen:</P><P><table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colsep=\"0\" colwidth=\"1*\" /><colspec align=\"right\" colname=\"col2\" colwidth=\"1*\" /><tbody valign=\"top\"><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Baden-W\u00fcrttemberg</entry><entry VJ=\"1\" colname=\"col2\">0,138454877</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Bayern</entry><entry VJ=\"1\" colname=\"col2\">0,170812448</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Berlin</entry><entry VJ=\"1\" colname=\"col2\">0,039740186</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Brandenburg</entry><entry VJ=\"1\" colname=\"col2\">0,019699043</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Bremen</entry><entry VJ=\"1\" colname=\"col2\">0,011309512</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Hamburg</entry><entry VJ=\"1\" colname=\"col2\">0,037783008</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Hessen</entry><entry VJ=\"1\" colname=\"col2\">0,084795378</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Mecklenburg-Vorpommern</entry><entry VJ=\"1\" colname=\"col2\">0,013682749</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Niedersachsen</entry><entry VJ=\"1\" colname=\"col2\">0,085892771</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Nordrhein-Westfalen</entry><entry VJ=\"1\" colname=\"col2\">0,235090621</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Rheinland-Pfalz</entry><entry VJ=\"1\" colname=\"col2\">0,040787564</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Saarland</entry><entry VJ=\"1\" colname=\"col2\">0,011770473</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Sachsen</entry><entry VJ=\"1\" colname=\"col2\">0,042224573</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Sachsen-Anhalt</entry><entry VJ=\"1\" colname=\"col2\">0,019781070</entry></row><row rowsep=\"0\"><entry VJ=\"1\" colname=\"col1\">Schleswig-Holstein</entry><entry VJ=\"1\" colname=\"col2\">0,027232624</entry></row><row><entry VJ=\"1\" colname=\"col1\">Th\u00fcringen</entry><entry VJ=\"1\" colname=\"col2\">0,020943103</entry></row></tbody></tgroup></table></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Ermittlung der Gemeindeschl\u00fcsselzahlen",
+        "parent": null,
+        "body": "<P>(1) F\u00fcr die der Ermittlung der Schl\u00fcsselzahl nach \u00a7 5a Absatz 2 Satz 2 Nummer 1 des Gemeindefinanzreformgesetzes zu Grunde zu legende Summe des Gewerbesteueraufkommens sind die Jahre 2013 bis 2018 des Realsteuervergleichs nach \u00a7 4 Nummer 2 des Finanz- und Personalstatistikgesetzes ma\u00dfgebend.</P><P>(2) Ergibt sich f\u00fcr eine Gemeinde wegen eines negativen Gewerbesteueraufkommens in den Referenzjahren f\u00fcr die Summe des Gewerbesteueraufkommens nach \u00a7 5a Absatz 2 Satz 2 Nummer 1 des Gemeindefinanzreformgesetzes ein negativer Wert, so wird von einer Summe des Gewerbesteueraufkommens von null ausgegangen.</P><P>(3) F\u00fcr die der Ermittlung der Schl\u00fcsselzahl nach \u00a7 5a Absatz 2 Satz 2 Nummer 2 des Gemeindefinanzreformgesetzes zu Grunde zu legende Anzahl der sozialversicherungspflichtig Besch\u00e4ftigten am Arbeitsort sind die Ergebnisse der Statistik der sozialversicherungspflichtig Besch\u00e4ftigten nach \u00a7 281 des Dritten Buches Sozialgesetzbuch \u2013 Arbeitsf\u00f6rderung \u2013 f\u00fcr die Jahre 2016 bis 2018 jeweils mit Stand vom 30. Juni ma\u00dfgebend.</P><P>(4) F\u00fcr die der Ermittlung der Schl\u00fcsselzahl nach \u00a7 5a Absatz 2 Satz 2 Nummer 3 des Gemeindefinanzreformgesetzes zu Grunde zu legende Summe der sozialversicherungspflichtigen Entgelte am Arbeitsort sind die Ergebnisse der Statistik der sozialversicherungspflichtigen Entgelte nach \u00a7 281 des Dritten Buches Sozialgesetzbuch \u2013 Arbeitsf\u00f6rderung \u2013 f\u00fcr die Jahre 2015 bis 2017 als Jahressumme ma\u00dfgebend.</P><P>(5) Dem Schl\u00fcssel werden aus den Statistiken die Anzahl der sozialversicherungspflichtigen Besch\u00e4ftigten und die Betr\u00e4ge der sozialversicherungspflichtigen Entgelte insgesamt zu Grunde gelegt. Nicht zu ber\u00fccksichtigen sind dabei die nach der Klassifikation der Wirtschaftszweige WZ 2008 des Statistischen Bundesamtes den Wirtschaftsgruppen mit den Nummern 841, 842, 843, 851, 852, 853, 854, 910 und 990 zugeordneten Besch\u00e4ftigten von Gebietsk\u00f6rperschaften und Sozialversicherungen sowie deren Einrichtungen.</P><P>(6) Liegen f\u00fcr Gemeinden f\u00fcr ein oder mehrere Erhebungsjahre hinsichtlich der Merkmale nach \u00a7 5a Absatz 2 Satz 2 Nummer 2 und 3 des Gemeindefinanzreformgesetzes offensichtlich fehlerhafte Angaben vor, so ist es zul\u00e4ssig, dass das Statistische Bundesamt die Angaben in Abstimmung mit der Bundesagentur f\u00fcr Arbeit sch\u00e4tzt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Gewichtung der den Gemeindeschl\u00fcsselzahlen zu Grunde liegenden Merkmale",
+        "parent": null,
+        "body": "<P>(1) F\u00fcr die Gewichtung des Merkmals nach \u00a7 5a Absatz 2 Satz 2 Nummer 2 des Gemeindefinanzreformgesetzes wird zun\u00e4chst der Gewerbesteuer-Grundbetrag der Gemeinde f\u00fcr die einzelnen Jahre 2016 bis 2018 ermittelt, indem der Betrag des \u00f6rtlichen Brutto-Gewerbesteueraufkommens, das auf der Grundlage des Realsteuervergleichs nach \u00a7 4 Nummer 2 des Finanz- und Personalstatistikgesetzes ermittelt wurde, jeweils durch den f\u00fcr das entsprechende Jahr endg\u00fcltig geltenden Gewerbesteuer-Hebesatz nach \u00a7\u00a04 Nummer\u00a02 des Finanz- und Personalstatistikgesetzes dividiert wird. Der gewogene durchschnittliche \u00f6rtliche Gewerbesteuer-Hebesatz wird ermittelt, indem die Summe der Betr\u00e4ge des \u00f6rtlichen Brutto-Gewerbesteueraufkommens dieser Jahre durch die Summe der \u00f6rtlichen Gewerbesteuer-Grundbetr\u00e4ge dieser Jahre dividiert wird. Der gewogene durchschnittliche bundesweite Gewerbesteuer-Hebesatz wird ermittelt, indem die Summe der Betr\u00e4ge des Brutto-Gewerbesteueraufkommens dieser Jahre f\u00fcr alle Gemeinden durch die Summe der Gewerbesteuer-Grundbetr\u00e4ge dieser Jahre f\u00fcr alle Gemeinden dividiert wird. F\u00fcr die Gewichtung des Merkmals nach \u00a7 5a Absatz 2 Satz 2 Nummer 3 des Gemeindefinanzreformgesetzes werden der gewogene durchschnittliche \u00f6rtliche Gewerbesteuer-Hebesatz und der gewogene durchschnittliche bundesweite Gewerbesteuer-Hebesatz jeweils f\u00fcr die Jahre 2015 bis 2017 entsprechend den S\u00e4tzen 1 bis 3 berechnet.</P><P>(2) Die Gewichtung des Merkmals nach \u00a7 5a Absatz 2 Satz 2 Nummer 2 des Gemeindefinanzreformgesetzes mit dem gewogenen durchschnittlichen \u00f6rtlichen Gewerbesteuer-Hebesatz erfolgt f\u00fcr jede Gemeinde, indem der Anteil der Gemeinde an der Summe des Bundesaufkommens f\u00fcr dieses Merkmal mit dem Quotienten aus gewogenem durchschnittlichen \u00f6rtlichen Gewerbesteuer-Hebesatz nach Absatz 1 Satz 1 und 2 und gewogenem durchschnittlichen bundesweiten Gewerbesteuer-Hebesatz nach Absatz 1 Satz 1 und 3 multipliziert wird. Die Gewichtung des Merkmals nach \u00a7 5a Absatz 2 Satz 2 Nummer 3 des Gemeindefinanzreformgesetzes erfolgt entsprechend Satz\u00a01. Weicht die Bundessumme der so abgeleiteten Anteilswerte als Folge der Hebesatzgewichtung von eins ab, werden alle Anteilswerte durch die abweichende Bundessumme dividiert, so dass sich eine Bundessumme von eins ergibt.</P><P>(3) Bei Gemeindezusammenschl\u00fcssen und Gemeindeeingliederungen w\u00e4hrend des Erfassungszeitraums der Merkmale sowie vor dem 31. Dezember 2019 wird der gewogene durchschnittliche \u00f6rtliche Gewerbesteuer-Hebesatz aus der Summe des Gewerbesteueraufkommens und der Grundbetr\u00e4ge des Gewerbesteueraufkommens aller zu einer neuen Gemeinde geh\u00f6renden alten Gemeinden und aller einzubeziehenden Jahre nach Absatz 1 berechnet. Bei Gemeindeteilausgliederungen und Gemeindeteilumgliederungen werden das j\u00e4hrliche Gewerbesteueraufkommen und die Grundbetr\u00e4ge des Gewerbesteueraufkommens f\u00fcr die Jahre, in denen der ausgegliederte oder umgegliederte Gemeindeteil noch Teil einer anderen Gemeinde war, im Verh\u00e4ltnis der Einwohnerzahl auf die neuen Gemeinden aufgeteilt; anschlie\u00dfend wird aus der Summe der Betr\u00e4ge und Grundbetr\u00e4ge \u00fcber die entsprechenden Jahre der gewogene durchschnittliche \u00f6rtliche Gewerbesteuer-Hebesatz nach Absatz 1 errechnet.</P><P>(4) Bei Gemeindezusammenschl\u00fcssen, bei denen ab dem Jahr des Zusammenschlusses f\u00fcr die neue Gemeinde kein einheitlicher Gewerbesteuer-Hebesatz vorliegt, daf\u00fcr aber fortbestehende Hebes\u00e4tze der zusammengeschlossenen Teilgemeinden und ein einheitliches Gewerbesteueraufkommen der zusammengeschlossenen Gesamtgemeinde vorliegen, wird der gewogene durchschnittliche \u00f6rtliche Gewerbesteuer-Hebesatz der Gesamtgemeinde entsprechend Absatz 1 berechnet, indem die Gewerbesteueraufkommen der einzelnen Teilgemeinden aus der Zeit vor dem Zusammenschluss herangezogen werden, fr\u00fchestens jedoch die Gewerbesteueraufkommen ab dem Jahr 1999. Sind diese Angaben nicht vorhanden oder nur mit nicht zu vertretendem Aufwand zu ermitteln, so wird das Gewerbesteueraufkommen der Gesamtgemeinde nach der Einwohnerzahl der Teilgemeinden auf diese aufgeteilt.</P><P>(5) Hat eine Gemeinde in einem oder in mehreren Berichtsjahren einen Gewerbesteuer-Hebesatz im Bereich gr\u00f6\u00dfer null bis unter 200 Prozent, so ist f\u00fcr die Berechnung des gewogenen durchschnittlichen \u00f6rtlichen Gewerbesteuer-Hebesatzes dieser Wert heranzuziehen. Bei einem Gewerbesteuer-Hebesatz von null in einem oder in mehreren Berichtsjahren wird keines dieser Jahre f\u00fcr die Berechnung des gewogenen durchschnittlichen \u00f6rtlichen Gewerbesteuer-Hebesatzes herangezogen. Liegen f\u00fcr eine Gemeinde in allen Berichtsjahren Gewerbesteuer-Hebes\u00e4tze von null vor, so liegt der gewogene durchschnittliche \u00f6rtliche Gewerbesteuer-Hebesatz ebenfalls bei null.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Aufteilung der Merkmale bei Gebietsstands\u00e4nderung",
+        "parent": null,
+        "body": "<P>Die Merkmale nach \u00a7 5a Absatz 2 Satz 2 des Gemeindefinanzreformgesetzes werden bei Gebietsstands\u00e4nderungen im Verh\u00e4ltnis der Einwohnerzahl auf die betroffenen Gemeinden aufgeteilt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Neufestsetzung der Gemeinde- und der L\u00e4nderschl\u00fcsselzahlen",
+        "parent": null,
+        "body": "<P>(1) Bei kommunalen Neugliederungen nach dem 31. Dezember 2019 sind die Schl\u00fcsselzahlen nach \u00a7 5a Absatz 2 Satz 2 des Gemeindefinanzreformgesetzes f\u00fcr die betroffenen Gemeinden von dem auf die Neugliederung folgenden Jahr an durch das betroffene Land neu festzusetzen. Tritt die Neugliederung mit Beginn eines Jahres in Kraft, so sind die Schl\u00fcsselzahlen ab diesem Zeitpunkt neu festzusetzen. Bei der Neufestsetzung sind die Schl\u00fcsselzahlen der betroffenen Gemeinden den neugegliederten Gemeinden im Verh\u00e4ltnis der in sie aufgenommenen Einwohnerinnen und Einwohner zuzurechnen. Die Schl\u00fcsselzahlen nach \u00a7 1 bleiben unber\u00fchrt.</P><P>(2) Bei Neugliederungen von Gemeinden zwischen L\u00e4ndern sind die Schl\u00fcsselzahlen der betroffenen Gemeinden dem Land zuzurechnen, in das die Gemeinden umgegliedert wurden. Die Schl\u00fcsselzahlen nach \u00a7 1 sind entsprechend anzupassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Rundung und \u00c4nderung der Schl\u00fcsselzahlen",
+        "parent": null,
+        "body": "<P>(1) Die Schl\u00fcsselzahlen sind auf die neunte Stelle nach dem Komma zu runden.</P><P>(2) Weicht die Summe der Gemeindeschl\u00fcsselzahlen eines Landes vom Wert eins ab, so wird diejenige Schl\u00fcsselzahl der Gemeinde, auf die der gr\u00f6\u00dfte Anteil in dem jeweiligen Land entf\u00e4llt, so ge\u00e4ndert, dass die Summe der Gemeindeschl\u00fcsselzahlen des Landes den Wert eins ergibt. Weicht die Summe der L\u00e4nderschl\u00fcsselzahlen vom Wert eins ab, so wird die Schl\u00fcsselzahl des Landes, auf das der gr\u00f6\u00dfte Anteil des Bundes entf\u00e4llt, so ge\u00e4ndert, dass die Summe der L\u00e4nderschl\u00fcsselzahlen den Wert eins ergibt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Inkrafttreten; Au\u00dferkrafttreten",
+        "parent": null,
+        "body": "<P>(1) Diese Verordnung tritt am 1. Januar 2021 in Kraft.</P><P>(2) Diese Verordnung tritt mit Ablauf des 31. Dezember 2023 au\u00dfer Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR201800020BJNE000900000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

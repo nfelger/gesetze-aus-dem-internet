@@ -1,0 +1,339 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR016600974",
+    "firstPublished": "1974-07-31",
+    "sourceTimestamp": "20200527212509",
+    "titleShort": null,
+    "titleLong": "Gesetz \u00fcber die Errichtung einer Zusatzversorgungskasse f\u00fcr Arbeitnehmer in der Land- und Forstwirtschaft",
+    "abbreviation": "ZVALG",
+    "slug": "zvalg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1974, 1660",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 57 Abs. 19 G v. 12.12.2019 I 2652",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1981 +++)<BR /><BR /></pre>\u00dcberschrift: Diese Vorschrift gilt nicht in dem in Art. 3 des Einigungsvertrages genannten Gebiet gem. Anl. I Kap. VI Sachg. D Abschn. I Nr. 2 EinigVtr v. 31.8.1990 iVm Art. 1 G v. 23.9.1990 II 885, 1016</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000100314",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR016600974BJNG002100314",
+        "name": "Erster Abschnitt",
+        "title": "Zusatzversorgungskasse f\u00fcr\nArbeitnehmer in der Land- und Forstwirtschaft",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000203126",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>(1) Die Zusatzversorgungskasse f\u00fcr Arbeitnehmer in der Land- und Forstwirtschaft (ZLA) ist eine bundesunmittelbare Anstalt des \u00f6ffentlichen Rechts.</P><P>(2) Die Aufsicht \u00fcber die Zusatzversorgungskasse f\u00fcr Arbeitnehmer in der Land- und Forstwirtschaft f\u00fchrt das Bundesamt f\u00fcr Soziale Sicherung. Ihm obliegt auch die Genehmigung der Satzung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000301308",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>(1) Der Zusatzversorgungskasse f\u00fcr Arbeitnehmer in der Land- und Forstwirtschaft obliegt die Zahlung von Ausgleichsleistungen an Arbeitnehmer der Land- und Forstwirtschaft sowie die Durchf\u00fchrung anderer Aufgaben (\u00a7 16 dieses Gesetzes).</P><P>(2) Land- und forstwirtschaftliche Arbeitnehmer (landwirtschaftliche Arbeitnehmer) sind Personen, die im Inland in einem Betrieb der Landwirtschaft oder der Forstwirtschaft einschlie\u00dflich des landwirtschaftlichen Obst- und Gem\u00fcsebaus, des Weinbaus sowie der Teichwirtschaft und der Fischzucht st\u00e4ndig rentenversicherungspflichtig besch\u00e4ftigt werden. Als Betrieb im Sinne des Satzes 1 gelten auch <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">gemischte Betriebe mit \u00fcberwiegend landwirtschaftlichem, forstwirtschaftlichem, wein-, obst- oder gem\u00fcsebaulichem Charakter und</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">selbst\u00e4ndige Nebenbetriebe und selbst\u00e4ndige Betriebsabteilungen gewerblicher Unternehmen mit landwirtschaftlichem, forstwirtschaftlichem, wein-, obst- oder gem\u00fcsebaulichem Charakter.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000400314",
+        "name": "\u00a7 3",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>Organe der Zusatzversorgungskasse f\u00fcr Arbeitnehmer in der Land- und Forstwirtschaft sind die Vertreterversammlung, der Vorstand und der Gesch\u00e4ftsf\u00fchrer.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000501308",
+        "name": "\u00a7 4",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>(1) Die Vertreterversammlung setzt sich aus je neun Mitgliedern aus der Gruppe der Arbeitnehmer und der Arbeitgeber zusammen.</P><P>(2) Die Mitglieder der Vertreterversammlung sowie f\u00fcr jedes Mitglied ein Stellvertreter werden auf Vorschlag von Tarifvertragsparteien der Land- und Forstwirtschaft durch die Aufsichtsbeh\u00f6rde berufen. Vorschlagsberechtigt sind Tarifvertragsparteien, die am Tage der Ank\u00fcndigung einer allgemeinen Wahl zu den Organen der Sozialversicherungstr\u00e4ger eine gemeinsame Einrichtung im Sinne des \u00a7 4 Abs. 2 des Tarifvertragsgesetzes unterhalten, die eine Zusatzaltersversorgung f\u00fcr Arbeitnehmer in der Land- und Forstwirtschaft zum Gegenstand hat und deren Aufgaben durch die Zusatzversorgungskasse durchgef\u00fchrt werden.</P><P>(3)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000601308",
+        "name": "\u00a7 5",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>Der Vorstand besteht aus je drei Vertretern der Gruppen der Arbeitnehmer und der Arbeitgeber.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000703377",
+        "name": "\u00a7 6",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>Gesch\u00e4ftsf\u00fchrer der Zusatzversorgungskasse ist der Gesch\u00e4ftsf\u00fchrer der Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau. Hat die Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau eine Gesch\u00e4ftsf\u00fchrung, benennt der Vorstand ein Mitglied der Gesch\u00e4ftsf\u00fchrung zum Gesch\u00e4ftsf\u00fchrer der Zusatzversorgungskasse.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000800314",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE000904119",
+        "name": "\u00a7 8",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>Der Haushaltsplan bedarf der Genehmigung des Bundesministeriums f\u00fcr Ern\u00e4hrung und Landwirtschaft, die nur im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium f\u00fcr Arbeit und Soziales erteilt werden kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001006119",
+        "name": "\u00a7 9",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>Durch Verwaltungsvereinbarung kann geregelt werden, dass die Sozialversicherung f\u00fcr Landwirtschaft, Forsten und Gartenbau Verwaltungsaufgaben der Zusatzversorgungskasse wahrnimmt. Die Verwaltungsvereinbarung hat die wahrzunehmenden Aufgaben zu bezeichnen und eine Regelung \u00fcber die Erstattung der bei der Durchf\u00fchrung der wahrzunehmenden Aufgaben entstehenden Verwaltungskosten zu enthalten; sie bedarf der Genehmigung des Bundesministeriums f\u00fcr Ern\u00e4hrung und Landwirtschaft, die nur im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium f\u00fcr Arbeit und Soziales erteilt werden kann. Die Verwaltungsvereinbarung ist in derselben Weise wie die Satzung der Zusatzversorgungskasse zu ver\u00f6ffentlichen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001103119",
+        "name": "\u00a7 10",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002100314"
+        },
+        "body": "<P>(1) Soweit dieses Gesetz nichts anderes vorschreibt, sind die f\u00fcr die landwirtschaftliche Unfallversicherung geltenden Vorschriften des Ersten, Vierten, Siebten und Zehnten Buches Sozialgesetzbuch sowie die auf Grund dieser Gesetze f\u00fcr die landwirtschaftliche Unfallversicherung erlassenen Rechtsverordnungen entsprechend anzuwenden. Die \u00a7\u00a7 144 bis 147, 172c und 219a Abs. 2 bis 4 des Siebten Buches Sozialgesetzbuch gelten nicht. \u00a7 73 Absatz 2 Satz 1 und 5 des Vierten Buches Sozialgesetzbuch gilt mit der Ma\u00dfgabe, dass an die Stelle der Aufsichtsbeh\u00f6rde das Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft tritt.</P><P>(2) Die Gerichte der Sozialgerichtsbarkeit entscheiden \u00fcber \u00f6ffentlich-rechtliche Streitigkeiten in Angelegenheiten dieses Gesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR016600974BJNG002200314",
+        "name": "Zweiter Abschnitt",
+        "title": "Ausgleichsleistungen an\nArbeitnehmer der Land- und Forstwirtschaft",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001205308",
+        "name": "\u00a7 11",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002200314"
+        },
+        "body": "<P>Eine Ausgleichsleistung wird gew\u00e4hrt, wenn den landwirtschaftlichen Arbeitnehmern im Inland, die in der gesetzlichen Rentenversicherung versichert sind, sowie ihren Witwen und Witwern auf Grund tarifvertraglicher Vorschriften eine Anwartschaft oder ein Anspruch auf Beihilfe zu den Altersrenten, den Renten wegen Erwerbsunf\u00e4higkeit, den Renten wegen Erwerbsminderung oder den Renten wegen Todes aus der gesetzlichen Rentenversicherung gew\u00e4hrleistet ist oder nur deswegen nicht gew\u00e4hrleistet ist, weil eine Tarifgebundenheit nicht besteht; landwirtschaftliche Arbeitnehmer, deren Besch\u00e4ftigungsverh\u00e4ltnis voraussichtlich nicht l\u00e4nger als sechs Monate dauert, k\u00f6nnen hiervon ausgenommen sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001311308",
+        "name": "\u00a7 12",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002200314"
+        },
+        "body": "<P>(1) Die Ausgleichsleistung erh\u00e4lt, wer <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">aus der gesetzlichen Rentenversicherung eine Altersrente, eine Erziehungsrente, eine Rente wegen Erwerbsminderung oder eine Rente wegen Erwerbsunf\u00e4higkeit erh\u00e4lt,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">in den letzten 25 Jahren vor Beginn der Altersrente, der Erziehungsrente, der Rente wegen Erwerbsminderung oder der Rente wegen Erwerbsunf\u00e4higkeit mindestens 180 Kalendermonate eine Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer ausge\u00fcbt hat und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">am 1. Juli 2010 das 50. Lebensjahr vollendet hatte.</LA></DD></DL></P><P>(2) Den Zeiten einer Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer nach Absatz 1 stehen gleich: <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Ersatzzeiten und Anrechnungszeiten im Sinne der gesetzlichen Rentenversicherung sowie Zeiten, f\u00fcr die wegen des Bezugs von Sozialleistungen Pflichtbeitr\u00e4ge<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">von der Bundesagentur f\u00fcr Arbeit gezahlt werden oder in der Zeit vom 1. Juli 1978 bis zum 31. Dezember 1982 von der Bundesanstalt f\u00fcr Arbeit gezahlt wurden,</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">von einem anderen Leistungstr\u00e4ger gezahlt werden oder in der Zeit vom 1. Oktober 1974 bis zum 31. Dezember 1983 gezahlt wurden,</LA></DD></DL></LA><LA Size=\"normal\">wenn durch diese Zeiten eine Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer unterbrochen worden ist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zeiten, f\u00fcr die auf Grund landesrechtlicher Vorschriften eine Anpassungshilfe f\u00fcr \u00e4ltere landwirtschaftliche Arbeitnehmer gew\u00e4hrt worden ist,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Zeiten mit Anspruch auf Vorruhestandsgeld, wenn diese Zeiten unmittelbar an eine Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer anschlie\u00dfen.</LA></DD></DL></P><P>(2a) Bei Personen im Sinne der \u00a7\u00a7 1 bis 4 des Bundesvertriebenengesetzes in der Fassung der Bekanntmachung vom 3. September 1971 (Bundesgesetzbl. I S. 1565, 1807), <I>zuletzt ge\u00e4ndert durch</I> Artikel 89 des Einf\u00fchrungsgesetzes zum Strafgesetzbuch vom 2. M\u00e4rz 1974 (Bundesgesetzbl. I S. 469), stehen Zeiten einer Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer in Gebieten, in denen diese Personen vor der Vertreibung, Flucht oder Aussiedlung ihren Wohnsitz oder st\u00e4ndigen Aufenthalt hatten, bei Anwendung der Abs\u00e4tze 1 und 2 den Zeiten einer Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer im Inland (\u00a7 2 Abs. 2) gleich, wenn im Inland wieder eine Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer ausge\u00fcbt worden ist; f\u00fcr Personen aus den in \u00a7 3 Abs. 1 des Bundesvertriebenengesetzes genannten Gebieten gilt dies auch, wenn die dort genannten pers\u00f6nlichen Voraussetzungen nicht vorliegen.</P><P>(2b) F\u00fcr Personen, die vor dem 1. Juli 1990 ihren Wohnsitz im Beitrittsgebiet hatten und zu diesem Zeitpunkt in einem Betrieb nach \u00a7 2 Abs. 2, einer landwirtschaftlichen Produktionsgenossenschaft, einem volkseigenen Gut oder einer vergleichbaren Einrichtung rentenversicherungspflichtig besch\u00e4ftigt waren, gilt Absatz 1 mit der Ma\u00dfgabe, da\u00df Zeiten einer Besch\u00e4ftigung im Beitrittsgebiet und auf einer Besch\u00e4ftigung im Beitrittsgebiet beruhende Zeiten im Sinne des Absatzes 2 vor dem 1. Juli 1995 nur ber\u00fccksichtigt werden, wenn sie nach dem 31. Dezember 1994 f\u00fcr mindestens sechs Monate eine rentenversicherungspflichtige Besch\u00e4ftigung als landwirtschaftliche Arbeitnehmer aus\u00fcben.</P><P>(2c) Liegen die Voraussetzungen des Absatzes 2b vor, gelten als Zeiten einer Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer in einem Betrieb nach \u00a7 2 Abs. 2 auch die Zeiten einer Besch\u00e4ftigung in einer landwirtschaftlichen Produktionsgenossenschaft, einem volkseigenen Gut oder einer vergleichbaren Einrichtung.</P><P>(3) Witwen und Witwer der in Absatz 1 genannten landwirtschaftlichen Arbeitnehmer erhalten die Ausgleichsleistung, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der verstorbene Ehegatte Anspruch auf Ausgleichsleistung hatte oder gehabt h\u00e4tte, wenn er im Zeitpunkt seines Todes erwerbsunf\u00e4hig oder erwerbsgemindert im Sinne der Vorschriften der gesetzlichen Rentenversicherungen gewesen w\u00e4re,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Witwe oder der Witwer eine gro\u00dfe Witwen- oder Witwerrente erh\u00e4lt und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ehe vor Vollendung des 65. Lebensjahres des landwirtschaftlichen Arbeitnehmers geschlossen worden ist.</LA></DD></DL></P><P>(4) Keinen Anspruch auf Ausgleichsleistung haben Personen, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr ihr land- oder forstwirtschaftliches Arbeitsverh\u00e4ltnis auf Grund gesetzlicher, tarifvertraglicher oder vertraglicher Vorschrift Anspruch gegen eine andere Zusatzversorgungseinrichtung erworben haben oder f\u00fcr die der Arbeitgeber Beitr\u00e4ge der H\u00f6herversicherung in der gesetzlichen Rentenversicherung oder Beitr\u00e4ge zu einer Lebensversicherung entrichtet hat und dadurch eine Befreiung von einer anderen Zusatzversorgungseinrichtung eingetreten ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">denen Versorgung nach beamten- oder kirchenrechtlichen Vorschriften oder Grunds\u00e4tzen zusteht,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">denen nach einer Ruhelohnordnung oder einer entsprechenden Bestimmung Ruhegeld oder Ruhelohn zusteht,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anspruch auf Altersrente, Rente wegen Erwerbsminderung oder Erwerbsunf\u00e4higkeit, Witwen- oder Witwerrenten oder Landabgaberente nach dem Gesetz \u00fcber die Alterssicherung der Landwirte haben.</LA></DD></DL></P><P>(5) Bei Anwendung des Absatzes 1 Buchstabe b steht f\u00fcr Bezugszeiten vom 1. Juli 1985 an eine Rente wegen Berufsunf\u00e4higkeit einer Rente wegen Erwerbsunf\u00e4higkeit oder Erwerbsminderung gleich, wenn die Rente wegen Berufsunf\u00e4higkeit vor dem 1. Januar 1977 bewilligt wurde und der Bezieher dieser Rente nach deren Beginn bis zum Eintritt der Erwerbsunf\u00e4higkeit, der Erwerbsminderung oder dem Beginn einer Altersrente keine Pflichtbeitr\u00e4ge mehr zur gesetzlichen Rentenversicherung gezahlt hat oder eine selbst\u00e4ndige Erwerbst\u00e4tigkeit nicht ausge\u00fcbt hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001401309",
+        "name": "\u00a7 13",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002200314"
+        },
+        "body": "<P>Die Kosten der Ausgleichsleistung einschlie\u00dflich ihrer Verwaltungskosten tr\u00e4gt der Bund.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001508119",
+        "name": "\u00a7 14",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002200314"
+        },
+        "body": "<P>(1) Der Monatsbetrag der Ausgleichsleistung betr\u00e4gt f\u00fcr den verheirateten Berechtigten bis 30. Juni 2009 62 Euro und ab dem 1. Juli 2009 80 Euro und f\u00fcr den unverheirateten Berechtigten sechs Zehntel dieses Betrages. Haben beide Ehegatten Anspruch auf die Ausgleichsleistung, so erh\u00e4lt jeder Ehegatte die Ausgleichsleistung f\u00fcr den unverheirateten Berechtigten. Treffen mehrere Ausgleichsleistungen zusammen, so wird die Ausgleichsleistung nur einmal gew\u00e4hrt, und zwar, unter den Voraussetzungen des Absatzes 2, die h\u00f6chste.</P><P>(2) Die Ausgleichsleistung f\u00fcr Berechtigte, die nach dem 30. Juni 1972 als landwirtschaftliche Arbeitnehmer besch\u00e4ftigt waren, sowie f\u00fcr ihre Witwen und Witwer ist zu k\u00fcrzen. Die Ausgleichsleistung wird bei Beziehern einer Leistung f\u00fcr Verheiratete um den Betrag der tarifvertraglichen (\u00a7 11) oder der entsprechenden privatrechtlichen Beihilfe, bei Beziehern einer Leistung f\u00fcr Unverheiratete um drei F\u00fcnftel der tarifvertraglichen Beihilfe gek\u00fcrzt; bei der Berechnung der K\u00fcrzung einer Leistung nach \u00a7 12 Abs. 3 ist die tarifvertragliche Beihilfe zugrunde zu legen, die sich bei Bezug einer Rente wegen Alters oder verminderter Erwerbsf\u00e4higkeit erg\u00e4be. Besteht Anspruch auf eine Ausgleichsleistung, ohne da\u00df eine tarifvertragliche oder privatrechtliche Beihilfe gew\u00e4hrt wird, so ist die Ausgleichsleistung um den Betrag zu k\u00fcrzen, der sich nach Satz 2 als K\u00fcrzung erg\u00e4be, wenn Tarifgebundenheit bestanden h\u00e4tte. Ist die tarifvertragliche Beihilfe abgefunden worden, so ist die Ausgleichsleistung um den Betrag zu k\u00fcrzen, der sich ohne die Abfindung erg\u00e4be. Besteht Anspruch auf eine entsprechende privatrechtliche Beihilfe, betr\u00e4gt die K\u00fcrzung der monatlichen Ausgleichsleistung bei Berechtigten, die Anspruch auf die Ausgleichsleistung f\u00fcr den verheirateten Berechtigten haben, mindestens 1,30 Euro f\u00fcr jeweils zw\u00f6lf Monate der Besch\u00e4ftigung als landwirtschaftlicher Arbeitnehmer nach dem 30. Juni 1972, bei Berechtigten, die Anspruch auf die Ausgleichsleistung f\u00fcr den unverheirateten Berechtigten haben, mindestens drei F\u00fcnftel dieses Betrages.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE002100308",
+        "name": "\u00a7 14a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002200314"
+        },
+        "body": "<P>(1) Wird eine Ausgleichsleistung nur unter Ber\u00fccksichtigung des \u00a7 12 Abs. 2b und 2c erbracht, ergibt sich bis zur Herstellung einheitlicher Einkommensverh\u00e4ltnisse im Gebiet der Bundesrepublik Deutschland der Monatsbetrag der Ausgleichsleistung durch Vervielf\u00e4ltigung des sich nach \u00a7 14 Abs. 1 ergebenden Betrages mit dem Verh\u00e4ltnis des nach dem Gesetz \u00fcber die Alterssicherung der Landwirte ermittelten allgemeinen Rentenwertes (Ost) zu dem nach dem Gesetz \u00fcber die Alterssicherung der Landwirte ermittelten allgemeinen Rentenwert.</P><P>(2) F\u00fcr die K\u00fcrzung der Ausgleichsleistung gilt \u00a7 14 Abs. 2 mit der Ma\u00dfgabe, da\u00df an die Stelle des 30. Juni 1972 der 30. Juni 1995 tritt. Bis zur Herstellung einheitlicher Einkommensverh\u00e4ltnisse im Gebiet der Bundesrepublik Deutschland ergibt sich der Mindestbetrag der K\u00fcrzung durch Vervielf\u00e4ltigung des sich aus \u00a7 14 Abs. 1 ergebenden Betrages mit dem Verh\u00e4ltnis des nach dem Gesetz \u00fcber die Alterssicherung der Landwirte ermittelten allgemeinen Rentenwertes (Ost) zu dem nach dem Gesetz \u00fcber die Alterssicherung der Landwirte ermittelten allgemeinen Rentenwert.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001602308",
+        "name": "\u00a7 15",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002200314"
+        },
+        "body": "<P>(1) Die Ausgleichsleistung f\u00fcr Zeiten vom 1. Juli des Vorjahres bis zum 30. Juni des jeweils laufenden Jahres wird nachtr\u00e4glich in einer Summe ausgezahlt.</P><P>(2) Die erstmalige Feststellung der Ausgleichsleistung erfolgt auf Antrag und durch schriftlichen Verwaltungsakt. Der Antrag auf Ausgleichsleistung f\u00fcr Zeiten vom 1. Juli des Vorjahres bis zum 30. Juni des laufenden Jahres ist bis zum 30. September des laufenden Jahres bei der Zusatzversorgungskasse zu stellen. Dieser Antrag gilt auch f\u00fcr die Ausgleichsleistung f\u00fcr Zeiten vor dem 1. Juli des Vorjahres, wenn der Bescheid \u00fcber die Rente aus der gesetzlichen Rentenversicherung (\u00a7 12) in der Zeit vom 1. Juli des Vorjahres bis zum 30. September des laufenden Jahres zugestellt worden ist und die Rente vor dem 1. Juli des Vorjahres beginnt; Absatz 1 gilt entsprechend. F\u00fcr verstorbene Berechtigte kann der Antrag durch die Witwe oder den Witwer gestellt werden. Die Satzung der Zusatzversorgungskasse kann die Verwendung eines Antragsvordrucks vorschreiben. Soweit der Antrag auf Ausgleichsleistung bis zum 30. September 1996 gestellt wird und erstmals ab 1. Januar 1995 ein Anspruch auf Ausgleichsleistung wegen der mit Wirkung vom 1. Januar 1995 erfolgten \u00c4nderung des \u00a7 12 Abs. 1 besteht, ist die Ausgleichsleistung auch f\u00fcr die Zeit vom 1. Januar 1995 bis 30. Juni 1995 zu zahlen.</P><P>(3)</P><P>(4)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR016600974BJNG002300314",
+        "name": "Dritter Abschnitt",
+        "title": "Sonstige Aufgaben der\nZusatzversorgungskasse",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001704119",
+        "name": "\u00a7 16",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002300314"
+        },
+        "body": "<P>(1) Die Zusatzversorgungskasse kann mit Genehmigung des Bundesministeriums f\u00fcr Ern\u00e4hrung und Landwirtschaft und des Bundesministeriums f\u00fcr Arbeit und Soziales die Aufgaben gemeinsamer Einrichtungen der Tarifvertragsparteien der Land- und Forstwirtschaft im Sinne des \u00a7 4 Abs. 2 des Tarifvertragsgesetzes, die eine Zusatzaltersversorgung f\u00fcr Arbeitnehmer der Land- und Forstwirtschaft zum Gegenstand haben, durchf\u00fchren.</P><P>(2) Soweit gemeinsame Einrichtungen zur Durchf\u00fchrung ihrer Aufgaben die Zusatzversorgungskasse in Anspruch nehmen, haben sie der Zusatzversorgungskasse die hierdurch entstehenden Verwaltungskosten zu erstatten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR016600974BJNG002400314",
+        "name": "Vierter Abschnitt",
+        "title": "\u00dcbergangs- und Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001801309",
+        "name": "\u00a7 17",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002400314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE001901308",
+        "name": "\u00a7 18",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002400314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR016600974BJNE002001308",
+        "name": "\u00a7 19",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR016600974BJNG002400314"
+        },
+        "body": "<P>Dieses Gesetz tritt am Tage nach seiner Verk\u00fcndung in Kraft. Anspr\u00fcche auf Ausgleichsleistung k\u00f6nnen ab 1. Juli 1973, f\u00fcr die in \u00a7 12 Abs. 2b genannten Personen ab 1. Juli 1995 entstehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

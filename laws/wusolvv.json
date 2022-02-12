@@ -1,0 +1,1208 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR423800013",
+    "firstPublished": "2013-12-06",
+    "sourceTimestamp": "20210615213330",
+    "titleShort": "Wohnungsunternehmen-Solvabilit\u00e4tsverordnung",
+    "titleLong": "Verordnung \u00fcber die angemessene Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung<FnR ID=\"f783292_01_BJNR423800013\" />",
+    "abbreviation": "WuSolvV",
+    "slug": "wusolvv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2013, 4238",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": "<P><noindex><Footnotes><Footnote FnZ=\"1\" Group=\"column\" ID=\"f783292_01_BJNR423800013\" Pos=\"exp\">Diese Verordnung dient der Umsetzung der Richtlinie 2013/36/EU des Europ\u00e4ischen Parlaments und des Rates vom 26. Juni 2013 \u00fcber den Zugang zur T\u00e4tigkeit von Kreditinstituten und die Beaufsichtigung von Kreditinstituten und Wertpapierfirmen, zur \u00c4nderung der Richtlinie 2002/87/EG und zur Aufhebung der Richtlinien 2006/48/EG und 2006/49/EG (ABl. L 176 vom 27.6.2013, S. 338) sowie der Anpassung des Aufsichtsrechts an die Verordnung (EU) Nr. 575/2013 des Europ\u00e4ischen Parlaments und des Rates vom 26. Juni 2013 \u00fcber Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur \u00c4nderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1).</Footnote></Footnotes></noindex></P>",
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2014 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Umsetzung der      <BR />        EURL 36/2013       (CELEX Nr: 32013L0036)<BR />     Anpassung der      <BR />        EUV 575/2013       (CELEX Nr: 32013R0575)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 51a Absatz 1 Satz 2 und 4 des Kreditwesengesetzes, der durch Artikel 1 Nummer 84 des Gesetzes vom 28. August 2013 (BGBl. I S. 3395) eingef\u00fcgt worden ist, verordnet das Bundesministerium der Finanzen im Benehmen mit der Deutschen Bundesbank nach Anh\u00f6rung des Spitzenverbandes der Wohnungsunternehmen mit Spareinrichtung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000200000",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<Ident Class=\"S3\">Teil 1</Ident><Title Align=\"auto\" Class=\"S3\">Allgemeine Vorschriften</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\">Anwendungsbereich</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\">Angemessenheit des Eigenkapitals</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\">Anrechnungspflichtige Positionen, Schuldnergesamtheit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\">Auf fremde W\u00e4hrung lautende Positionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\">Meldungen zur Eigenkapitalausstattung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\">Anzeigen bei Nichteinhaltung der Eigenkapitalanforderungen</entry></row></tbody></tgroup></table><Ident Class=\"S3\">Teil 2</Ident><Title Align=\"auto\" Class=\"S3\">Adressrisiken</Title><Ident Class=\"S2\">Kapitel 1</Ident><Title Align=\"auto\" Class=\"S2\">Risikopositionen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">Adressenausfallrisikopositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a08</entry><entry VJ=\"1\" colname=\"col2\">Bilanzielle Adressenausfallrisikopositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\">Derivative Adressenausfallrisikopositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\">Au\u00dferbilanzielle Adressenausfallrisikopositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\">Vorleistungsrisikopositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\">Abwicklungsrisikopositionen</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Kapitel 2</Ident><Title Align=\"auto\" Class=\"S2\">Gesamtanrechnungsbetrag f\u00fcr Adressrisiken</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\">Ermittlung des Gesamtanrechnungsbetrags f\u00fcr Adressrisiken</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\">Ermittlung der risikogewichteten KSA-Positionswerte f\u00fcr Adressenausfallrisikopositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">Gesamtanrechnungsbetrag f\u00fcr Abwicklungsrisiken</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Kapitel 3</Ident><Title Align=\"auto\" Class=\"S2\">Kreditrisiko-Standardansatz</Title><Ident Class=\"S1\">Abschnitt 1</Ident><Title Align=\"auto\" Class=\"S1\">KSA-Forderungsklassen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Zuordnung von KSA-Positionen zu KSA-Forderungsklassen</entry></row></tbody></tgroup></table><Ident Class=\"S1\">Abschnitt 2</Ident><Title Align=\"auto\" Class=\"S1\">KSA-Risikogewicht</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr Zentralregierungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 18</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr Regionalregierungen und \u00f6rtliche Gebietsk\u00f6rperschaften</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 19</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr sonstige \u00f6ffentliche Stellen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 20</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr multilaterale Entwicklungsbanken</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 21</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr internationale Organisationen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 22</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr Institute</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr von Kreditinstituten emittierte gedeckte Schuldverschreibungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 24</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr Unternehmen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr das Mengengesch\u00e4ft</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 26</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr Investmentanteile</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 27</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr Beteiligungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 28</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr sonstige Positionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 29</entry><entry VJ=\"1\" colname=\"col2\">KSA-Risikogewicht f\u00fcr \u00fcberf\u00e4llige Positionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 30</entry><entry VJ=\"1\" colname=\"col2\">Benennung von Exportversicherungsagenturen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 31</entry><entry VJ=\"1\" colname=\"col2\">Verwendung von L\u00e4nderklassifizierungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 32</entry><entry VJ=\"1\" colname=\"col2\">Ma\u00dfgebliche L\u00e4nderklassifizierungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 33</entry><entry VJ=\"1\" colname=\"col2\">Ma\u00dfgebliche L\u00e4nderklassifizierung einer beurteilten KSA-Position</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 34</entry><entry VJ=\"1\" colname=\"col2\">Verwendungsf\u00e4hige L\u00e4nderklassifizierungen von Exportversicherungsagenturen</entry></row></tbody></tgroup></table><Ident Class=\"S1\">Abschnitt 3</Ident><Title Align=\"auto\" Class=\"S1\">KSA-Positionswert</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 35</entry><entry VJ=\"1\" colname=\"col2\">KSA-Positionswert</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 36</entry><entry VJ=\"1\" colname=\"col2\">KSA-Bemessungsgrundlage</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 37</entry><entry VJ=\"1\" colname=\"col2\">Bemessungsgrundlage f\u00fcr derivative Adressenausfallrisikopositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 38</entry><entry VJ=\"1\" colname=\"col2\">Marktbewerteter Wiedereindeckungsaufwand</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 39</entry><entry VJ=\"1\" colname=\"col2\">Gegenw\u00e4rtiger potenzieller Wiedereindeckungsaufwand</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 40</entry><entry VJ=\"1\" colname=\"col2\">K\u00fcnftig zu erwartende Erh\u00f6hung des gegenw\u00e4rtigen potenziellen Wiedereindeckungsaufwands</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 41</entry><entry VJ=\"1\" colname=\"col2\">Marktbewerteter Anspruch aus einem Derivat</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 42</entry><entry VJ=\"1\" colname=\"col2\">F\u00fcr den Wiedereindeckungsaufwand ma\u00dfgebliche Laufzeit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 43</entry><entry VJ=\"1\" colname=\"col2\">Laufzeitbewerteter Wiedereindeckungsaufwand</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 44</entry><entry VJ=\"1\" colname=\"col2\">KSA-Konversionsfaktor</entry></row></tbody></tgroup></table><Ident Class=\"S1\">Abschnitt 4</Ident><Title Align=\"auto\" Class=\"S1\">Verbriefungen</Title><Ident Class=\"S0\">Unterabschnitt 1</Ident><Title Align=\"auto\" Class=\"S0\">Anrechnung von<BR /> Verbriefungspositionen, Begriffsbestimmungen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 45</entry><entry VJ=\"1\" colname=\"col2\">Anrechnung der risikogewichteten KSA-Positionswerte f\u00fcr Verbriefungspositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 46</entry><entry VJ=\"1\" colname=\"col2\">Verbriefungstransaktion</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 47</entry><entry VJ=\"1\" colname=\"col2\">Verbriefungspositionen, Verbriefungstranchen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 48</entry><entry VJ=\"1\" colname=\"col2\">Verbrieftes Portfolio</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 49</entry><entry VJ=\"1\" colname=\"col2\">Originator, Sponsor, Investor</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 50</entry><entry VJ=\"1\" colname=\"col2\">Sonstige Begriffsbestimmungen f\u00fcr Verbriefungen</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Unterabschnitt 2</Ident><Title Align=\"auto\" Class=\"S0\">Anforderungen<BR /> an Wohnungsunternehmen<BR /> mit Spareinrichtung, die als Originator<BR /> oder Sponsor von Verbriefungstransaktionen gelten</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 51</entry><entry VJ=\"1\" colname=\"col2\">Mindestanforderungen an einen wesentlichen und wirksamen Risikotransfer</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 52</entry><entry VJ=\"1\" colname=\"col2\">Verbot der impliziten Unterst\u00fctzung von Verbriefungstransaktionen</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Unterabschnitt 3</Ident><Title Align=\"auto\" Class=\"S0\">Anrechnung von Verbriefungstransaktionen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 53</entry><entry VJ=\"1\" colname=\"col2\">KSA-Bemessungsgrundlage einer Verbriefungsposition</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 54</entry><entry VJ=\"1\" colname=\"col2\">KSA-Positionswert einer Verbriefungsposition</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 55</entry><entry VJ=\"1\" colname=\"col2\">Risikogewichteter KSA-Positionswert einer Verbriefungsposition</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 56</entry><entry VJ=\"1\" colname=\"col2\">KSA-Verbriefungsrisikogewicht f\u00fcr Verbriefungspositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 57</entry><entry VJ=\"1\" colname=\"col2\">Maximaler risikogewichteter KSA-Positionswert einer KSA-Verbriefungstransaktion</entry></row></tbody></tgroup></table><Ident Class=\"S0\">Unterabschnitt 4</Ident><Title Align=\"auto\" Class=\"S0\">Abzugsbetr\u00e4ge f\u00fcr Verbriefungspositionen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 58</entry><entry VJ=\"1\" colname=\"col2\">Abzugsbetrag von Verbriefungspositionen</entry></row></tbody></tgroup></table><Ident Class=\"S3\">Teil 3</Ident><Title Align=\"auto\" Class=\"S3\">Operationelle Risiken</Title><Ident Class=\"S2\">Kapitel 1</Ident><Title Align=\"auto\" Class=\"S2\">Allgemeine Vorschriften</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 59</entry><entry VJ=\"1\" colname=\"col2\">Begriffsbestimmung</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Kapitel 2</Ident><Title Align=\"auto\" Class=\"S2\">Basisindikatoransatz</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 60</entry><entry VJ=\"1\" colname=\"col2\">Berechnung des Anrechnungsbetrags</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 61</entry><entry VJ=\"1\" colname=\"col2\">Definition des relevanten Indikators</entry></row></tbody></tgroup></table><Ident Class=\"S3\">Teil 4</Ident><Title Align=\"auto\" Class=\"S3\">Marktrisiken</Title><Ident Class=\"S2\">Kapitel 1</Ident><Title Align=\"auto\" Class=\"S2\">W\u00e4hrungsgesamtposition</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 62</entry><entry VJ=\"1\" colname=\"col2\">Ermittlung und Anrechnung der W\u00e4hrungsgesamtposition</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 63</entry><entry VJ=\"1\" colname=\"col2\">Aktiv- und Passivpositionen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 64</entry><entry VJ=\"1\" colname=\"col2\">Ber\u00fccksichtigung von Optionsgesch\u00e4ften</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Kapitel 2</Ident><Title Align=\"auto\" Class=\"S2\">Rohwarenposition</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 65</entry><entry VJ=\"1\" colname=\"col2\">Ermittlung und Anrechnung der Rohwarenposition</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 66</entry><entry VJ=\"1\" colname=\"col2\">Zeitf\u00e4chermethode</entry></row></tbody></tgroup></table><Ident Class=\"S2\">Kapitel 3</Ident><Title Align=\"auto\" Class=\"S2\">Andere Marktrisikopositionen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 67</entry><entry VJ=\"1\" colname=\"col2\">Ermittlung und Anrechnung der anderen Marktrisikopositionen</entry></row></tbody></tgroup></table><Ident Class=\"S3\">Teil 5</Ident><Title Align=\"auto\" Class=\"S3\">\u00dcbergangs- und<BR /> Schlussbestimmungen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"90*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 68</entry><entry VJ=\"1\" colname=\"col2\">\u00dcbergangsbestimmungen f\u00fcr die Eigenkapitalausstattung und -berechnung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 69</entry><entry VJ=\"1\" colname=\"col2\">Inkrafttreten</entry></row><row><entry VJ=\"1\" colname=\"col1\" nameend=\"col2\" namest=\"col1\">Anlage 1</entry></row><row><entry VJ=\"1\" colname=\"col1\" nameend=\"col2\" namest=\"col1\">Anlage 2</entry></row></tbody></tgroup></table>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000100000",
+        "name": "Teil 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000300000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000100000"
+        },
+        "body": "<P>Diese Verordnung ist anzuwenden auf Wohnungsunternehmen mit Spareinrichtung im Sinne des \u00a7 1 Absatz 29 des Kreditwesengesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000400000",
+        "name": "\u00a7 2",
+        "title": "Angemessenheit des Eigenkapitals",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000100000"
+        },
+        "body": "<P>(1) Ein Wohnungsunternehmen mit Spareinrichtung verf\u00fcgt \u00fcber angemessenes Eigenkapital, wenn es t\u00e4glich zum Gesch\u00e4ftsschluss die Eigenkapitalanforderungen f\u00fcr Adressrisiken, operationelle Risiken und Marktrisiken nach Absatz 2 erf\u00fcllt. Gesch\u00e4ftsschluss im Sinne dieser Verordnung ist t\u00e4glich 24 Uhr MEZ/MESZ. Die Bundesanstalt f\u00fcr Finanzdienstleistungsaufsicht (Bundesanstalt) kann auf Antrag des Wohnungsunternehmens mit Spareinrichtung einen anderen Zeitpunkt festsetzen, der den Aktivit\u00e4ten des Wohnungsunternehmens mit Spareinrichtung angemessen Rechnung tr\u00e4gt.</P><P>(2) Die Eigenkapitalanforderungen f\u00fcr Adressrisiken, operationelle Risiken und Marktrisiken werden erf\u00fcllt, wenn der nach den \u00a7\u00a7 13 bis 15 ermittelte Gesamtanrechnungsbetrag f\u00fcr Adressrisiken, der nach \u00a7 60 ermittelte Anrechnungsbetrag f\u00fcr operationelle Risiken und die Summe der nach den \u00a7\u00a7 62, 65 und 67 ermittelten Anrechnungsbetr\u00e4ge f\u00fcr die Marktrisikopositionen insgesamt das haftende Eigenkapital eines Wohnungsunternehmens mit Spareinrichtung nicht \u00fcberschreiten. Die Marktrisikopositionen werden gebildet durch die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Fremdw\u00e4hrungsrisikopositionen nach \u00a7 3 Absatz 5 Satz 1,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Rohwarenrisikopositionen nach \u00a7 3 Absatz 7 Satz 1,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>anderen Marktrisikopositionen nach \u00a7 3 Absatz 8 Satz 1.</LA></DD></DL></P><P>(3) Das Gr\u00f6\u00dfenverh\u00e4ltnis nach Absatz 2 ist t\u00e4glich zum Gesch\u00e4ftsschluss zu ermitteln. Ein Wohnungsunternehmen mit Spareinrichtung darf von der gesch\u00e4ftst\u00e4glichen Ermittlung absehen, wenn es durch geeignete interne Ma\u00dfnahmen sicherstellt, dass den Anforderungen nach den Abs\u00e4tzen 1 und 2 entsprochen wird und die Gesamtkennziffer nach Absatz 4 Satz 2 den Betrag von 8,4 Prozent nicht unterschreitet.</P><P>(4) Ein Wohnungsunternehmen mit Spareinrichtung hat zum Ende eines jeden Kalenderjahres eine Gesamtkennziffer zu ermitteln. Die Gesamtkennziffer gibt das Verh\u00e4ltnis in Prozent zwischen dem haftenden Eigenkapital nach \u00a7 51a Absatz 6 des Kreditwesengesetzes, soweit es nicht nach den Vorschriften des Kreditwesengesetzes zur Unterlegung von Positionen mit Kern- und Erg\u00e4nzungskapital ben\u00f6tigt wird, als Z\u00e4hler und der mit 12,5 multiplizierten Summe aus dem Gesamtanrechnungsbetrag f\u00fcr Adressrisiken, dem Anrechnungsbetrag f\u00fcr operationelle Risiken und der Summe der Anrechnungsbetr\u00e4ge f\u00fcr Marktrisikopositionen einschlie\u00dflich der Optionsgesch\u00e4fte als Nenner an.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000500000",
+        "name": "\u00a7 3",
+        "title": "Anrechnungspflichtige Positionen, Schuldnergesamtheit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000100000"
+        },
+        "body": "<P>(1) Ein Wohnungsunternehmen mit Spareinrichtung hat als anrechnungspflichtige Positionen seine Adressrisikopositionen, Fremdw\u00e4hrungsrisikopositionen, Rohwarenrisikopositionen und andere Marktrisikopositionen zu bestimmen.</P><P>(2) Adressrisikopositionen werden durch solche Positionen gebildet, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einem Adressenausfallrisiko oder als Sachanlagen einem Wertverschlechterungsrisiko unterliegen (Adressenausfallrisikopositionen) oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einem Abwicklungsrisiko unterliegen (Abwicklungsrisikopositionen).</LA></DD></DL>Die Adressrisikopositionen sind nach dem Verfahren zur Ermittlung des Gesamtanrechnungsbetrags f\u00fcr Adressrisiken nach den \u00a7\u00a7 13 bis 15 zu ber\u00fccksichtigen.</P><P>(3) Adressenausfallrisiko ist <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Risiko, dass eine nat\u00fcrliche oder juristische Person oder eine Personenhandelsgesellschaft, gegen\u00fcber der das Wohnungsunternehmen mit Spareinrichtung einen bedingten oder unbedingten Anspruch hat, nicht oder nicht fristgerecht leistet,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Risiko, dass das Wohnungsunternehmen mit Spareinrichtung gegen\u00fcber einer Person oder Personenhandelsgesellschaft aufgrund der Nichtleistung eines Dritten zu leisten verpflichtet ist, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das finanzielle Risiko des Wohnungsunternehmens mit Spareinrichtung in Bezug auf Beteiligungen.</LA></DD></DL>Die Wohnungsunternehmen mit Spareinrichtung stellen sicher, dass die f\u00fcr Zwecke dieser Verordnung gespeicherten personenbezogenen Daten sp\u00e4testens nach Ablauf des vierten Kalenderjahres nach Beendigung und Abwicklung des Schuldverh\u00e4ltnisses mit dem Schuldner des Wohnungsunternehmens mit Spareinrichtung oder nach dem Scheitern der Begr\u00fcndung des Schuldverh\u00e4ltnisses vollst\u00e4ndig gel\u00f6scht oder anonymisiert werden.</P><P>(4) Abwicklungsrisiko ist das Risiko einer Wertver\u00e4nderung des Gesch\u00e4ftsgegenstands, das f\u00fcr ein nach Ablauf des Erf\u00fcllungszeitpunktes beiderseitig nicht erf\u00fclltes Gesch\u00e4ft besteht.</P><P>(5) Fremdw\u00e4hrungsrisikopositionen sind Anspr\u00fcche oder Verpflichtungen einschlie\u00dflich Beteiligungen in fremder W\u00e4hrung und in Gold sowie Kassenbest\u00e4nde in fremder W\u00e4hrung und Best\u00e4nde in Gold. Aus den Fremdw\u00e4hrungsrisikopositionen ist nach den \u00a7\u00a7 62 <NB>bis 64</NB> die W\u00e4hrungsgesamtposition zu bilden und hierf\u00fcr der Anrechnungsbetrag zu ermitteln. Gold- und Sortenbest\u00e4nde im Gesamtwert von bis zu 128\u00a0000 Euro m\u00fcssen nicht in die W\u00e4hrungsgesamtposition einbezogen werden. Wird die Grenze nach Satz 3 \u00fcberschritten, sind die Gold- und Sortenbest\u00e4nde in voller H\u00f6he in die W\u00e4hrungsgesamtposition einzubeziehen.</P><P>(6) Fremdw\u00e4hrungsrisikopositionen, die nach \u00a7 51a Absatz 6 Satz 2 Nummer 2 des Kreditwesengesetzes vom haftenden Eigenkapital abgezogen oder die in vollem Umfang mit haftendem Eigenkapital unterlegt werden, sowie Beteiligungen einschlie\u00dflich Anteilen an verbundenen Unternehmen in fremder W\u00e4hrung, die zu Anschaffungskursen bewertet werden (strukturelle W\u00e4hrungspositionen), d\u00fcrfen auf Antrag des Wohnungsunternehmens mit Spareinrichtung mit Zustimmung der Bundesanstalt bei der Ermittlung der W\u00e4hrungsgesamtposition nach Absatz 5 Satz 2 au\u00dfer Ansatz bleiben. Die Zustimmung gilt als erteilt, wenn das Wohnungsunternehmen mit Spareinrichtung mit seinem Antrag nach Satz 1 die jeweiligen Posten der Bundesanstalt mitteilt und diese nicht innerhalb von drei Monaten widerspricht. \u00c4nderungen der nicht zu ber\u00fccksichtigenden Posten sind der Bundesanstalt mitzuteilen. Die H\u00f6he der nicht in Ansatz gebrachten Posten ist auf der Meldung nach \u00a7 5 Absatz 1 zu vermerken.</P><P>(7) Rohwarenrisikopositionen sind Anspr\u00fcche oder Verpflichtungen in Bezug auf Waren sowie Warenbest\u00e4nde. Aus den Rohwarenrisikopositionen ist nach den \u00a7\u00a7 65 und 66 die Rohwarenposition zu bilden und hierf\u00fcr der Anrechnungsbetrag zu ermitteln. Silber- und Platinbest\u00e4nde im Gesamtwert von bis zu 26\u00a0000 Euro brauchen nicht in die Rohwarenposition einbezogen werden. Wird die Grenze nach Satz 3 \u00fcberschritten, sind Silber- und Platinbest\u00e4nde in voller H\u00f6he in die Rohwarenposition einzubeziehen.</P><P>(8) Andere Marktrisikopositionen sind vertragliche Anspr\u00fcche und Verpflichtungen, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr die eine Vertragspartei einen finanziellen Verm\u00f6genswert und f\u00fcr die andere Vertragspartei eine finanzielle Verbindlichkeit schaffen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>nicht nach den Abs\u00e4tzen 2 bis 7 zu erfassen sind.</LA></DD></DL>Der Anrechnungsbetrag f\u00fcr andere Marktrisikopositionen ist nach \u00a7 67 zu ermitteln.</P><P>(9) Zwei oder mehr nat\u00fcrliche Personen, juristische Personen oder Personenhandelsgesellschaften sind in der Regel eine Schuldnergesamtheit, wenn sie untereinander unter Ber\u00fccksichtigung ihrer rechtlichen und tats\u00e4chlichen Verh\u00e4ltnisse so verbunden sind, dass die Zahlungsschwierigkeiten einer der Personen oder Personenhandelsgesellschaften zu Schwierigkeiten bei den anderen f\u00fchren w\u00fcrden, Zahlungsverpflichtungen aus Kreditgew\u00e4hrung gegen\u00fcber dem Wohnungsunternehmen mit Spareinrichtung vollst\u00e4ndig zu erf\u00fcllen. Kann eine der Personen oder Personenhandelsgesellschaften nach Satz 1 unmittelbar oder mittelbar beherrschenden Einfluss auf eine oder mehrere andere Personen oder Personenhandelsgesellschaften aus\u00fcben, darf das Wohnungsunternehmen mit Spareinrichtung nur in begr\u00fcndeten F\u00e4llen von der Bildung einer Schuldnergesamtheit nach Satz 1 absehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000600000",
+        "name": "\u00a7 4",
+        "title": "Auf fremde W\u00e4hrung lautende Positionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000100000"
+        },
+        "body": "<P>Eine auf eine fremde W\u00e4hrung lautende Position ist zu dem von der Europ\u00e4ischen Zentralbank am Meldestichtag festgestellten und von der Deutschen Bundesbank ver\u00f6ffentlichten Referenzkurs (Euro-Referenzkurs) in Euro umzurechnen. Statt des Euro-Referenzkurses am Meldestichtag darf f\u00fcr Beteiligungen, einschlie\u00dflich der Anteile an verbundenen Unternehmen, die nach \u00a7 3 Absatz 6 Satz 1 und 2 nicht als Bestandteil seiner W\u00e4hrungsgesamtposition behandelt werden, der zum Zeitpunkt ihrer Erstverbuchung ma\u00dfgebliche Devisenkurs angewendet werden. Bei der Umrechnung von W\u00e4hrungen, f\u00fcr die kein Euro-Referenzkurs ver\u00f6ffentlicht wird, sind die Mittelkurse aus feststellbaren An- und Verkaufskursen des Stichtages zugrunde zu legen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000700000",
+        "name": "\u00a7 5",
+        "title": "Meldungen zur Eigenkapitalausstattung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000100000"
+        },
+        "body": "<P>(1) Wohnungsunternehmen mit Spareinrichtung haben der Deutschen Bundesbank zu den Anforderungen nach \u00a7 2 Absatz 2 und 4 nach dem Stand zum Ende eines Kalenderjahres (Meldestichtag) Meldungen mit Anlage 2 jeweils bis zum letzten Gesch\u00e4ftstag des auf den Meldestichtag folgenden Kalendervierteljahres einzureichen. Auf Antrag des Wohnungsunternehmens mit Spareinrichtung kann die Bundesanstalt die Frist nach Satz 1 verl\u00e4ngern.</P><P>(2) Die Meldungen nach Absatz 1 sind im elektronischen Verfahren einzureichen. Die Deutsche Bundesbank ver\u00f6ffentlicht im Internet die f\u00fcr die elektronische Dateneinreichung zu verwendenden Satzformate und den Einreichungsweg. Sie leitet die Meldung an die Bundesanstalt weiter.</P><P>(3) Wohnungsunternehmen mit Spareinrichtung haben die zuletzt abgegebene Meldung nach Absatz 1 sowie die Meldungen nach Absatz 1 f\u00fcr die zwei vorangegangenen Kalenderjahre aufzubewahren. Wohnungsunternehmen mit Spareinrichtung m\u00fcssen die Marktpreisdaten f\u00fcr die Angaben der Meldung nach Absatz 1 f\u00fcr den letzten Meldestichtag, die Meldestichtage der vergangenen 24 Monate sowie f\u00fcr den laufenden Meldezeitraum vorhalten und der Bundesanstalt oder der Deutschen Bundesbank auf Verlangen zur Verf\u00fcgung stellen. Sofern die Gesamtkennziffer nach \u00a7 2 Absatz 4 Satz 2 den Wert von 8,4 Prozent unterschreitet, haben die Wohnungsunternehmen mit Spareinrichtung die jeweiligen Marktdaten sowie die Berechnungen nach dieser Verordnung zus\u00e4tzlich f\u00fcr die letzten 30 Handelstage vorzuhalten. Sowohl die Bundesanstalt als auch die Deutsche Bundesbank k\u00f6nnen verlangen, dass die Angaben nach den S\u00e4tzen 2 und 3 sp\u00e4testens nach 15 Gesch\u00e4ftstagen eingereicht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000800000",
+        "name": "\u00a7 6",
+        "title": "Anzeigen bei Nichteinhaltung der Eigenkapitalanforderungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000100000"
+        },
+        "body": "<P>Wohnungsunternehmen mit Spareinrichtung m\u00fcssen die Nichteinhaltung der Eigenkapitalanforderungen nach \u00a7 2 Absatz 2 zwischen den Meldestichtagen unverz\u00fcglich der Bundesanstalt und der Deutschen Bundesbank schriftlich anzeigen. In der Anzeige nach Satz 1 ist jeweils der Betrag anzugeben, um den die Eigenkapitalanforderungen unterschritten werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000200000",
+        "name": "Teil 2",
+        "title": "Adressrisiken",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000300000",
+        "name": "Kapitel 1",
+        "title": "Risikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE000900000",
+        "name": "\u00a7 7",
+        "title": "Adressenausfallrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000300000"
+        },
+        "body": "<P>(1) Adressenausfallrisikopositionen setzen sich zusammen aus den <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bilanziellen Adressenausfallrisikopositionen nach \u00a7 8,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>derivativen Adressenausfallrisikopositionen nach \u00a7 9,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>au\u00dferbilanziellen Adressenausfallrisikopositionen nach \u00a7 10 sowie</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Vorleistungsrisikopositionen nach \u00a7 11;</LA></DD></DL>das gilt auch, wenn sie nach Absatz 3 als effektiv verbrieft gelten.</P><P>(2) Aus einem Gesch\u00e4ft k\u00f6nnen mehrere Adressenausfallrisikopositionen entstehen. Wertpapiere oder Waren, die im Rahmen von Pensionsgesch\u00e4ften \u00fcbertragen oder im Rahmen von Darlehensgesch\u00e4ften verliehen worden sind, sind unabh\u00e4ngig von deren Bilanzierung dem Pensions- oder Darlehensgeber zuzurechnen. F\u00fcr eine Credit Linked Note, bei der das Wohnungsunternehmen mit Spareinrichtung Sicherungsgeber ist, sind sowohl die Adressenausfallrisikoposition gegen\u00fcber dem Emittenten der Credit Linked Note als auch die Adressenausfallrisikoposition in Bezug auf das Referenzaktivum oder das Referenzportfolio zu ber\u00fccksichtigen.</P><P>(3) Als effektiv verbrieft gilt jede Adressenausfallrisikoposition, die zu einem durch eine solche Verbriefungstransaktion verbrieften Portfolio, deren Adressenausfallrisiko durch diese Verbriefungsaktion \u00fcbertragen werden soll, nach \u00a7 48 geh\u00f6rt, f\u00fcr die das Wohnungsunternehmen mit Spareinrichtung nach \u00a7 49 Absatz 1 als Originator gilt und f\u00fcr die es die Mindestanforderungen an den wesentlichen und wirksamen Risikotransfer nach \u00a7 51 erf\u00fcllt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001000000",
+        "name": "\u00a7 8",
+        "title": "Bilanzielle Adressenausfallrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000300000"
+        },
+        "body": "<P>Zu den bilanziellen Adressenausfallrisikopositionen geh\u00f6ren <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Bilanzaktiva im Sinne von \u00a7 19 Absatz 1 Satz 2 Nummer 1 bis 8 des Kreditwesengesetzes mit Ausnahme der beim Pensionsnehmer oder Darlehensnehmer bilanzierten Wertpapiere oder Waren im Falle von sich darauf beziehenden Pensions- und Darlehensgesch\u00e4ften,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Sachanlagen und sonstige Verm\u00f6gensgegenst\u00e4nde,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>aktivische Rechnungsabgrenzungsposten, wenn sie nicht Ausgleichsposten f\u00fcr Verbindlichkeiten sind, die unter Nennwert ausgegeben wurden und zum Nennwert passiviert sind, und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Positionen des Umlaufverm\u00f6gens der zum Verkauf bestimmten Grundst\u00fccke und anderer Vorr\u00e4te, mit Ausnahme der unfertigen Leistungen aus noch nicht mit den Mietern abgerechneten Betriebskosten.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001100000",
+        "name": "\u00a7 9",
+        "title": "Derivative Adressenausfallrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000300000"
+        },
+        "body": "<P>Derivative Adressenausfallrisikopositionen sind Derivate nach \u00a7 19 Absatz 1a des Kreditwesengesetzes mit Ausnahme von Stillhalterverpflichtungen aus Optionen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001200000",
+        "name": "\u00a7 10",
+        "title": "Au\u00dferbilanzielle Adressenausfallrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000300000"
+        },
+        "body": "<P>(1) Zu den au\u00dferbilanziellen Adressenausfallrisikopositionen geh\u00f6ren <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>au\u00dferbilanzielle Gesch\u00e4fte im Sinne von \u00a7 19 Absatz 1 Satz 3 des Kreditwesengesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Credit Default Swaps, die eingebettet sind in Kreditderivate, die als Credit Linked Note ausgestaltet <NB>sind und</NB> zugleich bilanzielle Adressenausfallrisikopositionen darstellen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Termink\u00e4ufe und Stillhalterverpflichtungen aus Verkaufsoptionen, wenn der Gesch\u00e4ftsgegenstand unter der Annahme tats\u00e4chlicher Lieferung oder Abnahme des Gesch\u00e4ftsgegenstandes eine bilanzielle Adressenausfallrisikoposition nach \u00a7 8 begr\u00fcnden w\u00fcrde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>unbezahlte Anteile von teileingezahlten Wertpapieren und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Er\u00f6ffnungen und Best\u00e4tigungen von Dokumentenakkreditiven, die durch Warenpapiere besichert werden.</LA></DD></DL></P><P>(2) Gesch\u00e4fte, die nach \u00a7 9 derivative Adressenausfallrisikopositionen sind und zu den au\u00dferbilanziellen Adressenausfallrisikopositionen nach Absatz 1 Nummer 1 bis 5 geh\u00f6ren, bilden sowohl eine derivative Adressenausfallrisikoposition als auch eine au\u00dferbilanzielle Adressenausfallrisikoposition.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001300000",
+        "name": "\u00a7 11",
+        "title": "Vorleistungsrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000300000"
+        },
+        "body": "<P>(1) Eine Vorleistungsrisikoposition ist jeder Anspruch aus einem Gesch\u00e4ft, bei dem <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>ein Wohnungsunternehmen mit Spareinrichtung <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Lieferung bezahlter Wertpapiere, Fremdw\u00e4hrungen oder Waren noch nicht erhalten hat, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die Zahlung gelieferter Wertpapiere, Fremdw\u00e4hrungen oder Waren noch nicht erhalten hat,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>seit Zahlung oder Lieferung durch das Wohnungsunternehmen mit Spareinrichtung mehr als ein Gesch\u00e4ftstag vergangen ist, wenn es sich um ein grenz\u00fcberschreitendes Gesch\u00e4ft handelt.</LA></DD></DL></P><P>(2) Vorleistungen, die durch systemweite Ausf\u00e4lle von Abwicklungs- oder Verrechnungssystemen entstanden sind, k\u00f6nnen auf Antrag mit Zustimmung der Bundesanstalt solange unber\u00fccksichtigt bleiben, bis die Systeme wieder funktionst\u00fcchtig sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001400000",
+        "name": "\u00a7 12",
+        "title": "Abwicklungsrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000300000"
+        },
+        "body": "<P>(1) Eine Abwicklungsrisikoposition ist jeder Anspruch auf Lieferung oder Abnahme von Wertpapieren, Fremdw\u00e4hrungen oder Waren aus einem Gesch\u00e4ft, das kein Pensions-, Darlehens- oder vergleichbares Gesch\u00e4ft \u00fcber Wertpapiere, Fremdw\u00e4hrungen oder Waren ist, wenn die gegenseitigen Anspr\u00fcche nach Ablauf des vereinbarten Liefer- oder Abnahmetermins (Abrechnungstermin) noch nicht erf\u00fcllt worden sind.</P><P>(2) Abwicklungsrisikopositionen, die durch systemweite Ausf\u00e4lle von Abwicklungs- und Verrechnungssystemen entstanden sind, k\u00f6nnen auf Antrag mit Zustimmung der Bundesanstalt solange unber\u00fccksichtigt bleiben, bis die Systeme wieder funktionst\u00fcchtig sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000400000",
+        "name": "Kapitel 2",
+        "title": "Gesamtanrechnungsbetrag f\u00fcr Adressrisiken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001500000",
+        "name": "\u00a7 13",
+        "title": "Ermittlung des Gesamtanrechnungsbetrags f\u00fcr Adressrisiken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000400000"
+        },
+        "body": "<P>(1) Der Gesamtanrechnungsbetrag f\u00fcr Adressrisiken wird ermittelt, indem aus der Gesamtheit der Adressrisikopositionen mit Ausnahme der Abwicklungsrisikopositionen die Adressenausfallrisikopositionen bestimmt und diese nach dem Kreditrisiko-Standardansatz (KSA) ber\u00fccksichtigt werden.</P><P>(2) Der Gesamtanrechnungsbetrag f\u00fcr Adressrisiken ist 8 Prozent der Summe aus <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den f\u00fcr alle Adressenausfallrisikopositionen, die keine Verbriefungspositionen sind, nach \u00a7 14 Absatz 2 ermittelten risikogewichteten KSA-Positionswerten und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den nach \u00a7 14 Absatz 3 ermittelten risikogewichteten KSA-Positionswerten f\u00fcr Verbriefungspositionen.</LA></DD></DL></P><P>(3) Der Gesamtanrechnungsbetrag f\u00fcr Adressrisiken erh\u00f6ht sich um den Gesamtanrechnungsbetrag f\u00fcr Abwicklungsrisiken nach \u00a7 15.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001600000",
+        "name": "\u00a7 14",
+        "title": "Ermittlung der risikogewichteten KSA-Positionswerte f\u00fcr Adressenausfallrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000400000"
+        },
+        "body": "<P>(1) Zur Ermittlung der risikogewichteten KSA-Positionswerte muss ein Wohnungsunternehmen mit Spareinrichtung s\u00e4mtliche Adressenausfallrisikopositionen nach \u00a7 7 den KSA-Forderungsklassen nach \u00a7 16 zuordnen.</P><P>(2) F\u00fcr jede KSA-Position, die keine Verbriefungsposition ist, ist ihr risikogewichteter KSA-Positionswert als das Produkt aus ihrem nach den \u00a7\u00a7 17 bis 34 zu ermittelnden KSA-Risikogewicht und ihrem nach \u00a7 35 zu ermittelnden KSA-Positionswert zu bestimmen. Abweichend von Satz 1 ist f\u00fcr eine Vorleistungsrisikoposition, solange die Gegenleistung f\u00fcnf Gesch\u00e4ftstage nach deren F\u00e4lligkeit noch nicht wirksam erbracht worden ist, ihr risikogewichteter KSA-Positionswert als das Produkt aus einem KSA-Risikogewicht von 1\u00a0250 Prozent und ihrem nach \u00a7 35 zu ermittelnden KSA-Positionswert zu bestimmen.</P><P>(3) F\u00fcr jede Verbriefungsposition ist ihr risikogewichteter KSA-Positionswert nach den \u00a7\u00a7 53 bis 57 zu ermitteln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001700000",
+        "name": "\u00a7 15",
+        "title": "Gesamtanrechnungsbetrag f\u00fcr Abwicklungsrisiken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000400000"
+        },
+        "body": "<P>(1) Der Gesamtanrechnungsbetrag f\u00fcr Abwicklungsrisiken ist die Summe der Anrechnungsbetr\u00e4ge f\u00fcr s\u00e4mtliche Abwicklungsrisikopositionen.</P><P>(2) Der Anrechnungsbetrag einer Abwicklungsposition wird jeweils anhand des Unterschiedsbetrags ermittelt, der zugunsten des Wohnungsunternehmens mit Spareinrichtung zwischen vereinbartem Abrechnungspreis und aktuellem Marktwert der dem Gesch\u00e4ft zugrunde liegenden Wertpapiere, Fremdw\u00e4hrungen oder Waren besteht und der zu multiplizieren ist <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>mit 8 Prozent ab dem 5. bis einschlie\u00dflich dem 15. Gesch\u00e4ftstag nach dem vereinbarten Abrechnungstermin,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>mit 50 Prozent ab dem 16. bis einschlie\u00dflich dem 30. Gesch\u00e4ftstag nach dem vereinbarten Abrechnungstermin,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>mit 75 Prozent ab dem 31. bis einschlie\u00dflich dem 45. Gesch\u00e4ftstag nach dem vereinbarten Abrechnungstermin und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>mit 100 Prozent ab dem 46. Gesch\u00e4ftstag nach dem vereinbarten Abrechnungstermin.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000500000",
+        "name": "Kapitel 3",
+        "title": "Kreditrisiko-Standardansatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000600000",
+        "name": "Abschnitt 1",
+        "title": "KSA-Forderungsklassen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000500000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001800000",
+        "name": "\u00a7 16",
+        "title": "Zuordnung von KSA-Positionen zu KSA-Forderungsklassen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000600000"
+        },
+        "body": "<P>(1) Jede KSA-Position ist einer der folgenden KSA-Forderungsklassen zuzuordnen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Zentralregierungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Regionalregierungen und \u00f6rtliche Gebietsk\u00f6rperschaften,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sonstige \u00f6ffentliche Stellen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>multilaterale Entwicklungsbanken,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>internationale Organisationen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Institute,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>von Kreditinstituten emittierte gedeckte Schuldverschreibungen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>Unternehmen,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>Mengengesch\u00e4ft,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>Investmentanteile,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>Beteiligungen,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>Verbriefungen,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>sonstige Positionen,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA>\u00fcberf\u00e4llige Positionen.</LA></DD></DL>Au\u00dferbilanzielle Adressenausfallrisikopositionen sind der KSA-Forderungsklasse ihres Gesch\u00e4ftsgegenstands und nicht derjenigen der Vertragspartei zuzuordnen.</P><P>(2) Der KSA-Forderungsklasse Zentralregierungen ist eine KSA-Position zuzuordnen, deren Erf\u00fcllung geschuldet wird von <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Bundesrepublik Deutschland, der Deutschen Bundesbank oder einem rechtlich unselbst\u00e4ndigen Sonderverm\u00f6gen der Bundesrepublik Deutschland,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einer ausl\u00e4ndischen Zentralregierung oder Zentralnotenbank oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Europ\u00e4ischen Zentralbank.</LA></DD></DL></P><P>(3) Der KSA-Forderungsklasse Regionalregierungen und \u00f6rtliche Gebietsk\u00f6rperschaften ist eine KSA-Position zuzuordnen, deren Erf\u00fcllung geschuldet wird von <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einem Land,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einer inl\u00e4ndischen Gemeinde,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>einem inl\u00e4ndischen Gemeindeverband,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>einem rechtlich unselbst\u00e4ndigen Sonderverm\u00f6gen einer der unter den Nummern 1 bis 3 genannten Gebietsk\u00f6rperschaften,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>einer ausl\u00e4ndischen Regionalregierung oder \u00f6rtlichen Gebietsk\u00f6rperschaft oder</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>einer Kirche oder Religionsgesellschaft, die in der Rechtsform einer K\u00f6rperschaft des \u00f6ffentlichen Rechts verfasst ist und aufgrund des Artikels 140 des Grundgesetzes in Verbindung mit Artikel 137 Absatz 6 der Weimarer Reichsverfassung vom 11. August 1919 (RGBl. S. 1383) Steuern erhebt oder am Steueraufkommen der steuererhebenden kirchlichen K\u00f6rperschaften teilhat.</LA></DD></DL></P><P>(4) Der KSA-Forderungsklasse sonstige \u00f6ffentliche Stellen ist eine KSA-Position zuzuordnen, deren Erf\u00fcllung von einer Verwaltungseinrichtung oder einem Unternehmen ohne Erwerbscharakter, einschlie\u00dflich Einrichtungen des \u00f6ffentlichen Bereichs, geschuldet wird. Einrichtungen des \u00f6ffentlichen Bereichs im Sinne dieser Verordnung sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Verwaltungseinrichtungen, die keine Erwerbszwecke verfolgen und ausschlie\u00dflich Zentralregierungen, Regionalregierungen oder \u00f6rtlichen Gebietsk\u00f6rperschaften unterstehen und deren Aufgaben wahrnehmen, sowie</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>nicht wettbewerbswirtschaftlich t\u00e4tige, rechtlich selbst\u00e4ndige F\u00f6rderinstitute im Geltungsbereich dieser Verordnung, die von einer inl\u00e4ndischen Gebietsk\u00f6rperschaft getragen werden und f\u00fcr deren Zahlungsverpflichtungen mindestens eine inl\u00e4ndische Gebietsk\u00f6rperschaft die Haftung \u00fcbernommen hat.</LA></DD></DL></P><P>(5) Der KSA-Forderungsklasse multilaterale Entwicklungsbanken ist eine KSA-Position zuzuordnen, deren Erf\u00fcllung von einer multilateralen Entwicklungsbank nach Artikel 117 Absatz 2 der Verordnung (EU) Nr. 575/2013 des Europ\u00e4ischen Parlaments und des Rates vom 26. Juni 2013 \u00fcber die Aufsichtsanforderungen an Kreditinstitute und Wertpapierfirmen und zur \u00c4nderung der Verordnung (EU) Nr. 646/2012 (ABl. L 176 vom 27.6.2013, S. 1) geschuldet wird.</P><P>(6) Der KSA-Forderungsklasse internationale Organisationen ist eine KSA-Position zuzuordnen, deren Erf\u00fcllung von einer internationalen Organisation nach Artikel 118 der Verordnung (EU) Nr. 575/2013 geschuldet wird.</P><P>(7) Der KSA-Forderungsklasse Institute ist eine KSA-Position zuzuordnen, deren Erf\u00fcllung geschuldet wird von <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einem Institut nach \u00a7 1 Absatz 1b des Kreditwesengesetzes, das die Eigenkapitalanforderungen der Verordnung (EU) Nr. 575/2013 erf\u00fcllt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einem Wohnungsunternehmen mit Spareinrichtung, auf das diese Verordnung anzuwenden ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>einem Kreditinstitut im Sinne des Artikels 4 Absatz 1 Nummer 1 der Verordnung (EU) Nr. 575/2013 mit Sitz in einem Drittstaat, das in diesem Drittstaat zugelassen ist und einem Aufsichtssystem unterliegt, das materiell demjenigen des Kreditwesengesetzes gleichwertig ist,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>einem Finanzinstitut im Sinne des Artikels 4 Absatz 1 Nummer 26 der Verordnung (EU) Nr. 575/2013 mit Sitz im Ausland, das von der f\u00fcr die Beaufsichtigung von Kreditinstituten zust\u00e4ndigen Beh\u00f6rde seines Sitzlandes zugelassen ist und einem Aufsichtssystem unterliegt, das materiell demjenigen des Kreditwesengesetzes gleichwertig ist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>einer anerkannten Wertpapierfirma aus einem Drittstaat nach Artikel 4 Absatz 1 Nummer 25 der Verordnung (EU) Nr. 575/2013,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>einer zentralen Gegenpartei nach Artikel 4 Absatz 1 Nummer 34 der Verordnung (EU) Nr. 575/2013 mit Sitz im Ausland oder</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>einer anerkannten B\u00f6rse nach Artikel 4 Absatz 1 Nummer 72 der Verordnung (EU) Nr. 575/2013.</LA></DD></DL></P><P>(8) Der KSA-Forderungsklasse von Kreditinstituten emittierte gedeckte Schuldverschreibungen d\u00fcrfen zugeordnet werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>gedeckte Schuldverschreibungen nach Artikel 129 der Verordnung (EU) Nr. 575/2013 und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Anspr\u00fcche gegen eine Pfandbriefbank nach \u00a7 4 Absatz 3 des Pfandbriefgesetzes, wenn diese Anspr\u00fcche aus Derivategesch\u00e4ften begr\u00fcndet werden, die zur Deckung von Pfandbriefen nach \u00a7 1 Absatz 1 Satz 2 Nummer 1 bis 4 des Pfandbriefgesetzes verwendet werden.</LA></DD></DL></P><P>(9) Der KSA-Forderungsklasse Unternehmen ist eine KSA-Position zuzuordnen, deren Erf\u00fcllung von einem Unternehmen, einer anderen nat\u00fcrlichen oder juristischen Person oder Gemeinschaft nat\u00fcrlicher Personen geschuldet wird und die keiner anderen KSA-Forderungsklasse zuzuordnen ist.</P><P>(10) Der KSA-Forderungsklasse Mengengesch\u00e4ft darf eine KSA-Position zugeordnet werden, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>sie kein Wertpapier ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sie von einer nat\u00fcrlichen Person, einer Gemeinschaft nat\u00fcrlicher Personen oder einem kleinen oder mittleren Unternehmen geschuldet wird,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sie Teil einer erheblichen Zahl von Adressenausfallrisikopositionen mit \u00e4hnlichen Eigenschaften ist, sodass das mit ihr verbundene Risiko durch Diversifizierungseffekte wesentlich verringert wird, und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der Betrag, den ihr Schuldner und die mit diesem Schuldner eine Schuldnergesamtheit nach \u00a7 3 Absatz 9 bildenden nat\u00fcrlichen oder juristischen Personen oder Personenhandelsgesellschaften dem Wohnungsunternehmen mit Spareinrichtung insgesamt schuldet, nach Kenntnis des Wohnungsunternehmens mit Spareinrichtung 1 Million Euro nicht \u00fcbersteigt; das Wohnungsunternehmen mit Spareinrichtung muss alle angemessenen Schritte unternehmen, um hier\u00fcber Kenntnis zu erlangen.</LA></DD></DL></P><P>(11) Der KSA-Forderungsklasse Investmentanteile ist eine KSA-Position zuzuordnen, die durch einen Investmentanteil begr\u00fcndet wird. Ein Investmentanteil im Sinne des Satzes 1 ist ein Anteil an einem Investmentverm\u00f6gen, der <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einen anteiligen Anspruch auf den nach Abzug von Krediten und anderen Verbindlichkeiten, die aus dem Investmentverm\u00f6gen erf\u00fcllt werden m\u00fcssen, noch verbleibenden Wert des Investmentverm\u00f6gens verk\u00f6rpert, der bei Vorhandensein weiterer Inhaber von Anteilen an diesem Investmentverm\u00f6gen mit deren Anspr\u00fcchen gleichrangig ist, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>dem Inhaber des Anteils das Recht einr\u00e4umt, zumindest zu bestimmten Zeitpunkten den in Nummer 1 genannten Anspruch durch R\u00fcckgabe seines Anteils f\u00e4llig zu stellen und aus dem Investmentverm\u00f6gen befriedigt zu bekommen, ohne dass dies die F\u00e4lligstellung der entsprechenden Anspr\u00fcche anderer Inhaber von Anteilen an diesem Investmentverm\u00f6gen ausl\u00f6st.</LA></DD></DL>Wenn die M\u00f6glichkeit nach Satz 2 Nummer 2, den Anspruch nach Satz 2 Nummer 1 f\u00e4llig zu stellen, nur soweit besteht, wie der danach noch verbleibende Wert des Investmentverm\u00f6gens einen bestimmten Betrag nicht unterschreitet, und f\u00fcr den Inhaber des Anteils auch keine M\u00f6glichkeit besteht, bei Unterschreitung dieses Betrags eine zeitnahe Aufl\u00f6sung des Investmentverm\u00f6gens durch anteilige Aussch\u00fcttung an die Inhaber der Anteile zu bewirken, gilt der Anteil in H\u00f6he dieses Betrags, h\u00f6chstens aber in H\u00f6he des insgesamt investierten Betrags, nicht als Investmentanteil, sondern als nachrangiger Residualanspruch auf das Investmentverm\u00f6gen.</P><P>(12) Der KSA-Forderungsklasse Beteiligungen ist eine KSA-Position zuzuordnen, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>keine durch einen Zahlungsanspruch gebildete Adressenausfallrisikoposition ist und einen nachrangigen Residualanspruch auf das Verm\u00f6gen oder das Einkommen eines Emittenten verk\u00f6rpert, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine durch einen Zahlungsanspruch gebildete Adressenausfallrisikoposition ist, die aufgrund ihrer rechtlichen Gestaltung oder aufgrund tats\u00e4chlicher Umst\u00e4nde zu einer vergleichbaren \u00f6konomischen Substanz wie eine Risikoposition nach Nummer 1 f\u00fchrt.</LA></DD></DL>Ein Wohnungsunternehmen mit Spareinrichtung darf Beteiligungen an Anbietern von Nebendienstleistungen abweichend von Satz 1 der KSA-Forderungsklasse sonstige Positionen zuordnen.</P><P>(13) Der KSA-Forderungsklasse Verbriefungen ist jede Verbriefungsposition nach \u00a7 47 Absatz 1 und 3 zuzuordnen.</P><P>(14) Der KSA-Forderungsklasse sonstige Positionen sind die folgenden KSA-Positionen zuzuordnen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Sachanlagen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>aktivische Rechnungsabgrenzungsposten, f\u00fcr die das Wohnungsunternehmen mit Spareinrichtung keinen Schuldner ermitteln kann,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>im Einzug befindliche Werte, f\u00fcr die entsprechende Zahlungen bereits bevorschusst wurden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Barrengold,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>Kreditderivate, bei denen das Wohnungsunternehmen mit Spareinrichtung Sicherungsgeber ist und die in Anspruch genommen werden k\u00f6nnen, sobald f\u00fcr einen Korb zum n-ten Mal ein Kreditereignis eingetreten ist und dies den Vertrag beendet, wenn s\u00e4mtliche der im Korb enthaltenen Adressen als Adressenausfallrisikopositionen des Wohnungsunternehmens mit Spareinrichtung KSA-Positionen w\u00e4ren,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Restwerte von Leasinggegenst\u00e4nden, die bei der Vertragsgestaltung f\u00fcr das Ende der Laufzeit des Leasingvertrags unterstellt worden sind, wenn <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>f\u00fcr den Restwert kein Betrag festgelegt ist, zu dessen Zahlung der Leasingnehmer verpflichtet ist oder verpflichtet werden kann, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>der Restwert nicht durch eine Kaufoption abgedeckt wird, die dem Leasingnehmer einen Anreiz zur Aus\u00fcbung bietet,</LA></DD></DL></LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>Beteiligungen an Anbietern von Nebendienstleistungen, die vom Wohnungsunternehmen mit Spareinrichtung nicht der KSA-Forderungsklasse Beteiligungen zugeordnet werden, und</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>der Kassenbestand und gleichwertige Positionen.</LA></DD></DL></P><P>(15) Der KSA-Forderungsklasse \u00fcberf\u00e4llige Positionen ist jede KSA-Position zuzuordnen, wenn der zugrunde liegende Zahlungsanspruch mehr als 90 aufeinander folgende Kalendertage mit einem Betrag von 100 Euro oder mehr \u00fcberf\u00e4llig ist. Satz 1 gilt nicht f\u00fcr Verbriefungspositionen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000700000",
+        "name": "Abschnitt 2",
+        "title": "KSA-Risikogewicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000500000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE001900000",
+        "name": "\u00a7 17",
+        "title": "KSA-Risikogewicht f\u00fcr Zentralregierungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse Zentralregierungen betr\u00e4gt 100 Prozent, soweit in den Abs\u00e4tzen 2 bis 5 nichts anderes geregelt ist.</P><P>(2) Ist, unbeschadet der Abs\u00e4tze 3 bis 5, eine ma\u00dfgebliche L\u00e4nderklassifizierung einer vom Wohnungsunternehmen mit Spareinrichtung nach \u00a7 30 benannten Exportversicherungsagentur nach \u00a7 31 vorhanden und sind die Verwendungsvoraussetzungen zur Nutzung von L\u00e4nderklassifizierungen f\u00fcr aufsichtliche Zwecke nach den \u00a7\u00a7 32 bis 34 erf\u00fcllt, wird das KSA-Risikogewicht in Abh\u00e4ngigkeit von den in der Vereinbarung der Organisation f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung \u00fcber Leitlinien f\u00fcr \u00f6ffentlich unterst\u00fctzte Exportkredite (siehe Scheibe/Moltrecht/Kuhn, Garantien und B\u00fcrgschaften, Ausfuhrgew\u00e4hrleistungen des Bundes und Rechtsverfolgung im Ausland, 2. Auflage, 2006; OECD-Vereinbarung) genannten Mindestpr\u00e4mienkategorien f\u00fcr Exportversicherungen nach Tabelle 3 der Anlage 1 ermittelt.</P><P>(3) Wird ihre Erf\u00fcllung von <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Bundesrepublik Deutschland, einem rechtlich unselbst\u00e4ndigen Sonderverm\u00f6gen der Bundesrepublik Deutschland, der Deutschen Bundesbank oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einer Zentralregierung oder einer Zentralnotenbank eines anderen Staates des Europ\u00e4ischen Wirtschaftsraums</LA></DD></DL>geschuldet und ist sie in der Landesw\u00e4hrung des Staates geschuldet und refinanziert, darf ein KSA-Risikogewicht von 0 Prozent verwendet werden.</P><P>(4) Wird die Erf\u00fcllung der KSA-Position von der Europ\u00e4ischen Zentralbank geschuldet, betr\u00e4gt das KSA-Risikogewicht 0 Prozent.</P><P>(5) Wird die Erf\u00fcllung der KSA-Position von einer Zentralregierung eines Drittstaates geschuldet, dessen Aufsichtssystem dem des Kreditwesengesetzes materiell gleichwertig ist, und ist sie in der Landesw\u00e4hrung dieses Drittstaates geschuldet und refinanziert, darf das Risikogewicht \u00fcbernommen werden, das in diesem Drittstaat f\u00fcr die betreffende Position zur Anwendung kommt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002000000",
+        "name": "\u00a7 18",
+        "title": "KSA-Risikogewicht f\u00fcr Regionalregierungen und \u00f6rtliche Gebietsk\u00f6rperschaften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse Regionalregierungen und \u00f6rtliche Gebietsk\u00f6rperschaften ist nach den Regeln f\u00fcr Institute nach \u00a7 22 mit Ausnahme von \u00a7 22 Absatz 5 zu bestimmen, soweit in den Abs\u00e4tzen 2 bis 4 nichts anderes geregelt ist.</P><P>(2) Wird ihre Erf\u00fcllung von <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>einem Land, einem rechtlich unselbst\u00e4ndigen Sonderverm\u00f6gen eines Landes, einer inl\u00e4ndischen Gemeinde, einem inl\u00e4ndischen Gemeindeverband oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einer Regionalregierung oder \u00f6rtlichen Gebietsk\u00f6rperschaft in einem anderen Staat des Europ\u00e4ischen Wirtschaftsraums, f\u00fcr die aufgrund von Steuererhebungsrechten und der Existenz spezifischer institutioneller Vorkehrungen zur Reduzierung des Ausfallrisikos kein Risikounterschied zu Risikopositionen gegen\u00fcber der Zentralregierung dieses Staates besteht, geschuldet,</LA></DD></DL>erh\u00e4lt sie das KSA-Risikogewicht der Zentralregierung nach \u00a7 17, zu deren Hoheitsgebiet der Schuldner der Position geh\u00f6rt.</P><P>(3) Wird ihre Erf\u00fcllung von einer Regionalregierung oder \u00f6rtlichen Gebietsk\u00f6rperschaft in einem Drittstaat geschuldet, dessen Aufsichtssystem dem des Kreditwesengesetzes materiell gleichwertig ist, und wird die KSA-Position in diesem Drittstaat wie eine Forderung gegen\u00fcber der Zentralregierung behandelt, darf f\u00fcr sie das Risikogewicht \u00fcbernommen werden, das in diesem Drittstaat zur Anwendung kommt.</P><P>(4) Wird ihre Erf\u00fcllung von einer Regionalregierung oder \u00f6rtlichen Gebietsk\u00f6rperschaft in einem Staat des Europ\u00e4ischen Wirtschaftsraums geschuldet und ist sie in der Landesw\u00e4hrung dieser Regionalregierung oder \u00f6rtlichen Gebietsk\u00f6rperschaft geschuldet und refinanziert, darf ein KSA-Risikogewicht von 20 Prozent verwendet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002100000",
+        "name": "\u00a7 19",
+        "title": "KSA-Risikogewicht f\u00fcr sonstige \u00f6ffentliche Stellen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse sonstige \u00f6ffentliche Stellen betr\u00e4gt 100 Prozent, soweit in den nachfolgenden Abs\u00e4tzen 2 bis 4 nichts anderes geregelt ist.</P><P>(2) Handelt es sich um eine KSA-Position, deren Erf\u00fcllung von einer Einrichtung des \u00f6ffentlichen Bereichs nach \u00a7 16 Absatz 4 Satz 2 oder einer selbst verwalteten Einrichtung des \u00f6ffentlichen Rechts, die einer \u00f6ffentlichen Beaufsichtigung unterliegt, geschuldet wird, die auch von der Bundesrepublik Deutschland getragen wird und f\u00fcr die Erf\u00fcllung deren Zahlungsverpflichtungen die Bundesrepublik Deutschland eine der ausdr\u00fccklichen Garantie gleichstehende Haftung \u00fcbernommen hat oder die als ein rechtlich selbst\u00e4ndiges F\u00f6rderinstitut in der Rechtsform einer bundesunmittelbaren Anstalt besteht, erh\u00e4lt diese das KSA-Risikogewicht nach \u00a7 17 wie die Bundesrepublik Deutschland.</P><P>(3) Handelt es sich um eine KSA-Position, deren Erf\u00fcllung geschuldet wird <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>von einer inl\u00e4ndischen juristischen Person des \u00f6ffentlichen Rechts, die keine Erwerbszwecke verfolgt und die von der Bundesrepublik Deutschland, einem Land, einer inl\u00e4ndischen Gemeinde, einem inl\u00e4ndischen Gemeindeverband getragen wird oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>von einem inl\u00e4ndischen Unternehmen ohne Erwerbscharakter, das im vollen Besitz einer oder mehrerer der in Nummer 1 genannten Gebietsk\u00f6rperschaften steht,</LA></DD></DL>erfolgt die Risikogewichtung nach den Regeln f\u00fcr Institute nach \u00a7 22 mit Ausnahme von \u00a7 22 Absatz 5.</P><P>(4) Handelt es sich um eine KSA-Position, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>deren Erf\u00fcllung von einer Einrichtung des \u00f6ffentlichen Bereichs mit Sitz in einem Staat des Europ\u00e4ischen Wirtschaftsraums oder mit Sitz in einem Drittstaat, dessen Aufsichtssystem dem des Kreditwesengesetzes materiell gleichwertig ist, geschuldet wird und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die in diesem Staat wie eine Position gegen\u00fcber Instituten oder der Zentralregierung dieses Staates behandelt wird,</LA></DD></DL>darf das Risikogewicht \u00fcbernommen werden, das in diesem Staat zur Anwendung kommt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002200000",
+        "name": "\u00a7 20",
+        "title": "KSA-Risikogewicht f\u00fcr multilaterale Entwicklungsbanken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse multilaterale Entwicklungsbanken betr\u00e4gt 50 Prozent, soweit in den Abs\u00e4tzen 2 und 3 nichts anderes geregelt ist.</P><P>(2) Wird ihre Erf\u00fcllung von einer der in Artikel 117 Absatz 2 der Verordnung (EU) Nr. 575/2013 genannten Entwicklungsbanken geschuldet, betr\u00e4gt das KSA-Risikogewicht 0 Prozent.</P><P>(3) F\u00fcr noch nicht voll eingezahlte Kapitalanteile an der multilateralen Entwicklungsbank nach Artikel 117 Absatz 2 Buchstabe k der Verordnung (EU) Nr. 575/2013 betr\u00e4gt das KSA-Risikogewicht 20 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002300000",
+        "name": "\u00a7 21",
+        "title": "KSA-Risikogewicht f\u00fcr internationale Organisationen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse internationale Organisationen betr\u00e4gt 0 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002400000",
+        "name": "\u00a7 22",
+        "title": "KSA-Risikogewicht f\u00fcr Institute",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse Institute betr\u00e4gt 100 Prozent, soweit in den Abs\u00e4tzen 2 bis 6 nichts anderes geregelt ist.</P><P>(2) Handelt es sich um eine KSA-Position, deren Erf\u00fcllung von einem solchen nicht wettbewerblich t\u00e4tigen F\u00f6rderinstitut mit Sitz in Deutschland geschuldet wird, das ausschlie\u00dflich von einer oder mehreren der in \u00a7 18 Absatz 2 Nummer 1 genannten Gebietsk\u00f6rperschaften getragen wird und dessen von ihm geschuldete Zahlungsverpflichtungen \u00fcber eine der ausdr\u00fccklichen Garantie gleichstehende Haftungserkl\u00e4rung eines oder mehrerer seiner Tr\u00e4ger verf\u00fcgen, erh\u00e4lt diese das KSA-Risikogewicht ihrer Tr\u00e4ger.</P><P>(3) Liegt f\u00fcr die Zentralregierung des Sitzstaates des Instituts eine verwendungsf\u00e4hige L\u00e4nderklassifizierung einer Exportversicherungsagentur nach \u00a7 31 vor und sind die Verwendungsvoraussetzungen zur Nutzung von L\u00e4nderklassifizierungen f\u00fcr aufsichtliche Zwecke nach \u00a7 32 erf\u00fcllt, ermittelt sich das KSA-Risikogewicht vorbehaltlich der Abs\u00e4tze 4 bis 6 in Abh\u00e4ngigkeit von der L\u00e4nderklassifizierung der Zentralregierung des Sitzstaates und den in der OECD-Vereinbarung genannten Mindestpr\u00e4mienkategorien f\u00fcr Exportversicherungen nach Tabelle 4 der Anlage 1.</P><P>(4) Handelt es sich um eine KSA-Position, die bei einem Institut dem Eigenkapital zugerechnet wird, betr\u00e4gt das KSA-Risikogewicht 100 Prozent.</P><P>(5) Handelt es sich um eine KSA-Position, die eine Restlaufzeit von nicht mehr als drei Monaten aufweist und die in der Landesw\u00e4hrung des Schuldners geschuldet und refinanziert ist, darf vorbehaltlich der Abs\u00e4tze 4 und 6 das um eine Stufe erh\u00f6hte KSA-Risikogewicht nach \u00a7 17 Absatz 3 oder 5 f\u00fcr die Zentralregierung des Sitzlandes des Schuldners verwendet werden.</P><P>(6) Handelt es sich um eine KSA-Position, die eine Ursprungslaufzeit von nicht mehr als drei Monaten aufweist, betr\u00e4gt das KSA-Risikogewicht 20 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002500000",
+        "name": "\u00a7 23",
+        "title": "KSA-Risikogewicht f\u00fcr von Kreditinstituten emittierte gedeckte Schuldverschreibungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse von Kreditinstituten emittierte gedeckte Schuldverschreibungen ist in Abh\u00e4ngigkeit von dem nach \u00a7 22 Absatz 1 oder 3 bestimmten KSA-Risikogewicht f\u00fcr Positionen, die vom emittierenden Kreditinstitut geschuldet werden, nach Tabelle 5 der Anlage 1 zu bestimmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002600000",
+        "name": "\u00a7 24",
+        "title": "KSA-Risikogewicht f\u00fcr Unternehmen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse Unternehmen ist das H\u00f6here von 100 Prozent und dem KSA-Risikogewicht nach \u00a7 17 f\u00fcr die Zentralregierung des Sitzstaates des Schuldners.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002700000",
+        "name": "\u00a7 25",
+        "title": "KSA-Risikogewicht f\u00fcr das Mengengesch\u00e4ft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse Mengengesch\u00e4ft betr\u00e4gt 75 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002800000",
+        "name": "\u00a7 26",
+        "title": "KSA-Risikogewicht f\u00fcr Investmentanteile",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das Risikogewicht einer KSA-Position der KSA-Forderungsklasse Investmentanteile betr\u00e4gt 100 Prozent, soweit in den Abs\u00e4tzen 2 bis 5 nichts anderes geregelt ist.</P><P>(2) Sind die in Absatz 3 genannten Voraussetzungen erf\u00fcllt, darf das Wohnungsunternehmen mit Spareinrichtung f\u00fcr eine KSA-Position der KSA-Forderungsklasse Investmentanteile ein betragsgewichtetes durchschnittliches KSA-Risikogewicht bestimmen; die Bestimmung erfolgt auf der Basis <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der tats\u00e4chlichen Zusammensetzung des Investmentverm\u00f6gens, wenn diese dem Wohnungsunternehmen mit Spareinrichtung bekannt ist, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>einer fiktiven Zusammensetzung des Investmentverm\u00f6gens, wenn die tats\u00e4chliche Zusammensetzung des Investmentverm\u00f6gens dem Wohnungsunternehmen mit Spareinrichtung nicht bekannt ist.</LA></DD></DL>F\u00fcr die fiktive Zusammensetzung des Investmentverm\u00f6gens ist zu unterstellen, dass das Investmentverm\u00f6gen jeweils bis zu der im Verkaufsprospekt des Investmentverm\u00f6gens oder einem gleichwertigen Dokument vorgegebenen Obergrenze in absteigender Reihenfolge in diejenigen Verm\u00f6gensgegenst\u00e4nde mit dem jeweils h\u00f6chsten KSA-Risikogewicht investiert, bis der maximale Investitionsgrad erreicht ist.</P><P>(3) Voraussetzungen f\u00fcr die Anwendung der in Absatz 2 genannten Verfahren ist, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Investmentanteile von einem Unternehmen ausgegeben werden, das <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>in einem Staat des Europ\u00e4ischen Wirtschaftsraums beaufsichtigt wird oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>in einem Drittstaat einem Aufsichtssystem unterliegt, f\u00fcr das die Bundesanstalt oder die zust\u00e4ndige Aufsichtsbeh\u00f6rde eines anderen Staates des Europ\u00e4ischen Wirtschaftsraums best\u00e4tigt, dass dieses einer Aufsicht nach dem Recht der Europ\u00e4ischen Union gleichwertig ist und dass die Zusammenarbeit zwischen der Bundesanstalt und der zust\u00e4ndigen Aufsichtsbeh\u00f6rde dieses Drittstaates hinreichend gesichert ist,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Verkaufsprospekt f\u00fcr die Investmentanteile oder ein gleichwertiges Dokument <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>alle Kategorien von Verm\u00f6gensgegenst\u00e4nden enth\u00e4lt, in die das Investmentverm\u00f6gen investiert werden darf, und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>gegebenenfalls die relativen Obergrenzen und die Methodik zur Bestimmung von Obergrenzen f\u00fcr die Investition in bestimmte Kategorien von Verm\u00f6gensgegenst\u00e4nden enth\u00e4lt,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr das Investmentverm\u00f6gen mindestens j\u00e4hrlich ein Bericht erstellt wird, der die Verm\u00f6gensgegenst\u00e4nde und Verbindlichkeiten, den Nettoertrag und die Gesch\u00e4ftst\u00e4tigkeit w\u00e4hrend der Berichtsperiode darstellt.</LA></DD></DL></P><P>(4) Mit der Ermittlung des KSA-Risikogewichts nach Absatz 2 k\u00f6nnen Dritte beauftragt werden, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Richtigkeit der Ermittlung und die Weitergabe an das Wohnungsunternehmen mit Spareinrichtung in angemessener Weise sichergestellt werden und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>ein Wirtschaftspr\u00fcfer sp\u00e4testens drei Monate nach Ablauf des Gesch\u00e4ftsjahres des Investmentverm\u00f6gens die Richtigkeit der Berechnung durch den Dritten best\u00e4tigt.</LA></DD></DL></P><P>(5) Die Bundesanstalt kann f\u00fcr Investmentanteile, die mit besonders hohen Risiken verbunden sind, ein KSA-Risikogewicht von 150 Prozent oder h\u00f6her festlegen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE002900000",
+        "name": "\u00a7 27",
+        "title": "KSA-Risikogewicht f\u00fcr Beteiligungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse Beteiligungen betr\u00e4gt 100 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003000000",
+        "name": "\u00a7 28",
+        "title": "KSA-Risikogewicht f\u00fcr sonstige Positionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse sonstige Positionen betr\u00e4gt 0 Prozent f\u00fcr Barrengold im Besitz des Wohnungsunternehmens mit Spareinrichtung, f\u00fcr Zertifikate, die anteilm\u00e4\u00dfiges Eigentum an Barrengold verk\u00f6rpern, soweit ihnen entsprechende Goldverbindlichkeiten gegen\u00fcberstehen, sowie f\u00fcr den Kassenbestand und gleichwertige Positionen.</P><P>(2) Abweichend von Absatz 1 betr\u00e4gt das KSA-Risikogewicht 20 Prozent f\u00fcr im Einzug befindliche Werte, f\u00fcr die entsprechende Zahlungen bereits bevorschusst wurden.</P><P>(3) Abweichend von Absatz 1 betr\u00e4gt das KSA-Risikogewicht 100 Prozent f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Sachanlagen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>aktivische Rechnungsabgrenzungsposten, f\u00fcr die das Wohnungsunternehmen mit Spareinrichtung keinen Schuldner ermitteln kann,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>einen nach \u00a7 16 Absatz 14 Nummer 6 zu ber\u00fccksichtigenden Restwert eines Leasinggegenstands und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Beteiligungen an Anbietern von Nebendienstleistungen, die das Wohnungsunternehmen mit Spareinrichtung nicht der KSA-Forderungsklasse Beteiligungen zugeordnet hat.</LA></DD></DL></P><P>(4) Abweichend von Absatz 1 gilt f\u00fcr ein Kreditderivat nach \u00a7 16 Absatz 14 Nummer 5, dass das KSA-Risikogewicht als Summe der KSA-Risikogewichte s\u00e4mtlicher Adressen, welche in dem Korb des Kreditderivats enthalten sind, bis zu einer H\u00f6chstgrenze von 1\u00a0250 Prozent zu ermitteln ist, wobei bei der Addition die KSA-Risikogewichte der n-1-Adressen mit den niedrigsten risikogewichteten KSA-Positionswerten auszunehmen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003100000",
+        "name": "\u00a7 29",
+        "title": "KSA-Risikogewicht f\u00fcr \u00fcberf\u00e4llige Positionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das KSA-Risikogewicht f\u00fcr eine KSA-Position der KSA-Forderungsklasse \u00fcberf\u00e4llige Positionen betr\u00e4gt 150 Prozent soweit nicht in Absatz 2 etwas anderes geregelt ist.</P><P>(2) Das KSA-Risikogewicht einer Position der Forderungsklasse \u00fcberf\u00e4llige Positionen betr\u00e4gt 100 Prozent, wenn die Einzelwertberichtigungen f\u00fcr diese Position mindestens 25 Prozent des unbesicherten Teils der KSA-Bemessungsgrundlage nach \u00a7 36 dieser Position betragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003200000",
+        "name": "\u00a7 30",
+        "title": "Benennung von Exportversicherungsagenturen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>(1) Das Wohnungsunternehmen mit Spareinrichtung darf f\u00fcr KSA-Positionen, die nach Tabelle 6 der Anlage 1 f\u00fcr die bonit\u00e4tsbeurteilungsbezogene Forderungskategorie Staaten in Frage kommen, eine oder mehrere Exportversicherungsagenturen benennen, deren L\u00e4nderklassifizierungen es bei der Ermittlung der KSA-Risikogewichte nach Ma\u00dfgabe der \u00a7\u00a7 17 bis 22 ber\u00fccksichtigt.</P><P>(2) Ein Wohnungsunternehmen mit Spareinrichtung kann die Benennung einer Exportversicherungsagentur nur auf Antrag mit Zustimmung der Bundesanstalt zur\u00fccknehmen. Der Antrag ist zu begr\u00fcnden. Die Bundesanstalt kann die Zustimmung nur verweigern, wenn konkrete Anhaltspunkte daf\u00fcr vorliegen, dass durch die R\u00fccknahme der Benennung eine Verminderung der Eigenkapitalanforderungen beabsichtigt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003300000",
+        "name": "\u00a7 31",
+        "title": "Verwendung von L\u00e4nderklassifizierungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>Ein Wohnungsunternehmen mit Spareinrichtung, das eine Exportversicherungsagentur benannt hat, muss deren L\u00e4nderklassifizierungen dauerhaft und einheitlich f\u00fcr s\u00e4mtliche KSA-Positionen dieser Kategorie, f\u00fcr die eine L\u00e4nderklassifizierung einer vom Wohnungsunternehmen mit Spareinrichtung benannten Exportversicherungsagentur vorhanden ist, anwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003400000",
+        "name": "\u00a7 32",
+        "title": "Ma\u00dfgebliche L\u00e4nderklassifizierungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>Die ma\u00dfgebliche L\u00e4nderklassifizierung einer KSA-Position ist nach \u00a7 33 zu ermitteln. F\u00fcr eine KSA-Position der KSA-Forderungsklasse Institute nach \u00a7 16 Absatz 1 Satz 1 Nummer 6 ist die ma\u00dfgebliche L\u00e4nderklassifizierung die entsprechend \u00a7 33 Satz 1, 3 und 4 zu bestimmende L\u00e4nderklassifizierung der Zentralregierung des Staates, in dem der Schuldner dieser KSA-Position seinen Sitz hat. Eine L\u00e4nderklassifizierung ist eine L\u00e4nderbeurteilung, die eine allgemeine, nicht auf bestimmte Verm\u00f6gensgegenst\u00e4nde bezogene Aussage \u00fcber die Bonit\u00e4t des Schuldners trifft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003500000",
+        "name": "\u00a7 33",
+        "title": "Ma\u00dfgebliche L\u00e4nderklassifizierung einer beurteilten KSA-Position",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>Das Wohnungsunternehmen mit Spareinrichtung hat s\u00e4mtliche nach \u00a7 34 verwendungsf\u00e4higen L\u00e4nderklassifizierungen der von ihm benannten Exportversicherungsagenturen zu ermitteln, die sich auf eine KSA-Position beziehen. Liegen keine verwendungsf\u00e4higen L\u00e4nderklassifizierungen vor, gilt die KSA-Position als unbeurteilt. Liegt nur eine einzige verwendungsf\u00e4hige L\u00e4nderklassifizierung vor, so ist diese f\u00fcr die Bestimmung des KSA-Risikogewichts ma\u00dfgeblich. Liegen mehrere verwendungsf\u00e4hige L\u00e4nderklassifizierungen vor, sind diejenigen ma\u00dfgeblich, die entsprechend der aufsichtlichen Mindestpr\u00e4mienkategorien f\u00fcr Exportversicherungsagenturen zu den beiden niedrigsten KSA-Risikogewichten f\u00fchren; unterscheiden sich die beiden niedrigsten KSA-Risikogewichte, ist die L\u00e4nderklassifizierung ma\u00dfgeblich, die zum h\u00f6heren KSA-Risikogewicht f\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003600000",
+        "name": "\u00a7 34",
+        "title": "Verwendungsf\u00e4hige L\u00e4nderklassifizierungen von Exportversicherungsagenturen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000700000"
+        },
+        "body": "<P>F\u00fcr eine KSA-Position der bonit\u00e4tsbeurteilungsbezogenen Forderungskategorie Staaten nach Tabelle 6 der Anlage 1 ist eine verwendungsf\u00e4hige L\u00e4nderklassifizierung einer Exportversicherungsagentur jede <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>als Mindest-Exportversicherungspr\u00e4mie ausgedr\u00fcckte Konsensl\u00e4nderklassifizierung der Exportversicherungsagenturen, die an der OECD-Vereinbarung teilnehmen, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>L\u00e4nderklassifizierung einer Exportversicherungsagentur, die die in der OECD-Vereinbarung niedergelegte Methodik zur L\u00e4nderklassifizierung anwendet, ihre L\u00e4nderklassifizierungen ver\u00f6ffentlicht und den Mindest-Exportversicherungspr\u00e4mien nach dieser Methodik zuordnet.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000800000",
+        "name": "Abschnitt 3",
+        "title": "KSA-Positionswert",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000500000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003700000",
+        "name": "\u00a7 35",
+        "title": "KSA-Positionswert",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>Der KSA-Positionswert einer KSA-Position ist das Produkt aus ihrer KSA-Bemessungsgrundlage nach \u00a7 36 und ihrem KSA-Konversionsfaktor nach \u00a7 44.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003800000",
+        "name": "\u00a7 36",
+        "title": "KSA-Bemessungsgrundlage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>Die KSA-Bemessungsgrundlage f\u00fcr eine KSA-Position ist <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei einer bilanziellen Adressenausfallrisikoposition <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>ihr Buchwert zuz\u00fcglich der als haftendes Eigenkapital anerkannten, den einzelnen Bilanzaktiva zuzuordnenden freien Vorsorgereserven nach \u00a7 340f des Handelsgesetzbuchs abz\u00fcglich der passiven Rechnungsabgrenzungsposten aus Geb\u00fchrenabgrenzung und f\u00fcr das Abgeld auf Darlehen,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die aufgrund eines Leasingvertrags entstanden und kein nach \u00a7 16 Absatz 14 Nummer 6 zu ber\u00fccksichtigender Restwert eines Leasinggegenstands ist, der Barwert der Mindestleasingzahlungen, bestehend aus einerseits allen Zahlungen, zu denen der Leasingnehmer w\u00e4hrend der Laufzeit des Leasingvertrags noch verpflichtet ist oder verpflichtet werden kann, einschlie\u00dflich eines Betrags f\u00fcr den Restwert des Leasinggegenstands, zu dessen Zahlung der Leasingnehmer verpflichtet ist oder verpflichtet werden kann, und andererseits jeder dem Leasingnehmer einen Anreiz zur Aus\u00fcbung bietenden Kaufoption,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>bei einem nach \u00a7 16 Absatz 14 Nummer 6 zu ber\u00fccksichtigenden Restwert eines Leasinggegenstands, der Barwert des bei der Vertragsgestaltung f\u00fcr das Ende der Laufzeit des Leasingvertrags unterstellten Restwerts, abz\u00fcglich des Barwerts von nach Buchstabe b ber\u00fccksichtigter Kaufoptionen,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei einer au\u00dferbilanziellen Adressenausfallrisikoposition der Buchwert der Anspr\u00fcche und Eventualanspr\u00fcche, die diese KSA-Position bilden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>bei einer derivativen Adressenausfallrisikoposition ihre Bemessungsgrundlage nach den \u00a7\u00a7 37 bis 43,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>bei einer Vorleistungsrisikoposition nach \u00a7 11 Absatz 1 solange die Gegenleistung f\u00fcnf Gesch\u00e4ftstage nach deren F\u00e4lligkeit noch nicht wirksam erbracht worden ist, der Betrag des \u00fcbertragenen Werts zuz\u00fcglich etwaiger Wiederbeschaffungskosten, bei anderen Vorleistungsrisikopositionen nach \u00a7 11 Absatz 1 der Wert des Anspruchs des Wohnungsunternehmens mit Spareinrichtung aus dem Gesch\u00e4ft, durch das die Vorleistungsrisikoposition gebildet wird,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>bei einer KSA-Position, die durch ein mit einem Unternehmen in dessen Eigenschaft als zentrale Gegenpartei nach Artikel 4 Absatz 1 Nummer 34 der Verordnung (EU) Nr. 575/2013 geschlossenes Gesch\u00e4ft oder eine hierf\u00fcr gestellte Sicherheit gebildet wird, Null.</LA></DD></DL>Bei einer KSA-Position, die durch eine Adressenausfallrisikoposition in Bezug auf das Referenzaktivum oder das Referenzportfolio einer Credit Linked Note gebildet wird, darf die Bemessungsgrundlage um 8 Prozent des risikogewichteten Positionswerts f\u00fcr die Adressenausfallrisikoposition in Bezug auf den Emittenten der Credit Linked Note reduziert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE003900000",
+        "name": "\u00a7 37",
+        "title": "Bemessungsgrundlage f\u00fcr derivative Adressenausfallrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>Die Bemessungsgrundlage einer derivativen Adressenausfallrisikoposition ist anhand des marktbewerteten Wiedereindeckungsaufwands nach \u00a7 38 zu ermitteln (Marktbewertungsmethode). Ein Wohnungsunternehmen mit Spareinrichtung darf die Bemessungsgrundlage f\u00fcr derivative Adressenausfallrisikopositionen abweichend von Satz 1 und vorbehaltlich Satz 3 nach einheitlicher Wahl anhand des laufzeitbewerteten Wiedereindeckungsaufwands nach \u00a7 43 ermitteln (Laufzeitmethode), wenn der Wiedereindeckungsaufwand nicht auf \u00c4nderungen der Preise von Aktien, Waren, anderen Edelmetallen als Gold oder sonstigen nicht zins-, w\u00e4hrungs- oder goldpreisbezogenen Gesch\u00e4ften beruht. Bei Anwendung der Laufzeitmethode darf die Wahl f\u00fcr bestimmte und eindeutig abgegrenzte Teilbereiche unterschiedlich ausfallen. Die Festlegung von Teilbereichen kann nach verschiedenen Finanzinstrumenten oder nach unterschiedlichen organisatorisch festgelegten Bereichen des Wohnungsunternehmens mit Spareinrichtung erfolgen. Das Wohnungsunternehmen mit Spareinrichtung darf jederzeit von der Laufzeitmethode zur Marktbewertungsmethode \u00fcbergehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004000000",
+        "name": "\u00a7 38",
+        "title": "Marktbewerteter Wiedereindeckungsaufwand",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>Der marktbewertete Wiedereindeckungsaufwand ist <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der gegenw\u00e4rtige potenzielle Wiedereindeckungsaufwand nach \u00a7 39 zuz\u00fcglich</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der k\u00fcnftig zu erwartenden Erh\u00f6hung des gegenw\u00e4rtigen potenziellen Wiedereindeckungsaufwands nach \u00a7 40, wenn es sich nicht um einen w\u00e4hrungsgleichen Zinsswap ohne Festzinsteil handelt.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004100000",
+        "name": "\u00a7 39",
+        "title": "Gegenw\u00e4rtiger potenzieller Wiedereindeckungsaufwand",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>Der gegenw\u00e4rtige potenzielle Wiedereindeckungsaufwand ist der h\u00f6here Wert aus Null und dem aktuellen Marktwert des Derivats.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004200000",
+        "name": "\u00a7 40",
+        "title": "K\u00fcnftig zu erwartende Erh\u00f6hung des gegenw\u00e4rtigen potenziellen Wiedereindeckungsaufwands",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>(1) Die k\u00fcnftig zu erwartende Erh\u00f6hung des gegenw\u00e4rtigen potenziellen Wiedereindeckungsaufwands ist das Produkt aus dem marktbewerteten Anspruch aus dem Derivat nach \u00a7 41 und der sich in Abh\u00e4ngigkeit von der ma\u00dfgeblichen Laufzeit des Gesch\u00e4fts nach \u00a7 42 ergebenden Volatilit\u00e4tsrate nach Tabelle 1 der Anlage 1. Falls der Wiedereindeckungsaufwand f\u00fcr das Gesch\u00e4ft auf der Volatilit\u00e4t von Preisen mehrerer Kategorien beruht, ist das Gesch\u00e4ft der Kategorie mit der h\u00f6chsten nach Tabelle 1 der Anlage 1 anzusetzenden Volatilit\u00e4tsrate zuzuordnen.</P><P>(2) F\u00fcr jede derivative Adressenausfallrisikoposition, die durch ein als Total Return Swap oder Credit Default Swap ausgestaltetes Kreditderivat begr\u00fcndet wird, ist die k\u00fcnftig zu erwartende Erh\u00f6hung des gegenw\u00e4rtigen potenziellen Wiedereindeckungsaufwands das Produkt aus dem Nominalbetrag dieses Kreditderivats und <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>0 Prozent, wenn das Kreditderivat als Credit Default Swap ausgestaltet ist, das Wohnungsunternehmen mit Spareinrichtung Gew\u00e4hrleistungsgeber aus dem Kreditderivat ist und \u2013 auch bei Ausfall des Sicherungsnehmers aus dem Kreditderivat \u2013 nur Leistungen an den Sicherungsnehmer zu bewirken hat, wenn die Referenzeinheit ausgefallen ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sonst 10 Prozent.</LA></DD></DL>F\u00fcr ein Kreditderivat, das in Anspruch genommen werden kann, sobald f\u00fcr eine Mehrheit bestimmter Adressen (Korb) zum n-ten Mal ein Kreditereignis eingetreten ist und dies den Vertrag beendet, betr\u00e4gt der in Satz 1 zu verwendende Prozentsatz 10 Prozent. Die k\u00fcnftig zu erwartende Erh\u00f6hung des gegenw\u00e4rtigen potenziellen Wiedereindeckungsaufwands bei Credit Default Swaps, bei denen das Wohnungsunternehmen mit Spareinrichtung Gew\u00e4hrleistungsgeber ist und die nicht unter Satz 1 Nummer 1 fallen, ist auf den noch ausstehenden Betrag der Pr\u00e4mienzahlungen begrenzt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004300000",
+        "name": "\u00a7 41",
+        "title": "Marktbewerteter Anspruch aus einem Derivat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>Der marktbewertete Anspruch aus einem Derivat ist bei <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Swapgesch\u00e4ften und f\u00fcr sie \u00fcbernommenen Gew\u00e4hrleistungen der effektive Kapitalbetrag oder, wenn es keinen effektiven Kapitalbetrag gibt, der aktuelle Marktwert des Gesch\u00e4ftsgegenstands,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>als Festgesch\u00e4ft und Optionsrecht ausgestalteten Termingesch\u00e4ften und f\u00fcr sie \u00fcbernommenen Gew\u00e4hrleistungen der unter der Annahme tats\u00e4chlicher Lieferung oder Abnahme des Gesch\u00e4ftsgegenstands bestehende, zum aktuellen Marktkurs umgerechnete Anspruch des Wohnungsunternehmens mit Spareinrichtung auf Lieferung oder Abnahme des Gesch\u00e4ftsgegenstands.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004400000",
+        "name": "\u00a7 42",
+        "title": "F\u00fcr den Wiedereindeckungsaufwand ma\u00dfgebliche Laufzeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>Die f\u00fcr den Wiedereindeckungsaufwand ma\u00dfgebliche Laufzeit eines Gesch\u00e4fts ist f\u00fcr jedes Gesch\u00e4ft, das eine derivative Adressenausfallrisikoposition begr\u00fcndet, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Laufzeit des Gesch\u00e4ftsgegenstands bei Derivaten \u00fcber Gesch\u00e4ftsgegenst\u00e4nde, die eine bestimmte Laufzeit aufweisen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei Derivaten auf variabel verzinsliche Wertpapiere und bei w\u00e4hrungsgleichen Zinsswaps ohne Festzinsteil, die bis zum n\u00e4chstfolgenden Zinsanpassungstermin verbleibende Zeitspanne,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sonst die Laufzeit des Derivats.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004500000",
+        "name": "\u00a7 43",
+        "title": "Laufzeitbewerteter Wiedereindeckungsaufwand",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>Der laufzeitbewertete Wiedereindeckungsaufwand f\u00fcr eine derivative Adressenausfallrisikoposition ist das Produkt aus dem marktbewerteten Anspruch aus dem Derivat und der sich in Abh\u00e4ngigkeit von der ma\u00dfgeblichen Laufzeit des Gesch\u00e4fts ergebenden Volatilit\u00e4tsrate nach Tabelle 2 der Anlage 1.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004600000",
+        "name": "\u00a7 44",
+        "title": "KSA-Konversionsfaktor",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000800000"
+        },
+        "body": "<P>(1) Der KSA-Konversionsfaktor betr\u00e4gt 100 Prozent, soweit in den Abs\u00e4tzen 2 und 3 nichts anderes geregelt ist.</P><P>(2) Der KSA-Konversionsfaktor betr\u00e4gt f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Dokumentenakkreditive, <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die durch Warenpapiere besichert sind, 20 Prozent,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>sonst 50 Prozent,</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Gesch\u00e4fte im Sinne von \u00a7 19 Absatz 1 Satz 3 Nummer 4 des Kreditwesengesetzes 50 Prozent,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>unwiderrufliche Kreditsicherungsgarantien <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>100 Prozent, wenn sie den Charakter eines Kreditsubstituts haben,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>sonst 50 Prozent,</LA></DD></DL></LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Verpflichtungen aus einer Note Issuance Facility oder einer Revolving Underwriting Facility 50 Prozent.</LA></DD></DL></P><P>(3) Wenn eine au\u00dferbilanzielle Adressenausfallrisikoposition in einer noch nicht in Anspruch genommenen Verpflichtung besteht, eine weitere Adressenausfallrisikoposition zu begr\u00fcnden, ist der niedrigere der beiden KSA-Konversionsfaktoren anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG000900000",
+        "name": "Abschnitt 4",
+        "title": "Verbriefungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000500000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001000000",
+        "name": "Unterabschnitt 1",
+        "title": "Anrechnung von Verbriefungspositionen, Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000900000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004700000",
+        "name": "\u00a7 45",
+        "title": "Anrechnung der risikogewichteten KSA-Positionswerte f\u00fcr Verbriefungspositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001000000"
+        },
+        "body": "<P>Ein Wohnungsunternehmen mit Spareinrichtung, das Originator, Investor oder Sponsor einer Verbriefungstransaktion ist, hat f\u00fcr die Gesamtheit seiner Verbriefungspositionen risikogewichtete Positionswerte zu ermitteln. Ein Wohnungsunternehmen mit Spareinrichtung, das Originator einer Verbriefungstransaktion ist, braucht f\u00fcr die zu dieser Verbriefungstransaktion geh\u00f6renden Verbriefungspositionen keinen risikogewichteten Positionswert zu ber\u00fccksichtigen, wenn es aus dieser Verbriefungstransaktion keine Anrechnungserleichterung in Anspruch nimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004800000",
+        "name": "\u00a7 46",
+        "title": "Verbriefungstransaktion",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001000000"
+        },
+        "body": "<P>(1) Eine Verbriefungstransaktion liegt vor, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Adressenausfallrisiko aus einem verbrieften Portfolio anf\u00e4nglich in wenigstens zwei Verbriefungstranchen aufgeteilt wird,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Zahlungsanspr\u00fcche oder Zahlungsverpflichtungen der Halter von Risikopositionen in den Verbriefungstranchen vertraglich von der Realisierung des Adressenausfallrisikos ausschlie\u00dflich des verbrieften Portfolios abh\u00e4ngen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Verbriefungstranchen in einem Subordinationsverh\u00e4ltnis stehen und diese Rangfolge die Reihenfolge und die H\u00f6he bestimmt, in der Zahlungen oder Verluste bei einer Realisierung des Adressenausfallrisikos des verbrieften Portfolios den Haltern von Positionen in den Verbriefungstranchen zugewiesen werden (Wasserfall-Prinzip), und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>eine Leistungsst\u00f6rung nicht bereits dann als eingetreten gilt, wenn f\u00fcr eine im Rang nachgehende Verbriefungstranche derselben Transaktion aufgrund der vertraglich festgelegten Zuweisung von Verlusten oder Nichtzuweisung von Zahlungen ein wirtschaftliches Kreditereignis eingetreten ist.</LA></DD></DL>Als Verbriefungstransaktion gilt auch ein Verbriefungsprogramm, das die in Satz 1 genannten Voraussetzungen erf\u00fcllt.</P><P>(2) Eine Verbriefungstransaktion mit Forderungs\u00fcbertragung ist durch die rechtliche \u00dcbertragung eines verbrieften Portfolios von einem Originator bestimmt.</P><P>(3) Eine Verbriefungstransaktion ohne Forderungs\u00fcbertragung ist durch die \u00dcbertragung des Adressenausfallrisikos aus einem verbrieften Portfolio durch den Einsatz von Garantien, Kreditderivaten oder ber\u00fccksichtigungsf\u00e4higen finanziellen Sicherheiten von einem Originator bestimmt, ohne dadurch das verbriefte Portfolio rechtlich zu \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE004900000",
+        "name": "\u00a7 47",
+        "title": "Verbriefungspositionen, Verbriefungstranchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001000000"
+        },
+        "body": "<P>(1) Eine Verbriefungsposition ist eine Risikoposition in einer Verbriefungstranche. Als Risikopositionen im Sinne des Satzes 1 gelten auch <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>derivative Adressenausfallrisikopositionen aus der Absicherung von Zins- und W\u00e4hrungsrisiken, wenn sie in das Wasserfall-Prinzip einbezogen sind, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bilanzielle oder au\u00dferbilanzielle Adressenausfallrisikopositionen, die ein Institut begr\u00fcndet, indem es Verbriefungs-Liquidit\u00e4tsfazilit\u00e4ten im Sinne des \u00a7 50 Absatz 3, Kreditverbesserungen im Sinne des \u00a7 50 Absatz 1 f\u00fcr Verbriefungstranchen oder Teile von Verbriefungstranchen bereitstellt.</LA></DD></DL>Ein Wohnungsunternehmen mit Spareinrichtung, das Verbriefungspositionen vollst\u00e4ndig oder nicht nachrangig anteilig gew\u00e4hrleistet oder absichert, muss die durch diese Gew\u00e4hrleistung oder Absicherung begr\u00fcndete Risikoposition so ber\u00fccksichtigen, als hielte es die gew\u00e4hrleistete oder abgesicherte Verbriefungsposition unmittelbar.</P><P>(2) Eine Verbriefungstranche ist ein vertraglich abgegrenzter Teil des mit einem verbrieften Portfolio verbundenen Adressenausfallrisikos, sofern eine Position in dem betreffenden Teil ein Verlustrisiko beinhaltet, das entweder h\u00f6her oder niedriger ist als das Verlustrisiko einer Position \u00fcber denselben Betrag in jedem anderen Teil. Sicherungsinstrumente, die dem Inhaber der Position von Dritten direkt zur Verf\u00fcgung gestellt worden sind, bleiben hierbei unber\u00fccksichtigt.</P><P>(3) Eine Verbriefungsposition ist jede Verbriefungsposition, die Anteil an einer zu einer Verbriefungstransaktion geh\u00f6renden Verbriefungstranche ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005000000",
+        "name": "\u00a7 48",
+        "title": "Verbrieftes Portfolio",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001000000"
+        },
+        "body": "<P>Ein durch eine Verbriefungstransaktion verbrieftes Portfolio ist die Gesamtheit derjenigen Adressenausfallrisikopositionen, deren Adressenausfallrisiko durch diese Verbriefungstransaktion \u00fcbertragen werden soll.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005100000",
+        "name": "\u00a7 49",
+        "title": "Originator, Sponsor, Investor",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001000000"
+        },
+        "body": "<P>(1) Ein Wohnungsunternehmen mit Spareinrichtung gilt f\u00fcr eine Verbriefungstransaktion als Originator, wenn das verbriefte Portfolio Adressenausfallrisikopositionen enth\u00e4lt, die f\u00fcr Rechnung des Wohnungsunternehmens mit Spareinrichtung begr\u00fcndet oder zum Zwecke der Verbriefung angekauft oder im Auftrag des Wohnungsunternehmens mit Spareinrichtung verbrieft wurden. \u00dcbertr\u00e4gt ein Wohnungsunternehmen mit Spareinrichtung Adressenausfallrisikopositionen durch eine Verbriefungstransaktion auf eine andere Person mit dem Zweck der Weiterverbriefung, gilt das Wohnungsunternehmen mit Spareinrichtung auch f\u00fcr die weiteren Verbriefungstransaktionen als Originator, wenn die von dem Wohnungsunternehmen mit Spareinrichtung auf die andere Person \u00fcbertragenen Adressenausfallrisikopositionen mindestens 50 Prozent der Bemessungsgrundlage oder mindestens 50 Prozent der risikogewichteten Positionswerte s\u00e4mtlicher Adressenausfallrisikopositionen des verbrieften Portfolios der weiteren Verbriefungstransaktionen zum Zeitpunkt ihres Abschlusses ausmachen.</P><P>(2) Ein Wohnungsunternehmen mit Spareinrichtung gilt f\u00fcr eine Verbriefungstransaktion als Sponsor, wenn die Verbriefungstransaktion ein forderungsgedecktes Geldmarktpapierprogramm oder ein anderes Verbriefungsprogramm ist, das Wohnungsunternehmen mit Spareinrichtung dieses Geldmarktpapierprogramm oder ein anderes Verbriefungsprogramm auflegt und verwaltet und das Wohnungsunternehmen mit Spareinrichtung nicht Originator dieser Verbriefungstransaktion ist. Ein forderungsgedecktes Geldmarktpapierprogramm im Sinne des Satzes 1 ist ein Verbriefungsprogramm, in dessen Rahmen fortlaufend Wertpapiere \u00fcberwiegend in der Form von Geldmarktpapieren mit einer Ursprungslaufzeit von l\u00e4ngstens einem Jahr begeben werden (ABCP-Programm).</P><P>(3) Ein Wohnungsunternehmen mit Spareinrichtung gilt f\u00fcr eine Verbriefungstransaktion als Investor, wenn es weder Originator noch Sponsor dieser Verbriefungstransaktion ist und <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine oder mehrere Verbriefungspositionen aus dieser Verbriefungstransaktion h\u00e4lt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>von anderen gehaltene Verbriefungspositionen aus dieser Verbriefungstransaktion gew\u00e4hrleistet oder absichert.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005200000",
+        "name": "\u00a7 50",
+        "title": "Sonstige Begriffsbestimmungen f\u00fcr Verbriefungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001000000"
+        },
+        "body": "<P>(1) Eine Kreditverbesserung ist jede vertragliche Vereinbarung, die darauf gerichtet ist, die Kreditqualit\u00e4t des verbrieften Portfolios, einer Verbriefungstransaktion, einer Verbriefungstranche oder einer Verbriefungsposition zu erh\u00f6hen, insbesondere durch Nachordnung von Zahlungsanspr\u00fcchen.</P><P>(2) Eine Verbriefungszweckgesellschaft ist ein Unternehmen, dessen unbesicherte Zahlungsverpflichtungen als KSA-Position nicht der KSA-Forderungsklasse Institute zuzuordnen w\u00e4ren und das zu dem ausschlie\u00dflichen Zweck der Durchf\u00fchrung einer oder mehrerer Verbriefungstransaktionen mit der Absicht errichtet wurde, die Verpflichtungen der Verbriefungszweckgesellschaft von denen des Originators zu isolieren und deren Anteilseigner das Recht haben, die mit ihrem Anteil an der Verbriefungszweckgesellschaft verbundenen Rechte uneingeschr\u00e4nkt zu verpf\u00e4nden oder auszutauschen. Die Aktivit\u00e4ten der Verbriefungszweckgesellschaft sind auf die T\u00e4tigkeiten begrenzt, die zur Erreichung des Zwecks erforderlich sind.</P><P>(3) Eine Verbriefungs-Liquidit\u00e4tsfazilit\u00e4t ist eine Verbriefungsposition, die aus der vertraglichen Verpflichtung entstanden ist, finanzielle Mittel zur Sicherstellung der termingerechten Weiterleitung von Zahlungen an Investoren bereitzustellen.</P><P>(4) Eine Wiederverbriefung ist eine Verbriefungstransaktion, in deren verbrieftem Portfolio mindestens eine Verbriefungsposition enthalten ist.</P><P>(5) Eine Wiederverbriefungsposition ist eine Verbriefungsposition in einer Wiederverbriefung. Die Bundesanstalt kann einzelne Verbriefungspositionen von der Einstufung als Wiederverbriefungspositionen ausnehmen, wenn dies aus besonderen Gr\u00fcnden, insbesondere wegen der Art und der Struktur der zugrunde liegenden Gesch\u00e4fte, angezeigt ist. Die Ausnahme kann auf Antrag eines Wohnungsunternehmens mit Spareinrichtung oder von Amts wegen erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001100000",
+        "name": "Unterabschnitt 2",
+        "title": "Anforderungen an Wohnungsunternehmen mit Spareinrichtung, die als Originator oder Sponsor von Verbriefungstransaktionen gelten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000900000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005300000",
+        "name": "\u00a7 51",
+        "title": "Mindestanforderungen an einen wesentlichen und wirksamen Risikotransfer",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001100000"
+        },
+        "body": "<P>(1) Ein Wohnungsunternehmen mit Spareinrichtung, das als Originator einer Verbriefungstransaktion gilt, kann aus dieser nur dann eine Anrechnungserleichterung ableiten, wenn durch die Verbriefungstransaktion ein wirksamer Risikotransfer bewirkt wird und <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Wohnungsunternehmen mit Spareinrichtung s\u00e4mtliche von ihm in dieser Verbriefungstransaktion gehaltenen Verbriefungspositionen bei der Ermittlung des Gesamtanrechnungsbetrags f\u00fcr Adressrisiken mit einem Risikogewicht von 1\u00a0250 Prozent oder nach \u00a7 58 als abzuziehende Verbriefungspositionen ber\u00fccksichtigt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Risikotransfer als wesentlicher Risikotransfer im Sinne des Absatzes 2 anzusehen ist.</LA></DD></DL></P><P>(2) Ein wesentlicher Risikotransfer gilt in der Regel als bewirkt, wenn der Anteil der Summe der risikogewichteten Positionswerte f\u00fcr die vom Wohnungsunternehmen mit Spareinrichtung gehaltenen Verbriefungspositionen der ma\u00dfgeblichen mezzaninen Verbriefungstranchen an der Summe der risikogewichteten Positionswerte f\u00fcr s\u00e4mtliche zu dieser Verbriefungstransaktion geh\u00f6renden ma\u00dfgeblichen mezzaninen Verbriefungstranchen nicht gr\u00f6\u00dfer als 50 Prozent ist. Die Bundesanstalt kann trotz Vorliegens der Voraussetzungen des Satzes 1 im Einzelfall feststellen, dass die beim Originator mit der Verbriefungstransaktion einhergehende m\u00f6gliche Geltendmachung von Anrechnungserleichterungen tats\u00e4chlich nicht durch einen wesentlichen Risikotransfer an Dritte begr\u00fcndet ist und dem Originator aus diesem Grund die Geltendmachung von Anrechnungserleichterungen versagen. Die ma\u00dfgeblichen mezzaninen Verbriefungstranchen einer Verbriefungstransaktion sind diejenigen in das folgende Intervall fallenden Verbriefungstranchen, deren Verbriefungsrisikogewicht kleiner als 1\u00a0250 Prozent ist. Das Intervall beginnt mit derjenigen Verbriefungstranche, die das Risiko erster Verluste tr\u00e4gt, und endet genau eine Verbriefungstranche unterhalb derjenigen Verbriefungstranche, die die h\u00f6chstrangige Verbriefungstranche dieser Verbriefungstransaktion ist.</P><P>(3) Das Wohnungsunternehmen mit Spareinrichtung kann auch in anderen als den in Absatz 2 Satz 1 genannten F\u00e4llen der Bundesanstalt nachweisen, dass ein wesentlicher Risikotransfer vorliegt. Hierzu muss das Wohnungsunternehmen mit Spareinrichtung Verfahren und Prozesse implementiert haben, die sicherstellen, dass die Anrechnungserleichterung, die das Wohnungsunternehmen mit Spareinrichtung als Originator mit einer Verbriefungstransaktion zu erreichen beabsichtigt, durch eine angemessene \u00dcbertragung von Adressenausfallrisiken an Dritte begr\u00fcndet ist. Der Nachweis setzt insbesondere voraus, dass die \u00dcbertragung von Adressenausfallrisiken an Dritte auch f\u00fcr das interne Risikomanagement und die interne Kapitalallokation des Wohnungsunternehmens mit Spareinrichtung ber\u00fccksichtigt wird.</P><P>(4) Ein Wohnungsunternehmen mit Spareinrichtung, das als Originator einer Verbriefungstransaktion mit Forderungs\u00fcbertragung gilt, darf die im verbrieften Portfolio enthaltenen Adressenausfallrisikopositionen bei der Ermittlung des Gesamtanrechnungsbetrags f\u00fcr Adressrisiken unber\u00fccksichtigt lassen, wenn ein wesentlicher Risikotransfer nach Absatz 2 gegeben ist und die folgenden Mindestanforderungen an einen wirksamen Risikotransfer erf\u00fcllt sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Dokumentation der Verbriefungstransaktion spiegelt die wirtschaftliche Substanz der Transaktion wider;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die vom Wohnungsunternehmen mit Spareinrichtung in das verbriefte Portfolio \u00fcbertragenen Adressenausfallrisikopositionen sind dem Zugriff des Wohnungsunternehmens mit Spareinrichtung und seiner Gl\u00e4ubiger auch im Falle der Insolvenz des Wohnungsunternehmens mit Spareinrichtung oder im Falle von Einzelzwangsvollstreckung entzogen, was durch ein qualifiziertes Rechtsgutachten zu belegen ist;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die emittierten Wertpapiere stellen keine Zahlungsverpflichtungen des Wohnungsunternehmens mit Spareinrichtung dar;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die vom Wohnungsunternehmen mit Spareinrichtung in das verbriefte Portfolio \u00fcbertragenen Adressenausfallrisikopositionen werden rechtlich auf eine Verbriefungszweckgesellschaft oder ein anderes Unternehmen \u00fcbertragen;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>das Wohnungsunternehmen mit Spareinrichtung hat auf die in das verbriefte Portfolio \u00fcbertragenen Adressenausfallrisikopositionen keinen tats\u00e4chlichen oder indirekten Einfluss mehr; ein tats\u00e4chlicher Einfluss ist insbesondere gegeben, wenn das Wohnungsunternehmen mit Spareinrichtung berechtigt ist, \u00fcbertragene Adressenausfallrisikopositionen von deren Erwerber zur\u00fcckzukaufen, um damit verbundene Gewinne zu realisieren, oder wenn es verpflichtet ist, \u00fcbertragenes Risiko zur\u00fcckzunehmen;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>ein dem Wohnungsunternehmen mit Spareinrichtung vertraglich einger\u00e4umtes Recht, Verbriefungspositionen oder ein verbrieftes Portfolio vorzeitig zur\u00fcckzukaufen oder zu tilgen, sobald die ausstehenden Adressenausfallrisikopositionen des verbrieften Portfolios unter einen bestimmten Betrag absinken (R\u00fcckf\u00fchrungsoption), steht einem wirksamen Risikotransfer nur dann nicht entgegen, wenn die R\u00fcckf\u00fchrungsoption ausschlie\u00dflich im Ermessen des Wohnungsunternehmens mit Spareinrichtung und nur dann ausge\u00fcbt werden kann, wenn der Betrag des verbrieften Portfolios 10 Prozent seines urspr\u00fcnglichen Betrags nicht \u00fcbersteigt; die R\u00fcckf\u00fchrungsoption darf weder dazu dienen, die Zuweisung von Verlusten an Verbriefungspositionen zu vermeiden, noch dazu dienen, Kreditverbesserungen zur Verf\u00fcgung zu stellen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>die Dokumentation der Verbriefungstransaktion enth\u00e4lt keine Klausel, die das Wohnungsunternehmen mit Spareinrichtung bei einer Verschlechterung der Kreditqualit\u00e4t des verbrieften Portfolios verpflichtet, Verbriefungspositionen aufzuwerten, insbesondere durch Ver\u00e4nderung des dem verbrieften Portfolio zugrunde liegenden Adressenausfallrisikos oder durch Zahlung eines h\u00f6heren Zinses an die Halter von Verbriefungspositionen infolge der Verschlechterung der Kreditqualit\u00e4t des verbrieften Portfolios.</LA></DD></DL></P><P>(5) Ein Wohnungsunternehmen mit Spareinrichtung, das als Originator einer Verbriefungstransaktion ohne Forderungs\u00fcbertragung gilt, darf f\u00fcr die im verbrieften Portfolio enthaltenen Adressenausfallrisikopositionen risikogewichtete KSA-Positionswerte nach Absatz 6 ermitteln, wenn ein wesentlicher Risikotransfer nach Absatz 2 bewirkt ist und die folgenden Mindestanforderungen an einen wirksamen Risikotransfer erf\u00fcllt sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Die Dokumentation der Verbriefungstransaktion spiegelt die wirtschaftliche Substanz der Transaktion wider.</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Die zur \u00dcbertragung des Adressenausfallrisikos eingesetzten Instrumente d\u00fcrfen keine Bedingungen enthalten, die <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>wesentliche Materialit\u00e4tsschwellen vorsehen, unterhalb derer das Sicherungsinstrument bei Eintritt eines wirtschaftlichen Ausfallereignisses bei den im verbrieften Portfolio enthaltenen Adressenausfallrisikopositionen nicht in Anspruch genommen werden kann,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>als Folge einer Verschlechterung der Kreditqualit\u00e4t der Adressenausfallrisikopositionen des verbrieften Portfolios die Beendigung der Besicherung erlauben oder ausl\u00f6sen,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>das Wohnungsunternehmen mit Spareinrichtung verpflichten, Verbriefungspositionen aufzuwerten, insbesondere durch Ver\u00e4nderung des zugrunde liegenden Adressenausfallrisikos, oder</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>als Folge einer Verschlechterung der Kreditqualit\u00e4t des verbrieften Portfolios die Kosten des Wohnungsunternehmens mit Spareinrichtung f\u00fcr die Besicherung oder den an die Halter von Verbriefungspositionen zu zahlenden Zins erh\u00f6hen.</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Es liegt ein qualifiziertes Rechtsgutachten vor, in dem die rechtliche Durchsetzbarkeit der Sicherungsinstrumente in allen relevanten Rechtsordnungen festgestellt wird.</LA></DD></DL></P><P>(6) F\u00fcr die Ermittlung des risikogewichteten KSA-Positionswertes f\u00fcr die im verbrieften Portfolio enthaltenen Adressenausfallrisikopositionen hat das Wohnungsunternehmen mit Spareinrichtung die Gesamtheit seiner im verbrieften Portfolio enthaltenen Adressenausfallrisikopositionen durch die Gesamtheit der aus diesem verbrieften Portfolio erzeugten Verbriefungstranchen zu ersetzen. Jede dieser Verbriefungstranchen bildet eine Verbriefungsposition des Wohnungsunternehmens mit Spareinrichtung, f\u00fcr die es nach den \u00a7\u00a7 53 bis 58 risikogewichtete Positionswerte unter Ber\u00fccksichtigung der f\u00fcr die Verbriefungstranchen bestehenden Sicherungsinstrumente zu ermitteln hat.</P><P>(7) Wenn ein Wohnungsunternehmen mit Spareinrichtung, das als Originator f\u00fcr eine Verbriefungstransaktion gilt, durch diese Verbriefungstransaktion keinen wesentlichen oder wirksamen Risikotransfer bewirkt, braucht es f\u00fcr die von ihm gehaltenen Verbriefungspositionen dieser Verbriefungstransaktion keine risikogewichteten Positionswerte zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005400000",
+        "name": "\u00a7 52",
+        "title": "Verbot der impliziten Unterst\u00fctzung von Verbriefungstransaktionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001100000"
+        },
+        "body": "<P>(1) Ein Wohnungsunternehmen mit Spareinrichtung, das als Originator einer Verbriefungstransaktion gilt, aus der es eine Anrechnungserleichterung ableitet oder einmal abgeleitet hat, oder das als Sponsor einer Verbriefungstransaktion gilt, darf dieser keine implizite Unterst\u00fctzung gew\u00e4hren.</P><P>(2) Implizite Unterst\u00fctzung ist jede Ma\u00dfnahme, zu der das Wohnungsunternehmen mit Spareinrichtung nicht vertraglich verpflichtet ist und die bei dem Wohnungsunternehmen mit Spareinrichtung zu einer Erh\u00f6hung des Risikos oder zur \u00dcbernahme von Verlusten aus den Adressenausfallrisikopositionen des verbrieften Portfolios f\u00fchrt und die das Wohnungsunternehmen mit Spareinrichtung nicht zu marktm\u00e4\u00dfigen Konditionen vornimmt.</P><P>(3) Ein Wohnungsunternehmen mit Spareinrichtung, das f\u00fcr eine Verbriefungstransaktion als Originator gilt und diese implizit unterst\u00fctzt, hat die Adressenausfallrisikopositionen des verbrieften Portfolios bei der Ermittlung des Gesamtanrechnungsbetrags f\u00fcr Adressrisiken so zu ber\u00fccksichtigen, als st\u00fcnden die Adressenausfallrisikopositionen des durch diese Verbriefungstransaktion verbrieften Portfolios im Risiko des Wohnungsunternehmens mit Spareinrichtung, sowie offenzulegen, dass es als Originator eine seiner Verbriefungstransaktionen implizit unterst\u00fctzt hat und daher die Adressenausfallrisikopositionen des durch diese Verbriefungstransaktion verbrieften Portfolios vollst\u00e4ndig bei der Ermittlung seines Gesamtanrechnungsbetrags f\u00fcr Adressrisiken ber\u00fccksichtigen muss. F\u00fcr die von dem Wohnungsunternehmen mit Spareinrichtung in der betreffenden Verbriefungstransaktion gehaltenen Verbriefungspositionen ist eine Ermittlung risikogewichteter Positionswerte nicht erforderlich.</P><P>(4) Absatz 3 gilt entsprechend f\u00fcr ein Wohnungsunternehmen mit Spareinrichtung, das als Sponsor einer Verbriefungstransaktion gilt und dieser implizite Unterst\u00fctzung leistet.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001200000",
+        "name": "Unterabschnitt 3",
+        "title": "Anrechnung von Verbriefungstransaktionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000900000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005500000",
+        "name": "\u00a7 53",
+        "title": "KSA-Bemessungsgrundlage einer Verbriefungsposition",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001200000"
+        },
+        "body": "<P>Die KSA-Bemessungsgrundlage einer Verbriefungsposition entspricht ihrer KSA-Bemessungsgrundlage nach \u00a7 36.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005600000",
+        "name": "\u00a7 54",
+        "title": "KSA-Positionswert einer Verbriefungsposition",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001200000"
+        },
+        "body": "<P>(1) Der KSA-Positionswert einer Verbriefungsposition ist das Produkt aus ihrer KSA-Bemessungsgrundlage und ihrem KSA-Konversionsfaktor nach Absatz 2.</P><P>(2) Der KSA-Konversionsfaktor einer Verbriefungsposition betr\u00e4gt 100 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005700000",
+        "name": "\u00a7 55",
+        "title": "Risikogewichteter KSA-Positionswert einer Verbriefungsposition",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001200000"
+        },
+        "body": "<P>(1) Der risikogewichtete KSA-Positionswert einer Verbriefungsposition ist als das Produkt aus ihrem KSA-Positionswert und ihrem KSA-Verbriefungsrisikogewicht zu ermitteln.</P><P>(2) Wenn ein Wohnungsunternehmen mit Spareinrichtung mehrere Verbriefungspositionen an derselben KSA-Verbriefungstransaktion h\u00e4lt, f\u00fcr die vertraglich sichergestellt ist, dass nicht mehr als eine dieser Verbriefungspositionen dieselben Verluste aus dem durch diese KSA-Verbriefungstransaktion verbrieften Portfolio erleiden kann, sind die Verbriefungspositionen, soweit sie sich \u00fcberschneiden, bei der Ermittlung des risikogewichteten KSA-Positionswertes nur mit derjenigen Verbriefungsposition zu ber\u00fccksichtigen, die den h\u00f6chsten risikogewichteten KSA-Positionswert aufweist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005800000",
+        "name": "\u00a7 56",
+        "title": "KSA-Verbriefungsrisikogewicht f\u00fcr Verbriefungspositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001200000"
+        },
+        "body": "<P>(1) Das KSA-Verbriefungsrisikogewicht f\u00fcr eine Verbriefungsposition betr\u00e4gt 1\u00a0250 Prozent.</P><P>(2) Abweichend von Absatz 1 darf f\u00fcr eine Verbriefungsposition als KSA-Verbriefungsrisikogewicht das Produkt aus dem KSA-Durchschnittsrisikogewicht des verbrieften Portfolios dieser KSA-Verbriefungstransaktion nach Satz 2 und der Risikokonzentrationsrate nach Satz 3 zugrunde gelegt werden, wenn das Wohnungsunternehmen mit Spareinrichtung Zugang zu ausreichend aktuellen Informationen \u00fcber die Zusammensetzung des der Verbriefungstransaktion zugrunde liegenden verbrieften Portfolios hat und dadurch in die Lage versetzt ist, das KSA-Durchschnittsrisikogewicht des verbrieften Portfolios der KSA-Verbriefungstransaktion zu ermitteln. Das KSA-Durchschnittsrisikogewicht des verbrieften Portfolios einer KSA-Verbriefungstransaktion ist das als Prozentsatz ausgedr\u00fcckte Verh\u00e4ltnis der Summe der risikogewichteten KSA-Positionswerte zur Summe der KSA-Positionswerte f\u00fcr die Gesamtheit der im verbrieften Portfolio dieser KSA-Verbriefungstransaktion enthaltenen Adressenausfallrisikopositionen, w\u00e4ren diese KSA-Positionen des Wohnungsunternehmens mit Spareinrichtung. Die Risikokonzentrationsrate ist das Verh\u00e4ltnis der Summe der Nominalwerte aller Verbriefungstranchen zur Summe der Nominalwerte aller gleichrangigen und nachrangigen Verbriefungstranchen einschlie\u00dflich der Verbriefungstranche, in der die Verbriefungsposition gehalten wird. Ist das nach Satz 1 f\u00fcr eine Verbriefungsposition zugrunde zu legende Risikogewicht niedriger als das KSA-Verbriefungsrisikogewicht f\u00fcr eine dieser Verbriefungsposition im Rang vorgehende Verbriefungstranche derselben Verbriefungstransaktion, f\u00fcr die eine ma\u00dfgebliche Bonit\u00e4tsbeurteilung vorliegt, ist das KSA-Verbriefungsrisikogewicht dieser Verbriefungstranche zugrunde zu legen. Das nach Satz 1 zugrunde zu legende KSA-Verbriefungsrisikogewicht ist auf 1\u00a0250 Prozent begrenzt.</P><P>(3) Auf eine Verbriefungsposition aus einem ABCP-Programm, die <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Teil einer Verbriefungstranche ist, die wirtschaftlich eine Zweitverlustposition oder weniger riskante Position einnimmt und dieser Verbriefungstranche Positionen in wesentlichem Umfang nachgeordnet sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine Kreditqualit\u00e4t aufweist, die mindestens der Kreditqualit\u00e4t einer Verbriefungsposition entspricht, f\u00fcr die eine ma\u00dfgebliche Bonit\u00e4tsbeurteilung vorliegt, die aufsichtlich der Bonit\u00e4tsstufe 3 oder einer niedrigeren Bonit\u00e4tsstufe zugeordnet ist, und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>von einem Wohnungsunternehmen mit Spareinrichtung, das nicht gleichzeitig einen Anteil an der Erstverlustposition h\u00e4lt, gehalten wird,</LA></DD></DL>darf abweichend von Absatz 1 das h\u00f6chste KSA-Risikogewicht angewendet werden, das f\u00fcr eine im verbrieften Portfolio enthaltene Adressenausfallrisikoposition als KSA-Position anzuwenden w\u00e4re, mindestens jedoch ein Risikogewicht von 100 Prozent. Als Erstverlustposition nach Satz 1 Nummer 3 gilt jede Verbriefungstranche, auf die ein KSA-Verbriefungsrisikogewicht von 1\u00a0250 Prozent anzuwenden ist oder die nach \u00a7 58 als abzuziehende Verbriefungspositionen ber\u00fccksichtigt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE005900000",
+        "name": "\u00a7 57",
+        "title": "Maximaler risikogewichteter KSA-Positionswert einer KSA-Verbriefungstransaktion",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001200000"
+        },
+        "body": "<P>(1) Wohnungsunternehmen mit Spareinrichtung, die f\u00fcr eine KSA-Verbriefungstransaktion als Originatoren oder Sponsoren gelten, d\u00fcrfen die Summe der risikogewichteten KSA-Positionswerte f\u00fcr s\u00e4mtliche zu derselben KSA-Verbriefungstransaktion geh\u00f6renden Verbriefungspositionen nach Ma\u00dfgabe von Absatz 2 auf die Summe der risikogewichteten Positionswerte f\u00fcr s\u00e4mtliche Adressenausfallrisikopositionen des verbrieften Portfolios begrenzen.</P><P>(2) Der von einem Originator f\u00fcr s\u00e4mtliche Verbriefungspositionen nach \u00a7 47 Absatz 1 Satz 2 Nummer 1 und 2 aus derselben KSA-Verbriefungstransaktion insgesamt anzusetzende risikogewichtete KSA-Positionswert darf auf die Summe aus den risikogewichteten KSA-Positionswerten nach \u00a7 14 Absatz 2 und 3 aller KSA-Positionen des verbrieften Portfolios abz\u00fcglich des 12,5-fachen Abzugsbetrags nach \u00a7 58 f\u00fcr Verbriefungspositionen, soweit er auf die zu dieser KSA-Verbriefungstransaktion geh\u00f6renden Verbriefungspositionen entf\u00e4llt, begrenzt werden. Dabei ist auf im verbrieften Portfolio enthaltene Adressenausfallrisikopositionen, die als Adressenausfallrisikopositionen des Wohnungsunternehmens mit Spareinrichtung der KSA-Forderungsklasse \u00fcberf\u00e4llige Positionen nach \u00a7 16 Absatz 15 zuzuordnen w\u00e4ren, stets ein KSA-Risikogewicht von 150 Prozent anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001300000",
+        "name": "Unterabschnitt 4",
+        "title": "Abzugsbetr\u00e4ge f\u00fcr Verbriefungspositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG000900000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006000000",
+        "name": "\u00a7 58",
+        "title": "Abzugsbetrag von Verbriefungspositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001300000"
+        },
+        "body": "<P>Eine Verbriefungsposition, deren KSA-Verbriefungsrisikogewicht 1\u00a0250 Prozent betr\u00e4gt, darf bei der Ermittlung des Gesamtanrechnungsbetrags f\u00fcr Adressrisiken nach den \u00a7\u00a7 13 bis 15 unber\u00fccksichtigt bleiben und stattdessen bei der Ermittlung des haftenden Eigenkapitals nach \u00a7 51a Absatz 6 des Kreditwesengesetzes mit ihrem jeweiligen KSA-Positionswert in Abzug gebracht werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001400000",
+        "name": "Teil 3",
+        "title": "Operationelle Risiken",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001500000",
+        "name": "Kapitel 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001400000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006100000",
+        "name": "\u00a7 59",
+        "title": "Begriffsbestimmung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001500000"
+        },
+        "body": "<P>Ein operationelles Risiko ist die Gefahr von Verlusten, die infolge der Unangemessenheit oder des Versagens von internen Verfahren und Systemen, von Menschen oder infolge externer Ereignisse eintreten. Diese Definition schlie\u00dft Rechtsrisiken ein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001600000",
+        "name": "Kapitel 2",
+        "title": "Basisindikatoransatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001400000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006200000",
+        "name": "\u00a7 60",
+        "title": "Berechnung des Anrechnungsbetrags",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001600000"
+        },
+        "body": "<P>(1) Der Anrechnungsbetrag f\u00fcr operationelle Risiken betr\u00e4gt 15 Prozent des Dreijahresdurchschnitts des relevanten Indikators.</P><P>(2) Der Dreijahresdurchschnitt des relevanten Indikators ist anhand der letzten drei Jahreswerte zum Ende des Gesch\u00e4ftsjahres des Wohnungsunternehmens mit Spareinrichtung zu bestimmen. Wenn keine durch Abschlusspr\u00fcfer gepr\u00fcften Werte vorliegen, k\u00f6nnen auch unternehmensinterne Sch\u00e4tzungen dieser Werte verwendet werden.</P><P>(3) Bei der Bestimmung des Dreijahresdurchschnitts des relevanten Indikators sind nur Jahreswerte mit positivem Wert zu ber\u00fccksichtigen. Der Dreijahresdurchschnitt des relevanten Indikators berechnet sich als Summe der positiven Jahreswerte geteilt durch die Anzahl der positiven Jahreswerte.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006300000",
+        "name": "\u00a7 61",
+        "title": "Definition des relevanten Indikators",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001600000"
+        },
+        "body": "<P>(1) Wohnungsunternehmen mit Spareinrichtung k\u00f6nnen bei der Berechnung des relevanten Indikators ausschlie\u00dflich die jeweiligen Positionen der Spareinrichtung ber\u00fccksichtigen. Die Ableitung der Ertr\u00e4ge und Aufwendungen der Spareinrichtung aus dem Rechnungswesen ist angemessen zu dokumentieren.</P><P>(2) Wohnungsunternehmen mit Spareinrichtung ermitteln den relevanten Indikator als Differenz der nachfolgenden Positionen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>dem Produkt aus dem durchschnittlichen Bestand an Spareinlagen und dem durchschnittlichen Zinssatz f\u00fcr Finanzierungen durch Kreditinstitute dividiert durch 100 und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>den Zinsaufwendungen f\u00fcr Spareinlagen.</LA></DD></DL>Der durchschnittliche Bestand an Spareinlagen ist f\u00fcr jedes in die Berechnung einzubeziehende Jahr anhand der diesbez\u00fcglichen Werte zum Quartalsende zu ermitteln. Der durchschnittliche Zinssatz f\u00fcr Finanzierungen durch Kreditinstitute ist f\u00fcr jedes in die Berechnung einzubeziehende Jahr der Quotient aus Zinsaufwendungen gegen\u00fcber Kreditinstituten und den durchschnittlichen Verbindlichkeiten gegen\u00fcber Kreditinstituten, multipliziert mit 100. Der durchschnittliche Bestand der Verbindlichkeiten gegen\u00fcber Kreditinstituten ist f\u00fcr jedes in die Berechnung einzubeziehende Jahr anhand der diesbez\u00fcglichen Werte zum Quartalsende zu ermitteln.</P><P>(3) Basis der Berechnung nach Absatz 2 ist f\u00fcr Wohnungsunternehmen mit Spareinrichtung der mit befreiender Wirkung erstellte Jahresabschluss.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001700000",
+        "name": "Teil 4",
+        "title": "Marktrisiken",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001800000",
+        "name": "Kapitel 1",
+        "title": "W\u00e4hrungsgesamtposition",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001700000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006400000",
+        "name": "\u00a7 62",
+        "title": "Ermittlung und Anrechnung der W\u00e4hrungsgesamtposition",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001800000"
+        },
+        "body": "<P>(1) Die W\u00e4hrungsgesamtposition ist t\u00e4glich bei Gesch\u00e4ftsschluss aus den in die W\u00e4hrung der Rechnungslegung umgerechneten Unterschiedsbetr\u00e4gen zwischen den Aktiv- und den Passivpositionen getrennt f\u00fcr jede fremde W\u00e4hrung (offene Einzelw\u00e4hrungspositionen) und f\u00fcr Gold (offene Goldposition) zu ermitteln. Aktiv- und Passivpositionen in Gold sind nach der Notierung desjenigen Marktes, der im Hinblick auf das Umsatzvolumen als repr\u00e4sentativ anzusehen ist, in die W\u00e4hrung der Rechnungslegung umzurechnen. Wohnungsunternehmen mit Spareinrichtung haben zu dokumentieren, welche M\u00e4rkte sie als repr\u00e4sentativ ansehen und die hierf\u00fcr wesentlichen Entscheidungsgr\u00fcnde.</P><P>(2) Die offenen Einzelw\u00e4hrungspositionen sind getrennt f\u00fcr Betr\u00e4ge mit aktivischer und Betr\u00e4ge mit passivischer Ausrichtung zusammenzufassen. Der betragsm\u00e4\u00dfig gr\u00f6\u00dfere der beiden Betr\u00e4ge (Nettow\u00e4hrungsposition) bildet zusammen mit dem Betrag der offenen Goldposition die W\u00e4hrungsgesamtposition des Wohnungsunternehmens mit Spareinrichtung.</P><P>(3) Wenn die W\u00e4hrungsgesamtposition 2 Prozent oder die gr\u00f6\u00dfere der beiden getrennt zu bestimmenden Summen aller in die W\u00e4hrung der Rechnungslegung umgerechneten Aktiv- und Passivpositionen in allen fremden W\u00e4hrungen 100 Prozent des Eigenkapitals \u00fcbersteigt, ist die W\u00e4hrungsgesamtposition f\u00fcr die Ermittlung des Anrechnungsbetrags mit 8 Prozent zu gewichten.</P><P>(4) Bei der Ermittlung des Anrechnungsbetrags f\u00fcr die W\u00e4hrungsgesamtposition darf das Wohnungsunternehmen mit Spareinrichtung nach einheitlicher und dauerhafter Wahl gegenl\u00e4ufig ausgerichtete und nach Umrechnung in die W\u00e4hrung der Rechnungslegung betragsm\u00e4\u00dfig gleiche Positionen (ausgeglichene W\u00e4hrungsposition) in nachweislich eng verbundenen W\u00e4hrungen bei der Ermittlung der offenen Einzelw\u00e4hrungspositionen nach Absatz 1 unber\u00fccksichtigt lassen und statt dessen 50 Prozent des Betrags der ausgeglichenen W\u00e4hrungsposition der Nettow\u00e4hrungsposition nach Absatz 2 hinzuf\u00fcgen. F\u00fcr die Ermittlung des Anrechnungsbetrags ist die W\u00e4hrungsgesamtposition mit 8 Prozent zu gewichten. Absatz 3 ist nicht anzuwenden. Das Wohnungsunternehmen mit Spareinrichtung hat bei erstmaliger Inanspruchnahme des Wahlrechts die durchgef\u00fchrte statistische Untersuchung der Bundesanstalt und der Deutschen Bundesbank vorzulegen. Die Bundesanstalt kann die Inanspruchnahme des Wahlrechts untersagen, wenn die Untersuchung nach Satz 4 nicht sachgerecht erfolgte. Davon ist insbesondere dann auszugehen, wenn die in Absatz 5 genannten Parameter nicht beachtet wurden.</P><P>(5) Fremde W\u00e4hrungen gelten als nachweislich eng verbunden, wenn bei Zugrundelegung der t\u00e4glichen Wechselkurse f\u00fcr die letzten drei Jahre eine Wahrscheinlichkeit von mindestens 99 Prozent oder f\u00fcr die letzten f\u00fcnf Jahre eine Wahrscheinlichkeit von mindestens 95 Prozent besteht, dass aus ausgeglichenen Einzelw\u00e4hrungspositionen in diesen W\u00e4hrungen \u00fcber die n\u00e4chsten zehn Arbeitstage kein Verlust entsteht, der 4 Prozent des Wertes der ausgeglichenen W\u00e4hrungsposition \u00fcberschreitet.</P><P>(6) Investmentanteile im Sinne des \u00a7 16 Absatz 11 sind bei den Aktiv- und Passivpositionen nach \u00a7 63 Absatz 1 und 2 entsprechend ihrer tats\u00e4chlichen W\u00e4hrungszusammensetzung anteilig zu ber\u00fccksichtigen. Unter der Voraussetzung, dass die Richtigkeit der Ermittlung und die Weitergabe an das Wohnungsunternehmen mit Spareinrichtung in angemessener Weise sichergestellt werden, kann das Wohnungsunternehmen mit Spareinrichtung f\u00fcr die Ermittlung der W\u00e4hrungszusammensetzung des Investmentverm\u00f6gens auf Dritte zur\u00fcckgreifen. Ermittelt das Wohnungsunternehmen mit Spareinrichtung die W\u00e4hrungszusammensetzung des Investmentverm\u00f6gens nicht selbst, muss ein Wirtschaftspr\u00fcfer sp\u00e4testens drei Monate nach Ablauf des Gesch\u00e4ftsjahres des Investmentverm\u00f6gens die Richtigkeit der Berechnung nach Satz 2 best\u00e4tigen. Ist die tats\u00e4chliche W\u00e4hrungszusammensetzung des Investmentverm\u00f6gens dem Wohnungsunternehmen mit Spareinrichtung nicht bekannt, ist davon auszugehen, dass das Investmentverm\u00f6gen bis zu der im Verkaufsprospekt oder einem gleichwertigen Dokument genannten H\u00f6chstgrenze in Fremdw\u00e4hrungen investiert wurde. Die nach Satz 4 ermittelte als gehalten unterstellte Fremdw\u00e4hrungsposition ist bei der Ermittlung der W\u00e4hrungsgesamtposition wie eine gesonderte W\u00e4hrung, der Anrechnung von Gold entsprechend, zu behandeln. Sofern die Ausrichtung der Anlagen des Investmentverm\u00f6gens bekannt ist, gilt abweichend von Satz 5, dass die W\u00e4hrungsposition des betreffenden Investmentverm\u00f6gens entsprechend ihrer Ausrichtung nach Absatz 2 zur Summe der offenen Einzelw\u00e4hrungspositionen mit aktivischer Ausrichtung oder zur Summe der offenen Einzelw\u00e4hrungspositionen mit passivischer Ausrichtung hinzugerechnet werden darf. Eine Aufrechnung derartiger Positionen vor der Berechnung ist nicht zul\u00e4ssig.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006500000",
+        "name": "\u00a7 63",
+        "title": "Aktiv- und Passivpositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001800000"
+        },
+        "body": "<P>(1) Aktivpositionen sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>unter Aktiva der Bilanz auszuweisende Verm\u00f6gensgegenst\u00e4nde einschlie\u00dflich zeitanteiliger Ertr\u00e4ge, selbst wenn diese noch nicht den zugeh\u00f6rigen bilanziellen Posten zugeordnet worden sind und die Verm\u00f6gensgegenst\u00e4nde nicht von den Aktivpositionen Nummer 4 oder 5 erfasst sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Anspr\u00fcche auf die Zahlung von Kapitalbetr\u00e4gen aus Finanz-Swaps, Liefer- und Zahlungsanspr\u00fcche aus Kassagesch\u00e4ften und sonstigen Derivaten ohne Optionsrechte nach den Nummern 4 und 5, wenn die Anspr\u00fcche nicht in der Aktivposition Nummer 1 erfasst sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Eventualanspr\u00fcche auf R\u00fcckgabe von in Pension gegebenen Gegenst\u00e4nden der Aktivposition Nummer 1,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>dem Wohnungsunternehmen mit Spareinrichtung im Falle der Aus\u00fcbung eigener oder fremder Optionsrechte zustehende Liefer- oder Zahlungsanspr\u00fcche aus Devisen- oder Goldoptionen nach den Regeln von \u00a7 64,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>nicht unter Nummer 4 erfasste eigene Optionsrechte nach den Regeln von \u00a7 64,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>unwiderrufliche Garantien und Gew\u00e4hrleistungen und vergleichbare Instrumente, die mit Sicherheit in Anspruch genommen werden, soweit ihre Inanspruchnahme zu einer Zunahme der Aktivpositionen Nummer 1 bis 5 f\u00fchren wird.</LA></DD></DL>Erwartete Einnahmen, die nicht zeitanteilige Ertr\u00e4ge sind, d\u00fcrfen, soweit sie nachweislich durch eine oder mehrere der Passivpositionen nach Absatz 2 Satz 1 Nummer 1 bis 5 gesichert sind, nach einheitlicher und dauerhafter Wahl des Wohnungsunternehmens mit Spareinrichtung den Aktivpositionen zugerechnet werden.</P><P>(2) Passivpositionen sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>unter Passiva der Bilanz auszuweisende Schulden einschlie\u00dflich zeitanteiliger Aufwendungen, selbst wenn diese noch nicht den zugeh\u00f6rigen bilanziellen Posten zugeordnet worden sind,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Verpflichtungen zur Zahlung von Kapitalbetr\u00e4gen aus Finanz-Swaps, Liefer- und Zahlungsverpflichtungen aus Kassagesch\u00e4ften und sonstigen Derivaten ohne Optionsrechte nach den Nummern 4 und 5, wenn die Verpflichtungen nicht in der Passivposition Nummer 1 erfasst sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Eventualverbindlichkeiten auf R\u00fcckgabe von in Pension genommenen Gegenst\u00e4nden der Aktivposition Nummer 1,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>vom Wohnungsunternehmen mit Spareinrichtung im Falle der Aus\u00fcbung eigener oder fremder Optionsrechte zu erf\u00fcllende Liefer- oder Zahlungsverpflichtungen aus Devisen oder Goldoptionen nach den Regeln von \u00a7 64,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>nicht unter Nummer 4 erfasste fremde Optionsrechte nach den Regeln von \u00a7 64,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>unwiderrufliche Garantien und Gew\u00e4hrleistungen und vergleichbare Instrumente, die mit Sicherheit in Anspruch genommen werden, soweit ihre Inanspruchnahme zu einer Zunahme der Passivpositionen Nummer 1 bis 5 f\u00fchren wird.</LA></DD></DL>Erwartete Ausgaben, die nicht zeitanteilige Aufwendungen sind, d\u00fcrfen, soweit sie nachweislich durch eine oder mehrere Aktivpositionen nach Absatz 1 Satz 1 Nummer 1 bis 5 gesichert sind, nach einheitlicher und dauerhafter Wahl des Wohnungsunternehmens mit Spareinrichtung den Passivpositionen zugerechnet werden.</P><P>(3) Die Aktiv- und Passivpositionen nach Absatz 1 und 2 Nummer 1, 3 und 6 sind jeweils in H\u00f6he ihrer Buchwerte, die Aktiv- und Passivpositionen nach den Abs\u00e4tzen 1 und 2 Nummer 5 sind jeweils in H\u00f6he ihrer Marktwerte, die \u00fcbrigen Aktiv- und Passivpositionen mit ihren Nominalbetr\u00e4gen zu ber\u00fccksichtigen. Die unter den Aktiv- und Passivpositionen nach den Abs\u00e4tzen 1 und 2 Nummer 2 jeweils zu ber\u00fccksichtigenden Liefer- und Zahlungsverpflichtungen aus Devisen- und Goldtermingesch\u00e4ften k\u00f6nnen nach einheitlicher und dauerhafter Wahl des Wohnungsunternehmens mit Spareinrichtung mit ihren Gegenwartswerten ber\u00fccksichtigt werden. Unabh\u00e4ngig von der Art ihres Bilanzausweises sind die gebildeten Einzelwertberichtigungen zu Aktivpositionen von diesen abzuziehen.</P><P>(4) Aktiv- oder Passivpositionen in Verrechnungseinheiten, deren Kurs aus den Kursen anderer W\u00e4hrungen rechnerisch bestimmt wird, d\u00fcrfen nach einheitlicher und dauerhafter Wahl des Wohnungsunternehmens mit Spareinrichtung wie eine fremde W\u00e4hrung behandelt oder in die ihrer Kursfeststellung zugrunde liegenden W\u00e4hrungen aufgeschl\u00fcsselt werden.</P><P>(5) Die Berechnung des Zinsabgrenzungsbetrags kann bei den Aktiv- und Passivpositionen nach einem vereinfachten Verfahren erfolgen. Danach darf ein Wohnungsunternehmen mit Spareinrichtung den Betrag der zuletzt vorgenommenen Zinsabgrenzung heranziehen. Dieser Betrag ist mittels linearer Extrapolation fortzuschreiben, wobei der regelm\u00e4\u00dfige von dem Wohnungsunternehmen mit Spareinrichtung gew\u00e4hlte Berechnungszeitraum f\u00fcr die Zinsabgrenzung zugrunde zu legen ist. Nimmt ein Wohnungsunternehmen mit Spareinrichtung das Verfahren nach Satz 1 in Anspruch, ist dies bei erstmaliger Anwendung der Bundesanstalt und der Deutschen Bundesbank anzuzeigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006600000",
+        "name": "\u00a7 64",
+        "title": "Ber\u00fccksichtigung von Optionsgesch\u00e4ften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001800000"
+        },
+        "body": "<P>(1) Bei der W\u00e4hrungsgesamtposition sind die dem Wohnungsunternehmen mit Spareinrichtung aus den einzubeziehenden Optionsgesch\u00e4ften zustehenden Liefer- oder Zahlungsanspr\u00fcche und die von ihm zu erf\u00fcllenden Liefer- oder Zahlungsverpflichtungen unter der Annahme tats\u00e4chlicher Lieferung oder Abnahme des Gesch\u00e4ftsgegenstands in H\u00f6he ihres Delta\u00e4quivalents zu ber\u00fccksichtigen.</P><P>(2) Das Delta\u00e4quivalent eines Anspruchs oder einer Verpflichtung oder einer Aktiv- oder Passivkomponente ist durch die Multiplikation des zugeh\u00f6rigen Nominalbetrags mit dem f\u00fcr die Option ermittelten Deltafaktor zu bestimmen. Der Deltafaktor eines Optionsgesch\u00e4fts besteht in dem Verh\u00e4ltnis der Ver\u00e4nderung des Optionspreises zu einer als nur geringf\u00fcgig angenommenen Ver\u00e4nderung des Preises des Optionsgegenstands.</P><P>(3) Bei der Ermittlung des in Absatz 2 Satz 2 genannten Deltafaktors sind vom Wohnungsunternehmen mit Spareinrichtung f\u00fcr gleichartige Optionsgesch\u00e4fte einheitlich unter Beachtung der Marktusancen nach wissenschaftlichen Verfahren geeignete EDV-gest\u00fctzte Optionspreismodelle zu verwenden. Die mathematisch-statistischen Verfahren zur Ermittlung der Optionspreise sind angemessen zu dokumentieren. Sie m\u00fcssen mit den f\u00fcr die tats\u00e4chliche Risikosteuerung verwendeten Verfahren \u00fcbereinstimmen. Die in Satz 1 genannten Verfahren und Optionspreismodelle sind der Bundesanstalt darzustellen. Die Bundesanstalt kann einem Wohnungsunternehmen mit Spareinrichtung die Verwendung eines ungeeigneten Optionspreismodells untersagen und die Verwendung eines geeigneten Optionspreismodells verlangen, wenn dies nach Art, Umfang oder Struktur der Optionsgesch\u00e4fte des Wohnungsunternehmens mit Spareinrichtung zur ad\u00e4quaten Erfassung und Eigenkapitalunterlegung der mit diesen Gesch\u00e4ften verbundenen Risiken geboten erscheint.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG001900000",
+        "name": "Kapitel 2",
+        "title": "Rohwarenposition",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001700000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006700000",
+        "name": "\u00a7 65",
+        "title": "Ermittlung und Anrechnung der Rohwarenposition",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001900000"
+        },
+        "body": "<P>(1) Die Rohwarenposition ist t\u00e4glich bei Gesch\u00e4ftsschluss aus den Unterschiedsbetr\u00e4gen aus den mit den Kassamarktpreisen der Rohwaren bewerteten und in die W\u00e4hrung der Rechnungslegung umgerechneten Aktiv- und Passivpositionen (offene Rohwareneinzelpositionen) getrennt f\u00fcr jede Rohware festzustellen. Die Ermittlung des Anrechnungsbetrags hat nach Absatz 5 oder nach \u00a7 66 zu erfolgen.</P><P>(2) Auf Antrag des Wohnungsunternehmens mit Spareinrichtung k\u00f6nnen bei der Ermittlung der Rohwarenposition Rohwarenbest\u00e4nde und deren Sicherungsgesch\u00e4fte, die infolge fest getroffener Vereinbarungen \u00fcber die Abnahme oder Lieferung der jeweiligen Rohware zum Zeitpunkt der Erf\u00fcllung geschlossene Positionen w\u00e4hrend der gesamten Gesch\u00e4ftsdauer begr\u00fcnden, nach einheitlicher und dauerhafter Wahl eines Wohnungsunternehmens mit Spareinrichtung und mit Zustimmung der Bundesanstalt unber\u00fccksichtigt bleiben. Die Zustimmung gilt als erteilt, wenn das Wohnungsunternehmen mit Spareinrichtung die Positionen formlos beantragt und die Bundesanstalt nicht innerhalb von drei Monaten nach Eingang des Antrags widerspricht. Der Antrag muss die Gesch\u00e4ftsart und die Rohware bezeichnen. Der Antrag ist j\u00e4hrlich zum Jahresende f\u00fcr das folgende Jahr bei der Bundesanstalt einzureichen und kann \u00fcber die regionalen Pr\u00fcfungsverb\u00e4nde eingehen. Beabsichtigt ein Wohnungsunternehmen mit Spareinrichtung, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Umfang der vom Wohnungsunternehmen mit Spareinrichtung in dem letzten turnusm\u00e4\u00dfigen Antrag mitgeteilten geschlossenen Rohwarenposition um 20 Prozent oder mehr zu erh\u00f6hen und dadurch 1 Prozent des durchschnittlichen Gesch\u00e4ftsvolumens des vergangenen Jahres zu \u00fcberschreiten oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>ein Deckungsgesch\u00e4ft erst nach Ablauf eines Monats abzuschlie\u00dfen,</LA></DD></DL>ist dies unverz\u00fcglich bei der Bundesanstalt zu beantragen.</P><P>(3) Aktivpositionen sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>unter Aktiva der Bilanz auszuweisende Rohwarenbest\u00e4nde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Lieferanspr\u00fcche aus Kassagesch\u00e4ften und Derivaten ohne Optionsrechte nach Nummer 3,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>dem Wohnungsunternehmen mit Spareinrichtung im Falle der Aus\u00fcbung eigener oder fremder Optionsrechte zustehende Lieferanspr\u00fcche nach den Regeln entsprechend \u00a7 64,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Eventualanspr\u00fcche auf R\u00fcckgabe von in Pension gegebenen Gegenst\u00e4nden der Aktivposition Nummer 1.</LA></DD></DL></P><P>(4) Passivpositionen sind <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Lieferverpflichtungen aus Kassagesch\u00e4ften und Derivaten ohne Optionsrechte nach Nummer 2,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>vom Wohnungsunternehmen mit Spareinrichtung im Falle der Aus\u00fcbung eigener oder fremder Optionsrechte zu erf\u00fcllende Lieferverpflichtungen nach den Regeln entsprechend \u00a7 64,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Eventualverbindlichkeiten auf R\u00fcckgabe von in Pension genommenen Gegenst\u00e4nden der Aktivposition nach Absatz 3 Nummer 1.</LA></DD></DL></P><P>(5) Zur Ermittlung des Anrechnungsbetrags sind die offenen Rohwareneinzelpositionen ungeachtet ihrer aktivischen oder passivischen Ausrichtung zusammenzufassen und mit 15 Prozent zu gewichten. Die Betr\u00e4ge der Aktiv- und Passivpositionen sind ungeachtet ihrer aktivischen oder passivischen Ausrichtung zusammenzufassen und in H\u00f6he von 3 Prozent der Summe nach Satz 1 hinzuzurechnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006800000",
+        "name": "\u00a7 66",
+        "title": "Zeitf\u00e4chermethode",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001900000"
+        },
+        "body": "<P>(1) Ein Wohnungsunternehmen mit Spareinrichtung darf nach dauerhafter Wahl den Anrechnungsbetrag f\u00fcr die Rohwarenposition aus den Teilanrechnungsbetr\u00e4gen f\u00fcr die offenen Rohwareneinzelpositionen mit Hilfe eines f\u00fcr jede Rohware getrennt aufzustellenden, zeitlich gegliederten Risiko-Erfassungssystems f\u00fcr die in Tabelle 7 der Anlage 1 genannten sieben aufeinander folgenden Anrechnungsbereichen (Zeitf\u00e4cher) bestimmen.</P><P>(2) Zur Ermittlung der Teilanrechnungsbetr\u00e4ge f\u00fcr die offenen Rohwareneinzelpositionen sind die Aktiv- und Passivpositionen entsprechend ihrer F\u00e4lligkeit den Anrechnungsbereichen des Risiko-Erfassungssystems zuzuordnen und in jedem Anrechnungsbereich die einander betragsm\u00e4\u00dfig entsprechenden, gegenl\u00e4ufig ausgerichteten Positionen (ausgeglichene Bereichspositionen) sowie die verbleibenden Unterschiedsbetr\u00e4ge zwischen den Aktiv- und den Passivpositionen (offene Bereichspositionen) zu bestimmen. Die ausgeglichenen Bereichspositionen sind mit 3 Prozent zu gewichten und zum Teilanrechnungsbetrag zusammenzufassen. Abweichend von Satz 2 betr\u00e4gt der Gewichtungssatz f\u00fcr ausgeglichene Bereichspositionen in gleichen Rohwaren 0 Prozent, wenn die zugrunde liegenden Gesch\u00e4fte den gleichen F\u00e4lligkeitstermin haben oder diese innerhalb des gleichen Zehntageszeitraums f\u00e4llig sind und auf M\u00e4rkten mit t\u00e4glichen Lieferterminen gehandelt werden.</P><P>(3) Die offene Bereichsposition eines jeden Anrechnungsbereichs ist, beginnend mit dem ersten in Absatz 1 in Verbindung mit Tabelle 7 der Anlage 1 aufgef\u00fchrten Anrechnungsbereich, mit der offenen Bereichsposition des jeweils n\u00e4chstfolgenden Anrechnungsbereichs zusammenzufassen und die aus dieser Zusammenfassung sich ergebenden, dem n\u00e4chstfolgenden Anrechnungsbereich zuzuordnenden ausgeglichenen und offenen Bereichspositionen zu ermitteln. Jede der in die Zusammenfassung eingehenden offenen Bereichspositionen ist mit 0,6 Prozent je Anrechnungsbereich zu gewichten und dem Teilanrechnungsbetrag nach Absatz 2 Satz 2 hinzuzurechnen. Die sich aus der Zusammenfassung ergebenden ausgeglichenen Bereichspositionen sind mit 3 Prozent zu gewichten und dem Teilanrechnungsbetrag nach Absatz 2 Satz 2 hinzuzurechnen. Die verbleibende offene Bereichsposition ist mit 15 Prozent zu gewichten und dem Teilanrechnungsbetrag nach Absatz 2 Satz 2 hinzuzurechnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG002000000",
+        "name": "Kapitel 3",
+        "title": "Andere Marktrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG001700000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE006900000",
+        "name": "\u00a7 67",
+        "title": "Ermittlung und Anrechnung der anderen Marktrisikopositionen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG002000000"
+        },
+        "body": "<P>(1) F\u00fcr die Ermittlung der Anrechnungsbetr\u00e4ge aus anderen Marktrisikopositionen sind alle zum Gesch\u00e4ftsschluss des aktuellen Handelstags im Bestand des Wohnungsunternehmens mit Spareinrichtung befindlichen Kontrakte, die sich auf gleichartige Basiswerte beziehen, jeweils zu einem Marktrisikoportfolio (aktuelles Marktrisikoportfolio) zusammenzufassen. In ein Marktrisikoportfolio d\u00fcrfen nach einheitlicher und dauerhafter Wahl eines Wohnungsunternehmens mit Spareinrichtung und mit vorheriger Zustimmung der Bundesanstalt einzelne Kontrakte eines anderen Marktrisikoportfolios verschoben werden, wenn ein nachweisbarer Sicherungszusammenhang mit Kontrakten in diesem Marktrisikoportfolio in Bezug auf die f\u00fcr dieses Marktrisikoportfolio relevanten Marktrisiken besteht. Die Zustimmung gilt als erteilt, wenn das Wohnungsunternehmen mit Spareinrichtung die Zusammenf\u00fchrung formlos beantragt und die Bundesanstalt nicht innerhalb von drei Monaten nach Eingang des Antrags widerspricht. Der Antrag muss Gesch\u00e4ftsart und -umfang in den betroffenen Marktrisikopositionen sowie Nachweise zum Sicherungszusammenhang enthalten. Der Antrag ist j\u00e4hrlich per Meldestichtag 31. Dezember f\u00fcr das folgende Jahr und bei geplanten oder tats\u00e4chlichen Abweichungen bei der Bundesanstalt einzureichen.</P><P>(2) Zur Ermittlung des Marktwertes des aktuellen Marktrisikoportfolios sind die Basiswerte aller Kontrakte eines aktuellen Marktrisikoportfolios, bei Optionen das Delta\u00e4quivalent nach den Regeln entsprechend \u00a7 64, so zu zerlegen, dass keiner der dabei entstehenden Basiswerte echter Teil eines der anderen entstehenden Basiswerte ist. F\u00fcr jeden Einzelbasiswert ist der vorzeichenbehaftete Unterschiedsbetrag aus Anspr\u00fcchen und Verpflichtungen (Nettoposition) zu bestimmen. F\u00fcr jeden Handelstag des basiswertspezifischen Beobachtungszeitraums ist der f\u00fcr diesen Tag ermittelte durchschnittliche Marktpreis einer Einheit des Einzelbasiswertes mit dem Absolutbetrag der Nettoposition dieses Einzelbasiswertes zu multiplizieren (Tagesmarktwert der Nettoposition). Der Marktwert des aktuellen Marktrisikoportfolios an einem Handelstag ist die Summe der Absolutbetr\u00e4ge der Marktwerte der Nettopositionen. Die Marktwert\u00e4nderung des aktuellen Marktrisikoportfolios f\u00fcr einen Handelstag ist der Unterschiedsbetrag zwischen den Marktwerten dieses Marktrisikoportfolios an diesem und am vorhergehenden Handelstag. Die kumulierte Marktwert\u00e4nderung f\u00fcr einen Handelstag ist der Absolutbetrag der Summe der Marktwert\u00e4nderungen f\u00fcr diesen und die vorhergehenden neun Handelstage, wenn jeder dieser Handelstage im Beobachtungszeitraum liegt, anderenfalls Null. F\u00fcr auf fremde W\u00e4hrung lautende Kontrakte gilt \u00a7 4 entsprechend.</P><P>(3) Die Bundesanstalt gibt die anzuwendenden basiswertspezifischen Beobachtungszeitr\u00e4ume laufend bekannt. Steht f\u00fcr eine Position keine ausreichende Preishistorie zur Verf\u00fcgung, sind die theoretischen Preise des Instruments zu bestimmen.</P><P>(4) Der Anrechnungsbetrag f\u00fcr jedes aktuelle Marktrisikoportfolio ergibt sich als Summe aus der mit dem Faktor 7,5 multiplizierten Standardabweichung der Marktwert\u00e4nderungen dieses Marktrisikoportfolios \u00fcber alle Handelstage des basiswertspezifischen Beobachtungszeitraums einschlie\u00dflich des aktuellen Handelstags und der gr\u00f6\u00dften kumulierten Marktwert\u00e4nderung f\u00fcr einen Handelstag im Beobachtungszeitraum. Zur Sch\u00e4tzung der Standardabweichung ist die Momenten-Methode zu verwenden. Der Gesamtanrechnungsbetrag f\u00fcr andere Marktrisikopositionen ist die Summe der Anrechnungsbetr\u00e4ge der aktuellen Marktrisikoportfolien.</P><P>(5) Die Angemessenheit der Bestimmung der theoretischen Marktwerte von Positionen nach Absatz 3 Satz 2 ist durch t\u00e4glichen R\u00fcckvergleich der gesch\u00e4tzten mit den tats\u00e4chlichen Wertver\u00e4nderungen nachweislich zu \u00fcberpr\u00fcfen. Der Marktwert jedes Marktrisikoportfolios ist f\u00fcr die zum Gesch\u00e4ftsschluss des Vortags im Bestand des Wohnungsunternehmens mit Spareinrichtung befindlichen Kontrakte anhand der zum Gesch\u00e4ftsschluss des aktuellen Handelstags ermittelten Marktpreise f\u00fcr eine Einheit des jeweiligen Basiswertes nach dem Verfahren nach Absatz 2 zu bestimmen und die Differenz zu dem am Vortag ermittelten Marktwert dieses Marktrisikoportfolios (Wert\u00e4nderung) festzustellen. Ist diese Wert\u00e4nderung negativ und \u00fcbersteigt der Absolutbetrag dieser Wert\u00e4nderung den durch Quadratwurzel aus Zehn dividierten Anrechnungsbetrag des Vortags, sind die Bundesanstalt und die Deutsche Bundesbank \u00fcber diese Ausnahme, ihre Gr\u00f6\u00dfe und den Grund ihres Entstehens unverz\u00fcglich zu unterrichten.</P><P>(6) Portfolioad\u00e4quate Krisenszenarien sind regelm\u00e4\u00dfig, mindestens monatlich, durchzuf\u00fchren. Das Wohnungsunternehmen mit Spareinrichtung hat nachweislich und in angemessener Weise die Ergebnisse der Krisenszenarien in das System der risikobegrenzenden Limite einzubeziehen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR423800013BJNG002100000",
+        "name": "Teil 5",
+        "title": "\u00dcbergangs- und Schlussbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE007000000",
+        "name": "\u00a7 68",
+        "title": "\u00dcbergangsbestimmungen f\u00fcr die Eigenkapitalausstattung und -berechnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG002100000"
+        },
+        "body": "<P>Bis zum 31. Dezember 2015 darf ein Wohnungsunternehmen mit Spareinrichtung ein KSA-Risikogewicht von 0 Prozent im Sinne des \u00a7 17 Absatz 3 Nummer 2 ber\u00fccksichtigen, wenn die Erf\u00fcllung von einer Zentralregierung oder Zentralnotenbank eines anderen Staates des Europ\u00e4ischen Wirtschaftsraums geschuldet und die Erf\u00fcllung in einer Landesw\u00e4hrung eines Staates des Europ\u00e4ischen Wirtschaftsraums geschuldet und refinanziert wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE007100000",
+        "name": "\u00a7 69",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG002100000"
+        },
+        "body": "<P>Diese Verordnung tritt am 1. Januar 2014 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE007200000",
+        "name": "Anlage 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG002100000"
+        },
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2013, 4260 - 4261)</kommentar></noindex></P><BR /><Title Align=\"auto\"><B><SP>Tabelle 1</SP></B><BR /> (zu \u00a7 40 Absatz 1)<BR /><B>Volatilit\u00e4tsrate Erh\u00f6hung Wiedereindeckungsaufwand</B></Title><P /><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"6\"><colspec align=\"center\" colname=\"col1\" colnum=\"1\" colwidth=\"20*\" /><colspec align=\"center\" colname=\"col2\" colnum=\"2\" colwidth=\"20*\" /><colspec align=\"center\" colname=\"col3\" colnum=\"3\" colwidth=\"20*\" /><colspec align=\"center\" colname=\"col4\" colnum=\"4\" colwidth=\"20*\" /><colspec align=\"center\" colname=\"col5\" colnum=\"5\" colwidth=\"20*\" /><colspec align=\"center\" colname=\"col6\" colnum=\"6\" colwidth=\"20*\" /><thead valign=\"bottom\"><row valign=\"middle\"><entry VJ=\"1\" colname=\"col1\">Restlaufzeit</entry><entry VJ=\"1\" colname=\"col2\">Zinsbezogene<BR />Gesch\u00e4fte</entry><entry VJ=\"1\" colname=\"col3\">W\u00e4hrungskurs-<BR />und goldpreis-<BR />bezogene<BR />Gesch\u00e4fte</entry><entry VJ=\"1\" colname=\"col4\">Aktienkurs-<BR />bezogene<BR />Gesch\u00e4fte</entry><entry VJ=\"1\" colname=\"col5\">Edelmetall-<BR />preisbezogene<BR />Gesch\u00e4fte<BR />(ohne Gold)</entry><entry VJ=\"1\" colname=\"col6\">Rohwaren-<BR />preisbezogene<BR />und sonstige<BR />Gesch\u00e4fte</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">bis 1 Jahr</entry><entry VJ=\"1\" colname=\"col2\">0,0 %</entry><entry VJ=\"1\" colname=\"col3\">1,0 %</entry><entry VJ=\"1\" colname=\"col4\">6,0 %</entry><entry VJ=\"1\" colname=\"col5\">7,0 %</entry><entry VJ=\"1\" colname=\"col6\">10,0 %</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">\u00fcber 1 Jahr<BR /> bis 5 Jahre</entry><entry VJ=\"1\" colname=\"col2\">0,5 %</entry><entry VJ=\"1\" colname=\"col3\">5,0 %</entry><entry VJ=\"1\" colname=\"col4\">8,0 %</entry><entry VJ=\"1\" colname=\"col5\">7,0 %</entry><entry VJ=\"1\" colname=\"col6\">12,0 %</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">\u00fcber 5 Jahre</entry><entry VJ=\"1\" colname=\"col2\">1,5 %</entry><entry VJ=\"1\" colname=\"col3\">7,5 %</entry><entry VJ=\"1\" colname=\"col4\">10,0 %</entry><entry VJ=\"1\" colname=\"col5\">8,0 %</entry><entry VJ=\"1\" colname=\"col6\">15,0 %</entry></row></tbody></tgroup></table><P /><Title Align=\"auto\"><B><SP>Tabelle 2</SP></B><BR /> (zu \u00a7 43)<BR /><B>Volatilit\u00e4tsrate laufzeitbewerteter Wiedereindeckungsaufwand</B></Title><P /><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec align=\"center\" colname=\"col1\" colnum=\"1\" colwidth=\"30*\" /><colspec align=\"center\" colname=\"col2\" colnum=\"2\" colwidth=\"30*\" /><colspec align=\"center\" colname=\"col3\" colnum=\"3\" colwidth=\"30*\" /><thead valign=\"bottom\"><row valign=\"middle\"><entry VJ=\"1\" colname=\"col1\">Laufzeit</entry><entry VJ=\"1\" colname=\"col2\">Ausschlie\u00dflich<BR />zinsbezogene Gesch\u00e4fte<BR />(Restlaufzeit)</entry><entry VJ=\"1\" colname=\"col3\">W\u00e4hrungskurs- und<BR />goldpreisbezogene Gesch\u00e4fte<BR />(Ursprungslaufzeit)</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">bis 1 Jahr</entry><entry VJ=\"1\" colname=\"col2\">0,5 %</entry><entry VJ=\"1\" colname=\"col3\">2,0 %</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">\u00fcber 1 Jahr bis 2 Jahre</entry><entry VJ=\"1\" colname=\"col2\">1,0 %</entry><entry VJ=\"1\" colname=\"col3\">5,0 %</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">Zus\u00e4tzliche Ber\u00fccksichtigung<BR /> eines jeden weiteren Jahres</entry><entry VJ=\"1\" colname=\"col2\">1,0 %</entry><entry VJ=\"1\" colname=\"col3\">3,0 %</entry></row></tbody></tgroup></table><P /><Title Align=\"auto\"><B><SP>Tabelle 3</SP></B><BR /> (zu \u00a7 17 Absatz 2)<BR /><B>KSA-Risikogewicht Zentralregierungen<BR />nach Mindestpr\u00e4mienkategorien f\u00fcr Exportversicherungen (MPE)</B></Title><P /><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"9\"><colspec align=\"center\" colname=\"col1\" colnum=\"1\" colwidth=\"20*\" /><colspec align=\"center\" colname=\"col2\" colnum=\"2\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col3\" colnum=\"3\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col4\" colnum=\"4\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col5\" colnum=\"5\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col6\" colnum=\"6\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col7\" colnum=\"7\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col8\" colnum=\"8\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col9\" colnum=\"9\" colwidth=\"10*\" /><thead valign=\"bottom\"><row valign=\"middle\"><entry VJ=\"1\" colname=\"col1\">MPE</entry><entry VJ=\"1\" colname=\"col2\">0</entry><entry VJ=\"1\" colname=\"col3\">1</entry><entry VJ=\"1\" colname=\"col4\">2</entry><entry VJ=\"1\" colname=\"col5\">3</entry><entry VJ=\"1\" colname=\"col6\">4</entry><entry VJ=\"1\" colname=\"col7\">5</entry><entry VJ=\"1\" colname=\"col8\">6</entry><entry VJ=\"1\" colname=\"col9\">7</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">KSA-Risikogewicht</entry><entry VJ=\"1\" colname=\"col2\">0 %</entry><entry VJ=\"1\" colname=\"col3\">0 %</entry><entry VJ=\"1\" colname=\"col4\">20 %</entry><entry VJ=\"1\" colname=\"col5\">50 %</entry><entry VJ=\"1\" colname=\"col6\">100 %</entry><entry VJ=\"1\" colname=\"col7\">100 %</entry><entry VJ=\"1\" colname=\"col8\">100 %</entry><entry VJ=\"1\" colname=\"col9\">150 %</entry></row></tbody></tgroup></table><P /><Title Align=\"auto\"><B><SP>Tabelle 4</SP></B><BR /> (zu \u00a7 22 Absatz 3)<BR /><B>Institute in Abh\u00e4ngigkeit von Zentralregierung Sitzstaat</B></Title><P /><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"7\"><colspec align=\"center\" colname=\"col1\" colnum=\"1\" colwidth=\"20*\" /><colspec align=\"center\" colname=\"col2\" colnum=\"2\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col3\" colnum=\"3\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col4\" colnum=\"4\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col5\" colnum=\"5\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col6\" colnum=\"6\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col7\" colnum=\"7\" colwidth=\"10*\" /><thead valign=\"bottom\"><row valign=\"middle\"><entry VJ=\"1\" colname=\"col1\">MPE der Zentralregierung</entry><entry VJ=\"1\" colname=\"col2\">0 oder 1</entry><entry VJ=\"1\" colname=\"col3\">2</entry><entry VJ=\"1\" colname=\"col4\">3</entry><entry VJ=\"1\" colname=\"col5\">4</entry><entry VJ=\"1\" colname=\"col6\">5 oder 6</entry><entry VJ=\"1\" colname=\"col7\">7</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">KSA-Risikogewicht</entry><entry VJ=\"1\" colname=\"col2\">20 %</entry><entry VJ=\"1\" colname=\"col3\">50 %</entry><entry VJ=\"1\" colname=\"col4\">100 %</entry><entry VJ=\"1\" colname=\"col5\">100 %</entry><entry VJ=\"1\" colname=\"col6\">100 %</entry><entry VJ=\"1\" colname=\"col7\">150 %</entry></row></tbody></tgroup></table><P /><Title Align=\"auto\"><B><SP>Tabelle 5</SP></B><BR /> (zu \u00a7 23)<BR /><B>KSA-Risikogewicht gedeckter Schuldverschreibungen</B></Title><P /><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"5\"><colspec align=\"center\" colname=\"col1\" colnum=\"1\" colwidth=\"50*\" /><colspec align=\"center\" colname=\"col2\" colnum=\"2\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col3\" colnum=\"3\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col4\" colnum=\"4\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col5\" colnum=\"5\" colwidth=\"10*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">KSA-Risikogewicht f\u00fcr vom emittierenden Kreditinstitut geschuldete Positionen</entry><entry VJ=\"1\" colname=\"col2\">20 %</entry><entry VJ=\"1\" colname=\"col3\">50 %</entry><entry VJ=\"1\" colname=\"col4\">100 %</entry><entry VJ=\"1\" colname=\"col5\">150 %</entry></row><row><entry VJ=\"1\" align=\"left\" colname=\"col1\">KSA-Risikogewicht der gedeckten Schuldverschreibung</entry><entry VJ=\"1\" colname=\"col2\">10 %</entry><entry VJ=\"1\" colname=\"col3\">20 %</entry><entry VJ=\"1\" colname=\"col4\">50 %</entry><entry VJ=\"1\" colname=\"col5\">100 %</entry></row></tbody></tgroup></table><P /><Title Align=\"auto\"><B><SP>Tabelle 6</SP></B><BR /> (zu \u00a7 30 Absatz 1 und \u00a7 34)<BR /><B>Nominierung von Exportversicherungsagenturen<BR />je bonit\u00e4tsbeurteilungsbezogene Forderungskategorien</B></Title><P /><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"25*\" /><colspec align=\"justify\" colname=\"col2\" colnum=\"2\" colwidth=\"75*\" /><thead valign=\"bottom\"><row valign=\"middle\"><entry VJ=\"1\" align=\"center\" colname=\"col1\">Bonit\u00e4tsbeurteilungsbezogene<BR /> Forderungskategorie</entry><entry VJ=\"1\" align=\"center\" colname=\"col2\">Arten von Positionen</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" morerows=\"4\">Staaten</entry><entry VJ=\"1\" colname=\"col2\">KSA-Positionen, die der KSA-Forderungsklasse Zentralregierungen nach \u00a7 16 Absatz 2 zuzuordnen sind</entry></row><row><entry VJ=\"1\" colname=\"col2\">KSA-Positionen, die der KSA-Forderungsklasse Regionalregierungen und \u00f6rtliche Gebietsk\u00f6rperschaften nach \u00a7 16 Absatz 3 zuzuordnen sind</entry></row><row><entry VJ=\"1\" colname=\"col2\">KSA-Positionen, die der KSA-Forderungsklasse sonstige \u00f6ffentliche Stellen nach \u00a7 16 Absatz 4 zuzuordnen sind, deren KSA-Risikogewicht entweder dasjenige nach \u00a7 19 Absatz 2 oder dasjenige nach \u00a7 19 Absatz 3 ist</entry></row><row><entry VJ=\"1\" colname=\"col2\">KSA-Positionen, die der KSA-Forderungsklasse Institute nach \u00a7 16 Absatz 7 zuzuordnen sind, sowie</entry></row><row><entry VJ=\"1\" colname=\"col2\">KSA-Positionen, die der KSA-Forderungsklasse von Kreditinstituten emittierte gedeckte Schuldverschreibungen nach \u00a7 16 Absatz 8 zuzuordnen sind</entry></row></tbody></tgroup></table><P /><Title Align=\"auto\"><B><SP>Tabelle 7</SP></B><BR /> (zu \u00a7 66 Absatz 1 und 3 Satz 1)<BR /><B>Zeitf\u00e4cher Rohwarenpositionen</B></Title><P /><table frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"1\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"100*\" /><thead valign=\"bottom\"><row valign=\"middle\"><entry VJ=\"1\" align=\"center\" colname=\"col1\">Anrechnungsbereich</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">Bis zu 1 Monat</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00fcber 1 Monat bis zu 3 Monaten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00fcber 3 Monaten bis zu 6 Monaten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00fcber 6 Monaten bis zu 1 Jahr</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00fcber 1 Jahr bis zu 2 Jahren</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00fcber 2 Jahren bis zu 3 Jahren</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00fcber 3 Jahren</entry></row></tbody></tgroup></table>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR423800013BJNE007300000",
+        "name": "Anlage 2",
+        "title": "(zu \u00a7 5 Absatz 1)<BR /><B>EUEBW</B><BR />Anforderungen an die Eigenkapitalausstattung von Wohnungsunternehmen mit Spareinrichtung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR423800013BJNG002100000"
+        },
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 2013, 4262 - 4263)</kommentar></noindex></P><BR /><table colsep=\"1\" frame=\"all\" pgwide=\"1\" rowsep=\"1\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"3\"><colspec align=\"justify\" colname=\"col1\" colnum=\"1\" colwidth=\"74*\" /><colspec align=\"center\" colname=\"col2\" colnum=\"2\" colwidth=\"10*\" /><colspec align=\"center\" colname=\"col3\" colnum=\"3\" colwidth=\"16*\" /><thead valign=\"bottom\"><row valign=\"middle\"><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\">Betrag/Kennziffer</entry></row></thead><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\">01</entry></row><row><entry VJ=\"1\" colname=\"col1\"><B>1. Ermittlung des haftenden Eigenkapitals</B></entry><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Gesch\u00e4ftsguthaben</entry><entry VJ=\"1\" colname=\"col2\">0010</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">R\u00fccklagen</entry><entry VJ=\"1\" colname=\"col2\">0020</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">nachrichtlich:<BR />darunter R\u00fccklagen nach \u00a7 51a Absatz 7 Satz 2 KWG</entry><entry VJ=\"1\" colname=\"col2\">0030</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">(-) Gesch\u00e4ftsguthaben und andere Anspr\u00fcche der ausscheidenden Mitglieder, die zu Auszahlungen f\u00fchren (\u00a7 51a Absatz 6 Satz 1 Nummer 1 KWG)</entry><entry VJ=\"1\" colname=\"col2\">0040</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Bilanzgewinn (\u00a7 51a Absatz 6 Satz 1 Nummer 2 KWG)</entry><entry VJ=\"1\" colname=\"col2\">0050</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">(-) Bilanzverlust (\u00a7 51a Absatz 6 Satz 2 Nummer 1 KWG)</entry><entry VJ=\"1\" colname=\"col2\">0060</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">(-) immaterielle Verm\u00f6gensgegenst\u00e4nde (\u00a7 51a Absatz 6 Satz 2 Nummer 2 KWG)</entry><entry VJ=\"1\" colname=\"col2\">0070</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">(-) Korrekturposten (\u00a7 51a Absatz 9 KWG)</entry><entry VJ=\"1\" colname=\"col2\">0080</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">(-) Abzugsbetrag betreffend Verbriefungspositionen nach \u00a7 51a Absatz 6 Satz 2 Nummer 4 KWG</entry><entry VJ=\"1\" colname=\"col2\">0090</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Gewinne aus Zwischenabschluss nach \u00a7 51a Absatz 8 Satz 1 KWG</entry><entry VJ=\"1\" colname=\"col2\">0100</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">(-) Verluste aus Zwischenabschluss nach \u00a7 51a Absatz 8 Satz 2 KWG</entry><entry VJ=\"1\" colname=\"col2\">0110</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>Anrechenbares Eigenkapital</B></entry><entry VJ=\"1\" colname=\"col2\">0120</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">nachrichtlich:<BR />darunter Eigenkapital nach \u00a7 51a Absatz 5 KWG</entry><entry VJ=\"1\" colname=\"col2\">0130</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>2. Anrechnungspflichtige Positionen</B></entry><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>Summe aus dem Gesamtanrechnungsbetrag f\u00fcr Adressrisiken und dem Gesamtanrechnungsbetrag f\u00fcr Abwicklungsrisiken (\u00a7\u00a7 13 bis 15)</B></entry><entry VJ=\"1\" colname=\"col2\">0140</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">nachrichtlich:<BR />darunter Anrechnungsbetr\u00e4ge betreffend</entry><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse Zentralregierungen</entry><entry VJ=\"1\" colname=\"col2\">0150</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse Regionalregierungen und \u00f6rtliche Gebietsk\u00f6rperschaften</entry><entry VJ=\"1\" colname=\"col2\">0160</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse sonstige \u00f6ffentliche Stellen</entry><entry VJ=\"1\" colname=\"col2\">0170</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse multilaterale Entwicklungsbanken</entry><entry VJ=\"1\" colname=\"col2\">0180</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse internationale Organisationen</entry><entry VJ=\"1\" colname=\"col2\">0190</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse Institute</entry><entry VJ=\"1\" colname=\"col2\">0200</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse von Kreditinstituten emittierte gedeckte Schuldverschreibungen</entry><entry VJ=\"1\" colname=\"col2\">0210</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse Unternehmen</entry><entry VJ=\"1\" colname=\"col2\">0220</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse Mengengesch\u00e4ft</entry><entry VJ=\"1\" colname=\"col2\">0230</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse Investmentanteile</entry><entry VJ=\"1\" colname=\"col2\">0240</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse Beteiligungen</entry><entry VJ=\"1\" colname=\"col2\">0250</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse Verbriefungen</entry><entry VJ=\"1\" colname=\"col2\">0260</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse sonstige Positionen</entry><entry VJ=\"1\" colname=\"col2\">0270</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Forderungsklasse \u00fcberf\u00e4llige Positionen</entry><entry VJ=\"1\" colname=\"col2\">0280</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Gesamtanrechnungsbetrag f\u00fcr Abwicklungsrisiken nach \u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">0290</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>Anrechnungsbetrag f\u00fcr operationelle Risiken (\u00a7 59 bis \u00a7 61)</B></entry><entry VJ=\"1\" colname=\"col2\">0300</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>Summe der Anrechnungsbetr\u00e4ge f\u00fcr Marktrisikopositionen einschlie\u00dflich <NB>Optionsgesch\u00e4fte</NB></B></entry><entry VJ=\"1\" colname=\"col2\">0310</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">nachrichtlich:<BR />darunter Anrechnungsbetr\u00e4ge betreffend</entry><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">W\u00e4hrungsgesamtposition</entry><entry VJ=\"1\" colname=\"col2\">0320</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Rohwarenposition</entry><entry VJ=\"1\" colname=\"col2\">0330</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Andere Marktrisikopositionen (\u00a7 67 Absatz 4)</entry><entry VJ=\"1\" colname=\"col2\">0340</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>Anrechnungsbetr\u00e4ge insgesamt<BR />(Summe aus den Zeilen 0140, 0300 und 0310)</B></entry><entry VJ=\"1\" colname=\"col2\">0350</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Eigenkapitalanforderungen nach \u00a7 51a Absatz 2 KWG<FnR ID=\"f783292_02_BJNR423800013BJNE007300000\" /></entry><entry VJ=\"1\" colname=\"col2\">0360</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">nachrichtlich: Fremdw\u00e4hrungsrisikopositionen nach \u00a7 3 Absatz 6 Satz 1 in Verbindung mit Satz 4</entry><entry VJ=\"1\" colname=\"col2\">0370</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\" /><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>3. Nachweis der Erf\u00fcllung der Anforderung nach \u00a7 2 Absatz 2 sowie der Ermittlung der Gesamtkennziffer nach \u00a7 2 Absatz 4</B></entry><entry VJ=\"1\" colname=\"col2\" /><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Anrechenbares Eigenkapital</entry><entry VJ=\"1\" colname=\"col2\">0380</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\">Summe aus dem Gesamtanrechnungsbetrag f\u00fcr Adressrisiken, dem Anrechnungsbetrag f\u00fcr operationelle Risiken und der Summe der Anrechnungsbetr\u00e4ge f\u00fcr Marktrisikopositionen einschlie\u00dflich der Optionsgesch\u00e4fte</entry><entry VJ=\"1\" colname=\"col2\">0390</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>Nachweis der Anforderung nach \u00a7 2 Absatz 2</B><BR /> Anrechenbares Eigenkapital nach Abzug der Summe aus dem Gesamtanrechnungsbetrag f\u00fcr Adressrisiken, dem Anrechnungsbetrag f\u00fcr operationelle Risiken und <NB>der Summe</NB> der Anrechnungsbetr\u00e4ge f\u00fcr Marktrisikopositionen einschlie\u00dflich der Optionsgesch\u00e4fte</entry><entry VJ=\"1\" colname=\"col2\">0400</entry><entry VJ=\"1\" colname=\"col3\" /></row><row><entry VJ=\"1\" colname=\"col1\"><B>Gesamtkennziffer gem\u00e4\u00df \u00a7 2 Absatz 4 (0380/(0390*12,5))</B></entry><entry VJ=\"1\" colname=\"col2\">0410</entry><entry VJ=\"1\" colname=\"col3\" /></row></tbody></tgroup></table><P /><P>______________</P>",
+        "footnotes": "<Footnote FnZ=\"2\" Group=\"page\" ID=\"f783292_02_BJNR423800013BJNE007300000\" Pos=\"exp\">Sofern Eigenkapitalanforderungen nach \u00a7 51a Absatz 2 KWG angeordnet wurden, ermittelt sich <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Nachweis der Anforderung nach \u00a7 2 Absatz 2 in Zeile 0400 als die Differenz zwischen dem anrechenbaren Eigenkapital und den in Zeile 0360 ausgewiesenen Eigenkapitalanforderungen und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die in Zeile 0410 auszuweisende Gesamtkennziffer wie folgt: (0380/(0360*12,5)).</LA></DD></DL></Footnote>",
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

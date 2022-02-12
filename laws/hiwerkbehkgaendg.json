@@ -1,0 +1,105 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR018769976",
+    "firstPublished": "1976-07-22",
+    "sourceTimestamp": "20120625145926",
+    "titleShort": null,
+    "titleLong": "Gesetz zur \u00c4nderung des Gesetzes \u00fcber die Errichtung einer Stiftung\n\"Hilfswerk f\u00fcr behinderte Kinder\"",
+    "abbreviation": "HiWerkBehKG\u00c4ndG",
+    "slug": "hiwerkbehkgaendg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1976, 1876",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 1.8.1976 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR018769976BJNE000300325",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundestag hat mit Zustimmung des Bundesrates das folgende Gesetz beschlossen:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR018769976BJNG000100325",
+        "name": "Art 1",
+        "title": "\u00c4nderung des Gesetzes \u00fcber die Errichtung\neiner Stiftung \"Hilfswerk f\u00fcr behinderte Kinder\"",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR018769976BJNG000200325",
+        "name": "Art 2",
+        "title": "\u00dcbergangs- und Schlu\u00dfbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR018769976BJNE000400325",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR018769976BJNG000200325"
+        },
+        "body": "<P>An der Rentenerh\u00f6hung nehmen auch die Berechtigten teil, deren Rente gem\u00e4\u00df \u00a7 14 Abs. 3 kapitalisiert worden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR018769976BJNE000500325",
+        "name": "\u00a7 2",
+        "title": "Berlin-Klausel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR018769976BJNG000200325"
+        },
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 12 Abs. 1 und des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR018769976BJNE000600325",
+        "name": "\u00a7 3",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR018769976BJNG000200325"
+        },
+        "body": "<P>Dieses Gesetz tritt am ersten Tage des auf die Verk\u00fcndung folgenden Kalendermonats in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR018769976BJNE000700325",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR007300990",
+    "firstPublished": "1990-04-10",
+    "sourceTimestamp": "20180105214002",
+    "titleShort": "Krankenhausstatistik-Verordnung",
+    "titleLong": "Verordnung \u00fcber die Bundesstatistik f\u00fcr Krankenh\u00e4user",
+    "abbreviation": "KHStatV",
+    "slug": "khstatv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1990, 730",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 1 V v. 10.7.2017 I 2300",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 1.1.1990 +++) <BR />(+++ V gilt nicht im Beitrittsgebiet vom 3.10.1990 bis zum 31.12.1990 gem. KHG \u00a7 21 F. 23.9.1990 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE000100308",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 28 Abs. 2 des Krankenhausfinanzierungsgesetzes in der Fassung der Bekanntmachung vom 23. Dezember 1985 (BGBl. 1986 I S. 33), der durch Artikel 22 Nr. 7 des Gesetzes vom 20. Dezember 1988 (BGBl. I S. 2477) ge\u00e4ndert worden ist, verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE000200308",
+        "name": "\u00a7 1",
+        "title": "Umfang der Erhebungen, Begriffsbestimmungen",
+        "parent": null,
+        "body": "<P>(1) Erhebungen als Bundesstatistik werden durchgef\u00fchrt \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Krankenh\u00e4user und Vorsorge- oder Rehabilitationseinrichtungen, ihre organisatorischen Einheiten, ihre personelle Besetzung und sachliche Ausstattung sowie ihre Leistungen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Kosten der Krankenh\u00e4user sowie die Krankenhauspatienten und die Art ihrer Erkrankungen,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ausbildungsst\u00e4tten an Krankenh\u00e4usern.</LA></DD> </DL> </P><P>(2) Die Erhebungen erstrecken sich nicht auf die in \u00a7 3 Nr. 2 und 3 des Krankenhausfinanzierungsgesetzes genannten Krankenh\u00e4user.</P><P>(3) Im Sinne dieser Verordnung sind <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Krankenh\u00e4user</LA><LA Size=\"normal\">die Krankenh\u00e4user nach \u00a7 2 Nr. 1 des Krankenhausfinanzierungsgesetzes einschlie\u00dflich der in den \u00a7\u00a7 3 und 5 des Krankenhausfinanzierungsgesetzes genannten Krankenh\u00e4user, soweit sie zu den Krankenh\u00e4usern nach \u00a7 107 Abs. 1 des F\u00fcnften Buches Sozialgesetzbuch geh\u00f6ren,</LA></DD>  <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorsorge- oder Rehabilitationseinrichtungen</LA><LA Size=\"normal\">die Krankenh\u00e4user nach \u00a7 2 Nr. 1 des Krankenhausfinanzierungsgesetzes einschlie\u00dflich der in den \u00a7\u00a7 3 und 5 des Krankenhausfinanzierungsgesetzes genannten Krankenh\u00e4user und Einrichtungen, soweit sie zu den Vorsorge- oder Rehabilitationseinrichtungen nach \u00a7 107 Abs. 2 des F\u00fcnften Buches Sozialgesetzbuch geh\u00f6ren.</LA></DD>  </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE000301116",
+        "name": "\u00a7 2",
+        "title": "Erhebungseinheiten",
+        "parent": null,
+        "body": "<P>Erhebungseinheiten sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Krankenh\u00e4user einschlie\u00dflich Ausbildungsst\u00e4tten und zus\u00e4tzlich ab dem 1. Januar 2020 die Standorte der Krankenh\u00e4user entsprechend dem Verzeichnis nach \u00a7 293 Absatz 6 des F\u00fcnften Buches Sozialgesetzbuch,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vorsorge- oder Rehabilitationseinrichtungen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE000605116",
+        "name": "\u00a7 3",
+        "title": "Erhebungsmerkmale",
+        "parent": null,
+        "body": "<P>Erhebungsmerkmale sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art des Krankenhauses oder der Vorsorge- oder Rehabilitationseinrichtung sowie Art der Tr\u00e4gerschaft,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zulassung nach \u00a7 108 des F\u00fcnften Buches Sozialgesetzbuch und Vertrag nach \u00a7 111 des F\u00fcnften Buches Sozialgesetzbuch oder \u00a7 111a des F\u00fcnften Buches Sozialgesetzbuch oder Zulassung nach \u00a7 30 der Gewerbeordnung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betten, gegliedert nach Art der F\u00f6rderung und Fachabteilung sowie nach Art der Nutzung und Vertragsbestimmung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">besondere Einrichtungen nach \u00a7 17b Absatz 1 Satz 10 des Krankenhausfinanzierungsgesetzes, gegliedert nach Art und Anzahl der Betten, nach Berechnungs- und Belegungstagen sowie nach der Anzahl der behandelten F\u00e4lle,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art und Zahl der medizinisch-technischen Gro\u00dfger\u00e4te,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art und Zahl der Dialysepl\u00e4tze,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl der Pl\u00e4tze f\u00fcr teilstation\u00e4re Behandlung w\u00e4hrend des Tages und der Nacht, gegliedert nach Fachabteilungen, nach besonderen Einrichtungen nach \u00a7 17b Absatz 1 Satz 10 des Krankenhausfinanzierungsgesetzes sowie nach Einrichtungen f\u00fcr Dialysepatientinnen und -patienten,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art der nicht-bettenf\u00fchrenden Fachabteilungen,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art der Arzneimittelversorgung,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art und Zahl der Pl\u00e4tze sowie ihre Besetzung in Ausbildungsst\u00e4tten f\u00fcr die in \u00a7 2 Nummer 1a des Krankenhausfinanzierungsgesetzes genannten Berufe,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00e4rztliches Personal, gegliedert nach Geschlecht, Geburtsjahr und Besch\u00e4ftigungsverh\u00e4ltnis, bei hauptamtlichem \u00e4rztlichen Personal zus\u00e4tzlich nach Dienststellung, Gebiets- und Teilgebietsbezeichnung; ferner Beleg\u00e4rztinnen und Beleg\u00e4rzte nach Gebiets- und Teilgebietsbezeichnung und von diesen angestelltes \u00e4rztliches Personal nach der Gebiets- und Teilgebietsbezeichnung der anstellenden Beleg\u00e4rztin oder des anstellenden Belegarztes,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht\u00e4rztliches Personal, gegliedert nach Geschlecht, Geburtsjahr, Besch\u00e4ftigungsverh\u00e4ltnis, Funktionsbereich und Berufsbezeichnung, im Pflegedienst auch nach Einsatz in der Psychiatrie, f\u00fcr in Pflegeberufen Ausgebildete zus\u00e4tzlich nach Art der abgeschlossenen Weiterbildung; ferner Personal der Ausbildungsst\u00e4tten nach Geschlecht und Besch\u00e4ftigungsverh\u00e4ltnis sowie Personen in Ausbildung mit oder ohne direktes Besch\u00e4ftigungsverh\u00e4ltnis bei dem Krankenhaus oder der Vorsorge- oder Rehabilitationseinrichtung nach Geschlecht und Besch\u00e4ftigungsverh\u00e4ltnis, zus\u00e4tzlich f\u00fcr Pflegeberufe nach der Art des Pflegeberufes,</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00e4rztliches Personal und nicht\u00e4rztliches Personal umgerechnet auf Vollkr\u00e4fte, bei \u00e4rztlichem Personal gegliedert nach Gebiets- und Teilgebietsbezeichnung, bei nicht\u00e4rztlichem Personal gegliedert nach Funktionsbereich, im Pflegedienst auch nach Berufsbezeichnung, Art der abgeschlossenen Weiterbildung und Fachabteilung; hauptamtliches Personal und Personal ohne direktes Besch\u00e4ftigungsverh\u00e4ltnis bei der Einrichtung sind gesondert auszuweisen,</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">aus dem Krankenhaus oder der Vorsorge- oder Rehabilitationseinrichtung, die \u00fcber mehr als 100 Betten verf\u00fcgt, entlassene vollstation\u00e4r behandelte Patientinnen und Patienten und Sterbef\u00e4lle, gegliedert nach Geschlecht, Geburtsmonat und -jahr, Postleitzahl und Wohnort, in den Stadtstaaten zus\u00e4tzlich nach Stadtteil, Zu- und Abgangsdatum, ferner nach im Zeitpunkt der Entlassung bekannter Hauptdiagnose und nach Fachabteilung mit der l\u00e4ngsten Verweildauer,</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">vorstation\u00e4r, nachstation\u00e4r und teilstation\u00e4r behandelte Patientinnen und Patienten und teilstation\u00e4re Berechnungstage, jeweils gegliedert nach Fachabteilung, nach besonderen Einrichtungen nach \u00a7 17b Absatz 1 Satz 10 des Krankenhausfinanzierungsgesetzes sowie nach Einrichtungen f\u00fcr Dialysepatientinnen und -patienten,</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">Zahl ambulant behandelter Patientinnen und Patienten, gegliedert nach der gesetzlichen Grundlage der Leistungserbringung, bei ambulanten Operationen zus\u00e4tzlich nach der Zahl der in dem Katalog nach \u00a7 115b des F\u00fcnften Buches Sozialgesetzbuch genannten Operationen und der Zahl anderer ambulanter Operationen sowie Zahl ambulanter Notf\u00e4lle,</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">Stufe der Teilnahme an der station\u00e4ren Notfallversorgung nach \u00a7 136c Absatz 4 des F\u00fcnften Buches Sozialgesetzbuch,</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">Art und Zahl der Entbindungen und Geburten,</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA Size=\"normal\">Berechnungs- und Belegungstage, in Vorsorge- oder Rehabilitationseinrichtungen die Pflegetage, sowie Patientenzugang und -abgang einschlie\u00dflich der Einrichtung, in die entlassen wird, jeweils gegliedert nach Art und Zahl sowie nach Fachabteilung,</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf der Grundlage der Krankenhaus-Buchf\u00fchrungsverordnung die Aufwendungen des Krankenhauses nach den Kontenuntergruppen 600 bis 720, 730 bis 742, 781 und 782, nachrichtlich die Zahlungen f\u00fcr Ausbildungsfonds sowie die H\u00f6he der Aufwendungen, die in den vorgenannten Kontenuntergruppen auf Leistungen entfallen, die nicht zu den allgemeinen voll- und teilstation\u00e4ren Krankenhausleistungen geh\u00f6ren (Abz\u00fcge), gegliedert nach einzelnen Personal- und Sachkostenarten; soweit die Ermittlung der Abz\u00fcge mit unverh\u00e4ltnism\u00e4\u00dfig hohem Aufwand verbunden ist, sind sie wirklichkeitsnah zu sch\u00e4tzen.</LA></DD></DL>Die Erhebungsmerkmale nach Satz 1 Nummer 3 bis 9 und 14 bis 19 sind ab dem 1. Januar 2020 f\u00fcr Krankenh\u00e4user nach Standorten gegliedert zu erfassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE000704116",
+        "name": "\u00a7 4",
+        "title": "Hilfsmerkmale",
+        "parent": null,
+        "body": "<P>Hilfsmerkmale sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name des Krankenhaustr\u00e4gers oder des Tr\u00e4gers der Vorsorge- oder Rehabilitationseinrichtung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des Krankenhauses oder der Vorsorge- oder Rehabilitationseinrichtung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Anschrift des Eigent\u00fcmers des Krankenhauses oder der Vorsorge- oder Rehabilitationseinrichtung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Name und Kontaktdaten der f\u00fcr R\u00fcckfragen zur Verf\u00fcgung stehenden Person,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Institutionskennzeichen des Krankenhauses,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">ab dem 1. Januar 2020 die Standorte des Krankenhauses entsprechend dem Verzeichnis nach \u00a7 293 Absatz 6 des F\u00fcnften Buches Sozialgesetzbuch.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE000802116",
+        "name": "\u00a7 5",
+        "title": "Periodizit\u00e4t und Berichtszeitraum",
+        "parent": null,
+        "body": "<P>Die Erhebungen werden j\u00e4hrlich durchgef\u00fchrt. Die Angaben nach \u00a7 3 Satz 1 Nummer 1, 2, 5 bis 12 und 17 werden jeweils nach dem Stand vom 31. Dezember eines jeden Kalenderjahres, die Angaben nach \u00a7 3 Satz 1 Nummer 3, 4, 13 bis 16 und 18 bis 19 jeweils f\u00fcr das abgelaufene Kalenderjahr, die Angaben nach \u00a7 3 Satz 1 Nummer 20 jeweils f\u00fcr das abgelaufene Gesch\u00e4ftsjahr erhoben. Die Angaben nach \u00a7 3 Satz 1 Nummer 1 bis 19 sind bis zum 1. April und die Angaben nach \u00a7 3 Satz 1 Nummer 20 bis zum 30. Juni des Folgejahres dem zust\u00e4ndigen Statistischen Landesamt zu melden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE000902116",
+        "name": "\u00a7 6",
+        "title": "Auskunftspflicht",
+        "parent": null,
+        "body": "<P>(1) F\u00fcr die Erhebung besteht Auskunftspflicht. Die Angaben zu \u00a7 4 Nummer 4 sind freiwillig.</P><P>(2) Auskunftspflichtig sind die Tr\u00e4ger oder die Eigent\u00fcmer der Krankenh\u00e4user und der Vorsorge- oder Rehabilitationseinrichtungen.</P><P>(3) Folgende Angaben sind zu machen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>f\u00fcr die Krankenh\u00e4user: Angaben zu den Erhebungsmerkmalen nach \u00a7 3 Satz 1 Nummer 1 bis 20,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>f\u00fcr die Vorsorge- oder Rehabilitationseinrichtungen: Angaben nach \u00a7 3 Satz 1 Nummer 1 bis 3, 5, 11 bis 14 und 19 und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>f\u00fcr die Krankenh\u00e4user, deren Tr\u00e4ger der Bund ist: Angaben zu den Erhebungsmerkmalen nach \u00a7 3 Satz 1 Nummer 1 bis 8, 14, 17 und 19, wenn Leistungen f\u00fcr Zivilpatientinnen und Zivilpatienten erbracht werden.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE001001116",
+        "name": "\u00a7 7",
+        "title": "\u00dcbermittlung, Ver\u00f6ffentlichung",
+        "parent": null,
+        "body": "<P>(1) Das Statistische Bundesamt und die Statistischen Landes\u00e4mter d\u00fcrfen den fachlich zust\u00e4ndigen obersten Bundes- und Landesbeh\u00f6rden Tabellen mit statistischen Ergebnissen \u00fcbermitteln f\u00fcr <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Verwendung gegen\u00fcber den gesetzgebenden K\u00f6rperschaften und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Zwecke der Planung, jedoch nicht f\u00fcr die Regelung von Einzelf\u00e4llen.</LA></DD></DL>Satz 1 gilt auch, wenn Tabellenfelder nur einen einzigen Fall ausweisen. F\u00fcr Tabellen mit statistischen Ergebnissen mit diagnosebezogenen Daten nach \u00a7 3 Satz 1 Nummer 14 gilt, dass diese nicht Daten unterhalb der Kreisebene ausweisen d\u00fcrfen.</P><P>(2) Die Statistischen Landes\u00e4mter d\u00fcrfen den obersten Landesbeh\u00f6rden f\u00fcr Zwecke der Krankenhausplanung Tabellen mit statistischen Ergebnissen nach Absatz 1 Satz 1 mit diagnosebezogenen Daten nach \u00a7 3 Satz 1 Nummer 14 f\u00fcr einzelne Krankenh\u00e4user \u00fcbermitteln, wenn nicht mehr als die folgenden Daten verbunden werden: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>bei Diagnosestatistiken die Hauptdiagnose, gegliedert nach Altersgruppen, in Verbindung mit Patientenzahl und Verweildauer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bei Einzugsgebietsstatistiken die Postleitzahl und der Wohnort, in Stadtstaaten zus\u00e4tzlich die Stadtteile, in Verbindung mit Fachabteilung, Hauptdiagnose und Patientenzahl.</LA></DD></DL></P><P>(3) Die Statistischen Landes\u00e4mter sind berechtigt, j\u00e4hrlich ein Verzeichnis mit folgenden Angaben zu ver\u00f6ffentlichen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Name, Anschrift, Tr\u00e4ger oder Eigent\u00fcmer, Art, Fachabteilungen, Standort, Stufe der Teilnahme an der station\u00e4ren Notfallversorgung nach \u00a7 136c Absatz 4 des F\u00fcnften Buches Sozialgesetzbuch und Bettenzahl von Krankenh\u00e4usern,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Name, Anschrift, Tr\u00e4ger oder Eigent\u00fcmer, Art, Fachabteilungen und Bettenzahl von Vorsorge- oder Rehabilitationseinrichtungen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE001201320",
+        "name": "\u00a7 8",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Diese Verordnung tritt vorbehaltlich des Satzes 2 mit Wirkung vom 1. Januar 1990 in Kraft. Es treten \u00a7 3 Nr. 11 bis 13 am 1. Januar 1991 und \u00a7 3 Nr. 14 am 1. Januar 1993 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007300990BJNE001300308",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

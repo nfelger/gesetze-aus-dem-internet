@@ -1,0 +1,93 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR021519974",
+    "firstPublished": "1974-09-02",
+    "sourceTimestamp": "20120625152346",
+    "titleShort": null,
+    "titleLong": "Zweites Gesetz zur \u00c4nderung des Di\u00e4tengesetzes 1968",
+    "abbreviation": "Di\u00e4tenG\u00c4ndG 2",
+    "slug": "diaetengaendg_2",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1974, 2151",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  6. 9.1974 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR021519974BJNG000100314",
+        "name": "Art I",
+        "title": null,
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021519974BJNE000400314",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR021519974BJNG000100314"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021519974BJNE000500314",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR021519974BJNG000100314"
+        },
+        "body": "<P>\u00a7 1 gilt auch f\u00fcr die vor dem Inkrafttreten dieses Gesetzes aus dem Bundestag ausgeschiedenen Mitglieder sowie f\u00fcr ihre Hinterbliebenen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021519974BJNG000200314",
+        "name": "Art II",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz gilt nach Ma\u00dfgabe des \u00a7 12 Abs. 1 und des \u00a7 13 Abs. 1 des Dritten \u00dcberleitungsgesetzes vom 4. Januar 1952 (Bundesgesetzbl. I S. 1) auch im Land Berlin.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021519974BJNG000300314",
+        "name": "Art III",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt am Tage nach seiner Verk\u00fcndung in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR021519974BJNE000600314",
+        "name": "Schlu\u00dfformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Die Bundesregierung hat dem vorstehenden Gesetz die nach Artikel 113 des Grundgesetzes erforderliche Zustimmung erteilt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

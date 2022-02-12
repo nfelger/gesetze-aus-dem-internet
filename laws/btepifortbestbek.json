@@ -1,0 +1,48 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR039700021",
+    "firstPublished": "2021-03-26",
+    "sourceTimestamp": "20210621212512",
+    "titleShort": null,
+    "titleLong": "Bekanntmachung des Beschlusses des Deutschen Bundestages \u00fcber die Feststellung des Fortbestehens der epidemischen Lage von nationaler Tragweite",
+    "abbreviation": "BTEpiFortbestBek",
+    "slug": "btepifortbestbek",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2021, 397",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 30.3.2021 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR039700021BJNE000100000",
+        "name": "(XXXX)",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Deutsche Bundestag hat in seiner 215. Sitzung am 4. M\u00e4rz 2021 beschlossen (Plenarprotokoll 19/215, S. 27052 (C)):</P><P>Der Deutsche Bundestag stellt fest, dass die epidemische Lage von nationaler Tragweite, die der Deutsche Bundestag am 25. M\u00e4rz 2020 aufgrund der Ausbreitung des neuartigen Coronavirus SARS-CoV-2 f\u00fcr die Bundesrepublik Deutschland mit Wirkung zum 28. M\u00e4rz 2020 festgestellt hat und deren Fortbestehen der Deutsche Bundestag am 18. November 2020 festgestellt hat, fortbesteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR039700021BJNE000200000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P><SP>Bundesministerium f\u00fcr Gesundheit</SP></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

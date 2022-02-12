@@ -1,0 +1,603 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR287910016",
+    "firstPublished": "2016-12-14",
+    "sourceTimestamp": "20211130213201",
+    "titleShort": "Elektromagnetische-Vertr\u00e4glichkeit-Gesetz",
+    "titleLong": "Gesetz \u00fcber die elektromagnetische Vertr\u00e4glichkeit von Betriebsmitteln<FnR ID=\"F796193_01_BJNR287910016\" />",
+    "abbreviation": "EMVG",
+    "slug": "emvg",
+    "extraAbbreviations": [
+      "EMVG 2016"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2016, 2879",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 3 Abs. 1 G v. 27.6.2017 I 1947",
+        "category": "Stand"
+      },
+      {
+        "comment": "\u00c4nderung durch Art. 51 G v. 23.6.2021 I 1858 (Nr. 35) textlich nachgewiesen, dokumentarisch noch nicht abschlie\u00dfend bearbeitet",
+        "category": "Hinweis"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"*\" Group=\"column\" ID=\"F796193_01_BJNR287910016\" Pos=\"normal\"><noindex>Dieses Gesetz dient der Umsetzung der Richtlinie 2014/30/EU des Europ\u00e4ischen Parlaments und des Rates vom 26. Februar 2014 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten \u00fcber die elektromagnetische Vertr\u00e4glichkeit (Neufassung) (ABl. L 96 vom 29.3.2014, S. 79).</noindex></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 22.12.2016 +++)<BR />(+++ Zur Anwendung vgl. \u00a7\u00a7 1 Abs. 3, 2 Abs. 1, 2 u. 3 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Umsetzung der<BR />       EURL 30/2014            (CELEX Nr: 32014L0030) +++)<BR /><BR /></pre>Das G wurde als Artikel 1 des G v. 14.12.2016 I 2879 vom Bundestag beschlossen.  Es ist gem. Art. 3 Satz 1 dieses G am 22.12.2016 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000100000",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<Ident Class=\"S1\">Abschnitt 1</Ident><Title Align=\"auto\" Class=\"S1\">Allgemeine Vorschriften</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a01</entry><entry VJ=\"1\" colname=\"col2\">Anwendungsbereich</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a02</entry><entry VJ=\"1\" colname=\"col2\">Einschr\u00e4nkungen des Anwendungsbereichs</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a03</entry><entry VJ=\"1\" colname=\"col2\">Begriffsbestimmungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a04</entry><entry VJ=\"1\" colname=\"col2\">Grundlegende Anforderungen an die elektromagnetische Vertr\u00e4glichkeit</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a05</entry><entry VJ=\"1\" colname=\"col2\">Besondere Anforderungen an die Installation ortsfester Anlagen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a06</entry><entry VJ=\"1\" colname=\"col2\">Bereitstellung auf dem Markt, Inbetriebnahme</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a07</entry><entry VJ=\"1\" colname=\"col2\">Besondere Regelungen zum freien Warenverkehr</entry></row></tbody></tgroup></table><P /><Ident Class=\"S1\">Abschnitt 2</Ident><Title Align=\"auto\" Class=\"S1\">Pflichten der Wirtschaftsakteure</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7\u00a0 8</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Pflichten des Herstellers</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 \u00a09</entry><entry VJ=\"1\" colname=\"col2\">Kennzeichnungs- und Informationspflichten des Herstellers</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 10</entry><entry VJ=\"1\" colname=\"col2\">Bevollm\u00e4chtigter des Herstellers</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 11</entry><entry VJ=\"1\" colname=\"col2\">Allgemeine Pflichten des Einf\u00fchrers</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 12</entry><entry VJ=\"1\" colname=\"col2\">Kennzeichnungs- und Informationspflichten des Einf\u00fchrers</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 13</entry><entry VJ=\"1\" colname=\"col2\">Pflichten des H\u00e4ndlers</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 14</entry><entry VJ=\"1\" colname=\"col2\">Einf\u00fchrer oder H\u00e4ndler als Hersteller</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 15</entry><entry VJ=\"1\" colname=\"col2\">Identifizierung der Wirtschaftsakteure</entry></row></tbody></tgroup></table><P /><Ident Class=\"S1\">Abschnitt 3</Ident><Title Align=\"auto\" Class=\"S1\">Konformit\u00e4t der Betriebsmittel</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 16</entry><entry VJ=\"1\" colname=\"col2\">Konformit\u00e4tsvermutung bei Betriebsmitteln</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 17</entry><entry VJ=\"1\" colname=\"col2\">Konformit\u00e4tsbewertungsverfahren f\u00fcr Ger\u00e4te</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 18</entry><entry VJ=\"1\" colname=\"col2\">CE-Kennzeichnung von Ger\u00e4ten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 19</entry><entry VJ=\"1\" colname=\"col2\">Montage und Gebrauchsanleitung f\u00fcr Ger\u00e4te, Hinweise auf Nutzungsbeschr\u00e4nkungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 20</entry><entry VJ=\"1\" colname=\"col2\">Ortsfeste Anlagen</entry></row></tbody></tgroup></table><P /><Ident Class=\"S1\">Abschnitt 4</Ident><Title Align=\"auto\" Class=\"S1\">Notifizierung von<BR /> Konformit\u00e4tsbewertungsstellen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 21</entry><entry VJ=\"1\" colname=\"col2\">Notifizierende Beh\u00f6rde, Verordnungserm\u00e4chtigung</entry></row></tbody></tgroup></table><P /><Ident Class=\"S1\">Abschnitt 5</Ident><Title Align=\"auto\" Class=\"S1\">Bundesnetzagentur</Title><P /><Ident Class=\"S0\">Unterabschnitt 1</Ident><Title Align=\"auto\" Class=\"S0\">Zust\u00e4ndigkeiten und Befugnisse</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 22</entry><entry VJ=\"1\" colname=\"col2\">Zust\u00e4ndigkeiten und Befugnisse der Bundesnetzagentur</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Unterabschnitt 2</Ident><Title Align=\"auto\" Class=\"S0\">Markt\u00fcberwachung und St\u00f6rungsbearbeitung</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23</entry><entry VJ=\"1\" colname=\"col2\">Ma\u00dfnahmen der Markt\u00fcberwachung bei Ger\u00e4ten, mit denen ein Risiko verbunden ist</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 23a</entry><entry VJ=\"1\" colname=\"col2\">Ma\u00dfnahmen auf Messen und Ausstellungen</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 24</entry><entry VJ=\"1\" colname=\"col2\">Ma\u00dfnahmen bei formaler Nichtkonformit\u00e4t</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 25</entry><entry VJ=\"1\" colname=\"col2\">Pflichten der Bundesnetzagentur bei Nichtkonformit\u00e4t von Ger\u00e4ten, mit denen ein Risiko verbunden ist, die sich nicht auf das deutsche Hoheitsgebiet beschr\u00e4nken</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 26</entry><entry VJ=\"1\" colname=\"col2\">Pflichten der Bundesnetzagentur bei Nichtkonformit\u00e4t von Ger\u00e4ten, mit denen ein Risiko verbunden ist, bei Ma\u00dfnahmen anderer Mitgliedstaaten</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 27</entry><entry VJ=\"1\" colname=\"col2\">Befugnisse bei der St\u00f6rungsbearbeitung, Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 28</entry><entry VJ=\"1\" colname=\"col2\">Besondere Eingriffsbefugnisse bei der St\u00f6rungsbearbeitung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 29</entry><entry VJ=\"1\" colname=\"col2\">Auskunftsrechte</entry></row></tbody></tgroup></table><P /><Ident Class=\"S0\">Unterabschnitt 3</Ident><Title Align=\"auto\" Class=\"S0\">Zwangsgeld und Beitr\u00e4ge, Vorverfahren</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 30</entry><entry VJ=\"1\" colname=\"col2\">Zwangsgeld</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 31</entry><entry VJ=\"1\" colname=\"col2\">Beitr\u00e4ge, Verordnungserm\u00e4chtigung</entry></row><row><entry VJ=\"1\" colname=\"col1\">\u00a7 32</entry><entry VJ=\"1\" colname=\"col2\">Vorverfahren</entry></row></tbody></tgroup></table><P /><Ident Class=\"S1\">Abschnitt 6</Ident><Title Align=\"auto\" Class=\"S1\">Bu\u00dfgeldvorschriften</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colwidth=\"10*\" /><colspec colname=\"col2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 33</entry><entry VJ=\"1\" colname=\"col2\">Bu\u00dfgeldvorschriften</entry></row></tbody></tgroup></table><P /><Ident Class=\"S1\">Abschnitt 7</Ident><Title Align=\"auto\" Class=\"S1\">Schlussbestimmungen</Title><table colsep=\"0\" frame=\"none\" pgwide=\"1\" rowsep=\"0\" tocentry=\"%yes;\"><tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\"><colspec colname=\"col1\" colnum=\"1\" colwidth=\"10*\" /><colspec colname=\"col2\" colnum=\"2\" colwidth=\"75*\" /><tbody valign=\"top\"><row><entry VJ=\"1\" colname=\"col1\">\u00a7 34</entry><entry VJ=\"1\" colname=\"col2\">\u00dcbergangsbestimmungen</entry></row></tbody></tgroup></table>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000100000"
+        },
+        "body": "<P>(1) Dieses Gesetz gilt f\u00fcr alle Betriebsmittel, die elektromagnetische St\u00f6rungen verursachen k\u00f6nnen oder deren Betrieb durch elektromagnetische St\u00f6rungen beeintr\u00e4chtigt werden kann.</P><P>(2) Die Rechtsvorschriften der Europ\u00e4ischen Union und die nationalen Rechtsvorschriften f\u00fcr die Sicherheit von Betriebsmitteln bleiben unber\u00fchrt.</P><P>(3) Werden in Rechtsvorschriften der Europ\u00e4ischen Union spezifischere Festlegungen f\u00fcr Anforderungen an Betriebsmittel nach den \u00a7\u00a7 4 und 5 getroffen, so gelten die entsprechenden Anforderungen der \u00a7\u00a7 4 und 5 nicht oder nicht mehr ab dem Datum der Anwendung dieser Rechtsvorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000301123",
+        "name": "\u00a7 2",
+        "title": "Einschr\u00e4nkungen des Anwendungsbereichs",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000100000"
+        },
+        "body": "<P>(1) Auf Ger\u00e4te im Sinne des Funkanlagengesetzes vom 27. Juni 2017 (BGBl. I S. 1947) sind nur die \u00a7\u00a7 27 und 30 dieses Gesetzes entsprechend anzuwenden.</P><P>(2) Auf Funkger\u00e4te und Baus\u00e4tze, die von Funkamateuren nach \u00a7 2 Nummer 1 des Amateurfunkgesetzes zusammengebaut werden, und handels\u00fcbliche Ger\u00e4te, die von Funkamateuren zur Nutzung durch Funkamateure umgebaut werden, finden nur die \u00a7\u00a7 27 bis 32 entsprechende Anwendung. Werden Betriebsmittel im Sinne des \u00a7 1 jedoch auf dem Markt bereitgestellt, findet dieses Gesetz insgesamt Anwendung.</P><P>(3) Auf folgende Betriebsmittel finden nur die \u00a7\u00a7 27 bis 30 dieses Gesetzes entsprechende Anwendung: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>luftfahrttechnische Erzeugnisse, Teile und Ausr\u00fcstungen nach der Verordnung (EG) Nr. 216/2008 des Europ\u00e4ischen Parlaments und des Rates vom 20. Februar 2008 zur Festlegung gemeinsamer Vorschriften f\u00fcr die Zivilluftfahrt und zur Errichtung einer Europ\u00e4ischen Agentur f\u00fcr Flugsicherheit, zur Aufhebung der Richtlinie 91/670/EWG des Rates, der Verordnung (EG) Nr. 1592/2002 und der Richtlinie 2004/36/EG (ABl. L 79 vom 19.3.2008, S. 1),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Betriebsmittel, die <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>aufgrund ihrer physikalischen Eigenschaften eine so niedrige elektromagnetische Emission haben oder in so geringem Umfang zur elektromagnetischen Emission beitragen, dass ein bestimmungsgem\u00e4\u00dfer Betrieb von Funk- und Telekommunikationsger\u00e4ten und sonstigen Betriebsmitteln in ihrer Umgebung m\u00f6glich ist, und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>unter Einfluss der bei ihrem Einsatz \u00fcblichen elektromagnetischen St\u00f6rungen ohne unzumutbare Beeintr\u00e4chtigung betrieben werden k\u00f6nnen,</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>kunden- und anwendungsspezifisch angefertigte Erprobungsmodule, die von Fachleuten ausschlie\u00dflich in Forschungs- und Entwicklungseinrichtungen f\u00fcr Forschungs- und Entwicklungszwecke verwendet werden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Betriebsmittel, die <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>ausschlie\u00dflich zur Erf\u00fcllung milit\u00e4rischer zwischenstaatlicher Verpflichtungen bestimmt sind oder ihrer Bauart nach zur Verwendung f\u00fcr Zwecke der Verteidigung bestimmt sind oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>f\u00fcr die Verfolgung von Straftaten und Ordnungswidrigkeiten oder f\u00fcr die \u00f6ffentliche Sicherheit eingesetzt werden.</LA></DD></DL></LA></DD></DL></P><P>(4) Entsprechend gilt ebenfalls die Besondere Geb\u00fchrenverordnung des Bundesministeriums f\u00fcr Wirtschaft und Energie nach \u00a7 22 Absatz 4 des Bundesgeb\u00fchrengesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000100000"
+        },
+        "body": "<P>Im Sinne dieses Gesetzes <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>sind \u201eBetriebsmittel\u201c Ger\u00e4te und ortsfeste Anlagen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>ist \u201eGer\u00e4t\u201c <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>ein f\u00fcr den Endnutzer bestimmtes fertiges Produkt mit einer eigenst\u00e4ndigen Funktion, das elektromagnetische St\u00f6rungen verursachen kann oder dessen Betrieb durch elektromagnetische St\u00f6rungen beeintr\u00e4chtigt werden kann,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>eine Verbindung von Produkten nach Buchstabe a, die als Funktionseinheit auf dem Markt bereitgestellt werden,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>ein Bauteil, das dazu bestimmt ist, vom Endnutzer in ein Ger\u00e4t eingebaut zu werden und das elektromagnetische St\u00f6rungen verursachen kann oder dessen Betrieb durch elektromagnetische St\u00f6rungen beeintr\u00e4chtigt werden kann,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>eine Baugruppe, die aus Bauteilen nach Buchstabe c besteht,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA>ein serienm\u00e4\u00dfig vorbereiteter Baukasten, der nach der Montage eine eigenst\u00e4ndige Funktion erf\u00fcllt und elektromagnetische St\u00f6rungen verursachen kann, oder</LA></DD><DT>f)</DT><DD Font=\"normal\"><LA>eine bewegliche Anlage; bewegliche Anlage ist eine Verbindung von Ger\u00e4ten oder anderen Einrichtungen zu dem Zweck, an verschiedenen Orten betrieben zu werden;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>ist \u201eortsfeste Anlage\u201c eine besondere Verbindung von Ger\u00e4ten oder anderen Einrichtungen zu dem Zweck, auf Dauer an einem vorbestimmten Ort installiert und betrieben zu werden;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>ist \u201eelektromagnetische Vertr\u00e4glichkeit\u201c die F\u00e4higkeit eines Betriebsmittels, in seiner elektromagnetischen Umgebung zufriedenstellend zu arbeiten, ohne elektromagnetische St\u00f6rungen zu verursachen, die f\u00fcr andere in dieser Umgebung vorhandene Betriebsmittel unannehmbar w\u00e4ren;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>ist \u201eelektromagnetische St\u00f6rung\u201c jede elektromagnetische Erscheinung, die die Funktion eines Betriebsmittels beeintr\u00e4chtigen k\u00f6nnte; eine elektromagnetische St\u00f6rung kann ein elektromagnetisches Rauschen, ein unerw\u00fcnschtes Signal oder eine Ver\u00e4nderung des Ausbreitungsmediums selbst sein;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>ist \u201eSt\u00f6rfestigkeit\u201c die F\u00e4higkeit eines Betriebsmittels, unter Einfluss einer elektromagnetischen St\u00f6rung ohne Funktionsbeeintr\u00e4chtigung zu arbeiten;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>ist \u201eelektromagnetische Umgebung\u201c die Summe aller elektromagnetischen Erscheinungen, die an einem bestimmten Ort festgestellt werden kann;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>sind \u201eSicherheitszwecke\u201c Zwecke zum Schutz des menschlichen Lebens oder von G\u00fctern;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>ist \u201eBereitstellen auf dem Markt\u201c jede entgeltliche oder unentgeltliche Abgabe eines Ger\u00e4ts zum Vertrieb, zum Verbrauch oder zur Verwendung auf dem Markt der Europ\u00e4ischen Union im Rahmen einer Gesch\u00e4ftst\u00e4tigkeit;</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>ist \u201eInverkehrbringen\u201c das erstmalige Bereitstellen eines Ger\u00e4tes auf dem Markt;</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>ist \u201eHersteller\u201c jede nat\u00fcrliche oder juristische Person oder rechtsf\u00e4hige Personengesellschaft, die ein Ger\u00e4t herstellt, entwickeln oder herstellen l\u00e4sst und dieses Ger\u00e4t unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke vermarktet;</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>ist \u201eBevollm\u00e4chtigter\u201c jede in der Europ\u00e4ischen Union ans\u00e4ssige nat\u00fcrliche oder juristische Person oder rechtsf\u00e4hige Personengesellschaft, die ein Hersteller schriftlich beauftragt hat, in seinem Namen bestimmte Aufgaben wahrzunehmen;</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>ist \u201eEinf\u00fchrer\u201c jede in der Europ\u00e4ischen Union ans\u00e4ssige nat\u00fcrliche oder juristische Person oder rechtsf\u00e4hige Personengesellschaft, die ein Ger\u00e4t aus einem Drittstaat auf dem Markt in Verkehr bringt;</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA>ist \u201eH\u00e4ndler\u201c jede nat\u00fcrliche oder juristische Person oder rechtsf\u00e4hige Personengesellschaft in der Lieferkette, die ein Ger\u00e4t auf dem Markt bereitstellt, mit Ausnahme des Herstellers oder des Einf\u00fchrers;</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA>sind \u201eWirtschaftsakteure\u201c der Hersteller, der Bevollm\u00e4chtigte, der Einf\u00fchrer und der H\u00e4ndler;</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA>ist \u201eSenderbetreiber\u201c derjenige, dem Frequenzen zum Betreiben von Sendefunkger\u00e4ten oder Funknetzen zugeteilt sind;</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA>ist \u201etechnische Spezifikation\u201c ein Dokument, in dem die technischen Anforderungen vorgeschrieben sind, denen ein Betriebsmittel gen\u00fcgen muss;</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA>ist \u201eharmonisierte Norm\u201c eine Norm gem\u00e4\u00df Artikel 2 Absatz 1 Buchstabe c der Verordnung (EU) Nr. 1025/2012 des Europ\u00e4ischen Parlaments und des Rates vom 25. Oktober 2012 zur europ\u00e4ischen Normung, zur \u00c4nderung der Richtlinien <NB>89/686/EWG</NB> und 93/15/EWG des Rates sowie der Richtlinien 94/9/EG, 94/25/EG, 95/16/EG, <NB>97/23/EG,</NB> 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG und 2009/105/EG des Europ\u00e4ischen Parlaments und des Rates und zur Aufhebung des Beschlusses 87/95/EWG des Rates und des Beschlusses Nr. 1673/2006/EG des Europ\u00e4ischen Parlaments und des Rates (ABl. L 316 vom 14.11.2012, S. 12);</LA></DD><DT>19.</DT><DD Font=\"normal\"><LA>ist \u201eAkkreditierung\u201c die Best\u00e4tigung durch eine nationale Akkreditierungsstelle, dass eine Konformit\u00e4tsbewertungsstelle die in harmonisierten Normen festgelegten Anforderungen und gegebenenfalls national festgelegte zus\u00e4tzliche Anforderungen, einschlie\u00dflich solcher in relevanten sektoralen Akkreditierungssystemen, erf\u00fcllt, um eine spezielle Konformit\u00e4tsbewertungst\u00e4tigkeit durchzuf\u00fchren;</LA></DD><DT>20.</DT><DD Font=\"normal\"><LA>ist \u201eKonformit\u00e4tsbewertung\u201c das Verfahren zur Bewertung, ob ein Ger\u00e4t die Anforderungen des \u00a7 4 erf\u00fcllt;</LA></DD><DT>21.</DT><DD Font=\"normal\"><LA>ist \u201enotifizierte Stelle\u201c eine Stelle, die Konformit\u00e4tsbewertungst\u00e4tigkeiten, einschlie\u00dflich Kalibrierungen, Pr\u00fcfungen, Zertifizierungen und Inspektionen, durchf\u00fchrt und nach \u00a7 21 notifiziert ist;</LA></DD><DT>22.</DT><DD Font=\"normal\"><LA>ist \u201eR\u00fcckruf\u201c jede Ma\u00dfnahme, die darauf abzielt, die R\u00fcckgabe eines dem Endnutzer bereitgestellten Ger\u00e4tes zu erwirken;</LA></DD><DT>23.</DT><DD Font=\"normal\"><LA>ist \u201eR\u00fccknahme\u201c jede Ma\u00dfnahme, mit der verhindert werden soll, dass ein Ger\u00e4t, das sich in der Lieferkette befindet, auf dem Markt bereitgestellt wird;</LA></DD><DT>24.</DT><DD Font=\"normal\"><LA>ist \u201eCE-Kennzeichnung\u201c die Kennzeichnung, durch die der Hersteller erkl\u00e4rt, dass das Ger\u00e4t den Anforderungen gen\u00fcgt, die in den Harmonisierungsrechtsvorschriften der Europ\u00e4ischen Union, die ihre Anbringung vorschreiben, festgelegt sind;</LA></DD><DT>25.</DT><DD Font=\"normal\"><LA>ist \u201eEU-Konformit\u00e4tserkl\u00e4rung\u201c eine Erkl\u00e4rung gem\u00e4\u00df Artikel 15 der Richtlinie 2014/30/EU;</LA></DD><DT>26.</DT><DD Font=\"normal\"><LA>sind \u201eHarmonisierungsvorschriften der Europ\u00e4ischen Union\u201c Rechtsvorschriften der Europ\u00e4ischen Union zur Harmonisierung der Bedingungen f\u00fcr die Vermarktung von Produkten;</LA></DD><DT>27.</DT><DD Font=\"normal\"><LA>ist \u201eBundesnetzagentur\u201c die Bundesnetzagentur f\u00fcr Elektrizit\u00e4t, Gas, Telekommunikation, Post und Eisenbahnen;</LA></DD><DT>28.</DT><DD Font=\"normal\"><LA>ist \u201eStand der Technik\u201c der allgemein anerkannte Stand der Technik in Bezug auf die elektromagnetische Vertr\u00e4glichkeit entsprechend den harmonisierten Normen;</LA></DD><DT>29.</DT><DD Font=\"normal\"><LA>sind \u201eallgemein anerkannte Regeln der Technik\u201c technische Festlegungen f\u00fcr Verfahren, Einrichtungen und Betriebsweisen, die nach der herrschenden Auffassung der beteiligten Kreise geeignet sind, die elektromagnetische Vertr\u00e4glichkeit zu gew\u00e4hrleisten, und die sich in der Praxis bew\u00e4hrt haben.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Grundlegende Anforderungen an die elektromagnetische Vertr\u00e4glichkeit",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000100000"
+        },
+        "body": "<P>Betriebsmittel m\u00fcssen nach dem Stand der Technik so entworfen und hergestellt sein, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die von ihnen verursachten elektromagnetischen St\u00f6rungen keinen Pegel erreichen, bei dem ein bestimmungsgem\u00e4\u00dfer Betrieb von Funk- und Telekommunikationsger\u00e4ten oder anderen Betriebsmitteln nicht m\u00f6glich ist;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>sie gegen die bei bestimmungsgem\u00e4\u00dfem Betrieb zu erwartenden elektromagnetischen St\u00f6rungen hinreichend unempfindlich sind, um ohne unzumutbare Beeintr\u00e4chtigung bestimmungsgem\u00e4\u00df arbeiten zu k\u00f6nnen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 4: Zur Anwendung vgl. \u00a7 1 Abs. 3 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Besondere Anforderungen an die Installation ortsfester Anlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000100000"
+        },
+        "body": "<P>Ortsfeste Anlagen m\u00fcssen zus\u00e4tzlich zu den Anforderungen des \u00a7 4 nach den allgemein anerkannten Regeln der Technik installiert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 5: Zur Anwendung vgl. \u00a7 1 Abs. 3 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Bereitstellung auf dem Markt, Inbetriebnahme",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000100000"
+        },
+        "body": "<P>Betriebsmittel d\u00fcrfen nur auf dem Markt bereitgestellt, weitergegeben und in Betrieb genommen werden, wenn sie bei ordnungsgem\u00e4\u00dfer Installierung und Wartung sowie bestimmungsgem\u00e4\u00dfer Verwendung die Anforderungen dieses Gesetzes erf\u00fcllen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000801123",
+        "name": "\u00a7 7",
+        "title": "Besondere Regelungen zum freien Warenverkehr",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000100000"
+        },
+        "body": "<P>(1) Die Bereitstellung von Betriebsmitteln auf dem Markt oder die Inbetriebnahme von Betriebsmitteln, die die Anforderungen dieses Gesetzes erf\u00fcllen, darf nicht aus Gr\u00fcnden verboten werden, die mit der elektromagnetischen Vertr\u00e4glichkeit zusammenh\u00e4ngen.</P><P>(2) Ein Wirtschaftsakteur darf Betriebsmittel, die die Anforderungen dieses Gesetzes nicht erf\u00fcllen, auf Messen, Ausstellungen und \u00e4hnlichen Veranstaltungen aufstellen und vorf\u00fchren, wenn er die Betriebsmittel mit dem Hinweis versieht, dass sie erst dann auf dem Markt bereitgestellt oder in Betrieb genommen werden d\u00fcrfen, wenn sie die Anforderungen dieses Gesetzes erf\u00fcllen. Bei Vorf\u00fchrungen sind zus\u00e4tzlich geeignete Ma\u00dfnahmen zur Vermeidung elektromagnetischer St\u00f6rungen zu treffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Pflichten der Wirtschaftsakteure",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Allgemeine Pflichten des Herstellers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000200000"
+        },
+        "body": "<P>(1) Der Hersteller hat sicherzustellen, wenn er Ger\u00e4te in Verkehr bringt, dass sie nach den Anforderungen des \u00a7 4 entworfen und hergestellt wurden.</P><P>(2) Der Hersteller darf Ger\u00e4te nur in Verkehr bringen, wenn das Konformit\u00e4tsbewertungsverfahren nach \u00a7 17 Absatz 1 Satz 1 durchgef\u00fchrt wurde. Wurde mit dem Konformit\u00e4tsbewertungsverfahren nachgewiesen, dass das Ger\u00e4t die Anforderungen des \u00a7 4 erf\u00fcllt, so stellt der Hersteller f\u00fcr das Ger\u00e4t eine EU-Konformit\u00e4tserkl\u00e4rung aus und bringt die CE-Kennzeichnung gem\u00e4\u00df \u00a7 18 an.</P><P>(3) Der Hersteller hat die technischen Unterlagen und die EU-Konformit\u00e4tserkl\u00e4rung nach dem Inverkehrbringen des letzten Ger\u00e4tes zehn Jahre lang f\u00fcr die Bundesnetzagentur zur Einsicht bereitzuhalten.</P><P>(4) Der Hersteller hat durch geeignete Verfahren sicherzustellen, dass bei Serienfertigung stets Konformit\u00e4t mit den Anforderungen dieses Gesetzes sichergestellt ist. \u00c4nderungen am Entwurf oder an den Merkmalen eines Ger\u00e4tes sowie \u00c4nderungen der harmonisierten Normen oder anderer technischer Spezifikationen, auf die in der EU-Konformit\u00e4tserkl\u00e4rung oder der Konformit\u00e4tsbescheinigung verwiesen wird, sind angemessen zu ber\u00fccksichtigen.</P><P>(5) Hat der Hersteller Kenntnis davon oder Grund zu der Annahme, dass ein von ihm in Verkehr gebrachtes Ger\u00e4t nicht den Anforderungen dieses Gesetzes entspricht, so ergreift er unverz\u00fcglich die erforderlichen Korrekturma\u00dfnahmen, um die Konformit\u00e4t herzustellen. Erforderlichenfalls nimmt der Hersteller das Ger\u00e4t zur\u00fcck oder ruft es zur\u00fcck. Ist mit dem Ger\u00e4t ein Risiko verbunden, so informiert der Hersteller unverz\u00fcglich die Bundesnetzagentur sowie die Markt\u00fcberwachungsbeh\u00f6rden der Mitgliedstaaten der Europ\u00e4ischen Union, in denen er das Ger\u00e4t auf dem Markt bereitgestellt hat, \u00fcber den Sachverhalt, insbesondere \u00fcber die Art der Nichtkonformit\u00e4t und die ergriffenen Korrekturma\u00dfnahmen.</P><P>(6) W\u00e4hrend der Entwicklung und Erprobung von Ger\u00e4ten hat der Hersteller geeignete Ma\u00dfnahmen zur Vermeidung elektromagnetischer St\u00f6rungen von Betriebsmitteln Dritter zu treffen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Kennzeichnungs- und Informationspflichten des Herstellers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000200000"
+        },
+        "body": "<P>(1) Der Hersteller hat daf\u00fcr zu sorgen, dass seine Ger\u00e4te beim Inverkehrbringen eine Typen-, Chargen- oder Seriennummer oder eine andere Information zu ihrer Identifikation tragen. Falls dies aufgrund der Gr\u00f6\u00dfe oder Art des Ger\u00e4tes nicht m\u00f6glich ist, hat der Hersteller daf\u00fcr zu sorgen, dass die zur Identifikation erforderliche Information auf der Verpackung oder in den dem Ger\u00e4t beigef\u00fcgten Unterlagen angegeben wird.</P><P>(2) Der Hersteller hat beim Inverkehrbringen seinen Namen, seinen eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie seine Postanschrift auf dem Ger\u00e4t anzugeben. Falls dies aufgrund der Gr\u00f6\u00dfe oder Art des Ger\u00e4tes nicht m\u00f6glich ist, m\u00fcssen diese Kontaktdaten auf der Verpackung oder auf den dem Ger\u00e4t beigef\u00fcgten Unterlagen angegeben werden. Die Kontaktdaten sind in einer Sprache abzufassen, die von den Endnutzern und der Bundesnetzagentur leicht verstanden werden kann. Bei der Postanschrift handelt es sich um die Anschrift einer zentralen Stelle, unter der der Hersteller kontaktiert werden kann.</P><P>(3) Der Hersteller hat sicherzustellen, dass dem Ger\u00e4t die Informationen nach \u00a7 19 beigef\u00fcgt sind.</P><P>(4) Der Hersteller hat der Bundesnetzagentur auf deren begr\u00fcndetes Verlangen alle Informationen und Unterlagen auf Papier oder elektronisch zur Verf\u00fcgung zu stellen, die f\u00fcr den Nachweis der Konformit\u00e4t des Ger\u00e4tes mit den Anforderungen dieses Gesetzes erforderlich sind. Die Informationen und Unterlagen m\u00fcssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Hersteller hat auf Verlangen der Bundesnetzagentur bei allen Ma\u00dfnahmen zur Abwehr von Risiken mitzuwirken, die mit den Ger\u00e4ten verbunden sind, die er in Verkehr gebracht hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Bevollm\u00e4chtigter des Herstellers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000200000"
+        },
+        "body": "<P>(1) Der Hersteller kann schriftlich einen Bevollm\u00e4chtigten benennen.</P><P>(2) Der Bevollm\u00e4chtigte nimmt die ihm vom Hersteller \u00fcbertragenen Aufgaben f\u00fcr diesen wahr.</P><P>(3) Der Hersteller, der einen Bevollm\u00e4chtigten beauftragt, muss diesem mindestens folgende Aufgaben \u00fcbertragen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Bereithalten der EU-Konformit\u00e4tserkl\u00e4rung und der technischen Unterlagen zehn Jahre lang nach dem Inverkehrbringen des letzten Ger\u00e4tes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Herausgabe aller zum Nachweis der Konformit\u00e4t erforderlichen Informationen und Unterlagen an die Bundesnetzagentur auf deren begr\u00fcndetes Verlangen und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Zusammenarbeit mit der Bundesnetzagentur zur Abwehr von Risiken, die mit den Ger\u00e4ten verbunden sind, die in seinen Aufgabenbereich fallen.</LA></DD></DL></P><P>(4) Die Pflicht nach \u00a7 8 Absatz 1 und die Pflicht zur Erstellung der technischen Unterlagen nach Anhang II Nummer 3 oder Anhang III Nummer 3 Buchstabe c der Richtlinie 2014/30/EU darf der Hersteller nicht dem Bevollm\u00e4chtigten \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Allgemeine Pflichten des Einf\u00fchrers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000200000"
+        },
+        "body": "<P>(1) Der Einf\u00fchrer darf nur Ger\u00e4te in Verkehr bringen, die den Anforderungen dieses Gesetzes gen\u00fcgen.</P><P>(2) Der Einf\u00fchrer darf ein Ger\u00e4t erst in Verkehr bringen, wenn er sichergestellt hat, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Hersteller das Konformit\u00e4tsverfahren nach \u00a7 17 Absatz 1 Satz 1 durchgef\u00fchrt hat,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Ger\u00e4t mit der CE-Kennzeichnung nach \u00a7 18 versehen ist,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>dem Ger\u00e4t die Informationen nach \u00a7 19 beigef\u00fcgt sind und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der Hersteller seine Pflichten nach \u00a7 9 Absatz 1 und 2 erf\u00fcllt hat.</LA></DD></DL></P><P>(3) Hat der Einf\u00fchrer Kenntnis davon oder Grund zu der Annahme, dass ein Ger\u00e4t nicht den Anforderungen des \u00a7 4 entspricht, so darf er dieses Ger\u00e4t erst in Verkehr bringen, wenn die Konformit\u00e4t hergestellt ist. Ist mit dem Ger\u00e4t ein Risiko verbunden, so informiert der Einf\u00fchrer den Hersteller und die Bundesnetzagentur \u00fcber den Sachverhalt.</P><P>(4) Solange sich ein Ger\u00e4t im Verantwortungsbereich des Einf\u00fchrers befindet, hat dieser sicherzustellen, dass die Lagerungs- und Transportbedingungen die \u00dcbereinstimmung des Ger\u00e4tes mit den Anforderungen des \u00a7 4 nicht beeintr\u00e4chtigen.</P><P>(5) Hat der Einf\u00fchrer Kenntnis davon oder Grund zu der Annahme, dass ein von ihm in Verkehr gebrachtes Ger\u00e4t nicht den Anforderungen dieses Gesetzes gen\u00fcgt, so ergreift er unverz\u00fcglich die erforderlichen Korrekturma\u00dfnahmen, um die Konformit\u00e4t herzustellen. Erforderlichenfalls nimmt der Einf\u00fchrer das Ger\u00e4t zur\u00fcck oder ruft es zur\u00fcck. Sind mit dem Ger\u00e4t Risiken verbunden, so informiert der Einf\u00fchrer unverz\u00fcglich die Bundesnetzagentur sowie die Markt\u00fcberwachungsbeh\u00f6rden der Mitgliedstaaten der Europ\u00e4ischen Union, in denen er das Ger\u00e4t auf dem Markt bereitgestellt hat, \u00fcber den Sachverhalt, insbesondere \u00fcber die Art der Nichtkonformit\u00e4t und die ergriffenen Korrekturma\u00dfnahmen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001300000",
+        "name": "\u00a7 12",
+        "title": "Kennzeichnungs- und Informationspflichten des Einf\u00fchrers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000200000"
+        },
+        "body": "<P>(1) Der Einf\u00fchrer hat beim Inverkehrbringen seinen Namen, seinen eingetragenen Handelsnamen oder seine eingetragene Handelsmarke sowie seine Postanschrift auf dem Ger\u00e4t anzugeben. Falls dies aufgrund der Gr\u00f6\u00dfe oder Art des Ger\u00e4tes nicht m\u00f6glich ist, m\u00fcssen diese Kontaktdaten auf der Verpackung oder auf den dem Ger\u00e4t beigef\u00fcgten Unterlagen angegeben werden. Die Kontaktdaten sind in einer Sprache abzufassen, die von den Endnutzern und der Bundesnetzagentur leicht verstanden werden kann.</P><P>(2) Der Einf\u00fchrer hat nach dem Inverkehrbringen des letzten Ger\u00e4tes zehn Jahre lang eine Kopie der EU-Konformit\u00e4tserkl\u00e4rung f\u00fcr die Bundesnetzagentur zur Einsicht bereitzuhalten und daf\u00fcr zu sorgen, dass er auf deren Verlangen die technischen Unterlagen vorlegen kann.</P><P>(3) Der Einf\u00fchrer hat der Bundesnetzagentur auf deren begr\u00fcndetes Verlangen alle Informationen und Unterlagen auf Papier oder elektronisch zur Verf\u00fcgung zu stellen, die f\u00fcr den Nachweis der Konformit\u00e4t des Ger\u00e4tes erforderlich sind. Die Informationen und Unterlagen m\u00fcssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der Einf\u00fchrer hat auf Verlangen der Bundesnetzagentur bei allen Ma\u00dfnahmen zur Abwehr von Risiken mitzuwirken, die mit Ger\u00e4ten verbunden sind, die er in Verkehr gebracht hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001400000",
+        "name": "\u00a7 13",
+        "title": "Pflichten des H\u00e4ndlers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000200000"
+        },
+        "body": "<P>(1) Der H\u00e4ndler darf ein Ger\u00e4t erst auf dem Markt bereitstellen, wenn er sichergestellt hat, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Ger\u00e4t mit der CE-Kennzeichnung nach \u00a7 18 versehen ist,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>dem Ger\u00e4t die Informationen nach \u00a7 19 beigef\u00fcgt sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Hersteller seine Pflichten nach \u00a7 9 Absatz 1 und 2 erf\u00fcllt hat und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>der Einf\u00fchrer seine Pflichten nach \u00a7 12 Absatz 1 erf\u00fcllt hat.</LA></DD></DL></P><P>(2) Hat der H\u00e4ndler Kenntnis davon oder Grund zu der Annahme, dass ein Ger\u00e4t nicht den Anforderungen des \u00a7 4 gen\u00fcgt, so darf er dieses Ger\u00e4t erst auf dem Markt bereitstellen, wenn die Konformit\u00e4t hergestellt ist. Ist mit dem Ger\u00e4t ein Risiko verbunden, so informiert der H\u00e4ndler unverz\u00fcglich den Hersteller oder den Einf\u00fchrer und die Bundesnetzagentur.</P><P>(3) Solange sich ein Ger\u00e4t im Verantwortungsbereich des H\u00e4ndlers befindet, hat dieser sicherzustellen, dass die Lagerungs- und Transportbedingungen die \u00dcbereinstimmung des Ger\u00e4tes mit den Anforderungen des \u00a7 4 nicht beeintr\u00e4chtigen.</P><P>(4) Hat der H\u00e4ndler Kenntnis davon oder Grund zu der Annahme, dass ein von ihm auf dem Markt bereitgestelltes Ger\u00e4t nicht den Anforderungen dieses Gesetzes gen\u00fcgt, sorgt er daf\u00fcr, dass die erforderlichen Korrekturma\u00dfnahmen ergriffen werden, um die Konformit\u00e4t herzustellen. Erforderlichenfalls nimmt der H\u00e4ndler das Ger\u00e4t zur\u00fcck oder ruft es zur\u00fcck. Sind mit dem Ger\u00e4t Risiken verbunden, so informiert der H\u00e4ndler unverz\u00fcglich die Bundesnetzagentur und die Markt\u00fcberwachungsbeh\u00f6rden der Mitgliedstaaten der Europ\u00e4ischen Union, in denen er das Ger\u00e4t auf dem Markt bereitgestellt hat, \u00fcber den Sachverhalt, insbesondere \u00fcber die Art der Nichtkonformit\u00e4t und die ergriffenen Korrekturma\u00dfnahmen.</P><P>(5) Der H\u00e4ndler hat der Bundesnetzagentur auf deren begr\u00fcndetes Verlangen alle Informationen und Unterlagen auf Papier oder elektronisch zur Verf\u00fcgung zu stellen, die f\u00fcr den Nachweis der Konformit\u00e4t des Ger\u00e4tes erforderlich sind. Die Informationen und Unterlagen m\u00fcssen in deutscher Sprache oder in einer Sprache, die von der Bundesnetzagentur leicht verstanden werden kann, abgefasst sein. Der H\u00e4ndler hat auf Verlangen der Bundesnetzagentur bei allen Ma\u00dfnahmen zur Abwehr von Risiken mitzuwirken, die mit Ger\u00e4ten verbunden sind, die von ihm auf dem Markt bereitgestellt wurden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "Einf\u00fchrer oder H\u00e4ndler als Hersteller",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000200000"
+        },
+        "body": "<P>Ein Einf\u00fchrer oder ein H\u00e4ndler gilt als Hersteller im Sinne dieses Gesetzes und unterliegt den Pflichten des Herstellers nach den \u00a7\u00a7 8 und 9, wenn er <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>ein Ger\u00e4t unter seinem eigenen Namen oder seiner eigenen Handelsmarke in Verkehr bringt oder sich durch die Ausstellung einer Konformit\u00e4tserkl\u00e4rung in seinem eigenen Namen als Hersteller ausgibt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>ein auf dem Markt befindliches Ger\u00e4t so ver\u00e4ndert, dass die Konformit\u00e4t mit den Anforderungen dieses Gesetzes beeintr\u00e4chtigt werden kann.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001600000",
+        "name": "\u00a7 15",
+        "title": "Identifizierung der Wirtschaftsakteure",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000200000"
+        },
+        "body": "<P>(1) Die Wirtschaftsakteure sind verpflichtet, der Bundesnetzagentur auf Verlangen die Wirtschaftsakteure zu nennen, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>von denen sie ein Ger\u00e4t bezogen haben und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>an die sie ein Ger\u00e4t abgegeben haben.</LA></DD></DL></P><P>(2) Die Verpflichtung zur Benennung der Wirtschaftsakteure gilt f\u00fcr den Zeitraum von zehn Jahren nach Abgabe oder Bezug des Ger\u00e4tes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Konformit\u00e4t der Betriebsmittel",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001700000",
+        "name": "\u00a7 16",
+        "title": "Konformit\u00e4tsvermutung bei Betriebsmitteln",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000300000"
+        },
+        "body": "<P>Stimmt ein Betriebsmittel mit den einschl\u00e4gigen harmonisierten Normen oder Teilen davon, deren Fundstellen im Amtsblatt der Europ\u00e4ischen Union ver\u00f6ffentlicht sind, \u00fcberein, so wird widerleglich vermutet, dass das Betriebsmittel mit den von dieser Norm oder Teilen davon abgedeckten Anforderungen des \u00a7 4 \u00fcbereinstimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001800000",
+        "name": "\u00a7 17",
+        "title": "Konformit\u00e4tsbewertungsverfahren f\u00fcr Ger\u00e4te",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000300000"
+        },
+        "body": "<P>(1) Die \u00dcbereinstimmung der Ger\u00e4te mit den Anforderungen des \u00a7 4 ist durch eines der folgenden Konformit\u00e4tsbewertungsverfahren nachzuweisen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die interne Fertigungskontrolle nach Anhang II der Richtlinie 2014/30/EU oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die EU-Baumusterpr\u00fcfung sowie die Erkl\u00e4rung der Konformit\u00e4t mit der Bauart auf der Grundlage der internen Fertigungskontrolle nach Anhang III der Richtlinie 2014/30/EU.</LA></DD></DL>Der Hersteller kann die Anwendung des Verfahrens nach Satz 1 Nummer 2 auf einige Aspekte der Anforderungen beschr\u00e4nken, sofern f\u00fcr die anderen Aspekte das Verfahren nach Satz 1 Nummer 1 durchgef\u00fchrt wird.</P><P>(2) Wurde mit einem Konformit\u00e4tsbewertungsverfahren nach Absatz 1 nachgewiesen, dass das Ger\u00e4t mit den Anforderungen des \u00a7 4 \u00fcbereinstimmt, so stellt der Hersteller die EU-Konformit\u00e4tserkl\u00e4rung aus und bringt die CE-Kennzeichnung nach \u00a7 18 an. Mit der Ausstellung der EU-Konformit\u00e4tserkl\u00e4rung \u00fcbernimmt der Hersteller die Verantwortung daf\u00fcr, dass das Ger\u00e4t die Anforderungen des \u00a7 4 erf\u00fcllt.</P><P>(3) Unterliegt ein Ger\u00e4t mehreren Rechtsakten der Union, in denen jeweils eine EU-Konformit\u00e4tserkl\u00e4rung vorgeschrieben ist, so stellt der Hersteller nur eine EU-Konformit\u00e4tserkl\u00e4rung f\u00fcr s\u00e4mtliche Rechtsakte der Union aus. Diese Erkl\u00e4rung muss alle betroffenen Rechtsakte nebst Fundstelle im Amtsblatt der Europ\u00e4ischen Union enthalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE001900000",
+        "name": "\u00a7 18",
+        "title": "CE-Kennzeichnung von Ger\u00e4ten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000300000"
+        },
+        "body": "<P>(1) Ger\u00e4te, deren \u00dcbereinstimmung mit den Anforderungen des \u00a7 4 im Verfahren nach \u00a7 17 Absatz 1 nachgewiesen wurde, sind, bevor sie in Verkehr gebracht werden, mit der CE-Kennzeichnung zu versehen.</P><P>(2) F\u00fcr die CE-Kennzeichnung gelten die allgemeinen Grunds\u00e4tze nach Artikel 30 der Verordnung (EG) Nr. 765/2008 des Europ\u00e4ischen Parlaments und des Rates vom 9. Juli 2008 \u00fcber die Vorschriften f\u00fcr die Akkreditierung und Markt\u00fcberwachung im Zusammenhang mit der Vermarktung von Produkten und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (ABl. L 218 vom 13.8.2008, S. 30).</P><P>(3) Die CE-Kennzeichnung ist gut sichtbar, gut lesbar und dauerhaft auf dem Ger\u00e4t oder seiner Datenplakette anzubringen. Falls die Art des Ger\u00e4tes das nicht zul\u00e4sst oder nicht rechtfertigt, ist die CE-Kennzeichnung auf der Verpackung und den Begleitunterlagen anzubringen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002000000",
+        "name": "\u00a7 19",
+        "title": "Montage und Gebrauchsanleitung f\u00fcr Ger\u00e4te, Hinweise auf Nutzungsbeschr\u00e4nkungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000300000"
+        },
+        "body": "<P>(1) Auf dem Ger\u00e4t, seiner Verpackung oder den beigegebenen Unterlagen m\u00fcssen Angaben \u00fcber besondere Vorkehrungen beigef\u00fcgt sein, die bei Montage, Installierung, Wartung oder Betrieb des Ger\u00e4tes zu treffen sind, damit es nach Inbetriebnahme die Anforderungen des \u00a7 4 erf\u00fcllt. Bei Ger\u00e4ten f\u00fcr nichtgewerbliche Nutzer m\u00fcssen die Angaben in deutscher Sprache abgefasst sein.</P><P>(2) Ger\u00e4te, deren \u00dcbereinstimmung mit den Anforderungen des \u00a7 4 in Wohngebieten nicht gew\u00e4hrleistet ist, sind mit Hinweisen auf diese Nutzungsbeschr\u00e4nkung zu versehen. Auf eine solche Nutzungsbeschr\u00e4nkung ist \u2013 gegebenenfalls auch auf der Verpackung \u2013 eindeutig hinzuweisen.</P><P>(3) Jedem Ger\u00e4t ist eine Betriebsanleitung mit allen Informationen beizuf\u00fcgen, die zur bestimmungsgem\u00e4\u00dfen Nutzung des Ger\u00e4tes erforderlich sind. Bei Ger\u00e4ten f\u00fcr nichtgewerbliche Nutzer muss die Betriebsanleitung in deutscher Sprache abgefasst sein.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002100000",
+        "name": "\u00a7 20",
+        "title": "Ortsfeste Anlagen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000300000"
+        },
+        "body": "<P>(1) Der Betreiber einer ortsfesten Anlage hat daf\u00fcr zu sorgen, dass die Anlage die Anforderungen der \u00a7\u00a7 4 und 5 erf\u00fcllt. Die in \u00a7 5 genannten anerkannten Regeln der Technik sind zu dokumentieren und f\u00fcr Kontrollen der Bundesnetzagentur zur Einsicht bereitzuhalten, solange die ortsfeste Anlage in Betrieb ist. Die Dokumentation muss dem aktuellen technischen Zustand der Anlage entsprechen.</P><P>(2) Ger\u00e4te, die auf dem Markt bereitgestellt worden sind und in ortsfeste Anlagen eingebaut werden, unterliegen den Vorschriften dieses Gesetzes.</P><P>(3) Ein Ger\u00e4t, das zum Einbau in eine bestimmte ortsfeste Anlage vorgesehen und im Handel nicht erh\u00e4ltlich ist, muss die Anforderungen der \u00a7\u00a7 4, 8 bis 15 und 17 bis 19 nicht erf\u00fcllen. Dem Ger\u00e4t ist jedoch mindestens Folgendes beizuf\u00fcgen: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Kennzeichnung nach \u00a7 9 Absatz 1,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Angaben des Herstellers nach \u00a7 9 Absatz 2 und des Einf\u00fchrers nach \u00a7 12 Absatz 1 sowie</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Unterlagen, aus denen sich ergibt, <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>f\u00fcr welche ortsfeste Anlage das Ger\u00e4t bestimmt ist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>unter welchen Voraussetzungen diese ortsfeste Anlage elektromagnetische Vertr\u00e4glichkeit besitzt und</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>welche Vorkehrungen beim Einbau des Ger\u00e4tes in die ortsfeste Anlage zu treffen sind, damit die Konformit\u00e4t der ortsfesten Anlage durch den Einbau nicht beeintr\u00e4chtigt wird.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000400000",
+        "name": "Abschnitt 4",
+        "title": "Notifizierung von Konformit\u00e4tsbewertungsstellen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002200000",
+        "name": "\u00a7 21",
+        "title": "Notifizierende Beh\u00f6rde, Verordnungserm\u00e4chtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000400000"
+        },
+        "body": "<P>(1) Notifizierende Beh\u00f6rde ist die Bundesnetzagentur. Die Bundesnetzagentur richtet das Verfahren zur Anerkennung einer Konformit\u00e4tsbewertungsstelle als notifizierte Stelle und das Verfahren zur \u00dcberwachung der notifizierten Stelle ein, und sie f\u00fchrt dieses Verfahren durch.</P><P>(2) Das Bundesministerium f\u00fcr Wirtschaft und Energie wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium der Finanzen und dem Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur durch Rechtsverordnung Folgendes zu regeln: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Anforderungen an die notifizierende Beh\u00f6rde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>das Verfahren zur Anerkennung als notifizierte Stelle,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Anforderungen an die notifizierte Stelle,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Pflichten und Befugnisse der notifizierten Stelle,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die \u00dcberwachung von notifizierten Stellen sowie</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>den Widerruf der Anerkennung als notifizierte Stelle.</LA></DD></DL></P><P>(3) Die Abs\u00e4tze 1 und 2 sind entsprechend auf Konformit\u00e4tsbewertungsstellen anzuwenden, die Konformit\u00e4tsbewertungen nach Drittstaatenabkommen durchf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000500000",
+        "name": "Abschnitt 5",
+        "title": "Bundesnetzagentur",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000600000",
+        "name": "Unterabschnitt 1",
+        "title": "Zust\u00e4ndigkeiten und Befugnisse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000500000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002301123",
+        "name": "\u00a7 22",
+        "title": "Zust\u00e4ndigkeiten und Befugnisse der Bundesnetzagentur",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000600000"
+        },
+        "body": "<P>(1) Die Bundesnetzagentur f\u00fchrt dieses Gesetz aus, soweit gesetzlich nichts anderes bestimmt ist.</P><P>(2) Die Bundesnetzagentur nimmt insbesondere folgende Aufgaben wahr: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Verkehr zu bringende oder in Verkehr gebrachte Ger\u00e4te stichprobenweise, auch durch anonyme Testk\u00e4ufe, auf Einhaltung der Anforderungen dieses Gesetzes zu pr\u00fcfen und bei Nichteinhaltung die Ma\u00dfnahmen nach \u00a7 23 Absatz 2 und 4, den \u00a7\u00a7 24 bis 26 und 29 zu veranlassen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Messen, Ausstellungen und \u00e4hnlichen Veranstaltungen aufgestellte und vorgef\u00fchrte Betriebsmittel auf Einhaltung der Anforderungen des \u00a7 7 Absatz 2 zu pr\u00fcfen und bei Nichteinhaltung die Ma\u00dfnahmen nach \u00a7 23a zu veranlassen;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">ortsfeste Anlagen auf die \u00dcbereinstimmung mit den Anforderungen der \u00a7\u00a7 4 und 5 zu \u00fcberpr\u00fcfen und wenn es Anzeichen gibt, dass sie nicht mit diesen Anforderungen \u00fcbereinstimmen, die Erf\u00fcllung dieser Anforderungen herbeizuf\u00fchren;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Probleme mit der elektromagnetischen Vertr\u00e4glichkeit einschlie\u00dflich Funkst\u00f6rungen aufzukl\u00e4ren und Abhilfema\u00dfnahmen in Zusammenarbeit mit den Beteiligten zu veranlassen;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Einzelaufgaben aufgrund der Richtlinie 2014/30/EU, anderer EG-Richtlinien und Abkommen mit Drittstaaten in Bezug auf die elektromagnetische Vertr\u00e4glichkeit gegen\u00fcber der Kommission der Europ\u00e4ischen Gemeinschaften und den Mitgliedstaaten der Europ\u00e4ischen Union und den anderen Vertragsstaaten des Abkommens \u00fcber den Europ\u00e4ischen Wirtschaftsraum wahrzunehmen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Bereich der technischen Normung zur elektromagnetischen Vertr\u00e4glichkeit von Betriebsmitteln in nationalen und internationalen Normungsgremien mitzuarbeiten und diesbez\u00fcglich f\u00fcr andere zust\u00e4ndige Bundesbeh\u00f6rden unterst\u00fctzend t\u00e4tig zu sein;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Vertriebsverbote zu erlassen, die im Amtsblatt der Bundesnetzagentur bekanntgegeben werden d\u00fcrfen;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verordnungen nach \u00a7 21 Absatz 2, \u00a7 27 Absatz 5 und \u00a7 31 Absatz 4 dieses Gesetzes zu vollziehen.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 22: Zur Anwendung vgl. \u00a7 2 Abs. 1 F. 14.12.2016 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000700000",
+        "name": "Unterabschnitt 2",
+        "title": "Markt\u00fcberwachung und St\u00f6rungsbearbeitung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000500000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002400000",
+        "name": "\u00a7 23",
+        "title": "Ma\u00dfnahmen der Markt\u00fcberwachung bei Ger\u00e4ten, mit denen ein Risiko verbunden ist",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000700000"
+        },
+        "body": "<P>(1) Hat die Bundesnetzagentur Grund zu der Annahme, dass ein Ger\u00e4t elektromagnetisch nicht vertr\u00e4glich ist, so pr\u00fcft sie, ob das Ger\u00e4t die Anforderungen dieses Gesetzes erf\u00fcllt. Die Wirtschaftsakteure sind verpflichtet, zu diesem Zweck im erforderlichen Umfang mit der Bundesnetzagentur zusammenzuarbeiten.</P><P>(2) Gelangt die Bundesnetzagentur zu dem Ergebnis, dass das Ger\u00e4t die Anforderungen dieses Gesetzes nicht erf\u00fcllt, so fordert sie unverz\u00fcglich den betreffenden Wirtschaftsakteur auf, innerhalb einer von ihr festgesetzten, der Art und des Risikos angemessenen Frist alle geeigneten Ma\u00dfnahmen zu ergreifen, um die \u00dcbereinstimmung mit den Anforderungen dieses Gesetzes herzustellen, oder es zur\u00fcckzunehmen oder zur\u00fcckzurufen. Die Bundesnetzagentur setzt die notifizierte Stelle, die das Konformit\u00e4tsbewertungsverfahren f\u00fcr das Ger\u00e4t durchgef\u00fchrt hat, davon in Kenntnis.</P><P>(3) Der Wirtschaftsakteur hat sicherzustellen, dass sich die Korrekturma\u00dfnahmen, die er ergreift, auf alle betroffenen Ger\u00e4te erstrecken, die er auf dem Markt der Europ\u00e4ischen Union bereitgestellt hat.</P><P>(4) Ergreift der Wirtschaftsakteur innerhalb der nach \u00a7 23 Absatz 2 gesetzten Frist keine geeigneten Korrekturma\u00dfnahmen, so trifft die Bundesnetzagentur alle geeigneten Ma\u00dfnahmen, um die Bereitstellung des Ger\u00e4tes auf dem deutschen Markt einzuschr\u00e4nken, oder sie untersagt die Bereitstellung auf dem Markt oder sorgt daf\u00fcr, dass das Ger\u00e4t zur\u00fcckgenommen oder zur\u00fcckgerufen wird. Ist kein Wirtschaftsakteur im Binnenmarkt ans\u00e4ssig, k\u00f6nnen die Ma\u00dfnahmen gegen jeden gerichtet werden, der die Weitergabe im Auftrag des Wirtschaftsakteurs vornimmt.</P><P>(5) Ist die Bundesnetzagentur der Auffassung, dass sich eine nach \u00a7 23 Absatz 2 festgestellte Nichtkonformit\u00e4t nicht auf das deutsche Hoheitsgebiet beschr\u00e4nkt, so <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>trifft sie die Ma\u00dfnahmen nach Absatz 4 unter dem Vorbehalt, dass sie widerrufen werden, wenn die Europ\u00e4ische Kommission nach Artikel 39 Absatz 1 der Richtlinie 2014/30/EU feststellt, dass die Ma\u00dfnahmen nicht gerechtfertigt sind und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>informiert sie die nationalen Wirtschaftsakteure in geeigneter Weise im Amtsblatt \u00fcber die Ma\u00dfnahmen und gibt ihnen Gelegenheit zur Stellungnahme. Die Frist zur Stellungnahme betr\u00e4gt vier Wochen ab der Ver\u00f6ffentlichung.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 23: Zur Anwendung vgl. \u00a7 2 Abs. 1 F. 14.12.2016 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002501123",
+        "name": "\u00a7 23a",
+        "title": "Ma\u00dfnahmen auf Messen und Ausstellungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000700000"
+        },
+        "body": "<P>(1) Stellt die Bundesnetzagentur fest, dass ein Betriebsmittel, das auf Messen, Ausstellungen oder \u00e4hnlichen Veranstaltungen aufgestellt ist oder vorgef\u00fchrt wird, die Anforderungen des \u00a7 7 Absatz 2 nicht erf\u00fcllt, so fordert sie unverz\u00fcglich den ausstellenden Wirtschaftsakteur auf, alle geeigneten Ma\u00dfnahmen zu ergreifen, um die \u00dcbereinstimmung des Betriebsmittels mit den Anforderungen herzustellen.</P><P>(2) Ergreift der Aussteller keine geeigneten Korrekturma\u00dfnahmen, so veranlasst die Bundesnetzagentur die Au\u00dferbetriebnahme des Betriebsmittels.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 23a: Zur Anwendung vgl. \u00a7 2 Abs. 1 F. 14.12.2016 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002600000",
+        "name": "\u00a7 24",
+        "title": "Ma\u00dfnahmen bei formaler Nichtkonformit\u00e4t",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000700000"
+        },
+        "body": "<P>(1) Stellt die Bundesnetzagentur eine formale Nichtkonformit\u00e4t fest, so fordert sie den betreffenden Wirtschaftsakteur auf, die Nichtkonformit\u00e4t innerhalb einer angemessenen Frist zu korrigieren.</P><P>(2) Formale Nichtkonformit\u00e4t liegt vor, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die CE-Kennzeichnung nicht oder unter Nichteinhaltung der Vorgaben des \u00a7 18 angebracht wurde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die EU-Konformit\u00e4tserkl\u00e4rung nicht oder nicht ordnungsgem\u00e4\u00df ausgestellt wurde,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die technischen Unterlagen nicht verf\u00fcgbar oder nicht vollst\u00e4ndig sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Angaben des Herstellers nach \u00a7 9 Absatz 2 oder des Einf\u00fchrers nach \u00a7 12 Absatz 1 fehlen, falsch oder unvollst\u00e4ndig sind oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>eine andere formale Verpflichtung nach den \u00a7\u00a7 8, 9, 11 oder 12 nicht erf\u00fcllt ist.</LA></DD></DL></P><P>(3) Ergreift der Wirtschaftsakteur innerhalb der gesetzten Frist keine geeigneten Korrekturma\u00dfnahmen, so trifft die Bundesnetzagentur alle geeigneten Ma\u00dfnahmen, um die Bereitstellung des Ger\u00e4tes auf dem Markt zu beschr\u00e4nken, oder sie untersagt die Bereitstellung auf dem Markt oder sorgt daf\u00fcr, dass das Ger\u00e4t zur\u00fcckgenommen oder zur\u00fcckgerufen wird. \u00a7 23 Absatz 4 Satz 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 24: Zur Anwendung vgl. \u00a7 2 Abs. 1 F. 14.12.2016 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002700000",
+        "name": "\u00a7 25",
+        "title": "Pflichten der Bundesnetzagentur bei Nichtkonformit\u00e4t von Ger\u00e4ten, mit denen ein Risiko verbunden ist, die sich nicht auf das deutsche Hoheitsgebiet beschr\u00e4nken",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000700000"
+        },
+        "body": "<P>(1) Ist die Bundesnetzagentur der Auffassung, dass die beanstandeten Ger\u00e4te auch in anderen Mitgliedstaaten der europ\u00e4ischen Union auf dem Markt bereitgestellt werden, so unterrichtet die Bundesnetzagentur die Europ\u00e4ische Kommission und die \u00fcbrigen Mitgliedstaaten der Europ\u00e4ischen Union. Au\u00dferdem unterrichtet die Bundesnetzagentur die Europ\u00e4ische Kommission und die \u00fcbrigen Mitgliedstaaten der Europ\u00e4ischen Union \u00fcber das Ergebnis der Beurteilung nach \u00a7 23 Absatz 1 und die Ma\u00dfnahmen, die zu ergreifen sie den Wirtschaftsakteur aufgefordert hat.</P><P>(2) Trifft die Bundesnetzagentur Ma\u00dfnahmen nach \u00a7 23 Absatz 4, so unterrichtet sie die Europ\u00e4ische Kommission und die \u00fcbrigen Mitgliedstaaten der Europ\u00e4ischen Union \u00fcber die getroffenen Ma\u00dfnahmen. Die Unterrichtung der Bundesnetzagentur enth\u00e4lt alle verf\u00fcgbaren Angaben, insbesondere die Daten f\u00fcr die Identifizierung des betroffenen Ger\u00e4tes, die Herkunft des Ger\u00e4tes, die Art der behaupteten Nichtkonformit\u00e4t und des Risikos sowie die Art und Dauer der ergriffenen nationalen Ma\u00dfnahmen und die Argumente des betreffenden Wirtschaftsakteurs. Die Bundesnetzagentur gibt insbesondere an, ob die behauptete Nichtkonformit\u00e4t darauf beruht, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Ger\u00e4t die Anforderungen dieses Gesetzes nicht erf\u00fcllt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die harmonisierten Normen, bei deren Einhaltung nach \u00a7 16 eine Konformit\u00e4tsvermutung gilt, mangelhaft sind.</LA></DD></DL></P><P>(3) Die Bundesnetzagentur hebt den Widerrufsvorbehalt nach \u00a7 23 Absatz 5 Satz 1 Nummer 1 auf, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Frist von drei Monaten nach Artikel 38 Absatz 7 der Richtlinie 2014/30/EU verstrichen ist, ohne dass ein Mitgliedstaat der Europ\u00e4ischen Union Einw\u00e4nde gegen die Ma\u00dfnahmen erhoben hat, oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Europ\u00e4ische Kommission nach Artikel 39 Absatz 1 der Richtlinie 2014/30/EU festgestellt hat, dass die Ma\u00dfnahmen gerechtfertigt sind.</LA></DD></DL>Die Ma\u00dfnahmen nach \u00a7 23 Absatz 4 sind dann im Amtsblatt der Bundesnetzagentur zu ver\u00f6ffentlichen.</P><P>(4) Die Bundesnetzagentur widerruft die nach \u00a7 23 Absatz 4 getroffenen Ma\u00dfnahmen, wenn die Europ\u00e4ische Kommission nach Artikel 39 Absatz 1 der Richtlinie 2014/30/EU feststellt, dass die Ma\u00dfnahmen nicht gerechtfertigt sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 25: Zur Anwendung vgl. \u00a7 2 Abs. 1 F. 14.12.2016 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002800000",
+        "name": "\u00a7 26",
+        "title": "Pflichten der Bundesnetzagentur bei Nichtkonformit\u00e4t von Ger\u00e4ten, mit denen ein Risiko verbunden ist, bei Ma\u00dfnahmen anderer Mitgliedstaaten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000700000"
+        },
+        "body": "<P>(1) Wird die Bundesnetzagentur von einem anderen Mitgliedstaat der Europ\u00e4ischen Union dar\u00fcber informiert, dass dieser Mitgliedstaat eine markteinschr\u00e4nkende Ma\u00dfnahme nach Artikel 38 Absatz 4 der Richtlinie 2014/30/EU getroffen hat, so pr\u00fcft sie unverz\u00fcglich, ob diese Ma\u00dfnahme gerechtfertigt ist. Sie informiert die nationalen Wirtschaftsakteure in geeigneter Weise im Amtsblatt \u00fcber die Ma\u00dfnahme des anderen Mitgliedstaates und gibt ihnen Gelegenheit zur Stellungnahme. Die Frist zur Stellungnahme betr\u00e4gt vier Wochen ab der Ver\u00f6ffentlichung.</P><P>(2) Kommt die Bundesnetzagentur zu dem Ergebnis, dass die Ma\u00dfnahme nicht gerechtfertigt ist, so erhebt sie unverz\u00fcglich Einw\u00e4nde nach Artikel 38 Absatz 6 der Richtlinie gegen\u00fcber der Europ\u00e4ischen Kommission und den \u00fcbrigen Mitgliedstaaten.</P><P>(3) Werden weder von der Europ\u00e4ischen Kommission noch von einem der beteiligten Mitgliedstaaten der Europ\u00e4ischen Union innerhalb der Frist von drei Monaten Einw\u00e4nde erhoben, so gilt die Ma\u00dfnahme als gerechtfertigt. Die Bundesnetzagentur trifft in diesem Fall geeignete Ma\u00dfnahmen, um die Bereitstellung des Ger\u00e4tes auf dem Markt einzuschr\u00e4nken, oder sie untersagt die Bereitstellung auf dem Markt oder sorgt daf\u00fcr, dass das Ger\u00e4t zur\u00fcckgenommen oder zur\u00fcckgerufen wird. Vor diesen Ma\u00dfnahmen ist keine Anh\u00f6rung entsprechend \u00a7 28 des Verwaltungsverfahrensgesetzes durchzuf\u00fchren. Die Bundesnetzagentur macht die Ma\u00dfnahmen im Amtsblatt der Bundesnetzagentur bekannt. Sie setzt die entsprechende notifizierte Stelle von den Ma\u00dfnahmen in Kenntnis.</P><P>(4) Absatz 3 gilt auch in den F\u00e4llen, in denen die Europ\u00e4ische Kommission nach Artikel 39 Absatz 1 der Richtlinie 2014/30/EU festgestellt hat, dass die Ma\u00dfnahme eines anderen Mitgliedstaates gerechtfertigt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 26: Zur Anwendung vgl. \u00a7 2 Abs. 1 F. 14.12.2016 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE002900000",
+        "name": "\u00a7 27",
+        "title": "Befugnisse bei der St\u00f6rungsbearbeitung, Verordnungserm\u00e4chtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000700000"
+        },
+        "body": "<P>(1) Die Bundesnetzagentur ist befugt, die notwendigen Ma\u00dfnahmen zur Kl\u00e4rung von Problemen mit der elektromagnetischen Vertr\u00e4glichkeit zu ergreifen.</P><P>(2) Die Bundesnetzagentur kann besondere Ma\u00dfnahmen ergreifen, um das Betreiben von Betriebsmitteln an einem bestimmten Ort anzuordnen oder zu verhindern, wenn dies erforderlich ist <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>zum Schutz von Empfangsger\u00e4ten, Empfangsanlagen, Sendefunkger\u00e4ten und Sendefunkanlagen, die zu Sicherheitszwecken verwendet werden, und der zugeh\u00f6rigen Funkdienste,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zum Schutz \u00f6ffentlicher Telekommunikationsnetze,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>zum Schutz von Leib oder Leben einer Person oder von Sachen von bedeutendem Wert,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>zum Schutz vor Auswirkungen von Betriebsmitteln, die nicht den Anforderungen dieses Gesetzes oder anderer Gesetze mit Festlegungen zur elektromagnetischen Vertr\u00e4glichkeit gen\u00fcgen.</LA></DD></DL>Die Bundesnetzagentur kann diese Ma\u00dfnahmen sowohl gegen den Betreiber als auch gegen den Eigent\u00fcmer eines Betriebsmittels richten.</P><P>(3) Wenn an einem bestimmten Ort Probleme mit der elektromagnetischen Vertr\u00e4glichkeit eines Betriebsmittels bestehen oder vorhersehbar sind, ohne dass die Voraussetzungen f\u00fcr Ma\u00dfnahmen nach Absatz 2 vorliegen, so ist die Bundesnetzagentur befugt, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>unter Abw\u00e4gung der Interessen der Beteiligten die notwendigen Ma\u00dfnahmen zur Ermittlung der Ursache f\u00fcr die Probleme zu treffen und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Abhilfema\u00dfnahmen in Zusammenarbeit mit den Beteiligten zu veranlassen.</LA></DD></DL>Zivilrechtliche Anspr\u00fcche bleiben unber\u00fchrt.</P><P>(4) Bei allen Ma\u00dfnahmen aufgrund von Problemen mit der elektromagnetischen Vertr\u00e4glichkeit arbeitet die Bundesnetzagentur mit den Beteiligten zusammen. Sie legt die allgemein anerkannten Regeln der Technik zu Grunde und kann insbesondere die geltenden technischen Normen heranziehen.</P><P>(5) Die Bundesregierung wird erm\u00e4chtigt, durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, Regelungen zum Schutz \u00f6ffentlicher Telekommunikationsnetze sowie zum Schutz von Sende- und Empfangsanlagen zu treffen, die in definierten Frequenzspektren zu Sicherheitszwecken betrieben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 27: Zur Anwendung vgl. \u00a7 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE003000000",
+        "name": "\u00a7 28",
+        "title": "Besondere Eingriffsbefugnisse bei der St\u00f6rungsbearbeitung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000700000"
+        },
+        "body": "<P>(1) Besteht aufgrund einer elektromagnetischen St\u00f6rung <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eine Gefahr f\u00fcr Leib oder Leben einer Person oder f\u00fcr fremde Sachen von bedeutendem Wert,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>eine erhebliche Beeintr\u00e4chtigung der Nutzung eines \u00f6ffentlichen Telekommunikationsnetzes oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Beeintr\u00e4chtigung eines zu Sicherheitszwecken verwendeten Empfangs- oder Sendefunkger\u00e4tes,</LA></DD></DL>so sind die Bediensteten der Bundesnetzagentur befugt, sich Kenntnis von dem Inhalt und den n\u00e4heren Umst\u00e4nden der Telekommunikation zu verschaffen, sofern die Ursache der St\u00f6rung nicht auf anderem Wege zu ermitteln ist; die Aufzeichnung des Inhalts ist unzul\u00e4ssig. Das Grundrecht des Fernmeldegeheimnisses nach Artikel 10 des Grundgesetzes wird nach Ma\u00dfgabe des Satzes 1 eingeschr\u00e4nkt.</P><P>(2) In F\u00e4llen des Absatzes 1 sind die Bediensteten der Bundesnetzagentur befugt, Grundst\u00fccke, R\u00e4umlichkeiten und Wohnungen zu betreten, auf oder in denen aufgrund tats\u00e4chlicher Anhaltspunkte die Ursache st\u00f6render Aussendungen zu vermuten ist. Durchsuchungen d\u00fcrfen nur durch den Richter, bei Gefahr im Verzug auch durch den verantwortlichen Bediensteten der Bundesnetzagentur schriftlich angeordnet werden. Ma\u00dfnahmen nach den S\u00e4tzen 1 und 2 sollen nur nach vorheriger Anh\u00f6rung des Betroffenen erfolgen, es sei denn, die Ma\u00dfnahme w\u00fcrde dadurch unangemessen verz\u00f6gert. Das Grundrecht der Unverletzlichkeit der Wohnung nach Artikel 13 des Grundgesetzes wird nach Ma\u00dfgabe der S\u00e4tze 1 und 2 eingeschr\u00e4nkt.</P><P>(3) Eine Ma\u00dfnahme nach Absatz 1 ist unverz\u00fcglich zu unterbrechen, soweit und solange tats\u00e4chliche Anhaltspunkte f\u00fcr die Annahme vorliegen, dass der Inhalt der Kommunikation den Kernbereich privater Lebensgestaltung betrifft. Dennoch erlangte Erkenntnisse aus dem Kernbereich privater Lebensgestaltung d\u00fcrfen nicht verwertet werden und die entsprechenden Daten sind unverz\u00fcglich zu l\u00f6schen. Die Tatsache, dass diese Kenntnisse erlangt wurden, und die L\u00f6schung der Daten sind aktenkundig zu machen.</P><P>(4) Daten, die durch eine Ma\u00dfnahme nach Absatz 1 erlangt wurden, sind als solche zu kennzeichnen. Sie d\u00fcrfen nur zur Ermittlung und Unterbindung der elektromagnetischen St\u00f6rung verwendet werden. Abweichend von Satz 2 darf die Bundesnetzagentur die Daten <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>an die Strafverfolgungsbeh\u00f6rden \u00fcbermitteln, soweit dies f\u00fcr die Verfolgung einer Straftat nach \u00a7 100a der Strafprozessordnung erforderlich ist, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>an die Polizeivollzugsbeh\u00f6rden \u00fcbermitteln, soweit bestimmte Tatsachen die Annahme rechtfertigen, dass die Kenntnis der Daten zur Abwehr einer Gefahr f\u00fcr Leib, Leben, Gesundheit oder Freiheit einer Person oder f\u00fcr bedeutende Sach- und Verm\u00f6genswerte erforderlich ist.</LA></DD></DL>Die Strafverfolgungsbeh\u00f6rden und die Polizeivollzugsbeh\u00f6rden haben die Kennzeichnung der Daten aufrechtzuerhalten. Das Grundrecht des Fernmeldegeheimnisses nach Artikel 10 des Grundgesetzes wird nach Ma\u00dfgabe des Satzes 3 eingeschr\u00e4nkt.</P><P>(5) Die \u00dcbermittlung der Daten an die Strafverfolgungsbeh\u00f6rden und die Polizeivollzugsbeh\u00f6rden bedarf der gerichtlichen Zustimmung, es sei denn, Gefahr ist im Verzug. F\u00fcr das Verfahren der gerichtlichen Zustimmung gelten die Vorschriften des Gesetzes \u00fcber die Angelegenheiten der freiwilligen Gerichtsbarkeit entsprechend. Zust\u00e4ndig ist das Amtsgericht, in dessen Bezirk die Bundesnetzagentur ihren Sitz hat.</P><P>(6) Die durch eine Ma\u00dfnahme nach Absatz 1 Betroffenen sind sp\u00e4testens nach Abschluss der St\u00f6rungsunterbindung \u00fcber die Ma\u00dfnahme zu benachrichtigen, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>soweit sie bekannt sind oder ihre Identifizierung ohne unverh\u00e4ltnism\u00e4\u00dfige weitere Ermittlungen m\u00f6glich ist und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>soweit nicht \u00fcberwiegende schutzw\u00fcrdige Belange anderer Personen entgegenstehen.</LA></DD></DL></P><P>(7) Die Betroffenen sind in der Benachrichtigung auf die M\u00f6glichkeit, nachtr\u00e4glichen Rechtsschutz in Anspruch zu nehmen, und die daf\u00fcr vorgesehene Frist hinzuweisen. Die Benachrichtigung erfolgt durch die Bundesnetzagentur; hat diese die Daten an die Strafverfolgungsbeh\u00f6rde oder die Polizeivollzugsbeh\u00f6rde weitergeleitet, so erfolgt die Benachrichtigung durch die Strafverfolgungsbeh\u00f6rde oder die Polizeivollzugsbeh\u00f6rde nach den f\u00fcr sie ma\u00dfgebenden Vorschriften. Enthalten diese Vorschriften keine Bestimmungen zu Benachrichtigungspflichten, so sind die Vorschriften des Strafverfahrensrechts entsprechend anzuwenden.</P><P>(8) Daten, die durch eine Ma\u00dfnahme nach Absatz 1 erlangt wurden, sind unverz\u00fcglich zu l\u00f6schen, wenn sie f\u00fcr die Ermittlung oder Unterbindung der St\u00f6rung und f\u00fcr eine gerichtliche \u00dcberpr\u00fcfung der Ma\u00dfnahme nicht mehr ben\u00f6tigt werden. Die L\u00f6schung ist aktenkundig zu machen. Daten, deren L\u00f6schung lediglich f\u00fcr eine gerichtliche \u00dcberpr\u00fcfung zur\u00fcckgestellt ist, sind zu sperren. Sie d\u00fcrfen ohne Einwilligung des Betroffenen nur f\u00fcr diese gerichtliche \u00dcberpr\u00fcfung verwendet werden; Absatz 4 Satz 3 bis 5 und Absatz 5 bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 28: Zur Anwendung vgl. \u00a7 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE003100000",
+        "name": "\u00a7 29",
+        "title": "Auskunftsrechte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000700000"
+        },
+        "body": "<P>(1) Die Bundesnetzagentur kann von den Wirtschaftsakteuren, von denjenigen, die Betriebsmittel ausstellen, betreiben, lagern oder die Weitergabe von Betriebsmitteln vermittelnd unterst\u00fctzen, und von den notifizierten Stellen die zur Erf\u00fcllung ihrer Aufgaben erforderlichen Ausk\u00fcnfte und sonstige Unterst\u00fctzung unentgeltlich verlangen. Die Auskunftspflichtigen k\u00f6nnen die Auskunft auf solche Fragen verweigern, deren Beantwortung sie selbst oder einen in \u00a7 52 Absatz 1 der Strafprozessordnung bezeichneten Angeh\u00f6rigen der Gefahr der Verfolgung wegen einer Straftat oder eines Verfahrens nach dem Gesetz \u00fcber Ordnungswidrigkeiten aussetzen w\u00fcrde.</P><P>(2) Die Beauftragten der Bundesnetzagentur d\u00fcrfen w\u00e4hrend der Gesch\u00e4fts- und Betriebszeiten Betriebsgrundst\u00fccke, Betriebs- und Gesch\u00e4ftsr\u00e4ume sowie Fahrzeuge der Auskunftspflichtigen betreten, auf oder in denen Betriebsmittel <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>hergestellt werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>gepr\u00fcft werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>zum Zweck der Bereitstellung auf dem Markt oder der Weitergabe gelagert werden,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>angeboten werden,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>ausgestellt sind oder</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>betrieben werden.</LA></DD></DL>Sie d\u00fcrfen die Betriebsmittel besichtigen und pr\u00fcfen, zur Pr\u00fcfung betreiben lassen und unentgeltlich vor\u00fcbergehend zu Pr\u00fcf- und Kontrollzwecken entnehmen. Die Auskunftspflichtigen haben diese Ma\u00dfnahmen zu dulden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 29: Zur Anwendung vgl. \u00a7 2 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000800000",
+        "name": "Unterabschnitt 3",
+        "title": "Zwangsgeld und Beitr\u00e4ge, Vorverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000500000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE003200000",
+        "name": "\u00a7 30",
+        "title": "Zwangsgeld",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000800000"
+        },
+        "body": "<P>Die Bundesnetzagentur kann zur Durchsetzung der Anordnungen nach den \u00a7\u00a7 23, 24, 27 Absatz 1 und 2, \u00a7 28 Absatz 2, \u00a7 29 und der Anordnungen aufgrund der Verordnung nach \u00a7 27 Absatz 5 ein Zwangsgeld von bis zu f\u00fcnfhunderttausend Euro festsetzen und vollstrecken.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 30: Zur Anwendung vgl. \u00a7 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE003300000",
+        "name": "\u00a7 31",
+        "title": "Beitr\u00e4ge, Verordnungserm\u00e4chtigung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000800000"
+        },
+        "body": "<P>(1) Senderbetreiber haben einen Jahresbeitrag zur Abgeltung der folgenden Kosten zu entrichten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Kosten f\u00fcr Ma\u00dfnahmen nach \u00a7 27 Absatz 2 zur Sicherstellung der elektromagnetischen Vertr\u00e4glichkeit und insbesondere eines st\u00f6rungsfreien Funkempfangs, soweit nicht bereits Geb\u00fchren und Auslagen nach der Besonderen Geb\u00fchrenverordnung des Bundesministeriums f\u00fcr Wirtschaft und Energie nach \u00a7 22 Absatz 4 des Bundesgeb\u00fchrengesetzes erhoben werden,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Kosten f\u00fcr Ma\u00dfnahmen nach den \u00a7\u00a7 23 und 24, soweit nicht bereits Geb\u00fchren und Auslagen nach der Besonderen Geb\u00fchrenverordnung des Bundesministeriums f\u00fcr Wirtschaft und Energie nach \u00a7 22 Absatz 4 des Bundesgeb\u00fchrengesetzes erhoben werden.</LA></DD></DL></P><P>(2) Beitragspflichtig ist jeder Senderbetreiber, <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>dem eine Frequenz zugeteilt ist oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der eine Frequenz aufgrund sonstiger Verwaltungsakte oder dauerhaft ohne Zuteilung nutzt, insbesondere aufgrund der bis zum 1. August 1996 erteilten Rechte, soweit sie die Nutzung von Frequenzen betreffen.</LA></DD></DL></P><P>(3) Die Anteile an den Gesamtkosten werden den einzelnen Nutzergruppen, die sich aus der Frequenzzuweisung oder Frequenznutzung ergeben, so weit wie m\u00f6glich aufwandsbezogen zugeordnet. Der auf das Allgemeininteresse entfallende Kostenanteil ist beitragsmindernd zu ber\u00fccksichtigen.</P><P>(4) Das Bundesministerium f\u00fcr Wirtschaft und Energie wird erm\u00e4chtigt, im Einvernehmen mit dem Bundesministerium der Finanzen durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf, den Kreis der Beitragspflichtigen, die Beitragss\u00e4tze und das Verfahren der Beitragserhebung einschlie\u00dflich der Zahlungsweise und der Zahlungsfristen zu bestimmen. Das Bundesministerium f\u00fcr Wirtschaft und Energie kann diese Erm\u00e4chtigung durch Rechtsverordnung unter Sicherstellung des Einvernehmens auf die Bundesnetzagentur \u00fcbertragen. Eine Rechtsverordnung nach Satz 2 einschlie\u00dflich ihrer Aufhebung bedarf des Einvernehmens mit dem Bundesministerium f\u00fcr Wirtschaft und Energie und dem Bundesministerium der Finanzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 31: Zur Anwendung vgl. \u00a7 2 +++)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE003401119",
+        "name": "\u00a7 32",
+        "title": "Vorverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000800000"
+        },
+        "body": "<P>(1) Widerspruch und Klage gegen Entscheidungen der Bundesnetzagentur haben keine aufschiebende Wirkung.</P><P>(2) Die Kosten des Vorverfahrens richten sich nach \u00a7 226 des Telekommunikationsgesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>(+++ \u00a7 32: Zur Anwendung vgl. \u00a7 2 +++)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG000900000",
+        "name": "Abschnitt 6",
+        "title": "Bu\u00dfgeldvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE003500000",
+        "name": "\u00a7 33",
+        "title": "Bu\u00dfgeldvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG000900000"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 8 Absatz 1 nicht sicherstellt, dass ein Ger\u00e4t nach einer dort genannten Anforderung entworfen und hergestellt wurde,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 8 Absatz 2 Satz 1 ein Ger\u00e4t in Verkehr bringt,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 8 Absatz 3, auch in Verbindung mit \u00a7 10 Absatz 3 Nummer 1, oder entgegen \u00a7 12 Absatz 2 eine technische Unterlage, die EU-Konformit\u00e4tserkl\u00e4rung oder eine dort genannte Kopie nicht oder nicht mindestens zehn Jahre bereith\u00e4lt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 9 Absatz 1, nicht daf\u00fcr Sorge tr\u00e4gt, dass ein Ger\u00e4t eine dort genannte Information tr\u00e4gt oder dass eine dort genannte Information angegeben wird,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 9 Absatz 2 Satz 1 oder 2 oder \u00a7 12 Absatz 1 Satz 1 oder 2 eine Angabe nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 9 Absatz 3 nicht sicherstellt, dass einem Ger\u00e4t eine dort genannte Information beigef\u00fcgt ist,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 9 Absatz 4 Satz 1, auch in Verbindung mit \u00a7 10 Absatz 3 Nummer 2, entgegen \u00a7 12 Absatz 3 Satz 1 oder \u00a7 13 Absatz 5 Satz 1 eine Information oder eine Unterlage nicht, nicht richtig, nicht vollst\u00e4ndig, nicht in der vorgeschriebenen Weise oder nicht rechtzeitig zur Verf\u00fcgung stellt,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 9 Absatz 4 Satz 3, auch in Verbindung mit \u00a7 10 Absatz 3 Nummer 3, entgegen \u00a7 12 Absatz 3 Satz 3 oder \u00a7 13 Absatz 5 Satz 3 bei einer Ma\u00dfnahme nicht, nicht richtig oder nicht rechtzeitig mitwirkt,</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 11 Absatz 2 ein Ger\u00e4t in Verkehr bringt,</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 13 Absatz 1 ein Ger\u00e4t auf dem Markt bereitstellt,</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 15 Absatz 1 einen Wirtschaftsakteur nicht, nicht richtig oder nicht rechtzeitig nennt,</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA>entgegen \u00a7 20 Absatz 1 Satz 2 eine technische Dokumentation nicht oder nicht f\u00fcr die vorgeschriebene Dauer bereith\u00e4lt oder</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA>einer vollziehbaren Anordnung nach \u00a7 29 Absatz 1 Satz 1 zuwiderhandelt.</LA></DD></DL></P><P>(2) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nummer 1 und 2 mit einer Geldbu\u00dfe bis zu hunderttausend Euro, in den \u00fcbrigen F\u00e4llen mit einer Geldbu\u00dfe bis zu zehntausend Euro geahndet werden.</P><P>(3) Ger\u00e4te, auf die sich eine Ordnungswidrigkeit nach Absatz 1 Nummer 1, 9 oder 10 bezieht, k\u00f6nnen eingezogen werden.</P><P>(4) Verwaltungsbeh\u00f6rde im Sinne des \u00a7 36 Absatz 1 Nummer 1 des Gesetzes \u00fcber Ordnungswidrigkeiten ist die Bundesnetzagentur.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR287910016BJNG001000000",
+        "name": "Abschnitt 7",
+        "title": "Schlussbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR287910016BJNE003600000",
+        "name": "\u00a7 34",
+        "title": "\u00dcbergangsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR287910016BJNG001000000"
+        },
+        "body": "<P>(1) Ger\u00e4te, die den Bestimmungen des Gesetzes \u00fcber die elektromagnetische Vertr\u00e4glichkeit von Betriebsmitteln vom 26. Februar 2008 (BGBl. I S. 220), das zuletzt durch Artikel 626 Absatz 9 der Verordnung vom 31. August 2015 (BGBl. I S. 1474) ge\u00e4ndert worden ist, diese wiederum ge\u00e4ndert durch Artikel 5 Absatz 9 des Gesetzes vom 18. Juli 2016 (BGBl. I S. 1666), entsprechen und vor dem 20. April 2016 in Verkehr gebracht oder in Betrieb genommen wurden, d\u00fcrfen weiter auf dem Markt bereitgestellt und/oder in Betrieb genommen werden.</P><P>(2) Ortsfeste Anlagen d\u00fcrfen so lange weiter betrieben werden, wie ihr Standort unver\u00e4ndert bleibt. \u00c4nderungen m\u00fcssen gem\u00e4\u00df \u00a7 20 Absatz 1 Satz 2 und 3 dokumentiert werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR011220967",
+    "firstPublished": "1967-10-30",
+    "sourceTimestamp": "20160617215511",
+    "titleShort": null,
+    "titleLong": "Bekanntmachung zu \u00a7 4 des Warenzeichengesetzes",
+    "abbreviation": "WZG\u00a74HUNBek",
+    "slug": "wzg_4hunbek",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1967, 1122",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab: 10.11.1967 +++)</P>"
+    },
+    "attachments": {
+      "bgbl1_1967_j1123_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/wzg_4hunbek/bgbl1_1967_j1123_0010.jpg",
+      "bgbl1_1967_j1124_0010.jpg": "https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/wzg_4hunbek/bgbl1_1967_j1124_0010.jpg"
+    },
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR011220967BJNE000100303",
+        "name": "(XXXX)",
+        "title": null,
+        "parent": null,
+        "body": "<P>(1) Auf Grund des \u00a7 4 Abs. 2 Nr. 3 des Warenzeichengesetzes in der Fassung vom 9. Mai 1961 (Bundesgesetzbl. I S. 549, 574), zuletzt ge\u00e4ndert durch Gesetz vom 4. September 1967 (Bundesgesetzbl. I S. 953), werden in der Anlage amtliche Pr\u00fcf- und Gew\u00e4hrzeichen bekanntgemacht, die in der Volksrepublik Ungarn f\u00fcr Erzeugnisse aus Edelmetallen eingef\u00fchrt sind.</P><P>(2) Diese Bekanntmachung ergeht im Anschlu\u00df an die Bekanntmachung vom 17. Mai 1967 (Bundesgesetzblatt I S. 574).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011220967BJNE000900303",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Bundesminister der Justiz</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR011220967BJNE000200303",
+        "name": "Anlage",
+        "title": "Ungarische Pr\u00fcf- und Gew\u00e4hrzeichen",
+        "parent": null,
+        "body": "<P><noindex><kommentar typ=\"Fundstelle\">(Fundstelle: BGBl. I 1967, 1123 - 1124)</kommentar></noindex><IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_1967_j1123_0010.jpg\" /><BR /><BR /><IMG Align=\"center\" Pos=\"block\" SRC=\"bgbl1_1967_j1124_0010.jpg\" /></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

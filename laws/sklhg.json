@@ -1,0 +1,63 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR004250895",
+    "firstPublished": "1895-07-28",
+    "sourceTimestamp": "20120625154416",
+    "titleShort": null,
+    "titleLong": "Gesetz betreffend die Bestrafung des Sklavenraubes und des Sklavenhandels",
+    "abbreviation": "SklHG",
+    "slug": "sklhg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1895, 425",
+        "periodical": "RGBl"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 54 G v. 8.12.2010 I 1864",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis Geltung ab: 1.1.1975 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR004250895BJNE000101360",
+        "name": "\u00a7 1",
+        "title": "(weggefallen)",
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR004250895BJNE000200303",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": null,
+        "body": "<P>Wer Sklavenhandel betreibt oder bei der diesem Handel dienenden Bef\u00f6rderung von Sklaven vors\u00e4tzlich mitwirkt, wird mit Freiheitsstrafe nicht unter einem Jahr bestraft. In minder schweren F\u00e4llen ist die Strafe Freiheitsstrafe von drei Monaten bis zu f\u00fcnf Jahren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR004250895BJNE000300303",
+        "name": "(XXXX) \u00a7\u00a7 3 bis 5",
+        "title": null,
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

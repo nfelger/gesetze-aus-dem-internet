@@ -1,0 +1,783 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR237610001",
+    "firstPublished": "2001-09-13",
+    "sourceTimestamp": "20200103213439",
+    "titleShort": "Wohnraumf\u00f6rderungsgesetz",
+    "titleLong": "Gesetz \u00fcber die soziale Wohnraumf\u00f6rderung",
+    "abbreviation": "WoFG",
+    "slug": "wofg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2001, 2376",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 42 G v. 20.11.2019 I 1626",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2002 +++)<BR /><BR /></pre>Das G wurde als Artikel 1 G 2330-32/1 v. 13.9.2001 I 2376 (WoBauRG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 28 Abs. 1 dieses G mWv 1.1.2002 in Kraft. \u00a7 9 Abs. 3 ist gem. Art. 28 Abs. 2 mWv 20.9.2001 in Kraft getreten.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000000000",
+        "name": "Inhalts\u00fcbersicht",
+        "title": null,
+        "parent": null,
+        "body": "<P> <table frame=\"none\" pgwide=\"1\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"5\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col3\" colnum=\"3\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col4\" colnum=\"4\" colwidth=\"5*\" />\n\t\t<colspec colname=\"col5\" colnum=\"5\" colwidth=\"90*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Teil 1</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Allgemeines zur F\u00f6rderung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Abschnitt 1</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Zweck und Ma\u00dfnahmen der F\u00f6rderung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 1</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zweck und Anwendungsbereich, Zielgruppe</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 2</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">F\u00f6rdergegenst\u00e4nde und F\u00f6rdermittel</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 3</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Durchf\u00fchrung der Aufgaben und Zust\u00e4ndigkeiten</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 4</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bauland, sonstige Rahmenbedingungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Abschnitt 2</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Grunds\u00e4tze, Voraussetzungen und F\u00f6rderzusage</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 5</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anforderungen an die F\u00f6rderung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 6</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Allgemeine F\u00f6rdergrunds\u00e4tze</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 7</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besondere Grunds\u00e4tze zur F\u00f6rderung von Mietwohnraum</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 8</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Besondere Grunds\u00e4tze zur F\u00f6rderung der Bildung selbst genutzten Wohneigentums</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 9</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einkommensgrenzen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 10</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wohnungsgr\u00f6\u00dfen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 11</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">F\u00f6rderempf\u00e4nger</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 12</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bevorzugung von Ma\u00dfnahmen, zus\u00e4tzliche F\u00f6rderung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 13</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">F\u00f6rderzusage</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Abschnitt 3</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Kooperationsvertrag</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 14</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zweck, Beteiligte</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 15</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gegenst\u00e4nde des Kooperationsvertrags</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Teil 2</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Begriffsbestimmungen, Durchf\u00fchrung der sozialen Wohnraumf\u00f6rderung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Abschnitt 1</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Begriffsbestimmungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 16</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wohnungsbau, Modernisierung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 17</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wohnraum</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 18</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Haushaltsangeh\u00f6rige</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 19</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wohnfl\u00e4che, Betriebskosten</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Abschnitt 2</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Einkommensermittlung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 20</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gesamteinkommen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 21</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Begriff des Jahreseinkommens</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 22</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zeitraum f\u00fcr die Ermittlung des Jahreseinkommens</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 23</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Pauschaler Abzug</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 24</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Frei- und Abzugsbetr\u00e4ge</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Abschnitt 3</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Begr\u00fcndung und Sicherung von Belegungs- und Mietbindungen sowie von Bindungen f\u00fcr selbst genutztes Wohneigentum</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 25</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendungsbereich</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 26</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Gegenst\u00e4nde und Arten der Belegungsrechte</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 27</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wohnberechtigungsschein, Sicherung der Belegungsrechte</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 28</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bestimmung und Sicherung der h\u00f6chstzul\u00e4ssigen Miete</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 29</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Dauer der Belegungs- und Mietbindungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 30</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Freistellung von Belegungsbindungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 31</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00dcbertragung von Belegungs- und Mietbindungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 32</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonstige Vorschriften der Sicherung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 33</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Geldleistung bei Gesetzesverst\u00f6\u00dfen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col3\" valign=\"top\">Abschnitt 4</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col4\" valign=\"top\">Ausgleich von Fehlf\u00f6rderungen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 34</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Grundlagen der Ausgleichszahlung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 35</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Einkommensermittlung und Einkommensnachweis</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 36</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">H\u00f6he der Ausgleichszahlung und Leistungszeitraum</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 37</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Wegfall und Minderung der Ausgleichszahlung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Teil 3</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Bundesmittel</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 38</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bereitstellung und Verteilung von Finanzhilfen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 39</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Verzinsung und Tilgung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 40</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">R\u00fcckfl\u00fcsse an den Bund</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Teil 4</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">Erg\u00e4nzungsvorschriften</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 41</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Berichterstattung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 42</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">F\u00f6rderstatistik</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 43</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Ma\u00dfnahmen zur Baukostensenkung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 44</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Sonderregelungen f\u00fcr einzelne L\u00e4nder</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 45</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">F\u00f6rderung mit Wohnungsf\u00fcrsorgemitteln</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col1\" valign=\"top\">Teil 5</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">\u00a0</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col5\" namest=\"col2\" valign=\"top\">\u00dcberleitungs- und Schlussvorschriften</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 46</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Zeitlicher Anwendungsbereich</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 47</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Darlehen des Bundes und F\u00f6rderung auf Grund fr\u00fcheren Rechts</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 48</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung des Zweiten Wohnungsbaugesetzes</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 49</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung des Wohnungsbaugesetzes f\u00fcr das Saarland</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 50</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 51</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Anwendung des Gesetzes \u00fcber den Abbau der Fehlsubventionierung im Wohnungswesen</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" nameend=\"col4\" namest=\"col1\" valign=\"top\">\u00a7 52</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">Bu\u00dfgeldvorschriften</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> </P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG000200000",
+        "name": "Teil 1",
+        "title": "Allgemeines zur F\u00f6rderung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG000300000",
+        "name": "Abschnitt 1",
+        "title": "Zweck und Ma\u00dfnahmen der F\u00f6rderung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Zweck und Anwendungsbereich, Zielgruppe",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000300000"
+        },
+        "body": "<P>(1) Dieses Gesetz regelt die F\u00f6rderung des Wohnungsbaus und anderer Ma\u00dfnahmen zur Unterst\u00fctzung von Haushalten bei der Versorgung mit Mietwohnraum, einschlie\u00dflich genossenschaftlich genutzten Wohnraums, und bei der Bildung von selbst genutztem Wohneigentum (soziale Wohnraumf\u00f6rderung).</P><P>(2) Zielgruppe der sozialen Wohnraumf\u00f6rderung sind Haushalte, die sich am Markt nicht angemessen mit Wohnraum versorgen k\u00f6nnen und auf Unterst\u00fctzung angewiesen sind. Unter diesen Voraussetzungen unterst\u00fctzt <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die F\u00f6rderung von Mietwohnraum insbesondere Haushalte mit geringem Einkommen sowie Familien und andere Haushalte mit Kindern, Alleinerziehende, Schwangere, \u00e4ltere Menschen, behinderte Menschen, Wohnungslose und sonstige hilfebed\u00fcrftige Personen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die F\u00f6rderung der Bildung selbst genutzten Wohneigentums insbesondere Familien und andere Haushalte mit Kindern sowie behinderte Menschen, die unter Ber\u00fccksichtigung ihres Einkommens und der Eigenheimzulage die Belastungen des Baus oder Erwerbs von Wohnraum ohne soziale Wohnraumf\u00f6rderung nicht tragen k\u00f6nnen.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "F\u00f6rdergegenst\u00e4nde und F\u00f6rdermittel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000300000"
+        },
+        "body": "<P>(1) F\u00f6rdergegenst\u00e4nde sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohnungsbau, einschlie\u00dflich des erstmaligen Erwerbs des Wohnraums innerhalb von zwei Jahren nach Fertigstellung (Ersterwerb),</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Modernisierung von Wohnraum,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erwerb von Belegungsrechten an bestehendem Wohnraum und</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Erwerb bestehenden Wohnraums,</LA></DD> </DL>wenn damit die Unterst\u00fctzung von Haushalten bei der Versorgung mit Mietwohnraum durch Begr\u00fcndung von Belegungs- und Mietbindungen oder bei der Bildung von selbst genutztem Wohneigentum erfolgt.</P><P>(2) Die F\u00f6rderung erfolgt durch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gew\u00e4hrung von F\u00f6rdermitteln, die aus \u00f6ffentlichen Haushalten oder Zweckverm\u00f6gen als Darlehen zu Vorzugsbedingungen, auch zur nachstelligen Finanzierung, oder als Zusch\u00fcsse bereitgestellt werden,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00dcbernahme von B\u00fcrgschaften, Garantien und sonstigen Gew\u00e4hrleistungen sowie</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bereitstellung von verbilligtem Bauland.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000301310",
+        "name": "\u00a7 3",
+        "title": "Durchf\u00fchrung der Aufgaben und Zust\u00e4ndigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000300000"
+        },
+        "body": "<P>(1) L\u00e4nder, Gemeinden und Gemeindeverb\u00e4nde wirken nach Ma\u00dfgabe dieses Gesetzes bei der sozialen Wohnraumf\u00f6rderung zusammen.</P><P>(2) Die L\u00e4nder f\u00fchren die soziale Wohnraumf\u00f6rderung als eigene Aufgabe durch. Sie legen das Verwaltungsverfahren fest, soweit dieses Gesetz keine Regelungen trifft. Zust\u00e4ndige Stelle im Sinne dieses Gesetzes ist die Stelle, die nach Landesrecht zust\u00e4ndig ist oder von der Landesregierung in sonstiger Weise bestimmt wird.</P><P>(3) Die L\u00e4nder sollen bei der sozialen Wohnraumf\u00f6rderung die wohnungswirtschaftlichen Belange der Gemeinden und Gemeindeverb\u00e4nde ber\u00fccksichtigen; dies gilt insbesondere, wenn sich eine Gemeinde oder ein Gemeindeverband an der F\u00f6rderung beteiligt. Die L\u00e4nder k\u00f6nnen bei ihrer F\u00f6rderung ein von einer Gemeinde oder einem Gemeindeverband beschlossenes Konzept zur sozialen Wohnraumversorgung (kommunales Wohnraumversorgungskonzept) zu Grunde legen.</P><P>(4) Gemeinden und Gemeindeverb\u00e4nde k\u00f6nnen mit eigenen Mitteln eine F\u00f6rderung nach diesem Gesetz und den hierzu erlassenen landesrechtlichen Vorschriften durchf\u00fchren, soweit nicht im \u00dcbrigen Landesrecht entgegensteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000401310",
+        "name": "\u00a7 4",
+        "title": "Bauland, sonstige Rahmenbedingungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000300000"
+        },
+        "body": "<P>(1) L\u00e4nder, Gemeinden, Gemeindeverb\u00e4nde, sonstige K\u00f6rperschaften, Anstalten und Stiftungen des \u00f6ffentlichen Rechts und die von ihnen wirtschaftlich abh\u00e4ngigen Unternehmen sollen in ausreichendem Umfang geeignete Grundst\u00fccke als Bauland f\u00fcr den Wohnungsbau unter Ber\u00fccksichtigung der Anforderungen des Kosten und Fl\u00e4chen sparenden Bauens zu Eigentum oder in Erbbaurecht \u00fcberlassen.</P><P>(2) Die Gemeinden sollen im Rahmen der Gesetze daf\u00fcr Sorge tragen, dass f\u00fcr den Wohnungsbau erforderliche Grundst\u00fccke bebaut und erforderliche Modernisierungsma\u00dfnahmen durchgef\u00fchrt werden k\u00f6nnen. Dabei soll auf die Anforderungen des Kosten und Fl\u00e4chen sparenden Bauens geachtet werden.</P><P>(3) Die Gemeinden sollen Bauwillige, die ein Baugrundst\u00fcck erwerben wollen, beraten und unterst\u00fctzen.</P><P>(4) Aus den Abs\u00e4tzen 1 bis 3 k\u00f6nnen Anspr\u00fcche nicht hergeleitet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG000400000",
+        "name": "Abschnitt 2",
+        "title": "Grunds\u00e4tze, Voraussetzungen und\nF\u00f6rderzusage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Anforderungen an die F\u00f6rderung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>(1) Die soziale Wohnraumf\u00f6rderung wird nach diesem Gesetz und hierzu erlassenen Vorschriften des Landes durchgef\u00fchrt.</P><P>(2) Die L\u00e4nder treffen soweit erforderlich auf der Grundlage dieses Gesetzes Bestimmungen, insbesondere \u00fcber Voraussetzungen der F\u00f6rderung und deren Durchf\u00fchrung.</P><P>(3) Die in den \u00a7\u00a7 6 bis 8 und 10 bezeichneten Grunds\u00e4tze sind bei den Bestimmungen nach Absatz 2 und, soweit solche Bestimmungen nicht getroffen sind, bei Entscheidungen, die zur F\u00f6rderung ergehen, in der Abw\u00e4gung und bei der Ermessensaus\u00fcbung zu ber\u00fccksichtigen. Die L\u00e4nder k\u00f6nnen weitere Grunds\u00e4tze aufstellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000600000",
+        "name": "\u00a7 6",
+        "title": "Allgemeine F\u00f6rdergrunds\u00e4tze",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>Die soziale Wohnraumf\u00f6rderung ist der Nachhaltigkeit einer Wohnraumversorgung verpflichtet, die die wirtschaftlichen und sozialen Erfordernisse mit der Erhaltung der Umwelt in Einklang bringt. Bei der F\u00f6rderung sind zu ber\u00fccksichtigen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00f6rtlichen und regionalen wohnungswirtschaftlichen Verh\u00e4ltnisse und Zielsetzungen, die erkennbaren unterschiedlichen Investitionsbedingungen des Bauherrn sowie die besonderen Anforderungen des zu versorgenden Personenkreises;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Beitrag des genossenschaftlichen Wohnens zur Erreichung der Ziele und Zwecke der sozialen Wohnraumf\u00f6rderung;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Schaffung und Erhaltung sozial stabiler Bewohnerstrukturen;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Schaffung und Erhaltung ausgewogener Siedlungsstrukturen sowie ausgeglichener wirtschaftlicher, sozialer und kultureller Verh\u00e4ltnisse, die funktional sinnvolle Zuordnung der Wohnbereiche zu den Arbeitspl\u00e4tzen und der Infrastruktur (Nutzungsmischung) sowie die ausreichende Anbindung des zu f\u00f6rdernden Wohnraums an den \u00f6ffentlichen Personennahverkehr;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Nutzung des Wohnungs- und Geb\u00e4udebestandes f\u00fcr die Wohnraumversorgung;</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Erhaltung preisg\u00fcnstigen Wohnraums im Fall der F\u00f6rderung der Modernisierung;</LA></DD> <DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anforderungen des Kosten sparenden Bauens, insbesondere durch<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Begrenzung der F\u00f6rderung auf einen bestimmten Betrag (F\u00f6rderpauschale),</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Festlegung von Kostenobergrenzen, deren \u00dcberschreitung eine F\u00f6rderung ausschlie\u00dft, oder</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">die Vergabe von F\u00f6rdermitteln im Rahmen von Wettbewerbsverfahren;</LA></DD> </DL></LA></DD> <DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anforderungen des barrierefreien Bauens f\u00fcr die Nutzung von Wohnraum und seines Umfelds durch Personen, die infolge von Alter, Behinderung oder Krankheit dauerhaft oder vor\u00fcbergehend in ihrer Mobilit\u00e4t eingeschr\u00e4nkt sind;</LA></DD> <DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">der sparsame Umgang mit Grund und Boden, die \u00f6kologischen Anforderungen an den Bau und die Modernisierung von Wohnraum sowie Ressourcen schonende Bauweisen.</LA></DD> </DL>Ma\u00dfnahmen der sozialen Wohnraumf\u00f6rderung, die im Zusammenhang mit st\u00e4dtebaulichen Sanierungs- und Entwicklungsma\u00dfnahmen stehen, sind bevorzugt zu ber\u00fccksichtigen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000700000",
+        "name": "\u00a7 7",
+        "title": "Besondere Grunds\u00e4tze zur F\u00f6rderung von Mietwohnraum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>Bei der F\u00f6rderung von Mietwohnraum sind folgende Grunds\u00e4tze zu ber\u00fccksichtigen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Um tragbare Wohnkosten f\u00fcr Haushalte im Sinne des \u00a7 1 Abs. 2 Satz 2 Nr. 1 zu erreichen, k\u00f6nnen Wohnkostenentlastungen durch Bestimmung h\u00f6chstzul\u00e4ssiger Mieten unterhalb von orts\u00fcblichen Vergleichsmieten oder durch sonstige Ma\u00dfnahmen vorgesehen werden. Dabei sind insbesondere die Leistungen nach dem Wohngeldgesetz sowie das \u00f6rtliche Mietenniveau und das Haushaltseinkommen des Mieters sowie deren Entwicklungen zu ber\u00fccksichtigen.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohnkostenentlastungen, die nach F\u00f6rderzweck und Zielgruppe sowie F\u00f6rderintensit\u00e4t unangemessen sind (Fehlf\u00f6rderungen), sind zu vermeiden oder auszugleichen. Ma\u00dfnahmen zur Vermeidung von Fehlf\u00f6rderungen sind Vorkehrungen bei der F\u00f6rderung, durch die die Wohnkostenentlastung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund von Bestimmungen in der F\u00f6rderzusage oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund eines Vorbehalts in der F\u00f6rderzusage durch Entscheidung der zust\u00e4ndigen Stelle</LA></DD> </DL></LA><LA Size=\"normal\">vermindert wird. Eine Ma\u00dfnahme zum Ausgleich entstandener Fehlf\u00f6rderungen in F\u00e4llen der Festlegung von h\u00f6chstzul\u00e4ssigen Mieten ist die Erhebung von Ausgleichszahlungen nach den \u00a7\u00a7 34 bis 37.</LA></DD>  <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bei der Vermeidung und dem Ausgleich von Fehlf\u00f6rderungen sind soweit erforderlich Ver\u00e4nderungen der f\u00fcr die Wohnkostenentlastung ma\u00dfgeblichen Einkommensverh\u00e4ltnisse und der Haushaltsgr\u00f6\u00dfe durch \u00dcberpr\u00fcfungen in regelm\u00e4\u00dfigen zeitlichen Abst\u00e4nden zu ber\u00fccksichtigen.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000800000",
+        "name": "\u00a7 8",
+        "title": "Besondere Grunds\u00e4tze zur F\u00f6rderung der Bildung selbst genutzten\nWohneigentums",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>Bei der F\u00f6rderung der Bildung selbst genutzten Wohneigentums nach \u00a7 1 Abs. 2 Satz 2 Nr. 2 sind folgende Grunds\u00e4tze zu ber\u00fccksichtigen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die F\u00f6rderung der Bildung selbst genutzten Wohneigentums erfolgt bevorzugt f\u00fcr Familien und andere Haushalte mit zwei und mehr Kindern im Sinne des \u00a7 32 Abs. 1 bis 5 des Einkommensteuergesetzes sowie f\u00fcr Haushalte, bei denen wegen einer Behinderung eines Haushaltsangeh\u00f6rigen oder aus sonstigen Gr\u00fcnden ein besonderer baulicher Bedarf besteht.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Um eine angemessene Belastung des Bauherrn oder des Erwerbers des selbst genutzten Wohneigentums zu erreichen, sind bei der Festlegung der F\u00f6rderung insbesondere die Einkommensentwicklung und die Eigenheimzulage nach dem Eigenheimzulagengesetz zu ber\u00fccksichtigen. Fehlf\u00f6rderungen sind zu vermeiden. Soweit dies durch eine F\u00f6rderung erfolgt, die auf die Entwicklung des Haushaltseinkommens abstellt, sind Ver\u00e4nderungen der ma\u00dfgeblichen Einkommensverh\u00e4ltnisse und der Haushaltsgr\u00f6\u00dfe durch \u00dcberpr\u00fcfungen in regelm\u00e4\u00dfigen zeitlichen Abst\u00e4nden zu ber\u00fccksichtigen.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE000901320",
+        "name": "\u00a7 9",
+        "title": "Einkommensgrenzen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>(1) Die F\u00f6rderung darf nur Haushalte beg\u00fcnstigen, deren Einkommen die Grenzen f\u00fcr das j\u00e4hrliche Einkommen, die in Absatz 2 bezeichnet oder von den L\u00e4ndern nach Absatz 3 abweichend festgelegt sind, nicht \u00fcberschreiten. Bei der Ermittlung des Einkommens sind die \u00a7\u00a7 20 bis 24 anzuwenden.</P><P>(2) Die Einkommensgrenze betr\u00e4gt: <BR /><table frame=\"none\" tocentry=\"%yes;\">\n\t<tgroup align=\"left\" char=\"\" charoff=\"50\" cols=\"2\" colsep=\"0\" rowsep=\"0\">\n\t\t<colspec colname=\"col1\" colnum=\"1\" colwidth=\"70*\" />\n\t\t<colspec colname=\"col2\" colnum=\"2\" colwidth=\"20*\" />\n\t\t<tbody valign=\"top\">\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">f\u00fcr einen Einpersonenhaushalt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">12.000 Euro,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">f\u00fcr einen Zweipersonenhaushalt</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">18.000 Euro,</entry>\n\t\t\t</row>\n\t\t\t<row>\n\t\t\t\t<entry VJ=\"1\" align=\"left\" colsep=\"0\" valign=\"top\">zuz\u00fcglich f\u00fcr jede weitere zum Haushalt rechnende Person</entry>\n\t\t\t\t<entry VJ=\"1\" align=\"right\" colsep=\"0\" valign=\"bottom\">4.100 Euro.</entry>\n\t\t\t</row>\n\t\t</tbody>\n\t</tgroup>\n</table> <BR />Sind zum Haushalt rechnende Personen Kinder im Sinne des \u00a7 32 Abs. 1 bis 5 des Einkommensteuergesetzes, erh\u00f6ht sich die Einkommensgrenze nach Satz 1 f\u00fcr jedes Kind um weitere 500 Euro.</P><P>(3) Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung von den in Absatz 2 bezeichneten Einkommensgrenzen nach den \u00f6rtlichen und regionalen wohnungswirtschaftlichen Verh\u00e4ltnissen insbesondere <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Ber\u00fccksichtigung von Haushalten mit Schwierigkeiten bei der Wohnraumversorgung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Rahmen der F\u00f6rderung von selbst genutztem Wohneigentum oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Schaffung oder Erhaltung sozial stabiler Bewohnerstrukturen</LA></DD> </DL>Abweichungen festzulegen. Die Landesregierungen k\u00f6nnen diese Erm\u00e4chtigung durch Rechtsverordnung auf eine oberste Landesbeh\u00f6rde \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001000000",
+        "name": "\u00a7 10",
+        "title": "Wohnungsgr\u00f6\u00dfen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>(1) Bei Bestimmungen der L\u00e4nder \u00fcber die Grenzen f\u00fcr Wohnungsgr\u00f6\u00dfen sind folgende Grunds\u00e4tze zu ber\u00fccksichtigen: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die Gr\u00f6\u00dfe der zu f\u00f6rdernden Wohnung muss entsprechend ihrer Zweckbestimmung angemessen sein.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Besonderheiten bei Ma\u00dfnahmen im Geb\u00e4udebestand und bei selbst genutztem Wohneigentum sowie besonderen pers\u00f6nlichen oder beruflichen Bed\u00fcrfnissen von Haushaltsangeh\u00f6rigen und einem nach der Lebenserfahrung in absehbarer Zeit zu erwartenden zus\u00e4tzlichen Raumbedarf ist Rechnung zu tragen.</LA></DD> </DL> </P><P>(2) Bei der Berechnung der Wohnfl\u00e4che ist \u00a7 19 Abs. 1 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001100000",
+        "name": "\u00a7 11",
+        "title": "F\u00f6rderempf\u00e4nger",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>(1) Empf\u00e4nger der F\u00f6rderung ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei Ma\u00dfnahmen des Wohnungsbaus und der Modernisierung derjenige, der das Bauvorhaben f\u00fcr eigene oder fremde Rechnung im eigenen Namen durchf\u00fchrt oder durch Dritte durchf\u00fchren l\u00e4sst (Bauherr),</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Ersterwerb vom Bauherrn zur Selbstnutzung der Erwerber des Wohnraums,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Erwerb aus dem Bestand zur Selbstnutzung der Erwerber des Wohnraums,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">beim Erwerb von Belegungsrechten der Eigent\u00fcmer oder der sonstige zur Einr\u00e4umung von Belegungsrechten an dem Wohnraum Berechtigte.</LA></DD> </DL> </P><P>(2) Soweit F\u00f6rdermittel an einen Bautr\u00e4ger vergeben werden, ist die Vergabe mit der Auflage zu verbinden, dass der Bautr\u00e4ger den gef\u00f6rderten Wohnraum zu angemessenen Bedingungen dem Erwerber alsbald zur Selbstnutzung \u00fcbertr\u00e4gt.</P><P>(3) Die Gew\u00e4hrung von F\u00f6rdermitteln setzt voraus, dass <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bauherr Eigent\u00fcmer eines geeigneten Baugrundst\u00fccks ist oder nachweist, dass der Erwerb eines derartigen Grundst\u00fccks gesichert ist oder durch die Gew\u00e4hrung der F\u00f6rdermittel gesichert wird,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Gew\u00e4hr f\u00fcr eine ordnungsm\u00e4\u00dfige und wirtschaftliche Durchf\u00fchrung des Bauvorhabens und f\u00fcr eine ordnungsm\u00e4\u00dfige Verwaltung des Wohnraums besteht,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bauherr die erforderliche Leistungsf\u00e4higkeit und Zuverl\u00e4ssigkeit besitzt,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der F\u00f6rderung von selbst genutztem Wohneigentum die Belastung auf Dauer tragbar erscheint und</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Bauherr eine angemessene Eigenleistung erbringt, f\u00fcr die eigene Geldmittel, der Wert des nicht durch Fremdmittel finanzierten Baugrundst\u00fccks oder Selbsthilfe im Sinne des \u00a7 12 Abs. 1 Satz 2 in Betracht kommen.</LA></DD> </DL>F\u00f6rdermittel k\u00f6nnen auch einem Bauherrn oder einem sonstigen F\u00f6rderempf\u00e4nger gew\u00e4hrt werden, f\u00fcr den an einem geeigneten Grundst\u00fcck ein Erbbaurecht von angemessener Dauer bestellt ist oder der nachweist, dass der Erwerb eines derartigen Erbbaurechts gesichert ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001200000",
+        "name": "\u00a7 12",
+        "title": "Bevorzugung von Ma\u00dfnahmen, zus\u00e4tzliche F\u00f6rderung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>(1) Ma\u00dfnahmen, bei denen Bauherren in Selbsthilfe t\u00e4tig werden oder bei denen Mieter von Wohnraum Leistungen erbringen, durch die sie im Rahmen des Mietverh\u00e4ltnisses Verg\u00fcnstigungen erlangen, k\u00f6nnen bei der F\u00f6rderung bevorzugt werden. Selbsthilfe sind die Arbeitsleistungen, die zur Durchf\u00fchrung der gef\u00f6rderten Ma\u00dfnahmen vom Bauherrn selbst, seinen Angeh\u00f6rigen oder von anderen unentgeltlich oder auf Gegenseitigkeit oder von Mitgliedern von Genossenschaften erbracht werden. Leistungen von Mietern sind die von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Mietern f\u00fcr die gef\u00f6rderten Ma\u00dfnahmen erbrachten Finanzierungsanteile, Arbeitsleistungen oder Sachleistungen und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Genossenschaftsmitgliedern \u00fcbernommenen weiteren Gesch\u00e4ftsanteile, soweit sie f\u00fcr die gef\u00f6rderten Ma\u00dfnahmen \u00fcber die Pflichtanteile hinaus erbracht werden.</LA></DD> </DL> </P><P>(2) Eine zus\u00e4tzliche F\u00f6rderung f\u00fcr notwendigen Mehraufwand kann insbesondere gew\u00e4hrt werden bei <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ressourcen schonenden Bauweisen, die besonders wirksam zur Entlastung der Umwelt, zum Schutz der Gesundheit und zur rationellen Energieverwendung beitragen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">besonderen baulichen Ma\u00dfnahmen, mit denen Belangen behinderter oder \u00e4lterer Menschen Rechnung getragen wird,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer organisierten Gruppenselbsthilfe f\u00fcr den bei der Vorbereitung und Durchf\u00fchrung der Ma\u00dfnahmen entstehenden Aufwand,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">besonderen experimentellen Ans\u00e4tzen zur Weiterentwicklung des Wohnungsbaus.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001300000",
+        "name": "\u00a7 13",
+        "title": "F\u00f6rderzusage",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000400000"
+        },
+        "body": "<P>(1) Die F\u00f6rderung wird auf Antrag durch eine F\u00f6rderzusage der zust\u00e4ndigen Stelle gew\u00e4hrt.</P><P>(2) In der F\u00f6rderzusage sind Bestimmungen zu treffen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00fcber Zweckbestimmung, Einsatzart und H\u00f6he der F\u00f6rderung, Dauer der Gew\u00e4hrung, Verzinsung und Tilgung der F\u00f6rdermittel, Einhaltung von Einkommensgrenzen und Wohnungsgr\u00f6\u00dfen, Rechtsfolgen eines Eigentumswechsels an dem gef\u00f6rderten Gegenstand sowie</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei der F\u00f6rderung von Mietwohnraum zus\u00e4tzlich unter Anwendung des Abschnitts 3 des Teils 2 \u00fcber Gegenstand, Art und Dauer der Belegungsbindungen sowie Art, H\u00f6he und Dauer der Mietbindungen.</LA></DD> </DL>In die F\u00f6rderzusage k\u00f6nnen weitere f\u00fcr den jeweiligen F\u00f6rderzweck erforderliche Bestimmungen aufgenommen werden.</P><P>(3) Die F\u00f6rderzusage erfolgt durch Verwaltungsakt oder durch \u00f6ffentlich-rechtlichen Vertrag; sie bedarf der Schriftform. Die sich aus der F\u00f6rderzusage ergebenden Berechtigungen und Verpflichtungen gehen nach den in der F\u00f6rderzusage f\u00fcr den Fall des Eigentumswechsels enthaltenen Bestimmungen auf den Rechtsnachfolger \u00fcber.</P><P>(4) Ein Anspruch auf F\u00f6rderung besteht nicht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG000500000",
+        "name": "Abschnitt 3",
+        "title": "Kooperationsvertrag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000200000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001400000",
+        "name": "\u00a7 14",
+        "title": "Zweck, Beteiligte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000500000"
+        },
+        "body": "<P>(1) Gemeinden, Gemeindeverb\u00e4nde und sonstige \u00f6ffentliche Stellen k\u00f6nnen mit Eigent\u00fcmern oder sonstigen Verf\u00fcgungsberechtigten von Wohnraum Vereinbarungen \u00fcber Angelegenheiten der \u00f6rtlichen Wohnraumversorgung treffen (Kooperationsvertr\u00e4ge), insbesondere zur Unterst\u00fctzung von Ma\u00dfnahmen der sozialen Wohnraumversorgung einschlie\u00dflich der Verbesserung der Wohnverh\u00e4ltnisse sowie der Schaffung oder Erhaltung sozial stabiler Bewohnerstrukturen.</P><P>(2) In die Vereinbarungen k\u00f6nnen Dritte, insbesondere \u00f6ffentliche und private Tr\u00e4ger sozialer Aufgaben und andere mit der Durchf\u00fchrung des Kooperationsvertrags Beauftragte, einbezogen werden. Soweit durch Vereinbarungen die Aufgaben der nach \u00a7 3 Abs. 2 Satz 3 zust\u00e4ndigen Stellen ber\u00fchrt werden, sind diese Stellen zu beteiligen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001500000",
+        "name": "\u00a7 15",
+        "title": "Gegenst\u00e4nde des Kooperationsvertrags",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000500000"
+        },
+        "body": "<P>(1) Gegenst\u00e4nde des Kooperationsvertrags k\u00f6nnen insbesondere sein: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Begr\u00fcndung oder Verl\u00e4ngerung von Belegungs- und Mietbindungen an Wohnraum des Eigent\u00fcmers oder sonstigen Verf\u00fcgungsberechtigten zu Gunsten der Gemeinde, einer zust\u00e4ndigen Stelle oder eines Tr\u00e4gers sozialer Aufgaben; die entsprechende Anwendung von Bestimmungen der \u00a7\u00a7 26 bis 32 kann vereinbart werden;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">im Zusammenhang mit Vereinbarungen nach Nummer 1 die \u00dcbernahme von Bewirtschaftungsrisiken sowie die \u00dcbernahme von B\u00fcrgschaften f\u00fcr die Erbringung einmaliger oder sonstiger Nebenleistungen der Mieter;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Aufhebung oder \u00c4nderung von Belegungs- und Mietbindungen an Wohnraum, soweit dies nach den \u00a7\u00a7 30 und 31 zul\u00e4ssig ist und Bestimmungen der F\u00f6rderzusage nicht entgegenstehen;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcbernahme von wohnungswirtschaftlichen, baulichen und sozialen Ma\u00dfnahmen, insbesondere von solchen der Verbesserung des Wohnumfelds, der Behebung sozialer Missst\u00e4nde und der Quartiersverwaltung;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die \u00dcberlassung von Grundst\u00fccken und R\u00e4umen f\u00fcr die mit dem Kooperationsvertrag verfolgten Zwecke.</LA></DD> </DL> </P><P>(2) Die vereinbarten Leistungen eines Kooperationsvertrags m\u00fcssen den gesamten Umst\u00e4nden nach angemessen sein und in sachlichem Zusammenhang mit den jeweils beabsichtigten Ma\u00dfnahmen der Wohnraumversorgung stehen. Die Vereinbarung einer vom Eigent\u00fcmer oder sonstigen Verf\u00fcgungsberechtigten oder von einem in den Vertrag einbezogenen Dritten zu erbringenden Leistung ist unzul\u00e4ssig, wenn er auch ohne sie einen Anspruch auf die Gegenleistung h\u00e4tte.</P><P>(3) Ein Kooperationsvertrag bedarf der Schriftform, soweit nicht durch Rechtsvorschriften eine andere Form vorgeschrieben ist.</P><P>(4) Die Zul\u00e4ssigkeit anderer Vertr\u00e4ge bleibt unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG000600000",
+        "name": "Teil 2",
+        "title": "Begriffsbestimmungen, Durchf\u00fchrung der sozialen\nWohnraumf\u00f6rderung",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG000700000",
+        "name": "Abschnitt 1",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000600000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001600000",
+        "name": "\u00a7 16",
+        "title": "Wohnungsbau, Modernisierung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000700000"
+        },
+        "body": "<P>(1) Wohnungsbau ist das Schaffen von Wohnraum durch <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bauma\u00dfnahmen, durch die Wohnraum in einem neuen selbstst\u00e4ndigen Geb\u00e4ude geschaffen wird,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Beseitigung von Sch\u00e4den an Geb\u00e4uden unter wesentlichem Bauaufwand, durch die die Geb\u00e4ude auf Dauer wieder zu Wohnzwecken nutzbar gemacht werden,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderung, Nutzungs\u00e4nderung oder Erweiterung von Geb\u00e4uden, durch die unter wesentlichem Bauaufwand Wohnraum geschaffen wird, oder</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">\u00c4nderung von Wohnraum unter wesentlichem Bauaufwand zur Anpassung an ge\u00e4nderte Wohnbed\u00fcrfnisse.</LA></DD> </DL> </P><P>(2) Wohnraum oder anderer Raum ist in F\u00e4llen des Absatzes 1 Nr. 2 nicht auf Dauer nutzbar, wenn ein zu seiner Nutzung erforderlicher Geb\u00e4udeteil zerst\u00f6rt ist oder wenn sich der Raum oder der Geb\u00e4udeteil in einem Zustand befindet, der aus bauordnungsrechtlichen Gr\u00fcnden eine dauernde, der Zweckbestimmung entsprechende Nutzung nicht gestattet; dabei ist es unerheblich, ob der Raum oder der Geb\u00e4udeteil tats\u00e4chlich genutzt wird.</P><P>(3) Modernisierung sind bauliche Ma\u00dfnahmen, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Gebrauchswert des Wohnraums oder des Wohngeb\u00e4udes nachhaltig erh\u00f6hen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die allgemeinen Wohnverh\u00e4ltnisse auf Dauer verbessern oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nachhaltig Einsparungen von Energie oder Wasser bewirken.</LA></DD> </DL>Instandsetzungen, die durch Ma\u00dfnahmen der Modernisierung verursacht werden, fallen unter die Modernisierung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001700000",
+        "name": "\u00a7 17",
+        "title": "Wohnraum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000700000"
+        },
+        "body": "<P>(1) Wohnraum ist umbauter Raum, der tats\u00e4chlich und rechtlich zur dauernden Wohnnutzung geeignet und vom Verf\u00fcgungsberechtigten dazu bestimmt ist. Wohnraum k\u00f6nnen Wohnungen oder einzelne Wohnr\u00e4ume sein.</P><P>(2) Selbst genutztes Wohneigentum ist Wohnraum im eigenen Haus oder in einer eigenen Eigentumswohnung, der zu eigenen Wohnzwecken genutzt wird.</P><P>(3) Mietwohnraum ist Wohnraum, der den Bewohnern auf Grund eines Mietverh\u00e4ltnisses oder eines genossenschaftlichen oder sonstigen \u00e4hnlichen Nutzungsverh\u00e4ltnisses zum Gebrauch \u00fcberlassen wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001800000",
+        "name": "\u00a7 18",
+        "title": "Haushaltsangeh\u00f6rige",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000700000"
+        },
+        "body": "<P>(1) Zum Haushalt rechnen die in Absatz 2 bezeichneten Personen, die miteinander eine Wohn- und Wirtschaftsgemeinschaft f\u00fchren (Haushaltsangeh\u00f6rige). Zum Haushalt rechnen auch Personen im Sinne des Absatzes 2, die alsbald in den Haushalt aufgenommen werden sollen.</P><P>(2) Haushaltsangeh\u00f6rige sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Antragsteller,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Ehegatte,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Lebenspartner und</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Partner einer sonstigen auf Dauer angelegten Lebensgemeinschaft</LA></DD> </DL>sowie deren Verwandte in gerader Linie und zweiten Grades in der Seitenlinie, Verschw\u00e4gerte in gerader Linie und zweiten Grades in der Seitenlinie, Pflegekinder ohne R\u00fccksicht auf ihr Alter und Pflegeeltern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE001901310",
+        "name": "\u00a7 19",
+        "title": "Wohnfl\u00e4che",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000700000"
+        },
+        "body": "<P>Die Wohnfl\u00e4che einer Wohnung ist die Summe der anrechenbaren Grundfl\u00e4chen der ausschlie\u00dflich zur Wohnung geh\u00f6renden R\u00e4ume. Die Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung Vorschriften zur Berechnung der Grundfl\u00e4che und zur Anrechenbarkeit auf die Wohnfl\u00e4che zu erlassen. Die Landesregierungen k\u00f6nnen die Erm\u00e4chtigung durch Rechtsverordnung auf eine oberste Landesbeh\u00f6rde \u00fcbertragen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG000800000",
+        "name": "Abschnitt 2",
+        "title": "Einkommensermittlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000600000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002000000",
+        "name": "\u00a7 20",
+        "title": "Gesamteinkommen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000800000"
+        },
+        "body": "<P>Ma\u00dfgebendes Einkommen ist das Gesamteinkommen des Haushalts. Gesamteinkommen des Haushalts im Sinne dieses Gesetzes ist die Summe der Jahreseinkommen der Haushaltsangeh\u00f6rigen abz\u00fcglich der Frei- und Abzugsbetr\u00e4ge nach \u00a7 24. Ma\u00dfgebend sind die Verh\u00e4ltnisse im Zeitpunkt der Antragstellung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002115116",
+        "name": "\u00a7 21",
+        "title": "Begriff des Jahreseinkommens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000800000"
+        },
+        "body": "<P>(1) Jahreseinkommen im Sinne dieses Gesetzes ist, vorbehaltlich der Abs\u00e4tze 2 und 3 sowie der \u00a7\u00a7 22 und 23, die Summe der positiven Eink\u00fcnfte im Sinne des \u00a7 2 Abs. 1, 2 und 5a des Einkommensteuergesetzes jedes Haushaltsangeh\u00f6rigen. Bei den Eink\u00fcnften im Sinne des \u00a7 2 Abs. 1 Satz 1 Nr. 1 bis 3 des Einkommensteuergesetzes ist \u00a7 7g Abs. 1 bis 4 und 7 des Einkommensteuergesetzes nicht anzuwenden. Ein Ausgleich mit negativen Eink\u00fcnften aus anderen Einkunftsarten und mit negativen Eink\u00fcnften des zusammenveranlagten Ehegatten ist nicht zul\u00e4ssig.</P><P>(2) Zum Jahreseinkommen geh\u00f6ren: <DL Font=\"normal\" Type=\"arabic\"><DT>1.1</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 19 Abs. 2 und \u00a7 22 Nr. 4 Satz 4 Buchstabe b des Einkommensteuergesetzes steuerfreie Betrag von Versorgungsbez\u00fcgen,</LA></DD><DT>1.2</DT><DD Font=\"normal\"><LA Size=\"normal\">die einkommensabh\u00e4ngigen, nach \u00a7 3 Nr. 6 des Einkommensteuergesetzes steuerfreien Bez\u00fcge, die auf Grund gesetzlicher Vorschriften aus \u00f6ffentlichen Mitteln versorgungshalber an Wehr- und Zivildienstbesch\u00e4digte oder ihre Hinterbliebenen, Kriegsbesch\u00e4digte und Kriegshinterbliebene sowie ihnen gleichgestellte Personen gezahlt werden,</LA></DD><DT>1.3</DT><DD Font=\"normal\"><LA Size=\"normal\">die den Ertragsanteil oder den der Besteuerung unterliegenden Anteil nach \u00a7 22 Nr. 1 Satz 3 Buchstabe a des Einkommensteuergesetzes \u00fcbersteigenden Teile von Leibrenten,</LA></DD><DT>1.4</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 3 des Einkommensteuergesetzes steuerfreien Kapitalabfindungen auf Grund der gesetzlichen Rentenversicherung und auf Grund der Beamten-(Pensions-)Gesetze,</LA></DD><DT>1.5</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 1 Buchstabe a des Einkommensteuergesetzes steuerfreien<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten wegen Minderung der Erwerbsf\u00e4higkeit nach den \u00a7\u00a7 56 bis 62 des Siebten Buches Sozialgesetzbuch,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Renten und Beihilfen an Hinterbliebene nach den \u00a7\u00a7 63 bis 71 des Siebten Buches Sozialgesetzbuch,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Abfindungen nach den \u00a7\u00a7 75 bis 80 des Siebten Buches Sozialgesetzbuch,</LA></DD></DL></LA></DD><DT>1.6</DT><DD Font=\"normal\"><LA Size=\"normal\">die Lohn- und Einkommensersatzleistungen nach \u00a7 32b Abs. 1 Nr. 1 des Einkommensteuergesetzes, mit Ausnahme der nach \u00a7 3 Nr. 1 Buchstabe d des Einkommensteuergesetzes steuerfreien Mutterschutzleistungen und des nach \u00a7 3 Nr. 67 des Einkommensteuergesetzes steuerfreien Elterngeldes bis zur H\u00f6he der nach \u00a7 10 des Bundeselterngeld- und Elternzeitgesetzes anrechnungsfreien Betr\u00e4ge,</LA></DD><DT>1.7</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der nach \u00a7 3 Nr. 7 des Einkommensteuergesetzes steuerfreien<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterhaltshilfe nach den \u00a7\u00a7 261 bis 278a des Lastenausgleichsgesetzes, mit Ausnahme der Pflegezulage nach \u00a7 269 Abs. 2 des Lastenausgleichsgesetzes,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beihilfe zum Lebensunterhalt nach den \u00a7\u00a7 301 bis 301b des Lastenausgleichsgesetzes,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Unterhaltshilfe nach \u00a7 44 und Unterhaltsbeihilfe nach \u00a7 45 des Reparationssch\u00e4dengesetzes,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beihilfe zum Lebensunterhalt nach den \u00a7\u00a7 10 bis 15 des Fl\u00fcchtlingshilfegesetzes, mit Ausnahme der Pflegezulage nach \u00a7 269 Abs. 2 des Lastenausgleichsgesetzes,</LA></DD></DL></LA></DD><DT>1.8</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 1 Buchstabe a des Einkommensteuergesetzes steuerfreien Krankentagegelder,</LA></DD><DT>1.9</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der nach \u00a7 3 Nr. 68 des Einkommensteuergesetzes steuerfreien Renten nach \u00a7 3 Abs. 2 des Anti-D-Hilfegesetzes,</LA></DD><DT>2.1</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3b des Einkommensteuergesetzes steuerfreien Zuschl\u00e4ge f\u00fcr Sonntags-, Feiertags- oder Nachtarbeit,</LA></DD><DT>2.2</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 40a des Einkommensteuergesetzes vom Arbeitgeber pauschal besteuerte Arbeitslohn,</LA></DD><DT>3.1</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 20 Abs. 9 des Einkommensteuergesetzes steuerfreie Betrag (Sparer-Pauschbetrag), soweit die Kapitalertr\u00e4ge 100 Euro \u00fcbersteigen,</LA></DD><DT>3.2</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>3.3</DT><DD Font=\"normal\"><LA Size=\"normal\">die auf erh\u00f6hte Absetzungen entfallenden Betr\u00e4ge, soweit sie die h\u00f6chstm\u00f6glichen Absetzungen f\u00fcr Abnutzung nach \u00a7 7 des Einkommensteuergesetzes \u00fcbersteigen, und die auf Sonderabschreibungen entfallenden Betr\u00e4ge,</LA></DD><DT>4.1</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 3 Nr. 9 des Einkommensteuergesetzes steuerfreie Betrag von Abfindungen wegen einer vom Arbeitgeber veranlassten oder gerichtlich ausgesprochenen Aufl\u00f6sung des Dienstverh\u00e4ltnisses,</LA></DD><DT>4.2</DT><DD Font=\"normal\"><LA Size=\"normal\">der nach \u00a7 3 Nr. 27 des Einkommensteuergesetzes steuerfreie Grundbetrag der Produktionsaufgaberente und das Ausgleichsgeld nach dem Gesetz zur F\u00f6rderung der Einstellung der landwirtschaftlichen Erwerbst\u00e4tigkeit,</LA></DD><DT>4.3</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 3 Nr. 60 des Einkommensteuergesetzes steuerfreien Leistungen aus \u00f6ffentlichen Mitteln an Arbeitnehmer des Steinkohlen-, Pechkohlen- und Erzbergbaues, des Braunkohlentiefbaues und der Eisen- und Stahlindustrie aus Anlass von Stilllegungs-, Einschr\u00e4nkungs-, Umstellungs- oder Rationalisierungsma\u00dfnahmen,</LA></DD><DT>5.1</DT><DD Font=\"normal\"><LA Size=\"normal\">die nach \u00a7 22 Nr. 1 Satz 2 des Einkommensteuergesetzes dem Empf\u00e4nger nicht zuzurechnenden Bez\u00fcge, die ihm von nicht zum Haushalt rechnenden Personen gew\u00e4hrt werden, und die Leistungen nach dem Unterhaltsvorschussgesetz,</LA></DD><DT>5.2</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>5.3</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD><DT>5.4</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte des f\u00fcr die Kosten zur Erziehung bestimmten Anteils an Leistungen zum Unterhalt<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">des Kindes oder Jugendlichen in F\u00e4llen<DL Font=\"normal\" Type=\"arabic\"><DT>aa)</DT><DD Font=\"normal\"><LA Size=\"normal\">der Vollzeitpflege nach \u00a7 39 in Verbindung mit \u00a7 33 oder mit \u00a7 35a Abs. 2 Nr. 3 des Achten Buches Sozialgesetzbuch oder</LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vergleichbaren Unterbringung nach \u00a7 21 des Achten Buches Sozialgesetzbuch,</LA></DD></DL></LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">des jungen Vollj\u00e4hrigen in F\u00e4llen der Vollzeitpflege nach \u00a7 41 in Verbindung mit den \u00a7\u00a7 39 und 33 oder mit den \u00a7\u00a7 39 und 35a Abs. 2 Nr. 3 des Achten Buches Sozialgesetzbuch,</LA></DD></DL></LA></DD><DT>5.5</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der laufenden Leistungen f\u00fcr die Kosten des notwendigen Unterhalts einschlie\u00dflich der Unterkunft sowie der Krankenhilfe f\u00fcr Minderj\u00e4hrige und junge Vollj\u00e4hrige nach \u00a7 13 Abs. 3 Satz 2, \u00a7 19 Abs. 3, \u00a7 21 Satz 2, \u00a7 39 Abs. 1 und \u00a7 41 Abs. 2 des Achten Buches Sozialgesetzbuch,</LA></DD><DT>5.6</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte des Pflegegeldes nach \u00a7 37 des Elften Buches Sozialgesetzbuch f\u00fcr Pflegehilfen, die keine Wohn- und Wirtschaftsgemeinschaft mit dem Pflegebed\u00fcrftigen f\u00fchren,</LA></DD><DT>6.1</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der als Zusch\u00fcsse erbrachten<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen zur F\u00f6rderung der Ausbildung nach dem Bundesausbildungsf\u00f6rderungsgesetz,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Leistungen der Begabtenf\u00f6rderungswerke, soweit sie nicht von Nummer 6.2 erfasst sind,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">Stipendien, soweit sie nicht von Buchstabe b, Nummer 6.2 oder Nummer 6.3 erfasst sind,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">Berufsausbildungsbeihilfen und des Ausbildungsgeldes nach dem Dritten Buch Sozialgesetzbuch,</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">Beitr\u00e4ge zur Deckung des Unterhaltsbedarfs nach dem Aufstiegsfortbildungsf\u00f6rderungsgesetz,</LA></DD></DL></LA></DD><DT>6.2</DT><DD Font=\"normal\"><LA Size=\"normal\">die als Zuschuss gew\u00e4hrte Graduiertenf\u00f6rderung,</LA></DD><DT>6.3</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00e4lfte der nach \u00a7 3 Nr. 42 des Einkommensteuergesetzes steuerfreien Zuwendungen, die auf Grund des Fulbright-Abkommens gezahlt werden,</LA></DD><DT>7.1</DT><DD Font=\"normal\"><LA Size=\"normal\">das Arbeitslosengeld II und das Sozialgeld nach \u00a7 19 Absatz 1 des Zweiten Buches Sozialgesetzbuch,</LA></DD><DT>7.2</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen der Hilfe zum Lebensunterhalt nach den \u00a7\u00a7 27 bis 30 des Zw\u00f6lften Buches Sozialgesetzbuch,</LA></DD><DT>7.3</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen der Grundsicherung im Alter und bei Erwerbsminderung nach \u00a7 42 Nummer 1, 2 und 4 des Zw\u00f6lften Buches Sozialgesetzbuch mit Ausnahme der Leistungen f\u00fcr einmalige Bedarfe,</LA></DD><DT>7.4</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen nach dem Asylbewerberleistungsgesetz,</LA></DD><DT>7.5</DT><DD Font=\"normal\"><LA Size=\"normal\">die Leistungen der erg\u00e4nzenden Hilfe zum Lebensunterhalt nach \u00a7 27a des Bundesversorgungsgesetzes oder nach einem Gesetz, das dieses f\u00fcr anwendbar erkl\u00e4rt, mit Ausnahme der Leistungen f\u00fcr einmalige Bedarfe,</LA><LA Size=\"normal\">soweit diese Leistungen die bei ihrer Berechnung ber\u00fccksichtigten Kosten f\u00fcr Wohnraum \u00fcbersteigen,</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">die ausl\u00e4ndischen Eink\u00fcnfte nach \u00a7 32b Abs. 1 Nr. 2 und 3 des Einkommensteuergesetzes.</LA></DD></DL></P><P>(3) Aufwendungen zum Erwerb, zur Sicherung und zur Erhaltung von Einnahmen nach Absatz 2 mit Ausnahme der Nummern 5.3 bis 5.5 d\u00fcrfen in der im Sinne des \u00a7 22 Abs. 1 und 2 zu erwartenden oder nachgewiesenen H\u00f6he abgezogen werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002200000",
+        "name": "\u00a7 22",
+        "title": "Zeitraum f\u00fcr die Ermittlung des Jahreseinkommens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000800000"
+        },
+        "body": "<P>(1) Bei der Ermittlung des Jahreseinkommens ist das Einkommen zu Grunde zu legen, das in den zw\u00f6lf Monaten ab dem Monat der Antragstellung zu erwarten ist. Hierzu kann auch von dem Einkommen ausgegangen werden, das innerhalb der letzten zw\u00f6lf Monate vor Antragstellung erzielt worden ist. \u00c4nderungen sind zu ber\u00fccksichtigen, wenn sie im Zeitpunkt der Antragstellung innerhalb von zw\u00f6lf Monaten mit Sicherheit zu erwarten sind; \u00c4nderungen, deren Beginn oder Ausma\u00df nicht ermittelt werden k\u00f6nnen, bleiben au\u00dfer Betracht.</P><P>(2) Kann die H\u00f6he des zu erwartenden Einkommens nicht nach Absatz 1 ermittelt werden, so ist grunds\u00e4tzlich das Einkommen der letzten zw\u00f6lf Monate vor Antragstellung zu Grunde zu legen.</P><P>(3) Bei Personen, die zur Einkommensteuer veranlagt werden, kann bei Anwendung des Absatzes 1 von den Eink\u00fcnften ausgegangen werden, die sich aus dem letzten Einkommensteuerbescheid, den Vorauszahlungsbescheiden oder der letzten Einkommensteuererkl\u00e4rung ergeben; die sich hieraus ergebenden Eink\u00fcnfte sind bei Anwendung des Absatzes 2 zu Grunde zu legen.</P><P>(4) Einmaliges Einkommen, das in einem nach Absatz 1 oder 2 ma\u00dfgebenden Zeitraum anf\u00e4llt, aber einem anderen Zeitraum zuzurechnen ist, ist so zu behandeln, als w\u00e4re es w\u00e4hrend des anderen Zeitraums angefallen. Einmaliges Einkommen, das einem nach Absatz 1 oder 2 ma\u00dfgebenden Zeitraum zuzurechnen, aber in einem fr\u00fcheren Zeitraum angefallen ist, ist so zu behandeln, als w\u00e4re es w\u00e4hrend des nach Absatz 1 oder 2 ma\u00dfgebenden Zeitraums angefallen. Satz 2 gilt nur f\u00fcr Einkommen, das innerhalb von drei Jahren vor Antragstellung angefallen ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002300000",
+        "name": "\u00a7 23",
+        "title": "Pauschaler Abzug",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000800000"
+        },
+        "body": "<P>(1) Bei der Ermittlung des Jahreseinkommens wird von dem nach den \u00a7\u00a7 21 und 22 ermittelten Betrag ein pauschaler Abzug in H\u00f6he von jeweils 10 Prozent f\u00fcr die Leistung von <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Steuern vom Einkommen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflichtbeitr\u00e4gen zur gesetzlichen Kranken- und Pflegeversicherung und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Pflichtbeitr\u00e4gen zur gesetzlichen Rentenversicherung</LA></DD> </DL>vorgenommen.</P><P>(2) Werden keine Pflichtbeitr\u00e4ge nach Absatz 1 Nr. 2 oder 3 geleistet, so werden laufende Beitr\u00e4ge zu \u00f6ffentlichen oder privaten Versicherungen oder \u00e4hnlichen Einrichtungen in der tats\u00e4chlich geleisteten H\u00f6he, h\u00f6chstens bis zu jeweils 10 Prozent des sich nach den \u00a7\u00a7 21 und 22 ergebenden Betrages abgezogen, wenn die Beitr\u00e4ge der Zweckbestimmung der Pflichtbeitr\u00e4ge nach Absatz 1 Nr. 2 oder 3 entsprechen. Dies gilt auch, wenn die Beitr\u00e4ge zu Gunsten eines zum Haushalt rechnenden Angeh\u00f6rigen geleistet werden. Die S\u00e4tze 1 und 2 gelten nicht, wenn eine im Wesentlichen beitragsfreie Sicherung oder eine Sicherung, f\u00fcr die Beitr\u00e4ge von einem Dritten geleistet werden, besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002400000",
+        "name": "\u00a7 24",
+        "title": "Frei- und Abzugsbetr\u00e4ge",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000800000"
+        },
+        "body": "<P>(1) Bei der Ermittlung des Gesamteinkommens werden folgende Freibetr\u00e4ge abgesetzt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">4.500 Euro f\u00fcr jeden schwerbehinderten Menschen mit einem Grad der Behinderung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">von 100 oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">von wenigstens 80, wenn der schwerbehinderte Mensch h\u00e4uslich pflegebed\u00fcrftig im Sinne des \u00a7 14 des Elften Buches Sozialgesetzbuch ist;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\" /><LA Size=\"normal\">2.100 Euro f\u00fcr jeden schwerbehinderten Menschen mit einem Grad der Behinderung von unter 80, wenn der schwerbehinderte Mensch h\u00e4uslich pflegebed\u00fcrftig im Sinne des \u00a7 14 des Elften Buches Sozialgesetzbuch ist;</LA></DD>  <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\" /><LA Size=\"normal\">4.000 Euro bei jungen Ehepaaren bis zum Ablauf des f\u00fcnften Kalenderjahres nach dem Jahr der Eheschlie\u00dfung; junge Ehepaare sind solche, bei denen keiner der Ehegatten das 40. Lebensjahr vollendet hat;</LA></DD>  <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">600 Euro f\u00fcr jedes Kind unter zw\u00f6lf Jahren, f\u00fcr das Kindergeld nach dem Einkommensteuergesetz oder dem Bundeskindergeldgesetz oder eine Leistung im Sinne des \u00a7 65 Abs. 1 des Einkommensteuergesetzes oder des \u00a7 4 Abs. 1 des Bundeskindergeldgesetzes gew\u00e4hrt wird, wenn die antragsberechtigte Person allein mit Kindern zusammenwohnt und wegen Erwerbst\u00e4tigkeit oder Ausbildung nicht nur kurzfristig vom Haushalt abwesend ist;</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zu 600 Euro, soweit ein zum Haushalt rechnendes Kind eigenes Einkommen hat und das 16., aber noch nicht das 25. Lebensjahr vollendet hat.</LA></DD> </DL> </P><P>(2) Aufwendungen zur Erf\u00fcllung gesetzlicher Unterhaltsverpflichtungen werden bis zu dem in einer notariell beurkundeten Unterhaltsvereinbarung festgelegten oder in einem Unterhaltstitel oder Unterhaltsbescheid festgestellten Betrag abgesetzt. Liegen eine notariell beurkundete Unterhaltsvereinbarung, ein Unterhaltstitel oder ein Unterhaltsbescheid nicht vor, k\u00f6nnen Aufwendungen zur Erf\u00fcllung gesetzlicher Unterhaltsverpflichtungen wie folgt abgesetzt werden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zu 3.000 Euro f\u00fcr einen Haushaltsangeh\u00f6rigen, der ausw\u00e4rts untergebracht ist und sich in der Berufsausbildung befindet;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zu 6.000 Euro f\u00fcr einen nicht zum Haushalt rechnenden fr\u00fcheren oder dauernd getrennt lebenden Ehegatten oder Lebenspartner;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">bis zu 3.000 Euro f\u00fcr eine sonstige nicht zum Haushalt rechnende Person.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG000900000",
+        "name": "Abschnitt 3",
+        "title": "Begr\u00fcndung und Sicherung von Belegungs- und\nMietbindungen sowie von Bindungen f\u00fcr selbst genutztes Wohneigentum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000600000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002500000",
+        "name": "\u00a7 25",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>(1) Mietwohnraum unterliegt den in der F\u00f6rderzusage nach \u00a7 13 Abs. 2 bestimmten Bindungen, insbesondere Belegungs- und Mietbindungen. Auf diese Bestimmungen sind die \u00a7\u00a7 26 bis 33 und 52 anzuwenden.</P><P>(2) Selbst genutztes Wohneigentum unterliegt den in der F\u00f6rderzusage nach \u00a7 13 Abs. 2 bestimmten Bindungen. Auf diese Bestimmungen sind \u00a7 27 Abs. 7 Satz 1 Nr. 2 und 3 und Satz 3 bis 5 sowie Abs. 8, \u00a7 32 Abs. 1, 2 und 4 sowie die \u00a7\u00a7 33 und 52 entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002600000",
+        "name": "\u00a7 26",
+        "title": "Gegenst\u00e4nde und Arten der Belegungsrechte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>(1) Belegungsrechte k\u00f6nnen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">an den gef\u00f6rderten Wohnungen (unmittelbare Belegung),</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">an diesen und an anderen Wohnungen (verbundene Belegung),</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nur an anderen Wohnungen (mittelbare Belegung)</LA></DD> </DL>begr\u00fcndet werden.</P><P>(2) Belegungsrechte k\u00f6nnen in der F\u00f6rderzusage als allgemeine Belegungsrechte, Benennungsrechte und Besetzungsrechte begr\u00fcndet werden. Ein allgemeines Belegungsrecht ist das Recht der zust\u00e4ndigen Stelle, von dem durch die F\u00f6rderung berechtigten und verpflichteten Eigent\u00fcmer oder sonstigen Verf\u00fcgungsberechtigten zu fordern, eine bestimmte belegungsgebundene Wohnung einem Wohnungssuchenden zu \u00fcberlassen, dessen Wohnberechtigung sich aus einer Bescheinigung nach \u00a7 27 ergibt. Ein Benennungsrecht ist das Recht der zust\u00e4ndigen Stelle, dem Verf\u00fcgungsberechtigten f\u00fcr die Vermietung einer bestimmten belegungsgebundenen Wohnung mindestens drei Wohnungssuchende zur Auswahl zu benennen. Ein Besetzungsrecht ist das Recht der zust\u00e4ndigen Stelle, einen Wohnungssuchenden zu bestimmen, dem der Verf\u00fcgungsberechtigte eine bestimmte belegungsgebundene Wohnung zu \u00fcberlassen hat.</P><P>(3) In der F\u00f6rderzusage kann bestimmt werden, dass die zust\u00e4ndige Stelle unter in der F\u00f6rderzusage festgelegten Voraussetzungen befristet oder unbefristet statt eines allgemeinen Belegungsrechts ein Benennungsrecht oder ein Besetzungsrecht im Sinne des Absatzes 2 aus\u00fcben kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002700000",
+        "name": "\u00a7 27",
+        "title": "Wohnberechtigungsschein, Sicherung der Belegungsrechte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>(1) Der Verf\u00fcgungsberechtigte darf die Wohnung nur einem Wohnungssuchenden zum Gebrauch \u00fcberlassen, wenn dieser ihm vorher seine Wohnberechtigung durch \u00dcbergabe eines Wohnberechtigungsscheins nachweist. Der Wohnberechtigungsschein wird nach Ma\u00dfgabe der Abs\u00e4tze 2 bis 5 erteilt.</P><P>(2) Der Wohnberechtigungsschein wird auf Antrag des Wohnungssuchenden von der zust\u00e4ndigen Stelle f\u00fcr die Dauer eines Jahres erteilt. Antragsberechtigt sind Wohnungssuchende, die sich nicht nur vor\u00fcbergehend im Geltungsbereich dieses Gesetzes aufhalten und die rechtlich und tats\u00e4chlich in der Lage sind, f\u00fcr sich und ihre Haushaltsangeh\u00f6rigen nach \u00a7 18 auf l\u00e4ngere Dauer einen Wohnsitz als Mittelpunkt der Lebensbeziehungen zu begr\u00fcnden und dabei einen selbstst\u00e4ndigen Haushalt zu f\u00fchren.</P><P>(3) Der Wohnberechtigungsschein ist zu erteilen, wenn vom Wohnungssuchenden und seinen Haushaltsangeh\u00f6rigen die Einkommensgrenze nach \u00a7 9 Abs. 2 eingehalten wird. Hat ein Land nach \u00a7 9 Abs. 3 eine Abweichung von der Einkommensgrenze festgelegt, ist der Wohnberechtigungsschein unter Zugrundelegung dieser abweichenden Einkommensgrenze zu erteilen. In dem Wohnberechtigungsschein ist anzugeben, welche ma\u00dfgebliche Einkommensgrenze eingehalten wird. Der Wohnberechtigungsschein kann in Abweichung von der Einkommensgrenze nach Satz 1 oder 2 mit Geltung f\u00fcr das Gebiet eines Landes erteilt werden, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Versagung f\u00fcr den Wohnungssuchenden eine besondere H\u00e4rte bedeuten w\u00fcrde oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Wohnungssuchende durch den Bezug der Wohnung eine andere gef\u00f6rderte Wohnung freimacht, deren Miete, bezogen auf den Quadratmeter Wohnfl\u00e4che, niedriger ist oder deren Gr\u00f6\u00dfe die f\u00fcr ihn ma\u00dfgebliche Wohnungsgr\u00f6\u00dfe \u00fcbersteigt.</LA></DD> </DL>Die Erteilung des Wohnberechtigungsscheins ist zu versagen, wenn sie auch bei Einhaltung der nach Satz 1 oder 2 ma\u00dfgeblichen Einkommensgrenze offensichtlich nicht gerechtfertigt w\u00e4re.</P><P>(4) In dem Wohnberechtigungsschein ist die f\u00fcr den Wohnungssuchenden und seine Haushaltsangeh\u00f6rigen nach den Bestimmungen des Landes ma\u00dfgebliche Wohnungsgr\u00f6\u00dfe nach der Raumzahl oder nach der Wohnfl\u00e4che anzugeben. Von der ma\u00dfgeblichen Grenze kann im Einzelfall <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Ber\u00fccksichtigung<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">besonderer pers\u00f6nlicher oder beruflicher Bed\u00fcrfnisse eines Haushaltsangeh\u00f6rigen oder</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">eines nach der Lebenserfahrung in absehbarer Zeit zu erwartenden zus\u00e4tzlichen Raumbedarfs oder</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Vermeidung besonderer H\u00e4rten</LA></DD> </DL>abgewichen werden.</P><P>(5) Soweit Wohnungen nach der F\u00f6rderzusage bestimmten Haushalten vorbehalten sind und der Wohnungssuchende und seine Haushaltsangeh\u00f6rigen zu diesen Haushalten geh\u00f6ren, sind im Wohnberechtigungsschein Angaben zur Zugeh\u00f6rigkeit zu diesen Haushalten aufzunehmen.</P><P>(6) Ist eine Wohnung entgegen Absatz 1 Satz 1 \u00fcberlassen worden, hat der Verf\u00fcgungsberechtigte auf Verlangen der zust\u00e4ndigen Stelle das Mietverh\u00e4ltnis zu k\u00fcndigen und die Wohnung einem Wohnungssuchenden nach Absatz 1 Satz 1 zu \u00fcberlassen. Kann der Verf\u00fcgungsberechtigte die Beendigung des Mietverh\u00e4ltnisses durch K\u00fcndigung nicht alsbald erreichen, kann die zust\u00e4ndige Stelle von dem Mieter, dem der Verf\u00fcgungsberechtigte die Wohnung entgegen Absatz 1 Satz 1 \u00fcberlassen hat, die R\u00e4umung der Wohnung verlangen.</P><P>(7) Der Verf\u00fcgungsberechtigte darf eine Wohnung nur mit Genehmigung der zust\u00e4ndigen Stelle <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">selbst nutzen,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nicht nur vor\u00fcbergehend, mindestens drei Monate, leer stehen lassen oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">anderen als Wohnzwecken zuf\u00fchren oder entsprechend baulich \u00e4ndern.</LA></DD> </DL>Im Fall des Satzes 1 Nr. 1 ist die Genehmigung zu erteilen, wenn der Verf\u00fcgungsberechtigte und seine Haushaltsangeh\u00f6rigen die Voraussetzungen f\u00fcr die Erteilung eines Wohnberechtigungsscheins nach den Abs\u00e4tzen 1 bis 5 erf\u00fcllen. Im Fall des Satzes 1 Nr. 2 darf die Genehmigung nur erteilt werden, wenn und solange eine Vermietung nicht m\u00f6glich ist und der F\u00f6rderzweck nicht auf andere Weise, auch nicht durch Freistellung von Belegungsbindungen nach \u00a7 30 oder durch \u00dcbertragung von Belegungs- und Mietbindungen nach \u00a7 31, erreicht werden kann. Im Fall des Satzes 1 Nr. 3 kann die Genehmigung erteilt werden, wenn und soweit ein \u00fcberwiegendes \u00f6ffentliches Interesse oder ein \u00fcberwiegendes berechtigtes Interesse des Verf\u00fcgungsberechtigten oder eines Dritten an der anderen Verwendung oder baulichen \u00c4nderung der Wohnung besteht; die Genehmigung kann unter der Verpflichtung zu einem Geldausgleich in angemessener H\u00f6he oder zur vertraglichen Einr\u00e4umung eines Belegungsrechts f\u00fcr eine andere nicht gebundene Wohnung (Ersatzwohnung) erteilt werden. Wer der sich aus Satz 1 Nr. 3 ergebenden Verpflichtung zuwiderhandelt, hat auf Verlangen der zust\u00e4ndigen Stelle die Eignung f\u00fcr Wohnzwecke auf seine Kosten wiederherzustellen.</P><P>(8) Sobald voraussehbar ist, dass eine Wohnung bezugsfertig oder frei wird, hat der Verf\u00fcgungsberechtigte dies der zust\u00e4ndigen Stelle unverz\u00fcglich schriftlich anzuzeigen und den voraussichtlichen Zeitpunkt der Bezugsfertigkeit oder des Freiwerdens mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002800000",
+        "name": "\u00a7 28",
+        "title": "Bestimmung und Sicherung der h\u00f6chstzul\u00e4ssigen Miete",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>(1) In der F\u00f6rderzusage ist eine h\u00f6chstzul\u00e4ssige Miete zu bestimmen; sie ist die Miete ohne den Betrag f\u00fcr Betriebskosten. In der F\u00f6rderzusage k\u00f6nnen \u00c4nderungen der h\u00f6chstzul\u00e4ssigen Miete w\u00e4hrend der Dauer der F\u00f6rderung, auch f\u00fcr Mieterh\u00f6hungen nach durchgef\u00fchrten Modernisierungen, vorgesehen oder vorbehalten werden. Bestimmungen \u00fcber die h\u00f6chstzul\u00e4ssige Miete d\u00fcrfen nicht zum Nachteil des Mieters von den allgemeinen mietrechtlichen Vorschriften abweichen.</P><P>(2) Der Vermieter darf eine Wohnung nicht gegen eine h\u00f6here als die h\u00f6chstzul\u00e4ssige Miete zum Gebrauch \u00fcberlassen. Er hat die in der F\u00f6rderzusage enthaltenen Bestimmungen \u00fcber die h\u00f6chstzul\u00e4ssige Miete und das Bindungsende im Mietvertrag anzugeben.</P><P>(3) Der Vermieter kann die Miete nach Ma\u00dfgabe der allgemeinen mietrechtlichen Vorschriften erh\u00f6hen, jedoch nicht h\u00f6her als bis zur h\u00f6chstzul\u00e4ssigen Miete und unter Einhaltung sonstiger Bestimmungen der F\u00f6rderzusage zur Mietbindung.</P><P>(4) Der Vermieter darf <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine Leistung zur Abgeltung von Betriebskosten nur nach Ma\u00dfgabe der \u00a7\u00a7 556, 556a und 560 des B\u00fcrgerlichen Gesetzbuchs und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">eine einmalige oder sonstige Nebenleistung nur insoweit, als sie nach Vorschriften des Landes oder nach den Bestimmungen der F\u00f6rderzusage zugelassen ist,</LA></DD> </DL>fordern, sich versprechen lassen oder annehmen.</P><P>(5) Der Mieter kann sich gegen\u00fcber dem Vermieter auf die Bestimmung der F\u00f6rderzusage \u00fcber die h\u00f6chstzul\u00e4ssige Miete und auf die sonstigen Bestimmungen der F\u00f6rderzusage zur Mietbindung berufen. Hierzu hat ihm der Vermieter die erforderlichen Ausk\u00fcnfte zu erteilen. Erteilt der Vermieter die Ausk\u00fcnfte nicht oder nur unzureichend, hat dies auf Verlangen des Mieters durch die zust\u00e4ndige Stelle zu erfolgen.</P><P>(6) Von den Abs\u00e4tzen 1 bis 5 abweichende Vereinbarungen im Mietvertrag sind unwirksam.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE002900000",
+        "name": "\u00a7 29",
+        "title": "Dauer der Belegungs- und Mietbindungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>(1) Die Dauer der Belegungs- und Mietbindungen ist in der F\u00f6rderzusage durch Festlegung einer Frist zu bestimmen; bei der Gew\u00e4hrung von Darlehen sind Bestimmungen \u00fcber die Dauer der Bindungen bei vorzeitiger vollst\u00e4ndiger R\u00fcckzahlung der Darlehen zu treffen, die dem mit dem Einsatz der F\u00f6rdermittel verfolgten F\u00f6rderzweck Rechnung tragen. Die Bindungen bleiben bestehen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei R\u00fcckzahlung der Darlehen auf Grund einer K\u00fcndigung wegen Versto\u00dfes gegen Bestimmungen der F\u00f6rderzusage bis zu dem in der F\u00f6rderzusage bestimmten Ende der Bindungen, l\u00e4ngstens jedoch bis zum Ablauf des zw\u00f6lften Kalenderjahres nach dem Jahr der R\u00fcckzahlung,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">bei einer Zwangsversteigerung des Grundst\u00fccks bis zu dem in der F\u00f6rderzusage bestimmten Ende der Bindungen, l\u00e4ngstens jedoch bis zum Ablauf des dritten Kalenderjahres nach dem Kalenderjahr, in dem der Zuschlag erteilt worden ist und die auf Grund der Darlehensf\u00f6rderung begr\u00fcndeten Grundpfandrechte mit dem Zuschlag erloschen sind.</LA></DD> </DL>Bei der Gew\u00e4hrung von Zusch\u00fcssen bleiben die Bindungen im Fall der R\u00fcckforderung der Zusch\u00fcsse wegen Versto\u00dfes gegen die Bestimmungen der F\u00f6rderzusage l\u00e4ngstens zw\u00f6lf Kalenderjahre nach dem Jahr der R\u00fcckzahlung, im Fall der Zwangsversteigerung des Grundst\u00fccks bis zum Zuschlag bestehen.</P><P>(2) Die zust\u00e4ndige Stelle hat auf Antrag dem Verf\u00fcgungsberechtigten und bei berechtigtem Interesse auch einem Wohnungssuchenden und dem Mieter schriftlich zu best\u00e4tigen, wie lange die Belegungs- und Mietbindungen dauern. Die Best\u00e4tigung ist gegen\u00fcber dem Verf\u00fcgungsberechtigten und dem Mieter in tats\u00e4chlicher und rechtlicher Hinsicht verbindlich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003000000",
+        "name": "\u00a7 30",
+        "title": "Freistellung von Belegungsbindungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Stelle kann den Verf\u00fcgungsberechtigten von den Verpflichtungen nach \u00a7 27 Abs. 1 und 7 Satz 1 freistellen, wenn und soweit <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den \u00f6rtlichen wohnungswirtschaftlichen Verh\u00e4ltnissen ein \u00fcberwiegendes \u00f6ffentliches Interesse an den Bindungen nicht mehr besteht oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">an der Freistellung ein \u00fcberwiegendes \u00f6ffentliches Interesse besteht oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Freistellung der Schaffung oder Erhaltung sozial stabiler Bewohnerstrukturen dient oder</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">an der Freistellung ein \u00fcberwiegendes berechtigtes Interesse des Verf\u00fcgungsberechtigten oder eines Dritten besteht</LA></DD> </DL>und f\u00fcr die Freistellung ein Ausgleich dadurch erfolgt, dass der Verf\u00fcgungsberechtigte der zust\u00e4ndigen Stelle das Belegungsrecht f\u00fcr Ersatzwohnungen, die bezugsfertig oder frei sind, f\u00fcr die Dauer der Freistellung vertraglich einr\u00e4umt oder einen Geldausgleich in angemessener H\u00f6he oder einen sonstigen Ausgleich in angemessener Art und Weise leistet.</P><P>(2) Freistellungen k\u00f6nnen f\u00fcr bestimmte Wohnungen, f\u00fcr Wohnungen bestimmter Art oder f\u00fcr Wohnungen in bestimmten Gebieten erteilt werden.</P><P>(3) Bei einer Freistellung kann von einem Ausgleich abgesehen werden, wenn und soweit die Freistellung im \u00fcberwiegenden \u00f6ffentlichen Interesse erteilt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003100000",
+        "name": "\u00a7 31",
+        "title": "\u00dcbertragung von Belegungs- und Mietbindungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Stelle kann mit dem Verf\u00fcgungsberechtigten vereinbaren, dass die Belegungs- und Mietbindungen von gef\u00f6rderten Wohnungen (F\u00f6rderwohnungen) auf Ersatzwohnungen des Verf\u00fcgungsberechtigten \u00fcbergehen, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">dies der Schaffung oder Erhaltung sozial stabiler Bewohnerstrukturen dient oder aus anderen Gr\u00fcnden der \u00f6rtlichen wohnungswirtschaftlichen Verh\u00e4ltnisse geboten ist und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00f6rderwohnungen und Ersatzwohnungen unter Ber\u00fccksichtigung des F\u00f6rderzwecks gleichwertig sind und</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sichergestellt ist, dass zum Zeitpunkt des \u00dcbergangs die Wohnungen bezugsfertig oder frei sind.</LA></DD> </DL> </P><P>(2) Gegenstand der Vereinbarung k\u00f6nnen ohne Vorliegen der Voraussetzungen des Absatzes 1 Nr. 2 auch \u00c4nderungen der Belegungs- und Mietbindungen, insbesondere deren Anzahl, Dauer, Art oder H\u00f6he sein, wenn die \u00c4nderungen unter Ber\u00fccksichtigung der ma\u00dfgeblichen Umst\u00e4nde, insbesondere des Wohnwerts der Wohnungen, nicht zu einem mehr als nur unerheblichen wirtschaftlichen Vorteil des Verf\u00fcgungsberechtigten f\u00fchren.</P><P>(3) In der Vereinbarung sind weitere zum \u00dcbergang und zur \u00c4nderung der Belegungs- und Mietbindungen sowie zu sonstigen in der F\u00f6rderzusage festgelegten Berechtigungen und Verpflichtungen erforderliche Bestimmungen zu treffen, namentlich zum Zeitpunkt des \u00dcbergangs. Mit dem Zeitpunkt des \u00dcbergangs gelten die Ersatzwohnungen als gef\u00f6rderte Wohnungen im Sinne der F\u00f6rderzusage; auf die Ersatzwohnungen sind die Vorschriften dieses und des vierten Abschnitts anzuwenden.</P><P>(4) Sind gew\u00e4hrte F\u00f6rdermittel durch dingliche Rechte am Grundst\u00fcck der F\u00f6rderwohnungen gesichert, k\u00f6nnen die zust\u00e4ndige Stelle, der Verf\u00fcgungsberechtigte und der Gl\u00e4ubiger vereinbaren, dass die dinglichen Rechte aufgehoben und am Grundst\u00fcck der Ersatzwohnungen neu bestellt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003201116",
+        "name": "\u00a7 32",
+        "title": "Sonstige Vorschriften der Sicherung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Stelle kann Bestimmungen der F\u00f6rderzusage nach den allgemeinen Vorschriften im Wege des Verwaltungszwangs vollziehen. Soweit die Bestimmungen in einem \u00f6ffentlich-rechtlichen Vertrag getroffen werden, hat sich der F\u00f6rderempf\u00e4nger der sofortigen Vollstreckung nach \u00a7 61 des Verwaltungsverfahrensgesetzes oder nach entsprechenden landesrechtlichen Vorschriften zu unterwerfen.</P><P>(2) Die zust\u00e4ndige Stelle darf Daten hinsichtlich <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wohnungen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Nutzung von Wohnungen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">der jeweiligen Mieter und Vermieter,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Belegungsrechte und</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">der h\u00f6chstzul\u00e4ssigen Mieten</LA></DD></DL>verarbeiten, soweit dies zur Sicherung der Zweckbestimmung der Wohnungen und der sonstigen Bestimmungen der F\u00f6rderzusage erforderlich ist. Der Vermieter und der Mieter sind verpflichtet, der zust\u00e4ndigen Stelle auf Verlangen Auskunft zu erteilen und Einsicht in ihre Unterlagen zu gew\u00e4hren und ihr die Besichtigung von Grundst\u00fccken, Geb\u00e4uden und Wohnungen zu gestatten, soweit dies zur Sicherung der Zweckbestimmung der Wohnungen und der sonstigen Bestimmungen der F\u00f6rderzusage erforderlich ist. Durch Satz 2 wird das Grundrecht der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) eingeschr\u00e4nkt.</P><P>(3) Der Vermieter hat der zust\u00e4ndigen Stelle die Ver\u00e4u\u00dferung von belegungs- oder mietgebundenen Wohnungen und die Begr\u00fcndung von Wohnungseigentum an solchen Wohnungen unverz\u00fcglich schriftlich mitzuteilen. Der Vermieter, der eine Wohnung erworben hat, an der nach der \u00dcberlassung an einen Mieter Wohnungseigentum begr\u00fcndet worden ist, darf sich dem Mieter gegen\u00fcber auf berechtigte Interessen an der Beendigung des Mietverh\u00e4ltnisses im Sinne des \u00a7 573 Abs. 2 Nr. 2 des B\u00fcrgerlichen Gesetzbuchs nicht berufen, solange die Wohnung Belegungs- oder Mietbindungen unterliegt; im \u00dcbrigen bleibt \u00a7 577a Abs. 1 und 2 des B\u00fcrgerlichen Gesetzbuchs unber\u00fchrt, soweit in dieser Bestimmung auf \u00a7 573 Abs. 2 Nr. 2 des B\u00fcrgerlichen Gesetzbuchs verwiesen wird.</P><P>(4) Finanzbeh\u00f6rden und Arbeitgeber haben der zust\u00e4ndigen Stelle Auskunft \u00fcber die Einkommensverh\u00e4ltnisse der Wohnungssuchenden zu erteilen, soweit dies zur Sicherung der Zweckbestimmung der Wohnungen und der sonstigen Bestimmungen der F\u00f6rderzusage erforderlich ist und begr\u00fcndete Zweifel an der Richtigkeit der Angaben und der hierzu vorgelegten Nachweise bestehen. Vor einem Auskunftsersuchen an den Arbeitgeber soll dem Wohnungssuchenden Gelegenheit zur Stellungnahme gegeben werden.</P><P>(5) F\u00f6rdermittel, die in Abh\u00e4ngigkeit vom jeweiligen Haushaltseinkommen des Mieters gew\u00e4hrt werden, k\u00f6nnen auch dann an den Vermieter ausgezahlt werden, wenn dieser aus den geleisteten Zahlungen R\u00fcckschl\u00fcsse auf das Einkommen des Mieterhaushalts ziehen kann.</P><P>(6) Die f\u00fcr Wohnungen geltenden Vorschriften dieses Abschnitts gelten entsprechend f\u00fcr einzelne Wohnr\u00e4ume mit Ausnahme solcher in Wohnheimen.</P><P>(7) F\u00fcr die Zwecke der Sicherung der h\u00f6chstzul\u00e4ssigen Miete nach \u00a7 28 Abs. 2 bis 6 und f\u00fcr die \u00fcbrigen Sicherungsvorschriften der Abs\u00e4tze 2, 3, 5 und 6 ist der sonstige Verf\u00fcgungsberechtigte dem Vermieter gleichgestellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003300000",
+        "name": "\u00a7 33",
+        "title": "Geldleistung bei Gesetzesverst\u00f6\u00dfen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000900000"
+        },
+        "body": "<P>F\u00fcr die Zeit, w\u00e4hrend der der Verf\u00fcgungsberechtigte oder ein von ihm Beauftragter schuldhaft gegen die Vorschriften des \u00a7 27 Abs. 1 oder 6 Satz 1 oder Abs. 7 Satz 1 oder Abs. 8 oder des \u00a7 28 Abs. 2 bis 4 oder des \u00a7 32 Abs. 3 Satz 1 verst\u00f6\u00dft, kann die zust\u00e4ndige Stelle f\u00fcr die Dauer des Versto\u00dfes durch Verwaltungsakt von dem Verf\u00fcgungsberechtigten Geldleistungen bis zu monatlich 5 Euro je Quadratmeter Wohnfl\u00e4che der Wohnung, auf die sich der Versto\u00df bezieht, erheben. F\u00fcr die Bemessung der Geldleistungen sind ausschlie\u00dflich der Wohnwert der Wohnung und die Schwere des Versto\u00dfes ma\u00dfgebend. Die eingezogenen Geldleistungen sind f\u00fcr Ma\u00dfnahmen der sozialen Wohnraumf\u00f6rderung einzusetzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG001000000",
+        "name": "Abschnitt 4",
+        "title": "Ausgleich von Fehlf\u00f6rderungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG000600000"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003404310",
+        "name": "\u00a7 34",
+        "title": "Grundlagen der Ausgleichszahlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001000000"
+        },
+        "body": "<P>(1) Die L\u00e4nder k\u00f6nnen, um eine Fehlf\u00f6rderung im Sinne des \u00a7 7 Nr. 2 Satz 1 und 3 auszugleichen, landesrechtliche Vorschriften \u00fcber die Erhebung einer Ausgleichszahlung von Mietern gef\u00f6rderter Wohnungen erlassen; sie treffen dazu nach Ma\u00dfgabe der Abs\u00e4tze 2 bis 4, des \u00a7 35 Abs. 1 Satz 2, des \u00a7 36 Abs. 1 und 3 sowie des \u00a7 37 Abs. 2 Satz 1 und 4 die erforderlichen Bestimmungen. Auf die Erhebung von Ausgleichszahlungen sind die Abs\u00e4tze 5 bis 7 sowie \u00a7 35 Abs. 1 Satz 1, 3 und 4 und Abs. 2 bis 4, \u00a7 36 Abs. 2 sowie \u00a7 37 Abs. 1 und 2 Satz 2 und 3 anzuwenden. \u00a7 32 Abs. 6 gilt entsprechend f\u00fcr die Vorschriften dieses Abschnitts.</P><P>(2) Die L\u00e4nder legen fest, in welchen Gemeinden und f\u00fcr welche Arten von gef\u00f6rderten Wohnungen eine Ausgleichszahlung erhoben werden soll. Dabei kann von der Festlegung einer Gemeinde auch abgesehen werden, wenn in der Gemeinde <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die f\u00fcr die Wohnungen bestimmten h\u00f6chstzul\u00e4ssigen Mieten nur geringf\u00fcgige Wohnkostenentlastungen beinhalten oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">der Verwaltungsaufwand f\u00fcr die Erhebung einer Ausgleichszahlung in einem unangemessenen Verh\u00e4ltnis zu den erwarteten Einnahmen stehen w\u00fcrde.</LA></DD> </DL> </P><P>(3) Die Verpflichtung zur Leistung einer Ausgleichszahlung darf f\u00fcr Mieter nur vorgesehen werden, wenn das Gesamteinkommen der Haushaltsangeh\u00f6rigen und der die Wohnung nicht nur vor\u00fcbergehend nutzenden sonstigen Personen die entsprechend \u00a7 9 ma\u00dfgebliche Einkommensgrenze mehr als unerheblich \u00fcbersteigt.</P><P>(4) Eine Verpflichtung zur Leistung einer Ausgleichszahlung darf nicht vorgesehen werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Mieter, die Wohngeld nach dem Wohngeldgesetz erhalten,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr Mieter, die Leistungen der Hilfe zum Lebensunterhalt nach dem Zw\u00f6lften Buch Sozialgesetzbuch oder Leistungen zur Sicherung des Lebensunterhalts nach dem Zweiten Buch Sozialgesetzbuch oder Leistungen der erg\u00e4nzenden Hilfe zum Lebensunterhalt nach \u00a7 27a des Bundesversorgungsgesetzes erhalten und daneben keine weiteren Eink\u00fcnfte erzielen, bei deren Ber\u00fccksichtigung eine Ausgleichszahlung zu leisten w\u00e4re, oder</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn eine Freistellung nach \u00a7 30 Abs. 1 und 2 f\u00fcr das Gebiet, in dem die Wohnung liegt, erfolgt ist.</LA></DD> </DL>Die Tatsachen f\u00fcr die Ausnahme von der Leistungspflicht nach Satz 1 hat der Mieter nachzuweisen.</P><P>(5) Von der Erhebung einer Ausgleichszahlung kann f\u00fcr bestimmte Wohnungen, f\u00fcr Wohnungen bestimmter Art, f\u00fcr Wohnungen in bestimmten Gebieten von Gemeinden oder f\u00fcr Wohnungen in bestimmten Teilen von Gemeinden ganz oder teilweise abgesehen werden, wenn nach dem F\u00f6rderzweck unter Ber\u00fccksichtigung der \u00f6rtlichen wohnungswirtschaftlichen Verh\u00e4ltnisse das Absehen der Schaffung oder Erhaltung sozial stabiler Bewohnerstrukturen dient. Satz 1 gilt entsprechend f\u00fcr bestimmte Wohnungen oder f\u00fcr Wohnungen bestimmter Art, wenn Tatsachen die Annahme rechtfertigen, dass die Vermietbarkeit dieser Wohnungen w\u00e4hrend des Leistungszeitraums sonst nicht gesichert w\u00e4re, oder f\u00fcr eine Wohnung, die vom Verf\u00fcgungsberechtigten, der mindestens vier gef\u00f6rderte Wohnungen geschaffen hat, selbst genutzt wird.</P><P>(6) Die zust\u00e4ndige Stelle hat die eingezogenen Ausgleichszahlungen an das Land abzuf\u00fchren, soweit nichts anderes bestimmt ist. Das Aufkommen aus der Erhebung der Ausgleichszahlungen ist laufend f\u00fcr die soziale Wohnraumf\u00f6rderung zu verwenden.</P><P>(7) F\u00fcr die Zwecke des Ausgleichs von Fehlf\u00f6rderungen nach diesem Abschnitt sind sonstige Wohnungsinhaber den Mietern gleichgestellt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003500000",
+        "name": "\u00a7 35",
+        "title": "Einkommensermittlung und Einkommensnachweis",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001000000"
+        },
+        "body": "<P>(1) Auf die Ermittlung des Gesamteinkommens sind die \u00a7\u00a7 20 bis 24 unter Einbeziehung der die Wohnung nicht nur vor\u00fcbergehend nutzenden Personen anzuwenden. Die L\u00e4nder k\u00f6nnen bestimmen, dass abweichend von Satz 1 zur weitergehenden Ber\u00fccksichtigung sozialer Gr\u00fcnde, die der Vermeidung nicht vertretbarer Belastungen dient, zus\u00e4tzliche Freibetr\u00e4ge vom Gesamteinkommen abgesetzt werden k\u00f6nnen. Ma\u00dfgebend f\u00fcr die Einkommensermittlung nach den S\u00e4tzen 1 und 2 sind die Verh\u00e4ltnisse neun Monate vor Beginn des durch landesrechtliche Vorschriften nach \u00a7 36 Abs. 1 Nr. 3 bestimmten Leistungszeitraums. Abweichend hiervon ist in den F\u00e4llen des \u00a7 37 Abs. 2 der Zeitpunkt der Antragstellung ma\u00dfgebend.</P><P>(2) Der Mieter hat auf Anforderung der zust\u00e4ndigen Stelle sein Einkommen nachzuweisen und die weiteren Haushaltsangeh\u00f6rigen sowie die die Wohnung nicht nur vor\u00fcbergehend nutzenden sonstigen Personen zu benennen sowie deren Einkommen nachzuweisen. Dem Mieter ist hierf\u00fcr eine angemessene Frist einzur\u00e4umen. Verweigert eine f\u00fcr die Einkommensermittlung heranzuziehende Person gegen\u00fcber dem Mieter Angaben \u00fcber ihr Einkommen, ist sie verpflichtet, die erforderlichen Angaben gegen\u00fcber der zust\u00e4ndigen Stelle zu machen und nachzuweisen; Satz 2 gilt entsprechend. Der Mieter hat die zur Angabe des Einkommens verpflichtete Person vorab darauf hinzuweisen, dass sie ihre Angabe gegen\u00fcber der zust\u00e4ndigen Stelle machen und nachweisen kann.</P><P>(3) Vers\u00e4umt der Mieter oder die zur Angabe des Einkommens verpflichtete Person die Frist nach Absatz 2 Satz 2 und 3, wird vermutet, dass eine \u00dcberschreitung der Einkommensgrenze in dem Umfang vorliegt, der den Mieter zu der nach \u00a7 36 festgelegten h\u00f6chstm\u00f6glichen Ausgleichszahlung verpflichtet. Wird die Verpflichtung nach Absatz 2 Satz 1 nachtr\u00e4glich erf\u00fcllt, ist vom ersten Tag des n\u00e4chsten Kalendermonats an nur der Betrag zu entrichten, der sich nach \u00dcberpr\u00fcfung der Einkommensverh\u00e4ltnisse ergibt.</P><P>(4) Finanzbeh\u00f6rden und Arbeitgeber haben der zust\u00e4ndigen Stelle Auskunft \u00fcber die Einkommensverh\u00e4ltnisse zu erteilen, soweit dies f\u00fcr die Festsetzung der Ausgleichszahlung erforderlich ist und begr\u00fcndete Zweifel an der Richtigkeit der Angaben und der hierzu vorgelegten Nachweise bestehen. Vor einem Auskunftsersuchen an den Arbeitgeber soll dem Mieter oder der zur Angabe des Einkommens verpflichteten Person Gelegenheit zur Stellungnahme gegeben werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003600000",
+        "name": "\u00a7 36",
+        "title": "H\u00f6he der Ausgleichszahlung und Leistungszeitraum",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001000000"
+        },
+        "body": "<P>(1) Die L\u00e4nder bestimmen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den monatlichen H\u00f6chstbetrag je Quadratmeter Wohnfl\u00e4che, auf den die Ausgleichszahlung festgesetzt werden kann,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die H\u00f6he der nach dem Gesamteinkommen des Haushalts zu staffelnden monatlichen Ausgleichszahlung je Quadratmeter Wohnfl\u00e4che sowie</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Leistungszeitraum, f\u00fcr den die Ausgleichszahlung erhoben wird, und den Beginn der Leistungspflicht.</LA></DD> </DL> </P><P>(2) Der Gesamtbetrag aus h\u00f6chstzul\u00e4ssiger Miete und Ausgleichszahlung darf die orts\u00fcbliche Vergleichsmiete im Sinne des \u00a7 558 Abs. 2 des B\u00fcrgerlichen Gesetzbuchs nicht \u00fcberschreiten.</P><P>(3) Die L\u00e4nder k\u00f6nnen zum Zwecke der Begrenzung der Ausgleichszahlung durch orts\u00fcbliche Vergleichsmieten nach Absatz 2 H\u00f6chstbetr\u00e4ge bestimmen. Sie k\u00f6nnen hierf\u00fcr <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Betr\u00e4ge bis zum Mittelwert der in einem Mietspiegel enthaltenen Mietspanne oder bis zu den in einem Mietspiegel enthaltenen Festbetr\u00e4gen f\u00fcr Wohnungen vergleichbarer Art, Gr\u00f6\u00dfe, Ausstattung, Beschaffenheit und Lage oder,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wenn ein Mietspiegel nicht besteht oder keine entsprechenden Angaben enth\u00e4lt, die nach statistischen Erhebungen und deren Fortschreibung oder sonstigen Erkenntnismitteln erfahrungsgem\u00e4\u00df zu erzielenden Entgelte f\u00fcr Wohnungen vergleichbarer Art, Gr\u00f6\u00dfe, Ausstattung, Beschaffenheit und Lage nach Gemeinden unterschiedlich</LA></DD> </DL>festlegen. Sie k\u00f6nnen auch bestimmen, dass bei der Festsetzung der Ausgleichszahlung bestimmte eigene Leistungen des Mieters und der sich hieraus ergebende Mietvorteil zu seinen Gunsten ber\u00fccksichtigt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003700000",
+        "name": "\u00a7 37",
+        "title": "Wegfall und Minderung der Ausgleichszahlung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001000000"
+        },
+        "body": "<P>(1) Die Verpflichtung zur Leistung einer Ausgleichszahlung erlischt, sobald die Wohnung nicht mehr der Mietbindung unterliegt oder von keinem der Mieter mehr genutzt wird.</P><P>(2) Die Zahlungspflicht ist auf Antrag mit Wirkung vom ersten Tag des auf den Antrag folgenden Kalendermonats an auf den Betrag herabzusetzen, der den Verh\u00e4ltnissen im Zeitpunkt des Antrags entspricht, wenn dieser Betrag niedriger ist, weil <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Gesamteinkommen die nach Absatz 2 oder auf Grund des Absatzes 3 des \u00a7 9 ma\u00dfgebliche Einkommensgrenze unterschreitet,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich das Gesamteinkommen um mehr als 15 Prozent verringert hat,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich die Zahl der Haushaltsangeh\u00f6rigen und der die Wohnung nicht nur vor\u00fcbergehend nutzenden sonstigen Personen erh\u00f6ht hat oder</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">sich die Miete nach \u00a7 28 Abs. 1 Satz 1 um mehr als 15 Prozent erh\u00f6ht hat.</LA></DD> </DL>Die Herabsetzung nach Satz 1 soll r\u00fcckwirkend erfolgen, wenn das die Herabsetzung begr\u00fcndende Ereignis durch eine amtliche Bescheinigung nachgewiesen wird und diese Bescheinigung erst zu einem sp\u00e4teren Zeitpunkt beigebracht werden kann. Der Antrag kann in den F\u00e4llen des Satzes 1 nur bis sechs Monate vor Ablauf des Leistungszeitraums, im Fall des Satzes 2 nur bis zum Ablauf des Leistungszeitraums gestellt werden. Die L\u00e4nder k\u00f6nnen zur Vermeidung eines unvertretbaren Verwaltungsaufwands von Satz 1 abweichende Bestimmungen erlassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG001100000",
+        "name": "Teil 3",
+        "title": "Bundesmittel",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE003802310",
+        "name": "(XXXX) \u00a7\u00a7 38 bis 43",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001100000"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG001200000",
+        "name": "Teil 4",
+        "title": "Erg\u00e4nzungsvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE004400000",
+        "name": "\u00a7 44",
+        "title": "Sonderregelungen f\u00fcr einzelne L\u00e4nder",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001200000"
+        },
+        "body": "<P>In dem in Artikel 3 des Einigungsvertrags genannten Gebiet gelten: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00f6rdergegenstand ist bis zum 31. Dezember 2008 in Erg\u00e4nzung des \u00a7 2 Abs. 1 auch die Instandsetzung vorhandener Wohnungen.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Bei der F\u00f6rderung der Modernisierung und, soweit sie nach Nummer 1 F\u00f6rdergegenstand ist, der Instandsetzung von Mietwohnungen kann von der Begr\u00fcndung von Belegungsbindungen abgesehen werden, soweit in dem Gebiet auf Grund von nach \u00a7 12 Abs. 2 Satz 1 und 2 und \u00a7 13 des Altschuldenhilfe-Gesetzes erlassenen landesrechtlichen Vorschriften gen\u00fcgend Wohnungen belegungsgebunden sind.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE004500000",
+        "name": "\u00a7 45",
+        "title": "F\u00f6rderung mit Wohnungsf\u00fcrsorgemitteln",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001200000"
+        },
+        "body": "<P>(1) Bei der Vergabe von F\u00f6rdermitteln f\u00fcr Wohnungen, die f\u00fcr Angeh\u00f6rige des \u00f6ffentlichen Dienstes oder \u00e4hnlicher Personengruppen aus \u00f6ffentlichen Haushalten und Zweckverm\u00f6gen unter Vereinbarung eines Wohnungsbesetzungsrechts unmittelbar oder mittelbar zur Verf\u00fcgung gestellt werden (Wohnungsf\u00fcrsorgemittel), findet \u00a7 28 entsprechende Anwendung.</P><P>(2) Auf die nach Absatz 1 gef\u00f6rderten Wohnungen sind die \u00a7\u00a7 34 bis 37 und die hierzu ergangenen landesrechtlichen Vorschriften \u00fcber die Erhebung von Ausgleichszahlungen mit folgenden Ma\u00dfgaben anzuwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">F\u00fcr diese Wohnungen sind die landesrechtlichen Vorschriften des Landes, in dem die gef\u00f6rderten Wohnungen liegen, ma\u00dfgeblich.</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Die eingezogenen Ausgleichszahlungen stehen den \u00f6ffentlichen Haushalten oder Zweckverm\u00f6gen zu, aus denen die F\u00f6rdermittel verausgabt wurden; sie sind zur F\u00f6rderung von Wohnungen nach Absatz 1 zu verwenden, soweit hierf\u00fcr ein Bedarf besteht, im \u00dcbrigen f\u00fcr die soziale Wohnraumf\u00f6rderung. Sind f\u00fcr die Wohnungen auch Mittel der sozialen Wohnraumf\u00f6rderung eingesetzt worden, stehen die Einnahmen aus den Ausgleichszahlungen dem jeweiligen \u00f6ffentlichen Haushalt oder Zweckverm\u00f6gen, aus dem die Wohnungsf\u00fcrsorgemittel verausgabt worden sind, nur zu, wenn im Zeitpunkt der Bewilligung oder F\u00f6rderzusage die F\u00f6rderung mit Wohnungsf\u00fcrsorgemitteln dem Betrage nach \u00fcberwogen hat.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR237610001BJNG001300000",
+        "name": "Teil 5",
+        "title": "\u00dcberleitungs- und Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE004600000",
+        "name": "\u00a7 46",
+        "title": "Zeitlicher Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001300000"
+        },
+        "body": "<P>(1) Die \u00a7\u00a7 1 bis 45 dieses Gesetzes finden auf Ma\u00dfnahmen der sozialen Wohnraumf\u00f6rderung Anwendung, f\u00fcr die die F\u00f6rderzusage nach dem 31. Dezember 2001 erteilt wird.</P><P>(2) F\u00f6rdermittel k\u00f6nnen abweichend von Absatz 1 bis zum 31. Dezember 2002 auf der Grundlage des Zweiten Wohnungsbaugesetzes oder des Wohnungsbaugesetzes f\u00fcr das Saarland in der jeweils bis zum 31. Dezember 2001 geltenden Fassung bewilligt werden. Dabei k\u00f6nnen an Stelle des \u00a7 8 des Zweiten Wohnungsbaugesetzes und des \u00a7 6 des Wohnungsbaugesetzes f\u00fcr das Saarland \u00a7 18 und an Stelle des \u00a7 25 Abs. 2 und 3 und der \u00a7\u00a7 25a bis 25d des Zweiten Wohnungsbaugesetzes sowie des \u00a7 14 Abs. 2 und 3 und der \u00a7\u00a7 14a bis 14d des Wohnungsbaugesetzes f\u00fcr das Saarland \u00a7 9 Abs. 2 und die \u00a7\u00a7 20 bis 24 angewendet werden.</P><P>(3) Bis zum Erlass der Rechtsverordnung nach \u00a7 19 Abs. 1 Satz 2 sind die \u00a7\u00a7 42 bis 44 der Zweiten Berechnungsverordnung in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S. 2178), die zuletzt durch Artikel 8 Abs. 2 des Gesetzes vom 19. Juni 2001 (BGBl. I S. 1149) ge\u00e4ndert worden ist, anzuwenden. Bis zum Erlass der Rechtsverordnung nach \u00a7 19 Abs. 2 Satz 2 ist hinsichtlich der Betriebskosten \u00a7 27 der Zweiten Berechnungsverordnung mit ihrer Anlage 3 anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE004701310",
+        "name": "\u00a7 47",
+        "title": "Darlehen des Bundes und F\u00f6rderung auf Grund fr\u00fcheren Rechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001300000"
+        },
+        "body": "<P>(1) weggefallen</P><P>(2) F\u00fcr die Einkommensermittlung nach \u00a7 88d Abs. 2 Nr. 4 des Zweiten Wohnungsbaugesetzes und nach \u00a7 51e Abs. 2 Nr. 4 des Wohnungsbaugesetzes f\u00fcr das Saarland bei Wohnungen, die nach \u00a7 88d des Zweiten Wohnungsbaugesetzes oder nach \u00a7 51e des Wohnungsbaugesetzes f\u00fcr das Saarland gef\u00f6rdert worden sind, finden an Stelle des \u00a7 25 Abs. 1 und 3 und der \u00a7\u00a7 25a bis 25d des Zweiten Wohnungsbaugesetzes sowie des \u00a7 14 Abs. 1 und 3 und der \u00a7\u00a7 14a bis 14d des Wohnungsbaugesetzes f\u00fcr das Saarland die \u00a7\u00a7 20 bis 24 Anwendung. Satz 1 gilt entsprechend bei Wohnungen, die nach den \u00a7\u00a7 88 bis 88c des Zweiten Wohnungsbaugesetzes gef\u00f6rdert worden sind.</P><P>(3) Ist in einer Bewilligung oder F\u00f6rderzusage nach \u00a7 88 oder \u00a7 88d des Zweiten Wohnungsbaugesetzes bei der Bestimmung der Einkommensgrenze auf \u00a7 25 Abs. 2 des Zweiten Wohnungsbaugesetzes Bezug genommen worden, findet an Stelle dieser Bestimmung \u00a7 9 Abs. 2 Anwendung. Ist bei einer F\u00f6rderzusage nach \u00a7 88d des Zweiten Wohnungsbaugesetzes eine Einkommensgrenze ohne Bezugnahme auf \u00a7 25 Abs. 2 des Zweiten Wohnungsbaugesetzes bestimmt worden, bleibt diese Bestimmung unber\u00fchrt.</P><P>(4) F\u00fcr die Sicherung der Zweckbestimmung von Wohnungen, die nach den \u00a7\u00a7 87a, 87b, 88, 88d und 88e des Zweiten Wohnungsbaugesetzes gef\u00f6rdert worden sind, findet an Stelle des \u00a7 88f Abs. 1 Satz 1 und Abs. 2 des Zweiten Wohnungsbaugesetzes \u00a7 32 Abs. 2 und 3 Satz 1 sowie Abs. 4 und 5 Anwendung.</P><P>(5) Erfolgt zur Best\u00e4tigung der Wohnberechtigung f\u00fcr Wohnungen, die bis zum 31. Dezember 2001 und in den F\u00e4llen des \u00a7 46 Abs. 2 bis zum 31. Dezember 2002 nach den Vorschriften des Wohnungsbaugesetzes f\u00fcr das Saarland gef\u00f6rdert wurden, eine Einkommensberechnung, sind \u00a7 9 Abs. 2 und die \u00a7\u00a7 20 bis 24 anzuwenden. Zum Haushalt des Wohnungssuchenden rechnen die in \u00a7 18 bezeichneten Angeh\u00f6rigen.</P><P>(6) F\u00fcr Wohnungen, die bis zum 31. Dezember 2001 und in den F\u00e4llen des \u00a7 46 Abs. 2 bis zum 31. Dezember 2002 nach den Vorschriften des Wohnungsbaugesetzes f\u00fcr das Saarland gef\u00f6rdert wurden, gilt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf die Erhebung von Daten ist \u00a7 32 Abs. 2 Satz 1 anzuwenden;</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf die Erteilung von Ausk\u00fcnften \u00fcber die Einkommensverh\u00e4ltnisse ist \u00a7 32 Abs. 2 und 3 Satz 1 und Abs. 4 anzuwenden.</LA></DD> </DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE004803310",
+        "name": "\u00a7 48",
+        "title": "Anwendung des Zweiten Wohnungsbaugesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001300000"
+        },
+        "body": "<P>(1) Folgende Vorschriften des Zweiten Wohnungsbaugesetzes in der bis zum 31. Dezember 2001 geltenden Fassung sind weiter anzuwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auf vor dem 1. Januar 2002 und in den F\u00e4llen des \u00a7 46 Abs. 2 vor dem 1. Januar 2003<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den \u00a7\u00a7 42 bis 45 des Zweiten Wohnungsbaugesetzes bewilligte Darlehen f\u00fcr die Bilanzierung von Aufwendungsdarlehen und Annuit\u00e4tsdarlehen \u00a7 42 Abs.1 Satz 3 in Verbindung mit \u00a7 88 Abs. 3 des Zweiten Wohnungsbaugesetzes, f\u00fcr Zinserh\u00f6hungen und erstmalige Verzinsungen \u00a7 44 Abs. 2 und 3 des Zweiten Wohnungsbaugesetzes, f\u00fcr Tilgungserh\u00f6hungen \u00a7 44 Abs. 4 Satz 2 und 3 des Zweiten Wohnungsbaugesetzes, f\u00fcr K\u00fcndigungen \u00a7 44 Abs. 5 Satz 2 und 3 des Zweiten Wohnungsbaugesetzes, f\u00fcr die Bewilligung eines Zusatzdarlehens bei Kaufeigenheimen, Tr\u00e4gerkleinsiedlungen und Kaufeigentumswohnungen \u00a7 45 Abs. 3 Satz 2 Halbsatz 2, Abs. 6 Satz 4 und Abs. 7 des Zweiten Wohnungsbaugesetzes, f\u00fcr die R\u00fcckzahlung eines Familienzusatzdarlehens \u00a7 45 Abs. 8 des Zweiten Wohnungsbaugesetzes;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 87a des Zweiten Wohnungsbaugesetzes bewilligte Wohnungsf\u00fcrsorgemittel, mit Ausnahme von Wohnungsf\u00fcrsorgemitteln des Bundes sowie der fr\u00fcheren \u00f6ffentlich-rechtlichen Sonderverm\u00f6gen des Bundes oder deren Rechtsnachfolger, \u00a7 87a des Zweiten Wohnungsbaugesetzes;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den \u00a7\u00a7 87a und 87b des Zweiten Wohnungsbaugesetzes gef\u00f6rderte Wohnungen \u00a7 88f Abs. 1 Satz 2 des Zweiten Wohnungsbaugesetzes mit der Ma\u00dfgabe, dass sich die Aufgaben der zust\u00e4ndigen Stelle auf den nach \u00a7 47 Abs. 4 anzuwendenden \u00a7 32 Abs. 2 und 4 beziehen;</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 88 des Zweiten Wohnungsbaugesetzes bewilligte Aufwendungsdarlehen und -zusch\u00fcsse \u00a7 88b Abs. 2 bis 4 und \u00a7 88c des Zweiten Wohnungsbaugesetzes und f\u00fcr die Ausweisung eines Aufwendungsdarlehens in der Bilanz \u00a7 88 Abs. 3 des Zweiten Wohnungsbaugesetzes;</LA></DD><DT>e)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 88e des Zweiten Wohnungsbaugesetzes bewilligte einkommensorientierte F\u00f6rderung \u00a7 88e Abs. 2 und 3 und \u00a7 88f Abs. 2 des Zweiten Wohnungsbaugesetzes;</LA></DD></DL></LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Abl\u00f6sung von \u00f6ffentlichen Baudarlehen durch Eigent\u00fcmer eines Eigenheims, einer Eigensiedlung oder einer eigen genutzten Eigentumswohnung, f\u00fcr die \u00f6ffentliche Mittel nach dem 31. Dezember 1969 bewilligt worden sind, bis zum 28. Februar 2002 \u00a7 69 des Zweiten Wohnungsbaugesetzes;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den sich ergebenden Ausfall an R\u00fcckfl\u00fcssen durch die Abl\u00f6sung nach \u00a7 69 des Zweiten Wohnungsbaugesetzes \u00a7 70 Abs. 1 des Zweiten Wohnungsbaugesetzes.</LA></DD></DL></P><P>(2) Auf der Grundlage des Zweiten Wohnungsbaugesetzes wirksame Entscheidungen und sonstige Ma\u00dfnahmen gelten weiter.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE004900000",
+        "name": "\u00a7 49",
+        "title": "Anwendung des Wohnungsbaugesetzes f\u00fcr das Saarland",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001300000"
+        },
+        "body": "<P>(1) Folgende Vorschriften des Wohnungsbaugesetzes f\u00fcr das Saarland in der bis zum 31. Dezember 2001 geltenden Fassung sind weiter anzuwenden: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Auf vor dem 1. Januar 2002 und in den F\u00e4llen des \u00a7 46 Abs. 2 vor dem 1. Januar 2003<DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den \u00a7\u00a7 24 bis 27 des Wohnungsbaugesetzes f\u00fcr das Saarland bewilligte Darlehen f\u00fcr Zinserh\u00f6hungen und erstmalige Verzinsungen \u00a7 26 Abs. 2 und 3 des Wohnungsbaugesetzes f\u00fcr das Saarland, f\u00fcr Tilgungserh\u00f6hungen \u00a7 26 Abs. 4 Satz 2 und 3 des Wohnungsbaugesetzes f\u00fcr das Saarland, f\u00fcr K\u00fcndigungen \u00a7 26 Abs. 5 Satz 2 und 3 des Wohnungsbaugesetzes f\u00fcr das Saarland, f\u00fcr die Bewilligung eines Zusatzdarlehens bei Kaufeigenheimen, Tr\u00e4gerkleinsiedlungen und Kaufeigentumswohnungen \u00a7 27 Abs. 3 Satz 2 Halbsatz 2, Abs. 6 Satz 4 und Abs. 7 des Wohnungsbaugesetzes f\u00fcr das Saarland, f\u00fcr die R\u00fcckzahlung eines Familienzusatzdarlehens \u00a7 27 Abs. 8 des Wohnungsbaugesetzes f\u00fcr das Saarland, f\u00fcr die h\u00f6chstzul\u00e4ssige Miete \u00a7 29a des Wohnungsbaugesetzes f\u00fcr das Saarland;</LA></DD> <DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 38 des Wohnungsbaugesetzes f\u00fcr das Saarland bewilligte Wohnungsf\u00fcrsorgemittel \u00a7 38 des Wohnungsbaugesetzes f\u00fcr das Saarland;</LA></DD> <DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 51a des Wohnungsbaugesetzes f\u00fcr das Saarland bewilligte Aufwendungsdarlehen und -zusch\u00fcsse \u00a7 51c Abs. 2 und 3 und \u00a7 51d des Wohnungsbaugesetzes f\u00fcr das Saarland, f\u00fcr die Ausweisung eines Aufwendungsdarlehens in der Bilanz \u00a7 51a Abs. 3 des Wohnungsbaugesetzes f\u00fcr das Saarland;</LA></DD> </DL></LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Abl\u00f6sung von \u00f6ffentlichen Baudarlehen durch Eigent\u00fcmer eines Eigenheims, einer Eigensiedlung oder einer eigen genutzten Eigentumswohnung, f\u00fcr die \u00f6ffentliche Mittel nach dem 31. Dezember 1969 bewilligt worden sind, bis zum 28. Februar 2002 \u00a7 34 des Wohnungsbaugesetzes f\u00fcr das Saarland;</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf den sich ergebenden Ausfall an R\u00fcckfl\u00fcssen durch die Abl\u00f6sung nach \u00a7 34 des Wohnungsbaugesetzes f\u00fcr das Saarland \u00a7 35 des Wohnungsbaugesetzes f\u00fcr das Saarland;</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr die Anpassung von F\u00f6rderungsbestimmungen, deren Gegenstand die Errechnung und Anpassung der Kostenmiete f\u00fcr Wohnungen ist, die nach \u00a7 24 des Wohnungsbaugesetzes f\u00fcr das Saarland vor dem 1. Januar 2002 und in F\u00e4llen des \u00a7 46 Abs. 2 vor dem 1. Januar 2003 gef\u00f6rdert wurden, \u00a7 57 Abs. 2 des Wohnungsbaugesetzes f\u00fcr das Saarland.</LA></DD> </DL> </P><P>(2) Auf der Grundlage des Wohnungsbaugesetzes f\u00fcr das Saarland wirksame Entscheidungen, die auf seiner Grundlage erlassenen Bestimmungen und sonstige Ma\u00dfnahmen gelten weiter.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE005002310",
+        "name": "\u00a7 50",
+        "title": "Anwendung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung\nund der Zweiten Berechnungsverordnung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001300000"
+        },
+        "body": "<P>(1) Das Wohnungsbindungsgesetz in der Fassung der Bekanntmachung vom 19. August 1994 (BGBl. I S. 2166, 2319), ge\u00e4ndert durch Artikel 7 Abs. 11 des Gesetzes vom 19. Juni 2001 (BGBl. I S. 1149), die Neubaumietenverordnung in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S. 2203), ge\u00e4ndert durch Artikel 2 der Verordnung vom 13. Juli 1992 (BGBl. I S. 1250), und die Zweite Berechnungsverordnung in der Fassung der Bekanntmachung vom 12. Oktober 1990 (BGBl. I S. 2178), zuletzt ge\u00e4ndert durch Artikel 8 Abs. 2 des Gesetzes vom 19. Juni 2001 (BGBl. I S. 1149), sind ab 1. Januar 2002 in der jeweils geltenden Fassung auf Wohnraum, <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den \u00f6ffentliche Mittel im Sinne des \u00a7 6 Abs. 1 des Zweiten Wohnungsbaugesetzes bis zum 31. Dezember 2001 bewilligt worden sind,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den \u00f6ffentliche Mittel im Sinne des \u00a7 3 des Ersten Wohnungsbaugesetzes bewilligt worden sind,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr dessen Bau ein Darlehen oder ein Zuschuss aus Wohnungsf\u00fcrsorgemitteln, mit Ausnahme von Wohnungsf\u00fcrsorgemitteln des Bundes sowie der fr\u00fcheren \u00f6ffentlich-rechtlichen Sonderverm\u00f6gen des Bundes oder deren Rechtsnachfolger, nach \u00a7 87a Abs. 1 Satz 1 des Zweiten Wohnungsbaugesetzes bis zum 31. Dezember 2001 bewilligt worden ist,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">f\u00fcr den Aufwendungszusch\u00fcsse und Aufwendungsdarlehen nach \u00a7 88 des Zweiten Wohnungsbaugesetzes bis zum 31. Dezember 2001 bewilligt worden sind,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">(weggefallen)</LA></DD> </DL>vorbehaltlich des Absatzes 2 anzuwenden, soweit das Wohnungsbindungsgesetz, die Neubaumietenverordnung und die Zweite Berechnungsverordnung hierf\u00fcr am 31. Dezember 2001 Anwendung finden. Satz 1 gilt auch, wenn F\u00f6rdermittel nach \u00a7 46 Abs. 2 bewilligt werden.</P><P>(2) Verfahren nach dem Wohnungsbindungsgesetz, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung, die vor dem 1. Januar 2002 und im Fall des \u00a7 46 Abs. 2 vor dem 1. Januar 2003 f\u00f6rmlich eingeleitet worden sind, werden nach den bis zum 31. Dezember 2001 geltenden Vorschriften abgeschlossen. Auf der Grundlage der jeweils bis zum 31. Dezember 2001 geltenden Fassung des Wohnungsbindungsgesetzes, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung wirksame Entscheidungen und sonstige Ma\u00dfnahmen gelten weiter. Verfahren, die nach dem 1. Januar 2002 nach \u00a7 46 Abs. 2 f\u00f6rmlich eingeleitet worden sind, k\u00f6nnen nach dem Wohnungsbindungsgesetz, der Neubaumietenverordnung und der Zweiten Berechnungsverordnung in der jeweils ab dem 1. Januar 2002 geltenden Fassung durchgef\u00fchrt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE005102310",
+        "name": "\u00a7 51",
+        "title": "Anwendung des Gesetzes \u00fcber den Abbau der Fehlsubventionierung im\nWohnungswesen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001300000"
+        },
+        "body": "<P>(1) Das Gesetz \u00fcber den Abbau der Fehlsubventionierung im Wohnungswesen in der Fassung der Bekanntmachung vom 19. August 1994 (BGBl. I S. 2180), zuletzt ge\u00e4ndert durch Artikel 7 Abs. 13 des Gesetzes vom 19. Juni 2001 (BGBl. I S. 1149), ist ab 1. Januar 2002 in der jeweils geltenden Fassung f\u00fcr den in \u00a7 50 Abs. 1 Satz 1 Nr. 1 bis 3 und Satz 2 und den in \u00a7 2 Abs. 2 Nr. 2 des Wohnraumf\u00f6rderung-\u00dcberleitungsgesetzes vom 5. September 2006 (BGBl. I S. 2098, 2100) bezeichneten Wohnraum anzuwenden, bis das Land f\u00fcr die Erhebung von Ausgleichszahlungen nach Ma\u00dfgabe des \u00a7 15 des Gesetzes \u00fcber den Abbau der Fehlsubventionierung im Wohnungswesen Vorschriften erlassen hat.</P><P>(2) \u00a7 50 Abs. 2 gilt f\u00fcr Verfahren sowie f\u00fcr wirksame Entscheidungen und sonstige Ma\u00dfnahmen nach dem Gesetz \u00fcber den Abbau der Fehlsubventionierung im Wohnungswesen entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR237610001BJNE005201310",
+        "name": "\u00a7 52",
+        "title": "Bu\u00dfgeldvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR237610001BJNG001300000"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 27 Abs. 1 eine Wohnung zum Gebrauch \u00fcberl\u00e4sst,</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">ohne Genehmigung nach \u00a7 27 Abs. 7 Satz 1 Nr. 1 oder 2 eine Wohnung selbst nutzt oder nicht nur vor\u00fcbergehend, mindestens drei Monate, leer stehen l\u00e4sst,</LA></DD> <DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">ohne Genehmigung nach \u00a7 27 Abs. 7 Satz 1 Nr. 3 eine Wohnung anderen als Wohnzwecken zuf\u00fchrt oder entsprechend baulich \u00e4ndert,</LA></DD> <DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 28 Abs. 2 eine Wohnung zum Gebrauch \u00fcberl\u00e4sst,</LA></DD> <DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 28 Abs. 4 eine dort genannte Leistung fordert, sich versprechen l\u00e4sst oder annimmt oder</LA></DD> <DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 32 Abs. 3 Satz 1 eine Mitteilung nicht, nicht richtig, nicht vollst\u00e4ndig oder nicht rechtzeitig macht.</LA></DD> </DL> </P><P>(2) Die Ordnungswidrigkeit kann in den F\u00e4llen des Absatzes 1 Nr. 6 mit einer Geldbu\u00dfe bis zu zweitausendf\u00fcnfhundert Euro, in den F\u00e4llen des Absatzes 1 Nr. 1 und 2 mit einer Geldbu\u00dfe bis zu zehntausend Euro, in den \u00fcbrigen F\u00e4llen mit einer Geldbu\u00dfe bis zu f\u00fcnfzigtausend Euro geahndet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

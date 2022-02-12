@@ -1,0 +1,155 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR329200004",
+    "firstPublished": "2004-12-09",
+    "sourceTimestamp": "20191128212630",
+    "titleShort": null,
+    "titleLong": "Gesetz zur Errichtung der Deutschen Rentenversicherung Bund und der\nDeutschen Rentenversicherung Knappschaft-Bahn-See",
+    "abbreviation": "RVBund/KnErG",
+    "slug": "rvbund_knerg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2004, 3242, 3292",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 1 G v. 15.11.2019 I 1565",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.10.2005 +++)<BR /><BR /></pre>Das G wurde als Artikel 82 des G v. 9.12.2004 I 3242 (RVOrgG) vom Bundestag mit Zustimmung des Bundesrates beschlossen. Es tritt gem. Art. 86 Abs. 4 dieses G am 1.10.2005 in Kraft.</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR329200004BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Errichtung der Deutschen Rentenversicherung Bund",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR329200004BJNE000100000",
+        "name": "\u00a7 1",
+        "title": "Fortf\u00fchrung der Bundesversicherungsanstalt f\u00fcr Angestellte (BfA)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR329200004BJNG000100000"
+        },
+        "body": "<P>Die durch das Gesetz \u00fcber die Errichtung der Bundesversicherungsanstalt f\u00fcr Angestellte vom 7. August 1953 (BGBl. I S. 857) errichtete Bundesversicherungsanstalt f\u00fcr Angestellte wird unter dem Namen \"Deutsche Rentenversicherung Bund\" fortgef\u00fchrt. Sitz der Deutschen Rentenversicherung Bund ist Berlin mit Verwaltungsstellen in Gera, Stralsund und Brandenburg/Havel.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR329200004BJNE000200000",
+        "name": "\u00a7 2",
+        "title": "Eingliederung des Verbandes Deutscher Rentenversicherungstr\u00e4ger e. V.\n(VDR)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR329200004BJNG000100000"
+        },
+        "body": "<P>(1) Der Verband Deutscher Rentenversicherungstr\u00e4ger e. V. wird am 1. Oktober 2005 in die Deutsche Rentenversicherung Bund eingegliedert.</P><P>(2) Das Verm\u00f6gen sowie Rechte und Pflichten des Verbandes Deutscher Rentenversicherungstr\u00e4ger e. V. gehen als Ganzes auf die Deutsche Rentenversicherung Bund \u00fcber. Die \u00a7\u00a7 47 bis 53 des B\u00fcrgerlichen Gesetzbuchs finden keine Anwendung. Der Verband Deutscher Rentenversicherungstr\u00e4ger ist aufgel\u00f6st.</P><P>(3) Der Haushaltsplan 2005 des Verbandes Deutscher Rentenversicherungstr\u00e4ger gilt ab dem 1. Oktober 2005 als Anlage zum Haushaltsplan 2005 der Deutschen Rentenversicherung Bund.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR329200004BJNE000301308",
+        "name": "\u00a7 3",
+        "title": "Genehmigung der Satzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR329200004BJNG000100000"
+        },
+        "body": "<P>Die Satzung der Deutschen Rentenversicherung Bund wird vom Bundesministerium f\u00fcr Arbeit und Soziales genehmigt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR329200004BJNE000600308",
+        "name": "\u00a7 3a",
+        "title": "Dienstleistungen f\u00fcr Bundesbeh\u00f6rden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR329200004BJNG000100000"
+        },
+        "body": "<P>Die Deutsche Rentenversicherung Bund darf im Rahmen der Festlegungen des Rates der IT-Beauftragten f\u00fcr Bundesbeh\u00f6rden Dienstleistungen in ihrer Funktion als Signaturstelle erbringen, soweit dies ihre durch dieses Gesetz oder andere Bundesgesetze oder auf Grund dieser Gesetze zugewiesenen Aufgaben nicht beeintr\u00e4chtigt. Dadurch entstehende Kosten sind ihr zu erstatten. Das N\u00e4here ist jeweils in Verwaltungsvereinbarungen zu regeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR329200004BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Errichtung der Deutschen Rentenversicherung\nKnappschaft-Bahn-See",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR329200004BJNE000400000",
+        "name": "\u00a7 4",
+        "title": "Fortf\u00fchrung der Bundesknappschaft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR329200004BJNG000200000"
+        },
+        "body": "<P>Die durch das Gesetz zur Errichtung der Bundesknappschaft vom 28. Juli 1969 (BGBl. I S. 974) errichtete Bundesknappschaft wird unter dem Namen \"Deutsche Rentenversicherung Knappschaft-Bahn-See\" fortgef\u00fchrt. Sitz der Deutschen Rentenversicherung Knappschaft-Bahn-See ist Bochum.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR329200004BJNE000500000",
+        "name": "\u00a7 5",
+        "title": "Eingliederung der Bahnversicherungsanstalt und der Seekasse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR329200004BJNG000200000"
+        },
+        "body": "<P>(1) Die Bahnversicherungsanstalt und die Seekasse werden aufgel\u00f6st und gehen in der Deutschen Rentenversicherung Knappschaft-Bahn-See auf.</P><P>(2) Das Verm\u00f6gen sowie Rechte und Pflichten der Bahnversicherungsanstalt und der Seekasse gehen als Ganzes auf die Deutsche Rentenversicherung Knappschaft-Bahn-See \u00fcber.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR329200004BJNE000700119",
+        "name": "\u00a7 6",
+        "title": "Stellenb\u00f6rse",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR329200004BJNG000200000"
+        },
+        "body": "<P>Die Deutsche Rentenversicherung Knappschaft-Bahn-See als Tr\u00e4ger der knappschaftlichen Rentenversicherung kann eine internetbasierte Stellenb\u00f6rse f\u00fcr Besch\u00e4ftigungsverh\u00e4ltnisse in Privathaushalten betreiben. Die Einrichtung der Stellenb\u00f6rse erfolgt im Einvernehmen mit dem Bundesministerium f\u00fcr Arbeit und Soziales.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR329200004BJNE000701126",
+        "name": "\u00a7 7",
+        "title": "Beauftragung im Zusammenhang mit der Administration und Pr\u00fcfung von F\u00f6rderprogrammen und F\u00f6rderprojekten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR329200004BJNG000200000"
+        },
+        "body": "<P>(1) Bundesministerien k\u00f6nnen der Deutschen Rentenversicherung Knappschaft-Bahn-See Aufgaben der Administration und Pr\u00fcfung von F\u00f6rderprogrammen und F\u00f6rderprojekten des Bundes oder von vom Bund administrierten F\u00f6rderprogrammen \u00fcbertragen. Die \u00dcbertragung der Aufgaben bedarf der Genehmigung des Bundesministeriums f\u00fcr Arbeit und Soziales. Die \u00a7\u00a7 7 und 44 der Bundeshaushaltsordnung bleiben unber\u00fchrt.</P><P>(2) Der Deutschen Rentenversicherung Knappschaft-Bahn-See werden die Verwaltungskosten, die ihr durch die Wahrnehmung der ihr \u00fcbertragenen Aufgaben entstehen, vom Bund erstattet.</P><P>(3) Die Erf\u00fcllung der Aufgaben nach Absatz 1 durch die Deutsche Rentenversicherung Knappschaft-Bahn-See erfolgt unter der Aufsicht des jeweils beauftragenden Bundesministeriums.</P><P>(4) Das N\u00e4here zu Inhalt und Umfang der Beauftragung ist durch Verwaltungsvereinbarungen zu regeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

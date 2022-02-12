@@ -1,0 +1,48 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR244600012",
+    "firstPublished": "2012-12-05",
+    "sourceTimestamp": "20130226215514",
+    "titleShort": "Beitragssatzgesetz 2013",
+    "titleLong": "Gesetz zur Festsetzung der Beitragss\u00e4tze in der gesetzlichen Rentenversicherung f\u00fcr das Jahr 2013",
+    "abbreviation": "BSG 2013",
+    "slug": "bsg_2013",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2012, 2446",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.1.2013 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR244600012BJNE000100000",
+        "name": "\u00a7 1",
+        "title": null,
+        "parent": null,
+        "body": "<P>Der Beitragssatz betr\u00e4gt f\u00fcr das Jahr 2013 in der allgemeinen Rentenversicherung 18,9 Prozent und in der knappschaftlichen Rentenversicherung 25,1 Prozent.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR244600012BJNE000200000",
+        "name": "\u00a7 2",
+        "title": null,
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt am 1. Januar 2013 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

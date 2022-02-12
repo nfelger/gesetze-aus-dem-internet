@@ -1,0 +1,222 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR032300013",
+    "firstPublished": "2013-02-21",
+    "sourceTimestamp": "20180713213022",
+    "titleShort": "Pr\u00e4implantationsdiagnostikverordnung",
+    "titleLong": "Verordnung zur Regelung der Pr\u00e4implantationsdiagnostik",
+    "abbreviation": "PIDV",
+    "slug": "pidv",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "2013, 323",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Ge\u00e4ndert durch Art. 3 V v. 2.7.2018 I 1078",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.2.2014 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 3a Absatz 3 Satz 3 des Embryonenschutzgesetzes, der durch Artikel 1 Nummer 1 des Gesetzes vom 21. November 2011 (BGBl. I S. 2228) eingef\u00fcgt worden ist, verordnet die Bundesregierung:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR032300013BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Vorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000100000"
+        },
+        "body": "<P>Diese Verordnung regelt die Anforderungen an <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Voraussetzungen f\u00fcr die Zulassung von Zentren, in denen die Pr\u00e4implantationsdiagnostik durchgef\u00fchrt werden darf, und die Dauer der Zulassung nach \u00a7 3a Absatz 3 Satz 3 Nummer 1 des Embryonenschutzgesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Qualifikation der in den zugelassenen Zentren t\u00e4tigen \u00c4rztinnen und \u00c4rzte nach \u00a7 3a Absatz 3 Satz 3 Nummer 1 des Embryonenschutzgesetzes,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Einrichtung, Zusammensetzung, Verfahrensweise und Finanzierung der Ethikkommissionen f\u00fcr Pr\u00e4implantationsdiagnostik nach \u00a7 3a Absatz 3 Satz 3 Nummer 2 des Embryonenschutzgesetzes,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Einrichtung und Ausgestaltung der Zentralstelle nach \u00a7 3a Absatz 3 Satz 3 Nummer 3 des Embryonenschutzgesetzes, der die Dokumentation von im Rahmen der Pr\u00e4implantationsdiagnostik durchgef\u00fchrten Ma\u00dfnahmen obliegt,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Meldung von im Rahmen der Pr\u00e4implantationsdiagnostik durchgef\u00fchrten Ma\u00dfnahmen nach \u00a7 3a Absatz 3 Satz 3 Nummer 4 des Embryonenschutzgesetzes und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Dokumentation nach \u00a7 3a Absatz 3 Satz 3 Nummer 4 des Embryonenschutzgesetzes.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Begriffsbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000100000"
+        },
+        "body": "<P>Im Sinne dieser Verordnung <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>ist Pr\u00e4implantationsdiagnostik die genetische Untersuchung von Zellen eines Embryos in vitro vor seinem intrauterinen Transfer (\u00a7 3a Absatz 1 des Embryonenschutzgesetzes),</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>ist reproduktionsmedizinische Ma\u00dfnahme die k\u00fcnstliche Befruchtung mit anschlie\u00dfender Gewinnung und Aufbereitung von Zellen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>sind Zellen im Sinne der Nummern 1 und 2 Stammzellen, die <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>einem in vitro erzeugten Embryo entnommen worden sind und die F\u00e4higkeit besitzen, sich in entsprechender Umgebung selbst durch Zellteilung zu vermehren, und</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>sich selbst oder deren Tochterzellen sich unter geeigneten Bedingungen zu Zellen unterschiedlicher Spezialisierung, jedoch nicht zu einem Individuum zu entwickeln verm\u00f6gen.</LA></DD></DL></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR032300013BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Anforderungen an Zentren und Ethikkommissionen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Voraussetzungen f\u00fcr die Zulassung von Zentren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000200000"
+        },
+        "body": "<P>(1) Die Pr\u00e4implantationsdiagnostik darf nur in einem Zentrum durchgef\u00fchrt werden, das <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>\u00fcber die nach dem jeweils gesicherten Stand der wissenschaftlichen Erkenntnisse notwendigen diagnostischen, medizinischen und technischen M\u00f6glichkeiten verf\u00fcgt, und zwar sowohl f\u00fcr die reproduktionsmedizinische Ma\u00dfnahme als auch f\u00fcr die genetische Untersuchung, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>von der zust\u00e4ndigen Beh\u00f6rde f\u00fcr die Durchf\u00fchrung der Pr\u00e4implantationsdiagnostik zugelassen ist.</LA></DD></DL>Als Zentren k\u00f6nnen auch reproduktionsmedizinische und humangenetische Einrichtungen zugelassen werden, zwischen denen durch Kooperationsvertrag sichergestellt ist, dass die in Satz 1 genannten Voraussetzungen erf\u00fcllt sind.</P><P>(2) Eine Zulassung darf auf Antrag nur erteilt werden, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>das Zentrum \u00fcber ein System der internen Qualit\u00e4tssicherung verf\u00fcgt und an geeigneten externen Qualit\u00e4tssicherungsma\u00dfnahmen teilnimmt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>im Zentrum sichergestellt ist, dass alle mit der Pr\u00e4implantationsdiagnostik verbundenen Ma\u00dfnahmen durch hierf\u00fcr qualifiziertes Personal durchgef\u00fchrt werden,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>das Zentrum sicherstellt, dass die erforderliche Beratung zu den medizinischen, psychischen und sozialen Folgen der mit der Pr\u00e4implantationsdiagnostik verbundenen Ma\u00dfnahmen durch eine \u00c4rztin oder einen Arzt erfolgt, die oder der die Ma\u00dfnahmen nicht selbst durchf\u00fchrt,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>f\u00fcr den Bereich der reproduktionsmedizinischen Ma\u00dfnahme <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Person, die die reproduktionsmedizinische Einrichtung leitet, Fach\u00e4rztin oder Facharzt f\u00fcr Frauenheilkunde und Geburtshilfe ist und \u00fcber die Schwerpunktbezeichnung \u201eGyn\u00e4kologische Endokrinologie und Reproduktionsmedizin\u201c verf\u00fcgt,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>in der reproduktionsmedizinischen Einrichtung Kenntnisse und Erfahrungen in den Bereichen Endokrinologie der Reproduktion, gyn\u00e4kologische Sonographie, operative Gyn\u00e4kologie, Reproduktionsbiologie mit dem Schwerpunkt der In-vitro-Kultur, Andrologie und psychosomatische Grundversorgung vorhanden sind,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA>die reproduktionsmedizinische Einrichtung \u00fcber hinreichende praktische Erfahrung verf\u00fcgt, insbesondere \u00fcber Erfahrungen mit In-vitro-Fertilisation, intracytoplasmatischer Spermieninjektion oder vergleichbaren Verfahren, mit Embryonentransfer und mit Techniken zur Gewinnung von Zellen und zu deren Aufbereitung,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA>die reproduktionsmedizinische Einrichtung \u00fcber ein zellbiologisches Labor mit den notwendigen fachlichen Erfahrungen zur Zellaufbereitung verf\u00fcgt und</LA></DD></DL></LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>f\u00fcr die Ma\u00dfnahme der genetischen Untersuchung <DL Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA>die Person, die die humangenetische Einrichtung leitet, Fach\u00e4rztin oder Facharzt f\u00fcr Humangenetik ist,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA>die humangenetische Einrichtung \u00fcber Folgendes verf\u00fcgt: <DL Type=\"a-alpha\"><DT>aa)</DT><DD Font=\"normal\"><LA>eine Akkreditierung durch die Deutsche Akkreditierungsstelle f\u00fcr <DL Type=\"a3-alpha\"><DT>aaa)</DT><DD Font=\"normal\"><LA>vergleichende Genomhybridisierung oder molekularzytogenetische Untersuchungen und</LA></DD><DT>bbb)</DT><DD Font=\"normal\"><LA>molekulargenetische Untersuchungen sowie</LA></DD></DL></LA></DD><DT>bb)</DT><DD Font=\"normal\"><LA>hinreichende praktische Erfahrung mit der Anwendung dieser Untersuchungsmethoden an Einzelzellen.</LA></DD></DL></LA></DD></DL></LA></DD></DL>Ein Anspruch auf Zulassung besteht nicht. Bei notwendiger Auswahl zwischen mehreren geeigneten Zentren oder Einrichtungen, die eine Zulassung beantragen, entscheidet die zust\u00e4ndige Beh\u00f6rde unter Ber\u00fccksichtigung der \u00f6ffentlichen Interessen, der Vielfalt der Bewerber und des Bedarfs an Zentren f\u00fcr Pr\u00e4implantationsdiagnostik.</P><P>(2a) Durch Staatsvertrag k\u00f6nnen die L\u00e4nder regeln, dass die Zentren in den beteiligten L\u00e4ndern durch eine gemeinsame Stelle zugelassen werden.</P><P>(3) Der Antrag auf Zulassung ist schriftlich zu stellen und hat folgende Angaben und Unterlagen zu enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>den Namen und die Anschrift des Antragstellers; in den F\u00e4llen des Absatzes 1 Satz 2 ist Antragsteller die Person, die die humangenetische Einrichtung leitet,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Nachweise, aus denen sich das Vorliegen der Anforderungen nach Absatz 2 Satz 1 Nummer 1 bis 5 ergibt; in den F\u00e4llen des Absatzes 1 Satz 2 auch eine Kopie des Kooperationsvertrags.</LA></DD></DL></P><P>(4) Die Zulassung eines Zentrums muss die zust\u00e4ndige Beh\u00f6rde schriftlich erteilen. Sie ist auf f\u00fcnf Jahre zu befristen. Die Zulassung kann auf Antrag nach Ma\u00dfgabe des Absatzes 2 verl\u00e4ngert werden.</P><P>(5) Der Antragsteller ist verpflichtet, der zust\u00e4ndigen Beh\u00f6rde unverz\u00fcglich anzuzeigen, wenn sich bez\u00fcglich der Unterlagen und Angaben nach Absatz 3 \u00c4nderungen ergeben.</P><P>(6) Die zust\u00e4ndige Beh\u00f6rde hat der Zentralstelle nach \u00a7 9 die Zulassung als Zentrum f\u00fcr Pr\u00e4implantationsdiagnostik sowie deren Verl\u00e4ngerung mitzuteilen; eine Mitteilung hat auch f\u00fcr den Fall der R\u00fccknahme oder des Widerrufs der Zulassung zu erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Ethikkommissionen f\u00fcr Pr\u00e4implantationsdiagnostik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000200000"
+        },
+        "body": "<P>(1) Die L\u00e4nder richten f\u00fcr die f\u00fcr die Durchf\u00fchrung der Pr\u00e4implantationsdiagnostik zugelassenen Zentren unabh\u00e4ngige interdisziplin\u00e4r zusammengesetzte Ethikkommissionen f\u00fcr Pr\u00e4implantationsdiagnostik (Ethikkommissionen) ein. Dabei k\u00f6nnen die L\u00e4nder auch gemeinsame Ethikkommissionen einrichten. Die Ethikkommissionen setzen sich aus vier Sachverst\u00e4ndigen der Fachrichtung Medizin, jeweils einem oder einer Sachverst\u00e4ndigen der Fachrichtungen Ethik und Recht sowie jeweils einem Vertreter der f\u00fcr die Wahrnehmung der Interessen der Patientinnen und Patienten und der Selbsthilfe behinderter Menschen auf Landesebene ma\u00dfgeblichen Organisationen zusammen. Bei der Zusammensetzung der Ethikkommission hat die berufende Stelle Frauen und M\u00e4nner mit dem Ziel ihrer gleichberechtigten Teilhabe zu ber\u00fccksichtigen.</P><P>(2) Die Mitglieder der Ethikkommissionen sind in ihrer Meinungsbildung und Entscheidungsfindung unabh\u00e4ngig und nicht weisungsgebunden. Sie sind zur Vertraulichkeit und Verschwiegenheit verpflichtet.</P><P>(3) Die Ethikkommissionen erheben f\u00fcr ihre nach \u00a7 3a Absatz 3 Satz 1 Nummer 2 des Embryonenschutzgesetzes festgelegte T\u00e4tigkeit Geb\u00fchren und Auslagen.</P><P>(4) Das N\u00e4here zur Zusammensetzung, zu internen Verfahrensregelungen, zur Berufung der Mitglieder der Ethikkommissionen und zur Finanzierung der Ethikkommissionen wird durch Landesrecht bestimmt. Die Dauer der Berufung der Mitglieder der Ethikkommissionen ist zu befristen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000600000",
+        "name": "\u00a7 5",
+        "title": "Antrag auf Durchf\u00fchrung einer Pr\u00e4implantationsdiagnostik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000200000"
+        },
+        "body": "<P>(1) Die Ethikkommission wird zur Pr\u00fcfung und Bewertung nach \u00a7 3a Absatz 3 Satz 1 Nummer 2 des Embryonenschutzgesetzes nur auf schriftlichen Antrag der Frau, von der die Eizelle stammt (Antragsberechtigte), t\u00e4tig.</P><P>(2) Der Antrag hat alle Angaben und Unterlagen zu enthalten, die die Ethikkommission f\u00fcr die Pr\u00fcfung des Vorliegens der in \u00a7 3a Absatz 2 des Embryonenschutzgesetzes genannten Voraussetzungen ben\u00f6tigt. Vorzulegen sind: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>in den F\u00e4llen des \u00a7 3a Absatz 2 Satz 1 des Embryonenschutzgesetzes ein \u00e4rztlich-humangenetischer Befund \u00fcber die genetische Disposition der Frau, von der die Eizelle stammt, oder des Mannes, von dem die Samenzelle stammt, oder von beiden, einschlie\u00dflich der Bezeichnung der daraus hervorgehenden Erbkrankheit, Angaben zur Erkrankungswahrscheinlichkeit der Nachkommen sowie zu der zu erwartenden Krankheitsauspr\u00e4gung,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>ein Nachweis der schriftlichen Einwilligung der Antragsberechtigten nach \u00a7 8 Absatz 1 in die Erhebung, Verarbeitung und Nutzung ihrer personenbezogenen Daten durch die Ethikkommission,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>ein Nachweis der schriftlichen Einwilligung des Mannes, von dem die Samenzelle stammt, in die Erhebung, Verarbeitung und Nutzung seiner personenbezogenen Daten durch die Ethikkommission, soweit dessen personenbezogene Daten Gegenstand des Antrags sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>in den F\u00e4llen des \u00a7 3a Absatz 2 Satz 2 des Embryonenschutzgesetzes eine \u00e4rztliche Beurteilung der Annahme, dass eine schwerwiegende Sch\u00e4digung des Embryos zu erwarten ist, die mit hoher Wahrscheinlichkeit zu einer Tot- oder Fehlgeburt f\u00fchren wird,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Angabe des Zentrums, in dem die Pr\u00e4implantationsdiagnostik durchgef\u00fchrt werden soll, einschlie\u00dflich der Best\u00e4tigung, dass diese dort im Fall einer zustimmenden Bewertung durchgef\u00fchrt werden wird,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>Angaben dar\u00fcber, ob hinsichtlich des zur Bewertung vorgelegten Sachverhaltes bereits die Entscheidung einer anderen Ethikkommission f\u00fcr Pr\u00e4implantationsdiagnostik vorliegt, und, sofern eine solche Entscheidung vorliegt, eine Abschrift dieser Entscheidung.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Pr\u00fcfung des Antrags auf Durchf\u00fchrung einer Pr\u00e4implantationsdiagnostik",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000200000"
+        },
+        "body": "<P>(1) Die Ethikkommission \u00fcbermittelt der Antragsberechtigten innerhalb einer Frist von drei Monaten nach Vorliegen der nach \u00a7 5 Absatz 2 erforderlichen Angaben und vollst\u00e4ndigen Unterlagen ihre schriftliche Entscheidung \u00fcber den Antrag auf Durchf\u00fchrung einer Pr\u00e4implantationsdiagnostik.</P><P>(2) Die Ethikkommissionen k\u00f6nnen zur Pr\u00fcfung eines Antrags auf Durchf\u00fchrung einer Pr\u00e4implantationsdiagnostik und der daf\u00fcr eingereichten Unterlagen <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>eigene wissenschaftliche Erkenntnisse verwerten,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Sachverst\u00e4ndige beiziehen, die mit der Gesundheitssch\u00e4digung, die Gegenstand des zu pr\u00fcfenden Antrags ist, Erfahrung haben,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Gutachten anfordern oder</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Antragsberechtigte m\u00fcndlich anh\u00f6ren.</LA></DD></DL>Die Ethikkommissionen sind verpflichtet, in den F\u00e4llen von Satz 1 Nummer 2 und 3 die personenbezogenen Daten zu anonymisieren oder, solange eine Anonymisierung zur Erlangung der notwendigen Erkenntnisse noch nicht m\u00f6glich ist, zu pseudonymisieren.</P><P>(3) \u00c4rztinnen und \u00c4rzte sind von der Pr\u00fcfung eines Antrags auf Durchf\u00fchrung einer Pr\u00e4implantationsdiagnostik ausgeschlossen, wenn sie im Fall einer zustimmenden Bewertung des Antrags die Pr\u00e4implantationsdiagnostik durchf\u00fchren, an der k\u00fcnstlichen Befruchtung beteiligt sein werden oder in dem Zentrum, in dem die Pr\u00e4implantationsdiagnostik oder die k\u00fcnstliche Befruchtung durchgef\u00fchrt werden soll, t\u00e4tig sind.</P><P>(4) Die Ethikkommissionen haben den Antrag auf Durchf\u00fchrung einer Pr\u00e4implantationsdiagnostik zustimmend zu bewerten, wenn sie nach Pr\u00fcfung der in \u00a7 5 Absatz 2 genannten Angaben und Unterlagen unter Ber\u00fccksichtigung der im konkreten Einzelfall ma\u00dfgeblichen psychischen, sozialen und ethischen Gesichtspunkte zu dem Ergebnis kommen, dass die in \u00a7 3a Absatz 2 des Embryonenschutzgesetzes genannten Voraussetzungen erf\u00fcllt sind. Sie treffen ihre Entscheidung mit einer Mehrheit von zwei Dritteln der stimmberechtigten Mitglieder.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000801123",
+        "name": "\u00a7 7",
+        "title": "Umgang der Ethikkommissionen mit Daten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000200000"
+        },
+        "body": "<P>(1) Die Ethikkommissionen d\u00fcrfen mit Einwilligung der Antragsberechtigten und soweit personenbezogene Daten des Mannes, von dem die Samenzelle stammt, Gegenstand des Antrags sind, auch mit dessen Einwilligung nach \u00a7 8 Absatz 1 die in \u00a7 5 Absatz 2 genannten personenbezogenen Daten zu dem dort genannten Zweck verarbeiten.</P><P>(2) Die Ethikkommissionen sind verpflichtet, den Zentren anonymisiert die Daten nach \u00a7 8 Absatz 2 Nummer 1, 3 und 4 zu \u00fcbermitteln.</P><P>(3) Die Ethikkommissionen haben die erforderlichen technischen und organisatorischen Ma\u00dfnahmen zu treffen, um eine unzul\u00e4ssige Verwendung der Daten auszuschlie\u00dfen.</P><P>(4) Die Ethikkommissionen stellen sicher, dass die Angaben und Unterlagen nach \u00a7 5 Absatz 2 sowie alle f\u00fcr die Entscheidung der Ethikkommission ma\u00dfgeblichen Dokumente nach der Entscheidung \u00fcber den Antrag 30 Jahre aufbewahrt werden. Nach Ablauf der in Satz 1 genannten Frist sind die Angaben und Unterlagen unverz\u00fcglich zu l\u00f6schen. Die Angaben und Unterlagen sind vor Ablauf der in Satz 1 genannten Frist unverz\u00fcglich zu l\u00f6schen, wenn der Antrag nach \u00a7 5 Absatz 1 zur\u00fcckgenommen wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE000901123",
+        "name": "\u00a7 8",
+        "title": "Datenerhebung, -verarbeitung und -nutzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000200000"
+        },
+        "body": "<P>(1) Das zugelassene Zentrum f\u00fcr Pr\u00e4implantationsdiagnostik holt die schriftliche Einwilligung der Antragsberechtigten f\u00fcr die Verarbeitung personenbezogener Daten, die f\u00fcr die Durchf\u00fchrung der Pr\u00e4implantationsdiagnostik und f\u00fcr das Verfahren vor der Ethikkommission erforderlich sind, ein. Zuvor kl\u00e4rt das zugelassene Zentrum f\u00fcr Pr\u00e4implantationsdiagnostik die Antragsberechtigte umfassend \u00fcber die nach Satz 1 vorgesehene Verarbeitung personenbezogener Daten sowohl durch die zugelassenen Zentren f\u00fcr Pr\u00e4implantationsdiagnostik selbst als auch durch die Ethikkommissionen auf. Die S\u00e4tze 1 und 2 gelten auch f\u00fcr die Einwilligung des Mannes, von dem die Samenzelle stammt, sofern seine personenbezogenen Daten f\u00fcr die Durchf\u00fchrung der Pr\u00e4implantationsdiagnostik und im Verfahren vor der Ethikkommission erforderlich sind.</P><P>(2) Die zugelassenen Zentren f\u00fcr Pr\u00e4implantationsdiagnostik sind verpflichtet, der Zentralstelle nach \u00a7 9 folgende Daten in anonymisierter Form zu \u00fcbermitteln: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>die Anzahl der Antr\u00e4ge auf zustimmende Bewertung zur Durchf\u00fchrung einer Pr\u00e4implantationsdiagnostik,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die Anzahl der nach zustimmender Bewertung durchgef\u00fchrten Pr\u00e4implantationsdiagnostiken,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Anzahl der abgelehnten Antr\u00e4ge auf zustimmende Bewertung zur Durchf\u00fchrung einer Pr\u00e4implantationsdiagnostik und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Anzahl des jeweiligen Begr\u00fcndungstyps der Indikationsstellung nach \u00a7 3a Absatz 2 des Embryonenschutzgesetzes, untergliedert nach Chromosomenst\u00f6rungen und autosomal-dominant, autosomal-rezessiv und geschlechtsgebunden erblichen Krankheiten, einschlie\u00dflich der jeweiligen genetischen Untersuchungsmethoden, die bei Durchf\u00fchrung der Pr\u00e4implantationsdiagnostik angewendet wurden oder angewendet werden sollten.</LA></DD></DL></P><P>(3) Die Angaben nach Absatz 2 haben die zugelassenen Zentren f\u00fcr Pr\u00e4implantationsdiagnostik der Zentralstelle nach \u00a7 9 j\u00e4hrlich nach Ablauf des Kalenderjahres, sp\u00e4testens bis zum 1. M\u00e4rz des folgenden Jahres, zu melden.</P><P>(4) F\u00fcr die Daten\u00fcbermittlung nach Absatz 2 ist ein von der Zentralstelle erstelltes Formblatt zu verwenden. Das Formblatt kann auch elektronisch zur Verf\u00fcgung gestellt und genutzt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR032300013BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Zentralstelle",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Zentralstelle",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000300000"
+        },
+        "body": "<P>(1) Beim Paul-Ehrlich-Institut wird eine Zentralstelle eingerichtet, der die Dokumentation der nach \u00a7 8 Absatz 2 gemeldeten Daten obliegt.</P><P>(2) Die Zentralstelle stellt sicher, dass die ihr gemeldeten Angaben dokumentiert und zehn Jahre aufbewahrt werden.</P><P>(3) Die Zentralstelle ist verpflichtet, die ihr gemeldeten und dokumentierten Angaben auf Anforderung dem Bundesministerium f\u00fcr Gesundheit zu \u00fcbermitteln, damit es den Bericht der Bundesregierung \u00fcber die Erfahrungen mit der Pr\u00e4implantationsdiagnostik erstellen kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR032300013BJNG000400000",
+        "name": "Abschnitt 4",
+        "title": "Schlussvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Inkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000400000"
+        },
+        "body": "<P>Diese Verordnung tritt am 1. Februar 2014 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR032300013BJNE001200000",
+        "name": "Schlussformel",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR032300013BJNG000400000"
+        },
+        "body": "<P>Der Bundesrat hat zugestimmt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

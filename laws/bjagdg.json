@@ -1,0 +1,973 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR007800952",
+    "firstPublished": "1952-11-29",
+    "sourceTimestamp": "20200818213015",
+    "titleShort": null,
+    "titleLong": "Bundesjagdgesetz",
+    "abbreviation": "BJagdG",
+    "slug": "bjagdg",
+    "extraAbbreviations": [],
+    "publicationInfo": [
+      {
+        "reference": "1952, 780",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Neugefasst durch Bek. v. 29.9.1976 I 2849;",
+        "category": "Neuf"
+      },
+      {
+        "comment": "zuletzt ge\u00e4ndert durch Art. 291 V v. 19.6.2020 I 1328",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 1.4.1977 +++)<BR />(+++ Ma\u00dfgabe aufgrund des EinigVtr Anlage I Kap. VI Sachgeb. F Abschn. III    <BR />     Nr. 1 nicht mehr anzuwenden gem. Art. 109 Nr. 2 Buchst. c <BR />     G v. 8.12.2010 I 1864 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000100325",
+        "name": "I. Abschnitt",
+        "title": "Das Jagdrecht",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002000325",
+        "name": "\u00a7 1",
+        "title": "Inhalt des Jagdrechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000100325"
+        },
+        "body": "<P>(1) Das Jagdrecht ist die ausschlie\u00dfliche Befugnis, auf einem bestimmten Gebiet wildlebende Tiere, die dem Jagdrecht unterliegen, (Wild) zu hegen, auf sie die Jagd auszu\u00fcben und sie sich anzueignen. Mit dem Jagdrecht ist die Pflicht zur Hege verbunden.</P><P>(2) Die Hege hat zum Ziel die Erhaltung eines den landschaftlichen und landeskulturellen Verh\u00e4ltnissen angepa\u00dften artenreichen und gesunden Wildbestandes sowie die Pflege und Sicherung seiner Lebensgrundlagen; auf Grund anderer Vorschriften bestehende gleichartige Verpflichtungen bleiben unber\u00fchrt. Die Hege mu\u00df so durchgef\u00fchrt werden, da\u00df Beeintr\u00e4chtigungen einer ordnungsgem\u00e4\u00dfen land-, forst- und fischereiwirtschaftlichen Nutzung, insbesondere Wildsch\u00e4den, m\u00f6glichst vermieden werden.</P><P>(3) Bei der Aus\u00fcbung der Jagd sind die allgemein anerkannten Grunds\u00e4tze deutscher Weidgerechtigkeit zu beachten.</P><P>(4) Die Jagdaus\u00fcbung erstreckt sich auf das Aufsuchen, Nachstellen, Erlegen und Fangen von Wild.</P><P>(5) Das Recht zur Aneignung von Wild umfa\u00dft auch die ausschlie\u00dfliche Befugnis, krankes oder verendetes Wild, Fallwild und Abwurfstangen sowie die Eier von Federwild sich anzueignen.</P><P>(6) Das Jagdrecht unterliegt den Beschr\u00e4nkungen dieses Gesetzes und der in seinem Rahmen ergangenen landesrechtlichen Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002100325",
+        "name": "\u00a7 2",
+        "title": "Tierarten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000100325"
+        },
+        "body": "<P>(1) Tierarten, die dem Jagdrecht unterliegen, sind: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Haarwild:</LA><LA Size=\"normal\">Wisent (Bison bonasus L.),</LA><LA Size=\"normal\">Elchwild (Alces alces L.),</LA><LA Size=\"normal\">Rotwild (Cervus elaphus L.),</LA><LA Size=\"normal\">Damwild (Dama dama L.),</LA><LA Size=\"normal\">Sikawild (Cervus nippon TEMMINCK),</LA><LA Size=\"normal\">Rehwild (Capreolus capreolus L.),</LA><LA Size=\"normal\">Gamswild (Rupicapra rupicapra L.),</LA><LA Size=\"normal\">Steinwild (Capra ibex L.),</LA><LA Size=\"normal\">Muffelwild (Ovis ammon musimon PALLAS),</LA><LA Size=\"normal\">Schwarzwild (Sus scrofa L.),</LA><LA Size=\"normal\">Feldhase (Lepus europaeus PALLAS),</LA><LA Size=\"normal\">Schneehase (Lepus timidus L.),</LA><LA Size=\"normal\">Wildkaninchen (Oryctolagus cuniculus L.),</LA><LA Size=\"normal\">Murmeltier (Marmota marmota L.),</LA><LA Size=\"normal\">Wildkatze (Felis silvestris SCHREBER),</LA><LA Size=\"normal\">Luchs (Lynx lynx L.),</LA><LA Size=\"normal\">Fuchs (Vulpes vulpes L.),</LA><LA Size=\"normal\">Steinmarder (Martes foina ERXLEBEN),</LA><LA Size=\"normal\">Baummarder (Martes martes L.),</LA><LA Size=\"normal\">Iltis (Mustela putorius L.),</LA><LA Size=\"normal\">Hermelin (Mustela erminea L.),</LA><LA Size=\"normal\">Mauswiesel (Mustela nivalis L.),</LA><LA Size=\"normal\">Dachs (Meles meles L.),</LA><LA Size=\"normal\">Fischotter (Lutra lutra L.),</LA><LA Size=\"normal\">Seehund (Phoca vitulina L.);</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Federwild:</LA><LA Size=\"normal\">Rebhuhn (Perdix perdix L.),</LA><LA Size=\"normal\">Fasan (Phasianus colchicus L.),</LA><LA Size=\"normal\">Wachtel (Coturnix coturnix L.),</LA><LA Size=\"normal\">Auerwild (Tetrao urogallus L.),</LA><LA Size=\"normal\">Birkwild (Lyrurus tetrix L.),</LA><LA Size=\"normal\">Rackelwild (Lyrus tetrix x Tetrao urogallus),</LA><LA Size=\"normal\">Haselwild (Tetrastes bonasia L.),</LA><LA Size=\"normal\">Alpenschneehuhn (Lagopus mutus MONTIN),</LA><LA Size=\"normal\">Wildtruthuhn (Meleagris gallopavo L.),</LA><LA Size=\"normal\">Wildtauben (Columbidae),</LA><LA Size=\"normal\">H\u00f6ckerschwan (Cygnus olor GMEL.),</LA><LA Size=\"normal\">Wildg\u00e4nse (Gattungen Anser BRISSON und Branta SCOPOLI),</LA><LA Size=\"normal\">Wildenten (Anatinae),</LA><LA Size=\"normal\">S\u00e4ger (Gattung Mergus L.),</LA><LA Size=\"normal\">Waldschnepfe (Scolopax rusticola L.),</LA><LA Size=\"normal\">Bl\u00e4\u00dfhuhn (Fulica atra L.),</LA><LA Size=\"normal\">M\u00f6wen (Laridae),</LA><LA Size=\"normal\">Haubentaucher (Podiceps cristatus L.),</LA><LA Size=\"normal\">Gro\u00dftrappe (Otis tarda L.),</LA><LA Size=\"normal\">Graureiher (Ardea cinerea L.),</LA><LA Size=\"normal\">Greife (Accipitridae),</LA><LA Size=\"normal\">Falken (Falconidae),</LA><LA Size=\"normal\">Kolkrabe (Corvus corax L.).</LA></DD></DL></P><P>(2) Die L\u00e4nder k\u00f6nnen weitere Tierarten bestimmen, die dem Jagdrecht unterliegen.</P><P>(3) Zum Schalenwild geh\u00f6ren Wisente, Elch-, Rot-, Dam-, Sika-, Reh-, Gams-, Stein-, Muffel- und Schwarzwild.</P><P>(4) Zum Hochwild geh\u00f6ren Schalenwild au\u00dfer Rehwild, ferner Auerwild, Steinadler und Seeadler. Alles \u00fcbrige Wild geh\u00f6rt zum Niederwild.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002200325",
+        "name": "\u00a7 3",
+        "title": "Inhaber des Jagdrechts, Aus\u00fcbung des Jagdrechts",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000100325"
+        },
+        "body": "<P>(1) Das Jagdrecht steht dem Eigent\u00fcmer auf seinem Grund und Boden zu. Es ist untrennbar mit dem Eigentum am Grund und Boden verbunden. Als selbst\u00e4ndiges dingliches Recht kann es nicht begr\u00fcndet werden.</P><P>(2) Auf Fl\u00e4chen, an denen kein Eigentum begr\u00fcndet ist, steht das Jagdrecht den L\u00e4ndern zu.</P><P>(3) Das Jagdrecht darf nur in Jagdbezirken nach Ma\u00dfgabe der \u00a7\u00a7 4ff. ausge\u00fcbt werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000200325",
+        "name": "II. Abschnitt",
+        "title": "Jagdbezirke und Hegegemeinschaften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000300325",
+        "name": "1.",
+        "title": "Allgemeines",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000200325"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002300325",
+        "name": "\u00a7 4",
+        "title": "Jagdbezirke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000300325"
+        },
+        "body": "<P>Jagdbezirke, in denen die Jagd ausge\u00fcbt werden darf, sind entweder Eigenjagdbezirke (\u00a7 7) oder gemeinschaftliche Jagdbezirke (\u00a7 8).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002400325",
+        "name": "\u00a7 5",
+        "title": "Gestaltung der Jagdbezirke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000300325"
+        },
+        "body": "<P>(1) Jagdbezirke k\u00f6nnen durch Abtrennung, Angliederung oder Austausch von Grundfl\u00e4chen abgerundet werden, wenn dies aus Erfordernissen der Jagdpflege und Jagdaus\u00fcbung notwendig ist.</P><P>(2) Nat\u00fcrliche und k\u00fcnstliche Wasserl\u00e4ufe, Wege, Triften und Eisenbahnk\u00f6rper sowie \u00e4hnliche Fl\u00e4chen bilden, wenn sie nach Umfang und Gestalt f\u00fcr sich allein eine ordnungsm\u00e4\u00dfige Jagdaus\u00fcbung nicht gestatten, keinen Jagdbezirk f\u00fcr sich, unterbrechen nicht den Zusammenhang eines Jagdbezirkes und stellen auch den Zusammenhang zur Bildung eines Jagdbezirkes zwischen getrennt liegenden Fl\u00e4chen nicht her.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002500325",
+        "name": "\u00a7 6",
+        "title": "Befriedete Bezirke, Ruhen der Jagd",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000300325"
+        },
+        "body": "<P>Auf Grundfl\u00e4chen, die zu keinem Jagdbezirk geh\u00f6ren, und in befriedeten Bezirken ruht die Jagd. Eine beschr\u00e4nkte Aus\u00fcbung der Jagd kann gestattet werden. Tierg\u00e4rten fallen nicht unter die Vorschriften dieses Gesetzes.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007700360",
+        "name": "\u00a7 6a",
+        "title": "Befriedung von Grundfl\u00e4chen aus ethischen Gr\u00fcnden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000300325"
+        },
+        "body": "<P>(1) Grundfl\u00e4chen, die zu einem gemeinschaftlichen Jagdbezirk geh\u00f6ren und im Eigentum einer nat\u00fcrlichen Person stehen, sind auf Antrag des Grundeigent\u00fcmers zu befriedeten Bezirken zu erkl\u00e4ren (Befriedung), wenn der Grundeigent\u00fcmer glaubhaft macht, dass er die Jagdaus\u00fcbung aus ethischen Gr\u00fcnden ablehnt. Eine Befriedung ist zu versagen, soweit Tatsachen die Annahme rechtfertigen, dass ein Ruhen der Jagd auf der vom Antrag umfassten Fl\u00e4che bezogen auf den gesamten jeweiligen Jagdbezirk die Belange <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Erhaltung eines artenreichen und gesunden Wildbestandes sowie der Pflege und Sicherung seiner Lebensgrundlagen,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>des Schutzes der Land-, Forst- und Fischereiwirtschaft vor \u00fcberm\u00e4\u00dfigen Wildsch\u00e4den,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>des Naturschutzes und der Landschaftspflege,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>des Schutzes vor Tierseuchen oder</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>der Abwendung sonstiger Gefahren f\u00fcr die \u00f6ffentliche Sicherheit und Ordnung</LA></DD></DL>gef\u00e4hrdet. Ethische Gr\u00fcnde nach Satz 1 liegen insbesondere nicht vor, wenn der Antragsteller <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>selbst die Jagd aus\u00fcbt oder die Aus\u00fcbung der Jagd durch Dritte auf einem ihm geh\u00f6renden Grundst\u00fcck duldet oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>zum Zeitpunkt der beh\u00f6rdlichen Entscheidung einen Jagdschein gel\u00f6st oder beantragt hat.</LA></DD></DL>Der Antrag ist schriftlich oder zur Niederschrift bei der zust\u00e4ndigen Beh\u00f6rde zu stellen. Der Entscheidung \u00fcber den Antrag hat neben der Anh\u00f6rung des Antragstellers eine Anh\u00f6rung der Jagdgenossenschaft, des Jagdp\u00e4chters, angrenzender Grundeigent\u00fcmer, des Jagdbeirats sowie der Tr\u00e4ger \u00f6ffentlicher Belange vorauszugehen.</P><P>(2) Die Befriedung soll mit Wirkung zum Ende des Jagdpachtvertrages erfolgen. Sofern dies dem Antragsteller unter Abw\u00e4gung mit den schutzw\u00fcrdigen Belangen der Jagdgenossenschaft nicht zuzumuten ist, kann die Beh\u00f6rde einen fr\u00fcheren Zeitpunkt, der jedoch nicht vor Ende des Jagdjahres liegt, bestimmen. In den F\u00e4llen des Satzes 2 kann die Jagdgenossenschaft vom Grundeigent\u00fcmer den Ersatz des Schadens verlangen, der ihr durch die vorzeitige Befriedung entsteht.</P><P>(3) Die Befriedung kann r\u00e4umlich auf einen Teil der Antragsfl\u00e4che sowie zeitlich beschr\u00e4nkt werden, soweit dies zur Wahrung der Belange nach Absatz 1 Satz 2 erforderlich ist.</P><P>(4) Die Befriedung erlischt vorbehaltlich der S\u00e4tze 2 und 3 drei Monate nach \u00dcbergang des Eigentums an der befriedeten Grundfl\u00e4che auf einen Dritten. Stellt der Dritte w\u00e4hrend des Laufs der Frist nach Satz 1 einen Antrag auf erneute Befriedung, so erlischt die bestehende Befriedung mit dem Wirksamwerden der beh\u00f6rdlichen Entscheidung \u00fcber den Antrag. Verzichtet der Dritte vor Ablauf der Frist nach Satz 1 auf einen Antrag auf erneute Befriedung, so erlischt die bestehende Befriedung mit dem Zugang der Verzichtserkl\u00e4rung bei der zust\u00e4ndigen Beh\u00f6rde. Der Grundeigent\u00fcmer hat den Eigentumswechsel der zust\u00e4ndigen Beh\u00f6rde anzuzeigen. Die Befriedung ist zu widerrufen, wenn <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Grundeigent\u00fcmer schriftlich gegen\u00fcber der zust\u00e4ndigen Beh\u00f6rde den Verzicht auf die Befriedung erkl\u00e4rt oder</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Grundeigent\u00fcmer die Jagd aus\u00fcbt, einen Jagdschein l\u00f6st oder die Aus\u00fcbung der Jagd durch Dritte auf einem ihm geh\u00f6renden Grundst\u00fcck duldet.</LA></DD></DL>Die Befriedung ist in der Regel zu widerrufen, wenn Tatsachen bekannt werden, die den Anspruch auf Erkl\u00e4rung zum befriedeten Bezirk entfallen lassen. Die Befriedung ist unter den Vorbehalt des Widerrufs zu stellen f\u00fcr den Fall, dass ein oder mehrere weitere begr\u00fcndete Antr\u00e4ge auf Befriedung in demselben Jagdbezirk gestellt werden und nicht allen Antr\u00e4gen insgesamt ohne Gef\u00e4hrdung der Belange nach Absatz 1 Satz 2 stattgegeben werden kann. Im \u00dcbrigen gelten die verwaltungsverfahrensrechtlichen Vorschriften \u00fcber R\u00fccknahme und Widerruf von Verwaltungsakten.</P><P>(5) Die zust\u00e4ndige Beh\u00f6rde kann eine beschr\u00e4nkte Jagdaus\u00fcbung auf den f\u00fcr befriedet erkl\u00e4rten Grundfl\u00e4chen anordnen, soweit dies zur Vermeidung \u00fcberm\u00e4\u00dfiger Wildsch\u00e4den, der Gefahr von Tierseuchen, aus Gr\u00fcnden des Naturschutzes oder des Tierschutzes, der Seuchenhygiene, der Gew\u00e4hrleistung der Sicherheit des Verkehrs auf \u00f6ffentlichen Verkehrswegen oder der Abwendung sonstiger Gefahren f\u00fcr die \u00f6ffentliche Sicherheit und Ordnung erforderlich ist. Widerspruch und Klage gegen die Anordnung haben keine aufschiebende Wirkung. Kommt der Grundeigent\u00fcmer der Anordnung nicht nach, so kann die zust\u00e4ndige Beh\u00f6rde f\u00fcr dessen Rechnung die Jagd aus\u00fcben lassen.</P><P>(6) Wildsch\u00e4den an Grundst\u00fccken, die zum gemeinschaftlichen Jagdbezirk geh\u00f6ren, hat der Grundeigent\u00fcmer der befriedeten Grundfl\u00e4che nach dem Verh\u00e4ltnis des Fl\u00e4chenanteils seiner Grundfl\u00e4che an der Gesamtfl\u00e4che des gemeinschaftlichen Jagdbezirks anteilig zu ersetzen. Dies gilt nicht, sofern das sch\u00e4digende Wild auf der befriedeten Grundfl\u00e4che nicht vorkommt oder der Schaden auch ohne die Befriedung der Grundfl\u00e4che eingetreten w\u00e4re.</P><P>(7) Der Grundeigent\u00fcmer der befriedeten Fl\u00e4che hat keinen Anspruch auf Ersatz von Wildsch\u00e4den.</P><P>(8) Die Grunds\u00e4tze der Wildfolge sind im Verh\u00e4ltnis des gemeinschaftlichen Jagdbezirks zu der nach Absatz 1 f\u00fcr befriedet erkl\u00e4rten Grundfl\u00e4che entsprechend anzuwenden. Einer Vereinbarung nach \u00a7 22a Absatz 2 bedarf es nicht. Der Grundeigent\u00fcmer des f\u00fcr befriedet erkl\u00e4rten Grundst\u00fccks ist \u00fcber die Notwendigkeit der Wildfolge, soweit Belange des Tierschutzes nicht entgegenstehen bereits vor Beginn der Wildfolge, unverz\u00fcglich in Kenntnis zu setzen.</P><P>(9) Das Recht zur Aneignung von Wild nach \u00a7 1 Absatz 1 Satz 1 steht in den F\u00e4llen der nach Absatz 5 beh\u00f6rdlich angeordneten Jagd und der Wildfolge nach Absatz 8 dem Jagdaus\u00fcbungsberechtigten des Jagdbezirks oder dem beauftragten J\u00e4ger zu.</P><P>(10) Die Abs\u00e4tze 1 bis 9 sind auf Grundfl\u00e4chen, die einem Eigenjagdbezirk kraft Gesetzes oder auf Grund beh\u00f6rdlicher Entscheidung angegliedert sind, entsprechend anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000400325",
+        "name": "2.",
+        "title": "Eigenjagdbezirke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000200325"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002601308",
+        "name": "\u00a7 7",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000400325"
+        },
+        "body": "<P>(1) Zusammenh\u00e4ngende Grundfl\u00e4chen mit einer land-, forst- oder fischereiwirtschaftlich nutzbaren Fl\u00e4che von 75 Hektar an, die im Eigentum ein und derselben Person oder einer Personengemeinschaft stehen, bilden einen Eigenjagdbezirk. Die L\u00e4nder k\u00f6nnen abweichend von Satz 1 die Mindestgr\u00f6\u00dfe allgemein oder f\u00fcr bestimmte Gebiete h\u00f6her festsetzen. Soweit am Tag des Inkrafttretens des Einigungsvertrages in den L\u00e4ndern eine andere als die in Satz 1 bestimmte Gr\u00f6\u00dfe festgesetzt ist, beh\u00e4lt es dabei sein Bewenden, falls sie nicht unter 70 Hektar betr\u00e4gt. Die L\u00e4nder k\u00f6nnen, soweit bei Inkrafttreten dieses Gesetzes eine solche Regelung besteht, abweichend von Satz 1 bestimmen, da\u00df auch eine sonstige zusammenh\u00e4ngende Fl\u00e4che von 75 Hektar einen Eigenjagdbezirk bildet, wenn dies von Grundeigent\u00fcmern oder Nutznie\u00dfern zusammenh\u00e4ngender Grundfl\u00e4chen von mindestens je 15 Hektar beantragt wird.</P><P>(2) L\u00e4ndergrenzen unterbrechen nicht den Zusammenhang von Grundfl\u00e4chen, die gem\u00e4\u00df Absatz 1 Satz 1 einen Eigenjagdbezirk bilden. In den F\u00e4llen des Absatzes 1 Satz 3 besteht ein Eigenjagdbezirk, wenn nach den Vorschriften des Landes, in dem der \u00fcberwiegende Teil der auf mehrere L\u00e4nder sich erstreckenden Grundfl\u00e4chen liegt, f\u00fcr die Grundfl\u00e4chen insgesamt die Voraussetzungen f\u00fcr einen Eigenjagdbezirk vorliegen w\u00fcrden. Im \u00fcbrigen gelten f\u00fcr jeden Teil eines \u00fcber mehrere L\u00e4nder sich erstreckenden Eigenjagdbezirkes die Vorschriften des Landes, in dem er liegt.</P><P>(3) Vollst\u00e4ndig eingefriedete Fl\u00e4chen sowie an der Bundesgrenze liegende zusammenh\u00e4ngende Grundfl\u00e4chen von geringerem als 75 Hektar land-, forst- oder fischereiwirtschaftlich nutzbaren Raum k\u00f6nnen allgemein oder unter besonderen Voraussetzungen zu Eigenjagdbezirken erkl\u00e4rt werden; dabei kann bestimmt werden, da\u00df die Jagd in diesen Bezirken nur unter Beschr\u00e4nkungen ausge\u00fcbt werden darf.</P><P>(4) In einem Eigenjagdbezirk ist jagdaus\u00fcbungsberechtigt der Eigent\u00fcmer. An Stelle des Eigent\u00fcmers tritt der Nutznie\u00dfer, wenn ihm die Nutzung des ganzen Eigenjagdbezirkes zusteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000500325",
+        "name": "3.",
+        "title": "Gemeinschaftliche Jagdbezirke",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000200325"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002700325",
+        "name": "\u00a7 8",
+        "title": "Zusammensetzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000500325"
+        },
+        "body": "<P>(1) Alle Grundfl\u00e4chen einer Gemeinde oder abgesonderten Gemarkung, die nicht zu einem Eigenjagdbezirk geh\u00f6ren, bilden einen gemeinschaftlichen Jagdbezirk, wenn sie im Zusammenhang mindestens 150 Hektar umfassen.</P><P>(2) Zusammenh\u00e4ngende Grundfl\u00e4chen verschiedener Gemeinden, die im \u00fcbrigen zusammen den Erfordernissen eines gemeinschaftlichen Jagdbezirkes entsprechen, k\u00f6nnen auf Antrag zu gemeinschaftlichen Jagdbezirken zusammengelegt werden.</P><P>(3) Die Teilung gemeinschaftlicher Jagdbezirke in mehrere selbst\u00e4ndige Jagdbezirke kann zugelassen werden, sofern jeder Teil die Mindestgr\u00f6\u00dfe von 250 Hektar hat.</P><P>(4) Die L\u00e4nder k\u00f6nnen die Mindestgr\u00f6\u00dfen allgemein oder f\u00fcr bestimmte Gebiete h\u00f6her festsetzen.</P><P>(5) In gemeinschaftlichen Jagdbezirken steht die Aus\u00fcbung des Jagdrechts der Jagdgenossenschaft zu.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002800325",
+        "name": "\u00a7 9",
+        "title": "Jagdgenossenschaft",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000500325"
+        },
+        "body": "<P>(1) Die Eigent\u00fcmer der Grundfl\u00e4chen, die zu einem gemeinschaftlichen Jagdbezirk geh\u00f6ren, bilden eine Jagdgenossenschaft. Eigent\u00fcmer von Grundfl\u00e4chen, auf denen die Jagd nicht ausge\u00fcbt werden darf, geh\u00f6ren der Jagdgenossenschaft nicht an.</P><P>(2) Die Jagdgenossenschaft wird durch den Jagdvorstand gerichtlich und au\u00dfergerichtlich vertreten. Der Jagdvorstand ist von der Jagdgenossenschaft zu w\u00e4hlen. Solange die Jagdgenossenschaft keinen Jagdvorstand gew\u00e4hlt hat, werden die Gesch\u00e4fte des Jagdvorstandes vom Gemeindevorstand wahrgenommen.</P><P>(3) Beschl\u00fcsse der Jagdgenossenschaft bed\u00fcrfen sowohl der Mehrheit der anwesenden und vertretenen Jagdgenossen, als auch der Mehrheit der bei der Beschlu\u00dffassung vertretenen Grundfl\u00e4che.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE002900325",
+        "name": "\u00a7 10",
+        "title": "Jagdnutzung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000500325"
+        },
+        "body": "<P>(1) Die Jagdgenossenschaft nutzt die Jagd in der Regel durch Verpachtung. Sie kann die Verpachtung auf den Kreis der Jagdgenossen beschr\u00e4nken.</P><P>(2) Die Jagdgenossenschaft kann die Jagd f\u00fcr eigene Rechnung durch angestellte J\u00e4ger aus\u00fcben lassen. Mit Zustimmung der zust\u00e4ndigen Beh\u00f6rde kann sie die Jagd ruhen lassen.</P><P>(3) Die Jagdgenossenschaft beschlie\u00dft \u00fcber die Verwendung des Reinertrages der Jagdnutzung. Beschlie\u00dft die Jagdgenossenschaft, den Ertrag nicht an die Jagdgenossen nach dem Verh\u00e4ltnis des Fl\u00e4cheninhaltes ihrer beteiligten Grundst\u00fccke zu verteilen, so kann jeder Jagdgenosse, der dem Beschlu\u00df nicht zugestimmt hat, die Auszahlung seines Anteils verlangen. Der Anspruch erlischt, wenn er nicht binnen einem Monat nach der Bekanntmachung der Beschlu\u00dffassung schriftlich oder m\u00fcndlich zu Protokoll des Jagdvorstandes geltend gemacht wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 10 Abs. 3 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung durch \u00a7 14 Abs. 5 des Landesjagdgesetzes f\u00fcr Sachsen-Anhalt (LJagdG) v. 23.7.1991 GVBl. LSA S 186, zuletzt ge\u00e4ndert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)</P>"
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000600325",
+        "name": "4.",
+        "title": "Hegegemeinschaften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000200325"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003000325",
+        "name": "\u00a7 10a",
+        "title": "Bildung von Hegegemeinschaften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000600325"
+        },
+        "body": "<P>(1) F\u00fcr mehrere zusammenh\u00e4ngende Jagdbezirke k\u00f6nnen die Jagdaus\u00fcbungsberechtigten zum Zwecke der Hege des Wildes eine Hegegemeinschaft als privatrechtlichen Zusammenschlu\u00df bilden.</P><P>(2) Abweichend von Absatz 1 k\u00f6nnen die L\u00e4nder bestimmen, da\u00df f\u00fcr mehrere zusammenh\u00e4ngende Jagdbezirke die Jagdaus\u00fcbungsberechtigten zum Zwecke der Hege des Wildes eine Hegegemeinschaft bilden, falls diese aus Gr\u00fcnden der Hege im Sinne des \u00a7 1 Abs. 2 erforderlich ist und eine an alle betroffenen Jagdaus\u00fcbungsberechtigten gerichtete Aufforderung der zust\u00e4ndigen Beh\u00f6rde, innerhalb einer bestimmten Frist eine Hegegemeinschaft zu gr\u00fcnden, ohne Erfolg geblieben ist.</P><P>(3) Das N\u00e4here regeln die L\u00e4nder.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000700325",
+        "name": "III. Abschnitt",
+        "title": "Beteiligung Dritter an der Aus\u00fcbung\ndes Jagdrechts",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003101308",
+        "name": "\u00a7 11",
+        "title": "Jagdpacht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000700325"
+        },
+        "body": "<P>(1) Die Aus\u00fcbung des Jagdrechts in seiner Gesamtheit kann an Dritte verpachtet werden. Ein Teil des Jagdaus\u00fcbungsrechts kann nicht Gegenstand eines Jagdpachtvertrages sein; jedoch kann sich der Verp\u00e4chter einen Teil der Jagdnutzung, der sich auf bestimmtes Wild bezieht, vorbehalten. Die Erteilung von Jagderlaubnisscheinen regeln, unbeschadet des Absatzes 6 Satz 2, die L\u00e4nder.</P><P>(2) Die Verpachtung eines Teils eines Jagdbezirkes ist nur zul\u00e4ssig, wenn sowohl der verpachtete als auch der verbleibende Teil bei Eigenjagdbezirken die gesetzliche Mindestgr\u00f6\u00dfe, bei gemeinschaftlichen Jagdbezirken die Mindestgr\u00f6\u00dfe von 250 Hektar haben. Die L\u00e4nder k\u00f6nnen die Verpachtung eines Teiles von geringerer Gr\u00f6\u00dfe an den Jagdaus\u00fcbungsberechtigten eines angrenzenden Jagdbezirkes zulassen, soweit dies einer besseren Reviergestaltung dient.</P><P>(3) Die Gesamtfl\u00e4che, auf der einem Jagdp\u00e4chter die Aus\u00fcbung des Jagdrechts zusteht, darf nicht mehr als 1.000 Hektar umfassen; hierauf sind Fl\u00e4chen anzurechnen, f\u00fcr die dem P\u00e4chter auf Grund einer entgeltlichen Jagderlaubnis die Jagdaus\u00fcbung zusteht. Der Inhaber eines oder mehrerer Eigenjagdbezirke mit einer Gesamtfl\u00e4che von mehr als 1.000 Hektar darf nur zupachten, wenn er Fl\u00e4chen mindestens gleicher Gr\u00f6\u00dfenordnung verpachtet; der Inhaber eines oder mehrerer Eigenjagdbezirke mit einer Gesamtfl\u00e4che von weniger als 1.000 Hektar darf nur zupachten, wenn die Gesamtfl\u00e4che, auf der ihm das Jagdaus\u00fcbungsrecht zusteht, 1.000 Hektar nicht \u00fcbersteigt. F\u00fcr Mitp\u00e4chter, Unterp\u00e4chter oder Inhaber einer entgeltlichen Jagderlaubnis gilt Satz 1 und 2 entsprechend mit der Ma\u00dfgabe, da\u00df auf die Gesamtfl\u00e4che nur die Fl\u00e4che angerechnet wird, die auf den einzelnen Mitp\u00e4chter, Unterp\u00e4chter oder auf den Inhaber einer entgeltlichen Jagderlaubnis, ausgenommen die Erlaubnis zu Einzelabsch\u00fcssen, nach dem Jagdpachtvertrag oder der Jagderlaubnis anteilig entf\u00e4llt. F\u00fcr bestimmte Gebiete, insbesondere im Hochgebirge k\u00f6nnen die L\u00e4nder eine h\u00f6here Grenze als 1.000 Hektar festsetzen.</P><P>(4) Der Jagdpachtvertrag ist schriftlich abzuschlie\u00dfen. Die Pachtdauer soll mindestens neun Jahre betragen. Die L\u00e4nder k\u00f6nnen die Mindestpachtzeit h\u00f6her festsetzen. Ein laufender Jagdpachtvertrag kann auch auf k\u00fcrzere Zeit verl\u00e4ngert werden. Beginn und Ende der Pachtzeit soll mit Beginn und Ende des Jagdjahres (1. April bis 31. M\u00e4rz) zusammenfallen.</P><P>(5) P\u00e4chter darf nur sein, wer einen Jahresjagdschein besitzt und schon vorher einen solchen w\u00e4hrend dreier Jahre in Deutschland besessen hat. F\u00fcr besondere Einzelf\u00e4lle k\u00f6nnen Ausnahmen zugelassen werden. Auf den in Satz 1 genannten Zeitraum sind die Zeiten anzurechnen, w\u00e4hrend derer jemand vor dem Tag des Wirksamwerdens des Beitritts eine Jagderlaubnis in der Deutschen Demokratischen Republik besessen hat.</P><P>(6) Ein Jagdpachtvertrag, der bei seinem Abschlu\u00df den Vorschriften des Absatzes 1 Satz 2 Halbsatz 1, des Absatzes 2, des Absatzes 3, des Absatzes 4 Satz 1 oder des Absatzes 5 nicht entspricht, ist nichtig. Das gleiche gilt f\u00fcr eine entgeltliche Jagderlaubnis, die bei ihrer Erteilung den Vorschriften des Absatzes 3 nicht entspricht.</P><P>(7) Die Fl\u00e4che, auf der einem Jagdaus\u00fcbungsberechtigten oder Inhaber einer entgeltlichen Jagderlaubnis nach Absatz 3 die Aus\u00fcbung des Jagdrechts zusteht, ist von der zust\u00e4ndigen Beh\u00f6rde in den Jagdschein einzutragen; das N\u00e4here regeln die L\u00e4nder.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003200325",
+        "name": "\u00a7 12",
+        "title": "Anzeige von Jagdpachtvertr\u00e4gen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000700325"
+        },
+        "body": "<P>(1) Der Jagdpachtvertrag ist der zust\u00e4ndigen Beh\u00f6rde anzuzeigen. Die Beh\u00f6rde kann den Vertrag binnen drei Wochen nach Eingang der Anzeige beanstanden, wenn die Vorschriften \u00fcber die Pachtdauer nicht beachtet sind oder wenn zu erwarten ist, da\u00df durch eine vertragsm\u00e4\u00dfige Jagdaus\u00fcbung die Vorschriften des \u00a7 1 Abs. 2 verletzt werden.</P><P>(2) In dem Beanstandungsbescheid sind die Vertragsteile aufzufordern, den Vertrag bis zu einem bestimmten Zeitpunkt, der mindestens drei Wochen nach Zustellung des Bescheides liegen soll, aufzuheben oder in bestimmter Weise zu \u00e4ndern.</P><P>(3) Kommen die Vertragsteile der Aufforderung nicht nach, so gilt der Vertrag mit Ablauf der Frist als aufgehoben, sofern nicht einer der Vertragsteile binnen der Frist einen Antrag auf Entscheidung durch das Amtsgericht stellt. Das Gericht kann entweder den Vertrag aufheben oder feststellen, da\u00df er nicht zu beanstanden ist. Die Bestimmungen f\u00fcr die gerichtliche Entscheidung \u00fcber die Beanstandung eines Landpachtvertrages gelten sinngem\u00e4\u00df; jedoch entscheidet das Gericht ohne Zuziehung ehrenamtlicher Richter.</P><P>(4) Vor Ablauf von drei Wochen nach Anzeige des Vertrages durch einen Beteiligten darf der P\u00e4chter die Jagd nicht aus\u00fcben, sofern nicht die Beh\u00f6rde die Jagdaus\u00fcbung zu einem fr\u00fcheren Zeitpunkt gestattet. Wird der Vertrag binnen der in Absatz 1 Satz 2 bezeichneten Frist beanstandet, so darf der P\u00e4chter die Jagd erst aus\u00fcben, wenn die Beanstandungen behoben sind oder wenn durch rechtskr\u00e4ftige gerichtliche Entscheidung festgestellt ist, da\u00df der Vertrag nicht zu beanstanden ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003300325",
+        "name": "\u00a7 13",
+        "title": "Erl\u00f6schen des Jagdpachtvertrages",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000700325"
+        },
+        "body": "<P>Der Jagdpachtvertrag erlischt, wenn dem P\u00e4chter der Jagdschein unanfechtbar entzogen worden ist. Er erlischt auch dann, wenn die G\u00fcltigkeitsdauer des Jagdscheines abgelaufen ist und entweder die zust\u00e4ndige Beh\u00f6rde die Erteilung eines neuen Jagdscheines unanfechtbar abgelehnt hat oder der P\u00e4chter die Voraussetzungen f\u00fcr die Erteilung eines neuen Jagdscheines nicht fristgem\u00e4\u00df erf\u00fcllt. Der P\u00e4chter hat dem Verp\u00e4chter den aus der Beendigung des Pachtvertrages entstehenden Schaden zu ersetzen, wenn ihn ein Verschulden trifft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003400325",
+        "name": "\u00a7 13a",
+        "title": "Rechtsstellung der Mitp\u00e4chter",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000700325"
+        },
+        "body": "<P>Sind mehrere P\u00e4chter an einem Jagdpachtvertrag beteiligt (Mitp\u00e4chter), so bleibt der Vertrag, wenn er im Verh\u00e4ltnis zu einem Mitp\u00e4chter gek\u00fcndigt wird oder erlischt, mit den \u00fcbrigen bestehen; dies gilt nicht, soweit der Jagdpachtvertrag infolge des Ausscheidens eines P\u00e4chters den Vorschriften des \u00a7 11 Abs. 3 nicht mehr entspricht und dieser Mangel bis zum Beginn des n\u00e4chstens Jagdjahres nicht behoben wird. Ist einem der Beteiligten die Aufrechterhaltung des Vertrages infolge des Ausscheidens eines P\u00e4chters nicht zuzumuten, so kann er den Vertrag mit sofortiger Wirkung k\u00fcndigen. Die K\u00fcndigung mu\u00df unverz\u00fcglich nach Erlangung der Kenntnis von dem K\u00fcndigungsgrund erfolgen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003501377",
+        "name": "\u00a7 14",
+        "title": "Wechsel des Grundeigent\u00fcmers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000700325"
+        },
+        "body": "<P>(1) Wird ein Eigenjagdbezirk ganz oder teilweise ver\u00e4u\u00dfert, so finden die Vorschriften der \u00a7\u00a7 566 bis 567b des B\u00fcrgerlichen Gesetzbuchs entsprechende Anwendung. Das gleiche gilt im Falle der Zwangsversteigerung von der Vorschrift des \u00a7 57 des Zwangsversteigerungsgesetzes; das K\u00fcndigungsrecht des Erstehers ist jedoch ausgeschlossen, wenn nur ein Teil eines Jagdbezirkes versteigert ist und dieser Teil nicht allein schon die Erfordernisse eines Eigenjagdbezirkes erf\u00fcllt.</P><P>(2) Wird ein zu einem gemeinschaftlichen Jagdbezirk geh\u00f6riges Grundst\u00fcck ver\u00e4u\u00dfert, so hat dies auf den Pachtvertrag keinen Einflu\u00df; der Erwerber wird vom Zeitpunkt des Erwerbes an auch dann f\u00fcr die Dauer des Pachtvertrages Mitglied der Jagdgenossenschaft, wenn das ver\u00e4u\u00dferte Grundst\u00fcck an sich mit anderen Grundst\u00fccken des Erwerbers zusammen einen Eigenjagdbezirk bilden k\u00f6nnte. Das gleiche gilt f\u00fcr den Fall der Zwangsversteigerung eines Grundst\u00fccks.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000800325",
+        "name": "IV. Abschnitt",
+        "title": "Jagdschein",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003605118",
+        "name": "\u00a7 15",
+        "title": "Allgemeines",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000800325"
+        },
+        "body": "<P>(1) Wer die Jagd aus\u00fcbt, mu\u00df einen auf seinen Namen lautenden Jagdschein mit sich f\u00fchren und diesen auf Verlangen den Polizeibeamten sowie den Jagdschutzberechtigten (\u00a7 25) vorzeigen. Zum Sammeln von Abwurfstangen bedarf es nur der schriftlichen Erlaubnis des Jagdaus\u00fcbungsberechtigten. Wer die Jagd mit Greifen oder Falken (Beizjagd) aus\u00fcben will, mu\u00df einen auf seinen Namen lautenden Falknerjagdschein mit sich f\u00fchren.</P><P>(2) Der Jagdschein wird von der f\u00fcr den Wohnsitz des Bewerbers zust\u00e4ndigen Beh\u00f6rde als Jahresjagdschein f\u00fcr h\u00f6chstens drei Jagdjahre (\u00a7 11 Abs. 4) oder als Tagesjagdschein f\u00fcr vierzehn aufeinanderfolgende Tage nach einheitlichen, vom Bundesministerium f\u00fcr Ern\u00e4hrung und Landwirtschaft (Bundesministerium) bestimmten Mustern erteilt.</P><P>(3) Der Jagdschein gilt im gesamten Bundesgebiet.</P><P>(4) F\u00fcr Tagesjagdscheine f\u00fcr Ausl\u00e4nder d\u00fcrfen nur die Geb\u00fchren f\u00fcr Inl\u00e4nder erhoben werden, wenn das Heimatland des Ausl\u00e4nders die Gegenseitigkeit gew\u00e4hrleistet.</P><P>(5) Die erste Erteilung eines Jagdscheines ist davon abh\u00e4ngig, da\u00df der Bewerber im Geltungsbereich dieses Gesetzes eine J\u00e4gerpr\u00fcfung bestanden hat, die aus einem schriftlichen und einem m\u00fcndlich-praktischen Teil und einer Schie\u00dfpr\u00fcfung bestehen soll; er mu\u00df in der J\u00e4gerpr\u00fcfung ausreichende Kenntnisse der Tierarten, der Wildbiologie, der Wildhege, des Jagdbetriebes, der Wildschadensverh\u00fctung, des Land- und Waldbaues, des Waffenrechts, der Waffentechnik, der F\u00fchrung von Jagdwaffen (einschlie\u00dflich Faustfeuerwaffen), der F\u00fchrung von Jagdhunden, in der Behandlung des erlegten Wildes unter besonderer Ber\u00fccksichtigung der hygienisch erforderlichen Ma\u00dfnahmen, in der Beurteilung der gesundheitlich unbedenklichen Beschaffenheit des Wildbrets, insbesondere auch hinsichtlich seiner Verwendung als Lebensmittel, und im Jagd-, Tierschutz- sowie Naturschutz- und Landschaftspflegerecht nachweisen; mangelhafte Leistungen in der Schie\u00dfpr\u00fcfung sind durch Leistungen in anderen Pr\u00fcfungsteilen nicht ausgleichbar. Die L\u00e4nder k\u00f6nnen die Zulassung zur J\u00e4gerpr\u00fcfung insbesondere vom Nachweis einer theoretischen und praktischen Ausbildung abh\u00e4ngig machen. F\u00fcr Bewerber, die vor dem 1. April 1953 einen Jahresjagdschein besessen haben, entf\u00e4llt die J\u00e4gerpr\u00fcfung. Eine vor dem Tag des Wirksamwerdens des Beitritts in der Deutschen Demokratischen Republik abgelegte Jagdpr\u00fcfung f\u00fcr J\u00e4ger, die mit der Jagdwaffe die Jagd aus\u00fcben wollen, steht der J\u00e4gerpr\u00fcfung im Sinne des Satzes 1 gleich.</P><P>(6) Bei der Erteilung von Ausl\u00e4nderjagdscheinen k\u00f6nnen Ausnahmen von Absatz 5 Satz 1 und 2 gemacht werden.</P><P>(7) Die erste Erteilung eines Falknerjagdscheines ist davon abh\u00e4ngig, da\u00df der Bewerber im Geltungsbereich dieses Gesetzes zus\u00e4tzlich zur J\u00e4gerpr\u00fcfung eine Falknerpr\u00fcfung bestanden hat; er mu\u00df darin ausreichende Kenntnisse des Haltens, der Pflege und des Abtragens von Beizv\u00f6geln, des Greifvogelschutzes sowie der Beizjagd nachweisen. F\u00fcr Bewerber, die vor dem 1. April 1977 mindestens f\u00fcnf Falknerjagdscheine besessen haben, entf\u00e4llt die J\u00e4gerpr\u00fcfung; gleiches gilt f\u00fcr Bewerber, die vor diesem Zeitpunkt mindestens f\u00fcnf Jahresjagdscheine besessen und w\u00e4hrend deren Geltungsdauer die Beizjagd ausge\u00fcbt haben. Das N\u00e4here hinsichtlich der Erteilung des Falknerjagdscheines regeln die L\u00e4nder. Eine vor dem Tag des Wirksamwerdens des Beitritts in der Deutschen Demokratischen Republik abgelegte Jagdpr\u00fcfung f\u00fcr Falkner steht der Falknerpr\u00fcfung im Sinne des Satzes 1 gleich.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P><ABWFORMAT typ=\"A\" />\u00a7 15 Abs. 7 Satz 1 iVm Abs. 5 Satz 1: Nach Ma\u00dfgabe der Entscheidungsformel mit GG unvereinbar und nichtig, BVerfGE v. 5.11.1980; 1981 I 41 - 1 BvR 290/78 -</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003700325",
+        "name": "\u00a7 16",
+        "title": "Jugendjagdschein",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000800325"
+        },
+        "body": "<P>(1) Personen, die das sechzehnte Lebensjahr vollendet haben, aber noch nicht achtzehn Jahre alt sind, darf nur ein Jugendjagdschein erteilt werden.</P><P>(2) Der Jugendjagdschein berechtigt nur zur Aus\u00fcbung der Jagd in Begleitung des Erziehungsberechtigten oder einer von dem Erziehungsberechtigten schriftlich beauftragten Aufsichtsperson; die Begleitperson mu\u00df jagdlich erfahren sein.</P><P>(3) Der Jugendjagdschein berechtigt nicht zur Teilnahme an Gesellschaftsjagden.</P><P>(4) Im \u00fcbrigen gilt \u00a7 15 entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE003906377",
+        "name": "\u00a7 17",
+        "title": "Versagung des Jagdscheines",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000800325"
+        },
+        "body": "<P>(1) Der Jagdschein ist zu versagen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, die noch nicht sechzehn Jahre alt sind;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, bei denen Tatsachen die Annahme rechtfertigen, da\u00df sie die erforderliche Zuverl\u00e4ssigkeit oder k\u00f6rperliche Eignung nicht besitzen;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, denen der Jagdschein entzogen ist, w\u00e4hrend der Dauer der Entziehung oder einer Sperre (\u00a7\u00a7 18, 41 Abs. 2);</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, die keine ausreichende Jagdhaftpflichtversicherung (f\u00fcnfhunderttausend Euro f\u00fcr Personensch\u00e4den und f\u00fcnfzigtausend Euro f\u00fcr Sachsch\u00e4den) nachweisen; die Versicherung kann nur bei einem Versicherungsunternehmen mit Sitz in der Europ\u00e4ischen Union oder mit Niederlassung im Geltungsbereich des Versicherungsaufsichtsgesetzes genommen werden; die L\u00e4nder k\u00f6nnen den Abschlu\u00df einer Gemeinschaftsversicherung ohne Beteiligungszwang zulassen.</LA></DD></DL>Fehlen die Zuverl\u00e4ssigkeit oder die pers\u00f6nliche Eignung im Sinne der \u00a7\u00a7 5 und 6 des Waffengesetzes, darf nur ein Jagdschein nach \u00a7 15 Abs. 7 erteilt werden.</P><P>(2) Der Jagdschein kann versagt werden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, die noch nicht achtzehn Jahre alt sind;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, die nicht Deutsche im Sinne des Artikels 116 des Grundgesetzes sind;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, die nicht mindestens drei Jahre ihren Wohnsitz oder ihren gew\u00f6hnlichen Aufenthalt ununterbrochen im Geltungsbereich dieses Gesetzes haben;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Personen, die gegen die Grunds\u00e4tze des \u00a7 1 Abs. 3 schwer oder wiederholt versto\u00dfen haben.</LA></DD></DL></P><P>(3) Die erforderliche Zuverl\u00e4ssigkeit besitzen Personen nicht, wenn Tatsachen die Annahme rechtfertigen, da\u00df sie <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waffen oder Munition mi\u00dfbr\u00e4uchlich oder leichtfertig verwenden werden;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit Waffen oder Munition nicht vorsichtig und sachgem\u00e4\u00df umgehen und diese Gegenst\u00e4nde nicht sorgf\u00e4ltig verwahren werden;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Waffen oder Munition an Personen \u00fcberlassen werden, die zur Aus\u00fcbung der tats\u00e4chlichen Gewalt \u00fcber diese Gegenst\u00e4nde nicht berechtigt sind.</LA></DD></DL></P><P>(4) Die erforderliche Zuverl\u00e4ssigkeit besitzen in der Regel Personen nicht, die <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen eines Verbrechens,</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen eines vors\u00e4tzlichen Vergehens, das eine der Annahmen im Sinne des Absatzes 3 Nr. 1 bis 3 rechtfertigt,</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen einer fahrl\u00e4ssigen Straftat im Zusammenhang mit dem Umgang mit Waffen, Munition oder Sprengstoff,</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen einer Straftat gegen jagdrechtliche, tierschutzrechtliche oder naturschutzrechtliche Vorschriften, das Waffengesetz, das Gesetz \u00fcber die Kontrolle von Kriegswaffen oder das Sprengstoffgesetz</LA></DD></DL></LA><LA Size=\"normal\">zu einer Freiheitsstrafe, Jugendstrafe, Geldstrafe von mindestens 60 Tagess\u00e4tzen oder mindestens zweimal zu einer geringeren Geldstrafe rechtskr\u00e4ftig verurteilt worden sind, wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung f\u00fcnf Jahre nicht verstrichen sind; in die Frist wird die Zeit eingerechnet, die seit der Vollziehbarkeit des Widerrufs oder der R\u00fccknahme eines Jagdscheines oder eines Waffenbesitzverbotes nach \u00a7 41 des Waffengesetzes wegen der Tat, die der letzten Verurteilung zugrunde liegt, verstrichen ist; in die Frist nicht eingerechnet wird die Zeit, in welcher der Beteiligte auf beh\u00f6rdliche oder richterliche Anordnung in einer Anstalt verwahrt worden ist;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wiederholt oder gr\u00f6blich gegen eine in Nummer 1 Buchstabe d genannte Vorschrift versto\u00dfen haben;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">gesch\u00e4ftsunf\u00e4hig oder in der Gesch\u00e4ftsf\u00e4higkeit beschr\u00e4nkt sind;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">trunks\u00fcchtig, rauschmittels\u00fcchtig, geisteskrank oder geistesschwach sind.</LA></DD></DL></P><P>(5) Ist ein Verfahren nach Absatz 4 Nr. 1 noch nicht abgeschlossen, so kann die zust\u00e4ndige Beh\u00f6rde die Entscheidung \u00fcber den Antrag auf Erteilung des Jagdscheines bis zum rechtskr\u00e4ftigen Abschlu\u00df des Verfahrens aussetzen. Die Zeit der Aussetzung des Verfahrens ist in die Frist nach Absatz 4 Nr. 1 erster Halbsatz einzurechnen.</P><P>(6) Sind Tatsachen bekannt, die Bedenken gegen die Zuverl\u00e4ssigkeit nach Absatz 4 Nr. 4 oder die k\u00f6rperliche Eignung nach Absatz 1 Nr. 2 begr\u00fcnden, so kann die zust\u00e4ndige Beh\u00f6rde dem Beteiligten die Vorlage eines amts- oder fach\u00e4rztlichen Zeugnisses \u00fcber die geistige und k\u00f6rperliche Eignung aufgeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004000325",
+        "name": "\u00a7 18",
+        "title": "Einziehung des Jagdscheines",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000800325"
+        },
+        "body": "<P>Wenn Tatsachen, welche die Versagung des Jagdscheines begr\u00fcnden, erst nach Erteilung des Jagdscheines eintreten oder der Beh\u00f6rde, die den Jagdschein erteilt hat, bekanntwerden, so ist die Beh\u00f6rde in den F\u00e4llen des \u00a7 17 Abs. 1 und in den F\u00e4llen, in denen nur ein Jugendjagdschein h\u00e4tte erteilt werden d\u00fcrfen (\u00a7 16), sowie im Falle der Entziehung gem\u00e4\u00df \u00a7 41 verpflichtet, in den F\u00e4llen des \u00a7 17 Abs. 2 berechtigt, den Jagdschein f\u00fcr ung\u00fcltig zu erkl\u00e4ren und einzuziehen. Ein Anspruch auf R\u00fcckerstattung der Jagdscheingeb\u00fchren besteht nicht. Die Beh\u00f6rde kann eine Sperrfrist f\u00fcr die Wiedererteilung des Jagdscheines festsetzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007501377",
+        "name": "\u00a7 18a",
+        "title": "Mitteilungspflichten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000800325"
+        },
+        "body": "<P>Die erstmalige Erteilung einer Erlaubnis nach den \u00a7\u00a7 15 und 16, das Ergebnis von \u00dcberpr\u00fcfungen nach \u00a7 17 sowie Ma\u00dfnahmen nach den \u00a7\u00a7 18, 40, 41 und 41a sind der f\u00fcr den Vollzug des Waffengesetzes nach dessen \u00a7 48 Abs. 1 und 2 zust\u00e4ndigen Beh\u00f6rde mitzuteilen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG000900325",
+        "name": "V. Abschnitt",
+        "title": "Jagdbeschr\u00e4nkungen, Pflichten bei der\nJagdaus\u00fcbung und Beunruhigen von Wild",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004104311",
+        "name": "\u00a7 19",
+        "title": "Sachliche Verbote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000900325"
+        },
+        "body": "<P>(1) Verboten ist <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">mit Schrot, Posten, gehacktem Blei, Bolzen oder Pfeilen, auch als Fangschu\u00df, auf Schalenwild und Seehunde zu schie\u00dfen;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Rehwild und Seehunde mit B\u00fcchsenpatronen zu schie\u00dfen, deren Auftreffenergie auf 100 m (E 100) weniger als 1 000 Joule betr\u00e4gt;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf alles \u00fcbrige Schalenwild mit B\u00fcchsenpatronen unter einem Kaliber von 6,5 mm zu schie\u00dfen; im Kaliber 6,5 mm und dar\u00fcber m\u00fcssen die B\u00fcchsenpatronen eine Auftreffenergie auf 100 m (E 100) von mindestens 2\u00a0000 Joule haben;</LA></DD><DT>c)</DT><DD Font=\"normal\"><LA Size=\"normal\">mit halbautomatischen Langwaffen, die mit insgesamt mehr als drei Patronen geladen sind, sowie mit automatischen Waffen auf Wild zu schie\u00dfen;</LA></DD><DT>d)</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Wild mit Pistolen oder Revolvern zu schie\u00dfen, ausgenommen im Falle der Bau- und Fallenjagd sowie zur Abgabe von Fangsch\u00fcssen, wenn die M\u00fcndungsenergie der Geschosse mindestens 200 Joule betr\u00e4gt;</LA></DD></DL></LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Lappjagd innerhalb einer Zone von 300 Metern von der Bezirksgrenze, die Jagd durch Abklingeln der Felder und die Treibjagd bei Mondschein auszu\u00fcben;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schalenwild, ausgenommen Schwarzwild, sowie Federwild zur Nachtzeit zu erlegen; als Nachtzeit gilt die Zeit von eineinhalb Stunden nach Sonnenuntergang bis eineinhalb Stunden vor Sonnenaufgang; das Verbot umfa\u00dft nicht die Jagd auf M\u00f6wen, Waldschnepfen, Auer-, Birk- und Rackelwild;</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\"><DL Font=\"normal\" Type=\"arabic\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">k\u00fcnstliche Lichtquellen, Spiegel, Vorrichtungen zum Anstrahlen oder Beleuchten des Zieles, Nachtzielger\u00e4te, die einen Bildwandler oder eine elektronische Verst\u00e4rkung besitzen und f\u00fcr Schu\u00dfwaffen bestimmt sind, Tonbandger\u00e4te oder elektrische Schl\u00e4ge erteilende Ger\u00e4te beim Fang oder Erlegen von Wild aller Art zu verwenden oder zu nutzen sowie zur Nachtzeit an Leuchtt\u00fcrmen oder Leuchtfeuern Federwild zu fangen;</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">Vogelleim, Fallen, Angelhaken, Netze, Reusen oder \u00e4hnliche Einrichtungen sowie geblendete oder verst\u00fcmmelte V\u00f6gel beim Fang oder Erlegen von Federwild zu verwenden;</LA></DD></DL></LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">Belohnungen f\u00fcr den Abschu\u00df oder den Fang von Federwild auszusetzen, zu geben oder zu empfangen;</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Sauf\u00e4nge, Fang- oder Fallgruben ohne Genehmigung der zust\u00e4ndigen Beh\u00f6rde anzulegen;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schlingen jeder Art, in denen sich Wild fangen kann, herzustellen, feilzubieten, zu erwerben oder aufzustellen;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">Fangger\u00e4te, die nicht unversehrt fangen oder nicht sofort t\u00f6ten, sowie Selbstschu\u00dfger\u00e4te zu verwenden;</LA></DD><DT>10.</DT><DD Font=\"normal\"><LA Size=\"normal\">in Notzeiten Schalenwild in einem Umkreis von 200 Metern von F\u00fctterungen zu erlegen;</LA></DD><DT>11.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wild aus Luftfahrzeugen, Kraftfahrzeugen oder maschinengetriebenen Wasserfahrzeugen zu erlegen; das Verbot umfa\u00dft nicht das Erlegen von Wild aus Kraftfahrzeugen durch K\u00f6rperbehinderte mit Erlaubnis der zust\u00e4ndigen Beh\u00f6rde;</LA></DD><DT>12.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Netzjagd auf Seehunde auszu\u00fcben;</LA></DD><DT>13.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Hetzjagd auf Wild auszu\u00fcben;</LA></DD><DT>14.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Such- und Treibjagd auf Waldschnepfen im Fr\u00fchjahr auszu\u00fcben;</LA></DD><DT>15.</DT><DD Font=\"normal\"><LA Size=\"normal\">Wild zu vergiften oder vergiftete oder bet\u00e4ubende K\u00f6der zu verwenden;</LA></DD><DT>16.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Brackenjagd auf einer Fl\u00e4che von weniger als 1 000 Hektar auszu\u00fcben;</LA></DD><DT>17.</DT><DD Font=\"normal\"><LA Size=\"normal\">Abwurfstangen ohne schriftliche Erlaubnis des Jagdaus\u00fcbungsberechtigten zu sammeln;</LA></DD><DT>18.</DT><DD Font=\"normal\"><LA Size=\"normal\">eingefangenes oder aufgezogenes Wild sp\u00e4ter als vier Wochen vor Beginn der Jagdaus\u00fcbung auf dieses Wild auszusetzen.</LA></DD></DL></P><P>(2) Die L\u00e4nder k\u00f6nnen die Vorschriften des Absatzes 1 mit Ausnahme der Nummer 16 erweitern oder aus besonderen Gr\u00fcnden einschr\u00e4nken; soweit Federwild betroffen ist, ist die Einschr\u00e4nkung nur aus den in Artikel 9 Absatz 1 der Richtlinie 2009/147/EG des Europ\u00e4ischen Parlaments und des Rates vom 30. November 2009 \u00fcber die Erhaltung der wildlebenden Vogelarten (ABl. L 20 vom 26.1.2010, S. 7) in der jeweils geltenden Fassung genannten Gr\u00fcnden und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Ma\u00dfgaben zul\u00e4ssig.</P><P>(3) Die in Absatz 1 Nr. 2 Buchstaben a und b vorgeschriebenen Energiewerte k\u00f6nnen unterschritten werden, wenn von einem staatlichen oder staatlich anerkannten Fachinstitut die Verwendbarkeit der Munition f\u00fcr bestimmte jagdliche Zwecke best\u00e4tigt wird. Auf der kleinsten Verpackungseinheit der Munition ist das Fachinstitut, das die Pr\u00fcfung vorgenommen hat, sowie der Verwendungszweck anzugeben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004200325",
+        "name": "\u00a7 19a",
+        "title": "Beunruhigen von Wild",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000900325"
+        },
+        "body": "<P>Verboten ist, Wild, insbesondere soweit es in seinem Bestand gef\u00e4hrdet oder bedroht ist, unbefugt an seinen Zuflucht-, Nist-, Brut- oder Wohnst\u00e4tten durch Aufsuchen, Fotografieren, Filmen oder \u00e4hnliche Handlungen zu st\u00f6ren. Die L\u00e4nder k\u00f6nnen f\u00fcr bestimmtes Wild Ausnahmen zulassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004300325",
+        "name": "\u00a7 20",
+        "title": "\u00d6rtliche Verbote",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000900325"
+        },
+        "body": "<P>(1) An Orten, an denen die Jagd nach den Umst\u00e4nden des einzelnen Falles die \u00f6ffentliche Ruhe, Ordnung oder Sicherheit st\u00f6ren oder das Leben von Menschen gef\u00e4hrden w\u00fcrde, darf nicht gejagt werden.</P><P>(2) Die Aus\u00fcbung der Jagd in Naturschutz- und Wildschutzgebieten sowie in National- und Wildparken wird durch die L\u00e4nder geregelt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004400325",
+        "name": "\u00a7 21",
+        "title": "Abschu\u00dfregelung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000900325"
+        },
+        "body": "<P>(1) Der Abschu\u00df des Wildes ist so zu regeln, da\u00df die berechtigten Anspr\u00fcche der Land-, Forst- und Fischereiwirtschaft auf Schutz gegen Wildsch\u00e4den voll gewahrt bleiben sowie die Belange von Naturschutz und Landschaftspflege ber\u00fccksichtigt werden. Innerhalb der hierdurch gebotenen Grenzen soll die Abschu\u00dfregelung dazu beitragen, da\u00df ein gesunder Wildbestand aller heimischen Tierarten in angemessener Zahl erhalten bleibt und insbesondere der Schutz von Tierarten gesichert ist, deren Bestand bedroht erscheint.</P><P>(2) Schalenwild (mit Ausnahme von Schwarzwild) sowie Auer-, Birk- und Rackelwild d\u00fcrfen nur auf Grund und im Rahmen eines Abschu\u00dfplanes erlegt werden, der von der zust\u00e4ndigen Beh\u00f6rde im Einvernehmen mit dem Jagdbeirat (\u00a7 37) zu best\u00e4tigen oder festzusetzen ist. Seehunde d\u00fcrfen nur auf Grund und im Rahmen eines Abschu\u00dfplanes bejagt werden, der j\u00e4hrlich nach n\u00e4herer Bestimmung der L\u00e4nder f\u00fcr das K\u00fcstenmeer oder Teile davon auf Grund von Bestandsermittlungen aufzustellen ist. In gemeinschaftlichen Jagdbezirken ist der Abschu\u00dfplan vom Jagdaus\u00fcbungsberechtigten im Einvernehmen mit dem Jagdvorstand aufzustellen. Innerhalb von Hegegemeinschaften sind die Abschu\u00dfpl\u00e4ne im Einvernehmen mit den Jagdvorst\u00e4nden der Jagdgenossenschaften und den Inhabern der Eigenjagdbezirke aufzustellen, die der Hegegemeinschaft angeh\u00f6ren. Das N\u00e4here bestimmt die Landesgesetzgebung. Der Abschu\u00dfplan f\u00fcr Schalenwild mu\u00df erf\u00fcllt werden. Die L\u00e4nder treffen Bestimmungen, nach denen die Erf\u00fcllung des Abschu\u00dfplanes durch ein Abschu\u00dfmeldeverfahren \u00fcberwacht und erzwungen werden kann; sie k\u00f6nnen den k\u00f6rperlichen Nachweis der Erf\u00fcllung des Abschu\u00dfplanes verlangen.</P><P>(3) Der Abschu\u00df von Wild, dessen Bestand bedroht erscheint, kann in bestimmten Bezirken oder in bestimmten Revieren dauernd oder zeitweise g\u00e4nzlich verboten werden.</P><P>(4) Den Abschu\u00df in den Staatsforsten regeln die L\u00e4nder.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 21 Abs. 2 idF d. Bek. v. 29.9.1976 I 2849: Baden-W\u00fcrttemberg - Abweichung durch \u00a7 27 Abs. 8 des Landesjagdgesetzes (LJagdG) idF d. G v. 11.10.2007 GBl. BW 2007, 473 mWv 1.4.2007 <BR />\u00a7 21 Abs. 2 idF d. Bek. v. 29.9.1976 I 2849: Nordrhein-Westfalen - Abweichung durch \u00a7 22 Abs. 14 des Landesjagdgesetzes (LJG-NRW) idF d. G v. 19.6.2007 GV. NRW 2007, 226 mWv 5.7.2007 <BR />\u00a7 21 Abs. 2 Satz 1 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung  durch \u00a7 26 Abs. 1 Satz 2 u. Abs. 9 des Landesjagdgesetzes f\u00fcr Sachsen-Anhalt (LJagdG) v. 23.7.1991 GVBl. LSA S 186, zuletzt ge\u00e4ndert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004504119",
+        "name": "\u00a7 22",
+        "title": "Jagd- und Schonzeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000900325"
+        },
+        "body": "<P>(1) Nach den in \u00a7 1 Abs. 2 bestimmten Grunds\u00e4tzen der Hege bestimmt das Bundesministerium durch Rechtsverordnung mit Zustimmung des Bundesrates die Zeiten, in denen die Jagd auf Wild ausge\u00fcbt werden darf (Jagdzeiten). Au\u00dferhalb der Jagdzeiten ist Wild mit der Jagd zu verschonen (Schonzeiten). Die L\u00e4nder k\u00f6nnen die Jagdzeiten abk\u00fcrzen oder aufheben; sie k\u00f6nnen die Schonzeiten f\u00fcr bestimmte Gebiete oder f\u00fcr einzelne Jagdbezirke aus besonderen Gr\u00fcnden, insbesondere aus Gr\u00fcnden der Wildseuchenbek\u00e4mpfung und Landeskultur, zur Beseitigung kranken oder k\u00fcmmernden Wildes, zur Vermeidung von \u00fcberm\u00e4\u00dfigen Wildsch\u00e4den, zu wissenschaftlichen, Lehr- und Forschungszwecken, bei St\u00f6rung des biologischen Gleichgewichts oder der Wildhege aufheben. F\u00fcr den Lebendfang von Wild k\u00f6nnen die L\u00e4nder in Einzelf\u00e4llen Ausnahmen von Satz 2 zulassen.</P><P>(2) Wild, f\u00fcr das eine Jagdzeit nicht festgesetzt ist, ist w\u00e4hrend des ganzen Jahres mit der Jagd zu verschonen. Die L\u00e4nder k\u00f6nnen bei St\u00f6rung des biologischen Gleichgewichts oder bei schwerer Sch\u00e4digung der Landeskultur Jagdzeiten festsetzen oder in Einzelf\u00e4llen zu wissenschaftlichen, Lehr- und Forschungszwecken Ausnahmen zulassen.</P><P>(3) Aus Gr\u00fcnden der Landeskultur k\u00f6nnen Schonzeiten f\u00fcr Wild g\u00e4nzlich versagt werden (Wild ohne Schonzeit).</P><P>(4) In den Setz- und Brutzeiten d\u00fcrfen bis zum Selbst\u00e4ndigwerden der Jungtiere die f\u00fcr die Aufzucht notwendigen Elterntiere, auch die von Wild ohne Schonzeit, nicht bejagt werden. Die L\u00e4nder k\u00f6nnen f\u00fcr Schwarzwild, Wildkaninchen, Fuchs, Ringel- und T\u00fcrkentaube, Silber- und Lachm\u00f6we sowie f\u00fcr nach Landesrecht dem Jagdrecht unterliegende Tierarten aus den in Absatz 2 Satz 2 und Absatz 3 genannten Gr\u00fcnden sowie zur Bek\u00e4mpfung von Tierseuchen Ausnahmen bestimmen. Die nach Landesrecht zust\u00e4ndige Beh\u00f6rde kann im Einzelfall das Aushorsten von Nestlingen und \u00c4stlingen der Habichte f\u00fcr Beizzwecke aus den in Artikel 9 Absatz 1 Buchstabe c der Richtlinie 2009/147/EG genannten Gr\u00fcnden und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Ma\u00dfgaben genehmigen. Das Ausnehmen der Gelege von Federwild ist verboten. Die L\u00e4nder k\u00f6nnen zulassen, da\u00df Gelege in Einzelf\u00e4llen zu wissenschaftlichen, Lehr- und Forschungszwecken oder f\u00fcr Zwecke der Aufzucht ausgenommen werden. Die L\u00e4nder k\u00f6nnen ferner das Sammeln der Eier von Ringel- und T\u00fcrkentauben sowie von Silber- und Lachm\u00f6wen aus den in Artikel 9 Absatz 1 der Richtlinie 2009/147/EG genannten Gr\u00fcnden und nach den in Artikel 9 Absatz 2 der Richtlinie 2009/147/EG genannten Ma\u00dfgaben erlauben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 22 Abs. 1 idF d. Bek. v. 29.9.1976 I 2849: Nordrhein-Westfalen - Abweichung durch \u00a7 1 der Landesjagdzeitenverordnung f\u00fcr Nordrhein-Westfalen (JagdzeitV NW 2015)v. 28.5.2015 GV. NRW S 468 mWv 29.5.2015 (vgl. BGBl. I 2015, 1040) <BR />\u00a7 22 Abs. 1 Satz 1 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung durch \u00a7 27 Abs. 1 Nr. 4 des Landesjagdgesetzes f\u00fcr Sachsen-Anhalt (LJagdG)v. 23.7.1991 GVBl. LSA S 186, zuletzt ge\u00e4ndert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004600325",
+        "name": "\u00a7 22a",
+        "title": "Verhinderung von vermeidbaren Schmerzen oder Leiden\ndes Wildes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG000900325"
+        },
+        "body": "<P>(1) Um krankgeschossenes Wild vor vermeidbaren Schmerzen oder Leiden zu bewahren, ist dieses unverz\u00fcglich zu erlegen; das gleiche gilt f\u00fcr schwerkrankes Wild, es sei denn, da\u00df es gen\u00fcgt und m\u00f6glich ist, es zu fangen und zu versorgen.</P><P>(2) Krankgeschossenes oder schwerkrankes Wild, das in einem fremden Jagdbezirk wechselt, darf nur verfolgt werden (Wildfolge), wenn mit dem Jagdaus\u00fcbungsberechtigten dieses Jagdbezirkes eine schriftliche Vereinbarung \u00fcber die Wildfolge abgeschlossen worden ist. Die L\u00e4nder erlassen n\u00e4here Bestimmungen, insbesondere \u00fcber die Verpflichtung der Jagdaus\u00fcbungsberechtigten benachbarter Jagdbezirke, Vereinbarungen \u00fcber die Wildfolge zu treffen; sie k\u00f6nnen dar\u00fcber hinaus die Vorschriften \u00fcber die Wildfolge erg\u00e4nzen oder erweitern.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001000325",
+        "name": "VI. Abschnitt",
+        "title": "Jagdschutz",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004700325",
+        "name": "\u00a7 23",
+        "title": "Inhalt des Jagdschutzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001000325"
+        },
+        "body": "<P>Der Jagdschutz umfa\u00dft nach n\u00e4herer Bestimmung durch die L\u00e4nder den Schutz des Wildes insbesondere vor Wilderern, Futternot, Wildseuchen, vor wildernden Hunden und Katzen sowie die Sorge f\u00fcr die Einhaltung der zum Schutz des Wildes und der Jagd erlassenen Vorschriften.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004800325",
+        "name": "\u00a7 24",
+        "title": "Wildseuchen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001000325"
+        },
+        "body": "<P>Tritt eine Wildseuche auf, so hat der Jagdaus\u00fcbungsberechtigte dies unverz\u00fcglich der zust\u00e4ndigen Beh\u00f6rde anzuzeigen; sie erl\u00e4\u00dft im Einvernehmen mit dem beamteten Tierarzt die zur Bek\u00e4mpfung der Seuche erforderlichen Anweisungen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE004902377",
+        "name": "\u00a7 25",
+        "title": "Jagdschutzberechtigte",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001000325"
+        },
+        "body": "<P>(1) Der Jagdschutz in einem Jagdbezirk liegt neben den zust\u00e4ndigen \u00f6ffentlichen Stellen dem Jagdaus\u00fcbungsberechtigten ob, sofern er Inhaber eines Jagdscheines ist, und den von der zust\u00e4ndigen Beh\u00f6rde best\u00e4tigten Jagdaufsehern. Hauptberuflich angestellte Jagdaufseher sollen Berufsj\u00e4ger oder forstlich ausgebildet sein.</P><P>(2) Die best\u00e4tigten Jagdaufseher haben innerhalb ihres Dienstbezirkes in Angelegenheiten des Jagdschutzes die Rechte und Pflichten der Polizeibeamten und sind Ermittlungspersonen der Staatsanwaltschaft, sofern sie Berufsj\u00e4ger oder forstlich ausgebildet sind. Sie haben bei der Anwendung unmittelbaren Zwanges die ihnen durch Landesrecht einger\u00e4umten Befugnisse.</P><P>(3) (weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001100325",
+        "name": "VII. Abschnitt",
+        "title": "Wild- und Jagdschaden",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001200325",
+        "name": "1.",
+        "title": "Wildschadensverh\u00fctung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001100325"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005000325",
+        "name": "\u00a7 26",
+        "title": "Fernhalten des Wildes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001200325"
+        },
+        "body": "<P>Der Jagdaus\u00fcbungsberechtigte sowie der Eigent\u00fcmer oder Nutzungsberechtigte eines Grundst\u00fcckes sind berechtigt, zur Verh\u00fctung von Wildsch\u00e4den das Wild von den Grundst\u00fccken abzuhalten oder zu verscheuchen. Der Jagdaus\u00fcbungsberechtigte darf dabei das Grundst\u00fcck nicht besch\u00e4digen, der Eigent\u00fcmer oder Nutzungsberechtigte darf das Wild weder gef\u00e4hrden noch verletzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005100325",
+        "name": "\u00a7 27",
+        "title": "Verhinderung \u00fcberm\u00e4\u00dfigen Wildschadens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001200325"
+        },
+        "body": "<P>(1) Die zust\u00e4ndige Beh\u00f6rde kann anordnen, da\u00df der Jagdaus\u00fcbungsberechtigte unabh\u00e4ngig von den Schonzeiten innerhalb einer bestimmten Frist in bestimmtem Umfange den Wildbestand zu verringern hat, wenn dies mit R\u00fccksicht auf das allgemeine Wohl, insbesondere auf die Interessen der Land-, Forst- und Fischereiwirtschaft und die Belange des Naturschutzes und der Landschaftspflege, notwendig ist.</P><P>(2) Kommt der Jagdaus\u00fcbungsberechtigte der Anordnung nicht nach, so kann die zust\u00e4ndige Beh\u00f6rde f\u00fcr dessen Rechnung den Wildbestand vermindern lassen. Das erlegte Wild ist gegen angemessenes Schu\u00dfgeld dem Jagdaus\u00fcbungsberechtigten zu \u00fcberlassen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005200325",
+        "name": "\u00a7 28",
+        "title": "Sonstige Beschr\u00e4nkungen in der Hege",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001200325"
+        },
+        "body": "<P>(1) Schwarzwild darf nur in solchen Einfriedungen gehegt werden, die ein Ausbrechen des Schwarzwildes verh\u00fcten.</P><P>(2) Das Aussetzen von Schwarzwild und Wildkaninchen ist verboten.</P><P>(3) Das Aussetzen oder das Ansiedeln fremder Tiere in der freien Natur ist nur mit schriftlicher Genehmigung der zust\u00e4ndigen obersten Landesbeh\u00f6rde oder der von ihr bestimmten Stelle zul\u00e4ssig.</P><P>(4) Das Hegen oder Aussetzen weiterer Tierarten kann durch die L\u00e4nder beschr\u00e4nkt oder verboten werden.</P><P>(5) Die L\u00e4nder k\u00f6nnen die F\u00fctterung von Wild untersagen oder von einer Genehmigung abh\u00e4ngig machen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": "<P>\u00a7 28 Abs. 2 idF d. Bek. v. 29.9.1976 I 2849: Sachsen-Anhalt - Abweichung durch \u00a7 2 Abs. 2 des Landesjagdgesetzes f\u00fcr Sachsen-Anhalt (LJagdG) v. 23.7.1991 GVBl. LSA S. 186, zuletzt ge\u00e4ndert durch Art. 1 des G v. 18.1.2011 GVBl. LSA S. 6 mWv 1.2.2011 (vgl. BGBl. I 2011, 1943)</P>"
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007800118",
+        "name": "\u00a7 28a",
+        "title": "Invasive Arten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001200325"
+        },
+        "body": "<P>(1) Dem Jagdaus\u00fcbungsberechtigten ist mit dessen Zustimmung f\u00fcr den Jagdbezirk, in dem er die Jagd aus\u00fcben darf, die Durchf\u00fchrung von Management- oder Beseitigungsma\u00dfnahmen, die nach \u00a7 40e Absatz 2 Halbsatz 1 Bundesnaturschutzgesetz festgelegt worden sind, von der nach Landesrecht f\u00fcr Jagd zust\u00e4ndigen Beh\u00f6rde ganz oder teilweise zu \u00fcbertragen oder die Mitwirkung an der Durchf\u00fchrung der Ma\u00dfnahmen aufzuerlegen, soweit die Durchf\u00fchrung der Ma\u00dfnahmen im Rahmen der Jagdaus\u00fcbung mit zul\u00e4ssigen jagdlichen Methoden und Mitteln m\u00f6glich, zumutbar und wirksam ist. Im \u00dcbrigen ist der Jagdaus\u00fcbungsberechtigte zur Durchf\u00fchrung von Managementma\u00dfnahmen nach \u00a7 40e Bundesnaturschutzgesetz nicht verpflichtet. Die S\u00e4tze 1 und 2 gelten entsprechend f\u00fcr Ma\u00dfnahmen nach Artikel 17 der Verordnung (EU) Nr. 1143/2014 des Europ\u00e4ischen Parlaments und des Rates vom 22. Oktober 2014 \u00fcber die Pr\u00e4vention und das Management der Einbringung und Ausbreitung invasiver gebietsfremder Arten (ABl. L 317 vom 4.11.2014, S. 35) f\u00fcr die in \u00a7 40e Absatz 2 Halbsatz 1 genannten Arten.</P><P>(2) Soweit die Durchf\u00fchrung von Managementma\u00dfnahmen nach Absatz 1 nicht vom Jagdaus\u00fcbungsberechtigten \u00fcbernommen wird, oder soweit dieser die ihm \u00fcbertragenen Ma\u00dfnahmen oder die Mitwirkung daran nicht ordnungsgem\u00e4\u00df ausf\u00fchrt, trifft die nach Landesrecht f\u00fcr Jagd zust\u00e4ndige Beh\u00f6rde nach Anh\u00f6rung des Jagdaus\u00fcbungsberechtigten die notwendigen Anordnungen; sie kann insbesondere die Durchf\u00fchrung der Ma\u00dfnahmen \u00fcbernehmen oder einen Dritten mit deren Durchf\u00fchrung beauftragen. Ma\u00dfnahmen unter Einsatz jagdlicher Mittel haben im Einvernehmen mit dem Jagdaus\u00fcbungsberechtigten zu erfolgen; sein Jagdrecht bleibt unber\u00fchrt.</P><P>(3) \u00a7 1 Absatz 1 Satz 2 ist auf Arten, f\u00fcr die Managementma\u00dfnahmen nach \u00a7 40e oder Beseitigungsma\u00dfnahmen nach \u00a7 40a des Bundesnaturschutzgesetzes festgelegt worden sind, nicht anzuwenden; \u00a7 22 Absatz 4 Satz 1 und 2 gilt entsprechend.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001300325",
+        "name": "2.",
+        "title": "Wildschadensersatz",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001100325"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005300325",
+        "name": "\u00a7 29",
+        "title": "Schadensersatzpflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001300325"
+        },
+        "body": "<P>(1) Wird ein Grundst\u00fcck, das zu einem gemeinschaftlichen Jagdbezirk geh\u00f6rt oder einem gemeinschaftlichen Jagdbezirk angegliedert ist (\u00a7 5 Abs. 1), durch Schalenwild, Wildkaninchen oder Fasanen besch\u00e4digt, so hat die Jagdgenossenschaft dem Gesch\u00e4digten den Wildschaden zu ersetzen. Der aus der Genossenschaftskasse geleistete Ersatz ist von den einzelnen Jagdgenossen nach dem Verh\u00e4ltnis des Fl\u00e4cheninhalts ihrer beteiligten Grundst\u00fccke zu tragen. Hat der Jagdp\u00e4chter den Ersatz des Wildschadens ganz oder teilweise \u00fcbernommen, so trifft die Ersatzpflicht den Jagdp\u00e4chter. Die Ersatzpflicht der Jagdgenossenschaft bleibt bestehen, soweit der Gesch\u00e4digte Ersatz von dem P\u00e4chter nicht erlangen kann.</P><P>(2) Wildschaden an Grundst\u00fccken, die einem Eigenjagdbezirk angegliedert sind (\u00a7 5 Abs. 1), hat der Eigent\u00fcmer oder der Nutznie\u00dfer des Eigenjagdbezirks zu ersetzen. Im Falle der Verpachtung haftet der Jagdp\u00e4chter, wenn er sich im Pachtvertrag zum Ersatz des Wildschadens verpflichtet hat. In diesem Falle haftet der Eigent\u00fcmer oder der Nutznie\u00dfer nur, soweit der Gesch\u00e4digte Ersatz von dem P\u00e4chter nicht erlangen kann.</P><P>(3) Bei Grundst\u00fccken, die zu einem Eigenjagdbezirk geh\u00f6ren, richtet sich, abgesehen von den F\u00e4llen des Absatzes 2, die Verpflichtung zum Ersatz von Wildschaden (Absatz 1) nach dem zwischen dem Gesch\u00e4digten und dem Jagdaus\u00fcbungsberechtigten bestehenden Rechtsverh\u00e4ltnis. Sofern nichts anderes bestimmt ist, ist der Jagdaus\u00fcbungsberechtigte ersatzpflichtig, wenn er durch unzul\u00e4nglichen Abschu\u00df den Schaden verschuldet hat.</P><P>(4) Die L\u00e4nder k\u00f6nnen bestimmen, da\u00df die Wildschadensersatzpflicht auch auf anderes Wild ausgedehnt wird und da\u00df der Wildschadensbetrag f\u00fcr bestimmtes Wild durch Schaffung eines Wildschadensausgleichs auf eine Mehrheit von Beteiligten zu verteilen ist (Wildschadensausgleichskasse).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005400325",
+        "name": "\u00a7 30",
+        "title": "Wildschaden durch Wild aus Gehege",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001300325"
+        },
+        "body": "<P>Wird durch ein aus einem Gehege ausgetretenes und dort gehegtes St\u00fcck Schalenwild Wildschaden angerichtet, so ist ausschlie\u00dflich derjenige zum Ersatz verpflichtet, dem als Jagdaus\u00fcbungsberechtigten, Eigent\u00fcmer oder Nutznie\u00dfer die Aufsicht \u00fcber das Gehege obliegt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005500325",
+        "name": "\u00a7 31",
+        "title": "Umfang der Ersatzpflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001300325"
+        },
+        "body": "<P>(1) Nach den \u00a7\u00a7 29 und 30 ist auch der Wildschaden zu ersetzen, der an den getrennten, aber noch nicht eingeernteten Erzeugnissen eines Grundst\u00fccks eintritt.</P><P>(2) Werden Bodenerzeugnisse, deren voller Wert sich erst zur Zeit der Ernte bemessen l\u00e4\u00dft, vor diesem Zeitpunkt durch Wild besch\u00e4digt, so ist der Wildschaden in dem Umfange zu ersetzen, wie er sich zur Zeit der Ernte darstellt. Bei der Feststellung der Schadensh\u00f6he ist jedoch zu ber\u00fccksichtigen, ob der Schaden nach den Grunds\u00e4tzen einer ordentlichen Wirtschaft durch Wiederanbau im gleichen Wirtschaftsjahr ausgeglichen werden kann.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005600325",
+        "name": "\u00a7 32",
+        "title": "Schutzvorrichtungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001300325"
+        },
+        "body": "<P>(1) Ein Anspruch auf Ersatz von Wildschaden ist nicht gegeben, wenn der Gesch\u00e4digte die von dem Jagdaus\u00fcbungsberechtigten zur Abwehr von Wildschaden getroffenen Ma\u00dfnahmen unwirksam macht.</P><P>(2) Der Wildschaden, der an Weinbergen, G\u00e4rten, Obstg\u00e4rten, Baumschulen, Alleen, einzelstehenden B\u00e4umen, Forstkulturen, die durch Einbringen anderer als der im Jagdbezirk vorkommenden Hauptholzarten einer erh\u00f6hten Gef\u00e4hrdung ausgesetzt sind, oder Freilandpflanzungen von Garten- oder hochwertigen Handelsgew\u00e4chsen entsteht, wird, soweit die L\u00e4nder nicht anders bestimmen, nicht ersetzt, wenn die Herstellung von \u00fcblichen Schutzvorrichtungen unterblieben ist, die unter gew\u00f6hnlichen Umst\u00e4nden zur Abwendung des Schadens ausreichen. Die L\u00e4nder k\u00f6nnen bestimmen, welche Schutzvorrichtungen als \u00fcblich anzusehen sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001400325",
+        "name": "3.",
+        "title": "Jagdschaden",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001100325"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005700325",
+        "name": "\u00a7 33",
+        "title": "Schadensersatzpflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001400325"
+        },
+        "body": "<P>(1) Wer die Jagd aus\u00fcbt, hat dabei die berechtigten Interessen der Grundst\u00fcckseigent\u00fcmer oder Nutzungsberechtigten zu beachten, insbesondere bes\u00e4te Felder und nicht abgem\u00e4hte Wiesen tunlichst zu schonen. Die Aus\u00fcbung der Treibjagd auf Feldern, die mit reifender Halm- oder Samenfrucht oder mit Tabak bestanden sind, ist verboten; die Suchjagd ist nur insoweit zul\u00e4ssig, als sie ohne Schaden f\u00fcr die reifenden Fr\u00fcchte durchgef\u00fchrt werden kann.</P><P>(2) Der Jagdaus\u00fcbungsberechtigte haftet dem Grundst\u00fcckseigent\u00fcmer oder Nutzungsberechtigten f\u00fcr jeden aus mi\u00dfbr\u00e4uchlicher Jagdaus\u00fcbung entstehenden Schaden; er haftet auch f\u00fcr den Jagdschaden, der durch einen von ihm bestellten Jagdaufseher oder durch einen Jagdgast angerichtet wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001500325",
+        "name": "4.",
+        "title": "Gemeinsame Vorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001100325"
+        },
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005800325",
+        "name": "\u00a7 34",
+        "title": "Geltendmachung des Schadens",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001500325"
+        },
+        "body": "<P>Der Anspruch auf Ersatz von Wild- oder Jagdschaden erlischt, wenn der Berechtigte den Schadensfall nicht binnen einer Woche, nachdem er von dem Schaden Kenntnis erhalten hat oder bei Beobachtung geh\u00f6riger Sorgfalt erhalten h\u00e4tte, bei der f\u00fcr das besch\u00e4digte Grundst\u00fcck zust\u00e4ndigen Beh\u00f6rde anmeldet. Bei Schaden an forstwirtschaftlich genutzten Grundst\u00fccken gen\u00fcgt es, wenn er zweimal im Jahre, jeweils bis zum 1. Mai oder 1. Oktober, bei der zust\u00e4ndigen Beh\u00f6rde angemeldet wird. Die Anmeldung soll die als ersatzpflichtig in Anspruch genommene Person bezeichnen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE005900325",
+        "name": "\u00a7 35",
+        "title": "Verfahren in Wild- und Jagdschadenssachen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001500325"
+        },
+        "body": "<P>Die L\u00e4nder k\u00f6nnen in Wild- und Jagdschadenssachen das Beschreiten des ordentlichen Rechtsweges davon abh\u00e4ngig machen, da\u00df zuvor ein Feststellungsverfahren vor einer Verwaltungsbeh\u00f6rde (Vorverfahren) stattfindet, in dem \u00fcber den Anspruch eine vollstreckbare Verpflichtungserkl\u00e4rung (Anerkenntnis, Vergleich) aufzunehmen oder eine nach Eintritt der Rechtskraft vollstreckbare Entscheidung (Vorbescheid) zu erlassen ist. Die L\u00e4nder treffen die n\u00e4heren Bestimmungen hier\u00fcber.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001600325",
+        "name": "VIII. Abschnitt",
+        "title": "Inverkehrbringen und Schutz von Wild",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006110119",
+        "name": "\u00a7 36",
+        "title": "Erm\u00e4chtigungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001600325"
+        },
+        "body": "<P>(1) Das Bundesministerium wird erm\u00e4chtigt, durch Rechtsverordnung mit Zustimmung des Bundesrates, soweit dies aus Gr\u00fcnden der Hege, zur Bek\u00e4mpfung von Wilderei und Wildhehlerei, aus wissenschaftlichen Gr\u00fcnden oder zur Verh\u00fctung von Gesundheitssch\u00e4den durch Fallwild erforderlich ist, Vorschriften zu erlassen \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anwendung von Ursprungszeichen bei der Verbringung von erlegtem Schalenwild aus dem Erlegungsbezirk und der Verbringung von erlegtem Schalenwild in den Geltungsbereich dieses Gesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Besitz von <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wild, das nach Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union aus Gr\u00fcnden des Erhalts der Arten streng oder besonders gesch\u00fctzt oder von den Mitgliedstaaten der Europ\u00e4ischen Union zu sch\u00fctzen ist, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstigem Wild,</LA></DD></DL></LA></DD><DT>2a.</DT><DD Font=\"normal\"><LA Size=\"normal\">den gewerbsm\u00e4\u00dfigen Ankauf, Verkauf oder Tausch von <DL Font=\"normal\" Type=\"alpha\"><DT>a)</DT><DD Font=\"normal\"><LA Size=\"normal\">Wild, das nach Rechtsakten der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union aus Gr\u00fcnden des Erhalts der Arten streng oder besonders gesch\u00fctzt oder von den Mitgliedstaaten der Europ\u00e4ischen Union zu sch\u00fctzen ist, oder</LA></DD><DT>b)</DT><DD Font=\"normal\"><LA Size=\"normal\">sonstigem Wild,</LA></DD></DL></LA></DD><DT>2b.</DT><DD Font=\"normal\"><LA Size=\"normal\">den sonstigen Erwerb, die Aus\u00fcbung der tats\u00e4chlichen Gewalt oder das sonstige Verwenden, die Abgabe, das Anbieten zum Verkauf oder den Tausch, die Zucht, die Bef\u00f6rderung, das Ver\u00e4u\u00dfern oder das sonstige Inverkehrbringen von Wild,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Ein-, Durch- und Ausfuhr sowie das sonstige Verbringen von Wild in den, durch den und aus dem Geltungsbereich dieses Gesetzes,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Verpflichtung zur F\u00fchrung von Wildhandelsb\u00fcchern,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Kennzeichnen von Wild.</LA></DD></DL></P><P>(2) Die L\u00e4nder erlassen insbesondere Vorschriften \u00fcber <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die beh\u00f6rdliche \u00dcberwachung des gewerbsm\u00e4\u00dfigen Ankaufs, Verkaufs und Tausches sowie der gewerbsm\u00e4\u00dfigen Verarbeitung von Wildbret und die beh\u00f6rdliche \u00dcberwachung der Wildhandelsb\u00fccher,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Aufnehmen, die Pflege und die Aufzucht verletzten oder kranken Wildes und dessen Verbleib.</LA></DD></DL></P><P>(3) Die Vorschriften nach Absatz 1 Nummer 2, 2a, 2b und 3 und Absatz 2 Nr. 2 k\u00f6nnen sich auch auf Eier oder sonstige Entwicklungsformen des Wildes, auf totes Wild, auf Teile des Wildes sowie auf die Nester und die aus Wild gewonnenen Erzeugnisse erstrecken.</P><P>(4) Rechtsverordnungen nach Absatz 1 Nr. 1 bed\u00fcrfen des Einvernehmens mit dem Bundesministerium f\u00fcr Wirtschaft und Energie; Rechtsverordnungen nach Absatz 1 Nr. 3 bed\u00fcrfen des Einvernehmens mit dem Bundesministerium der Finanzen. Rechtsverordnungen nach Absatz 1 Nr. 2 bis 5 bed\u00fcrfen, soweit sie Rechtsakte der Europ\u00e4ischen Gemeinschaft oder der Europ\u00e4ischen Union auf dem Gebiet des Artenschutzes oder Verpflichtungen aus internationalen Artenschutz\u00fcbereinkommen zu beachten haben, des Einvernehmens mit dem Bundesministerium f\u00fcr Umwelt, Naturschutz und nukleare Sicherheit.</P><P>(5) Das Bundesministerium der Finanzen und die von ihm bestimmten Zollstellen wirken bei der Ein-, Durch- und Ausfuhr sowie bei dem sonstigen Verbringen von Wild mit. Das Bundesministerium der Finanzen regelt im Einvernehmen mit dem Bundesministerium durch Rechtsverordnung ohne Zustimmung des Bundesrates die Einzelheiten des Verfahrens nach Satz 1; er kann dabei insbesondere Pflichten zu Anzeigen, Anmeldungen, Ausk\u00fcnften und zur Leistung von Hilfsdiensten sowie zur Duldung von Besichtigungen und von Entnahmen unentgeltlicher Muster und Proben vorsehen. Das Bundesministerium gibt im Einvernehmen mit dem Bundesministerium der Finanzen im Bundesanzeiger die Zollstellen bekannt, bei denen Wild zur Ein-, Durch- und Ausfuhr sowie zum sonstigen Verbringen abgefertigt wird, wenn die Ein-, Durch- und Ausfuhr sowie das sonstige Verbringen durch Rechtsverordnung nach Absatz 1 Nr. 3 geregelt ist.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006201305",
+        "name": "\u00a7 36a",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001600325"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001700325",
+        "name": "IX. Abschnitt",
+        "title": "Jagdbeirat und Vereinigungen der J\u00e4ger",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006300325",
+        "name": "\u00a7 37",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001700325"
+        },
+        "body": "<P>(1) In den L\u00e4ndern sind Jagdbeir\u00e4te zu bilden, denen Vertreter der Landwirtschaft, der Forstwirtschaft, der Jagdgenossenschaften, der J\u00e4ger und des Naturschutzes angeh\u00f6ren m\u00fcssen.</P><P>(2) Die L\u00e4nder k\u00f6nnen die Mitwirkung von Vereinigungen der J\u00e4ger f\u00fcr die F\u00e4lle vorsehen, in denen Jagdscheininhaber gegen die Grunds\u00e4tze der Weidgerechtigkeit versto\u00dfen (\u00a7 1 Abs. 3).</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001800325",
+        "name": "X. Abschnitt",
+        "title": "Straf- und Bu\u00dfgeldvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006402377",
+        "name": "\u00a7 38",
+        "title": "Strafvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001800325"
+        },
+        "body": "<P>(1) Mit Freiheitsstrafe bis zu f\u00fcnf Jahren oder mit Geldstrafe wird bestraft, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer vollziehbaren Anordnung nach \u00a7 21 Abs. 3 zuwiderhandelt,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 22 Abs. 2 Satz 1 Wild nicht mit der Jagd verschont oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 22 Abs. 4 Satz 1 ein Elterntier bejagt.</LA></DD></DL></P><P>(2) Handelt der T\u00e4ter fahrl\u00e4ssig, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007601311",
+        "name": "\u00a7 38a",
+        "title": "Strafvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001800325"
+        },
+        "body": "<P>(1) Mit Freiheitsstrafe bis zu f\u00fcnf Jahren oder mit Geldstrafe wird bestraft, wer einer Rechtsverordnung nach \u00a7 36 Absatz 1 Nummer 2a Buchstabe a, auch in Verbindung mit Absatz 3, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung f\u00fcr einen bestimmten Tatbestand auf diese Strafvorschrift verweist.</P><P>(2) Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer einer Rechtsverordnung nach \u00a7 36 Absatz 1 Nummer 2 Buchstabe a, auch in Verbindung mit Absatz 3, oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung f\u00fcr einen bestimmten Tatbestand auf diese Strafvorschrift verweist.</P><P>(3) Erkennt der T\u00e4ter in den F\u00e4llen des Absatzes 1 leichtfertig nicht, dass sich die Handlung auf Wild einer Art bezieht, die in \u00a7 36 Absatz 1 Nummer 2a Buchstabe a genannt ist, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.</P><P>(4) Erkennt der T\u00e4ter in den F\u00e4llen des Absatzes 2 leichtfertig nicht, dass sich die Handlung auf Wild einer Art bezieht, die in \u00a7 36 Absatz 1 Nummer 2 Buchstabe a genannt ist, so ist die Strafe Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.</P><P>(5) Die Tat ist nicht strafbar, wenn die Handlung eine unerhebliche Menge der Exemplare betrifft und unerhebliche Auswirkungen auf den Erhaltungszustand der Art hat.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006504311",
+        "name": "\u00a7 39",
+        "title": "Ordnungswidrigkeiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001800325"
+        },
+        "body": "<P>(1) Ordnungswidrig handelt, wer <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">in befriedeten Bezirken die Jagd aus\u00fcbt oder einer Beschr\u00e4nkung der Jagderlaubnis (\u00a7 6) zuwiderhandelt;</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf vollst\u00e4ndig eingefriedeten Grundfl\u00e4chen die Jagd entgegen einer nach \u00a7 7 Abs. 3 vorgeschriebenen Beschr\u00e4nkung aus\u00fcbt;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">auf Grund eines nach \u00a7 11 Abs. 6 Satz 1 nichtigen Jagdpachtvertrages, einer nach \u00a7 11 Abs. 6 Satz 2 nichtigen entgeltlichen Jagderlaubnis oder entgegen \u00a7 12 Abs. 4 die Jagd aus\u00fcbt;</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Inhaber eines Jugendjagdscheines ohne Begleitperson die Jagd aus\u00fcbt (\u00a7 16);</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Vorschriften des \u00a7 19 Abs. 1 Nr. 3 bis 9, 11 bis 14, 16 bis 18, \u00a7 19a oder \u00a7 20 Abs. 1 zuwiderhandelt;</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">zum Verscheuchen des Wildes Mittel anwendet, durch die Wild verletzt oder gef\u00e4hrdet wird (\u00a7 26);</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Vorschrift des \u00a7 28 Abs. 1 bis 3 \u00fcber das Hegen, Aussetzen und Ansiedeln zuwiderhandelt;</LA></DD><DT>8.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Vorschriften des \u00a7 33 Abs. 1 zuwiderhandelt und dadurch Jagdschaden anrichtet;</LA></DD><DT>9.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Jagdschein auf Verlangen nicht vorzeigt (\u00a7 15 Abs. 1).</LA></DD></DL></P><P>(2) Ordnungswidrig handelt, wer vors\u00e4tzlich oder fahrl\u00e4ssig <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Jagd aus\u00fcbt, obwohl er keinen g\u00fcltigen Jagdschein mit sich f\u00fchrt oder obwohl ihm die Jagdaus\u00fcbung verboten ist (\u00a7 41a);</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Vorschriften des \u00a7 19 Abs. 1 Nr. 1, 2, 10 und 15 zuwiderhandelt;</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">Schalenwild oder anderes Wild, das nur im Rahmen eines Abschu\u00dfplanes bejagt werden darf, erlegt, bevor der Abschu\u00dfplan best\u00e4tigt oder festgesetzt ist (\u00a7 21 Abs. 2 Satz 1), oder wer den Abschu\u00dfplan \u00fcberschreitet;</LA></DD><DT>3a.</DT><DD Font=\"normal\"><LA Size=\"normal\">entgegen \u00a7 22 Abs. 1 Satz 2 Wild nicht mit der Jagd verschont,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">als Jagdaus\u00fcbungsberechtigter das Auftreten einer Wildseuche nicht unverz\u00fcglich der zust\u00e4ndigen Beh\u00f6rde anzeigt oder den Weisungen der zust\u00e4ndigen Beh\u00f6rde zur Bek\u00e4mpfung der Wildseuche nicht Folge leistet (\u00a7 24);</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">einer Rechtsverordnung nach \u00a7 36 Absatz 1 Nummer 1, 2 Buchstabe b, auch in Verbindung mit Absatz 3, Nummer 2a Buchstabe b, auch in Verbindung mit Absatz 3, Nummer 2b, auch in Verbindung mit Absatz 3, Nummer 3, auch in Verbindung mit Absatz 3, Nummer 4 oder Nummer 5, Absatz 2 oder Absatz 5 oder einer vollziehbaren Anordnung auf Grund einer solchen Rechtsverordnung zuwiderhandelt, soweit die Rechtsverordnung f\u00fcr einen bestimmten Tatbestand auf diese Bu\u00dfgeldvorschrift verweist, oder</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">zur Jagd ausger\u00fcstet unbefugt einen fremden Jagdbezirk au\u00dferhalb der zum allgemeinen Gebrauch bestimmten Wege betritt.</LA></DD></DL></P><P>(3) Die Ordnungswidrigkeit kann mit einer Geldbu\u00dfe bis zu f\u00fcnftausend Euro geahndet werden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006601308",
+        "name": "\u00a7 40",
+        "title": "Einziehung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001800325"
+        },
+        "body": "<P>(1) Ist eine Straftat nach \u00a7 38 oder eine Ordnungswidrigkeit nach \u00a7 39 Abs. 1 Nr. 5 oder Abs. 2 Nr. 2 bis 3a oder 5 begangen worden, so k\u00f6nnen <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gegenst\u00e4nde, auf die sich die Straftat oder Ordnungswidrigkeit bezieht, und</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">Gegenst\u00e4nde, die zu ihrer Begehung oder Vorbereitung gebraucht worden oder bestimmt gewesen sind,</LA></DD> </DL>eingezogen werden.</P><P>(2) \u00a7 74a des Strafgesetzbuches und \u00a7 23 des Gesetzes \u00fcber Ordnungswidrigkeiten sind anzuwenden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006702124",
+        "name": "\u00a7 41",
+        "title": "Anordnung der Entziehung des Jagdscheines",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001800325"
+        },
+        "body": "<P>(1) Wird jemand wegen einer rechtswidrigen Tat <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach \u00a7 38 dieses Gesetzes,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den \u00a7\u00a7 113 bis 115, 223 bis 227, 231, 239, 240 des Strafgesetzbuches, sofern derjenige, gegen den sich die Tat richtete, sich in Aus\u00fcbung des Forst-, Feld-, Jagd- oder Fischereischutzes befand, oder</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">nach den \u00a7\u00a7 292 bis 294 des Strafgesetzbuches</LA></DD></DL>verurteilt oder nur deshalb nicht verurteilt, weil seine Schuldunf\u00e4higkeit erwiesen oder nicht auszuschlie\u00dfen ist, so ordnet das Gericht die Entziehung des Jagdscheines an, wenn sich aus der Tat ergibt, da\u00df die Gefahr besteht, er werde bei weiterem Besitz des Jagdscheines erhebliche rechtswidrige Taten der bezeichneten Art begehen.</P><P>(2) Ordnet das Gericht die Entziehung des Jagdscheines an, so bestimmt es zugleich, da\u00df f\u00fcr die Dauer von einem Jahr bis zu f\u00fcnf Jahren kein neuer Jagdschein erteilt werden darf (Sperre). Die Sperre kann f\u00fcr immer angeordnet werden, wenn zu erwarten ist, da\u00df die gesetzliche H\u00f6chstfrist zur Abwehr der von dem T\u00e4ter drohenden Gefahr nicht ausreicht. Hat der T\u00e4ter keinen Jagdschein, so wird nur die Sperre angeordnet. Die Sperre beginnt mit der Rechtskraft des Urteils.</P><P>(3) Ergibt sich nach der Anordnung Grund zu der Annahme, da\u00df die Gefahr, der T\u00e4ter werde erhebliche rechtswidrige Taten der in Absatz 1 bezeichneten Art begehen, nicht mehr besteht, so kann das Gericht die Sperre vorzeitig aufheben.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006800325",
+        "name": "\u00a7 41a",
+        "title": "Verbot der Jagdaus\u00fcbung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001800325"
+        },
+        "body": "<P>(1) Wird gegen jemanden <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen einer Straftat, die er bei oder im Zusammenhang mit der Jagdaus\u00fcbung begangen hat, eine Strafe verh\u00e4ngt oder</LA></DD> <DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">wegen einer Ordnungswidrigkeit nach \u00a7 39, die er unter grober oder beharrlicher Verletzung der Pflichten bei der Jagdaus\u00fcbung begangen hat, eine Geldbu\u00dfe festgesetzt,</LA></DD> </DL>so kann ihm in der Entscheidung f\u00fcr die Dauer von einem Monat bis zu sechs Monaten verboten werden, die Jagd auszu\u00fcben.</P><P>(2) Das Verbot der Jagdaus\u00fcbung wird mit der Rechtskraft der Entscheidung wirksam. F\u00fcr seine Dauer wird ein erteilter Jagdschein, solange er nicht abgelaufen ist, amtlich verwahrt; das gleiche gilt f\u00fcr einen nach Ablauf des Jagdjahres neu erteilten Jagdschein. Wird er nicht freiwillig herausgegeben, so ist er zu beschlagnahmen.</P><P>(3) Ist ein Jagdschein amtlich zu verwahren, so wird die Verbotsfrist erst von dem Tage an gerechnet, an dem dies geschieht. In die Verbotsfrist wird die Zeit nicht eingerechnet, in welcher der T\u00e4ter auf beh\u00f6rdliche Anordnung in einer Anstalt verwahrt wird.</P><P>(4) \u00dcber den Beginn der Verbotsfrist nach Absatz 3 Satz 1 ist der T\u00e4ter im Anschlu\u00df an die Verk\u00fcndung der Entscheidung oder bei deren Zustellung zu belehren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE006900325",
+        "name": "\u00a7 42",
+        "title": "Landesrechtliche Straf- und Bu\u00dfgeldvorschriften",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001800325"
+        },
+        "body": "<P>Die L\u00e4nder k\u00f6nnen Straf- und Bu\u00dfgeldbestimmungen f\u00fcr Verst\u00f6\u00dfe gegen die von ihnen erlassenen Vorschriften treffen, soweit solche nicht schon in diesem Gesetz enthalten sind.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR007800952BJNG001900325",
+        "name": "XI. Abschnitt",
+        "title": "Schlu\u00dfvorschriften",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007001377",
+        "name": "\u00a7 43",
+        "title": "(weggefallen)",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001900325"
+        },
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007101377",
+        "name": "\u00a7 44",
+        "title": "Sonderregelungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001900325"
+        },
+        "body": "<P>Die zust\u00e4ndigen Landesregierungen werden erm\u00e4chtigt, durch Rechtsverordnung im Benehmen mit dem Bundesministerium die Aus\u00fcbung des Jagdrechts auf der Insel Helgoland und die Jagd auf Wasserv\u00f6gel auf dem Untersee und dem Rhein bei Konstanz abweichend von den Vorschriften dieses Gesetzes zu regeln.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007400305",
+        "name": "\u00a7 44a",
+        "title": "Unber\u00fchrtheitsklausel",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001900325"
+        },
+        "body": "<P>Vorschriften des Lebensmittelrechts, Seuchenrechts, Fleischhygienerechts und Tierschutzrechts bleiben unber\u00fchrt.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007201308",
+        "name": "\u00a7 45",
+        "title": null,
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001900325"
+        },
+        "body": "<P>(weggefallen)</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007800952BJNE007300325",
+        "name": "\u00a7 46",
+        "title": "Inkrafttreten des Gesetzes",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR007800952BJNG001900325"
+        },
+        "body": "<P>(1) (Inkrafttreten der urspr\u00fcnglichen Fassung des Gesetzes)</P><P>(2) (Aufhebung von Vorschriften)</P><P>(3) <I>Verweisungen auf Vorschriften, die nach Absatz 2 au\u00dfer Kraft getreten sind, gelten als Verweisungen auf die entsprechenden Vorschriften dieses Gesetzes oder die entsprechenden landesrechtlichen Vorschriften.</I></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

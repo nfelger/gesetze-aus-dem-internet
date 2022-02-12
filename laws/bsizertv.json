@@ -1,0 +1,407 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR223100014",
+    "firstPublished": "2014-12-17",
+    "sourceTimestamp": "20210615213253",
+    "titleShort": "BSI-Zertifizierungs- und -Anerkennungsverordnung",
+    "titleLong": "Verordnung \u00fcber das Verfahren der Erteilung von Sicherheitszertifikaten und Anerkennungen durch das Bundesamt f\u00fcr Sicherheit in der Informationstechnik<FnR ID=\"F788048_01_BJNR223100014\" />",
+    "abbreviation": "BSIZertV",
+    "slug": "bsizertv",
+    "extraAbbreviations": [
+      "BSIZertV 2014"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "2014, 2231",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [
+      {
+        "comment": "Zuletzt ge\u00e4ndert durch Art. 74 V v. 19.6.2020 I 1328",
+        "category": "Stand"
+      }
+    ],
+    "notes": {
+      "body": null,
+      "footnotes": "<Footnote FnZ=\"1\" Group=\"column\" ID=\"F788048_01_BJNR223100014\" Pos=\"exp\"><noindex>Notifiziert gem\u00e4\u00df der Richtlinie 98/34/EG des Europ\u00e4ischen Parlaments und des Rates vom 22. Juni 1998 \u00fcber ein Informationsverfahren auf dem Gebiet der Normen und technischen Vorschriften und der Vorschriften f\u00fcr die Dienste der Informationsgesellschaft (ABl. L 204 vom 21.07.1998, S. 37), zuletzt ge\u00e4ndert durch Artikel 26 Absatz 2 der Verordnung (EU) Nr. 1025/2012 des Europ\u00e4ischen Parlaments und des Rates vom 25. Oktober 2012 (ABl. L 316 vom 14.11.2012, S. 12).</noindex></Footnote>",
+      "documentaryFootnotes": "<P><BR /> <pre xml:space=\"preserve\">(+++ Textnachweis ab: 24.12.2014 +++)<BR />(+++ Amtlicher Hinweis des Normgebers auf EG-Recht:<BR />     Notifizierung der<BR />       EGRL 34/98            (CELEX Nr: 31998L0034 +++)<BR /><BR /></pre></P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000100000",
+        "name": "Eingangsformel",
+        "title": null,
+        "parent": null,
+        "body": "<P>Auf Grund des \u00a7 10 Absatz 1 des BSI-Gesetzes vom 14. August 2009 (BGBl. I S. 2821) verordnet das Bundesministerium des Innern nach Anh\u00f6rung der betroffenen Wirtschaftsverb\u00e4nde im Einvernehmen mit dem Bundesministerium f\u00fcr Wirtschaft und Energie:</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR223100014BJNG000100000",
+        "name": "Abschnitt 1",
+        "title": "Allgemeine Bestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000200000",
+        "name": "\u00a7 1",
+        "title": "Anwendungsbereich",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000100000"
+        },
+        "body": "<P>Das Bundesamt f\u00fcr Sicherheit in der Informationstechnik (Bundesamt) erteilt Zertifikate und Anerkennungen gem\u00e4\u00df \u00a7 9 des BSI-Gesetzes nach dieser Verordnung.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000300000",
+        "name": "\u00a7 2",
+        "title": "Antragsverfahren",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000100000"
+        },
+        "body": "<P>Antr\u00e4ge m\u00fcssen schriftlich eingereicht werden und den Namen und die Anschrift des Antragstellers sowie das Datum des Antrags enthalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000400000",
+        "name": "\u00a7 3",
+        "title": "Vorlage und Aufbewahrung von Unterlagen und sonstigen Beweismitteln",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000100000"
+        },
+        "body": "<P>(1) Der Antrag, die mit dem Antrag eingereichten Unterlagen und die im Zertifizierungs- oder Anerkennungsverfahren anfallenden Unterlagen werden beim Bundesamt elektronisch oder in Papierform gem\u00e4\u00df den geltenden Bestimmungen aufbewahrt.</P><P>(2) Soweit der Antragsteller nach dieser Verordnung dazu berechtigt ist, dem Bundesamt Unterlagen oder sonstige Beweismittel nur zeitweise zur Verf\u00fcgung zu stellen, hat er diese Unterlagen oder sonstigen Beweismittel nach der Inaugenscheinnahme durch das Bundesamt beim Antragsteller w\u00e4hrend des Antragsverfahrens und des G\u00fcltigkeitszeitraums der Zertifizierung oder der Anerkennung aufzubewahren. Nach Ablauf der Geltungsdauer der Zertifizierung oder der Anerkennung sind diese Unterlagen oder sonstigen Beweismittel f\u00fcr mindestens drei weitere Jahre aufzubewahren und dem Bundesamt jederzeit auf Anfrage kostenfrei zur Verf\u00fcgung zu stellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000500000",
+        "name": "\u00a7 4",
+        "title": "Pr\u00fcfkriterien, Anforderungen, sachliche Geltungsbereiche",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000100000"
+        },
+        "body": "<P>(1) Das Bundesamt bestimmt, soweit erforderlich, f\u00fcr Zertifizierungs- und Anerkennungsverfahren nach dieser Verordnung <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>technische Geltungsbereiche,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>bedarfsgerechte Pr\u00fcfkriterien (Sicherheitskriterien, Schutzprofile, Technische Richtlinien und BSI-Standards),</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Anforderungen an die Fachkunde, Ausstattung und Zuverl\u00e4ssigkeit und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>notwendige Nachweise</LA></DD></DL>und ver\u00f6ffentlicht diese auf seiner Internetseite.</P><P>(2) Das Bundesamt bestimmt das Verfahren zur Erteilung von Zertifikaten und Anerkennungen nach dieser Verordnung und ver\u00f6ffentlicht hierzu Verfahrensbeschreibungen auf seiner Internetseite.</P><P>(3) Das Bundesamt sieht von der Ver\u00f6ffentlichung nach den Abs\u00e4tzen 1 und 2 ab, wenn durch die Ver\u00f6ffentlichung die \u00f6ffentliche Sicherheit gef\u00e4hrdet w\u00fcrde. Das Bundesamt kann von der Ver\u00f6ffentlichung absehen, wenn durch die Ver\u00f6ffentlichung \u00f6ffentliche Interessen oder die Sicherheit bestimmter Produkte, Komponenten, Produktkategorien oder Systeme beeintr\u00e4chtigt w\u00fcrden oder die Pr\u00fcfkriterien oder Verfahrensbeschreibungen als Verschlusssache eingestuft sind. Das Bundesamt gibt nicht ver\u00f6ffentlichte Pr\u00fcfkriterien, Geltungsbereiche und Verfahrensbeschreibungen denjenigen, die als Antragsteller in Betracht kommen, bekannt, wenn diese gegen\u00fcber dem Bundesamt ein berechtigtes Interesse nachweisen und sich verpflichten, die notwendigen Sicherheitsvorkehrungen einzuhalten.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000601116",
+        "name": "\u00a7 5",
+        "title": "Form der Entscheidungen; Anh\u00f6rungspflicht",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000100000"
+        },
+        "body": "<P>(1) Entscheidungen, mit denen abschlie\u00dfend \u00fcber einen nach dieser Verordnung gestellten Antrag entschieden wird, sind schriftlich oder elektronisch zu erlassen.</P><P>(2) Vor der Ablehnung eines Antrags sind dem Antragsteller die Gr\u00fcnde der voraussichtlichen Ablehnung mitzuteilen. Innerhalb einer vom Bundesamt festgesetzten angemessenen Frist ist dem Antragsteller Gelegenheit zur \u00c4u\u00dferung und zur Nachbesserung zu geben. \u00a7 28 Absatz 3 des Verwaltungsverfahrensgesetzes ist anzuwenden.</P><P>(3) Vor Erteilung eines Zertifikats oder einer Anerkennung mit Nebenbestimmungen nach \u00a7 22 ist der Antragsteller nach \u00a7 28 des Verwaltungsverfahrensgesetzes anzuh\u00f6ren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000700000",
+        "name": "\u00a7 6",
+        "title": "Mitwirkungsobliegenheit des Antragstellers",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000100000"
+        },
+        "body": "<P>(1) Das Bundesamt stellt die Tatsachen fest, die notwendig sind, um den f\u00fcr die Zertifizierung oder Anerkennung relevanten Sachverhalt zu ermitteln. Es obliegt dem Antragsteller, die notwendigen Beweismittel zur Ermittlung des Sachverhaltes beizubringen. Das Bundesamt ist nicht verpflichtet, eigene Ermittlungen im Sinne des \u00a7 26 Absatz 1 des Verwaltungsverfahrensgesetzes anzustellen, kann aber auf ihm bereits vorliegende Erkenntnisse zur\u00fcckgreifen.</P><P>(2) Dem Antragsteller obliegt es, im Rahmen seiner Mitwirkungsobliegenheiten die notwendige Mitwirkung etwaiger Dritter sicherzustellen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000800000",
+        "name": "\u00a7 7",
+        "title": "Ver\u00f6ffentlichung von Zertifikaten und Anerkennungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000100000"
+        },
+        "body": "<P>(1) Das Bundesamt ver\u00f6ffentlicht mindestens viertelj\u00e4hrlich im Internet oder in anderen Medien Gesamtlisten oder seit der letzten Ver\u00f6ffentlichung ge\u00e4nderte oder hinzugef\u00fcgte Listeneintr\u00e4ge der zertifizierten informationstechnischen Systeme, Standorte, Produkte, Komponenten und Schutzprofile sowie die zugeh\u00f6rigen Sicherheitszertifikate und Zertifizierungsreporte.</P><P>(2) Das Bundesamt ver\u00f6ffentlicht mindestens viertelj\u00e4hrlich im Internet oder in anderen Medien Gesamtlisten oder seit der letzten Ver\u00f6ffentlichung ge\u00e4nderte oder hinzugef\u00fcgte Listeneintr\u00e4ge der zertifizierten Personen mit deren Adresse, mit den technischen Geltungsbereichen der Zertifizierung und mit der Geltungsdauer der Zertifizierung.</P><P>(3) Das Bundesamt ver\u00f6ffentlicht mindestens viertelj\u00e4hrlich im Internet oder in anderen Medien Gesamtlisten oder seit der letzten Ver\u00f6ffentlichung ge\u00e4nderte oder hinzugef\u00fcgte Listeneintr\u00e4ge der zertifizierten IT-Sicherheitsdienstleister mit deren Adresse, mit den technischen Geltungsbereichen der Zertifizierung und mit der Geltungsdauer der Zertifizierung.</P><P>(4) Das Bundesamt ver\u00f6ffentlicht mindestens viertelj\u00e4hrlich im Internet oder in anderen Medien Gesamtlisten oder seit der letzten Ver\u00f6ffentlichung ge\u00e4nderte oder hinzugef\u00fcgte Listeneintr\u00e4ge der anerkannten sachverst\u00e4ndigen Stellen mit deren Adresse, mit den technischen Geltungsbereichen der Anerkennung und mit der Geltungsdauer der Anerkennung.</P><P>(5) Der Inhaber eines Zertifikats oder einer Anerkennung kann der Ver\u00f6ffentlichung nach den Abs\u00e4tzen 1 bis 4 widersprechen. Das Bundesamt sieht von der Ver\u00f6ffentlichung nach den Abs\u00e4tzen 1 bis 4 ab, soweit durch die Ver\u00f6ffentlichung die \u00f6ffentliche Sicherheit beeintr\u00e4chtigt werden k\u00f6nnte. Das Bundesamt kann von der Ver\u00f6ffentlichung nach den Abs\u00e4tzen 1 bis 4 ganz oder teilweise absehen, wenn durch die Ver\u00f6ffentlichung \u00f6ffentliche oder private Interessen beeintr\u00e4chtigt w\u00fcrden.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR223100014BJNG000200000",
+        "name": "Abschnitt 2",
+        "title": "Zertifizierung von informationstechnischen Produkten oder Komponenten, informationstechnischen Systemen sowie Schutzprofilen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE000900000",
+        "name": "\u00a7 8",
+        "title": "Zertifizierung von informationstechnischen Produkten oder Komponenten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000200000"
+        },
+        "body": "<P>(1) Ein Antrag auf Zertifizierung von informationstechnischen Produkten oder Komponenten kann von einer nat\u00fcrlichen oder juristischen Person gestellt werden. Ist der Antragsteller nicht Hersteller des zu zertifizierenden Produkts oder der zu zertifizierenden Komponente oder von Teilen davon, so muss der Antragsteller dem Antrag eine Erkl\u00e4rung aller Hersteller des zu zertifizierenden Produkts oder der zu zertifizierenden Komponente beif\u00fcgen, in der die Hersteller ihr Einverst\u00e4ndnis mit dem Antrag erkl\u00e4ren sowie ihre Bereitschaft zur Mitwirkung und ihr Einverst\u00e4ndnis, den Antragsteller bei der Erf\u00fcllung von Auflagen oder sonstigen Nebenbestimmungen im Antragsverfahren und nach der Erteilung des Zertifikats zu unterst\u00fctzen. \u00a7 13 Absatz 2 des Verwaltungsverfahrensgesetzes bleibt unber\u00fchrt.</P><P>(2) Der Antrag muss neben den nach \u00a7 2 erforderlichen Angaben Folgendes enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Angaben \u00fcber die nach \u00a7 4 Absatz 1 anzuwendenden Pr\u00fcfkriterien und die angestrebte Bewertungsstufe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die genaue Bezeichnung des zu zertifizierenden Produkts oder der zu zertifizierenden Komponente,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>Angaben \u00fcber Hersteller und Rechteinhaber des zu zertifizierenden Produkts oder der zu zertifizierenden Komponente,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>eine Darstellung des Entwicklungs- und Fertigungsstandes,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Angabe der vom Bundesamt anerkannten sachverst\u00e4ndigen Stelle, die f\u00fcr die Pr\u00fcfung und Bewertung vorgesehen ist,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>soweit vorhanden, Angaben \u00fcber bereits erfolgte Pr\u00fcfungen und Bewertungen durch andere sachverst\u00e4ndige Stellen sowie</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>die Zustimmung zur Ver\u00f6ffentlichung einer erteilten Zertifizierung nach \u00a7 7 Absatz 1 oder den Widerspruch gegen die Ver\u00f6ffentlichung nach \u00a7 7 Absatz 5 Satz 1.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001000000",
+        "name": "\u00a7 9",
+        "title": "Zertifizierung von informationstechnischen Systemen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000200000"
+        },
+        "body": "<P>(1) Ein Antrag auf Zertifizierung von informationstechnischen Systemen kann nur von dem Betreiber des zu zertifizierenden Systems gestellt werden.</P><P>(2) Der Antrag muss neben den nach \u00a7 2 erforderlichen Angaben Folgendes enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Angaben zu den nach \u00a7 4 Absatz 1 anzuwendenden Pr\u00fcfkriterien und die angestrebte Bewertungsstufe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die genaue Bezeichnung des zu zertifizierenden Systems,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Darstellung des Entwicklungs- und Fertigungsstandes sowie Angaben \u00fcber Hersteller und Rechteinhaber der verwendeten informationstechnischen Produkte,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Angabe der vom Bundesamt anerkannten sachverst\u00e4ndigen Stelle, die f\u00fcr die Pr\u00fcfung und Bewertung vorgesehen ist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>soweit vorhanden, Angaben \u00fcber Pr\u00fcfungen und Bewertungen durch andere Personen oder sachverst\u00e4ndige Stellen sowie</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Zustimmung zur Ver\u00f6ffentlichung einer erteilten Zertifizierung nach \u00a7 7 Absatz 1 oder den Widerspruch gegen die Ver\u00f6ffentlichung nach \u00a7 7 Absatz 5 Satz 1.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001100000",
+        "name": "\u00a7 10",
+        "title": "Zertifizierung von Schutzprofilen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000200000"
+        },
+        "body": "<P>(1) Ein Antrag auf Zertifizierung von Schutzprofilen kann nur von einer Vereinigung von Herstellern oder Anwendern von informationstechnischen Produkten, von einer Standardisierungsorganisation oder von einer Beh\u00f6rde gestellt werden.</P><P>(2) Der Antrag muss neben den nach \u00a7 2 erforderlichen Angaben Folgendes enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Angaben zu den nach \u00a7 4 Absatz 1 anzuwendenden Pr\u00fcfkriterien und die angestrebte Bewertungsstufe,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die genaue Bezeichnung des zu zertifizierenden Schutzprofils,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>soweit vorhanden, Angaben \u00fcber den Autor des Schutzprofils, falls Autor und Antragsteller nicht identisch sind,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>die Einwilligung des Antragstellers und Rechteinhabers, das Schutzprofil kostenfrei bereitzustellen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Angabe der vom Bundesamt anerkannten sachverst\u00e4ndigen Stelle, die f\u00fcr die Pr\u00fcfung und Bewertung vorgesehen ist, sowie</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Zustimmung zur Ver\u00f6ffentlichung einer erteilten Zertifizierung nach \u00a7 7 Absatz 1 oder den Widerspruch gegen die Ver\u00f6ffentlichung nach \u00a7 7 Absatz 5 Satz 1.<BR /></LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001200000",
+        "name": "\u00a7 11",
+        "title": "Mitwirkungsobliegenheiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000200000"
+        },
+        "body": "<P>(1) Zur Zertifizierung von informationstechnischen Produkten oder Komponenten obliegt es dem Antragsteller, kostenfrei dem Bundesamt und der sachverst\u00e4ndigen Stelle das zu zertifizierende Produkt oder die zu zertifizierende Komponente, die f\u00fcr dessen oder deren Betrieb notwendigen Einrichtungen und Rechte sowie die nach \u00a7 4 Absatz 1 erforderlichen Unterlagen und Beweismittel zur Verf\u00fcgung zu stellen. Unterlagen und sonstige Beweismittel k\u00f6nnen beim Antragsteller in Augenschein genommen werden, wenn der Antragsteller glaubhaft macht, dass einer Weitergabe der Unterlagen oder Beweismittel wesentliche Interessen des Antragstellers entgegenstehen.</P><P>(2) Zur Zertifizierung von informationstechnischen Systemen obliegt es dem Antragsteller, dem Bundesamt und der sachverst\u00e4ndigen Stelle kostenfrei Zugang zum installierten informationstechnischen System und zu den relevanten Standorten zu gew\u00e4hren und die f\u00fcr die Pr\u00fcfung notwendigen Rechte sowie die nach \u00a7 4 Absatz 1 erforderlichen Unterlagen und Nachweise zur Verf\u00fcgung zu stellen.</P><P>(3) Zur Zertifizierung von Schutzprofilen obliegt es dem Antragsteller, dem Bundesamt und der beauftragten sachverst\u00e4ndigen Stelle kostenfrei das zu zertifizierende Schutzprofil zur Verf\u00fcgung zu stellen.</P><P>(4) Zur Durchf\u00fchrung des Zertifizierungsverfahrens obliegt es dem Antragsteller, das Bundesamt und die beauftragte sachverst\u00e4ndige Stelle kostenfrei durch fachkompetente Vertreter zu unterst\u00fctzen. Soweit notwendig, obliegt es dem Antragsteller, kostenfrei das mit der Pr\u00fcfung, Bewertung und Zertifizierung befasste Personal produkt-, komponenten- oder systembezogen einzuweisen oder Schulungen durchzuf\u00fchren.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001301116",
+        "name": "\u00a7 12",
+        "title": "Zertifikat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000200000"
+        },
+        "body": "<P>(1) Ein Zertifikat nach \u00a7 9 Absatz 4 des BSI-Gesetzes wird erteilt, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Pr\u00fcfung und die Bewertung ergeben, dass das gepr\u00fcfte informationstechnische Produkt, die informationstechnische Komponente, das informationstechnische System oder das Schutzprofil die Pr\u00fcfkriterien nach \u00a7 4 Absatz 1 erf\u00fcllt, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesministerium des Innern, f\u00fcr Bau und Heimat nach \u00a7 9 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass \u00fcberwiegende \u00f6ffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.</LA></DD></DL></P><P>(2) Das Zertifikat ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer f\u00fcr den jeweiligen technischen Geltungsbereich fest.</P><P>(3) Das Zertifikat f\u00fcr informationstechnische Produkte, Systeme, Komponenten sowie f\u00fcr Schutzprofile enth\u00e4lt: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zertifizierungsnummer,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der Pr\u00fcfkriterien, soweit sie bekannt gemacht sind,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Namen der vom Bundesamt anerkannten sachverst\u00e4ndigen Stelle, deren Pr\u00fcfung und Bewertung der Zertifizierung zugrunde gelegt wurde,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">etwaige Nebenbestimmungen nach \u00a7 22,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausstellungsort und -datum des Sicherheitszertifikats sowie</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Geltungsdauer des Sicherheitszertifikats.</LA></DD></DL>Dem Sicherheitszertifikat wird ein Zertifizierungsbericht beigef\u00fcgt.</P><P>(4) Das Zertifikat f\u00fcr informationstechnische Produkte oder Komponenten enth\u00e4lt zus\u00e4tzlich zu Absatz 3 folgende Angaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung, die Beschreibung und die Angabe des Herstellers des gepr\u00fcften Produkts oder der Komponente,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der zum gepr\u00fcften Produkt oder zur Komponente geh\u00f6renden Dokumentationen,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Beschreibung der Sicherheitsfunktionen und</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erreichte Bewertungsstufe oder den Pr\u00fcfumfang.</LA></DD></DL></P><P>(5) Das Zertifikat f\u00fcr informationstechnische Systeme enth\u00e4lt zus\u00e4tzlich zu Absatz 3 folgende Angaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung und die Beschreibung des gepr\u00fcften Systems und der relevanten Standorte und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">soweit erforderlich, die Angabe der zum gepr\u00fcften System und Standort geh\u00f6renden sicherheitsrelevanten Dokumentationen.</LA></DD></DL></P><P>(6) Das Zertifikat f\u00fcr Schutzprofile enth\u00e4lt zus\u00e4tzlich zu Absatz 3 folgende Angaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Bezeichnung und die Beschreibung des gepr\u00fcften Schutzprofils und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die erreichte Bewertungsstufe oder den Pr\u00fcfumfang.</LA></DD></DL></P><P>(7) Das Bundesamt kann jederzeit anlassbezogen \u00fcberpr\u00fcfen, ob die Voraussetzungen f\u00fcr die Zertifizierung nach Absatz 1 weiterhin vorliegen. Das Bundesamt entwickelt f\u00fcr die \u00dcberpr\u00fcfungen Verfahrensbeschreibungen und ver\u00f6ffentlicht diese auf seiner Internetseite.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001400000",
+        "name": "\u00a7 13",
+        "title": "R\u00fcckgabe von informationstechnischen Produkten oder Komponenten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000200000"
+        },
+        "body": "<P>Vom Antragsteller an das Bundesamt \u00fcbergebene informationstechnische Produkte oder Komponenten werden dem Antragsteller am Ort der Pr\u00fcfung zur\u00fcckgegeben. Das Bundesamt kann mit dem Antragsteller vereinbaren, dass das Produkt oder die Komponente beim Bundesamt aufbewahrt wird.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR223100014BJNG000300000",
+        "name": "Abschnitt 3",
+        "title": "Zertifizierung von Personen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001500000",
+        "name": "\u00a7 14",
+        "title": "Antrag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000300000"
+        },
+        "body": "<P>(1) Ein Antrag auf Zertifizierung einer Person kann nur von der Person gestellt werden, die die Zertifizierung erhalten m\u00f6chte.</P><P>(2) Der Antrag muss neben den nach \u00a7 2 erforderlichen Angaben Folgendes enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Angaben \u00fcber den oder die beantragten technischen Geltungsbereiche,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>die f\u00fcr diesen technischen Geltungsbereich geforderten Nachweise nach \u00a7 4 Absatz 1 und</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>die Zustimmung zur Ver\u00f6ffentlichung einer erteilten Zertifizierung nach \u00a7 7 Absatz 2 oder den Widerspruch gegen die Ver\u00f6ffentlichung nach \u00a7 7 Absatz 5 Satz 1.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001601116",
+        "name": "\u00a7 15",
+        "title": "Zertifikat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000300000"
+        },
+        "body": "<P>(1) Ein Zertifikat f\u00fcr Personen nach \u00a7 9 Absatz 5 des BSI-Gesetzes wird erteilt, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Pr\u00fcfung und die Bewertung ergeben, dass die zu zertifizierende Person die Pr\u00fcfkriterien nach \u00a7 4 Absatz 1 erf\u00fcllt, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesministerium des Innern, f\u00fcr Bau und Heimat nach \u00a7 9 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass \u00fcberwiegende \u00f6ffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.</LA></DD></DL></P><P>(2) Das Zertifikat ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer f\u00fcr den jeweiligen technischen Geltungsbereich fest.</P><P>(3) Das Personenzertifikat enth\u00e4lt folgende Angaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Den Namen und die Adresse der zertifizierten Person,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zertifizierungsnummer,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Geltungsdauer der Zertifizierung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den technischen Geltungsbereich der Zertifizierung unter Verweis auf die zugrunde gelegten Standardisierungsnormen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der Standardisierungsnormen, die der Evaluierung der Person zugrunde lagen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">etwaige Nebenbestimmungen nach \u00a7 22 sowie</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausstellungsort und -datum des Zertifikats.</LA></DD></DL></P><P>(4) Das Bundesamt \u00fcberpr\u00fcft regelm\u00e4\u00dfig, ob die Voraussetzungen f\u00fcr die Zertifizierung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene \u00dcberpr\u00fcfung stattfinden. Das Bundesamt entwickelt f\u00fcr diese \u00dcberpr\u00fcfungen Verfahrensbeschreibungen und ver\u00f6ffentlicht diese auf seiner Internetseite.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR223100014BJNG000400000",
+        "name": "Abschnitt 4",
+        "title": "Zertifizierung von IT-Sicherheitsdienstleistern",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001700000",
+        "name": "\u00a7 16",
+        "title": "Antrag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000400000"
+        },
+        "body": "<P>(1) Ein Antrag auf Zertifizierung als IT-Sicherheitsdienstleister kann nur von dem IT-Sicherheitsdienstleister gestellt werden, der die Zertifizierung erhalten m\u00f6chte.</P><P>(2) Der Antrag muss neben den nach \u00a7 2 erforderlichen Angaben Folgendes enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Angaben zur Rechtsform, Unternehmensstruktur und zu Beteiligungen des Antragstellers,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Angaben \u00fcber die beantragten sachlichen Geltungsbereiche der Zertifizierung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Aufstellung der verantwortlichen Mitarbeiter des Antragstellers und ihres jeweiligen Verantwortungsbereiches,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Angaben zum Qualit\u00e4ts- und Informationssicherheitsmanagement sowie, soweit erforderlich, Angaben zur Geheimschutzbetreuung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>die Erkl\u00e4rung zur Unabh\u00e4ngigkeit oder Objektivit\u00e4t bez\u00fcglich der vorgesehenen T\u00e4tigkeiten im Geltungsbereich und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Zustimmung zur Ver\u00f6ffentlichung einer erteilten Zertifizierung nach \u00a7 7 Absatz 3 oder den Widerspruch gegen die Ver\u00f6ffentlichung nach \u00a7 7 Absatz 5 Satz 1.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001800000",
+        "name": "\u00a7 17",
+        "title": "Mitwirkungsobliegenheiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000400000"
+        },
+        "body": "<P>(1) Es obliegt dem Antragsteller, im Rahmen des Verfahrens dem Bundesamt oder den vom Bundesamt beauftragten Personen, soweit erforderlich, kostenfrei Zugang zu den Standorten, zu den zur Pr\u00fcfung vorgesehenen Systemen und zu den Unterlagen nach \u00a7 4 zu gew\u00e4hren.</P><P>(2) W\u00e4hrend des Verfahrens obliegt es dem Antragsteller, das Bundesamt oder die vom Bundesamt beauftragten Personen kostenfrei durch fachkompetente Vertreter zu unterst\u00fctzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE001901116",
+        "name": "\u00a7 18",
+        "title": "Zertifikat",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000400000"
+        },
+        "body": "<P>(1) Ein Zertifikat als IT-Sicherheitsdienstleister nach \u00a7 9 Absatz 5 des BSI-Gesetzes wird erteilt, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Pr\u00fcfung und die Bewertung ergeben, dass der IT-Sicherheitsdienstleister die Pr\u00fcfkriterien nach \u00a7 4 Absatz 1 erf\u00fcllt, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesministerium des Innern, f\u00fcr Bau und Heimat nach \u00a7 9 Absatz 4 Nummer 2 des BSI-Gesetzes festgestellt hat, dass \u00fcberwiegende \u00f6ffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.</LA></DD></DL></P><P>(2) Die Zertifizierung ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer f\u00fcr den jeweiligen technischen Geltungsbereich fest.</P><P>(3) Das Zertifikat enth\u00e4lt folgende Angaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">Den Namen des IT-Sicherheitsdienstleisters und die Adressen aller zertifizierten Standorte,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Zertifizierungsnummer,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Geltungsdauer der Zertifizierung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den technischen Geltungsbereich oder die technischen Geltungsbereiche der Zertifizierung unter Verweis auf die zugrunde gelegten Standardisierungsnormen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der Standardisierungsnormen, die der Begutachtung des IT-Sicherheitsdienstleisters zugrunde lagen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">etwaige Nebenbestimmungen nach \u00a7 22 sowie</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausstellungsort und -datum des Zertifikats.</LA></DD></DL></P><P>(4) Das Bundesamt \u00fcberpr\u00fcft regelm\u00e4\u00dfig, ob die Voraussetzungen f\u00fcr die Zertifizierung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene \u00dcberpr\u00fcfung stattfinden. Das Bundesamt entwickelt f\u00fcr diese \u00dcberpr\u00fcfungen Verfahrensbeschreibungen und ver\u00f6ffentlicht diese auf seiner Internetseite.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR223100014BJNG000500000",
+        "name": "Abschnitt 5",
+        "title": "Anerkennung von sachverst\u00e4ndigen Stellen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE002000000",
+        "name": "\u00a7 19",
+        "title": "Antrag",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000500000"
+        },
+        "body": "<P>(1) Ein Antrag auf Anerkennung als sachverst\u00e4ndige Stelle kann nur von der Stelle gestellt werden, die die Anerkennung erhalten m\u00f6chte.</P><P>(2) Der Antrag muss neben den nach \u00a7 2 erforderlichen Angaben Folgendes enthalten: <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>Angaben zur Rechtsform, Unternehmensstruktur und zu Beteiligungen der Stelle,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>Angaben \u00fcber die beantragten technischen Geltungsbereiche der Anerkennung,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>eine Aufstellung der verantwortlichen Mitarbeiter der Stelle und ihres jeweiligen Verantwortungsbereiches,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>Angaben zum Qualit\u00e4ts- und Informationssicherheitsmanagement sowie, soweit vorhanden, Angaben zur Geheimschutzbetreuung,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>eine Erkl\u00e4rung zur Unabh\u00e4ngigkeit oder Objektivit\u00e4t der Stelle bez\u00fcglich der vorgesehenen T\u00e4tigkeiten im Geltungsbereich und</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>die Zustimmung zur Ver\u00f6ffentlichung einer ausgesprochenen Anerkennung nach \u00a7 7 Absatz 4 oder den Widerspruch gegen die Ver\u00f6ffentlichung nach \u00a7 7 Absatz 5 Satz 1.</LA></DD></DL></P><P>(3) Die Antr\u00e4ge werden in der zeitlichen Reihenfolge ihres Eingangs bearbeitet; hiervon kann abgewichen werden, wenn das Bundesamt wegen der Zahl und des Umfangs anh\u00e4ngiger Pr\u00fcfungsverfahren eine Pr\u00fcfung in angemessener Zeit nicht durchf\u00fchren kann und an einer Anerkennung ein \u00f6ffentliches Interesse besteht.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE002100000",
+        "name": "\u00a7 20",
+        "title": "Mitwirkungsobliegenheiten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000500000"
+        },
+        "body": "<P>(1) Es obliegt dem Antragsteller, im Rahmen des Verfahrens dem Bundesamt oder den vom Bundesamt beauftragten Personen, soweit erforderlich, kostenfrei Zugang zu den Standorten, zu den zur Pr\u00fcfung vorgesehenen Systemen und zu den Unterlagen nach \u00a7 4 zu gew\u00e4hren.</P><P>(2) W\u00e4hrend des Verfahrens obliegt es dem Antragsteller, das Bundesamt oder die vom Bundesamt beauftragten Personen kostenfrei durch fachkompetente Vertreter zu unterst\u00fctzen.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE002201116",
+        "name": "\u00a7 21",
+        "title": "Anerkennung",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000500000"
+        },
+        "body": "<P>(1) Eine Anerkennung nach \u00a7 9 Absatz 6 des BSI-Gesetzes wird erteilt, wenn <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Pr\u00fcfung und die Bewertung ergeben, dass die sachliche und personelle Ausstattung sowie die fachliche Qualifikation und Zuverl\u00e4ssigkeit der Konformit\u00e4tsbewertungsstelle die Pr\u00fcfkriterien nach \u00a7 4 Absatz 1 erf\u00fcllen, und</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">das Bundesministerium des Innern, f\u00fcr Bau und Heimat nach \u00a7 9 Absatz 6 Nummer 2 des BSI-Gesetzes festgestellt hat, dass \u00fcberwiegende \u00f6ffentliche Interessen, insbesondere sicherheitspolitische Belange der Bundesrepublik Deutschland, der Erteilung nicht entgegenstehen.</LA></DD></DL></P><P>(2) Die Anerkennung ist vom Bundesamt zu befristen. Das Bundesamt setzt die Geltungsdauer f\u00fcr den jeweiligen technischen Geltungsbereich fest.</P><P>(3) Die Anerkennung enth\u00e4lt folgende Angaben: <DL Font=\"normal\" Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA Size=\"normal\">den Name und die Adresse der anerkannten sachverst\u00e4ndigen Stelle und aller anerkannten Standorte,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Anerkennungsnummer,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Geltungsdauer der Anerkennung,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA Size=\"normal\">den technischen Geltungsbereich oder die technischen Geltungsbereiche der Anerkennung unter Verweis auf die zugrunde gelegten Standardisierungsnormen,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA Size=\"normal\">die Angabe der Standardisierungsnormen, die der Begutachtung der Stelle zugrunde lagen,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA Size=\"normal\">etwaige Nebenbestimmungen nach \u00a7 22 sowie</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA Size=\"normal\">Ausstellungsort und -datum der Anerkennungsurkunde.</LA></DD></DL></P><P>(4) Das Bundesamt \u00fcberpr\u00fcft regelm\u00e4\u00dfig nach \u00a7 9 Absatz 6 Satz 2 des BSI-Gesetzes, ob die Voraussetzungen f\u00fcr die Anerkennung nach Absatz 1 weiterhin vorliegen. Daneben kann auch jederzeit eine anlassbezogene \u00dcberpr\u00fcfung stattfinden. Das Bundesamt entwickelt f\u00fcr diese \u00dcberpr\u00fcfungen Verfahrensbeschreibungen und ver\u00f6ffentlicht diese auf seiner Internetseite.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR223100014BJNG000600000",
+        "name": "Abschnitt 6",
+        "title": "Nebenbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE002300000",
+        "name": "\u00a7 22",
+        "title": "Nebenbestimmungen",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000600000"
+        },
+        "body": "<P>(1) Ein Zertifikat nach \u00a7 12, \u00a7 15 und \u00a7 18 sowie eine Anerkennung nach \u00a7 21 kann unter dem Vorbehalt des Widerrufs erlassen werden.</P><P>(2) Ein Zertifikat nach \u00a7 12, \u00a7 15 und \u00a7 18 sowie eine Anerkennung nach \u00a7 21 kann mit Nebenbestimmungen, insbesondere mit Auflagen oder Befristungen, erlassen werden. Insbesondere kann bestimmt werden, dass <DL Type=\"arabic\"><DT>1.</DT><DD Font=\"normal\"><LA>der Inhaber des Zertifikats oder der Anerkennung bei der Nutzung des Zertifikats oder der Anerkennung, insbesondere bei der Verwendung zu Werbezwecken, Vorlage und Nachweisf\u00fchrung, auf n\u00e4her bestimmte, in Zusammenhang mit der Zertifizierung oder Anerkennung ausgestellte Begleitdokumente hinweisen und diese zur Verf\u00fcgung stellen muss,</LA></DD><DT>2.</DT><DD Font=\"normal\"><LA>der Inhaber des Zertifikats unaufgefordert das Bundesamt informieren muss, wenn sich die Sicherheitseigenschaften des Zertifizierungsgegenstandes \u00e4ndern,</LA></DD><DT>3.</DT><DD Font=\"normal\"><LA>der Inhaber des Zertifikats oder der Anerkennung regelm\u00e4\u00dfig oder anlassbezogen auf seine Kosten durch das Bundesamt oder durch von diesem beauftragte Personen oder Stellen \u00fcberpr\u00fcfen lassen muss, ob die Voraussetzungen zur Zertifizierung von Produkten (zum Beispiel nach Common Criteria) oder Anerkennung weiterhin vorliegen,</LA></DD><DT>4.</DT><DD Font=\"normal\"><LA>eine Zertifizierung von der G\u00fcltigkeit eines Schutzprofils oder einer technischen Richtlinie abh\u00e4ngig ist,</LA></DD><DT>5.</DT><DD Font=\"normal\"><LA>in den F\u00e4llen des \u00a7 15, \u00a7 18 oder \u00a7 21 der Antragsteller dem Bundesamt unverz\u00fcglich schriftlich mitteilen muss, wenn sich seine Arbeitsweise oder seine Unternehmensform wesentlich \u00e4ndert oder sich sein Unternehmenssitz \u00e4ndert,</LA></DD><DT>6.</DT><DD Font=\"normal\"><LA>in den F\u00e4llen des \u00a7 15, \u00a7 18 oder \u00a7 21 der Antragsteller an vom Bundesamt angebotenen Arbeitstreffen zum technischen Geltungsbereich der Zertifizierung oder Anerkennung teilnehmen muss,</LA></DD><DT>7.</DT><DD Font=\"normal\"><LA>in den F\u00e4llen des \u00a7 18 oder \u00a7 21 der Antragsteller eine bestimmte Zahl von nach \u00a7 15 zertifizierten Personen f\u00fcr den jeweiligen Geltungsbereich besch\u00e4ftigen muss.</LA></DD></DL></P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "heading",
+        "id": "BJNR223100014BJNG000700000",
+        "name": "Abschnitt 7",
+        "title": "Schlussbestimmungen",
+        "parent": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR223100014BJNE002400000",
+        "name": "\u00a7 23",
+        "title": "Inkrafttreten, Au\u00dferkrafttreten",
+        "parent": {
+          "type": "heading",
+          "id": "BJNR223100014BJNG000700000"
+        },
+        "body": "<P>Diese Verordnung tritt am Tag nach der Verk\u00fcndung in Kraft. Gleichzeitig tritt die BSI-Zertifizierungsverordnung vom 7. Juli 1992 (BGBl. I S. 1230) au\u00dfer Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}

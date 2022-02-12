@@ -1,0 +1,60 @@
+{
+  "data": {
+    "type": "law",
+    "id": "BJNR007900991",
+    "firstPublished": "1991-03-22",
+    "sourceTimestamp": "20120625150736",
+    "titleShort": null,
+    "titleLong": "Gesetz zur \u00c4nderung der Beitragss\u00e4tze in der gesetzlichen\nRentenversicherung und bei der Bundesanstalt f\u00fcr Arbeit",
+    "abbreviation": "BeitrS. RV/BA \u00c4ndG",
+    "slug": "beitrs_rv_ba_aendg",
+    "extraAbbreviations": [
+      "BeitrSRV/BA\u00c4ndG"
+    ],
+    "publicationInfo": [
+      {
+        "reference": "1991, 790",
+        "periodical": "BGBl I"
+      }
+    ],
+    "statusInfo": [],
+    "notes": {
+      "body": null,
+      "footnotes": null,
+      "documentaryFootnotes": "<P>(+++ Textnachweis ab:  1. 4.1991 +++)</P>"
+    },
+    "attachments": {},
+    "contents": [
+      {
+        "type": "article",
+        "id": "BJNR007900991BJNE000100307",
+        "name": "(XXXX) Art 1 bis 3",
+        "title": "(weggefallen)",
+        "parent": null,
+        "body": null,
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007900991BJNE000200307",
+        "name": "Art 4",
+        "title": "Freiwillige Beitr\u00e4ge zur Rentenversicherung im Jahre 1991",
+        "parent": null,
+        "body": "<P>Bei der Zahlung von freiwilligen Beitr\u00e4gen f\u00fcr die Monate Januar bis M\u00e4rz 1991 gilt abweichend von den allgemeinen Regelungen \u00fcber die Zahlung von Beitr\u00e4gen zur freiwilligen Versicherung ein Beitragssatz von 18,7 v. H.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      },
+      {
+        "type": "article",
+        "id": "BJNR007900991BJNE000300307",
+        "name": "Art 5",
+        "title": "Inkrafttreten",
+        "parent": null,
+        "body": "<P>Dieses Gesetz tritt am 1. April 1991 in Kraft.</P>",
+        "footnotes": null,
+        "documentaryFootnotes": null
+      }
+    ]
+  }
+}
