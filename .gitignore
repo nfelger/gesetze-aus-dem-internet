@@ -131,5 +131,6 @@ dmypy.json
 # Editors/IDEs
 .vscode/
 
-data/
-laws/
+/data
+/generated_json
+

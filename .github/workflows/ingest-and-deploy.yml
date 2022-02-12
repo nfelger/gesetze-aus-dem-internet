@@ -8,7 +8,8 @@ on:
 
 env:
   DATA_DIR: ./data
-  OUTPUT_DIR: ./dist
+  JSON_OUTPUT_DIR: ./generated_json
+  WEBSITE_DIR: ./website/public
 
 jobs:
   ingest-and-deploy:
@@ -65,12 +66,23 @@ jobs:
 
     - name: Generate JSON files
       run: |
-        pipenv run invoke deploy.generate-bulk-law-files $OUTPUT_DIR
+        pipenv run invoke deploy.generate-bulk-law-files $JSON_OUTPUT_DIR
       env:
         DB_URI: postgresql://postgres:secret@postgres:5432/gadi
+
+    - name: Set up nodejs
+      uses: actions/setup-node@v2
+      with:
+        node-version: '16'
+
+    - name: Build static site
+      run: |
+        cd website
+        npm install --dev
+        npm run build
 
     - name: Deploy to Github Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ${{ env.OUTPUT_DIR }}
+        publish_dir: ${{ env.WEBSITE_DIR }}
