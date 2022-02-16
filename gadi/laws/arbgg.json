@@ -3,7 +3,7 @@
     "type": "law",
     "id": "BJNR012670953",
     "firstPublished": "1953-09-03",
-    "sourceTimestamp": "20220210212505",
+    "sourceTimestamp": "20220214212504",
     "titleShort": null,
     "titleLong": "Arbeitsgerichtsgesetz",
     "abbreviation": "ArbGG",
@@ -1216,19 +1216,6 @@
       },
       {
         "type": "article",
-        "id": "BJNR012670953BJNE009401309",
-        "name": "\u00a7 67a",
-        "title": null,
-        "parent": {
-          "type": "heading",
-          "id": "BJNR012670953BJNG000900303"
-        },
-        "body": null,
-        "footnotes": null,
-        "documentaryFootnotes": null
-      },
-      {
-        "type": "article",
         "id": "BJNR012670953BJNE009500303",
         "name": "\u00a7 68",
         "title": "Zur\u00fcckverweisung",
@@ -1257,12 +1244,12 @@
         "type": "article",
         "id": "BJNR012670953BJNE009702310",
         "name": "\u00a7 70",
-        "title": null,
+        "title": "(weggefallen)",
         "parent": {
           "type": "heading",
           "id": "BJNR012670953BJNG000900303"
         },
-        "body": "<P>(aufgehoben)</P>",
+        "body": null,
         "footnotes": null,
         "documentaryFootnotes": null
       },
