@@ -149,7 +149,7 @@ def write_all_law_json_files(session, dir_path):
     os.makedirs(laws_path, exist_ok=True)
 
     all_laws = []
-    laws_index = {}
+    laws_index = []
 
     for law in db.all_laws(session):
         law_api_model = api_schemas.LawAllFields.from_orm_model(law, include_contents=True)
@@ -157,14 +157,15 @@ def write_all_law_json_files(session, dir_path):
         _write_file(f"{laws_path}/{law.slug}.json", single_law_response.json(indent=2))
 
         all_laws.append(law_api_model.dict())
-        laws_index[law.slug] = dict(
+        laws_index.append(dict(
             slug=law.slug,
             name=law.title_short or law.title_long,
             source_timestamp=law.source_timestamp,
-        )
+        ))
 
     _write_gzipped_file(f"{dir_path}/all_laws.json.gz", json.dumps({'data': all_laws}, indent=2))
-    _write_file(f"{laws_path}/__index.json", json.dumps(laws_index, indent=2))
+    sorted_laws_index = sorted(laws_index, key=lambda l: l["name"])
+    _write_file(f"{laws_path}/__index.json", json.dumps(sorted_laws_index, indent=2))
 
 
 def write_law_json_file(law, dir_path):
