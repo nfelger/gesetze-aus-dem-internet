@@ -1,6 +1,5 @@
 from contextlib import contextmanager
 import os
-import re
 
 from sqlalchemy import create_engine
 from sqlalchemy.orm import load_only, sessionmaker, aliased
