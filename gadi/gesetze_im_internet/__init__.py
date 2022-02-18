@@ -158,13 +158,14 @@ def write_all_law_json_files(session, dir_path):
 
         all_laws.append(law_api_model.dict())
         laws_index.append(dict(
+            abbreviation=law.abbreviation,
             slug=law.slug,
             name=law.title_short or law.title_long,
             source_timestamp=law.source_timestamp,
         ))
 
     _write_gzipped_file(f"{dir_path}/all_laws.json.gz", json.dumps({'data': all_laws}, indent=2))
-    sorted_laws_index = sorted(laws_index, key=lambda l: l["name"])
+    sorted_laws_index = sorted(laws_index, key=lambda l: l["abbreviation"])
     _write_file(f"{laws_path}/__index.json", json.dumps(sorted_laws_index, indent=2))
 
 
