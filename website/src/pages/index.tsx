@@ -1,5 +1,6 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from 'gatsby'
+import lawsIndex from "../../static/laws/__index.json"
 
 // styles
 const pageStyles = {
@@ -26,28 +27,18 @@ const listStyles = {
   paddingLeft: 0,
 }
 const listItemStyles = {
-  maxWidth: 560,
+  lineHeight: '1.4em',
 }
 const linkStyle = {
   color: "#8954A8",
   fontWeight: "bold",
   fontSize: 16,
-  verticalAlign: "5%",
 }
 
 // markup
 const IndexPage = () => {
   const data = useStaticQuery(graphql`
     query MyQuery {
-      laws: allFile(
-        filter: {sourceInstanceName: {eq: "laws"}, relativeDirectory: {eq: "laws"}}
-        sort: {fields: name}
-      ) {
-        nodes {
-          relativePath
-          name
-        }
-      }
       lastModified: allFile(filter: {name: {eq: "all_laws.json"}}) {
         nodes {
           birthTime(locale: "de", formatString: "dddd, [den] Do MMMM YYYY, hh:mm:ss [(]z[)]")
@@ -55,7 +46,6 @@ const IndexPage = () => {
       }
     }
   `)
-  const laws = data.laws.nodes
   const lastModified = data.lastModified.nodes[0].birthTime
 
   return (
@@ -88,18 +78,17 @@ const IndexPage = () => {
         Oder direkt hier zu den einzelnen JSON-Dateien:
       </p>
       <ul style={listStyles}>
-        {laws.map(law => (
-          <li style={listItemStyles} key={law.relativePath}>
+        {lawsIndex.map(law => (
+          <li style={listItemStyles} key={law.slug}>
             <a
               style={linkStyle}
-              href={`gadi/${law.relativePath}`}
+              href={`laws/${law.slug}.json`}
             >
-              {law.name}
-            </a>
+              {law.abbreviation}
+            </a> ({law.name})
           </li>
         ))}
-      </ul>
-    </main>
+      </ul>    </main>
   )
 }
 

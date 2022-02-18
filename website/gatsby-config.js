@@ -10,7 +10,7 @@ module.exports = {
       resolve: "gatsby-source-filesystem",
       options: {
         name: `laws`,
-        path: `${__dirname}/static/gadi`,
+        path: `${__dirname}/static/all_laws.json.gz`,
       }
     },
   ]
