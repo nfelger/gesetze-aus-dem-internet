@@ -38,7 +38,14 @@ class Law(Base):
     notes_body = Column(String)
     notes_footnotes = Column(String)
     notes_documentary_footnotes = Column(String)
-    attachment_names = Column(postgresql.ARRAY(String), nullable=False)
+
+    attachments = relationship(
+        "Attachment",
+        back_populates="law",
+        order_by="Attachment.name",
+        cascade="all, delete, delete-orphan",
+        passive_deletes=True
+    )
 
     contents = relationship(
         "ContentItem",
@@ -53,7 +60,7 @@ class Law(Base):
         law = Law(
             slug=slugify(law_dict["abbreviation"]),
             gii_slug=gii_slug,
-            **{k: v for k, v in law_dict.items() if k != "contents"}
+            **{k: v for k, v in law_dict.items() if k not in ["contents", "attachments"]}
         )
 
         content_item_dicts = law_dict["contents"]
@@ -62,6 +69,10 @@ class Law(Base):
             content_item = ContentItem.from_dict(content_item_dict, idx, content_items_by_doknr)
             content_items_by_doknr[content_item.doknr] = content_item
             law.contents.append(content_item)
+
+        attachments_dict = law_dict["attachments"]
+        for name, data_uri in attachments_dict.items():
+            law.attachments.append(Attachment(name=name, data_uri=data_uri))
 
         return law
 
@@ -92,3 +103,14 @@ class ContentItem(Base):
         content_item_attrs = {k: v for k, v in content_item_dict.items() if k != "parent"}
         content_item = ContentItem(parent=parent, order=order, **content_item_attrs)
         return content_item
+
+
+class Attachment(Base):
+    __tablename__ = "attachments"
+
+    id = Column(Integer, primary_key=True)
+    name = Column(String, nullable=False)
+    data_uri = Column(String, nullable=False)
+    law_id = Column(Integer, ForeignKey("laws.id", ondelete="CASCADE"), index=True)
+
+    law = relationship("Law", back_populates="attachments")

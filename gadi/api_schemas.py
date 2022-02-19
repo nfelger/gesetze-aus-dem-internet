@@ -246,8 +246,8 @@ class LawAllFields(LawBasicFields):
         }
 
         attrs["attachments"] = {
-            name: f"https://fellows-2020-rechtsinfo-assets.s3.eu-central-1.amazonaws.com/public/gesetze_im_internet/{law.gii_slug}/{name}"
-            for name in law.attachment_names
+            attachment.name: attachment.data_uri
+            for attachment in law.attachments
         }
 
         if include_contents:

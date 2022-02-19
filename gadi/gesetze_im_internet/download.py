@@ -1,6 +1,8 @@
+import base64
 from email.utils import parsedate_to_datetime
 import glob
 from io import BytesIO
+import mimetypes
 import os
 import shutil
 from urllib.parse import urlparse
@@ -87,8 +89,19 @@ class LocalPathLocation:
 
         return xml_files[0]
 
-    def attachment_names(self, slug):
+    def attachments(self, slug):
         law_dir = os.path.join(self.data_dir, slug)
         all_files = glob.glob(f"{law_dir}/*")
-        attachments = [os.path.basename(path) for path in all_files if not path.endswith(".xml")]
+        attachments = {}
+        for path in all_files:
+            if path.endswith(".xml"):
+                continue
+
+            mimetype, _ = mimetypes.guess_type(path, strict=False)
+            with open(path, "rb") as file:
+                data = file.read()
+            data_base64_bytes = base64.b64encode(data).decode("ascii")
+            data_uri = f"data:{mimetype};base64,{data_base64_bytes}"
+
+            attachments[os.path.basename(path)] = data_uri
         return attachments

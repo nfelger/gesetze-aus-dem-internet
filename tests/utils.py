@@ -17,6 +17,6 @@ def load_law_from_fixture(slug):
     location = download.LocalPathLocation(xml_fixtures_dir)
     xml_filename = location.xml_file_for(slug)
     law_dict = parsing.parse_law(xml_filename)
+    law_dict["attachments"] = location.attachments(slug)
     law = models.Law.from_dict(law_dict, slug)
-    law.attachment_names = location.attachment_names(slug)
     return law

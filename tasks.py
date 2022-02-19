@@ -98,7 +98,7 @@ def json_generate(c, law_abbr):
         law = db.find_law_by_slug(session, law_abbr)
         if not law:
             raise Exception(f'Could not find law by slug "{law_abbr}". Has it been ingested yet?')
-        gesetze_im_internet.write_law_json_file(session, law, "example_json")
+        gesetze_im_internet.write_law_json_file(law, "example_json")
 
 
 @task
