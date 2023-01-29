@@ -14,7 +14,6 @@ env:
 jobs:
   ingest-and-deploy:
     runs-on: ubuntu-latest
-    container: python:3.10
 
     services:
       postgres:
