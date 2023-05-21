@@ -32,12 +32,13 @@ def fetch_toc():
 
 def _parse_last_modified_date_str(response):
     last_modified_header = response.headers.get("Last-Modified")
-    if not last_modified_header:
+    if last_modified_header:
+        last_modified_date = parsedate_to_datetime(last_modified_header)
+    else:
         # If there's no last modified date, pretend the file is current.
-        return dt.datetime.now()
+        last_modified_date = dt.datetime.now()
 
-    last_modified_date = parsedate_to_datetime(last_modified_header).strftime("%Y%m%d")
-    return last_modified_date
+    return last_modified_date.strftime("%Y%m%d")
         
 
 
