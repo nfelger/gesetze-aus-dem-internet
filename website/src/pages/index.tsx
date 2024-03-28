@@ -61,14 +61,14 @@ const IndexPage = () => {
       <ul style={listStyles}>
         <li style={listItemStyles}>
           <a style={linkStyle}
-             href={`gadi/all_laws.json.gz`}
+             href={`all_laws.json.gz`}
           >
             Große JSON-Datei (<code>all_laws.json.gz</code>)
           </a>
         </li>
         <li style={listItemStyles}>
           <a style={linkStyle}
-             href={`gadi/all_laws.tar.gz`}
+             href={`all_laws.tar.gz`}
           >
             Tarball mit einzelnen JSON-Dateien je Gesetz (<code>all_laws.tar.gz</code>)
           </a>
