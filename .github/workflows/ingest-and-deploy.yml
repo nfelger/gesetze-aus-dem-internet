@@ -44,7 +44,7 @@ jobs:
         DB_URI: postgresql://postgres:secret@postgres:5432/gadi
 
     - name: Cache downloaded data
-      uses: actions/cache@v2
+      uses: actions/cache@v4
       with:
         path: ${{ env.DATA_DIR }}
         key: downloaded-files
